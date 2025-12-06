@@ -35,7 +35,7 @@ def get_answer(query):
         index = pc.Index("tech-news") 
         genai.configure(api_key=GEMINI_KEY)
 
-        # 1. Embed Query
+        # 1. Embed Query (using the newer embedding model)
         query_embedding = genai.embed_content(
             model="models/text-embedding-004",
             content=query,
@@ -55,8 +55,10 @@ def get_answer(query):
             meta = match['metadata']
             context_text += f"- {meta['text']} (Source: {meta['source']})\n"
 
-        # 4. Generate Answer with Gemini
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        # 4. Generate Answer with Gemini 2.5 (The FIX)
+        # We use 'gemini-2.5-flash' because 1.5 is deprecated
+        model = genai.GenerativeModel('gemini-2.5-flash')
+        
         prompt = f"""
         You are a Tech News Analyst. Use the context below to answer the user's question.
         If the answer isn't in the news, say "I haven't seen news about that in the last 24 hours."
