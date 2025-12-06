@@ -1,7 +1,7 @@
 requests
 beautifulsoup4
 feedparser
-pinecone-client
+pinecone
 google-generativeai
 huggingface_hub
 pandas
