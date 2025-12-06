@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+feedparser
+pinecone-client
+google-generativeai
+huggingface_hub
+pandas
+streamlit
+python-dotenv
+lxml
