@@ -8,6 +8,8 @@ on:
 jobs:
   scrape-and-embed:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Critical: Allows the bot to push changes
     
     steps:
       - name: Checkout Code
@@ -28,3 +30,18 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           HF_REPO_ID: ${{ secrets.HF_REPO_ID }}
         run: python ingest_and_push.py
+        
+      # --- THIS SECTION MAKES THE GREEN SQUARES APPEAR ---
+      - name: Commit Log to GitHub
+        run: |
+          # 1. SET YOUR IDENTITY (You MUST change these two lines!)
+          git config --global user.name "shauryaverma03"
+          git config --global user.email "shauryaverma036@gmail.com"
+          
+          # 2. Update a dummy file with the current time
+          echo "Last successful run: $(date)" > last_run_log.txt
+          
+          # 3. Save and Push the change
+          git add last_run_log.txt
+          git commit -m "Hourly Data Update [Auto]" || echo "No changes to commit"
+          git push
