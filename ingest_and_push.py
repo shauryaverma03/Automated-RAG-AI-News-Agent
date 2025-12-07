@@ -1,4 +1,5 @@
 import os
+import json
 import feedparser
 import pandas as pd
 import google.generativeai as genai
@@ -119,48 +120,43 @@ def update_huggingface(df):
     except Exception as e:
         print(f"Hugging Face upload error: {e}")
 
-def save_to_markdown(df):
-    """Saves new articles to a local Markdown file (The Book)."""
-    print("📝 Writing to Knowledge Base...")
-    md_file = "knowledge_base.md"
+def save_to_json(df):
+    """Saves new articles to a local JSON file (The Data Book)."""
+    print("📝 Writing to JSON Knowledge Base...")
+    json_file = "knowledge_base.json"
     
-    # Check if file exists, if not create header
-    if not os.path.exists(md_file):
-        with open(md_file, "w") as f:
-            f.write("# 📚 The AI News Archive\n")
-            f.write(f"Started tracking: {datetime.now().strftime('%Y-%m-%d')}\n\n")
+    # 1. Load existing data
+    data = []
+    if os.path.exists(json_file):
+        try:
+            with open(json_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except json.JSONDecodeError:
+            data = []
     
-    # Read existing content to avoid duplicates (simple check)
-    with open(md_file, "r") as f:
-        content = f.read()
+    # 2. Check for duplicates using a set of links
+    existing_links = {item['link'] for item in data}
     
-    new_entries = ""
-    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M')
-    
+    new_count = 0
     for _, row in df.iterrows():
-        # Only add if title isn't already in the file
-        if row['title'] not in content:
-            entry = f"### {row['title']}\n"
-            entry += f"**Date:** {timestamp} | **Source:** {row['source']}\n\n"
-            entry += f"{row['summary']}\n\n"
-            entry += f"[Read Original Article]({row['link']})\n"
-            entry += "---\n\n"
-            new_entries += entry
+        if row['link'] not in existing_links:
+            # Convert row to dictionary and append
+            data.append(row.to_dict())
+            new_count += 1
             
-    if new_entries:
-        # Prepend new entries to the top (Log style) or Append (Book style)
-        # Here we append to keep it chronological
-        with open(md_file, "a") as f:
-            f.write(new_entries)
-        print(f"✅ Added new articles to {md_file}")
+    # 3. Save back to file
+    if new_count > 0:
+        with open(json_file, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4, default=str)
+        print(f"✅ Added {new_count} new articles to {json_file}")
     else:
-        print("ℹ️ No new articles to add to Markdown.")
+        print("ℹ️ No new articles to add to JSON.")
 
 if __name__ == "__main__":
     news_df = fetch_feeds()
     if not news_df.empty:
         update_pinecone(news_df)
         update_huggingface(news_df)
-        save_to_markdown(news_df) # <--- NEW STEP
+        save_to_json(news_df) # <--- UPDATED to use JSON
     else:
         print("No news found.")
