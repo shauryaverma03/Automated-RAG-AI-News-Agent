@@ -550,5 +550,45 @@
         "published": "Sun, 07 Dec 2025 13:21:24 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46181491\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/",
+        "title": "OpenAI says it\u2019s turned off app suggestions that look like ads",
+        "link": "https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/",
+        "published": "Sun, 07 Dec 2025 15:05:53 +0000",
+        "source": "TechCrunch",
+        "summary": "While OpenAI continues to insist that there are currently no ads \u2014 or tests for advertising \u2014 live in ChatGPT, the company\u2019s chief research officer also acknowledged that the company \u201cfell short\u201d with recent promotional messages."
+    },
+    {
+        "id": "https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast",
+        "title": "A very human vision for going all-in on AI",
+        "link": "https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast",
+        "published": "2025-12-07T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "It's easy to think about AI as a sort of existential battle between human and machine. Maybe it will be, someday, in a Skynet sort of way. But there are also lots of people trying to figure out how to use AI not as a replacement for human creativity and thinking but as a tool [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history",
+        "title": "What Google Glass got right \u2014 and really, really wrong",
+        "link": "https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history",
+        "published": "2025-12-07T09:17:43-05:00",
+        "source": "The Verge",
+        "summary": "Google didn't invent the concept of smart glasses, but it did help make them mainstream. In retrospect, 13 years after their launch, this is both a good and bad thing. Glass made a lot of people dream about new ways to use computers without staring down at screens all day. Glass also made a lot [&#8230;]"
+    },
+    {
+        "id": "https://gptzero.me/news/iclr-2026/",
+        "title": "At least 50 hallucinated citations found in ICLR 2026 submissions",
+        "link": "https://gptzero.me/news/iclr-2026/",
+        "published": "Sun, 07 Dec 2025 13:16:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46181466\">Comments</a>"
+    },
+    {
+        "id": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+        "title": "Google Titans architecture, helping AI have long-term memory",
+        "link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+        "published": "Sun, 07 Dec 2025 12:23:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46181231\">Comments</a>"
     }
 ]
