@@ -702,5 +702,45 @@
         "published": "Tue, 02 Dec 2025 06:50:17 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46118358\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/07/x-deactivates-european-commissions-ad-account-after-the-company-was-fined-e120m/",
+        "title": "X deactivates European Commission\u2019s ad account after the company was fined \u20ac120M",
+        "link": "https://techcrunch.com/2025/12/07/x-deactivates-european-commissions-ad-account-after-the-company-was-fined-e120m/",
+        "published": "Sun, 07 Dec 2025 19:27:13 +0000",
+        "source": "TechCrunch",
+        "summary": "X has seemingly penalized the European Commission's account after the commission fined the company over blue checkmarks and ad transparency."
+    },
+    {
+        "id": "https://www.engadget.com/ai/openais-head-of-chatgpt-says-posts-appearing-to-show-in-app-ads-are-not-real-or-not-ads-190454584.html?src=rss",
+        "title": "OpenAI\u2019s head of ChatGPT says posts appearing to show in-app ads are \u2018not real or not ads\u2019",
+        "link": "https://www.engadget.com/ai/openais-head-of-chatgpt-says-posts-appearing-to-show-in-app-ads-are-not-real-or-not-ads-190454584.html?src=rss",
+        "published": "Sun, 07 Dec 2025 19:04:54 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Those might not exactly be ads you're seeing on ChatGPT, at least according to OpenAI. Nick Turley, OpenAI's head of ChatGPT, clarified the confusion around potential ads appearing with the AI chatbot. In <a class=\"no-affiliate-link\" href=\"https://x.com/nickaturley/status/1997120491589349440?s=20\">a post on X</a>, Turley said &quot;there are no live tests for ads&quot; and that &quot;any screenshots you've seen are either not real or not ads.&quot; The OpenAI exec's explanation comes after <a"
+    },
+    {
+        "id": "https://gizmodo.com/skeet-ulrich-reveals-the-scream-reboots-original-endgame-2000696549",
+        "title": "Skeet Ulrich Reveals the \u2018Scream\u2019 Reboots\u2019 Original Endgame",
+        "link": "https://gizmodo.com/skeet-ulrich-reveals-the-scream-reboots-original-endgame-2000696549",
+        "published": "Sun, 07 Dec 2025 19:50:19 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"Scream Billy\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://gizmodo.com/app/uploads/2025/12/scream-billy.jpg\" width=\"1920\" /><br /><br />The former Billy Loomis speaks out on what his repeat hauntings would've led to in a different version of 'Scream 7.'"
+    },
+    {
+        "id": "https://gizmodo.com/x-claims-it-banned-the-european-commissions-ad-account-it-says-it-wasnt-using-ads-2000696517",
+        "title": "X Claims It Banned the European Commission\u2019s Ad Account. It Says It Wasn\u2019t Using Ads",
+        "link": "https://gizmodo.com/x-claims-it-banned-the-european-commissions-ad-account-it-says-it-wasnt-using-ads-2000696517",
+        "published": "Sun, 07 Dec 2025 19:16:02 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"Sign outside the European Commission in Brussels, Belgium\" class=\"attachment-full size-full wp-post-image\" height=\"1000\" src=\"https://gizmodo.com/app/uploads/2025/12/European-Commission.jpg\" width=\"1500\" /><br /><br />X's clapback came after the Commission fined it $140 million. The gesture appears to be toothless."
+    },
+    {
+        "id": "https://thorsell.io/2025/12/07/estimates.html",
+        "title": "Estimates are difficult for developers and product owners",
+        "link": "https://thorsell.io/2025/12/07/estimates.html",
+        "published": "Sun, 07 Dec 2025 19:17:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46184229\">Comments</a>"
     }
 ]
