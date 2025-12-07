@@ -31,17 +31,19 @@ jobs:
           HF_REPO_ID: ${{ secrets.HF_REPO_ID }}
         run: python ingest_and_push.py
         
-      # --- THIS SECTION MAKES THE GREEN SQUARES APPEAR ---
-      - name: Commit Log to GitHub
+      # --- SAVE THE JSON BOOK TO GITHUB ---
+      - name: Commit JSON Data
         run: |
           # 1. SET YOUR IDENTITY (You MUST change these two lines!)
           git config --global user.name "shauryaverma03"
           git config --global user.email "shauryaverma036@gmail.com"
           
-          # 2. Update a dummy file with the current time
-          echo "Last successful run: $(date)" > last_run_log.txt
+          # 2. Pull latest changes to avoid conflicts
+          git pull
           
-          # 3. Save and Push the change
-          git add last_run_log.txt
-          git commit -m "Hourly Data Update [Auto]" || echo "No changes to commit"
+          # 3. Add the JSON Knowledge Base file
+          git add knowledge_base.json
+          
+          # 4. Commit and Push
+          git commit -m "📚 Added new articles to JSON Data" || echo "No news to commit"
           git push
