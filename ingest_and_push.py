@@ -7,7 +7,6 @@ from huggingface_hub import HfApi, hf_hub_download
 from datetime import datetime
 
 # --- CONFIGURATION ---
-# 15 High-Quality Tech RSS Feeds
 RSS_FEEDS = [
     "https://techcrunch.com/feed/",
     "https://www.theverge.com/rss/index.xml",
@@ -26,23 +25,22 @@ RSS_FEEDS = [
     "https://www.technologyreview.com/feed/"
 ]
 
-# Load Keys from Environment (GitHub Secrets)
+# Load Keys
 PINECONE_KEY = os.getenv("PINECONE_API_KEY")
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 HF_TOKEN = os.getenv("HF_TOKEN")
 HF_REPO_ID = os.getenv("HF_REPO_ID")
 
 def fetch_feeds():
-    """Scrapes RSS feeds and cleans data."""
+    """Scrapes RSS feeds."""
     articles = []
     print("📡 Scanning feeds...")
     for url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
-            # Take top 5 newest articles from each site
             for entry in feed.entries[:5]:
                 published = entry.get("published", str(datetime.now()))
-                summary = entry.get("summary", "")[:500] # Shorten summary
+                summary = entry.get("summary", "")[:500]
                 
                 articles.append({
                     "id": entry.link, 
@@ -55,14 +53,13 @@ def fetch_feeds():
         except Exception as e:
             print(f"⚠️ Error fetching {url}: {e}")
     
-    # Remove duplicates
     df = pd.DataFrame(articles)
     if not df.empty:
         df.drop_duplicates(subset="link", keep="first", inplace=True)
     return df
 
 def update_pinecone(df):
-    """Hot Storage: Updates Vector DB for the App."""
+    """Updates Vector DB."""
     print("🌲 Updating Pinecone...")
     try:
         pc = Pinecone(api_key=PINECONE_KEY)
@@ -72,17 +69,13 @@ def update_pinecone(df):
         vectors = []
         for _, row in df.iterrows():
             try:
-                # Create text chunk for embedding
                 text = f"{row['title']} - {row['summary']}"
-                
-                # Generate Embedding
                 emb = genai.embed_content(
                     model="models/text-embedding-004",
                     content=text,
                     task_type="retrieval_document"
                 )['embedding']
                 
-                # Metadata for the app to display
                 meta = {
                     "text": text,
                     "url": row['link'],
@@ -93,31 +86,27 @@ def update_pinecone(df):
             except Exception as e:
                 print(f"Embedding error: {e}")
 
-        # Upload in batches
         if vectors:
             index.upsert(vectors=vectors)
             print(f"✅ Indexed {len(vectors)} articles.")
     except Exception as e:
-        print(f"Pinecone connection error: {e}")
+        print(f"Pinecone error: {e}")
 
 def update_huggingface(df):
-    """Cold Storage: Archives data for future training."""
-    print("🤗 Archiving to Hugging Face...")
+    """Archives to Hugging Face."""
+    print("🤗 Archiving...")
     try:
         api = HfApi(token=HF_TOKEN)
         file_name = "daily_news.csv"
         
-        # 1. Download existing data (if any)
         try:
             path = hf_hub_download(repo_id=HF_REPO_ID, filename=file_name, repo_type="dataset", token=HF_TOKEN)
             existing_df = pd.read_csv(path)
-            # Combine and remove duplicates
             combined_df = pd.concat([existing_df, df]).drop_duplicates(subset="link")
         except:
             print("ℹ️ Creating new dataset file.")
             combined_df = df
 
-        # 2. Save and Upload
         combined_df.to_csv(file_name, index=False)
         api.upload_file(
             path_or_fileobj=file_name,
@@ -130,10 +119,48 @@ def update_huggingface(df):
     except Exception as e:
         print(f"Hugging Face upload error: {e}")
 
+def save_to_markdown(df):
+    """Saves new articles to a local Markdown file (The Book)."""
+    print("📝 Writing to Knowledge Base...")
+    md_file = "knowledge_base.md"
+    
+    # Check if file exists, if not create header
+    if not os.path.exists(md_file):
+        with open(md_file, "w") as f:
+            f.write("# 📚 The AI News Archive\n")
+            f.write(f"Started tracking: {datetime.now().strftime('%Y-%m-%d')}\n\n")
+    
+    # Read existing content to avoid duplicates (simple check)
+    with open(md_file, "r") as f:
+        content = f.read()
+    
+    new_entries = ""
+    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M')
+    
+    for _, row in df.iterrows():
+        # Only add if title isn't already in the file
+        if row['title'] not in content:
+            entry = f"### {row['title']}\n"
+            entry += f"**Date:** {timestamp} | **Source:** {row['source']}\n\n"
+            entry += f"{row['summary']}\n\n"
+            entry += f"[Read Original Article]({row['link']})\n"
+            entry += "---\n\n"
+            new_entries += entry
+            
+    if new_entries:
+        # Prepend new entries to the top (Log style) or Append (Book style)
+        # Here we append to keep it chronological
+        with open(md_file, "a") as f:
+            f.write(new_entries)
+        print(f"✅ Added new articles to {md_file}")
+    else:
+        print("ℹ️ No new articles to add to Markdown.")
+
 if __name__ == "__main__":
     news_df = fetch_feeds()
     if not news_df.empty:
         update_pinecone(news_df)
         update_huggingface(news_df)
+        save_to_markdown(news_df) # <--- NEW STEP
     else:
         print("No news found.")
