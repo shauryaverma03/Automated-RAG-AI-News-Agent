@@ -614,5 +614,53 @@
         "published": "Sun, 07 Dec 2025 12:31:53 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46181268\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/",
+        "title": "The accelerator is on the floor for autonomous vehicles",
+        "link": "https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/",
+        "published": "Sun, 07 Dec 2025 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation."
+    },
+    {
+        "id": "https://mashable.com/video/snl-melissa-mccarthy-free-sample",
+        "title": "SNL free sample sketch has Melissa McCarthy crossing Jeremy Culhanes boundaries",
+        "link": "https://mashable.com/video/snl-melissa-mccarthy-free-sample",
+        "published": "Sun, 07 Dec 2025 15:59:43 +0000",
+        "source": "Mashable",
+        "summary": "SNL host Melissa McCarthy and cast member Jeremy Culhane share an intimate moment over free cheese."
+    },
+    {
+        "id": "https://mashable.com/video/snl-melissa-mccarthy-homicidal-neighbor-christmas",
+        "title": "Melissa McCarthy takes the Christmas spirit too far in SNL sketch",
+        "link": "https://mashable.com/video/snl-melissa-mccarthy-homicidal-neighbor-christmas",
+        "published": "Sun, 07 Dec 2025 15:51:31 +0000",
+        "source": "Mashable",
+        "summary": "Host Melissa McCarthy takes the term \"Helping Hand\" a little too far."
+    },
+    {
+        "id": "https://mashable.com/video/snl-pete-hegseth-donald-trump-cold-open",
+        "title": "Defense Secretary Pete Hegseth addresses Venezuelan attack in SNL cold open",
+        "link": "https://mashable.com/video/snl-pete-hegseth-donald-trump-cold-open",
+        "published": "Sun, 07 Dec 2025 15:42:30 +0000",
+        "source": "Mashable",
+        "summary": "Weekend Update host Colin Jost returns as dude-bro Secretary of War Pete Hegseth."
+    },
+    {
+        "id": "https://readwrite.com/does-betting-world-skew-male-gender-gap/",
+        "title": "Does the betting world skew male? Inside the industry\u2019s growing gender imbalance",
+        "link": "https://readwrite.com/does-betting-world-skew-male-gender-gap/",
+        "published": "Sun, 07 Dec 2025 11:00:03 +0000",
+        "source": "ReadWrite",
+        "summary": "<div><img alt=\"Does the betting world skew male? A woman and a man sit side by side at a desk, looking at their smartphones over open notebooks, suggesting they are comparing information or engaging in an online activity together.\" class=\"attachment-medium size-medium wp-post-image\" height=\"200\" src=\"https://readwrite.com/wp-content/uploads/2025/11/Does-the-betting-world-skew-male-300x200.png\" style=\"width: 100%; height: 66.67%; margin-bottom: 15px;\" width=\"300\" /></div>\n<p>The betting and gambl"
+    },
+    {
+        "id": "https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html",
+        "title": "Scala 3 slowed us down?",
+        "link": "https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html",
+        "published": "Sun, 07 Dec 2025 15:08:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46182202\">Comments</a>"
     }
 ]
