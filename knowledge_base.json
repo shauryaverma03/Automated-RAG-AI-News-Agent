@@ -478,5 +478,53 @@
         "published": "Thu, 04 Dec 2025 19:54:57 +0000",
         "source": "MIT Technology Review",
         "summary": "In 2024, a Democratic congressional candidate in Pennsylvania, Shamaine Daniels, used an AI chatbot named Ashley to call voters and carry on conversations with them. \u201cHello. My name is Ashley, and I\u2019m an artificial intelligence volunteer for Shamaine Daniels\u2019s run for Congress,\u201d the calls began. Daniels didn\u2019t ultimately win. But maybe those calls helped her&#8230;"
+    },
+    {
+        "id": "https://www.theverge.com/column/837202/starlink-work-from-home",
+        "title": "Starlink made \u2018work from home\u2019 possible from anywhere \u2014 now, I&#8217;m ready for a change",
+        "link": "https://www.theverge.com/column/837202/starlink-work-from-home",
+        "published": "2025-12-07T08:00:00-05:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started I've worked from home for 20 years. In that time, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer",
+        "title": "An all-time great game makes a comeback",
+        "link": "https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer",
+        "published": "2025-12-07T08:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Hi, friends! Welcome to Installer No. 108, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your holiday shopping is going well, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Ariana Grande and pelvic floors and [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-printers/",
+        "title": "The Best Printers for Home and Office: Brother, HP, and More",
+        "link": "https://www.wired.com/gallery/best-printers/",
+        "published": "Sun, 07 Dec 2025 13:00:00 +0000",
+        "source": "WIRED",
+        "summary": "It's a boring tool, but you need one. Here are the best home printers we have tested, from ink tank to lasers."
+    },
+    {
+        "id": "https://www.wired.com/story/gifts-for-book-lovers/",
+        "title": "The Best Gifts for Book Lovers (2025): E-Readers, Cozy Accessories, Book Sets",
+        "link": "https://www.wired.com/story/gifts-for-book-lovers/",
+        "published": "Sun, 07 Dec 2025 12:33:00 +0000",
+        "source": "WIRED",
+        "summary": "Any one of these gift ideas will make your favorite bookworm very happy, from e-readers and accessories to cozy reading essentials."
+    },
+    {
+        "id": "https://arstechnica.com/science/2025/12/why-is-my-dog-like-this-current-dna-tests-wont-explain-it-to-you/",
+        "title": "Why is my dog like this? Current DNA tests won\u2019t explain it to you.",
+        "link": "https://arstechnica.com/science/2025/12/why-is-my-dog-like-this-current-dna-tests-wont-explain-it-to-you/",
+        "published": "Sun, 07 Dec 2025 12:08:58 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Dog behavior is a lot more complicated than any one gene variant."
+    },
+    {
+        "id": "https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html",
+        "title": "Java Hello World, LLVM Edition",
+        "link": "https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html",
+        "published": "Sun, 07 Dec 2025 11:51:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46181076\">Comments</a>"
     }
 ]
