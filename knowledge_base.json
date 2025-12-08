@@ -1014,5 +1014,29 @@
         "published": "Fri, 05 Dec 2025 13:56:34 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46161328\">Comments</a>"
+    },
+    {
+        "id": "https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html",
+        "title": "Applets Are Officially Gone, but Java in the Browser Is Better",
+        "link": "https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html",
+        "published": "Mon, 08 Dec 2025 08:16:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46189704\">Comments</a>"
+    },
+    {
+        "id": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+        "title": "GitHub Actions Has a Package Manager, and It Might Be the Worst",
+        "link": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+        "published": "Mon, 08 Dec 2025 08:15:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46189692\">Comments</a>"
+    },
+    {
+        "id": "https://www.artificialintelligence-news.com/news/agentic-ai-smartphones-enterprise-adoption/",
+        "title": "Agentic AI smartphones: ByteDance signals opportunity beyond consumer hype",
+        "link": "https://www.artificialintelligence-news.com/news/agentic-ai-smartphones-enterprise-adoption/",
+        "published": "Mon, 08 Dec 2025 09:00:00 +0000",
+        "source": "AI News",
+        "summary": "<p>ByteDance&#8217;s December 2 launch of an agentic AI smartphone prototype with ZTE sparked immediate consumer enthusiasm \u2013 and just as quickly triggered privacy concerns that forced the company to dial back capabilities. But beneath the headline-grabbing sell-out and subsequent controversy lies a more significant story: the enterprise implications of operating-system-level AI agents that can autonomously [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/agent"
     }
 ]
