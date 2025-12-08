@@ -846,5 +846,61 @@
         "published": "Sun, 07 Dec 2025 22:18:59 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46185816\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house",
+        "title": "You need to watch the modern horror masterpiece, His House",
+        "link": "https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house",
+        "published": "2025-12-07T20:45:45-05:00",
+        "source": "The Verge",
+        "summary": "There's an argument to be made that \"the real monster is trauma\" has become an overused trope in modern horror. Hereditary, The Babadook, and, much less effectively, Smile, are just a few higher-profile examples. But, if you ask me, few films have deployed this trope quite as effectively as the 2020 film His House. The [&#8230;]"
+    },
+    {
+        "id": "https://www.zdnet.com/article/i-made-my-airtag-last-a-decade-on-one-battery-heres-the-uncomfortable-truth/",
+        "title": "I made my AirTag last a decade on one battery - here's the uncomfortable truth",
+        "link": "https://www.zdnet.com/article/i-made-my-airtag-last-a-decade-on-one-battery-heres-the-uncomfortable-truth/",
+        "published": "Mon, 08 Dec 2025 02:01:00 GMT",
+        "source": "Latest news",
+        "summary": "I have over a dozen AirTags in use, and my biggest problem is having to change the batteries every year or so. Here's the quick fix."
+    },
+    {
+        "id": "https://www.zdnet.com/article/nextool-pocket-tool-e1-review/",
+        "title": "Finally, a reliable multitool for under $30 and doesn't feel like junk",
+        "link": "https://www.zdnet.com/article/nextool-pocket-tool-e1-review/",
+        "published": "Mon, 08 Dec 2025 01:55:00 GMT",
+        "source": "Latest news",
+        "summary": "I typically go for higher-end multitools, but the NexTool E1 stood out for its durable design and surprisingly accessible price."
+    },
+    {
+        "id": "https://www.zdnet.com/article/hsftools-hf96v-thermal-camera-review/",
+        "title": "I checked my GFCI breaker with a $220 thermal camera - and it proved me wrong (in the best way)",
+        "link": "https://www.zdnet.com/article/hsftools-hf96v-thermal-camera-review/",
+        "published": "Mon, 08 Dec 2025 01:51:00 GMT",
+        "source": "Latest news",
+        "summary": "I used to dismiss thermal cameras as a gimmick - now I rely on one daily as an essential tool in my fix-it kit."
+    },
+    {
+        "id": "https://www.zdnet.com/article/i-invested-in-samsungs-1800-xr-headset-to-replace-my-dual-monitors-and-its-paying-off-big-time/",
+        "title": "I invested in Samsung's $1,800 XR headset to replace my dual monitors - and it's paying off big time",
+        "link": "https://www.zdnet.com/article/i-invested-in-samsungs-1800-xr-headset-to-replace-my-dual-monitors-and-its-paying-off-big-time/",
+        "published": "Mon, 08 Dec 2025 01:47:00 GMT",
+        "source": "Latest news",
+        "summary": "With the right setup, Samsung's Galaxy XR headset becomes a true productivity machine."
+    },
+    {
+        "id": "https://www.zdnet.com/article/tv-usb-port-hidden-superpowers/",
+        "title": "I discovered my TV's USB port has 5 hidden benefits (and wish I knew sooner)",
+        "link": "https://www.zdnet.com/article/tv-usb-port-hidden-superpowers/",
+        "published": "Mon, 08 Dec 2025 01:44:00 GMT",
+        "source": "Latest news",
+        "summary": "It turns out, your TV's old but reliable USB port can do more than just broadcast local content."
+    },
+    {
+        "id": "https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003",
+        "title": "Uninitialized garbage on ia64 can be deadly (2004)",
+        "link": "https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003",
+        "published": "Thu, 04 Dec 2025 13:11:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46147285\">Comments</a>"
     }
 ]
