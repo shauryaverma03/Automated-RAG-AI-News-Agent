@@ -4,8 +4,8 @@
 
 ## 🤗 Hugging Face Profile & Dataset
 
-- **Check my Hugging Face profile:** [https://huggingface.co/your-hf-username](https://huggingface.co/your-hf-username)
-- **Directly download the dataset:** [https://huggingface.co/datasets/your-dataset-path](https://huggingface.co/datasets/your-dataset-path)
+- **Check my Hugging Face profile:** [https://huggingface.co/shaurya03](https://huggingface.co/shaurya03)
+- **Directly download the dataset:** [https://huggingface.co/datasets/shaurya03/tech-news-daily](https://huggingface.co/datasets/shaurya03/tech-news-daily)
 
 ---
 
