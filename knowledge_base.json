@@ -998,5 +998,21 @@
         "published": "Mon, 08 Dec 2025 01:47:11 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46187387\">Comments</a>"
+    },
+    {
+        "id": "https://mashable.com/article/cleaning-gadgets-home-robot-vaccum-electric-scrubber",
+        "title": "7 gadgets to help keep your home clean, from robot vacuums to electric scrubbers",
+        "link": "https://mashable.com/article/cleaning-gadgets-home-robot-vaccum-electric-scrubber",
+        "published": "Mon, 08 Dec 2025 07:25:02 +0000",
+        "source": "Mashable",
+        "summary": "Underrated and overlooked cleaning gadgets to help keep your home spotless, from robot vacuums to electric scrubbers."
+    },
+    {
+        "id": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
+        "title": "Emacs is my new window manager",
+        "link": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
+        "published": "Fri, 05 Dec 2025 13:56:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46161328\">Comments</a>"
     }
 ]
