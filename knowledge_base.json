@@ -2654,5 +2654,93 @@
         "published": "Mon, 08 Dec 2025 21:20:00 GMT",
         "source": "Latest news",
         "summary": "The fewer entry points you leave open, the more secure your smart home will be. Here's my guide."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/08/ftc-upholds-ban-on-stalkerware-founder-scott-zuckerman/",
+        "title": "FTC upholds ban on stalkerware founder Scott Zuckerman",
+        "link": "https://techcrunch.com/2025/12/08/ftc-upholds-ban-on-stalkerware-founder-scott-zuckerman/",
+        "published": "Mon, 08 Dec 2025 22:47:59 +0000",
+        "source": "TechCrunch",
+        "summary": "Zuckerman, who used to run the stalkerware apps SpyFone and SpyTrac, claimed the ban is hurting his unrelated business."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/08/softbank-and-nvidia-reportedly-in-talks-to-fund-skildai-at-14b-nearly-tripling-its-value/",
+        "title": "SoftBank and Nvidia reportedly in talks to fund Skild AI at $14B, nearly tripling its value",
+        "link": "https://techcrunch.com/2025/12/08/softbank-and-nvidia-reportedly-in-talks-to-fund-skildai-at-14b-nearly-tripling-its-value/",
+        "published": "Mon, 08 Dec 2025 22:30:32 +0000",
+        "source": "TechCrunch",
+        "summary": "Skild AI is developing a hardware-agnostic foundation model for robots that can be customized for various uses."
+    },
+    {
+        "id": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+        "title": "The best iPad deals you can get right now",
+        "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+        "published": "2025-12-08T17:25:02-05:00",
+        "source": "The Verge",
+        "summary": "While the best iPad deals usually land during major sale events like Black Friday and Amazon Prime Day,&#160;many great iPad deals are available outside of those times. The day-to-day discounts come and go like changing winds, so there\u2019s often some amount to be saved, particularly on Apple\u2019s most affordable iPad, the iPad Mini, and the [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/the-military-almost-got-the-right-to-repair-lawmakers-just-took-it-away/",
+        "title": "The Military Almost Got the Right to Repair. Lawmakers Just Took It Away",
+        "link": "https://www.wired.com/story/the-military-almost-got-the-right-to-repair-lawmakers-just-took-it-away/",
+        "published": "Mon, 08 Dec 2025 22:12:03 +0000",
+        "source": "WIRED",
+        "summary": "The final language of the annual bill that funds the US military is in. It removes provisions that would have helped ensure service members\u2019 ability to fix their own equipment."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/",
+        "title": "ICEBlock lawsuit: Trump admin bragged about demanding App Store removal",
+        "link": "https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/",
+        "published": "Mon, 08 Dec 2025 21:54:58 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "ICEBlock creator sues to protect apps that are crowd-sourcing ICE sightings."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/katsuhiro-harada-is-leaving-bandai-namco-after-30-years-223156258.html?src=rss",
+        "title": "Katsuhiro Harada is leaving Bandai Namco after 30 years",
+        "link": "https://www.engadget.com/gaming/katsuhiro-harada-is-leaving-bandai-namco-after-30-years-223156258.html?src=rss",
+        "published": "Mon, 08 Dec 2025 22:31:56 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Katsuhiro Harada is departing Bandai Namco at the end of 2025. He announced the news both with a farewell <a class=\"link\" href=\"https://x.com/Harada_TEKKEN/status/1997952347709034747\" target=\"_blank\">note</a> shared on X and, in possibly the coolest exit ever, with an hour-long DJ mix. Harada's 30-year career has most closely been involved with <em>Tekken</em> and he's a familiar face in the fighting game community.</p><p>He began as a voice actor in the original <em>Tekken</em> game and cont"
+    },
+    {
+        "id": "https://gizmodo.com/kotor-ii-remake-aspyr-lucasfilm-star-wars-2000697000",
+        "title": "Forget the \u2018Knights of the Old Republic\u2019 Remake, There Might Be a \u2018KOTOR II\u2019 Remake Too",
+        "link": "https://gizmodo.com/kotor-ii-remake-aspyr-lucasfilm-star-wars-2000697000",
+        "published": "Mon, 08 Dec 2025 22:00:58 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"Kotor 2 Cover\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://gizmodo.com/app/uploads/2025/12/kotor-2-cover.jpg\" width=\"1920\" /><br /><br />The *other* One of the Best 'Star Wars' Games of All Time was planned to get the remake treatment\u2014but whether it still is remains to be seen."
+    },
+    {
+        "id": "https://mashable.com/article/chatgpt-grocery-delivery-instacart",
+        "title": "You can now buy groceries in ChatGPT",
+        "link": "https://mashable.com/article/chatgpt-grocery-delivery-instacart",
+        "published": "Mon, 08 Dec 2025 22:04:44 +0000",
+        "source": "Mashable",
+        "summary": "OpenAI's chatbot will now allow you to buy groceries via Instacart right in the app."
+    },
+    {
+        "id": "https://mashable.com/article/tesla-optimus-robot-falls-appears-teleoperated-at-event",
+        "title": "Tesla Optimus robot falls over, goes viral",
+        "link": "https://mashable.com/article/tesla-optimus-robot-falls-appears-teleoperated-at-event",
+        "published": "Mon, 08 Dec 2025 21:53:53 +0000",
+        "source": "Mashable",
+        "summary": "Watch Tesla's Optimus robot tip over while removing a phantom headset."
+    },
+    {
+        "id": "https://www.medrxiv.org/content/10.64898/2025.12.03.25341583v1",
+        "title": "Doctors' estimates of the feasibility of preserving the dying for future revival",
+        "link": "https://www.medrxiv.org/content/10.64898/2025.12.03.25341583v1",
+        "published": "Mon, 08 Dec 2025 22:06:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46198294\">Comments</a>"
+    },
+    {
+        "id": "https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/",
+        "title": "Delivery Robots Take over Chicago Sidewalks, Sparking Debate and a Petition",
+        "link": "https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/",
+        "published": "Mon, 08 Dec 2025 21:27:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46197875\">Comments</a>"
     }
 ]
