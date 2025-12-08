@@ -2,6 +2,13 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-shauryaverma03%2FAutomated--RAG--AI--News--Agent-blue)](https://github.com/shauryaverma03/Automated-RAG-AI-News-Agent)
 
+## 🤗 Hugging Face Profile & Dataset
+
+- **Check my Hugging Face profile:** [https://huggingface.co/your-hf-username](https://huggingface.co/your-hf-username)
+- **Directly download the dataset:** [https://huggingface.co/datasets/your-dataset-path](https://huggingface.co/datasets/your-dataset-path)
+
+---
+
 Welcome to **Automated-RAG-AI-News-Agent**! This Python-powered project brings together the latest advances in Retrieval-Augmented Generation (RAG) with automated news gathering and summarization.  
 Whether you're a developer, data scientist, or news enthusiast, this agent makes it easy to collect, analyze, and summarize news with just a few steps.  
 
