@@ -2894,5 +2894,21 @@
         "published": "Tue, 09 Dec 2025 03:00:33 GMT",
         "source": "Latest news",
         "summary": "A feature hidden in your iPhone settings offers a solution to one of the most challenging aspects of switching music streaming services."
+    },
+    {
+        "id": "https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-december-9",
+        "title": "NYT Pips hints, answers for December 9, 2025",
+        "link": "https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-december-9",
+        "published": "Tue, 09 Dec 2025 03:50:44 +0000",
+        "source": "Mashable",
+        "summary": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck."
+    },
+    {
+        "id": "https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/",
+        "title": "The web runs on tolerance",
+        "link": "https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/",
+        "published": "Thu, 04 Dec 2025 14:45:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46148202\">Comments</a>"
     }
 ]
