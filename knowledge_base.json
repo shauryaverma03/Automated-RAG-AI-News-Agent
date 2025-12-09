@@ -3606,5 +3606,229 @@
         "published": "Tue, 09 Dec 2025 11:58:02 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46203948\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/09/anthropic-and-accenture-sign-multi-year-ai-strategic-partnership/",
+        "title": "Anthropic and Accenture sign multi-year AI\u00a0strategic partnership",
+        "link": "https://techcrunch.com/2025/12/09/anthropic-and-accenture-sign-multi-year-ai-strategic-partnership/",
+        "published": "Tue, 09 Dec 2025 15:02:35 +0000",
+        "source": "TechCrunch",
+        "summary": "The two companies are launching the Accenture Anthropic Business Group to bring Anthropic's AI to Accenture's employees."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/",
+        "title": "Pebble\u2019s founder introduces a $75 AI smart ring for recording brief notes with a press of a button",
+        "link": "https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/",
+        "published": "Tue, 09 Dec 2025 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "After rebooting the Pebble smartwatch, founder Eric Migicovsky is expanding his company's device lineup with a new smart wearable: an AI-powered smart ring known as Index 01. Named for the finger where the ring is meant to be worn, the new $75 ring is not meant to be a competitor to the always-on, always-listening AI devices, like the AI pendant Friend, but instead offers a way to record quick notes and reminders with a press of a button on the ring's side.\n\nAI only comes into play via the open "
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/09/spotify-launches-music-videos-in-the-u-s-and-canada-for-premium-subscribers/",
+        "title": "Spotify launches music videos in the U.S. and Canada for Premium subscribers",
+        "link": "https://techcrunch.com/2025/12/09/spotify-launches-music-videos-in-the-u-s-and-canada-for-premium-subscribers/",
+        "published": "Tue, 09 Dec 2025 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Spotify will let you switch between music videos and audio at any time."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/09/mistral-ai-surfs-vibe-coding-tailwinds-with-new-coding-models/",
+        "title": "Mistral AI surfs vibe coding tailwinds with new coding models",
+        "link": "https://techcrunch.com/2025/12/09/mistral-ai-surfs-vibe-coding-tailwinds-with-new-coding-models/",
+        "published": "Tue, 09 Dec 2025 14:45:00 +0000",
+        "source": "TechCrunch",
+        "summary": "French AI startup Mistral today launched Devstral 2, a new generation of its AI model designed for coding, as the company seeks to catch up to bigger AI labs like Anthropic and other coding-focused LLMs."
+    },
+    {
+        "id": "https://www.theverge.com/news/840308/spotify-music-videos-beta-us-canada",
+        "title": "Spotify\u2019s music videos feature arrives in the US and Canada",
+        "link": "https://www.theverge.com/news/840308/spotify-music-videos-beta-us-canada",
+        "published": "2025-12-09T10:01:00-05:00",
+        "source": "The Verge",
+        "summary": "Spotify is launching its beta music videos feature to Premium subscribers in the US and Canada today, over a year after it rolled out to Premium users in other regions. If you have a Spotify Premium subscription, you should now begin seeing an option to \"Switch to video\" on some tracks on the iOS, Android, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/840352/pebble-index-smart-ring-launch-price",
+        "title": "The next Pebble gadget is the Index 01, a ring with a microphone",
+        "link": "https://www.theverge.com/gadgets/840352/pebble-index-smart-ring-launch-price",
+        "published": "2025-12-09T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Eric Migicovsky, the founder of Pebble and the person leading its recent comeback, is very much in the business of making gadgets for himself. And he seems extremely into the one on his finger: It's called the Pebble Index 01 (but we'll just call it Index), and it's a $75 ring meant to be worn [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/840579/amazon-alexa-plus-shopping-features-automatic-purchase",
+        "title": "Alexa Plus can automatically buy stuff when the price drops",
+        "link": "https://www.theverge.com/news/840579/amazon-alexa-plus-shopping-features-automatic-purchase",
+        "published": "2025-12-09T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Amazon is launching Alexa Plus shopping features that make it easier to track your orders and avoid missing out on deals. The AI-powered Alexa Plus assistant - like Amazon's Rufus chatbot - can proactively track products to tell you when they've dropped to a specific price, and automatically purchase them when they fall below the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/840632/ford-renault-cheap-ev-europe",
+        "title": "Ford taps Renault for help building cheap EVs in Europe",
+        "link": "https://www.theverge.com/news/840632/ford-renault-cheap-ev-europe",
+        "published": "2025-12-09T09:59:36-05:00",
+        "source": "The Verge",
+        "summary": "Ford is teaming up with France's Renault to design and produce affordable electric vehicles for the European market, with the goal of turning around the Blue Oval's struggling business on the continent. The move comes as cheap Chinese-made EVs have flooded Europe, snatching away market share from long-established players. Ford will use Renault's Ampere platform [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/840622/google-pixel-9-pro-xl-display-issues-repair-program-fold-extended-warranty",
+        "title": "Google will repair Pixel 9 Pro phones with display issues",
+        "link": "https://www.theverge.com/news/840622/google-pixel-9-pro-xl-display-issues-repair-program-fold-extended-warranty",
+        "published": "2025-12-09T09:57:42-05:00",
+        "source": "The Verge",
+        "summary": "Google announced a new \"extended repair program\" for the Pixel 9 Pro and Pixel 9 Pro XL smartphones yesterday after it confirmed display issues with a \"limited number\" of devices, as spotted by 9to5Google. The company is doing the same for the Pixel 9 Pro Fold, although Google didn't specify what's wrong with it other [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/pebble-index-ring/",
+        "title": "Pebble Index: Everything You Need to Know About the $75 Smart Ring",
+        "link": "https://www.wired.com/story/pebble-index-ring/",
+        "published": "Tue, 09 Dec 2025 15:00:00 +0000",
+        "source": "WIRED",
+        "summary": "You can speak into the Pebble Index to have it remember things or set reminders, timers, and tasks. No cloud processing, no subscription, and best of all, no charging."
+    },
+    {
+        "id": "https://www.wired.com/story/jess-king-wellness-starter-pack/",
+        "title": "What Peloton Instructor Jess King Needs to Survive the Day",
+        "link": "https://www.wired.com/story/jess-king-wellness-starter-pack/",
+        "published": "Tue, 09 Dec 2025 14:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Peloton star, DJ, and mom Jess King shares the wellness gear that fuels her nonstop hustle."
+    },
+    {
+        "id": "https://www.engadget.com/deals/our-favorite-anker-magsafe-power-bank-is-34-percent-off-right-now-151039224.html?src=rss",
+        "title": "Our favorite Anker MagSafe power bank is 34 percent off right now",
+        "link": "https://www.engadget.com/deals/our-favorite-anker-magsafe-power-bank-is-34-percent-off-right-now-151039224.html?src=rss",
+        "published": "Tue, 09 Dec 2025 15:10:39 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Holiday travel is almost upon us and, while it likely won't be something out of a Richard Curtis film, there are ways to make it easier. You can raid our list of <a href=\"https://www.engadget.com/the-best-travel-gifts-for-2025-141009086.html\">best travel gifts for 2025</a> and pick up <a href=\"https://www.engadget.com/computing/accessories/best-magsafe-power-banks-120015338.html\">our favorite MagSafe power bank</a>: <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantI"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/music/spotify-finally-brings-music-videos-to-the-us-150037974.html?src=rss",
+        "title": "Spotify finally brings music videos to the US",
+        "link": "https://www.engadget.com/entertainment/music/spotify-finally-brings-music-videos-to-the-us-150037974.html?src=rss",
+        "published": "Tue, 09 Dec 2025 15:00:37 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Spotify is finally letting the United States join its music video party. Music Videos have started <a href=\"https://newsroom.spotify.com/2025-12-09/music-videos-beta-premium-us-canada\">rolling out</a> in beta today to Premium users across the US and Canada, offering not only official artist videos but also new formats like live performances and covers.</p>\n<p>Music Videos <a href=\"https://www.engadget.com/spotify-adds-music-videos-in-11-countries-but-not-the-us-120002692.html\">first arrived</"
+    },
+    {
+        "id": "https://www.engadget.com/ai/amazon-is-rolling-out-new-shopping-features-for-alexa-because-of-course-it-is-150000355.html?src=rss",
+        "title": "Amazon is rolling out new shopping features for Alexa+, because of course it is",
+        "link": "https://www.engadget.com/ai/amazon-is-rolling-out-new-shopping-features-for-alexa-because-of-course-it-is-150000355.html?src=rss",
+        "published": "Tue, 09 Dec 2025 15:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Congrats to any budding Nostradamus out there who peered into the future to boldly predict that Amazon would bring more shopping features to <a class=\"link\" href=\"https://www.engadget.com/ai/amazon-alexa-is-now-available-in-canada-050827689.html\" target=\"_blank\">Alexa+</a> sooner rather than later. A gold star for you. Yes, it hasn't taken too long for Amazon to weave more features into the generative AI-powered version of Alexa that are designed to get you to buy more stuff.</p><p>Shopping f"
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/texas-authorities-have-made-multiple-arrests-in-an-nvidia-gpu-smuggling-operation-144749526.html?src=rss",
+        "title": "Texas authorities have made multiple arrests in an NVIDIA GPU smuggling operation",
+        "link": "https://www.engadget.com/big-tech/texas-authorities-have-made-multiple-arrests-in-an-nvidia-gpu-smuggling-operation-144749526.html?src=rss",
+        "published": "Tue, 09 Dec 2025 14:47:49 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The Southern District of Texas <a href=\"https://www.justice.gov/usao-sdtx/pr/us-authorities-shut-down-major-china-linked-ai-tech-smuggling-network\"><ins>announced</ins></a> the seizure of more than $50 million in NVIDIA GPUs bound for China in violation of US export laws. Authorities arrested two businessmen, one of them the owner of a Houston company, accused of smuggling the chips used to train and run AI models.</p>\n<p>\u201cOperation Gatekeeper has exposed a sophisticated smuggling network tha"
+    },
+    {
+        "id": "https://gizmodo.com/pebble-index-01-smart-ring-microphone-saving-your-thoughts-2000697194",
+        "title": "Pebble Is Making a Smart Ring for Saving All Your Fleeting Thoughts",
+        "link": "https://gizmodo.com/pebble-index-01-smart-ring-microphone-saving-your-thoughts-2000697194",
+        "published": "Tue, 09 Dec 2025 15:00:02 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"Pebble Index 01 Smart Ring Main\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://gizmodo.com/app/uploads/2025/12/Pebble-Index-01-smart-ring-main.jpg\" width=\"1920\" /><br /><br />The smart ring is called the Index 01 and it's very hackable and customizable."
+    },
+    {
+        "id": "https://mashable.com/article/waymo-robotaxi-software-recall",
+        "title": "Waymo recalls robotaxi software due to school bus incidents",
+        "link": "https://mashable.com/article/waymo-robotaxi-software-recall",
+        "published": "Tue, 09 Dec 2025 14:42:21 +0000",
+        "source": "Mashable",
+        "summary": "Waymo has issued a voluntary recall of its robotaxi software following reports of school bus incidents."
+    },
+    {
+        "id": "https://readwrite.com/punter-sued-betfair-2-million-gambling-loss-loses-appeal/",
+        "title": "Punter who sued Betfair after almost $2 million gambling loss loses appeal",
+        "link": "https://readwrite.com/punter-sued-betfair-2-million-gambling-loss-loses-appeal/",
+        "published": "Tue, 09 Dec 2025 15:09:15 +0000",
+        "source": "ReadWrite",
+        "summary": "<div><img alt=\"Betfair appeal case could disrupt online gambling after \u00a31.5 million losses. Image of someone playing on the Betfair platform on a tablet\" class=\"attachment-medium size-medium wp-post-image\" height=\"200\" src=\"https://readwrite.com/wp-content/uploads/2025/10/Betfair-appeal-case-could-disrupt-online-gambling-after-1.5-million-losses-300x200.png\" style=\"width: 100%; height: 66.67%; margin-bottom: 15px;\" width=\"300\" /></div>\n<p>Lee Gibson, a multimillionaire \u201cproblem gambler,\u201d has los"
+    },
+    {
+        "id": "https://readwrite.com/ballys-secures-increase-loan-1-1-billion-nyc-casino/",
+        "title": "Bally\u2019s secures increase in loan, taking it to $1.1 billion for NYC casino",
+        "link": "https://readwrite.com/ballys-secures-increase-loan-1-1-billion-nyc-casino/",
+        "published": "Tue, 09 Dec 2025 14:11:58 +0000",
+        "source": "ReadWrite",
+        "summary": "<div><img alt=\"Bally&#039;s Monorail station entrance, big red lettering spelling out Ballly&#039;s. Clear blue skies.\" class=\"attachment-medium size-medium wp-post-image\" height=\"200\" src=\"https://readwrite.com/wp-content/uploads/2025/12/Ballys-Monorail_Station_Entrance_2597949988-2-300x200.jpg\" style=\"width: 100%; height: 66.5%; margin-bottom: 15px;\" width=\"300\" /></div>\n<p>A deal has been agreed to increase Bally\u2019s Corp term loan to $1.1 billion, with the initial term loan becoming&#8230; <a "
+    },
+    {
+        "id": "https://readwrite.com/bgc-budget-job-losses-illegal-gambling-set-to-double/",
+        "title": "BGC warns budget plans will mean thousands of job losses and illegal gambling set to double",
+        "link": "https://readwrite.com/bgc-budget-job-losses-illegal-gambling-set-to-double/",
+        "published": "Tue, 09 Dec 2025 13:24:53 +0000",
+        "source": "ReadWrite",
+        "summary": "<div><img alt=\"A photograph of a vibrant Union Jack flag billowing proudly in front of the Houses of Parliament. BGC warns budget plans will mean thousands of job losses and illegal gambling set to double\" class=\"attachment-medium size-medium wp-post-image\" height=\"200\" src=\"https://readwrite.com/wp-content/uploads/2025/12/BGC-warns-budget-plans-will-mean-thousands-of-job-losses-and-illegal-gambling-set-to-double-300x200.png\" style=\"width: 100%; height: 66.67%; margin-bottom: 15px;\" width=\"300\" "
+    },
+    {
+        "id": "https://readwrite.com/singapore-police-apprehend-36-people-as-part-of-illegal-gambling-raids/",
+        "title": "Singapore Police apprehend 36 people as part of illegal gambling raids",
+        "link": "https://readwrite.com/singapore-police-apprehend-36-people-as-part-of-illegal-gambling-raids/",
+        "published": "Tue, 09 Dec 2025 12:13:04 +0000",
+        "source": "ReadWrite",
+        "summary": "<div><img alt=\"Singapore Police responders image. Singapore Police apprehend 36 people as part of illegal gambling raids\" class=\"attachment-medium size-medium wp-post-image\" height=\"197\" src=\"https://readwrite.com/wp-content/uploads/2025/12/Singapore-Police-apprehend-36-people-as-part-of-illegal-gambling-raids-300x197.jpg\" style=\"width: 100%; height: 65.63%; margin-bottom: 15px;\" width=\"300\" /></div>\n<p>Police in Singapore have arrested 36 individuals as part of coordinated raids on suspected il"
+    },
+    {
+        "id": "https://www.zdnet.com/article/sea-to-summit-view-dry-bag-review/",
+        "title": "I never trust my iPhone's water resistance - here's how I protect it when traveling",
+        "link": "https://www.zdnet.com/article/sea-to-summit-view-dry-bag-review/",
+        "published": "Tue, 09 Dec 2025 15:11:00 GMT",
+        "source": "Latest news",
+        "summary": "The Sea to Summit View Dry Bag is the perfect way to keep your gadgets dry, whether hiking or on the beach."
+    },
+    {
+        "id": "https://www.zdnet.com/article/scammers-poison-ai-search-results-customer-support-scams/",
+        "title": "Scammers are poisoning AI search results to steer you straight into their traps - here's how",
+        "link": "https://www.zdnet.com/article/scammers-poison-ai-search-results-customer-support-scams/",
+        "published": "Tue, 09 Dec 2025 15:02:56 GMT",
+        "source": "Latest news",
+        "summary": "AI tools like Google AI Overview and Perplexity Comet are being tricked into suggesting scam support numbers."
+    },
+    {
+        "id": "https://www.zdnet.com/article/openai-is-secretly-fast-tracking-garlic-to-fix-chatgpts-biggest-flaws-what-we-know/",
+        "title": "OpenAI's next big model could drop any minute - what we know",
+        "link": "https://www.zdnet.com/article/openai-is-secretly-fast-tracking-garlic-to-fix-chatgpts-biggest-flaws-what-we-know/",
+        "published": "Tue, 09 Dec 2025 14:52:00 GMT",
+        "source": "Latest news",
+        "summary": "Is GPT-5.2 - or the mysterious 'Garlic' model - moments from dropping? Here's what's driving the company's rush."
+    },
+    {
+        "id": "https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/",
+        "title": "Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution",
+        "link": "https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/",
+        "published": "Tue, 09 Dec 2025 14:21:06 GMT",
+        "source": "Latest news",
+        "summary": "Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers."
+    },
+    {
+        "id": "https://github.com/KaijuEngine/kaiju",
+        "title": "Kaiju \u2013 General purpose 3D/2D game engine in Go and Vulkan with built in editor",
+        "link": "https://github.com/KaijuEngine/kaiju",
+        "published": "Tue, 09 Dec 2025 14:51:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46205519\">Comments</a>"
+    },
+    {
+        "id": "https://www.artificialintelligence-news.com/news/openai-targets-ai-skills-gap-with-new-certification-standards/",
+        "title": "OpenAI targets AI skills gap with new certification standards",
+        "link": "https://www.artificialintelligence-news.com/news/openai-targets-ai-skills-gap-with-new-certification-standards/",
+        "published": "Tue, 09 Dec 2025 14:45:06 +0000",
+        "source": "AI News",
+        "summary": "<p>Adoption of generative AI has outpaced workforce capability, prompting OpenAI to target the skills gap with new certification standards. While it\u2019s safe to say OpenAI\u2019s tools have reached mass adoption, organisations struggle to convert this usage into reliable output. To address this, OpenAI has announced \u2018AI Foundations,\u2019 a structured initiative designed to standardise how employees [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/openai-targets-ai-skills-"
+    },
+    {
+        "id": "https://www.technologyreview.com/2025/12/09/1128996/stand-up-for-research-innovation-and-education-3/",
+        "title": "Stand Up for Research, Innovation, and Education",
+        "link": "https://www.technologyreview.com/2025/12/09/1128996/stand-up-for-research-innovation-and-education-3/",
+        "published": "Tue, 09 Dec 2025 14:39:26 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Right now, MIT alumni and friends are voicing their support for: America\u2019s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and the world. And we need you to join us at this&#8230;"
     }
 ]
