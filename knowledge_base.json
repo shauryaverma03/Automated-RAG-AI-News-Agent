@@ -5774,5 +5774,165 @@
         "published": "Thu, 04 Dec 2025 22:43:33 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46154220\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/10/ai-startup-tavus-founder-says-users-talk-to-its-ai-santa-for-hours-per-day/",
+        "title": "AI startup Tavus founder says users talk to its AI Santa \u2018for hours\u2019 per day",
+        "link": "https://techcrunch.com/2025/12/10/ai-startup-tavus-founder-says-users-talk-to-its-ai-santa-for-hours-per-day/",
+        "published": "Wed, 10 Dec 2025 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Tavus has launched a new experience where you can chat with an AI Santa that asks personal questions and remembers your interests."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/10/figma-launches-new-ai-powered-object-removal-and-image-extension/",
+        "title": "Figma launches new AI-powered object removal and image extension",
+        "link": "https://techcrunch.com/2025/12/10/figma-launches-new-ai-powered-object-removal-and-image-extension/",
+        "published": "Wed, 10 Dec 2025 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Figma is launching a new image editing toolbar to bring all its features in one place."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/10/petco-takes-down-vetco-website-after-exposing-customers-personal-information/",
+        "title": "Petco takes down Vetco website after exposing customers\u2019 personal information",
+        "link": "https://techcrunch.com/2025/12/10/petco-takes-down-vetco-website-after-exposing-customers-personal-information/",
+        "published": "Wed, 10 Dec 2025 13:40:58 +0000",
+        "source": "TechCrunch",
+        "summary": "TechCrunch found Petco's veterinary clinics were spilling customers' personal information and medical histories of their pets to the open web."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/10/google-launches-sub-5-ai-plus-plan-in-india-to-compete-with-chatgpt-go/",
+        "title": "Google launches sub-$5 AI Plus plan in India to compete with ChatGPT Go",
+        "link": "https://techcrunch.com/2025/12/10/google-launches-sub-5-ai-plus-plan-in-india-to-compete-with-chatgpt-go/",
+        "published": "Wed, 10 Dec 2025 13:30:51 +0000",
+        "source": "TechCrunch",
+        "summary": "For new users in India, Google is offering an AI Plus subscription for \u20b9199 ($2.21) for the first six months, after which you'll have to pay \u20b9399 ($4.44)."
+    },
+    {
+        "id": "https://www.theverge.com/transportation/841067/aurora-autonomous-truck-chris-urmson-interview",
+        "title": "Aurora will have \u2018hundreds\u2019 of driverless trucks on the road by the end of 2026, CEO says",
+        "link": "https://www.theverge.com/transportation/841067/aurora-autonomous-truck-chris-urmson-interview",
+        "published": "2025-12-10T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "It's been a year of progress and delays for Aurora, the Pittsburgh-based autonomous trucking company founded by Chris Urmson. After promising to launch commercial driverless truck operations in 2024, the company was forced to push the start date until April 2025. A few weeks later, however, it was forced to put safety drivers back in [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/841222/rsl-licensing-ai-spec-launch",
+        "title": "A pay-to-scrape AI licensing standard is now official",
+        "link": "https://www.theverge.com/news/841222/rsl-licensing-ai-spec-launch",
+        "published": "2025-12-10T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "An open licensing standard that aims to make AI companies pay for the content they vacuum up across the web is now an official specification. Really Simple Licensing 1.0 - or RSL for short - gives publishers the ability to dictate licensing and compensation rules to the web crawlers that visit their sites. The RSL [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/841342/amd-fsr-redstone-is-an-exciting-and-confusing-upgrade-for-radeon-pc-gamers",
+        "title": "AMD FSR Redstone is an exciting and confusing upgrade for Radeon PC gamers",
+        "link": "https://www.theverge.com/games/841342/amd-fsr-redstone-is-an-exciting-and-confusing-upgrade-for-radeon-pc-gamers",
+        "published": "2025-12-10T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Today, AMD is soft-launching its latest suite of graphics and performance-enhancing tech, FSR Redstone - and it might take a second to wrap your head around. It certainly did for me. The good news is that in just three months, AMD has more than doubled the number of games that support the flagship machine-learning version [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/841431/figma-ai-editing-tools-erase-isolate-object",
+        "title": "Figma adds more Photoshop-like AI tools for image editing",
+        "link": "https://www.theverge.com/news/841431/figma-ai-editing-tools-erase-isolate-object",
+        "published": "2025-12-10T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Figma is launching three new AI-powered creative tools to help users edit their images without jumping to another platform. The new tools are available in Figma Design and Figma Draw, and can be used to quickly remove objects from an image, isolate objects so they can be repositioned, and extend images beyond their previous dimensions. [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/review/kindle-scribe-colorsoft-2025/",
+        "title": "Kindle Scribe Colorsoft and Kindle Scribe (3rd Gen) Review (2025)",
+        "link": "https://www.wired.com/review/kindle-scribe-colorsoft-2025/",
+        "published": "Wed, 10 Dec 2025 14:01:00 +0000",
+        "source": "WIRED",
+        "summary": "Amazon\u2019s latest e-reader and digital notebook combos bring new features, but they may not be enough in a crowded market."
+    },
+    {
+        "id": "https://www.wired.com/story/instagram-lets-you-pick-what-shows-up-in-reels/",
+        "title": "Instagram Will Start Letting You Pick What Shows Up in Your Reels",
+        "link": "https://www.wired.com/story/instagram-lets-you-pick-what-shows-up-in-reels/",
+        "published": "Wed, 10 Dec 2025 13:30:00 +0000",
+        "source": "WIRED",
+        "summary": "In the battle for your attention, Instagram is betting that more control over the algorithm could keep you scrolling on Reels."
+    },
+    {
+        "id": "https://www.engadget.com/mobile/tablets/kindle-scribe-colorsoft-review-a-very-particular-set-of-skills-for-a-price-140014961.html?src=rss",
+        "title": "Kindle Scribe Colorsoft review: A very particular set of skills, for a price",
+        "link": "https://www.engadget.com/mobile/tablets/kindle-scribe-colorsoft-review-a-very-particular-set-of-skills-for-a-price-140014961.html?src=rss",
+        "published": "Wed, 10 Dec 2025 14:00:14 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>In a world where notifications persistently compete for our attention, <a href=\"https://www.engadget.com/mobile/tablets/best-e-ink-tablet-130037939.html\">distraction-free ereaders and writing tablets</a> have found an audience. Putting your phone, laptop or iPad aside and curling up with a Kindle or a reMarkable tablet have become an almost ironic way for the tech-savvy to disconnect from online noise and focus on reading and writing. It\u2019s debatable how broad the appeal of these devices is, b"
+    },
+    {
+        "id": "https://www.engadget.com/general/eu-pledges-90-percent-cut-to-carbon-emissions-by-2040-133919256.html?src=rss",
+        "title": "EU pledges 90 percent cut to carbon emissions by 2040",
+        "link": "https://www.engadget.com/general/eu-pledges-90-percent-cut-to-carbon-emissions-by-2040-133919256.html?src=rss",
+        "published": "Wed, 10 Dec 2025 13:39:19 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The European Union has provisionally agreed to reduce greenhouse gas emissions by 90 percent (based on 1990 levels) by 2040, the EU parliament announced in a <a href=\"https://www.consilium.europa.eu/en/press/press-releases/2025/12/10/2040-climate-target-council-and-parliament-agree-on-a-90-emissions-reduction/\">press release</a>. That goes beyond the goals of most other major economies, including China, but falls short of the original one recommended by the EU's climate science advisors. &quo"
+    },
+    {
+        "id": "https://gizmodo.com/openai-accused-of-self-censoring-research-that-paints-ai-in-a-bad-light-2000697413",
+        "title": "OpenAI Accused of Self-Censoring Research That Paints AI In a Bad Light",
+        "link": "https://gizmodo.com/openai-accused-of-self-censoring-research-that-paints-ai-in-a-bad-light-2000697413",
+        "published": "Wed, 10 Dec 2025 14:10:32 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"The,image,features,sam,altman,,ceo,of,openai,,speaking,at\" class=\"attachment-full size-full wp-post-image\" height=\"1440\" src=\"https://gizmodo.com/app/uploads/2025/12/shutterstock_2683517935.jpg\" width=\"1920\" /><br /><br />At least two employees have reportedly quit over the conflict."
+    },
+    {
+        "id": "https://gizmodo.com/lord-of-the-rings-hunt-for-gollum-aragorn-recast-viggo-mortensen-2000697620",
+        "title": "\u2018The Hunt for Gollum\u2019 May Have to Recast a \u2018Lord of the Rings\u2019 Star",
+        "link": "https://gizmodo.com/lord-of-the-rings-hunt-for-gollum-aragorn-recast-viggo-mortensen-2000697620",
+        "published": "Wed, 10 Dec 2025 13:00:13 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"Ms 1210 Gollum Return Of The King\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://gizmodo.com/app/uploads/2025/12/MS-1210-gollum-return-of-the-king.jpg\" width=\"1920\" /><br /><br />Plus, the 'Tomb Raider' TV series may tap Sigourney Weaver for a mystery role."
+    },
+    {
+        "id": "https://mashable.com/article/google-maps-parking-remember-spot",
+        "title": "Google Maps on iOS now remembers where you parked",
+        "link": "https://mashable.com/article/google-maps-parking-remember-spot",
+        "published": "Wed, 10 Dec 2025 13:05:29 +0000",
+        "source": "Mashable",
+        "summary": "Google Maps on iOS has a new feature that could save you a few minutes of aimlessly walking through a parking lot."
+    },
+    {
+        "id": "https://readwrite.com/nba-biometric-data-orreco-sportradar-deal/",
+        "title": "NBA players to get greater biometric data through Orreco and Sportradar deal",
+        "link": "https://readwrite.com/nba-biometric-data-orreco-sportradar-deal/",
+        "published": "Wed, 10 Dec 2025 13:35:17 +0000",
+        "source": "ReadWrite",
+        "summary": "<div><img alt=\"NBA players to get greater biometric data through Orreco and Sportradar deal. A graphic announcing a partnership between Sportradar and Orreco.ai. The top banner reads \u201cOfficial NBA tracking data for AI-powered performance insights.\u201d Below it are the Sportradar and Orreco.ai logos on a dark blue background. Three red icons represent optimized training, recovery, and athlete wellbeing.\" class=\"attachment-medium size-medium wp-post-image\" height=\"200\" src=\"https://readwrite.com/wp-c"
+    },
+    {
+        "id": "https://www.zdnet.com/article/inbox-promo-emails-tracking-you-proton-mail-warns/",
+        "title": "Inbox full of promo emails? 80% are tracking you, new report warns",
+        "link": "https://www.zdnet.com/article/inbox-promo-emails-tracking-you-proton-mail-warns/",
+        "published": "Wed, 10 Dec 2025 14:03:00 GMT",
+        "source": "Latest news",
+        "summary": "Billions of holiday marketing emails have turned inboxes into a de facto surveillance tool, Proton Mail says."
+    },
+    {
+        "id": "https://www.zdnet.com/article/amazon-kindle-scribe-colorsoft-review/",
+        "title": "My most productive work device is this new Kindle with a colored display - why it's so good",
+        "link": "https://www.zdnet.com/article/amazon-kindle-scribe-colorsoft-review/",
+        "published": "Wed, 10 Dec 2025 14:00:47 GMT",
+        "source": "Latest news",
+        "summary": "Amazon's Kindle Scribe Colorsoft boasts some design improvements, but keeps its features focused."
+    },
+    {
+        "id": "https://www.equitileconversations.com/2459100/episodes/18312924-taxing-growth",
+        "title": "Taxing Growth",
+        "link": "https://www.equitileconversations.com/2459100/episodes/18312924-taxing-growth",
+        "published": "Wed, 10 Dec 2025 14:01:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46217793\">Comments</a>"
+    },
+    {
+        "id": "https://www.technologyreview.com/2025/12/10/1129186/the-download-a-controversial-proposal-to-solve-climate-change-and-our-future-grids/",
+        "title": "The Download: a controversial proposal to solve climate change, and our future grids",
+        "link": "https://www.technologyreview.com/2025/12/10/1129186/the-download-a-controversial-proposal-to-solve-climate-change-and-our-future-grids/",
+        "published": "Wed, 10 Dec 2025 13:14:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How one controversial startup hopes to cool the planet Stardust Solutions believes that it can solve climate change\u2014for a price.&#160; The Israel-based geoengineering startup has said it expects nations will soon pay it&#8230;"
     }
 ]
