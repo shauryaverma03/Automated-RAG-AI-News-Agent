@@ -5022,5 +5022,69 @@
         "published": "Tue, 09 Dec 2025 23:14:55 +0000",
         "source": "Mashable",
         "summary": "Hinge founder and CEO Justin McLeod is stepping down to launch Overtone, an AI-driven dating service"
+    },
+    {
+        "id": "https://www.theverge.com/column/841207/ai-neurips-2025",
+        "title": "The AI industry\u2019s biggest week: Google\u2019s rise, RL mania, and a party boat",
+        "link": "https://www.theverge.com/column/841207/ai-neurips-2025",
+        "published": "2025-12-09T21:00:00-05:00",
+        "source": "The Verge",
+        "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Reinforcement learning (RL) is the next frontier, Google is surging, and the party scene has gotten completely out of hand. Those were the through lines from this year's NeurIPS [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/",
+        "title": "Silicon Valley Is All About the Hard Sell These Days",
+        "link": "https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/",
+        "published": "Wed, 10 Dec 2025 01:36:33 +0000",
+        "source": "WIRED",
+        "summary": "Sam Altman\u2019s appearance on The Tonight Show is part of a larger charm offensive currently being waged by the tech establishment."
+    },
+    {
+        "id": "https://gizmodo.com/everyone-hated-the-mcdonalds-ai-christmas-ad-so-much-it-got-taken-down-2000697045",
+        "title": "Everyone Hated the McDonald\u2019s AI Christmas Ad So Much It Got Taken Down",
+        "link": "https://gizmodo.com/everyone-hated-the-mcdonalds-ai-christmas-ad-so-much-it-got-taken-down-2000697045",
+        "published": "Wed, 10 Dec 2025 02:31:28 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"The McDonald&#039;s logo superimposed over a snowy town\" class=\"attachment-full size-full wp-post-image\" height=\"1067\" src=\"https://gizmodo.com/app/uploads/2025/12/Screenshot-2025-12-09-at-5.39.36-PM.jpg\" width=\"1920\" /><br /><br />It united the world with its shittiness. God bless us, everyone!"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-clear-google-search-cache-on-android-phone/",
+        "title": "How to clear your Google search cache on Android (and why it makes such a big difference)",
+        "link": "https://www.zdnet.com/article/how-to-clear-google-search-cache-on-android-phone/",
+        "published": "Wed, 10 Dec 2025 02:01:02 GMT",
+        "source": "Latest news",
+        "summary": "If you care about privacy, regularly clearing your Google search cache on Android is a must. Here's how to do it manually - and how to set up auto-delete."
+    },
+    {
+        "id": "https://www.zdnet.com/article/favorite-linux-gui-search-tools-find-files-easier/",
+        "title": "My favorite Linux search tools make it easier to find your files - no command line needed",
+        "link": "https://www.zdnet.com/article/favorite-linux-gui-search-tools-find-files-easier/",
+        "published": "Wed, 10 Dec 2025 02:00:45 GMT",
+        "source": "Latest news",
+        "summary": "Why bother with complicated regular expressions when you can point and click your way to finding the files and folders you need?"
+    },
+    {
+        "id": "https://www.zdnet.com/article/want-to-save-your-old-computer-try-one-of-these-9-linux-distros-for-free/",
+        "title": "Want to save your old computer? Try one of these 9 Linux distros - for free",
+        "link": "https://www.zdnet.com/article/want-to-save-your-old-computer-try-one-of-these-9-linux-distros-for-free/",
+        "published": "Wed, 10 Dec 2025 01:06:00 GMT",
+        "source": "Latest news",
+        "summary": "Here's how to save money, reduce e-waste, and extend the life of your old hardware at the same time."
+    },
+    {
+        "id": "https://www.zdnet.com/article/fastest-growing-ai-chatbots-2025-gemini-grok/",
+        "title": "The fastest-growing AI chatbot now isn't from OpenAI, Anthropic, or Google",
+        "link": "https://www.zdnet.com/article/fastest-growing-ai-chatbots-2025-gemini-grok/",
+        "published": "Wed, 10 Dec 2025 01:00:14 GMT",
+        "source": "Latest news",
+        "summary": "'Different assistants map to different moments,' according to ComScore's latest report on the AI market."
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-linux-distro-for-gaming/",
+        "title": "The 7 Linux distros I recommend most for gaming in 2025 - including my favorite",
+        "link": "https://www.zdnet.com/article/best-linux-distro-for-gaming/",
+        "published": "Wed, 10 Dec 2025 00:53:00 GMT",
+        "source": "Latest news",
+        "summary": "Still think Linux isn't practical for gaming? Think again. Here are the best distros every gamer should try."
     }
 ]
