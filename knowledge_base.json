@@ -5278,5 +5278,29 @@
         "published": "Wed, 10 Dec 2025 06:22:19 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46214693\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/kids-and-teen-influencers-in-australia-say-goodbye-to-social-media/",
+        "title": "Kids and Teen Influencers in Australia Say \u2018Bye-Bye\u2019 to Social Media",
+        "link": "https://www.wired.com/story/kids-and-teen-influencers-in-australia-say-goodbye-to-social-media/",
+        "published": "Wed, 10 Dec 2025 08:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Starting Wednesday, Australia will prohibit kids under 16 from using social platforms. For youth content creators, it means logging off or finding creative ways to post anyway."
+    },
+    {
+        "id": "https://www.zdnet.com/article/reinventing-your-career-in-the-age-of-ai/",
+        "title": "Reinventing your career for the AI age? Your technical skill isn't your most valuable asset",
+        "link": "https://www.zdnet.com/article/reinventing-your-career-in-the-age-of-ai/",
+        "published": "Wed, 10 Dec 2025 08:01:05 GMT",
+        "source": "Latest news",
+        "summary": "The future of work isn't just about exploiting AI. Successful professionals will focus on honing these capabilities."
+    },
+    {
+        "id": "https://www.zdnet.com/article/ai-browsers-risks-businesses/",
+        "title": "Gartner urges businesses to 'block all AI browsers' - what's behind the dire warning",
+        "link": "https://www.zdnet.com/article/ai-browsers-risks-businesses/",
+        "published": "Wed, 10 Dec 2025 08:00:49 GMT",
+        "source": "Latest news",
+        "summary": "Analysts suggest that agentic browsers create an unacceptable risk for CISOs today, with data exposure now a top security concern - but far from the only one."
     }
 ]
