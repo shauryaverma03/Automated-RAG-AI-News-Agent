@@ -5086,5 +5086,85 @@
         "published": "Wed, 10 Dec 2025 00:53:00 GMT",
         "source": "Latest news",
         "summary": "Still think Linux isn't practical for gaming? Think again. Here are the best distros every gamer should try."
+    },
+    {
+        "id": "https://gizmodo.com/cbp-announces-plan-to-look-at-foreign-tourists-social-media-activity-prior-to-u-s-entry-2000697654",
+        "title": "CBP Announces Plan to Look at Foreign Tourists\u2019 Social Media Activity Prior to U.S. Entry",
+        "link": "https://gizmodo.com/cbp-announces-plan-to-look-at-foreign-tourists-social-media-activity-prior-to-u-s-entry-2000697654",
+        "published": "Wed, 10 Dec 2025 03:49:31 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"A sign pointing travelers to the United States Customs and Border Control.\" class=\"attachment-full size-full wp-post-image\" height=\"1002\" src=\"https://gizmodo.com/app/uploads/2025/12/customs.jpg\" width=\"1500\" /><br /><br />Posts, please."
+    },
+    {
+        "id": "https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-december-10",
+        "title": "NYT Pips hints, answers for December 10, 2025",
+        "link": "https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-december-10",
+        "published": "Wed, 10 Dec 2025 03:00:00 +0000",
+        "source": "Mashable",
+        "summary": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck."
+    },
+    {
+        "id": "https://mashable.com/article/nyt-connections-sports-edition-hint-answer-today-december-10-2025",
+        "title": "NYT Connections Sports Edition today: Hints and answers for December 10, 2025",
+        "link": "https://mashable.com/article/nyt-connections-sports-edition-hint-answer-today-december-10-2025",
+        "published": "Wed, 10 Dec 2025 03:00:00 +0000",
+        "source": "Mashable",
+        "summary": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle."
+    },
+    {
+        "id": "https://mashable.com/article/nyt-connections-hint-answer-today-december-10-2025",
+        "title": "NYT Connections hints today: Clues, answers for December 10, 2025",
+        "link": "https://mashable.com/article/nyt-connections-hint-answer-today-december-10-2025",
+        "published": "Wed, 10 Dec 2025 03:00:00 +0000",
+        "source": "Mashable",
+        "summary": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle."
+    },
+    {
+        "id": "https://mashable.com/article/strands-nyt-hint-december-10-2025",
+        "title": "NYT Strands hints, answers for December 10, 2025",
+        "link": "https://mashable.com/article/strands-nyt-hint-december-10-2025",
+        "published": "Wed, 10 Dec 2025 03:00:00 +0000",
+        "source": "Mashable",
+        "summary": "The NYT Strands hints and answers you need to make the most of your puzzling experience."
+    },
+    {
+        "id": "https://mashable.com/article/wordle-today-answer-december-10-2025",
+        "title": "Wordle today: Answer, hints for December 10, 2025",
+        "link": "https://mashable.com/article/wordle-today-answer-december-10-2025",
+        "published": "Wed, 10 Dec 2025 03:00:00 +0000",
+        "source": "Mashable",
+        "summary": "Here's the answer for \"Wordle\" #1634 on December 10 as well as a few hints, tips, and clues to help you solve it yourself."
+    },
+    {
+        "id": "https://readwrite.com/five-arrested-calgary-alleged-casino-fraud/",
+        "title": "Five arrested in Calgary for alleged casino fraud following staff investigation",
+        "link": "https://readwrite.com/five-arrested-calgary-alleged-casino-fraud/",
+        "published": "Tue, 09 Dec 2025 16:47:23 +0000",
+        "source": "ReadWrite",
+        "summary": "<div><img alt=\"Skyline of Calgary, with foliage in the forefront and skyscraper-like buildings in the background. Five arrested in Calgary for alleged casino fraud following staff investigation\" class=\"attachment-medium size-medium wp-post-image\" height=\"200\" src=\"https://readwrite.com/wp-content/uploads/2025/12/ATS-8-300x200.png\" style=\"width: 100%; height: 66.67%; margin-bottom: 15px;\" width=\"300\" /></div>\n<p>Over in Calgary, in Canada, two men and three women have been arrested as they are al"
+    },
+    {
+        "id": "https://seg6.space/posts/making-macos-bearable/",
+        "title": "Making macOS Bearable",
+        "link": "https://seg6.space/posts/making-macos-bearable/",
+        "published": "Wed, 10 Dec 2025 02:37:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46213385\">Comments</a>"
+    },
+    {
+        "id": "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/",
+        "title": "NYC congestion pricing cuts air pollution by a fifth in six months",
+        "link": "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/",
+        "published": "Wed, 10 Dec 2025 02:58:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46213504\">Comments</a>"
+    },
+    {
+        "id": "https://lwn.net/Articles/1049831/",
+        "title": "The end of the kernel Rust experiment",
+        "link": "https://lwn.net/Articles/1049831/",
+        "published": "Wed, 10 Dec 2025 03:15:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46213585\">Comments</a>"
     }
 ]
