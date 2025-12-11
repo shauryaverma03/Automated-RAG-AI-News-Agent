@@ -8646,5 +8646,197 @@
         "published": "Thu, 11 Dec 2025 16:52:37 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46233798\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/",
+        "title": "Google\u2019s AI try-on feature for clothes now works with just a selfie",
+        "link": "https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/",
+        "published": "Thu, 11 Dec 2025 18:09:27 +0000",
+        "source": "TechCrunch",
+        "summary": "In the past, users had to upload a full-body picture of themselves to virtually try on a piece of clothing. Now, they can use a selfie and\u00a0Nano Banana will generate a full body digital version of them."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/",
+        "title": "OpenAI fires back at Google with GPT-5.2 after \u2018code red\u2019 memo",
+        "link": "https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/",
+        "published": "Thu, 11 Dec 2025 18:02:44 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI just launched GPT-5.2, a frontier model aimed at developers and professionals, pushing reasoning and coding benchmarks as it races Google\u2019s Gemini 3 while grappling with compute costs and no generator."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/",
+        "title": "Google debuts \u2018Disco,\u2019 a Gemini-powered tool for making web apps from browser tabs",
+        "link": "https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/",
+        "published": "Thu, 11 Dec 2025 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Google Labs is testing a product that will work with your browser tabs to make web apps for you."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/11/rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/",
+        "title": "Rivian\u2019s AI\u00a0assistant\u00a0is\u00a0coming to its EVs in early 2026",
+        "link": "https://techcrunch.com/2025/12/11/rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/",
+        "published": "Thu, 11 Dec 2025 17:55:12 +0000",
+        "source": "TechCrunch",
+        "summary": "And when it does, the AI assistant will roll out to every existing\u00a0EV in its lineup, not just the next-generation versions of its R1T truck and R1S SUV."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/11/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/",
+        "title": "Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis",
+        "link": "https://techcrunch.com/2025/12/11/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/",
+        "published": "Thu, 11 Dec 2025 17:20:10 +0000",
+        "source": "TechCrunch",
+        "summary": "CEO RJ Scaringe laid out his plan for how Rivian's vehicles will increasingly drive themselves, in a bid to match or exceed the capabilities of rival automakers and AV companies."
+    },
+    {
+        "id": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment",
+        "title": "Google is building an experimental new browser and a new kind of web app",
+        "link": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment",
+        "published": "2025-12-11T13:10:36-05:00",
+        "source": "The Verge",
+        "summary": "The Chrome team at Google recently built a new browser. It takes a query or prompt, opens a bunch of related tabs for you, and then builds you a custom app for whatever you're trying to do. Ask it for travel tips and it'll build you a planner app; ask it for study help and [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026",
+        "title": "ChatGPT&#8217;s \u2018adult mode\u2019 is expected to debut in Q1 2026",
+        "link": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026",
+        "published": "2025-12-11T13:10:19-05:00",
+        "source": "The Verge",
+        "summary": "We've seen NSFW offerings from Grok and other chatbots, and OpenAI CEO Sam Altman has been teasing adult content within ChatGPT for a while. Now, we have a timeline. Fidji Simo, OpenAI's CEO of Applications, told reporters during a Thursday briefing about GPT-5.2 that she expects \"adult mode\" to debut within ChatGPT in the first [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/842201/amazon-luna-comcast-xfinity-rogers-cable-boxes",
+        "title": "Comcast cable boxes are getting Amazon Luna cloud gaming",
+        "link": "https://www.theverge.com/news/842201/amazon-luna-comcast-xfinity-rogers-cable-boxes",
+        "published": "2025-12-11T13:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Amazon's Luna cloud gaming service is coming to cable boxes from Comcast and Rogers. The Luna app is already available via web browsers, Fire TV devices, Fire tablets, and many smart TVs from Samsung and LG, and this new expansion will bring the service to \"millions\" more devices, according to Amazon. Starting Thursday, Luna will [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/842529/openai-gpt-5-2-new-model-chatgpt",
+        "title": "GPT-5.2 is OpenAI&#8217;s latest move in the agentic AI battle",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/842529/openai-gpt-5-2-new-model-chatgpt",
+        "published": "2025-12-11T13:00:00-05:00",
+        "source": "The Verge",
+        "summary": "GPT-5.2 is here, and with it, OpenAI wants \"to unlock even more economic value for people,\" Fidji Simo, the company's CEO of Applications, told reporters in a Thursday briefing. She said it's been in the works for \"many, many months.\" The company calls GPT-5.2 its \"best model yet for everyday professional use\" in a release, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/842346/mamoru-hosoda-interview-scarlet",
+        "title": "Mamoru Hosoda explains why Hamlet is everywhere this year",
+        "link": "https://www.theverge.com/entertainment/842346/mamoru-hosoda-interview-scarlet",
+        "published": "2025-12-11T12:30:00-05:00",
+        "source": "The Verge",
+        "summary": "Hamlet is having something of a renaissance in 2025. This year's edition of the Toronto International Film Festival featured three different takes on the idea, including Chlo&#233; Zhao's adaptation of the play's inspiration and Aneil Karia's rendition set in modern-day London. But the most out-there version came from Belle director Mamoru Hosoda, who transformed Shakespeare's [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/icash-taiwan-payments-keychains-how-it-works/",
+        "title": "How Taiwan Made Cashless Payments Cute",
+        "link": "https://www.wired.com/story/icash-taiwan-payments-keychains-how-it-works/",
+        "published": "Thu, 11 Dec 2025 18:06:15 +0000",
+        "source": "WIRED",
+        "summary": "Taiwan\u2019s digital payment infrastructure is tactile, decentralized, and completely distinct from China\u2019s QR code-dominated model."
+    },
+    {
+        "id": "https://www.wired.com/story/openai-gpt-launch-gemini-code-red/",
+        "title": "OpenAI Launches GPT-5.2 as It Navigates \u2018Code Red\u2019",
+        "link": "https://www.wired.com/story/openai-gpt-launch-gemini-code-red/",
+        "published": "Thu, 11 Dec 2025 18:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The ChatGPT-maker is releasing its \u201cbest model yet\u201d as it faces new pressures from Google and other AI competitors."
+    },
+    {
+        "id": "https://www.engadget.com/ai/google-disco-is-an-experimental-web-browser-that-builds-ai-widgets-based-on-your-tabs-180000701.html?src=rss",
+        "title": "Google Disco is an experimental web browser that builds AI widgets based on your tabs",
+        "link": "https://www.engadget.com/ai/google-disco-is-an-experimental-web-browser-that-builds-ai-widgets-based-on-your-tabs-180000701.html?src=rss",
+        "published": "Thu, 11 Dec 2025 18:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div><p>The latest experiment emerging out of Google Labs is Disco, which is the company's AI-driven approach to web browsing. The first feature for Disco is called GenTabs, built on Google's <a class=\"link\" href=\"https://www.engadget.com/ai/googles-new-gemini-3-model-arrives-in-ai-mode-and-the-gemini-app-160054273.html\" target=\"_blank\">Gemini 3</a> model.&nbsp;</p><p>GenTabs are interactive widgets created from a mix of us"
+    },
+    {
+        "id": "https://www.engadget.com/transportation/evs/rivian-goes-all-in-on-universal-hands-free-driving-at-its-first-autonomy-and-ai-day-172004733.html?src=rss",
+        "title": "Rivian goes all in on 'universal hands-free' driving at its first Autonomy and AI day",
+        "link": "https://www.engadget.com/transportation/evs/rivian-goes-all-in-on-universal-hands-free-driving-at-its-first-autonomy-and-ai-day-172004733.html?src=rss",
+        "published": "Thu, 11 Dec 2025 17:20:04 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>EV automaker Rivian just held its <a href=\"https://www.engadget.com/transportation/evs/rivian-autonomy-and-ai-day-live-updates-from-the-ev-makers-inaugural-event-150031089.html\"><ins>inaugural Autonomy and AI day</ins></a> which, unsurprisingly, focused extensively on hands-free driving. An upcoming software update promises the introduction of &quot;universal hands-free&quot; driving. The company says its vehicles will be able to autonomously navigate more than 3.5 million miles of roads in N"
+    },
+    {
+        "id": "https://gizmodo.com/hideaki-anno-gainax-bankruptcy-neon-genesis-evangelion-studio-khara-2000698488",
+        "title": "Hideaki Anno Bids a Final Farewell to Original \u2018Evangelion\u2019 Studio Gainax",
+        "link": "https://gizmodo.com/hideaki-anno-gainax-bankruptcy-neon-genesis-evangelion-studio-khara-2000698488",
+        "published": "Thu, 11 Dec 2025 18:00:31 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"The End Of Evangelion Gainax Khara Anime 2\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://gizmodo.com/app/uploads/2025/12/The-End-of-Evangelion-Gainax-Khara-Anime-2.jpg\" width=\"1920\" /><br /><br />A year after the animation studio filed for bankruptcy, Gainax has shut down."
+    },
+    {
+        "id": "https://gizmodo.com/arizona-cops-are-now-using-ai-generated-mugshots-to-sketch-crime-suspects-2000698072",
+        "title": "Arizona Cops Are Now Using AI-Generated \u2018Mugshots\u2019 to Sketch Crime Suspects",
+        "link": "https://gizmodo.com/arizona-cops-are-now-using-ai-generated-mugshots-to-sketch-crime-suspects-2000698072",
+        "published": "Thu, 11 Dec 2025 17:40:46 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"AI sketch of suspect provided to the public by Goodyear Police Department.\" class=\"attachment-full size-full wp-post-image\" height=\"1000\" src=\"https://gizmodo.com/app/uploads/2025/12/AI_mugshot_police.jpg\" width=\"1500\" /><br /><br />A police department in a suburb of Phoenix has used ChatGPT twice this year to generate images of crime suspects."
+    },
+    {
+        "id": "https://gizmodo.com/the-people-behind-supergirl-are-ready-to-share-their-imperfect-hero-2000698165",
+        "title": "The People Behind \u2018Supergirl\u2019 Are Ready to Share Their Imperfect Hero",
+        "link": "https://gizmodo.com/the-people-behind-supergirl-are-ready-to-share-their-imperfect-hero-2000698165",
+        "published": "Thu, 11 Dec 2025 17:30:48 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"Supergirl Dc StudiOS Milly Alcock\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://gizmodo.com/app/uploads/2025/12/Supergirl-DC-Studios-Milly-Alcock.jpg\" width=\"1920\" /><br /><br />Producer James Gunn, director Craig Gillespie, and star Milly Alcock talked about the DC Studios film coming June 26, 2026."
+    },
+    {
+        "id": "https://gizmodo.com/eli-lillys-weight-loss-superdrug-worked-so-well-during-trials-some-quit-over-losing-too-much-2000698424",
+        "title": "Eli Lilly\u2019s Weight Loss Superdrug Worked So Well During Trials, Some Quit Over Losing Too Much",
+        "link": "https://gizmodo.com/eli-lillys-weight-loss-superdrug-worked-so-well-during-trials-some-quit-over-losing-too-much-2000698424",
+        "published": "Thu, 11 Dec 2025 17:30:44 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"Injectiondrug\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://gizmodo.com/app/uploads/2025/12/injectiondrug.jpg\" width=\"1920\" /><br /><br />Step aside, semaglutide\u2014retatrutide is showing the most impressive weight loss results of any obesity drug to date."
+    },
+    {
+        "id": "https://gizmodo.com/sorry-smart-glasses-will-not-save-you-from-your-phone-2000698420",
+        "title": "Sorry, Smart Glasses Will Not Save You From Your Phone",
+        "link": "https://gizmodo.com/sorry-smart-glasses-will-not-save-you-from-your-phone-2000698420",
+        "published": "Thu, 11 Dec 2025 17:20:35 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"Meta Ray Ban Display Review 17\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17.jpg\" width=\"1920\" /><br /><br />Say \"distraction-free\" one more time, I dare you."
+    },
+    {
+        "id": "https://mashable.com/article/android-share-live-video-emergency-calls",
+        "title": "Android now lets you share live video on emergency calls",
+        "link": "https://mashable.com/article/android-share-live-video-emergency-calls",
+        "published": "Thu, 11 Dec 2025 17:30:52 +0000",
+        "source": "Mashable",
+        "summary": "Google has added the ability to share live, encrypted phone feeds with emergency services."
+    },
+    {
+        "id": "https://mashable.com/article/south-park-season-28-finale-antichrist-jeffrey-epstein",
+        "title": "South Park closes Season 28 with a horrifying Jeffrey Epstein twist",
+        "link": "https://mashable.com/article/south-park-season-28-finale-antichrist-jeffrey-epstein",
+        "published": "Thu, 11 Dec 2025 17:28:36 +0000",
+        "source": "Mashable",
+        "summary": "The \"South Park\" Christmas special takes Trump, Satan, and their Antichrist baby to darker places than you could possibly imagine."
+    },
+    {
+        "id": "https://mashable.com/video/supergirl-teaser-trailer-blondie",
+        "title": "Supergirl teaser trailer delivers party vibes, action, and attitude",
+        "link": "https://mashable.com/video/supergirl-teaser-trailer-blondie",
+        "published": "Thu, 11 Dec 2025 17:16:04 +0000",
+        "source": "Mashable",
+        "summary": "Milly Alcock rocks as Superman's brat cousin in \"Supergirl\" trailer."
+    },
+    {
+        "id": "https://mashable.com/article/dec-11-apple-ipad-air-13-deal",
+        "title": "Coupon alert: The M3 iPad Air is on sale for under $650 thanks to this Amazon coupon",
+        "link": "https://mashable.com/article/dec-11-apple-ipad-air-13-deal",
+        "published": "Thu, 11 Dec 2025 17:11:57 +0000",
+        "source": "Mashable",
+        "summary": "The M3 iPad Air, 13 inch (128GB, WiFi) is on sale at Amazon for $649.99 with the on-page coupon, down from the list price of $799.99. That's a 19% discount."
+    },
+    {
+        "id": "https://mashable.com/article/internet-reacts-time-magazine-2025-person-of-the-year-architects-of-ai",
+        "title": "Internet reacts to architects of AI being named Times 2025 Person of the Year",
+        "link": "https://mashable.com/article/internet-reacts-time-magazine-2025-person-of-the-year-architects-of-ai",
+        "published": "Thu, 11 Dec 2025 17:03:25 +0000",
+        "source": "Mashable",
+        "summary": "The 'architects of AI' are 'Time's' 2025 Person of the Year. The internet has feelings about this."
     }
 ]
