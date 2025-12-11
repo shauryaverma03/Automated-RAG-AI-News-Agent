@@ -7430,5 +7430,21 @@
         "published": "Thu, 11 Dec 2025 02:00:49 GMT",
         "source": "Latest news",
         "summary": "Looking for a Linux distribution that delivers more power and control? If you're new to Linux, only one of these may be right for you."
+    },
+    {
+        "id": "https://gizmodo.com/a-spotify-beta-feature-lets-users-make-custom-playlists-by-writing-ai-prompts-2000698243",
+        "title": "A Spotify Beta Feature Lets Users Make Custom Playlists by Writing AI Prompts",
+        "link": "https://gizmodo.com/a-spotify-beta-feature-lets-users-make-custom-playlists-by-writing-ai-prompts-2000698243",
+        "published": "Thu, 11 Dec 2025 03:21:55 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"The Spotify Prompted Playlist feature on a smartphone\" class=\"attachment-full size-full wp-post-image\" height=\"1147\" src=\"https://gizmodo.com/app/uploads/2025/12/spo.jpg\" width=\"1920\" /><br /><br />\"Prompted Playlists\" are currently only available in New Zealand."
+    },
+    {
+        "id": "https://www.patterns.dev/",
+        "title": "Patterns.dev",
+        "link": "https://www.patterns.dev/",
+        "published": "Thu, 11 Dec 2025 01:18:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46226483\">Comments</a>"
     }
 ]
