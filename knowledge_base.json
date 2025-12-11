@@ -7382,5 +7382,53 @@
         "published": "Thu, 11 Dec 2025 00:11:00 GMT",
         "source": "Latest news",
         "summary": "HP's Series 5 Pro 14-inch WQXGA portable monitor lets you enjoy a dual-monitor setup on the road with some extra usability perks."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
+        "title": "Google\u2019s answer to the AI arms race \u2014 promote the guy behind its data center tech",
+        "link": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
+        "published": "Thu, 11 Dec 2025 01:10:04 +0000",
+        "source": "TechCrunch",
+        "summary": "Amin Vahdat has been promoted to chief technologist for AI infrastructure, a newly created position reporting directly to CEO Sundar Pichai."
+    },
+    {
+        "id": "https://arstechnica.com/space/2025/12/nasa-just-lost-contact-with-a-mars-orbiter-and-will-soon-lose-another-one/",
+        "title": "NASA just lost contact with a Mars orbiter, and will soon lose another one",
+        "link": "https://arstechnica.com/space/2025/12/nasa-just-lost-contact-with-a-mars-orbiter-and-will-soon-lose-another-one/",
+        "published": "Thu, 11 Dec 2025 00:29:54 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "If NASA is serious about exploring Mars, it's past time to send new missions."
+    },
+    {
+        "id": "https://gizmodo.com/nvidia-reports-of-an-elaborate-chinese-gpu-smuggling-operation-are-far-fetched-2000697678",
+        "title": "Nvidia: Reports of an Elaborate Chinese GPU Smuggling Operation Are \u2018Far-fetched\u2019",
+        "link": "https://gizmodo.com/nvidia-reports-of-an-elaborate-chinese-gpu-smuggling-operation-are-far-fetched-2000697678",
+        "published": "Thu, 11 Dec 2025 02:26:48 +0000",
+        "source": "Gizmodo",
+        "summary": "<img alt=\"CEO of NVIDIA Jensen Huang looks on as U.S. President Donald Trump speaks during the &quot;Winning the AI Race&quot; summit hosted by All\u2011In Podcast and Hill &amp; Valley Forum at the Andrew W. Mellon Auditorium on July 23, 2025 in Washington, DC.\" class=\"attachment-full size-full wp-post-image\" height=\"1280\" src=\"https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025.jpg\" width=\"1920\" /><br /><br />Deepseek reportedly received banned chips, and is allegedly using them to tr"
+    },
+    {
+        "id": "https://www.zdnet.com/article/antigravity-a1-drone-camera-review/",
+        "title": "I replaced my travel video gear with this 360-degree drone within minutes of testing it",
+        "link": "https://www.zdnet.com/article/antigravity-a1-drone-camera-review/",
+        "published": "Thu, 11 Dec 2025 02:01:09 GMT",
+        "source": "Latest news",
+        "summary": "Antigravity's A1 drone shoots sharp 360-degree video with easy, beginner-friendly controls."
+    },
+    {
+        "id": "https://www.zdnet.com/article/sea-to-summit-dry-bag-review/",
+        "title": "This magical dry bag is the surprise iPhone travel accessory I didn't know I needed",
+        "link": "https://www.zdnet.com/article/sea-to-summit-dry-bag-review/",
+        "published": "Thu, 11 Dec 2025 02:01:07 GMT",
+        "source": "Latest news",
+        "summary": "Sea to Summit's View Dry Bag is a lightweight, go-anywhere safeguard for your gadgets."
+    },
+    {
+        "id": "https://www.zdnet.com/article/opensuse-versus-manjaro-linux-distros-compared-new-experienced-users/",
+        "title": "OpenSUSE vs. Manjaro: Which powerhouse Linux distro is best for you?",
+        "link": "https://www.zdnet.com/article/opensuse-versus-manjaro-linux-distros-compared-new-experienced-users/",
+        "published": "Thu, 11 Dec 2025 02:00:49 GMT",
+        "source": "Latest news",
+        "summary": "Looking for a Linux distribution that delivers more power and control? If you're new to Linux, only one of these may be right for you."
     }
 ]
