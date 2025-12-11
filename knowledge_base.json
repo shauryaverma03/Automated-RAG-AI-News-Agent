@@ -7558,5 +7558,29 @@
         "published": "Thu, 04 Dec 2025 14:25:38 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46147987\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/deals/best-streaming-service-deals-133028980.html?src=rss",
+        "title": "The best streaming deals: Save on MasterClass, Audible, Philo and others",
+        "link": "https://www.engadget.com/deals/best-streaming-service-deals-133028980.html?src=rss",
+        "published": "Thu, 11 Dec 2025 08:01:27 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Streaming services<a href=\"https://www.engadget.com/entertainment/streaming/disney-is-increasing-prices-again-for-standalone-streaming-plans-183518837.html\"> keep</a><a href=\"https://www.engadget.com/entertainment/streaming/discovery-is-raising-prices-for-all-customers-160646636.html\"> raising</a><a href=\"https://www.engadget.com/entertainment/streaming/netflix-raises-subscription-praises-again-with-its-standard-plan-now-costing-18-per-month-234344714.html\"> prices</a>. At this point, if you "
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-use-the-new-linux-terminal-on-android/",
+        "title": "How to use the new Linux terminal on your Android device - it's easy",
+        "link": "https://www.zdnet.com/article/how-to-use-the-new-linux-terminal-on-android/",
+        "published": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "source": "Latest news",
+        "summary": "There's a powerful new feature for Android users: The Linux terminal. It unlocks a whole new level of control."
+    },
+    {
+        "id": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y",
+        "title": "The Cost of a Closure in C",
+        "link": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y",
+        "published": "Thu, 11 Dec 2025 07:21:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46228597\">Comments</a>"
     }
 ]
