@@ -7542,5 +7542,21 @@
         "published": "Thu, 11 Dec 2025 05:00:00 +0000",
         "source": "Mashable",
         "summary": "See the moon phase expected for December 11, 2025 as well as when the next full moon is expected."
+    },
+    {
+        "id": "https://www.wired.com/story/how-the-next-big-thing-in-carbon-removal-sunk-without-a-trace/",
+        "title": "How the Next Big Thing in Carbon Removal Sunk Without a Trace",
+        "link": "https://www.wired.com/story/how-the-next-big-thing-in-carbon-removal-sunk-without-a-trace/",
+        "published": "Thu, 11 Dec 2025 07:00:00 +0000",
+        "source": "WIRED",
+        "summary": "With support from Microsoft, Stripe, and Shopify, Running Tide billed itself as on the cutting edge of carbon removal. In the end, it resorted to dumping thousands of tons of wood chips in the sea."
+    },
+    {
+        "id": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
+        "title": "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
+        "link": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
+        "published": "Thu, 04 Dec 2025 14:25:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46147987\">Comments</a>"
     }
 ]
