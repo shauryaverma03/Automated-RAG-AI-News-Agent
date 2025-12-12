@@ -11510,5 +11510,85 @@
         "published": "Thu, 11 Dec 2025 23:56:10 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46239076\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
+        "title": "Parents call for New York governor to sign landmark AI safety bill",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
+        "published": "2025-12-12T17:16:09-05:00",
+        "source": "The Verge",
+        "summary": "A group of more than 150 parents sent a letter on Friday to New York governor Kathy Hochul, urging her to sign the Responsible AI Safety and Education (RAISE) Act without changes. The RAISE Act is a buzzy bill that would require developers of large AI models - like Meta, OpenAI, Deepseek, and Google - [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
+        "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
+        "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
+        "published": "Fri, 12 Dec 2025 22:16:42 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"The vast majority of Codex is built by Codex,\" OpenAI told us about its new AI coding agent."
+    },
+    {
+        "id": "https://gizmodo.com/teslas-cheap-model-y-and-model-3-arent-slowing-down-its-sliding-sales-report-2000699351",
+        "title": "Tesla\u2019s Cheap Model Y and Model 3 Aren\u2019t Slowing Down Its Sliding Sales: Report",
+        "link": "https://gizmodo.com/teslas-cheap-model-y-and-model-3-arent-slowing-down-its-sliding-sales-report-2000699351",
+        "published": "Fri, 12 Dec 2025 22:40:32 +0000",
+        "source": "Gizmodo",
+        "summary": "The Cybertruck isn't pulling its own weight either."
+    },
+    {
+        "id": "https://gizmodo.com/star-wars-and-deadpool-bring-festive-themed-treats-to-disneyland-2000698656",
+        "title": "\u2018Star Wars\u2019 and Deadpool Bring Festive Themed Treats to Disneyland",
+        "link": "https://gizmodo.com/star-wars-and-deadpool-bring-festive-themed-treats-to-disneyland-2000698656",
+        "published": "Fri, 12 Dec 2025 22:20:40 +0000",
+        "source": "Gizmodo",
+        "summary": "Eat your way through Disney Parks this season with Chewbacca-endorsed Life Day fare at Galaxy's Edge and chimichangas at Avengers Campus."
+    },
+    {
+        "id": "https://mashable.com/article/dec-12-microsoft-office-home-business-2019-for-mac",
+        "title": "From Word to Excel, bring the Microsoft Office classics to your Mac for just $40",
+        "link": "https://mashable.com/article/dec-12-microsoft-office-home-business-2019-for-mac",
+        "published": "Fri, 12 Dec 2025 23:00:00 +0000",
+        "source": "Mashable",
+        "summary": "Refresh an Apple computer with this Microsoft Office Home and Business 2019 for Mac license for only $39.97 (reg. $229)."
+    },
+    {
+        "id": "https://mashable.com/article/dec-12-sterling-stock-picker-lifetime-subscription",
+        "title": "This $69 tool could help new investors make money",
+        "link": "https://mashable.com/article/dec-12-sterling-stock-picker-lifetime-subscription",
+        "published": "Fri, 12 Dec 2025 23:00:00 +0000",
+        "source": "Mashable",
+        "summary": "Sterling Stock Picker is an investment helper tool on sale now for $69"
+    },
+    {
+        "id": "https://mashable.com/article/dec-12-microsoft-office-2024-home-business-for-mac-or-pc",
+        "title": "Start 2026 organized and ready with this Microsoft Office license, now $90 off",
+        "link": "https://mashable.com/article/dec-12-microsoft-office-2024-home-business-for-mac-or-pc",
+        "published": "Fri, 12 Dec 2025 23:00:00 +0000",
+        "source": "Mashable",
+        "summary": "Give yourself a productivity boost with this lifetime license to Microsoft Office 2024 Home and Business for Mac or PC for only $159.97 (reg. $249.99)."
+    },
+    {
+        "id": "https://mashable.com/article/gpt-5-2-versus-grok-4-1-benchmarks-rankings-price",
+        "title": "GPT-5.2 vs Grok 4 \u2014 How does Musk\u2019s AI compare on benchmarks, price, and features?",
+        "link": "https://mashable.com/article/gpt-5-2-versus-grok-4-1-benchmarks-rankings-price",
+        "published": "Fri, 12 Dec 2025 22:31:48 +0000",
+        "source": "Mashable",
+        "summary": "GPT-5.2 is fresh out of the box, but how does it compare to Elon Musk\u2019s AI?\u00a0We compare benchmark performance, price, and overall feature set."
+    },
+    {
+        "id": "https://mashable.com/article/amazon-prime-video-ai-recaps-fallout-failure",
+        "title": "Amazon pulls error-filled Fallout AI video recaps from Prime Video",
+        "link": "https://mashable.com/article/amazon-prime-video-ai-recaps-fallout-failure",
+        "published": "Fri, 12 Dec 2025 22:08:20 +0000",
+        "source": "Mashable",
+        "summary": "Amazon rolled out AI video recaps for Prime Video series in November, but fans have noticed big errors in a recap for 'Fallout' season 1."
+    },
+    {
+        "id": "https://github.com/ringtailsoftware/uvm32",
+        "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+        "link": "https://github.com/ringtailsoftware/uvm32",
+        "published": "Fri, 12 Dec 2025 22:02:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46249538\">Comments</a>"
     }
 ]
