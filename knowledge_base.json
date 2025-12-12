@@ -10678,5 +10678,221 @@
         "published": "Fri, 12 Dec 2025 15:44:00 GMT",
         "source": "Latest news",
         "summary": "The outdoors can be challenging for power banks, but this one by Nitecore is built to withstand the elements."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
+        "title": "Trump\u2019s AI executive order promises \u2018one rulebook.\u2019 Startups may get legal limbo instead.",
+        "link": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
+        "published": "Fri, 12 Dec 2025 17:07:22 +0000",
+        "source": "TechCrunch",
+        "summary": "Trump signed an AI executive order targeting state laws and promising one national rulebook. Critics warn it could trigger court battles and prolong uncertainty for startups while Congress debates federal rules."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
+        "title": "Google Translate now lets you hear real-time translations in your headphones",
+        "link": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
+        "published": "Fri, 12 Dec 2025 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The real-time headphone translations experience keeps each speaker\u2019s tone, emphasis, and cadence intact, so it\u2019s easier to follow the conversation and tell who\u2019s saying what."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/12/retro-a-photo-sharing-app-for-friends-lets-you-time-travel-through-your-camera-roll/",
+        "title": "Retro, a photo sharing app for friends, lets you \u2018time-travel\u2019 through your Camera Roll",
+        "link": "https://techcrunch.com/2025/12/12/retro-a-photo-sharing-app-for-friends-lets-you-time-travel-through-your-camera-roll/",
+        "published": "Fri, 12 Dec 2025 16:53:28 +0000",
+        "source": "TechCrunch",
+        "summary": "Retro's new feature, Rewind, let you look back at your photo memories and scroll through them with a dial."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
+        "title": "Home Depot exposed access to internal systems for a year, says researcher",
+        "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
+        "published": "Fri, 12 Dec 2025 16:42:57 +0000",
+        "source": "TechCrunch",
+        "summary": "A security researcher tried to alert Home Depot to the security lapse exposing its back-end GitHub source code repos and other internal cloud systems, but was ignored."
+    },
+    {
+        "id": "https://www.theverge.com/news/843631/hbo-max-curated-channels-friends-harry-potter-big-bang-theory",
+        "title": "HBO Max&#8217;s new channels keep\u00a0 Friends and Game of Thrones playing 24/7",
+        "link": "https://www.theverge.com/news/843631/hbo-max-curated-channels-friends-harry-potter-big-bang-theory",
+        "published": "2025-12-12T12:07:02-05:00",
+        "source": "The Verge",
+        "summary": "HBO Max is launching curated channels, a new feature that will allow you to quickly jump into a continuous feed of popular series or tune into a specific genre. When you select a channel on HBO Max, the streaming service will start you at the beginning of whatever's playing, while giving you the ability to [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/843074/tcl-qm9k-mini-led-tv-review",
+        "title": "The TCL QM9K is an excellent flagship TV, but I\u2019m not sure who it\u2019s for",
+        "link": "https://www.theverge.com/tech/843074/tcl-qm9k-mini-led-tv-review",
+        "published": "2025-12-12T11:45:00-05:00",
+        "source": "The Verge",
+        "summary": "TCL has been a solid competitor in the midrange TV market for years, going head-to-head with Hisense. Not only are TVs from both manufacturers competitive on features, they even use similar nomenclature to categorize their TV lines - the TCL QM8 and Hisense U8, QM7 and U7, and QM6 and U6. But with TCL's new [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/fulu-repair-bounties-nest-molekule/",
+        "title": "This Group Pays Bounties to Repair Broken Devices\u2014Even if the Fix Breaks the Law",
+        "link": "https://www.wired.com/story/fulu-repair-bounties-nest-molekule/",
+        "published": "Fri, 12 Dec 2025 17:01:02 +0000",
+        "source": "WIRED",
+        "summary": "Fulu sets repair bounties on consumer products that employ sneaky features that limit user control. Just this week, it awarded more than $10,000 to the person who hacked the Molekule air purifier."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+        "title": "Epic celebrates \u201cthe end of the Apple Tax\u201d after appeals court win in iOS payments case",
+        "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+        "published": "Fri, 12 Dec 2025 16:00:23 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "But Sweeney warns iOS devs are still afraid of \"totally illegal\" retaliation by Apple."
+    },
+    {
+        "id": "https://arstechnica.com/health/2025/12/senator-endorses-discredited-doctors-book-that-claims-chemical-treats-autism-cancer/",
+        "title": "Senator endorses discredited doctor\u2019s book that claims chemical treats autism, cancer",
+        "link": "https://arstechnica.com/health/2025/12/senator-endorses-discredited-doctors-book-that-claims-chemical-treats-autism-cancer/",
+        "published": "Fri, 12 Dec 2025 15:33:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Safety experts advise those who handle chlorine dioxide to work in well-ventilated spaces, wear gloves."
+    },
+    {
+        "id": "https://arstechnica.com/science/2025/12/investors-commit-quarter-billion-dollars-to-startup-designing-giga-satellites/",
+        "title": "Investors commit quarter-billion dollars to startup designing \u201cGiga\u201d satellites",
+        "link": "https://arstechnica.com/science/2025/12/investors-commit-quarter-billion-dollars-to-startup-designing-giga-satellites/",
+        "published": "Fri, 12 Dec 2025 15:23:57 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"If we build these platforms well, we get to ask new questions about what's possible in orbit.\""
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/doom-studio-id-software-forms-wall-to-wall-union-with-165-employees-voting-in-favor-164808311.html?src=rss",
+        "title": "Doom studio id Software forms 'wall-to-wall' union, with 165 employees voting in favor",
+        "link": "https://www.engadget.com/big-tech/doom-studio-id-software-forms-wall-to-wall-union-with-165-employees-voting-in-favor-164808311.html?src=rss",
+        "published": "Fri, 12 Dec 2025 16:48:10 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Id Software, the company behind Doom, has voted in favor of forming a &quot;wall-to-wall&quot; union. The term &quot;wall-to-wall&quot; refers to a union that includes every employee, regardless of duties. The vote wasn't unanimous, with 165 of 185 total employees in favor of the union.</p>\n<p>The union will work in conjunction with the Communications Workers of America (CWA), which is the same organization involved with <a href=\"https://www.engadget.com/gaming/zenimax-and-microsoft-ratify-un"
+    },
+    {
+        "id": "https://www.engadget.com/deals/the-best-ipad-deals-this-week-include-the-ipad-air-m3-for-150-off-150020455.html?src=rss",
+        "title": "The best iPad deals this week include the iPad Air M3 for $150 off",
+        "link": "https://www.engadget.com/deals/the-best-ipad-deals-this-week-include-the-ipad-air-m3-for-150-off-150020455.html?src=rss",
+        "published": "Fri, 12 Dec 2025 16:30:37 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>We generally consider Apple\u2019s iPads to be the best tablets for most people, but they usually don\u2019t come cheap. To help those looking to grab one get the most value possible, we\u2019re keeping an eye on sale prices and rounding up the best iPad deals we can find each week.</p> \n<p>This week\u2019s highlights include both versions of the <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0DZ73DTVT&amp;siteId=us-engadget&"
+    },
+    {
+        "id": "https://gizmodo.com/the-top-42-moments-from-sci-fi-fantasy-and-horror-tv-in-2025-2000698107",
+        "title": "The Top 42 Moments From Sci-Fi, Fantasy, and Horror TV in 2025",
+        "link": "https://gizmodo.com/the-top-42-moments-from-sci-fi-fantasy-and-horror-tv-in-2025-2000698107",
+        "published": "Fri, 12 Dec 2025 17:00:01 +0000",
+        "source": "Gizmodo",
+        "summary": "io9 watched a ton of TV this year\u2014and standout scenes, shocking reveals, and sometimes entire episodes from 'Andor,' 'Dan Da Dan,' 'Pluribus,' 'Severance,' and beyond are lingering in our minds."
+    },
+    {
+        "id": "https://gizmodo.com/hundreds-of-climate-migrants-arrive-in-australia-leaving-their-sinking-island-home-behind-2000699085",
+        "title": "Hundreds of Climate Migrants Arrive in Australia, Leaving Their Sinking Island Home Behind",
+        "link": "https://gizmodo.com/hundreds-of-climate-migrants-arrive-in-australia-leaving-their-sinking-island-home-behind-2000699085",
+        "published": "Fri, 12 Dec 2025 16:55:03 +0000",
+        "source": "Gizmodo",
+        "summary": "This year, thousands of Tuvaluans applied for Australia\u2019s climate-migration visas to escape the impacts of rising sea levels."
+    },
+    {
+        "id": "https://gizmodo.com/sharks-snakes-and-ghosts-space-force-unveils-7-bizarre-themes-to-name-its-war-tech-2000699061",
+        "title": "Sharks, Snakes, and Ghosts: Space Force Unveils 7 Bizarre Themes to Name Its War Tech",
+        "link": "https://gizmodo.com/sharks-snakes-and-ghosts-space-force-unveils-7-bizarre-themes-to-name-its-war-tech-2000699061",
+        "published": "Fri, 12 Dec 2025 16:25:34 +0000",
+        "source": "Gizmodo",
+        "summary": "Guardians will use sharks, snakes, and mythological creatures to draw inspiration for satellites and orbital warfare."
+    },
+    {
+        "id": "https://gizmodo.com/apple-2026-hardware-releases-2000698996",
+        "title": "Apple Is Gonna Have a Very Loaded 2026",
+        "link": "https://gizmodo.com/apple-2026-hardware-releases-2000698996",
+        "published": "Fri, 12 Dec 2025 16:20:34 +0000",
+        "source": "Gizmodo",
+        "summary": "From a foldable iPhone to a \"HomePad\" smart home hub, Apple has a lot of new hardware coming soon."
+    },
+    {
+        "id": "https://mashable.com/article/dec-12-eufy-x10-pro-omni-deal",
+        "title": "Get the Mashable favorite Eufy X10 Pro Omni for nearly half off at Amazon",
+        "link": "https://mashable.com/article/dec-12-eufy-x10-pro-omni-deal",
+        "published": "Fri, 12 Dec 2025 16:32:47 +0000",
+        "source": "Mashable",
+        "summary": "As of Dec. 12, get the Eufy X10 Pro Omni robot vacuum and mop for 45% off at Amazon."
+    },
+    {
+        "id": "https://mashable.com/article/dec-12-anker-prime-docking-station-deal",
+        "title": "This 14-in-1 Anker Prime Docking Station can clean up your desk mess for $174.99",
+        "link": "https://mashable.com/article/dec-12-anker-prime-docking-station-deal",
+        "published": "Fri, 12 Dec 2025 16:20:54 +0000",
+        "source": "Mashable",
+        "summary": "As of Dec. 12, the Anker Prime Docking Station (14-Port, 160W) is on sale for $174.99, down from $269.99, at Amazon."
+    },
+    {
+        "id": "https://mashable.com/article/dec-12-samsung-27-inch-odyssey-g5-monitor-deal",
+        "title": "This Samsung Odyssey OLED G5 gaming monitor just dropped to its lowest price ever, but its only available for a few more hours",
+        "link": "https://mashable.com/article/dec-12-samsung-27-inch-odyssey-g5-monitor-deal",
+        "published": "Fri, 12 Dec 2025 15:54:11 +0000",
+        "source": "Mashable",
+        "summary": "As of Dec. 12, get the Samsung Odyssey G5 OLED monitor for $190 off. That brings it down to its lowest price ever, but it expires at 8 pm ET."
+    },
+    {
+        "id": "https://mashable.com/article/mashable-perspectives-holidays-with-heart-ty-cole",
+        "title": "My mom passed away this year. Media memories help me keep her close",
+        "link": "https://mashable.com/article/mashable-perspectives-holidays-with-heart-ty-cole",
+        "published": "Fri, 12 Dec 2025 15:48:17 +0000",
+        "source": "Mashable",
+        "summary": "Commentary: The photos and voicemails you capture with loved ones will become treasures later in life."
+    },
+    {
+        "id": "https://readwrite.com/how-a-competitor-analysis-tool-can-elevate-your-marketing-strategy/",
+        "title": "How a Competitor Analysis Tool Can Elevate Your Marketing Strategy",
+        "link": "https://readwrite.com/how-a-competitor-analysis-tool-can-elevate-your-marketing-strategy/",
+        "published": "Fri, 12 Dec 2025 16:35:16 +0000",
+        "source": "ReadWrite",
+        "summary": "<div><img alt=\"competitor analysis tool\" class=\"attachment-medium size-medium wp-post-image\" height=\"170\" src=\"https://readwrite.com/wp-content/uploads/2025/12/competitor-analysis-tool-300x170.png\" style=\"width: 100%; height: 56.72%; margin-bottom: 15px;\" width=\"300\" /></div>\n<p>Understanding what your competitors are doing is no longer optional; it&#8217;s essential. With a strong competitor analysis tool, brands can&#8230; <a class=\"more-link\" href=\"https://readwrite.com/how-a-competitor-analy"
+    },
+    {
+        "id": "https://readwrite.com/pagcor-chief-alejandro-tengco-denies-conflict-interest-government-contracts/",
+        "title": "PAGCOR chief Alejandro Tengco denies conflict allegations over family government contracts",
+        "link": "https://readwrite.com/pagcor-chief-alejandro-tengco-denies-conflict-interest-government-contracts/",
+        "published": "Fri, 12 Dec 2025 16:08:30 +0000",
+        "source": "ReadWrite",
+        "summary": "<div><img alt=\"PAGCOR chief Alejandro Tengco denies conflict allegations over family government contracts. PAGCOR logo over a blurred construction site with workers wearing safety helmets and vests.\" class=\"attachment-medium size-medium wp-post-image\" height=\"200\" src=\"https://readwrite.com/wp-content/uploads/2025/12/PAGCOR-chief-Alejandro-Tengco-denies-conflict-allegations-over-family-government-contracts-300x200.png\" style=\"width: 100%; height: 66.67%; margin-bottom: 15px;\" width=\"300\" /></div"
+    },
+    {
+        "id": "https://www.zdnet.com/article/google-translate-languages-real-time-earbuds-gemini-update/",
+        "title": "Your earbuds can translate 70 languages in real-time now, thanks to Gemini",
+        "link": "https://www.zdnet.com/article/google-translate-languages-real-time-earbuds-gemini-update/",
+        "published": "Fri, 12 Dec 2025 17:00:54 GMT",
+        "source": "Latest news",
+        "summary": "Android users can hear live translations in more than 70 languages, with Gemini preserving the speaker's tone and cadence."
+    },
+    {
+        "id": "https://www.zdnet.com/article/pacsafe-vibe-325-sling-bag-review/",
+        "title": "This anti-theft tech bag foiled a pickpocket attempt live - here's how it did it",
+        "link": "https://www.zdnet.com/article/pacsafe-vibe-325-sling-bag-review/",
+        "published": "Fri, 12 Dec 2025 16:28:00 GMT",
+        "source": "Latest news",
+        "summary": "This bag saved me from potentially losing access to my phone and passport on the last leg of a trip."
+    },
+    {
+        "id": "https://www.newyorker.com/news/the-lede/americas-betting-craze-has-spread-to-its-news-networks",
+        "title": "America's Betting Craze Has Spread to Its News Networks",
+        "link": "https://www.newyorker.com/news/the-lede/americas-betting-craze-has-spread-to-its-news-networks",
+        "published": "Fri, 12 Dec 2025 16:43:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46245843\">Comments</a>"
+    },
+    {
+        "id": "https://bytesauna.com/post/microservices",
+        "title": "Microservices Should Form a Polytree",
+        "link": "https://bytesauna.com/post/microservices",
+        "published": "Mon, 08 Dec 2025 07:24:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46189395\">Comments</a>"
+    },
+    {
+        "id": "https://www.artificialintelligence-news.com/news/ai-in-2026-experimental-ai-concludes-autonomous-systems-rise/",
+        "title": "AI in 2026: Experimental AI concludes as autonomous systems rise",
+        "link": "https://www.artificialintelligence-news.com/news/ai-in-2026-experimental-ai-concludes-autonomous-systems-rise/",
+        "published": "Fri, 12 Dec 2025 16:59:18 +0000",
+        "source": "AI News",
+        "summary": "<p>Generative AI\u2019s experimental phase is concluding, making way for truly autonomous systems in 2026 that act rather than merely summarise. 2026 will lose the focus on model parameters and be about agency, energy efficiency, and the ability to navigate complex industrial environments. The next twelve months represent a departure from chatbots toward autonomous systems executing [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/ai-in-2026-experimental-ai-conclude"
     }
 ]
