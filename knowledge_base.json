@@ -12390,5 +12390,37 @@
         "published": "Sat, 13 Dec 2025 20:48:09 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46257871\">Comments</a>"
+    },
+    {
+        "id": "https://gizmodo.com/the-mortal-kombat-street-fighter-pissing-contest-now-includes-their-movies-2000699407",
+        "title": "The \u2018Mortal Kombat\u2019/\u2019Street Fighter\u2019 Pissing Contest Now Includes Their Movies",
+        "link": "https://gizmodo.com/the-mortal-kombat-street-fighter-pissing-contest-now-includes-their-movies-2000699407",
+        "published": "Sat, 13 Dec 2025 21:15:35 +0000",
+        "source": "Gizmodo",
+        "summary": "Turns out, the 90s never really left us as the beef between 'Street Fighter' and 'Mortal Kombat' has now extended to theaters."
+    },
+    {
+        "id": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+        "title": "Why Twilio Segment moved from microservices back to a monolith",
+        "link": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+        "published": "Sat, 13 Dec 2025 20:30:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46257714\">Comments</a>"
+    },
+    {
+        "id": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+        "title": "I fed 24 years of my blog posts to a Markov model",
+        "link": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+        "published": "Sat, 13 Dec 2025 20:19:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46257607\">Comments</a>"
+    },
+    {
+        "id": "https://sandyuraz.com/blogs/bourdain/",
+        "title": "Recovering Anthony Bourdain's (really) lost Li.st's",
+        "link": "https://sandyuraz.com/blogs/bourdain/",
+        "published": "Sat, 13 Dec 2025 21:18:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46258163\">Comments</a>"
     }
 ]
