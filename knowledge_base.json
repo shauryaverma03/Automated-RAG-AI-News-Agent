@@ -12006,5 +12006,69 @@
         "published": "Mon, 08 Dec 2025 13:04:17 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46191734\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s",
+        "title": "Sektori is psychedelic, tough as nails, and worth the pain",
+        "link": "https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s",
+        "published": "2025-12-13T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Sektori is an old-school twin-stick shooter. Created by a former developer at Returnal studio Housemarque, it puts you in the role of a little ship that blasts through swarms of enemies, and you have to weave through them to get upgrades to help you survive. Often, my runs end after less than a couple minutes, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines",
+        "title": "Here are the shipping deadlines to get your holiday gifts on time",
+        "link": "https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines",
+        "published": "2025-12-13T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Let\u2019s face it, the same thing happens year after year. Things get busy with work, school, and life in general until you\u2019re suddenly up against the clock as you race your gifts to your local post office, FedEx store, or UPS location. We\u2019ve all been there, but we\u2019d like to help as you plan your [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/",
+        "title": "Sharks and rays gain landmark protections as nations move to curb international trade",
+        "link": "https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/",
+        "published": "Sat, 13 Dec 2025 12:00:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Gov'ts agree to ban or restrict international trade in shark meat, fins, and other products."
+    },
+    {
+        "id": "https://gizmodo.com/the-next-steven-spielberg-movie-has-something-to-disclose-2000699389",
+        "title": "The Next Steven Spielberg Movie Has a Poster to Disclose",
+        "link": "https://gizmodo.com/the-next-steven-spielberg-movie-has-something-to-disclose-2000699389",
+        "published": "Sat, 13 Dec 2025 14:00:14 +0000",
+        "source": "Gizmodo",
+        "summary": "Time to get excited as Amblin prepares to finally reveal this new sci-fi movie from Steven Spielberg."
+    },
+    {
+        "id": "https://mashable.com/video/muppet-christmas-carol-almost-failed-how-it-hits",
+        "title": "All the ways The Muppet Christmas Carol avoided failure to become the greatest Christmas Carol ever",
+        "link": "https://mashable.com/video/muppet-christmas-carol-almost-failed-how-it-hits",
+        "published": "Sat, 13 Dec 2025 13:46:52 +0000",
+        "source": "Mashable",
+        "summary": "We do a deep-dive into all of the right (and wrong) choices Brian Henson made in creating 'A Muppet Christmas Carol', the greatest film-version of Dickens' 'A Christmas Carol'."
+    },
+    {
+        "id": "https://quant.engineering/exchange-order-book-distributed-logs.html",
+        "title": "How exchanges turn order books into distributed logs",
+        "link": "https://quant.engineering/exchange-order-book-distributed-logs.html",
+        "published": "Mon, 08 Dec 2025 13:48:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46192181\">Comments</a>"
+    },
+    {
+        "id": "https://www.mvp.express/",
+        "title": "Java FFM zero-copy transport using io_uring",
+        "link": "https://www.mvp.express/",
+        "published": "Sun, 07 Dec 2025 15:19:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46182307\">Comments</a>"
+    },
+    {
+        "id": "https://fractalbits.com/blog/why-we-built-another-object-storage/",
+        "title": "We built another object storage",
+        "link": "https://fractalbits.com/blog/why-we-built-another-object-storage/",
+        "published": "Sat, 13 Dec 2025 12:29:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46254087\">Comments</a>"
     }
 ]
