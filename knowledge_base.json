@@ -11966,5 +11966,45 @@
         "published": "Sat, 13 Dec 2025 11:16:45 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46253763\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/best-motorola-phones/",
+        "title": "The Best Motorola Phones (2025), Tested and Reviewed",
+        "link": "https://www.wired.com/story/best-motorola-phones/",
+        "published": "Sat, 13 Dec 2025 13:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Motorola phones may seem old-school, but their reasonable prices, colorful designs, and simple software make them good, wallet-friendly Android smartphones."
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-kindle/",
+        "title": "The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?",
+        "link": "https://www.wired.com/gallery/best-kindle/",
+        "published": "Sat, 13 Dec 2025 12:35:00 +0000",
+        "source": "WIRED",
+        "summary": "Here\u2019s how Amazon\u2019s ebook readers stack up\u2014and which one might be right for you."
+    },
+    {
+        "id": "https://gizmodo.com/this-wet-lava-ball-in-space-somehow-clings-to-an-atmosphere-2000698639",
+        "title": "This \u2018Wet Lava Ball\u2019 in Space Somehow Clings to an Atmosphere",
+        "link": "https://gizmodo.com/this-wet-lava-ball-in-space-somehow-clings-to-an-atmosphere-2000698639",
+        "published": "Sat, 13 Dec 2025 13:00:19 +0000",
+        "source": "Gizmodo",
+        "summary": "The hot super-Earth exoplanet has a magma ocean and orbits a very old star."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-install-configure-claude-code-ai-pricing-developers/",
+        "title": "How to install and configure Claude Code, step by step",
+        "link": "https://www.zdnet.com/article/how-to-install-configure-claude-code-ai-pricing-developers/",
+        "published": "Sat, 13 Dec 2025 13:00:41 GMT",
+        "source": "Latest news",
+        "summary": "Curious about Anthropic's AI coding tool but unsure where to begin? My walkthrough covers pricing, installation, authorization, and project initialization so developers can get up and running smoothly."
+    },
+    {
+        "id": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
+        "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
+        "link": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
+        "published": "Mon, 08 Dec 2025 13:04:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46191734\">Comments</a>"
     }
 ]
