@@ -12142,5 +12142,45 @@
         "published": "Sat, 13 Dec 2025 15:41:24 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46255335\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/12/inside-rivians-big-et-on-ai-powered-self-driving/",
+        "title": "Inside Rivian\u2019s\u00a0big bet on AI-powered self-driving",
+        "link": "https://techcrunch.com/2025/12/12/inside-rivians-big-et-on-ai-powered-self-driving/",
+        "published": "Fri, 12 Dec 2025 21:44:50 +0000",
+        "source": "TechCrunch",
+        "summary": "Rivian demonstrated the progress it's made, and in the process showed just how far it still has to go to make its cars autonomous."
+    },
+    {
+        "id": "https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio",
+        "title": "Slab is the first MIDI controller built exclusively for Serato Studio",
+        "link": "https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio",
+        "published": "2025-12-13T12:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Native Instruments and Ableton have had incredible success with their custom MIDI controllers that integrate with their DAWs (digital audio workstations), Maschine and Live, respectively. Native Instruments' Maschine (yes, it's the name of the hardware and the software) and Ableton's Push are pretty much the gold standard for integration between music-making software and hardware. Serato [&#8230;]"
+    },
+    {
+        "id": "https://mashable.com/article/google-takes-down-ai-videos-of-disney-characters-cease-and-desist",
+        "title": "Google reportedly takes down AI videos of Disney characters following cease and desist",
+        "link": "https://mashable.com/article/google-takes-down-ai-videos-of-disney-characters-cease-and-desist",
+        "published": "Sat, 13 Dec 2025 16:51:53 +0000",
+        "source": "Mashable",
+        "summary": "Google is complying with Disney's cease-and-desist letter over AI videos using its characters."
+    },
+    {
+        "id": "https://kinkora.fun/",
+        "title": "Show HN: Kinkora \u2013 A creative playground for experimenting with video models",
+        "link": "https://kinkora.fun/",
+        "published": "Sat, 13 Dec 2025 16:24:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46255697\">Comments</a>"
+    },
+    {
+        "id": "https://simonwillison.net/2025/Dec/10/html-tools/",
+        "title": "Useful patterns for building HTML tools",
+        "link": "https://simonwillison.net/2025/Dec/10/html-tools/",
+        "published": "Wed, 10 Dec 2025 21:08:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46223882\">Comments</a>"
     }
 ]
