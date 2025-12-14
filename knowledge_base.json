@@ -12878,5 +12878,29 @@
         "published": "Sun, 14 Dec 2025 17:43:39 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46265015\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno",
+        "title": "Absynth is back and weirder than ever after 16 years",
+        "link": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno",
+        "published": "2025-12-14T14:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Absynth is something of a cult classic in the soft synth world. It was originally released in 2000, and quickly found an audience among the growing cadre of people making music on computers. But its last major update, Absynth 5, was released in 2009, and Native Instruments officially discontinued the instrument in 2022, citing a [&#8230;]"
+    },
+    {
+        "id": "https://gizmodo.com/grok-is-glitching-and-spewing-misinformation-about-the-bondi-beach-shooting-2000699533",
+        "title": "Grok Is Glitching And Spewing Misinformation About The Bondi Beach Shooting",
+        "link": "https://gizmodo.com/grok-is-glitching-and-spewing-misinformation-about-the-bondi-beach-shooting-2000699533",
+        "published": "Sun, 14 Dec 2025 18:45:32 +0000",
+        "source": "Gizmodo",
+        "summary": "Grok has lost it. Again."
+    },
+    {
+        "id": "https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over",
+        "title": "GraphQL: The Enterprise Honeymoon Is Over",
+        "link": "https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over",
+        "published": "Sun, 14 Dec 2025 17:13:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46264704\">Comments</a>"
     }
 ]
