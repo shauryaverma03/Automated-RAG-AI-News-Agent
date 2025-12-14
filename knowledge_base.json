@@ -12798,5 +12798,29 @@
         "published": "Wed, 10 Dec 2025 17:27:18 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46220578\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4",
+        "title": "Inside the high drama of the iPhone 4",
+        "link": "https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4",
+        "published": "2025-12-14T10:30:00-05:00",
+        "source": "The Verge",
+        "summary": "By 2010, the iPhone era was in full swing. Smartphones were still a new and unfinished idea - the iPhone had only just gotten copy and paste! - but it was clear that these big slabs of glass were going to change the way we did pretty much everything. Apple was also already on an [&#8230;]"
+    },
+    {
+        "id": "https://gizmodo.com/the-batman-part-ii-may-have-scarlett-johansson-for-a-killer-role-2000699523",
+        "title": "\u2018The Batman Part II\u2019 May Have Scarlett Johansson For a Killer Role",
+        "link": "https://gizmodo.com/the-batman-part-ii-may-have-scarlett-johansson-for-a-killer-role-2000699523",
+        "published": "Sun, 14 Dec 2025 15:30:28 +0000",
+        "source": "Gizmodo",
+        "summary": "Johansson may wind up playing someone most people wouldn't have guessed (or known) for 'The Batman Part II.'"
+    },
+    {
+        "id": "https://abseil.io/fast/99",
+        "title": "Illuminating the processor core with LLVM-mca",
+        "link": "https://abseil.io/fast/99",
+        "published": "Sun, 14 Dec 2025 15:05:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46263530\">Comments</a>"
     }
 ]
