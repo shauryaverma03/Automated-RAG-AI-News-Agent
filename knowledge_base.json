@@ -12958,5 +12958,53 @@
         "published": "Sun, 14 Dec 2025 19:41:59 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46266094\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/",
+        "title": "Mesa shuts down credit card that rewarded cardholders for paying their mortgages",
+        "link": "https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/",
+        "published": "Sun, 14 Dec 2025 21:37:44 +0000",
+        "source": "TechCrunch",
+        "summary": "Fintech startup Mesa has shut down its Homeowners Card, which awarded points to cardholders for paying their mortgages."
+    },
+    {
+        "id": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting",
+        "title": "Grok is spreading misinformation about the Bondi Beach shooting",
+        "link": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting",
+        "published": "2025-12-14T16:24:24-05:00",
+        "source": "The Verge",
+        "summary": "Grok's track record is spotty at best. But even by the very low standards of xAI, its failure in the aftermath of the tragic mass shooting at Bondi Beach in Australia is shocking. The AI chatbot has repeatedly misidentified 43-year-old Ahmed al Ahmed, the man who heroically disarmed one of the shooters, and claimed the [&#8230;]"
+    },
+    {
+        "id": "https://gizmodo.com/the-new-paranormal-activity-may-have-already-found-its-director-2000699521",
+        "title": "The New \u2018Paranormal Activity\u2019 May Have Already Found Its Director",
+        "link": "https://gizmodo.com/the-new-paranormal-activity-may-have-already-found-its-director-2000699521",
+        "published": "Sun, 14 Dec 2025 21:15:42 +0000",
+        "source": "Gizmodo",
+        "summary": "A fresh new face with similar tastes could take the reigns for the return of 'Paranormal Activity.'"
+    },
+    {
+        "id": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
+        "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
+        "link": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
+        "published": "Sun, 14 Dec 2025 21:05:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46266875\">Comments</a>"
+    },
+    {
+        "id": "https://status.claude.com/incidents/9g6qpr72ttbr",
+        "title": "Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services",
+        "link": "https://status.claude.com/incidents/9g6qpr72ttbr",
+        "published": "Sun, 14 Dec 2025 21:53:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46267385\">Comments</a>"
+    },
+    {
+        "id": "https://culi.bearblog.dev/jsdoc-is-typescript/",
+        "title": "JSDoc is TypeScript",
+        "link": "https://culi.bearblog.dev/jsdoc-is-typescript/",
+        "published": "Sun, 14 Dec 2025 19:42:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46266102\">Comments</a>"
     }
 ]
