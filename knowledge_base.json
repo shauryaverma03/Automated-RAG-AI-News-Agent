@@ -12638,5 +12638,53 @@
         "published": "Sun, 14 Dec 2025 10:30:46 GMT",
         "source": "Latest news",
         "summary": "Don't rely on your router's USB port; it's unreliable and potentially vulnerable to malware."
+    },
+    {
+        "id": "https://www.wired.com/review/samsung-galaxy-xr/",
+        "title": "Samsung Galaxy XR Review: Needs More Polish",
+        "link": "https://www.wired.com/review/samsung-galaxy-xr/",
+        "published": "Sun, 14 Dec 2025 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "A little more accessible than the Apple Vision Pro, this Android XR headset could use more polish."
+    },
+    {
+        "id": "https://www.wired.com/story/playstation-portals-latest-update-proves-sony-needs-a-real-handheld-console-again/",
+        "title": "PlayStation Portal's Latest Update Proves Sony Needs a Real Handheld Console Again",
+        "link": "https://www.wired.com/story/playstation-portals-latest-update-proves-sony-needs-a-real-handheld-console-again/",
+        "published": "Sun, 14 Dec 2025 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Cloud gaming remains a pie-in-the-sky idea."
+    },
+    {
+        "id": "https://gizmodo.com/six-months-later-the-switch-2-proves-it-has-staying-power-2000699204",
+        "title": "Six Months Later, the Switch 2 Proves It Has Staying Power",
+        "link": "https://gizmodo.com/six-months-later-the-switch-2-proves-it-has-staying-power-2000699204",
+        "published": "Sun, 14 Dec 2025 12:00:03 +0000",
+        "source": "Gizmodo",
+        "summary": "There's no other handheld offering what the Nintendo Switch 2 does at its price."
+    },
+    {
+        "id": "https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-december-14",
+        "title": "NYT Pips hints, answers for December 14, 2025",
+        "link": "https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-december-14",
+        "published": "Sun, 14 Dec 2025 11:14:36 +0000",
+        "source": "Mashable",
+        "summary": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck."
+    },
+    {
+        "id": "https://mashable.com/article/nyt-connections-sports-edition-hint-answer-today-december-14-2025",
+        "title": "NYT Connections Sports Edition today: Hints and answers for December 14, 2025",
+        "link": "https://mashable.com/article/nyt-connections-sports-edition-hint-answer-today-december-14-2025",
+        "published": "Sun, 14 Dec 2025 10:57:20 +0000",
+        "source": "Mashable",
+        "summary": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle."
+    },
+    {
+        "id": "https://en.wikipedia.org/wiki/Cat_gap",
+        "title": "Cat Gap",
+        "link": "https://en.wikipedia.org/wiki/Cat_gap",
+        "published": "Wed, 10 Dec 2025 04:09:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46213985\">Comments</a>"
     }
 ]
