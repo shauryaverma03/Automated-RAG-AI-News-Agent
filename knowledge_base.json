@@ -12430,5 +12430,21 @@
         "published": "Sat, 13 Dec 2025 23:00:00 +0000",
         "source": "Mashable",
         "summary": "Bring anything to life with this lifetime subscription to Imagiyo AI Image Generator's Standard Plan, now only $34.97 (reg. $495) through Dec. 14 at 11:59 p.m. PT."
+    },
+    {
+        "id": "https://fil-c.org/seccomp",
+        "title": "Linux Sandboxes and Fil-C",
+        "link": "https://fil-c.org/seccomp",
+        "published": "Sat, 13 Dec 2025 22:58:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46259064\">Comments</a>"
+    },
+    {
+        "id": "https://nullprogram.com/blog/2025/12/12/",
+        "title": "Closures as Win32 Window Procedures",
+        "link": "https://nullprogram.com/blog/2025/12/12/",
+        "published": "Sat, 13 Dec 2025 23:39:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46259334\">Comments</a>"
     }
 ]
