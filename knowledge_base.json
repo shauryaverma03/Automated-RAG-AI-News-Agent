@@ -12766,5 +12766,37 @@
         "published": "Sun, 14 Dec 2025 12:18:59 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46262545\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple",
+        "title": "The end of OpenAI, and other 2026 predictions",
+        "link": "https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple",
+        "published": "2025-12-14T09:29:18-05:00",
+        "source": "The Verge",
+        "summary": "Here's a thought: what if the next-generation Siri is awesome? Not just awesome for setting timers and dictating text messages (though that would be nice), but so awesome and fun to talk to that people actually start falling in love with their iPhones. We may not be prepared for what happens next. On this episode [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/best-walking-pads/",
+        "title": "Best Tested Walking Pads (2025): Urevo, WalkingPad, Sperax",
+        "link": "https://www.wired.com/story/best-walking-pads/",
+        "published": "Sun, 14 Dec 2025 15:00:00 +0000",
+        "source": "WIRED",
+        "summary": "These compact walking pads fit under your desk and make staying active so much easier."
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-portable-power-stations/",
+        "title": "10 Best Portable Power Stations (2025): Power Capacity, Portability, Camping, and More",
+        "link": "https://www.wired.com/gallery/best-portable-power-stations/",
+        "published": "Sun, 14 Dec 2025 14:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Whether you\u2019re going off-grid or safeguarding against blackouts, these beefy, WIRED-tested batteries can keep the lights on."
+    },
+    {
+        "id": "https://techne98.com/blog/using-git-add-p/",
+        "title": "Using Git add -p for fun (and profit)",
+        "link": "https://techne98.com/blog/using-git-add-p/",
+        "published": "Wed, 10 Dec 2025 17:27:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46220578\">Comments</a>"
     }
 ]
