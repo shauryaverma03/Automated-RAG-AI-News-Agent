@@ -13134,5 +13134,13 @@
         "published": "Sun, 07 Dec 2025 03:42:37 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46178966\">Comments</a>"
+    },
+    {
+        "id": "https://arborium.bearcove.eu/",
+        "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
+        "link": "https://arborium.bearcove.eu/",
+        "published": "Mon, 15 Dec 2025 03:57:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46270298\">Comments</a>"
     }
 ]
