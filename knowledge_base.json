@@ -13054,5 +13054,37 @@
         "published": "Mon, 08 Dec 2025 00:25:34 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46186914\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/",
+        "title": "How iRobot lost its way home",
+        "link": "https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/",
+        "published": "Mon, 15 Dec 2025 02:29:22 +0000",
+        "source": "TechCrunch",
+        "summary": "iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/14/whatsapps-biggest-market-is-becoming-its-toughest-test/",
+        "title": "WhatsApp\u2019s biggest market is becoming its toughest test",
+        "link": "https://techcrunch.com/2025/12/14/whatsapps-biggest-market-is-becoming-its-toughest-test/",
+        "published": "Mon, 15 Dec 2025 01:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Meta has three months to comply with Indian government directions that could affect how WhatsApp operates in the country."
+    },
+    {
+        "id": "https://www.zdnet.com/article/so-many-button-batteries-ive-tested-have-hidden-dangers-but-this-brand-gets-it-right/",
+        "title": "So many button batteries I've tested have hidden dangers - but this brand gets it right",
+        "link": "https://www.zdnet.com/article/so-many-button-batteries-ive-tested-have-hidden-dangers-but-this-brand-gets-it-right/",
+        "published": "Mon, 15 Dec 2025 02:30:42 GMT",
+        "source": "Latest news",
+        "summary": "Button cell battery ingestion leads to thousands of injuries - and even deaths - in the US each year. Here's the only brand I trust now."
+    },
+    {
+        "id": "https://www.capros.org/",
+        "title": "CapROS: The Capability-Based Reliable Operating System",
+        "link": "https://www.capros.org/",
+        "published": "Mon, 15 Dec 2025 00:39:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46268869\">Comments</a>"
     }
 ]
