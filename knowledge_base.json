@@ -16726,5 +16726,101 @@
         "published": "Tue, 16 Dec 2025 18:07:07 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46291941\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/16/study-shows-instacart-may-be-charging-some-shoppers-20-more-for-the-same-product/",
+        "title": "Study shows Instacart may be charging some shoppers 20% more for the same product",
+        "link": "https://techcrunch.com/2025/12/16/study-shows-instacart-may-be-charging-some-shoppers-20-more-for-the-same-product/",
+        "published": "Tue, 16 Dec 2025 20:56:18 +0000",
+        "source": "TechCrunch",
+        "summary": "The delivery app has claimed that price testing is part of a longstanding practice in retail sales."
+    },
+    {
+        "id": "https://www.theverge.com/news/845713/larian-ceo-divinity-ai-swen-vincke",
+        "title": "Larian\u2019s CEO says the studio isn\u2019t \u2018trimming down teams to replace them with AI\u2019",
+        "link": "https://www.theverge.com/news/845713/larian-ceo-divinity-ai-swen-vincke",
+        "published": "2025-12-16T15:15:31-05:00",
+        "source": "The Verge",
+        "summary": "The CEO of Baldur's Gate 3 studio Larian has inadvertently stirred up some controversy over the use of AI in the developer's next game. Based on an interview with Larian CEO Swen Vincke, Bloomberg reported that the studio uses AI tools for things like developing concept art and writing placeholder text. But following some initial [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/",
+        "title": "The Best Streaming Bundles and Streaming Deals of December 2025",
+        "link": "https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/",
+        "published": "Tue, 16 Dec 2025 20:19:31 +0000",
+        "source": "WIRED",
+        "summary": "The best streaming deals right now are ad-free. Maybe the best streaming deals are always ad-free."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2025/12/shady-data-center-deals-doom-americans-to-higher-energy-bills-senators-say/",
+        "title": "Senators count the shady ways data centers pass energy costs on to Americans",
+        "link": "https://arstechnica.com/tech-policy/2025/12/shady-data-center-deals-doom-americans-to-higher-energy-bills-senators-say/",
+        "published": "Tue, 16 Dec 2025 20:25:57 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Senators demand Big Tech pay upfront for data center spikes in electricity bills."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/pc/steam-replay-2025-is-here-to-recap-your-pc-gaming-habits-205430951.html?src=rss",
+        "title": "Steam Replay 2025 is here to recap your PC gaming habits",
+        "link": "https://www.engadget.com/gaming/pc/steam-replay-2025-is-here-to-recap-your-pc-gaming-habits-205430951.html?src=rss",
+        "published": "Tue, 16 Dec 2025 20:54:30 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>\u2018Tis the season for gift-giving, family feasts and companies turning their harvested user data into lighthearted recaps. Valve's take on the year-end rewind, <a class=\"link\" href=\"https://store.steampowered.com/replay\" target=\"_blank\">Steam Replay</a>, is now available. It follows similar offerings from <a class=\"link\" href=\"https://www.engadget.com/entertainment/music/spotify-wrapped-2025-is-here-and-now-its-a-competition-130052418.html\" target=\"_blank\">Spotify</a>, <a class=\"link\" href=\"htt"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/xbox/the-last-xbox-update-of-2025-includes-a-handy-wireless-headset-upgrade-204500386.html?src=rss",
+        "title": "The last Xbox update of 2025 includes a handy Wireless Headset upgrade",
+        "link": "https://www.engadget.com/gaming/xbox/the-last-xbox-update-of-2025-includes-a-handy-wireless-headset-upgrade-204500386.html?src=rss",
+        "published": "Tue, 16 Dec 2025 20:45:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>As part of its last <a class=\"link\" href=\"https://news.xbox.com/en-us/2025/12/16/xbox-december-2025-update-mobile-app-updates-audio-support/\" target=\"_blank\">Xbox-focused software update</a> of the year, Microsoft is improving the Bluetooth performance of the <a class=\"link\" href=\"https://www.engadget.com/audio/headphones/the-xbox-wireless-headset-receives-microphone-and-battery-life-upgrades-151455182.html\" target=\"_blank\">Xbox Wireless Headset</a> to make it work even better with Windows 11"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/nyt-games-has-a-year-in-review-thing-now-too-203000878.html?src=rss",
+        "title": "NYT Games has a year-in-review thing now too",
+        "link": "https://www.engadget.com/gaming/nyt-games-has-a-year-in-review-thing-now-too-203000878.html?src=rss",
+        "published": "Tue, 16 Dec 2025 20:30:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><em>The New York Times</em> is getting in on the year-end roundup bandwagon. The publication's new Year in Games wraps up stats about which of its daily puzzles and brain-teasers readers played over the course of 2025. People can get their own personalized reports, or just look over the community stats for the Wordle, Connections, Spelling Bee and Strands games. The Year in Games reviews are available on the iOS and Android apps for <em>The New York Times</em>, as well as on a <a class=\"link "
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/texas-sues-five-tv-manufacturers-over-predatory-ad-targeting-spyware-201500248.html?src=rss",
+        "title": "Texas sues five TV manufacturers over predatory ad-targeting spyware",
+        "link": "https://www.engadget.com/cybersecurity/texas-sues-five-tv-manufacturers-over-predatory-ad-targeting-spyware-201500248.html?src=rss",
+        "published": "Tue, 16 Dec 2025 20:15:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Behold: Ken Paxton will now demonstrate that broken clocks are indeed right twice a day. The Texas Attorney General <a class=\"link\" href=\"https://www.texastribune.org/2024/09/06/texas-ken-paxton-travis-county-voter-registration/\" target=\"_blank\">is notorious</a> for, well, <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=c813ae39-7d58-41cb-ac66-ad830606ceef&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=d3454b67-1222-4515-a718-38f90599dc47&amp"
+    },
+    {
+        "id": "https://gizmodo.com/ben-kingsley-wonder-man-marvel-trevor-2000700301",
+        "title": "Ben Kingsley Also Can\u2019t Believe He\u2019s Starring in \u2018Wonder Man\u2019",
+        "link": "https://gizmodo.com/ben-kingsley-wonder-man-marvel-trevor-2000700301",
+        "published": "Tue, 16 Dec 2025 21:00:05 +0000",
+        "source": "Gizmodo",
+        "summary": "From 'Iron Man 3' to 'Shang-Chi' and now Disney+, the Oscar winner marvels at his Marvel longevity."
+    },
+    {
+        "id": "https://www.zdnet.com/article/instagram-reels-app-fire-tv/",
+        "title": "Watch Instagram Reels on your TV now - these sets get the app first",
+        "link": "https://www.zdnet.com/article/instagram-reels-app-fire-tv/",
+        "published": "Tue, 16 Dec 2025 20:58:42 GMT",
+        "source": "Latest news",
+        "summary": "Amazon Fire TV devices will be the first to have the new Instagram for TV app. Here's how to get started."
+    },
+    {
+        "id": "https://www.zdnet.com/article/directv-flash-sale/",
+        "title": "Get your first month of DirecTV for 44% off in this first-ever flash sale",
+        "link": "https://www.zdnet.com/article/directv-flash-sale/",
+        "published": "Tue, 16 Dec 2025 20:32:59 GMT",
+        "source": "Latest news",
+        "summary": "Stream national and local channels along with ESPN Unlimited with DirecTV, now just $50 for your first month."
+    },
+    {
+        "id": "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/",
+        "title": "Thin desires are eating life",
+        "link": "https://www.joanwestenberg.com/thin-desires-are-eating-your-life/",
+        "published": "Tue, 16 Dec 2025 00:50:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46283276\">Comments</a>"
     }
 ]
