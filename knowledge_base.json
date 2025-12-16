@@ -15118,5 +15118,77 @@
         "published": "Wed, 10 Dec 2025 23:54:34 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46225803\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2",
+        "title": "Silksong is getting a free expansion next year",
+        "link": "https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2",
+        "published": "2025-12-15T20:13:24-05:00",
+        "source": "The Verge",
+        "summary": "It's still hard to believe that Hollow Knight: Silksong actually came out this year, but now, we all have a new thing to wait for: the game is getting a free expansion in 2026, titled Sea of Sorrow. Team Cherry calls it the game's \"first big expansion.\" \"New areas, bosses, tools, and more!\" Team Cherry [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
+        "title": "LG enters the RGB LED fray in 2026 with the Micro RGB evo TV",
+        "link": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
+        "published": "2025-12-15T20:00:00-05:00",
+        "source": "The Verge",
+        "summary": "In what is sure to be the beginning of a slew of announcements, LG has confirmed it is releasing its first flagship RGB TV in 2026. It wasn't a huge secret, considering \"a premium LCD TV with Micro RGB technology\" won a CES 2026 Innovation Award in November. But it's now certain that the LG [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/google-is-retiring-its-free-dark-web-monitoring-tool-next-year-023103252.html?src=rss",
+        "title": "Google is retiring its free dark web monitoring tool next year",
+        "link": "https://www.engadget.com/cybersecurity/google-is-retiring-its-free-dark-web-monitoring-tool-next-year-023103252.html?src=rss",
+        "published": "Tue, 16 Dec 2025 02:31:03 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google will stop sending out dark web reports starting early next year, as it <a class=\"link\" href=\"https://www.engadget.com/google-will-give-users-free-dark-web-monitoring-222557429.html\" target=\"_blank\">shuts down the free tool</a> that can tell you if your personal information has appeared on the seedy underbelly of the internet. The tool used to be exclusively available to Google One subscribers until the company <a class=\"link\" href=\"https://www.engadget.com/google-will-give-users-free-d"
+    },
+    {
+        "id": "https://www.engadget.com/home/home-theater/lg-will-debut-its-first-micro-rgb-television-at-ces-010037923.html?src=rss",
+        "title": "LG will debut its first Micro RGB television at CES",
+        "link": "https://www.engadget.com/home/home-theater/lg-will-debut-its-first-micro-rgb-television-at-ces-010037923.html?src=rss",
+        "published": "Tue, 16 Dec 2025 01:00:37 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>LG is getting in on one of the newest trends for televisions with the introduction of Micro RGB. The company will unveil the LG Micro RGB evo at CES 2026, but it shared some preliminary information about the screen today.</p>\n<p>Micro RGB is a newer screen technology where rather than white lights, the backlight can be any hue thanks to individually controlled red, green and blue Micro LEDs, offering a wider color array. This approach is a mid-way point between the precision of OLED with its "
+    },
+    {
+        "id": "https://mashable.com/article/cloudflare-year-2025-year-in-review",
+        "title": "Internet traffic grew 19% in 2025, Google remains king",
+        "link": "https://mashable.com/article/cloudflare-year-2025-year-in-review",
+        "published": "Tue, 16 Dec 2025 00:59:11 +0000",
+        "source": "Mashable",
+        "summary": "Cloudflare has released a report looking back at online statistics in 2025, and found that overall internet usage grew 19%."
+    },
+    {
+        "id": "https://www.zdnet.com/article/busenlabs-boron-versus-bohdi-linux-compare-lightweight-distributions/",
+        "title": "BusenLabs Boron vs. Bohdi Linux: Which lightweight distro is right for you?",
+        "link": "https://www.zdnet.com/article/busenlabs-boron-versus-bohdi-linux-compare-lightweight-distributions/",
+        "published": "Tue, 16 Dec 2025 02:00:39 GMT",
+        "source": "Latest news",
+        "summary": "At first glance, these two distributions seem quite similar, but dive in with me, and you'll soon appreciate the stark differences."
+    },
+    {
+        "id": "https://www.zdnet.com/article/lg-micro-rgb-tv-oled/",
+        "title": "LG unveils its first Micro RGB TV ahead of CES 2026, and it's got OLED users feeling envy",
+        "link": "https://www.zdnet.com/article/lg-micro-rgb-tv-oled/",
+        "published": "Tue, 16 Dec 2025 01:00:41 GMT",
+        "source": "Latest news",
+        "summary": "LG's upcoming flagship television model combines micro-LEDs, AI-powered processing, and advanced dimming to deliver top-tier visual quality."
+    },
+    {
+        "id": "https://quill-os.org/",
+        "title": "Quill OS \u2013 an open-source, fully-functional standalone OS for Kobo eReaders",
+        "link": "https://quill-os.org/",
+        "published": "Tue, 16 Dec 2025 00:22:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46283016\">Comments</a>"
+    },
+    {
+        "id": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
+        "title": "Ideas Aren't Getting Harder to Find",
+        "link": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
+        "published": "Tue, 16 Dec 2025 00:34:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46283129\">Comments</a>"
     }
 ]
