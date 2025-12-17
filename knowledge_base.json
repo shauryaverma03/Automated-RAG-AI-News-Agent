@@ -18886,5 +18886,53 @@
         "published": "Wed, 17 Dec 2025 20:10:12 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46304865\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/",
+        "title": "Jared Isaacman confirmed as next head of NASA",
+        "link": "https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/",
+        "published": "Wed, 17 Dec 2025 21:52:17 +0000",
+        "source": "TechCrunch",
+        "summary": "Isaacman will run the space agency at a time when Trump is trying to both downsize it and task it with returning astronauts to the Moon."
+    },
+    {
+        "id": "https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/",
+        "title": "\u2018Wicked\u2019 Director Jon M. Chu on \u2018What Makes Art Beautiful\u2019 in the AI Era",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/",
+        "published": "Wed, 17 Dec 2025 22:07:59 +0000",
+        "source": "WIRED",
+        "summary": "In this episode of Uncanny Valley, we bring you our conversation with Jon M. Chu from WIRED\u2019s Big Interview event, fresh on the heels of directing Wicked: For Good."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/music/billboards-charts-are-increasingly-weighted-towards-on-demand-streaming-but-not-enough-for-youtube-220238291.html?src=rss",
+        "title": "Billboard's charts are increasingly weighted towards on-demand streaming, but not enough for YouTube",
+        "link": "https://www.engadget.com/entertainment/music/billboards-charts-are-increasingly-weighted-towards-on-demand-streaming-but-not-enough-for-youtube-220238291.html?src=rss",
+        "published": "Wed, 17 Dec 2025 22:02:38 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>YouTube <a class=\"link\" href=\"https://blog.youtube/news-and-events/youtube-billboard-chart-update/\" target=\"_blank\">announced</a> that it will no longer share data with Billboard for the creation of the Billboard Hot 100 and other charts because the video platform doesn't believe they're calculated fairly. The issue lies, per YouTube, with how Billboard weighs on-demand streams in its rankings: The publication weighs streams from paid music streaming services over ad-supported streams, and Yo"
+    },
+    {
+        "id": "https://gizmodo.com/vesuvius-exploded-in-august-so-why-were-pompeii-victims-wearing-heavy-clothing-2000700770",
+        "title": "Vesuvius Exploded in August\u2014So Why Were Pompeii Victims Wearing Heavy Clothing?",
+        "link": "https://gizmodo.com/vesuvius-exploded-in-august-so-why-were-pompeii-victims-wearing-heavy-clothing-2000700770",
+        "published": "Wed, 17 Dec 2025 21:55:35 +0000",
+        "source": "Gizmodo",
+        "summary": "Despite the fact that Mount Vesuvius triggered one of the most infamous ancient tragedies, not everyone agrees on exactly when it took place."
+    },
+    {
+        "id": "https://mashable.com/article/oscars-move-youtube",
+        "title": "Oscars ditch Disney, will stream on YouTube",
+        "link": "https://mashable.com/article/oscars-move-youtube",
+        "published": "Wed, 17 Dec 2025 20:19:44 +0000",
+        "source": "Mashable",
+        "summary": "After decades on network television, the Academy Awards will stream on YouTube for free by the end of the decade."
+    },
+    {
+        "id": "https://pypi.org/project/wavelet-matrix/",
+        "title": "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
+        "link": "https://pypi.org/project/wavelet-matrix/",
+        "published": "Wed, 17 Dec 2025 19:35:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46304413\">Comments</a>"
     }
 ]
