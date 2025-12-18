@@ -19358,5 +19358,45 @@
         "published": "Wed, 17 Dec 2025 23:58:40 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46307306\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/review/lovense-spinel/",
+        "title": "Lovense Spinel Review: A Great Mini Sex Machine",
+        "link": "https://www.wired.com/review/lovense-spinel/",
+        "published": "Thu, 18 Dec 2025 09:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The multi-stimulating sex machine can heat up, can be mounted via a suction cup, and is totally worth the splurge."
+    },
+    {
+        "id": "https://www.engadget.com/deals/the-best-streaming-deals-get-50-percent-off-masterclass-subscriptions-plus-save-on-starz-audible-crunchyroll-and-others-133028536.html?src=rss",
+        "title": "The best streaming deals: Get 50 percent off MasterClass subscriptions, plus save on Starz, Audible, Crunchyroll and others",
+        "link": "https://www.engadget.com/deals/the-best-streaming-deals-get-50-percent-off-masterclass-subscriptions-plus-save-on-starz-audible-crunchyroll-and-others-133028536.html?src=rss",
+        "published": "Thu, 18 Dec 2025 09:01:25 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Whether you\u2019re a true cord-cutter or you just want to watch the next season of Stranger Things when it drops, everyone\u2019s on the lookout for streaming deals nowadays. Plenty have chosen VOD and<a href=\"https://www.engadget.com/entertainment/streaming/best-live-tv-streaming-service-133000410.html\"> live TV streaming services</a> over traditional cable in recent years, but the savings that choice got you just a few years ago have somewhat evaporated now. Companies like Netflix, Disney, Max and o"
+    },
+    {
+        "id": "https://mashable.com/article/youtube-billboard-music-charts-withdraw",
+        "title": "YouTube will stop giving Billboard its music streaming data",
+        "link": "https://mashable.com/article/youtube-billboard-music-charts-withdraw",
+        "published": "Thu, 18 Dec 2025 08:21:50 +0000",
+        "source": "Mashable",
+        "summary": "YouTube won't share music streaming data with Billboard any more, objecting to how it weights streams when calculating U.S. charts."
+    },
+    {
+        "id": "https://www.zdnet.com/article/gadget-gift-guide/",
+        "title": "The 17 best last-minute gizmos to gift the person who has everything",
+        "link": "https://www.zdnet.com/article/gadget-gift-guide/",
+        "published": "Thu, 18 Dec 2025 09:00:48 GMT",
+        "source": "Latest news",
+        "summary": "What do you get for the person who has everything? I'm a gadget reviewer, and there's a good chance that something on this list will appeal to them - and arrive before Christmas."
+    },
+    {
+        "id": "https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc",
+        "title": "RCE via ND6 Router Advertisements in FreeBSD",
+        "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc",
+        "published": "Thu, 18 Dec 2025 08:12:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46310104\">Comments</a>"
     }
 ]
