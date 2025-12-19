@@ -22582,5 +22582,37 @@
         "published": "Fri, 19 Dec 2025 19:12:57 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46329696\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/19/anonymous-messaging-app-ngl-was-acquired-by-earnphone-startup-mode-mobile/",
+        "title": "Anonymous messaging app NGL was acquired by \u2018earnphone\u2019 startup Mode Mobile",
+        "link": "https://techcrunch.com/2025/12/19/anonymous-messaging-app-ngl-was-acquired-by-earnphone-startup-mode-mobile/",
+        "published": "Fri, 19 Dec 2025 20:34:47 +0000",
+        "source": "TechCrunch",
+        "summary": "Given NGL's track record of dubious growth hacking, this partnership with Mode Mobile like a good match."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/",
+        "title": "Hundreds of Cisco customers are vulnerable to new Chinese hacking campaign, researchers say",
+        "link": "https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/",
+        "published": "Fri, 19 Dec 2025 20:15:02 +0000",
+        "source": "TechCrunch",
+        "summary": "Cisco warned that Chinese government hackers are exploiting a zero-day in some of its products. Researchers now say there are hundreds of vulnerable Cisco customers."
+    },
+    {
+        "id": "https://gizmodo.com/my-hero-academia-boku-no-anime-review-series-finale-crunchyroll-kohei-horikoshi-2000701820",
+        "title": "\u2018My Hero Academia\u2019 Carried the Shonen Anime Torch to a Triumphant Finish",
+        "link": "https://gizmodo.com/my-hero-academia-boku-no-anime-review-series-finale-crunchyroll-kohei-horikoshi-2000701820",
+        "published": "Fri, 19 Dec 2025 20:15:19 +0000",
+        "source": "Gizmodo",
+        "summary": "'My Hero Academia' earned its flowers as a superhero epic that never lost its way\u2014and it also elevated the genre to new heights."
+    },
+    {
+        "id": "https://mistral.ai/news/mistral-ocr-3",
+        "title": "Mistral OCR 3",
+        "link": "https://mistral.ai/news/mistral-ocr-3",
+        "published": "Thu, 18 Dec 2025 15:01:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46313390\">Comments</a>"
     }
 ]
