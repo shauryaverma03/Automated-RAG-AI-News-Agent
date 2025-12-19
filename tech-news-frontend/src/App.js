@@ -21,10 +21,10 @@ function App() {
       
       // Sort by published date (newest first)
       const sorted = data.sort((a, b) => 
-        new Date(b. published) - new Date(a.published)
+        new Date(b.published) - new Date(a.published)
       );
       
-      setArticles(sorted. slice(0, 20)); // Latest 20
+      setArticles(sorted.slice(0, 20)); // Latest 20
       setLastUpdated(new Date().toLocaleString());
       setLoading(false);
     } catch (error) {
@@ -76,12 +76,12 @@ function App() {
                 
                 <p className="summary">
                   {article.summary 
-                    ? article.summary. substring(0, 150) + '...' 
+                    ? article.summary.substring(0, 150) + '...' 
                     : 'No summary available'}
                 </p>
                 
                 <a 
-                  href={article. link} 
+                  href={article.link} 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="read-more"
