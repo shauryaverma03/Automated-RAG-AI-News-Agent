@@ -11,39 +11,77 @@ jobs:
     permissions:
       contents: write  # Critical: Allows the bot to push changes
     
-    steps:
-      - name: Checkout Code
+    steps: 
+      - name: 📥 Checkout Code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full history to avoid conflicts
         
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
           
-      - name: Install Libraries
+      - name: 📦 Install Libraries
         run: pip install -r requirements.txt
         
-      - name: Run Automation Script
-        env:
+      - name: 🔍 Run Automation Script
+        env: 
           PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_TOKEN: ${{ secrets. HF_TOKEN }}
           HF_REPO_ID: ${{ secrets.HF_REPO_ID }}
         run: python ingest_and_push.py
         
-      # --- SAVE THE JSON BOOK TO GITHUB ---
-      - name: Commit JSON Data
+      # --- SAVE BOTH JSON FILES TO GITHUB ---
+      - name: 💾 Commit JSON Data to Repository
         run: |
-          # 1. SET YOUR IDENTITY (You MUST change these two lines!)
-          git config --global user.name "shauryaverma03"
-          git config --global user.email "shauryaverma036@gmail.com"
+          # 1. Configure Git identity
+          git config --local user.name "shauryaverma03"
+          git config --local user.email "shauryaverma036@gmail.com"
           
           # 2. Pull latest changes to avoid conflicts
-          git pull
+          git pull origin main --rebase || echo "No remote changes to pull"
           
-          # 3. Add the JSON Knowledge Base file
+          # 3. Add BOTH JSON files (root + React public folder)
           git add knowledge_base.json
+          git add tech-news-frontend/public/knowledge_base.json
           
-          # 4. Commit and Push
-          git commit -m "📚 Added new articles to JSON Data" || echo "No news to commit"
-          git push
+          # 4. Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "ℹ️ No changes to commit - knowledge base already up to date"
+          else
+            # 5. Commit with timestamp
+            git commit -m "📚 Auto-update: News data refreshed - $(date +'%Y-%m-%d %H:%M UTC')"
+            
+            # 6. Push to GitHub
+            git push origin main
+            echo "✅ Successfully pushed updates to GitHub"
+          fi
+      
+      - name: 📊 Job Summary
+        if: always()
+        run: |
+          echo "### 🎉 News Ingestion Workflow Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| **Execution Time** | $(date +'%Y-%m-%d %H:%M:%S UTC') |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Python Version** | 3.10 |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Files Updated** | 2 (root + React public) |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Next Run** | In 1 hour |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Check file sizes
+          if [ -f knowledge_base.json ]; then
+            ROOT_SIZE=$(du -h knowledge_base.json | cut -f1)
+            echo "| **Root JSON Size** | $ROOT_SIZE |" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ -f tech-news-frontend/public/knowledge_base.json ]; then
+            REACT_SIZE=$(du -h tech-news-frontend/public/knowledge_base.json | cut -f1)
+            echo "| **React JSON Size** | $REACT_SIZE |" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ **Status**: Success" >> $GITHUB_STEP_SUMMARY
