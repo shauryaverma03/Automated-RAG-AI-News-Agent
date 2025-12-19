@@ -22614,5 +22614,29 @@
         "published": "Thu, 18 Dec 2025 15:01:10 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46313390\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi",
+        "title": "Google sues web scraper for sucking up search results \u2018at an astonishing scale\u2019",
+        "link": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi",
+        "published": "2025-12-19T15:48:37-05:00",
+        "source": "The Verge",
+        "summary": "Google has filed a lawsuit against SerpApi, a company that offers tools to scrape content on the web, including Google's search results. SerpApi is accused of violating the Copyright Act by using \"deceptive means\" to automatically access and take Google's search results \"at an astonishing scale\" before selling the data to customers. Reddit also sued [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/netflix-is-acquiring-game-avatar-maker-ready-player-me-204443001.html?src=rss",
+        "title": "Netflix is acquiring game avatar maker Ready Player Me",
+        "link": "https://www.engadget.com/gaming/netflix-is-acquiring-game-avatar-maker-ready-player-me-204443001.html?src=rss",
+        "published": "Fri, 19 Dec 2025 20:44:43 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Netflix is acquiring Estonian startup <a class=\"link\" href=\"https://readyplayer.me/\" target=\"_blank\">Ready Player Me</a>, a company creating &quot;cross-game avatar tech&quot; that allows players to bring their digital personas with them to different games, the company's CEO Timmu T\u00f5ke <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=6deefbf2-941b-4156-9f41-a61ebb50d13d&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b7822683-862a-4270-b2d5-295"
+    },
+    {
+        "id": "https://www.zdnet.com/article/pebblebee-clip-5-review/",
+        "title": "This Bluetooth tracker that replaced my AirTags has more features at a cheaper price",
+        "link": "https://www.zdnet.com/article/pebblebee-clip-5-review/",
+        "published": "Fri, 19 Dec 2025 20:44:00 GMT",
+        "source": "Latest news",
+        "summary": "Pebblebee's Clip 5 finder tag attaches to a key ring, works with both iOS and Android devices, and makes a loud sound."
     }
 ]
