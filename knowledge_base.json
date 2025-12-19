@@ -22374,5 +22374,117 @@
         "published": "Fri, 19 Dec 2025 18:03:00 GMT",
         "source": "Latest news",
         "summary": "With a gorgeous OLED screen and powerful hardware, the Yoga Pro 9i Aura Edition is a high-performance device that many should consider."
+    },
+    {
+        "id": "https://www.wired.com/story/sam-altman-brain-computer-interface-merge-labs-spin-out-nonprofit-forest-neurotech/",
+        "title": "Sam Altman\u2019s New Brain Venture, Merge Labs, Will Spin Out of a Nonprofit",
+        "link": "https://www.wired.com/story/sam-altman-brain-computer-interface-merge-labs-spin-out-nonprofit-forest-neurotech/",
+        "published": "Fri, 19 Dec 2025 19:03:11 +0000",
+        "source": "WIRED",
+        "summary": "Merge Labs, a brain-computer interface startup that seeks to read brain activity using ultrasound, is being spun out of Forest Neurotech, a Los Angeles nonprofit."
+    },
+    {
+        "id": "https://arstechnica.com/science/2025/12/trumps-energy-secretary-orders-a-washington-state-coal-plant-to-remain-open/",
+        "title": "Trump\u2019s energy secretary orders a Washington state coal plant to remain open",
+        "link": "https://arstechnica.com/science/2025/12/trumps-energy-secretary-orders-a-washington-state-coal-plant-to-remain-open/",
+        "published": "Fri, 19 Dec 2025 18:29:04 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Chris Wright declared an energy \u201cemergency\u201d in the Pacific Northwest."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2025/12/instacart-agrees-to-refund-subscribers-60-million-in-ftc-settlement/",
+        "title": "Instacart agrees to refund subscribers $60 million in FTC settlement",
+        "link": "https://arstechnica.com/tech-policy/2025/12/instacart-agrees-to-refund-subscribers-60-million-in-ftc-settlement/",
+        "published": "Fri, 19 Dec 2025 18:10:04 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The grocery app will also stop hiding refund options and obscuring delivery costs."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2025/12/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall/",
+        "title": "Strava puts popular \u201cYear in Sport\u201d recap behind an $80 paywall",
+        "link": "https://arstechnica.com/culture/2025/12/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall/",
+        "published": "Fri, 19 Dec 2025 17:43:30 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Strava\u2019s most viral feature is suddenly locked away."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/",
+        "title": "We asked four AI coding agents to rebuild Minesweeper\u2014the results were explosive",
+        "link": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/",
+        "published": "Fri, 19 Dec 2025 17:29:40 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "How do four modern LLMs do at recreating a simple Windows gaming classic?"
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/mark-zuckerbergs-nonprofit-cuts-ties-with-the-immigration-advocacy-group-he-co-founded-183447900.html?src=rss",
+        "title": "Mark Zuckerberg's nonprofit cuts ties with the immigration advocacy group he co-founded",
+        "link": "https://www.engadget.com/big-tech/mark-zuckerbergs-nonprofit-cuts-ties-with-the-immigration-advocacy-group-he-co-founded-183447900.html?src=rss",
+        "published": "Fri, 19 Dec 2025 18:34:47 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Behold Mark Zuckerberg: man of principle. Witness the Meta CEO's dedication to the most high-minded of causes: \"currying favor with whoever's in charge.\" In 2013, when Barack Obama was president, Zuckerberg co-founded <a class=\"link\" href=\"http://FWD.us\" target=\"_blank\"></a><a class=\"link\" target=\"_blank\">FWD.us</a>, a pro-immigration advocacy group. For years, he vocally supported providing paths to citizenship for \"the most talented and hardest-working people, no matter where they were born"
+    },
+    {
+        "id": "https://gizmodo.com/how-a-reddit-post-helped-find-the-brown-university-shooting-suspect-2000701854",
+        "title": "How a Reddit Post Helped Find the Brown University Shooting Suspect",
+        "link": "https://gizmodo.com/how-a-reddit-post-helped-find-the-brown-university-shooting-suspect-2000701854",
+        "published": "Fri, 19 Dec 2025 19:00:37 +0000",
+        "source": "Gizmodo",
+        "summary": "\"The police need to look into a grey Nissan with Florida plates, possibly a rental.\""
+    },
+    {
+        "id": "https://gizmodo.com/a-suction-based-wall-mount-is-here-to-clean-up-your-hideous-tv-cord-spaghetti-2000701816",
+        "title": "A Suction-Based Wall Mount Is Here to Clean Up Your Hideous TV Cord Spaghetti",
+        "link": "https://gizmodo.com/a-suction-based-wall-mount-is-here-to-clean-up-your-hideous-tv-cord-spaghetti-2000701816",
+        "published": "Fri, 19 Dec 2025 18:20:07 +0000",
+        "source": "Gizmodo",
+        "summary": "Displace is back with a hub that makes your regular TV \"cordless.\""
+    },
+    {
+        "id": "https://mashable.com/article/amazon-aws-russian-years-long-cyberattack",
+        "title": "Amazon confirms years-long Russian cyberattack against AWS and its users",
+        "link": "https://mashable.com/article/amazon-aws-russian-years-long-cyberattack",
+        "published": "Fri, 19 Dec 2025 18:40:29 +0000",
+        "source": "Mashable",
+        "summary": "Amazon Web Services has been under attack for half a decade by Russian state actors."
+    },
+    {
+        "id": "https://mashable.com/article/tiktok-awards-were-messy",
+        "title": "The TikTok Awards were messy. I was there.",
+        "link": "https://mashable.com/article/tiktok-awards-were-messy",
+        "published": "Fri, 19 Dec 2025 18:01:31 +0000",
+        "source": "Mashable",
+        "summary": "Technical failures, missing winners, and a room that slowly emptied defined TikTok's first U.S. awards show."
+    },
+    {
+        "id": "https://mashable.com/article/amazon-super-saturday-2025-sale",
+        "title": "Amazon is throwing one more sale to close out the year \u2014 save during the Super Saturday sale",
+        "link": "https://mashable.com/article/amazon-super-saturday-2025-sale",
+        "published": "Fri, 19 Dec 2025 18:01:16 +0000",
+        "source": "Mashable",
+        "summary": "Amazon is launching one more sale to close out the year. On Dec. 20, shop Amazon's Super Saturday sale, delivering savings up to 50% on speakers, cameras, headphones, and gift cards."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-disable-acr-on-your-tv/",
+        "title": "How to disable ACR on your TV (and why you should do it ASAP)",
+        "link": "https://www.zdnet.com/article/how-to-disable-acr-on-your-tv/",
+        "published": "Fri, 19 Dec 2025 19:02:00 GMT",
+        "source": "Latest news",
+        "summary": "Your Samsung, LG, and even Sony TV comes with privacy risks. Here's how to avoid one of the biggest with just a few steps."
+    },
+    {
+        "id": "https://bayareacurrent.com/meet-the-new-right-wing-tech-intelligentsia/",
+        "title": "The New Right-Wing Tech Intelligentsia",
+        "link": "https://bayareacurrent.com/meet-the-new-right-wing-tech-intelligentsia/",
+        "published": "Fri, 19 Dec 2025 18:46:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46329375\">Comments</a>"
+    },
+    {
+        "id": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
+        "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
+        "link": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
+        "published": "Fri, 19 Dec 2025 18:19:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46329038\">Comments</a>"
     }
 ]
