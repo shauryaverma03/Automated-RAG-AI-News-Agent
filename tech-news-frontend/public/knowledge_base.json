@@ -23342,5 +23342,37 @@
         "published": "Tue, 16 Dec 2025 12:48:12 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46287848\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done",
+        "title": "The LCD Steam Deck is done",
+        "link": "https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done",
+        "published": "2025-12-20T11:09:55-05:00",
+        "source": "The Verge",
+        "summary": "The most affordable Steam Deck, the $399 LCD model, is not available in the US. And, according to the Steam Deck site, it won't be coming back. Underneath the listings for the various models is a note that says: We are no longer producing the Steam Deck LCD 256GB model. Once sold out, it will [&#8230;]"
+    },
+    {
+        "id": "https://gizmodo.com/the-true-my-hero-academia-finale-arrives-next-year-2000701806",
+        "title": "The True \u2018My Hero Academia\u2019 Finale Arrives Next Year",
+        "link": "https://gizmodo.com/the-true-my-hero-academia-finale-arrives-next-year-2000701806",
+        "published": "Sat, 20 Dec 2025 15:30:43 +0000",
+        "source": "Gizmodo",
+        "summary": "Bones has one last episode for 'My Academia' to close out the anime as part of the series' 10-year celebration."
+    },
+    {
+        "id": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
+        "title": "Go ahead, self-host Postgres",
+        "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
+        "published": "Sat, 20 Dec 2025 15:43:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46336947\">Comments</a>"
+    },
+    {
+        "id": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
+        "title": "Log level 'error' should mean that something needs to be fixed",
+        "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
+        "published": "Wed, 17 Dec 2025 12:08:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46301059\">Comments</a>"
     }
 ]
