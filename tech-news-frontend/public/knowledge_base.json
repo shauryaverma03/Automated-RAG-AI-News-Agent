@@ -24102,5 +24102,37 @@
         "published": "Tue, 16 Dec 2025 21:23:18 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46294694\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
+        "title": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
+        "link": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
+        "published": "2025-12-21T14:17:00-05:00",
+        "source": "The Verge",
+        "summary": "A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak, according to Pacific Gas and Electric Company, but also caused another problem: stranded Waymo vehicles. Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams. Some people posted videos [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/xbox/gulikits-20-mod-makes-the-rog-xbox-allys-joysticks-drift-free-190521030.html?src=rss",
+        "title": "GuliKit's $20 mod makes the ROG Xbox Ally's joysticks drift-free",
+        "link": "https://www.engadget.com/gaming/xbox/gulikits-20-mod-makes-the-rog-xbox-allys-joysticks-drift-free-190521030.html?src=rss",
+        "published": "Sun, 21 Dec 2025 19:05:21 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>There may not be any reports of <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/gaming/nintendo/nintendo-says-the-switch-2-joy-cons-dont-have-hall-effect-thumbsticks-for-reducing-stick-drift-145541325.html\">stick drift</a> with the <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/gaming/pc/asus-rog-xbox-ally-x-review-an-extra-life-for-xbox-130050224.html\">ROG Xbox Ally</a> yet, but that doesn't mean there won't be. If you'd rather not end up with joysticks that have a m"
+    },
+    {
+        "id": "https://gizmodo.com/open-channel-whatd-you-think-of-avatar-fire-and-ash-2000702245",
+        "title": "Open Channel: What\u2019d You Think of \u2018Avatar: Fire and Ash\u2019?",
+        "link": "https://gizmodo.com/open-channel-whatd-you-think-of-avatar-fire-and-ash-2000702245",
+        "published": "Sun, 21 Dec 2025 19:50:15 +0000",
+        "source": "Gizmodo",
+        "summary": "Was 'Avatar: Fire and Ash' another worthwhile trip to Pandora, or should this be the last of the films?"
+    },
+    {
+        "id": "https://mastodon.online/@mullvadnet/115742530333573065",
+        "title": "Mullvad VPN: \"This is a Chat Control 3.0 attempt.\"",
+        "link": "https://mastodon.online/@mullvadnet/115742530333573065",
+        "published": "Sun, 21 Dec 2025 18:39:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46347080\">Comments</a>"
     }
 ]
