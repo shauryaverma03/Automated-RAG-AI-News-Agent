@@ -9,21 +9,30 @@ from datetime import datetime
 
 # --- CONFIGURATION ---
 RSS_FEEDS = [
-    "https://techcrunch.com/feed/",
-    "https://www.theverge.com/rss/index.xml",
-    "https://www.wired.com/feed/rss",
-    "https://feeds.arstechnica.com/arstechnica/index",
-    "https://venturebeat.com/feed/",
-    "https://www.engadget.com/rss.xml",
-    "https://gizmodo.com/rss",
-    "https://mashable.com/feed",
-    "https://readwrite.com/feed/",
-    "https://www.zdnet.com/news/rss.xml",
-    "https://www.computerworld.com/index.rss",
-    "https://www.infoworld.com/index. rss",
-    "https://news.ycombinator.com/rss",
-    "https://www.artificialintelligence-news.com/feed/",
-    "https://www.technologyreview.com/feed/"
+    "https://techcrunch.com/feed/",                          # TechCrunch - Startups & Tech
+    "https://www.theverge.com/rss/index.xml",               # The Verge - Tech Culture
+    "https://www.wired.com/feed/rss",                       # WIRED - Tech & Innovation
+    "https://feeds.arstechnica.com/arstechnica/index",      # Ars Technica - Deep Tech
+    "https://www.engadget.com/rss.xml",                     # Engadget - Consumer Tech
+    "https://www.technologyreview.com/feed/",               # MIT Technology Review - Research
+    "https://news.ycombinator.com/rss",                     # Hacker News - Developer Community
+    "https://www.artificialintelligence-news. com/feed/",    # AI News
+    "https://www.zdnet.com/news/rss.xml",                   # ZDNet - Enterprise Tech
+    
+    # === INDIAN TECH NEWS (Verified & Active) ===
+    "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms",  # Economic Times Tech
+    "https://www.livemint.com/technology/rss",                           # Mint Technology
+    "https://www.business-standard.com/rss/technology-105.rss",          # Business Standard Tech
+    "https://yourstory.com/feed",                                        # YourStory - Startups & Entrepreneurs
+    "https://inc42.com/feed/",                                           # Inc42 - Indian Startup Ecosystem
+    "https://www.medianama.com/feed/",                                   # MediaNama - Digital & Telecom
+    "https://www.thenewsminute.com/technology-news/rss",                # The News Minute Tech
+    "https://www.financialexpress.com/industry/technology/feed/",
+    # More Indian Tech Options
+    "https://www.digit.in/feed",                                   # Digit - Consumer Tech Reviews
+    "https://gadgets360.com/rss/feeds",                            # Gadgets 360 (NDTV)
+    "https://www.bgr.in/feed/",                                    # BGR India
+    "https://entrackr.com/feed/"                                  # Entrackr - Startup News
 ]
 
 # Load Keys
