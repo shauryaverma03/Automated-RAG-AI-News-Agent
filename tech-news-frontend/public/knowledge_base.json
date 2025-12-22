@@ -24238,5 +24238,37 @@
         "published": "Fri, 19 Dec 2025 05:49:33 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46322631\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-tech-gadgets-i-couldnt-live-without-2025/",
+        "title": "The 9 tech gadgets I couldn't live without in 2025 (and most fit in my pocket)",
+        "link": "https://www.zdnet.com/article/best-tech-gadgets-i-couldnt-live-without-2025/",
+        "published": "Mon, 22 Dec 2025 02:00:54 GMT",
+        "source": "Latest news",
+        "summary": "These are the gadgets and gizmos that have had the biggest impact on my life this calendar year, including some old-timers."
+    },
+    {
+        "id": "https://www.zdnet.com/article/sony-wh100xm6-review/",
+        "title": "I compared the best Bose and Sony ANC headphones of 2025 - here's how the latter wins",
+        "link": "https://www.zdnet.com/article/sony-wh100xm6-review/",
+        "published": "Mon, 22 Dec 2025 02:00:39 GMT",
+        "source": "Latest news",
+        "summary": "After a three-year hiatus and considerable anticipation, Sony's newest headphones impress on nearly every front."
+    },
+    {
+        "id": "https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html",
+        "title": "Deliberate Internet Shutdowns",
+        "link": "https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html",
+        "published": "Thu, 18 Dec 2025 17:49:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46316050\">Comments</a>"
+    },
+    {
+        "id": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
+        "title": "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
+        "link": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
+        "published": "Mon, 22 Dec 2025 00:27:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46350075\">Comments</a>"
     }
 ]
