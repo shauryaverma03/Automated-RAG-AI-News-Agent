@@ -26126,5 +26126,45 @@
         "published": "Mon, 22 Dec 2025 13:03:33 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The primary objective of the workshop is to share the proposed methodological and structural changes in the ongoing base revision of GDP, CPI, and IIP for seeking feedback and comments of the participants."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
+        "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
+        "link": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
+        "published": "Mon, 22 Dec 2025 22:11:19 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an 'LLM-based automated attacker.'"
+    },
+    {
+        "id": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped",
+        "title": "ChatGPT\u2019s yearly recap sums up your conversations with the chatbot",
+        "link": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped",
+        "published": "2025-12-22T17:12:11-05:00",
+        "source": "The Verge",
+        "summary": "ChatGPT is joining the flood of apps offering yearly recaps for users. It's rolling out a \"Year in Review\" feature that will show you a bunch of stats - like how many messages you sent to the chatbot in 2025 - as well as give you an AI-generated pixel art-style image that encompasses some of [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-dehumidifier/",
+        "title": "6 Best Dehumidifiers to Keep Your Home Mold-Free (2026)",
+        "link": "https://www.wired.com/gallery/best-dehumidifier/",
+        "published": "Mon, 22 Dec 2025 22:15:42 +0000",
+        "source": "WIRED",
+        "summary": "If you care about good air, it\u2019s time for a dehumidifier. These are the best ones we\u2019ve tested for everything from basements to drying laundry."
+    },
+    {
+        "id": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
+        "title": "NPM Package with 56K Downloads Caught Stealing WhatsApp Messages",
+        "link": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
+        "published": "Mon, 22 Dec 2025 22:35:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46359996\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/chatgpt-spotify-wrapped/",
+        "title": "ChatGPT launches its version of Spotify Wrapped - how to get your year-end review",
+        "link": "https://www.zdnet.com/article/chatgpt-spotify-wrapped/",
+        "published": "Mon, 22 Dec 2025 22:15:55 GMT",
+        "source": "Latest news",
+        "summary": "How well does ChatGPT know you?"
     }
 ]
