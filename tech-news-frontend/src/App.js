@@ -67,8 +67,8 @@ function App() {
     // Filter by category
     if (selectedCategory !== 'All') {
       filtered = filtered.filter(article => 
-        article.title.toLowerCase().includes(selectedCategory. toLowerCase()) ||
-        article.summary.toLowerCase().includes(selectedCategory. toLowerCase())
+        article.title.toLowerCase().includes(selectedCategory.toLowerCase()) ||
+        article.summary.toLowerCase().includes(selectedCategory.toLowerCase())
       );
     }
 
@@ -153,7 +153,7 @@ function App() {
                   <span className="time-badge">{getTimeAgo(heroArticle.published)}</span>
                 </div>
                 <h1 className="hero-title">{heroArticle.title}</h1>
-                <p className="hero-summary">{heroArticle.summary?. substring(0, 200)}...</p>
+                <p className="hero-summary">{heroArticle.summary?.substring(0, 200)}...</p>
               </div>
             </a>
           </section>
@@ -181,7 +181,7 @@ function App() {
                   </span>
                 </div>
                 <h3 className="story-title">{article.title}</h3>
-                <p className="story-summary">{article.summary?. substring(0, 120)}...</p>
+                <p className="story-summary">{article.summary?.substring(0, 120)}...</p>
                 <div className="story-footer">
                   <span className="story-time">{getTimeAgo(article.published)}</span>
                 </div>
@@ -197,7 +197,7 @@ function App() {
           </div>
 
           <div className="news-list">
-            {moreNews. map((article, index) => (
+            {moreNews.map((article, index) => (
               <a
                 key={index}
                 href={article.link}
