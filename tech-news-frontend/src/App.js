@@ -1,24 +1,42 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
+/**
+ * TechPulse - AI-Powered Tech News Aggregator
+ * Main application component that displays curated tech news from various sources
+ */
 function App() {
+  // State management
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
 
+  // Available news categories
   const categories = ['All', 'AI', 'Hardware', 'Software', 'Startups', 'Security'];
 
+  // Load news on component mount and refresh every hour
   useEffect(() => {
     loadNews();
     const interval = setInterval(loadNews, 3600000); // Refresh every hour
     return () => clearInterval(interval);
   }, []);
 
+  /**
+   * Fetches news articles from the knowledge base
+   * Sorts articles by published date (newest first)
+   */
   const loadNews = async () => {
     try {
       const response = await fetch('/knowledge_base.json');
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
       const data = await response.json();
+      
+      if (!Array.isArray(data)) {
+        throw new Error('Invalid data format');
+      }
       
       const sorted = data.sort((a, b) => 
         new Date(b.published) - new Date(a.published)
@@ -28,10 +46,16 @@ function App() {
       setLoading(false);
     } catch (error) {
       console.error('Error loading news:', error);
+      setArticles([]);
       setLoading(false);
     }
   };
 
+  /**
+   * Converts a date to a human-readable "time ago" format
+   * @param {string} date - ISO date string
+   * @returns {string} Formatted time ago string
+   */
   const getTimeAgo = (date) => {
     const now = new Date();
     const published = new Date(date);
@@ -45,6 +69,11 @@ function App() {
     return `${diffDays} days ago`;
   };
 
+  /**
+   * Returns an emoji logo for each news source
+   * @param {string} source - News source name
+   * @returns {string} Emoji representing the source
+   */
   const getSourceLogo = (source) => {
     const logos = {
       'TechCrunch': '🚀',
