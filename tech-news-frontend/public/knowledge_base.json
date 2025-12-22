@@ -25950,5 +25950,85 @@
         "published": "Tue, 23 Dec 2025 00:25:40 +0530",
         "source": "Tech-Economic Times",
         "summary": "President Trump this month said \u200che would allow sales of Nvidia's (NVDA.O) H200 chips to China, with the U.S. government collecting a 25% fee, and that the \u200bsales would help \u200bkeep U.S. firms ahead of Chinese chipmakers \u200cby \u200dcutting demand for Chinese chips."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/",
+        "title": "Paramount renews bid for Warner Bros, ensuring $40 billion Larry Ellison backing",
+        "link": "https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/",
+        "published": "Mon, 22 Dec 2025 19:53:33 +0000",
+        "source": "TechCrunch",
+        "summary": "It's the latest attempt by one major Hollywood superpower to acquire another."
+    },
+    {
+        "id": "https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar",
+        "title": "Bitcoin does cultural diplomacy in a dive bar",
+        "link": "https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar",
+        "published": "2025-12-22T14:43:43-05:00",
+        "source": "The Verge",
+        "summary": "Bitcoin culture, by nature, is anarchical and chaotic. It has to be, given the nature of Bitcoin itself and the people who adopted it: free-market libertarians who've gone all in on turning computer code into a form of money divorced from central banks, government intervention, and traceability. In short, it's the exact opposite culture of [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/849141/spotify-scrape-attack-breach-annas-archive-music-300tb-download",
+        "title": "Pirate library rips 86 million of the most popular songs on Spotify",
+        "link": "https://www.theverge.com/news/849141/spotify-scrape-attack-breach-annas-archive-music-300tb-download",
+        "published": "2025-12-22T14:23:28-05:00",
+        "source": "The Verge",
+        "summary": "Spotify says it has launched new protections against \"anti-copyright attacks\" after the open-source library / pirate activist group Anna's Archive announced it's ripped 86 million songs from the platform that it plans to make available in torrents, as reported earlier by Billboard. According to the group, \"We have archived around 86 million songs from Spotify, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/849140/birdfy-smart-birdfeeder-hum-bloom-hummingbird-feeder-vista-slow-motion",
+        "title": "Birdfy\u2019s Hum Bloom captures 120fps slow motion footage of hummingbirds",
+        "link": "https://www.theverge.com/news/849140/birdfy-smart-birdfeeder-hum-bloom-hummingbird-feeder-vista-slow-motion",
+        "published": "2025-12-22T14:21:53-05:00",
+        "source": "The Verge",
+        "summary": "Ahead of CES 2026 getting underway in early January, Birdfy has announced two new camera-equipped smart bird feeders that can identify and capture visitors in slow motion. The Birdfy Hum Bloom is specifically designed to attract and record hummingbirds using a nectar bulb that mimics flowers they're naturally attracted to, while the Feeder Vista introduces [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/",
+        "title": "The Justice Department Just Released More Epstein Files",
+        "link": "https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/",
+        "published": "Mon, 22 Dec 2025 19:43:34 +0000",
+        "source": "WIRED",
+        "summary": "The latest Epstein Files release appears to contain hundreds of photographs along with court records and other materials."
+    },
+    {
+        "id": "https://jalammar.github.io/illustrated-transformer/",
+        "title": "The Illustrated Transformer",
+        "link": "https://jalammar.github.io/illustrated-transformer/",
+        "published": "Mon, 22 Dec 2025 19:15:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46357675\">Comments</a>"
+    },
+    {
+        "id": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
+        "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
+        "link": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
+        "published": "Mon, 22 Dec 2025 19:37:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46357945\">Comments</a>"
+    },
+    {
+        "id": "https://gchandbook.org/index.html",
+        "title": "The Garbage Collection Handbook",
+        "link": "https://gchandbook.org/index.html",
+        "published": "Mon, 22 Dec 2025 19:30:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46357870\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-cheap-multitools/",
+        "title": "I've tested dozens of cheap multitools, and these are the few that I still use today",
+        "link": "https://www.zdnet.com/article/best-cheap-multitools/",
+        "published": "Mon, 22 Dec 2025 19:59:00 GMT",
+        "source": "Latest news",
+        "summary": "Seeking a premium multitool that won't disappoint? I've got two recommendations."
+    },
+    {
+        "id": "https://www.zdnet.com/article/ridge-wallet-magsafe-review/",
+        "title": "Are Ridge Wallets worth the hype? I tried one for a week, and here's my buying advice",
+        "link": "https://www.zdnet.com/article/ridge-wallet-magsafe-review/",
+        "published": "Mon, 22 Dec 2025 19:48:00 GMT",
+        "source": "Latest news",
+        "summary": "The Ridge Wallet lineup just became a lot more customizable, so what's the best way to configure one? Here's my take."
     }
 ]
