@@ -29,7 +29,6 @@ RSS_FEEDS = [
     "https://www.thenewsminute.com/technology-news/rss",                # The News Minute Tech
     "https://www.financialexpress.com/industry/technology/feed/",
     # More Indian Tech Options
-    "https://www.digit.in/feed",                                   # Digit - Consumer Tech Reviews
     "https://gadgets360.com/rss/feeds",                            # Gadgets 360 (NDTV)
     "https://www.bgr.in/feed/",                                    # BGR India
     "https://entrackr.com/feed/"                                  # Entrackr - Startup News
