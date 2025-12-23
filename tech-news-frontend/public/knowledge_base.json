@@ -27662,5 +27662,37 @@
         "published": "Mon, 22 Dec 2025 15:06:13 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46354674\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems",
+        "title": "Apple is going to allow third-party app stores in Brazil, too",
+        "link": "https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems",
+        "published": "2025-12-23T18:00:51-05:00",
+        "source": "The Verge",
+        "summary": "Apple is set to allow third-party app stores on iOS in Brazil next year after settling with the country's competition watchdog in a legal battle dating back to 2022, as reported by 9to5Mac. According to a machine translation of a press release from the Brazilian regulator CADE, it has approved a Term of Commitment to [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/",
+        "title": "China just carried out its second reusable launch attempt in three weeks",
+        "link": "https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/",
+        "published": "Tue, 23 Dec 2025 21:22:38 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The launch laid \"an important foundation for subsequent launches and reliable recovery.\""
+    },
+    {
+        "id": "https://github.com/freelawproject/x-ray",
+        "title": "X-ray: a Python library for finding bad redactions in PDF documents",
+        "link": "https://github.com/freelawproject/x-ray",
+        "published": "Tue, 23 Dec 2025 21:54:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46369923\">Comments</a>"
+    },
+    {
+        "id": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
+        "title": "Texas App Store Age Verification Law Blocked by Federal Judge",
+        "link": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
+        "published": "Tue, 23 Dec 2025 22:03:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46370012\">Comments</a>"
     }
 ]
