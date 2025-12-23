@@ -27350,5 +27350,93 @@
         "published": "Tue, 23 Dec 2025 13:42:47 GMT",
         "source": "YourStory RSS Feed",
         "summary": "From AI-native products and secure data foundations to smarter capital allocation, industry leaders decode the strategic shifts that will define the next wave of startups."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-data-of-22-6-million/",
+        "title": "US insurance giant Aflac says hackers stole personal and health data of 22.6 million",
+        "link": "https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-data-of-22-6-million/",
+        "published": "Tue, 23 Dec 2025 17:14:04 +0000",
+        "source": "TechCrunch",
+        "summary": "Aflac, one of the largest insurance companies in the U.S., confirmed hackers stole reams of personal data, including Social Security numbers, identity documents, and health information."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/",
+        "title": "Marissa Mayer\u2019s new startup Dazzle raises $8M led by Forerunner\u2019s Kirsten Green",
+        "link": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/",
+        "published": "Tue, 23 Dec 2025 16:48:45 +0000",
+        "source": "TechCrunch",
+        "summary": "Mayer launched Dazzle after shuttering her photo and contact management startup Sunshine. Green\u2019s investment suggests Dazzle is poised for the coming wave of new AI-infused consumer businesses."
+    },
+    {
+        "id": "https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction",
+        "title": "Judge blocks Texas app store age verification law",
+        "link": "https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction",
+        "published": "2025-12-23T13:15:49-05:00",
+        "source": "The Verge",
+        "summary": "A federal judge blocked a Texas law requiring mobile app stores to verify users' ages from taking effect on January 1st. In an order granting a preliminary injunction on the Texas App Store Accountability Act (SB 2420), Judge Robert Pitman wrote that the statute \"is akin to a law that would require every bookstore to [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025",
+        "title": "These great digital gifts will arrive just in time for Christmas",
+        "link": "https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025",
+        "published": "2025-12-23T13:00:00-05:00",
+        "source": "The Verge",
+        "summary": "And just like that, Christmas is less than two days away, which is too soon for most items bought online to arrive in time. That said, you aren\u2019t alone if you waited too long to start buying gifts this year, and you definitely aren\u2019t alone in feeling guilty for considering digital gifts instead of something [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/",
+        "title": "Data Holds the Key in Slowing Age-Related Illnesses",
+        "link": "https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/",
+        "published": "Tue, 23 Dec 2025 18:11:52 +0000",
+        "source": "WIRED",
+        "summary": "More accurate and individualized health predictions will allow for preventative factors to be implemented well in advance."
+    },
+    {
+        "id": "https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/",
+        "title": "NYPD Sued Over Possible Records Collected Through Muslim Spying Program",
+        "link": "https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/",
+        "published": "Tue, 23 Dec 2025 17:33:26 +0000",
+        "source": "WIRED",
+        "summary": "The New York Police Department's \u201cmosque-raking\u201d program targeted Muslim communities across NYC. Now, as the city's first Muslim mayor takes office, one man is fighting\u2014again\u2014to fully expose it."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2025/12/openais-child-exploitation-reports-increased-sharply-this-year/",
+        "title": "OpenAI\u2019s child exploitation reports increased sharply this year",
+        "link": "https://arstechnica.com/tech-policy/2025/12/openais-child-exploitation-reports-increased-sharply-this-year/",
+        "published": "Tue, 23 Dec 2025 17:02:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Incident reports spiked during the first six months of 2025."
+    },
+    {
+        "id": "https://www.engadget.com/social-media/engadget-podcast-why-is-the-nex-playground-ai-console-such-a-hit-181151201.html?src=rss",
+        "title": "Engadget Podcast: Why is the Nex Playground 'AI console' such a hit?",
+        "link": "https://www.engadget.com/social-media/engadget-podcast-why-is-the-nex-playground-ai-console-such-a-hit-181151201.html?src=rss",
+        "published": "Tue, 23 Dec 2025 18:11:51 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Over the past two years, the Nex Playground has carved out a niche for itself with kids and parents alike. It's a small box that sits in front of your TV and uses a camera, along with computer vision AI processing, to track your movement for interactive games. Think of it like a simplified version of Microsoft's Kinect (RIP), with a bit of the local multiplayer we see from the original Wii. In this bonus episode, we chat with David Lee, Nex's CEO and co-founder, about how he went from buildin"
+    },
+    {
+        "id": "https://github.com/bellard/mquickjs/blob/main/README.md",
+        "title": "Fabrice Bellard Releases MicroQuickJS",
+        "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
+        "published": "Tue, 23 Dec 2025 17:33:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46367224\">Comments</a>"
+    },
+    {
+        "id": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
+        "title": "Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers",
+        "link": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
+        "published": "Tue, 23 Dec 2025 17:08:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46366998\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ai-devops-firm-harness-io-to-ramp-up-india-rd-hiring-eyes-1000-staff-in-three-years/articleshow/126146173.cms",
+        "title": "AI DevOps firm Harness.io to ramp up India R&amp;D hiring; eyes 1,000 staff in three years",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ai-devops-firm-harness-io-to-ramp-up-india-rd-hiring-eyes-1000-staff-in-three-years/articleshow/126146173.cms",
+        "published": "Tue, 23 Dec 2025 23:32:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The startup, led by Jyoti Bansal, founder of AppDynamics, which was acquired by Cisco for $3.7 billion in 2017, is using AI to streamline the entire DevOps lifecycle, cutting software delivery turnaround time across testing, security, deployment, operations, and cost optimisation."
     }
 ]
