@@ -26166,5 +26166,85 @@
         "published": "Mon, 22 Dec 2025 22:15:55 GMT",
         "source": "Latest news",
         "summary": "How well does ChatGPT know you?"
+    },
+    {
+        "id": "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak",
+        "title": "The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband",
+        "link": "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak",
+        "published": "2025-12-22T19:06:04-05:00",
+        "source": "The Verge",
+        "summary": "Yesterday, Bari Weiss, the new editor-in-chief of CBS News, censored a segment of its newsmagazine 60 Minutes about men who had been deported to an El Salvador prison. Today, it's popping up online. 60 Minutes had already begun promoting the now-censored segment online. Because it was pulled so late, it seems that CBS missed at [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/fda-approves-pill-version-of-wegovy/",
+        "title": "FDA Approves Pill Version of Wegovy",
+        "link": "https://www.wired.com/story/fda-approves-pill-version-of-wegovy/",
+        "published": "Mon, 22 Dec 2025 23:59:33 +0000",
+        "source": "WIRED",
+        "summary": "Novo Nordisk\u2019s semaglutide will soon be available in a daily pill Americans can take for weight loss."
+    },
+    {
+        "id": "https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/",
+        "title": "The \u2018Epstein\u2019s Suicide\u2019 Video in the Latest DOJ Release Isn\u2019t What It Seems",
+        "link": "https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/",
+        "published": "Mon, 22 Dec 2025 23:34:45 +0000",
+        "source": "WIRED",
+        "summary": "Here\u2019s how a fake clip from 2019 wound up in the latest Justice Department Epstein files dump."
+    },
+    {
+        "id": "https://brooker.co.za/blog/2024/05/09/nagle.html",
+        "title": "It's Always TCP_NODELAY",
+        "link": "https://brooker.co.za/blog/2024/05/09/nagle.html",
+        "published": "Mon, 22 Dec 2025 21:09:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46359120\">Comments</a>"
+    },
+    {
+        "id": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
+        "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+        "link": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
+        "published": "Mon, 22 Dec 2025 16:31:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46355548\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/dottorpod-isesamo-review/",
+        "title": "This $12 gadget quietly became the most useful thing on my keychain - here's how",
+        "link": "https://www.zdnet.com/article/dottorpod-isesamo-review/",
+        "published": "Tue, 23 Dec 2025 00:30:44 GMT",
+        "source": "Latest news",
+        "summary": "The Mini iSesamo is durable, flexible, and surprisingly capable. Here's my verdict as a tools expert."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tata-electronics-will-test-assemble-chips-with-japans-rohm/articleshow/126127395.cms",
+        "title": "Tata Electronics will test, assemble chips with Japan's ROHM",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tata-electronics-will-test-assemble-chips-with-japans-rohm/articleshow/126127395.cms",
+        "published": "Tue, 23 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "As an initial focus, ROHM and Tata Electronics will establish a manufacturing framework for power semiconductors. Tata Electronics will begin by assembling and testing ROHM's India-designed automotive-grade Nch 100V, 300A Si MOSFET in a TOLL package, targeting mass production shipments by next year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/data-centre-certification-push-to-be-tailored-to-make-it-ai-ready/articleshow/126127338.cms",
+        "title": "Data centre certification push to be tailored to make it AI ready",
+        "link": "https://economictimes.indiatimes.com/tech/technology/data-centre-certification-push-to-be-tailored-to-make-it-ai-ready/articleshow/126127338.cms",
+        "published": "Tue, 23 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Ministry of Electronics and Information Technology (MeitY) is working on establishing national standards for operations and maintenance of AI data centres, which have vastly different requirements than traditional data centres. These facilities require five times higher power and 10 times more water, according to industry estimates."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-takes-baby-steps-to-sarkarai/articleshow/126127141.cms",
+        "title": "India takes baby steps to Sarkar(AI)",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-takes-baby-steps-to-sarkarai/articleshow/126127141.cms",
+        "published": "Tue, 23 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "New Delhi is using AI for an array of services but a consolidated approach is needed for deeper adoption, write Twesh Mishra and Subhayan Chakraborty."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indias-bare-pcb-manufacturing-set-for-45-cagr-surge/articleshow/126126186.cms",
+        "title": "India\u2019s bare PCB manufacturing set for 45% CAGR surge",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indias-bare-pcb-manufacturing-set-for-45-cagr-surge/articleshow/126126186.cms",
+        "published": "Tue, 23 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The bare PCB market in India currently is worth $5 billion, with an 88% import dependence. Domestic production is expected to expand from $0.6 billion in fiscal 2024 to $3.8 billion by FY29, reducing the dependence on supplies from abroad to 69%, the financial services firm said in the report."
     }
 ]
