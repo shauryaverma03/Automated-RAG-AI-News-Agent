@@ -28006,5 +28006,77 @@
         "published": "Wed, 24 Dec 2025 10:01:11 GMT",
         "source": "Latest news",
         "summary": "Linux's history is littered with distributions that came and went, many of which are long forgotten. There are some, however, that I actually miss, and these are they."
+    },
+    {
+        "id": "https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/",
+        "title": "The Age of the All-Access AI Agent Is Here",
+        "link": "https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/",
+        "published": "Wed, 24 Dec 2025 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private."
+    },
+    {
+        "id": "https://www.wired.com/story/pinterst-ai-slop-content/",
+        "title": "Pinterest Users Are Tired of All the AI Slop",
+        "link": "https://www.wired.com/story/pinterst-ai-slop-content/",
+        "published": "Wed, 24 Dec 2025 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "A surge of AI-generated content is frustrating Pinterest users and left some questioning whether the platform still works at all."
+    },
+    {
+        "id": "https://christitus.com/windows-tool/",
+        "title": "The Windows Utility",
+        "link": "https://christitus.com/windows-tool/",
+        "published": "Wed, 24 Dec 2025 10:48:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46374413\">Comments</a>"
+    },
+    {
+        "id": "https://aminediro.com/posts/flash_attn/",
+        "title": "I rebuilt FlashAttention in Triton to understand the performance archaeology",
+        "link": "https://aminediro.com/posts/flash_attn/",
+        "published": "Sun, 21 Dec 2025 10:49:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46343894\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/open-source-free-windows-apps-boost-your-productivity/",
+        "title": "10 free Windows apps that improved my productivity (and I'd easily pay money for)",
+        "link": "https://www.zdnet.com/article/open-source-free-windows-apps-boost-your-productivity/",
+        "published": "Wed, 24 Dec 2025 11:00:00 GMT",
+        "source": "Latest news",
+        "summary": "There are great open-source applications available for most any task. Here are some of my favorites."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/italy-watchdog-orders-meta-to-halt-whatsapp-terms-barring-rival-ai-chatbots-report/articleshow/126159146.cms",
+        "title": "Italy watchdog orders Meta to halt WhatsApp terms barring rival AI chatbots: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/italy-watchdog-orders-meta-to-halt-whatsapp-terms-barring-rival-ai-chatbots-report/articleshow/126159146.cms",
+        "published": "Wed, 24 Dec 2025 16:31:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Italy's competition authority (AGCM) has instructed Meta to stop enforcing rules that may obstruct competing AI chatbots from operating on WhatsApp. With the investigation focused on potential monopolistic behaviour by Meta, the company contends that the decision is misguided and vows to challenge it in court."
+    },
+    {
+        "id": "https://yourstory.com/2025/12/auxano-capital-exits-lets-game-now-with-single-digit-returns",
+        "title": "Auxano Capital exits Lets Game Now with single-digit returns",
+        "link": "https://yourstory.com/2025/12/auxano-capital-exits-lets-game-now-with-single-digit-returns",
+        "published": "Wed, 24 Dec 2025 00:45:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Auxano Capital decided to exit Lets Game Now, which it had invested in 2024, after recent regulations banned real-money gaming in India and led to a re-rating of firms in the sector."
+    },
+    {
+        "id": "https://inc42.com/buzz/sbi-mutual-fund-trims-stake-in-delhivery-to-5-69/",
+        "title": "SBI Mutual Fund Trims Stake in Delhivery To 5.69%",
+        "link": "https://inc42.com/buzz/sbi-mutual-fund-trims-stake-in-delhivery-to-5-69/",
+        "published": "Wed, 24 Dec 2025 10:27:15 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"SBI Mutual Fund Trims Stake in Delhivery To 5.69%\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/08/Delhivery-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />SBI Mutual Fund offloaded shares of Delhivery on Monday (December 22) to reduce its stake in the logistics company to&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2025/12/223-oyo-parent-prism-shareholder-nod-rs-6650-cr-ipo/",
+        "title": "OYO Parent PRISM Gets Shareholder Nod to Raise Rs 6,650 Crore Via IPO",
+        "link": "https://www.medianama.com/2025/12/223-oyo-parent-prism-shareholder-nod-rs-6650-cr-ipo/",
+        "published": "Wed, 24 Dec 2025 10:54:16 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The regulatory filing of OYO parent company, PRISM Life, says that the \"consent and approval of the shareholders  is hereby accorded to offer a number of equity shares\" to raise the Rs 6,650 IPO</p>\n<p>The post <a href=\"https://www.medianama.com/2025/12/223-oyo-parent-prism-shareholder-nod-rs-6650-cr-ipo/\">OYO Parent PRISM Gets Shareholder Nod to Raise Rs 6,650 Crore Via IPO</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
