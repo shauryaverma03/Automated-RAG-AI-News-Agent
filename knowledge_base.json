@@ -28598,5 +28598,53 @@
         "published": "Wed, 24 Dec 2025 18:01:35 GMT",
         "source": "Latest news",
         "summary": "First shown off at CES, Lenovo's ThinkBook Plus Gen 6 features an extendable 120Hz OLED display. Here's my verdict after using it for weeks."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/playstation/todays-the-last-day-to-get-100-off-the-ps5-and-ps5-pro-181454333.html?src=rss",
+        "title": "Today's the last day to get $100 off the PS5 and PS5 Pro",
+        "link": "https://www.engadget.com/gaming/playstation/todays-the-last-day-to-get-100-off-the-ps5-and-ps5-pro-181454333.html?src=rss",
+        "published": "Wed, 24 Dec 2025 18:14:54 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Back in November, Sony started selling PS5 consoles <a href=\"https://www.engadget.com/deals/cyber-monday-ps5-deals-are-still-available-get-100-off-consoles-plus-discounts-on-playstation-games-accessories-and-more-164015817.html?guccounter=1\"><ins>at a $100 discount</ins></a> as part of a Black Friday/Cyber Monday promotion. The deal officially sunsets at 3AM ET, so now is a good time to bite the bullet on a gaming console given that prices aren't likely <a href=\"https://tech.yahoo.com/gaming/"
+    },
+    {
+        "id": "https://postech.ac.kr/eng/research/research_results.do?mode=view&articleNo=43617&title=Anode-Free+Battery+Doubles+Electric+Vehicle+Driving+Range",
+        "title": "Researchers achieved 1,270 Wh/L in an anode-free lithium metal battery",
+        "link": "https://postech.ac.kr/eng/research/research_results.do?mode=view&articleNo=43617&title=Anode-Free+Battery+Doubles+Electric+Vehicle+Driving+Range",
+        "published": "Wed, 24 Dec 2025 18:09:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46377796\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/VibiumDev/vibium",
+        "title": "Show HN: Vibium \u2013 Browser automation for AI and humans, by Selenium's creator",
+        "link": "https://github.com/VibiumDev/vibium",
+        "published": "Wed, 24 Dec 2025 17:49:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46377597\">Comments</a>"
+    },
+    {
+        "id": "https://www.tweag.io/blog/2025-12-18-rules_img/",
+        "title": "A faster path to container images in Bazel",
+        "link": "https://www.tweag.io/blog/2025-12-18-rules_img/",
+        "published": "Thu, 18 Dec 2025 19:50:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46317687\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-clear-android-phone-cache/",
+        "title": "How to clear your Android phone cache (and put a stop to slow performance)",
+        "link": "https://www.zdnet.com/article/how-to-clear-android-phone-cache/",
+        "published": "Wed, 24 Dec 2025 19:00:44 GMT",
+        "source": "Latest news",
+        "summary": "This quick tweak can significantly improve the speed and responsiveness on almost any device - no matter the brand."
+    },
+    {
+        "id": "https://www.zdnet.com/article/motorola-moto-g-2026-review/",
+        "title": "This $200 Android phone is a refreshing reminder you don't need to pay for the flagships",
+        "link": "https://www.zdnet.com/article/motorola-moto-g-2026-review/",
+        "published": "Wed, 24 Dec 2025 18:50:00 GMT",
+        "source": "Latest news",
+        "summary": "The 2026 Moto G sticks to last year's formula, offering a decent midrange experience."
     }
 ]
