@@ -28646,5 +28646,45 @@
         "published": "Wed, 24 Dec 2025 18:50:00 GMT",
         "source": "Latest news",
         "summary": "The 2026 Moto G sticks to last year's formula, offering a decent midrange experience."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/pc/steam-and-valves-online-games-are-down-191033978.html?src=rss",
+        "title": "Steam and Valve's online games are down",
+        "link": "https://www.engadget.com/gaming/pc/steam-and-valves-online-games-are-down-191033978.html?src=rss",
+        "published": "Wed, 24 Dec 2025 19:10:33 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Steam is experiencing an outage that\u2019s impacting users ability to access the game store and play games online. Valve hasn\u2019t acknowledged the outage publicly, but SteamDB\u2019s <a class=\"link\" href=\"https://steamstat.us/\" target=\"_blank\">unofficial Steam Status page</a> reports that the Steam Store, Steam Community, and Steam Web APIs are all offline.</p><p><a class=\"link\" href=\"https://downdetector.com/status/steam/\" target=\"_blank\">DownDetector</a> received over 6,000 outage reports around 1:15P"
+    },
+    {
+        "id": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+        "title": "Fabrice Bellard: Biography [pdf]",
+        "link": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+        "published": "Wed, 24 Dec 2025 18:17:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46377862\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/antonmedv/textarea",
+        "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
+        "link": "https://github.com/antonmedv/textarea",
+        "published": "Wed, 24 Dec 2025 19:42:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46378554\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-products-zdnet-tested-in-2025/",
+        "title": "35+ best products we tested in 2025: Expert picks for phones, TVs, AI, and more",
+        "link": "https://www.zdnet.com/article/best-products-zdnet-tested-in-2025/",
+        "published": "Wed, 24 Dec 2025 20:01:00 GMT",
+        "source": "Latest news",
+        "summary": "After a year of reviewing the top hardware and software, here's ZDNET's list of 2025 winners."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apples-tim-cook-doubles-nike-stake-endorses-ceo-hills-turnaround-push/articleshow/126165919.cms",
+        "title": "Apple's Tim Cook doubles Nike stake, endorses CEO Hill's turnaround push",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apples-tim-cook-doubles-nike-stake-endorses-ceo-hills-turnaround-push/articleshow/126165919.cms",
+        "published": "Thu, 25 Dec 2025 00:45:42 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "As of December 22, Tim Cook held about 105,000 shares, according to the filing released on Tuesday."
     }
 ]
