@@ -4,7 +4,7 @@ body {
   padding: 0;
   font-family: 'Roboto', sans-serif;
   background-color: #121212;
-  color: #eee;
+  color: #eeeeee;
 }
 
 .header {
@@ -60,38 +60,46 @@ body {
   padding: 1rem;
   display: flex;
   flex-direction: column;
+  height: 350px; /* Ensure consistent card height for all articles */
+}
+
+.article-content {
+  display: flex;
+  flex-direction: column;
   justify-content: space-between;
-  height: 300px; /* Uniform height for all cards */
 }
 
 .article-content .source {
   font-size: 0.85rem;
   color: #FFD700;
-  margin-bottom: 0.5rem;
+}
+
+.article-content .date {
+  font-size: 0.8rem;
+  color: #AAAAAA;
 }
 
 .article-content h2 {
   font-size: 1.5rem;
   margin: 0.5rem 0;
   color: #FFFFFF;
-  height: 60px; /* Keep a consistent height for title text */
-  overflow: hidden;
+  line-height: 1.3; /* Improves readability */
+  height: 60px; /* Fixed height to ensure uniformity */
+  overflow: hidden; /* Prevents overflow for longer titles */
 }
 
 .article-content p {
   font-size: 1rem;
   color: #BBBBBB;
-  height: 80px; /* Prevent summary overflow */
-  overflow: hidden;
+  margin-bottom: 1rem;
+  height: 90px; /* Consistent spacing for summary */
+  overflow: hidden; /* Truncate overflow */
 }
 
 .article-content a {
-  display: inline-block;
-  margin-top: 0.5rem;
   text-decoration: none;
   color: #FFD700;
   font-weight: bold;
-  align-self: flex-start;
 }
 
 .article-content a:hover {
