@@ -27694,5 +27694,61 @@
         "published": "Tue, 23 Dec 2025 22:03:46 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46370012\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/850067/us-sanctions-thierry-breton-content-moderation-censorship",
+        "title": "Trump administration bars former EU official and anti-disinformation and hate researchers from US",
+        "link": "https://www.theverge.com/news/850067/us-sanctions-thierry-breton-content-moderation-censorship",
+        "published": "2025-12-23T19:11:40-05:00",
+        "source": "The Verge",
+        "summary": "On Tuesday, the Trump Administration followed through on a threat of retaliation targeting foreigners who are involved in content moderation. The State Department announced sanctions barring US access for former EU commissioner Thierry Breton, as well as four researchers, while issuing an intentionally chilling threat to others, with Secretary of State Marco Rubio claiming, \"The [&#8230;]"
+    },
+    {
+        "id": "https://statusgator.com/blog/aws-least-reliable-region-in-2025/",
+        "title": "Is Northern Virginia Still the Least Reliable AWS Region?",
+        "link": "https://statusgator.com/blog/aws-least-reliable-region-in-2025/",
+        "published": "Tue, 23 Dec 2025 23:12:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46370592\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/humorless/fennel-fp-neovim",
+        "title": "Learn Lisp/Fennel Programming Against Neovim",
+        "link": "https://github.com/humorless/fennel-fp-neovim",
+        "published": "Wed, 17 Dec 2025 20:09:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46304858\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/et-graphics-indias-ip-filings-surge-20-to-7-5l-on-innovation-momentum/articleshow/126147004.cms",
+        "title": "ET Graphics: India\u2019s IP filings surge 20% to 7.5L on innovation momentum",
+        "link": "https://economictimes.indiatimes.com/tech/technology/et-graphics-indias-ip-filings-surge-20-to-7-5l-on-innovation-momentum/articleshow/126147004.cms",
+        "published": "Wed, 24 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\u200b\u200bTrademark filings stood at over 5.3 lakh, growing in double digits, reflecting strong brand creation across sectors, while design registrations crossed 40,000. Here\u2019s a snapshot of the key highlights."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/arrcus-in-talks-with-indian-players-to-explore-onboarding-white-box-vendors-in-india/articleshow/126146902.cms",
+        "title": "Arrcus in talks with Indian players to explore onboarding white box vendors in India",
+        "link": "https://economictimes.indiatimes.com/tech/technology/arrcus-in-talks-with-indian-players-to-explore-onboarding-white-box-vendors-in-india/articleshow/126146902.cms",
+        "published": "Wed, 24 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Large Indian companies with diversified interests are viewing this as an opportunity, especially with all the data centre activity happening in the country, Shekar Ayyar told ET."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/it-finds-new-ways-to-repackage-deal-discounts-ai-gains/articleshow/126146764.cms",
+        "title": "IT finds new ways to repackage deal discounts, AI gains",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/it-finds-new-ways-to-repackage-deal-discounts-ai-gains/articleshow/126146764.cms",
+        "published": "Wed, 24 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "For many new and renewed contracts, values are being marked down by 20-30%, according to industry analysts. Meanwhile, service providers are making gains in terms of efficiency and reduced project costs due to the use of AI, and are ploughing back the savings into selling add-on products and services. This ensures that their revenue is not eroded due to AI."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/year-in-review-smaller-seed-investors-reap-bumper-harvest-on-departure/articleshow/126146674.cms",
+        "title": "2025 Year in Review: Smaller seed investors reap bumper harvest on departure",
+        "link": "https://economictimes.indiatimes.com/tech/startups/year-in-review-smaller-seed-investors-reap-bumper-harvest-on-departure/articleshow/126146674.cms",
+        "published": "Wed, 24 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "While attention through the year was largely centred on marquee, bulge-bracket IPOs and billion-dollar secondaries involving large global funds, India-focused early-stage firms such as Kae Capital, 3one4 Capital, VenturEast, IndiaQuotient and AdvantEdge, among others, garnered significant returns in relative silence."
     }
 ]
