@@ -1,0 +1,111 @@
+/* General Reset */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #121212;
+  color: #eee;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #212121;
+  color: #FFD700;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.search-bar {
+  width: 40%;
+  padding: 0.8rem;
+  border-radius: 25px;
+  border: 1px solid #FFD700;
+  font-size: 1rem;
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem;
+  background-color: #1A1A1A;
+  color: #FFD700;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #FFAA00;
+}
+
+.articles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.article-card {
+  background-color: #222;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 300px; /* Uniform height for all cards */
+}
+
+.article-content .source {
+  font-size: 0.85rem;
+  color: #FFD700;
+  margin-bottom: 0.5rem;
+}
+
+.article-content h2 {
+  font-size: 1.5rem;
+  margin: 0.5rem 0;
+  color: #FFFFFF;
+  height: 60px; /* Keep a consistent height for title text */
+  overflow: hidden;
+}
+
+.article-content p {
+  font-size: 1rem;
+  color: #BBBBBB;
+  height: 80px; /* Prevent summary overflow */
+  overflow: hidden;
+}
+
+.article-content a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  text-decoration: none;
+  color: #FFD700;
+  font-weight: bold;
+  align-self: flex-start;
+}
+
+.article-content a:hover {
+  color: #FFAA00;
+}
+
+.footer {
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+  background-color: #212121;
+  color: #FFD700;
+}
+
+.footer p {
+  margin: 0.5rem 0;
+}
