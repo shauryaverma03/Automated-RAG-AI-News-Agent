@@ -28734,5 +28734,21 @@
         "published": "Wed, 24 Dec 2025 21:02:15 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46379183\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/pc/steam-and-valves-online-games-are-partially-down-191033988.html?src=rss",
+        "title": "Steam and Valve's online games are partially down",
+        "link": "https://www.engadget.com/gaming/pc/steam-and-valves-online-games-are-partially-down-191033988.html?src=rss",
+        "published": "Wed, 24 Dec 2025 23:01:24 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Starting at around 1PM ET on December 24, Steam experienced an outage that impacted users ability to access the game store and play games online. Valve didn\u2019t acknowledge the outage publicly, but SteamDB\u2019s <a class=\"link\" href=\"https://steamstat.us/\" target=\"_blank\">unofficial Steam Status page</a> reported that the Steam Store, Steam Community, and Steam Web APIs were all offline.</p><p><a class=\"link\" href=\"https://downdetector.com/status/steam/\" target=\"_blank\">DownDetector</a> received ov"
+    },
+    {
+        "id": "https://git.dec05eba.com/phoenix/about/",
+        "title": "Phoenix: A modern X server written from scratch in Zig",
+        "link": "https://git.dec05eba.com/phoenix/about/",
+        "published": "Wed, 24 Dec 2025 22:43:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46380075\">Comments</a>"
     }
 ]
