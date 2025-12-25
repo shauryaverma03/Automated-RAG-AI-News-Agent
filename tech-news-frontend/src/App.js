@@ -1,131 +1,80 @@
-import React, { useState, useEffect } from 'react';
-import './App.css';
-
-// Dynamic Subcategories
-const SUBCATEGORIES = [
-  { name: 'Artificial Intelligence & Machine Learning', keywords: ['ai', 'machine learning', 'neural', 'deep learning', 'nlp'] },
-  { name: 'Software Development & Programming', keywords: ['programming', 'coding', 'software', 'development', 'framework', 'app', 'application'] },
-  { name: 'Hardware & Devices', keywords: ['hardware', 'devices', 'laptop', 'smartphone', 'chip', 'computer'] },
-  { name: 'Cybersecurity & Privacy', keywords: ['cybersecurity', 'privacy', 'hack', 'security', 'breach'] },
-  { name: 'Cloud Computing & Infrastructure', keywords: ['cloud', 'infrastructure', 'aws', 'azure', 'container', 'serverless', 'hosting'] },
-  { name: 'Blockchain, Web3 & FinTech', keywords: ['blockchain', 'crypto', 'web3', 'fintech', 'bitcoin', 'ethereum'] },
-  { name: 'Big Data, Data Science & Analytics', keywords: ['big data', 'data science', 'analytics', 'visualization', 'modeling', 'statistics'] },
-  { name: 'Emerging & Future Technologies', keywords: ['emerging', 'future', 'quantum', 'robotics', 'nanotechnology'] },
-  { name: 'Tech Business, Startups & Industry', keywords: ['startup', 'business', 'industry', 'investment'] },
-  { name: 'Tech Education, Careers & Community', keywords: ['education', 'career', 'training', 'community', 'learning', 'resources'] },
-];
+import React, { useState, useMemo } from 'react';
+import Header from './components/Header';
+import Navigation from './components/Navigation';
+import Hero from './components/Hero';
+import NewsGrid from './components/NewsGrid';
+import Footer from './components/Footer';
+import Loading from './components/Loading';
+import { useNewsData } from './hooks/useNewsData';
+import './index.css';
 
 function App() {
-  const [data, setData] = useState([]);
-  const [categories, setCategories] = useState({});
-  const [selectedSubcategory, setSelectedSubcategory] = useState('All');
+  const { categories, loading, error } = useNewsData();
+  const [selectedCategory, setSelectedCategory] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
 
-  // Function to truncate long sources
-  const truncateSource = (source) => {
-    return source.length > 10 ? `${source.substring(0, 10)}...` : source; // Truncate to 10 characters.
-  };
+  const filteredArticles = useMemo(() => {
+    let articles = [];
+    if (selectedCategory === 'All') {
+      // Flatten all categories into a single array, removing duplicates if any (though logic assigns unique)
+      const allArticles = Object.values(categories).flat();
+      articles = allArticles;
+    } else {
+      articles = categories[selectedCategory] || [];
+    }
 
-  // Function to dynamically assign articles to subcategories based on keywords
-  const categorizeArticles = (articles) => {
-    const categories = SUBCATEGORIES.reduce((acc, subcategory) => {
-      acc[subcategory.name] = [];
-      return acc;
-    }, {});
-    categories['General Tech News'] = []; // Default category for uncategorized articles.
+    // Filter by search query
+    if (searchQuery.trim()) {
+      const query = searchQuery.toLowerCase();
+      articles = articles.filter(article =>
+        article.title.toLowerCase().includes(query) ||
+        article.summary.toLowerCase().includes(query)
+      );
+    }
 
-    articles.forEach((article) => {
-      const content = (article.title + ' ' + article.summary).toLowerCase();
-      const matchedCategory =
-        SUBCATEGORIES.find((subcategory) =>
-          subcategory.keywords.some((keyword) => content.includes(keyword))
-        )?.name || 'General Tech News'; // Assign General Tech News if no match found.
-
-      categories[matchedCategory].push(article);
+    // De-duplicate by ID just in case
+    const seen = new Set();
+    const uniqueArticles = articles.filter(article => {
+      if (seen.has(article.id)) return false;
+      seen.add(article.id);
+      return true;
     });
 
-    return categories;
-  };
+    return uniqueArticles.slice(0, 52); // Limit to top 52 stories
 
-  useEffect(() => {
-    fetch('/knowledge_base.json')
-      .then((response) => response.json())
-      .then((json) => {
-        const modifiedData = json.map((article) => ({
-          ...article,
-          source: truncateSource(article.source), // Truncate source names.
-          summary: article.summary.replace(/<\/?[^>]+(>|$)/g, ''), // Strip HTML tags.
-          date: new Date().toLocaleDateString(), // Format article date.
-        }));
+  }, [categories, selectedCategory, searchQuery]);
 
-        setData(modifiedData);
-
-        const categorized = categorizeArticles(modifiedData);
-        setCategories(categorized);
-      });
-  }, []);
-
-  // Search functionality integrated with subcategory selection
-  const filteredNews =
-    selectedSubcategory === 'All'
-      ? data.filter((article) => article.title.toLowerCase().includes(searchQuery.toLowerCase())).slice(0, 52) // Show up to 52 results matching the search query
-      : categories[selectedSubcategory]?.filter((article) =>
-          article.title.toLowerCase().includes(searchQuery.toLowerCase())
-        ) || [];
+  if (loading) return <Loading />;
+  if (error) return <div style={{ color: 'red', textAlign: 'center', padding: '50px' }}>Error loading news: {error}</div>;
 
   return (
-    <>
-      <header className="header">
-        <div className="logo">⚡ TechPulse</div>
-        <input
-          className="search-bar"
-          type="text"
-          placeholder="Search articles..."
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)} // Update search query
-        />
-      </header>
-      <nav className="subcategory-nav">
-        {['All', ...Object.keys(categories)].map((subcategory) => (
-          <button
-            key={subcategory}
-            className={`category-btn ${selectedSubcategory === subcategory ? 'active' : ''}`}
-            onClick={() => setSelectedSubcategory(subcategory)} // Select subcategory
-          >
-            {subcategory}
-          </button>
-        ))}
-      </nav>
-      <main>
-        <section className="hero">
-          <h1>Stay Updated with the Latest in Tech News</h1>
-          <p>Discover top stories, breakthroughs, and trends in technology every day. Tailored for tech enthusiasts.</p>
-        </section>
-        <section className="articles">
-          {filteredNews.length > 0 ? (
-            filteredNews.map((article, index) => (
-              <div key={index} className="article-card">
-                <div className="article-content">
-                  <span className="source">{article.source} </span>
-                  <span className="date">{article.date}</span>
-                  <h2>{article.title}</h2>
-                  <p>{article.summary}</p>
-                  <a href={article.link} target="_blank" rel="noopener noreferrer">
-                    Read More →
-                  </a>
-                </div>
-              </div>
-            ))
-          ) : (
-            <p>No articles available for this category.</p>
-          )}
-        </section>
+    <div className="app">
+      <Header searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
+
+      <Navigation
+        categories={categories}
+        selectedCategory={selectedCategory}
+        setSelectedCategory={setSelectedCategory}
+      />
+
+      <main style={{
+        maxWidth: 'var(--max-width)',
+        margin: '0 auto',
+        padding: '0 var(--spacing-lg)',
+        minHeight: 'calc(100vh - 400px)' // ensure footer pushed down
+      }}>
+        {selectedCategory === 'All' && !searchQuery && <Hero />}
+
+        <div style={{ margin: 'var(--spacing-lg) 0' }}>
+          <h3 style={{ fontSize: '1.5rem', marginBottom: 'var(--spacing-md)' }}>
+            {selectedCategory === 'All' ? 'Top Stories' : selectedCategory}
+          </h3>
+          <NewsGrid articles={filteredArticles} />
+        </div>
       </main>
-      <footer className="footer">
-        <p>Powered by Shaurya Verma • Updates every hour</p>
-        <p>&copy; 2025 TechPulse - All Rights Reserved.</p>
-      </footer>
-    </>
+
+      <Footer />
+    </div>
   );
 }
 
