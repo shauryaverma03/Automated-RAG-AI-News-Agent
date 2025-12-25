@@ -29126,5 +29126,37 @@
         "published": "Thu, 25 Dec 2025 17:04:15 +0530",
         "source": "Tech-Economic Times",
         "summary": "Krishnan said AI's (Artificial Intelligence) real impact will come from building and deploying sector and use-specific applications, a process that will require large numbers of trained professionals. He added that this is where India's strength lies and where new AI-driven job opportunities will emerge."
+    },
+    {
+        "id": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+        "title": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+        "link": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+        "published": "2025-12-25T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "When your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. I've heard this advice again and again, but never got around to buying a second plush deer once \"Buddy\" became my son's obvious favorite. Neither, apparently, did the parents in Google's [&#8230;]"
+    },
+    {
+        "id": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
+        "title": "Python 3.15\u2019s interpreter for Windows x86-64 should hopefully be 15% faster",
+        "link": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
+        "published": "Thu, 25 Dec 2025 13:02:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46384167\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/icar-lab-transfers-pest-control-tech-to-agri-startup-hsrp-for-commercial-use/articleshow/126174671.cms",
+        "title": "ICAR lab transfers pest control tech to agri startup HSRP for commercial use",
+        "link": "https://economictimes.indiatimes.com/tech/technology/icar-lab-transfers-pest-control-tech-to-agri-startup-hsrp-for-commercial-use/articleshow/126174671.cms",
+        "published": "Thu, 25 Dec 2025 19:24:12 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Bengaluru-based startup received the technologies \u2014 a white grub trap and a fruit fly trap \u2014 from an NBAIR team for on-field commercial use, an ICAR-NBAIR statement said. The two technologies offer residue-free, cost-effective alternatives to conventional chemical pest control methods, it added."
+    },
+    {
+        "id": "https://yourstory.com/2025/12/groq-founder-to-join-nvidia-as-companies-sign-ai-interface-licensing-deal",
+        "title": "Groq founder to join NVIDIA as companies sign AI inference licensing deal",
+        "link": "https://yourstory.com/2025/12/groq-founder-to-join-nvidia-as-companies-sign-ai-interface-licensing-deal",
+        "published": "Thu, 25 Dec 2025 05:48:50 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Groq has entered into a non-exclusive licensing agreement with chip giant NVIDIA, marking a significant development in the AI infrastructure space."
     }
 ]
