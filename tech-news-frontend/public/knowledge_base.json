@@ -29286,5 +29286,13 @@
         "published": "Thu, 25 Dec 2025 22:46:15 +0530",
         "source": "Tech-Economic Times",
         "summary": "Tesla is encountering significant hurdles in its quest for driverless taxis. Competing with Waymo, a subsidiary of Google that boasts a substantial fleet and extensive city experience in places such as Austin, Tesla's rapid growth ambitions may come at a cost."
+    },
+    {
+        "id": "https://github.com/NVIDIA/cuda-tile",
+        "title": "CUDA Tile Open Sourced",
+        "link": "https://github.com/NVIDIA/cuda-tile",
+        "published": "Fri, 19 Dec 2025 20:49:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46330732\">Comments</a>"
     }
 ]
