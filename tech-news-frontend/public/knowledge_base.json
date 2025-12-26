@@ -30214,5 +30214,21 @@
         "published": "Fri, 26 Dec 2025 17:13:07 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46393992\">Comments</a>"
+    },
+    {
+        "id": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
+        "title": "How I think about Kubernetes",
+        "link": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
+        "published": "Fri, 26 Dec 2025 20:44:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46396043\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/NullandKale/NullSplats",
+        "title": "Gaussian Splatting 3 Ways",
+        "link": "https://github.com/NullandKale/NullSplats",
+        "published": "Fri, 26 Dec 2025 19:23:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46395273\">Comments</a>"
     }
 ]
