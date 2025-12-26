@@ -30158,5 +30158,37 @@
         "published": "Fri, 26 Dec 2025 18:42:13 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46394867\">Comments</a>"
+    },
+    {
+        "id": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+        "title": "Lewis Carroll Computed Determinants",
+        "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+        "published": "Fri, 26 Dec 2025 19:03:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46395106\">Comments</a>"
+    },
+    {
+        "id": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
+        "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
+        "link": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
+        "published": "Fri, 26 Dec 2025 19:13:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46395184\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2025/12/priyanka-gupta-etah-foldable-furniture-women-entrepreneur",
+        "title": "From Etah to enterprise, Priyanka Gupta turns foldable furniture into an opportunity",
+        "link": "https://yourstory.com/2025/12/priyanka-gupta-etah-foldable-furniture-women-entrepreneur",
+        "published": "Fri, 26 Dec 2025 19:07:09 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In Etah, a small city in western Uttar Pradesh, Priyanka Gupta has turned a simple insight into a livelihood. With homes and shops squeezed"
+    },
+    {
+        "id": "https://yourstory.com/2025/12/firozabad-vermicompost-rathore-msme",
+        "title": "From tuitions to topsoil, how a Firozabad teacher built a vermicompost micro-enterprise",
+        "link": "https://yourstory.com/2025/12/firozabad-vermicompost-rathore-msme",
+        "published": "Fri, 26 Dec 2025 10:31:56 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Backed by a \u20b95 lakh loan under the Uttar Pradesh Mukhyamantri Vikas Udyami Yojana, Rathore sets up a low-cost, training-led compost unit that supplies local farmers."
     }
 ]
