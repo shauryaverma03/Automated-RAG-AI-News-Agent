@@ -29574,5 +29574,45 @@
         "published": "Fri, 26 Dec 2025 12:43:55 +0530",
         "source": "Tech-Economic Times",
         "summary": "MediaTek's Dimensity 9500 signifies a major leap, positioning the company as a leader in flagship SoCs. Built on TSMC's 3nm N3P process, it delivers significant CPU and GPU performance gains, outperforming rivals in real-world tasks like video editing and gaming. This chip is set to define 2025's most capable Android flagships."
+    },
+    {
+        "id": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
+        "title": "Building an AI agent inside a 7-year-old Rails monolith",
+        "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
+        "published": "Fri, 26 Dec 2025 07:35:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46390055\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/ai-tutoring-education-gap-school/",
+        "title": "How AI could close the education inequality gap - or widen it",
+        "link": "https://www.zdnet.com/article/ai-tutoring-education-gap-school/",
+        "published": "Fri, 26 Dec 2025 09:00:35 GMT",
+        "source": "Latest news",
+        "summary": "As schools and universities take varying stances on AI, some teachers believe the tech can democratize tutoring. Here's how - and where the drawbacks lie."
+    },
+    {
+        "id": "https://www.zdnet.com/article/tcl-qm8k-series-tv-review/",
+        "title": "One of the best TVs we lab-tested this year is still one of the most affordable",
+        "link": "https://www.zdnet.com/article/tcl-qm8k-series-tv-review/",
+        "published": "Fri, 26 Dec 2025 08:30:50 GMT",
+        "source": "Latest news",
+        "summary": "The flagship QM8K combines OLED-level picture quality with an accessible price point."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-growth-faces-power-resource-and-safety-hurdles-despite-big-productivity-promise-jp-morgan/articleshow/126186840.cms",
+        "title": "AI growth faces power, resource and safety hurdles despite big productivity promise: JP Morgan",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-growth-faces-power-resource-and-safety-hurdles-despite-big-productivity-promise-jp-morgan/articleshow/126186840.cms",
+        "published": "Fri, 26 Dec 2025 14:08:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The journey of artificial intelligence is not without its roadblocks. Critical factors like limited resources, privacy concerns, and safety considerations are pivotal in determining its future landscape. The increasing demand for power presents a formidable challenge, alongside ongoing water scarcity. Furthermore, the swift adoption of AI technologies risks shaking up job markets and could lead to economic bubbles."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/south-korea-charges-10-over-alleged-chip-technology-leak-to-chinas-cxmt/articleshow/126186710.cms",
+        "title": "South Korea charges 10 over alleged chip technology leak to China's CXMT",
+        "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-charges-10-over-alleged-chip-technology-leak-to-chinas-cxmt/articleshow/126186710.cms",
+        "published": "Fri, 26 Dec 2025 14:02:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ten individuals have been indicted by South Korean prosecutors for allegedly compromising sensitive memory chip technology to China's CXMT. This leak is poised to have a substantial impact, as it reportedly facilitated significant strides in China's high-bandwidth memory sector, an essential element for AI computing."
     }
 ]
