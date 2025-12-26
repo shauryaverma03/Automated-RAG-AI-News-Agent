@@ -30078,5 +30078,53 @@
         "published": "Fri, 26 Dec 2025 16:11:00 GMT",
         "source": "Latest news",
         "summary": "After using Linux for nearly 30 years, I've created a list of the best Linux distributions I've used since the beginning. Here they are."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/",
+        "title": "What\u2019s ahead for startups and VCs in 2026? Investors weigh in",
+        "link": "https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/",
+        "published": "Fri, 26 Dec 2025 18:12:09 +0000",
+        "source": "TechCrunch",
+        "summary": "VCs share their thoughts on what next year could bring to the market."
+    },
+    {
+        "id": "https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes",
+        "title": "Framework announces another memory price hike \u2014 and it likely won\u2019t be its last",
+        "link": "https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes",
+        "published": "2025-12-26T13:13:03-05:00",
+        "source": "The Verge",
+        "summary": "The modular PC company Framework is adjusting the price of its DDR5 RAM modules once again as the cost of memory continues to surge. In an update on Wednesday, Framework said it will charge $10 per GB for 8GB, 16GB, and 32GB, with \"slightly higher\" prices for the 48GB and up. Framework first announced a [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/",
+        "title": "Embark on a visual voyage of art inspired by black holes",
+        "link": "https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/",
+        "published": "Fri, 26 Dec 2025 16:40:40 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Art and science converge in Lynn Gamwell's book, <em>Conjuring the Void: The Art of Black Holes</em>"
+    },
+    {
+        "id": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
+        "title": "C/C++ Embedded Files (2013)",
+        "link": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
+        "published": "Fri, 26 Dec 2025 17:06:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46393924\">Comments</a>"
+    },
+    {
+        "id": "https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401",
+        "title": "ICE's interest in high-tech gear raises new questions: 'What is it for?'",
+        "link": "https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401",
+        "published": "Fri, 26 Dec 2025 17:37:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46394228\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/french-it-company-atos-to-sell-latin-american-businesses-to-brazils-semantix/articleshow/126193083.cms",
+        "title": "French IT company Atos to sell Latin American businesses to Brazil's Semantix",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/french-it-company-atos-to-sell-latin-american-businesses-to-brazils-semantix/articleshow/126193083.cms",
+        "published": "Fri, 26 Dec 2025 22:21:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The business to be sold employs about 2,800 people in Brazil, Argentina, \u200bChile, Colombia, Peru \u200band Uruguay, Atos said, \u200cwithout \u200ddisclosing the financial details \u200dof the transaction. It expects \u200cto close the deal in the coming months."
     }
 ]
