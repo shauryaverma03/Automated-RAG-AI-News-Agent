@@ -31358,5 +31358,29 @@
         "published": "Sun, 28 Dec 2025 15:51:08 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46411902\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/apple-escalates-its-appeal-of-a-2-billion-fine-from-a-uk-antitrust-lawsuit-201922558.html?src=rss",
+        "title": "Apple escalates its appeal of a $2 billion fine from a UK antitrust lawsuit",
+        "link": "https://www.engadget.com/big-tech/apple-escalates-its-appeal-of-a-2-billion-fine-from-a-uk-antitrust-lawsuit-201922558.html?src=rss",
+        "published": "Sun, 28 Dec 2025 20:19:22 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple isn't ready to pay a several billion-dollar fine to UK App Store users and is filing an appeal over a major antitrust lawsuit. As first reported by <a class=\"no-affiliate-link\" href=\"https://www.theguardian.com/technology/2025/dec/26/apple-seeks-to-appeal-15bn-ruling-it-overcharged-uk-customers\"><em>The Guardian</em></a>, Apple has requested to appeal to the UK's Court of Appeal, which would escalate the case beyond the Competition Appeal Tribunal (CAT).&nbsp;</p>\n<p>The latest appeal a"
+    },
+    {
+        "id": "https://github.com/mockito/mockito/issues/3777",
+        "title": "Stepping down as Mockito maintainer after 10 years",
+        "link": "https://github.com/mockito/mockito/issues/3777",
+        "published": "Sun, 28 Dec 2025 20:14:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46414078\">Comments</a>"
+    },
+    {
+        "id": "https://vincents.dev/blog/rust-errors-without-dependencies/",
+        "title": "Rust errors without dependencies",
+        "link": "https://vincents.dev/blog/rust-errors-without-dependencies/",
+        "published": "Sun, 28 Dec 2025 04:12:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46408365\">Comments</a>"
     }
 ]
