@@ -31006,5 +31006,45 @@
         "published": "Sun, 28 Dec 2025 07:45:16 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46409245\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/expired-tired-wired-data-centers/",
+        "title": "Billion-Dollar Data Centers Are Taking Over the World",
+        "link": "https://www.wired.com/story/expired-tired-wired-data-centers/",
+        "published": "Sun, 28 Dec 2025 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The battle for AI dominance has left a large footprint\u2014and it\u2019s only getting bigger and more expensive."
+    },
+    {
+        "id": "https://substack.com/inbox/post/182743659",
+        "title": "Growing up in \"404 Not Found\": China's nuclear city in the Gobi Desert",
+        "link": "https://substack.com/inbox/post/182743659",
+        "published": "Sun, 28 Dec 2025 06:43:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46408988\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazon-halts-plans-for-drone-delivery-in-italy/articleshow/126214667.cms",
+        "title": "Amazon halts plans for drone delivery in Italy",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazon-halts-plans-for-drone-delivery-in-italy/articleshow/126214667.cms",
+        "published": "Sun, 28 Dec 2025 16:02:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Amazon cited broader business regulatory challenges as the reason for the decision. This comes after initial successful tests in San Salvo. Italian aviation authorities called the move unexpected. Amazon stated that the current regulatory framework does not align with their long-term program objectives."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/customer-experience-value-to-drive-indias-food-delivery-growth-in-2026-swiggy-magicpin/articleshow/126214589.cms",
+        "title": "Customer experience, value to drive India\u2019s food delivery growth in 2026: Swiggy, magicpin",
+        "link": "https://economictimes.indiatimes.com/tech/technology/customer-experience-value-to-drive-indias-food-delivery-growth-in-2026-swiggy-magicpin/articleshow/126214589.cms",
+        "published": "Sun, 28 Dec 2025 15:04:33 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's food delivery sector is set for significant growth in 2026. Customer experience, speed, and value will be key drivers. Magicpin and Swiggy highlight the importance of catering to value-conscious users and expanding merchant inclusion. The industry is evolving to meet tighter schedules and changing priorities. Faster, more balanced, and reliable delivery options will be crucial."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-cant-rely-on-foreign-algorithms-must-build-its-own-ai-models-to-protect-jobs-data-intelligence-gautam-adani/articleshow/126214610.cms",
+        "title": "India can't rely on foreign algorithms; must build its own AI models to protect jobs, data, intelligence: Gautam Adani",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-cant-rely-on-foreign-algorithms-must-build-its-own-ai-models-to-protect-jobs-data-intelligence-gautam-adani/articleshow/126214610.cms",
+        "published": "Sun, 28 Dec 2025 14:43:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Gautam Adani on Sunday made a strong case for India building its own sovereign AI capabilities, warning that unchecked dependence on foreign technologies could pose serious economic and strategic risks for the country, as he stressed that artificial intelligence has emerged as a defining force of the fourth industrial revolution."
     }
 ]
