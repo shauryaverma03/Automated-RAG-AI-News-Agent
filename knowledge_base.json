@@ -31278,5 +31278,37 @@
         "published": "Sun, 28 Dec 2025 21:44:09 +0530",
         "source": "Tech-Economic Times",
         "summary": "President Trump's administration has taken a tech-friendly approach, countering earlier commitments to regulate the industry. The relaxation of export limits on AI chips has paved the way for major tech companies to thrive, driving up their stock prices and raising cryptocurrency valuations."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/",
+        "title": "Why WeTransfer co-founder is building another file transfer service",
+        "link": "https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/",
+        "published": "Sun, 28 Dec 2025 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "WeTransfer co-founder Nalden has a new file transfer service that users can use without logging in."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/ayaneos-latest-game-boy-remake-will-have-an-early-bird-starting-price-of-269-174553644.html?src=rss",
+        "title": "Ayaneo's latest Game Boy remake will have an early bird starting price of $269",
+        "link": "https://www.engadget.com/gaming/ayaneos-latest-game-boy-remake-will-have-an-early-bird-starting-price-of-269-174553644.html?src=rss",
+        "published": "Sun, 28 Dec 2025 17:45:54 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>After the high price tag of the <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/ayaneos-latest-handhelds-are-inspired-by-the-game-boy-and-gb-micro-163412607.html\">Ayaneo Pocket DMG</a> turned some retro handheld fans away, Ayaneo is working on another remake of the classic Game Boy with a slightly more affordable cost. Ayaneo revealed the pricing for the <a class=\"no-affiliate-link\" href=\"https://www.ayaneo.com/article/908\">Pocket Vert</a>, which starts at $269 for early bird orde"
+    },
+    {
+        "id": "https://man7.org/linux/man-pages/man8/tc-ematch.8.html",
+        "title": "tc-ematch(8) extended matches for use with \"basic\", \"cgroup\" or \"flow\" filters",
+        "link": "https://man7.org/linux/man-pages/man8/tc-ematch.8.html",
+        "published": "Sun, 28 Dec 2025 16:43:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46412327\">Comments</a>"
+    },
+    {
+        "id": "https://crates.io/crates/rustocr",
+        "title": "RustOCR \u2013 Now do OCR 5-10x faster than EasyOCR",
+        "link": "https://crates.io/crates/rustocr",
+        "published": "Sun, 28 Dec 2025 17:31:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46412717\">Comments</a>"
     }
 ]
