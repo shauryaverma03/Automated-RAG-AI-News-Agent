@@ -31430,5 +31430,13 @@
         "published": "Sun, 28 Dec 2025 21:03:03 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46414475\">Comments</a>"
+    },
+    {
+        "id": "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/",
+        "title": "Unity's Mono problem: Why your C# code runs slower than it should",
+        "link": "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/",
+        "published": "Sun, 28 Dec 2025 21:41:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46414819\">Comments</a>"
     }
 ]
