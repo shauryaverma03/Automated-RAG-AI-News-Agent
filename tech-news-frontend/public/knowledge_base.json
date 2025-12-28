@@ -31230,5 +31230,53 @@
         "published": "Sun, 28 Dec 2025 21:20:48 +0530",
         "source": "Tech-Economic Times",
         "summary": "Gerstner\u2019s nine-year tenure as chairman and CEO of the company known as \u201cBig Blue\u201d is often used as a case study in corporate leadership."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/",
+        "title": "MayimFlow wants to stop data center leaks before they happen",
+        "link": "https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/",
+        "published": "Sun, 28 Dec 2025 16:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Leaks cause damage, down time, and cost money. MayimFlow's founder John Khazraee wants to change that."
+    },
+    {
+        "id": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
+        "title": "Ubisoft shuts down \u2018Rainbow Six Siege\u2019 servers following hack",
+        "link": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
+        "published": "2025-12-28T11:42:07-05:00",
+        "source": "The Verge",
+        "summary": "Yesterday, Ubisoft confirmed that Rainbow Six Siege had been compromised and that it had shut down the game's servers and marketplace while it resolved the issue. The hackers managed to gain control over a significant chunk of the game's systems, including the ability to ban and unban users, sending custom messages to ban ticker, unlocking [&#8230;]"
+    },
+    {
+        "id": "https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death",
+        "title": "Hungry Fat Cells Could Someday Starve Cancer to Death",
+        "link": "https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death",
+        "published": "Sun, 28 Dec 2025 10:04:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46409928\">Comments</a>"
+    },
+    {
+        "id": "https://stanislas.blog/2025/12/macos-thermal-throttling-app/",
+        "title": "Building a macOS app to know when my Mac is thermal throttling",
+        "link": "https://stanislas.blog/2025/12/macos-thermal-throttling-app/",
+        "published": "Sun, 28 Dec 2025 11:51:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46410402\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eight-ways-ai-affected-pop-culture-in-2025/articleshow/126217533.cms",
+        "title": "Eight ways AI affected pop culture in 2025",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eight-ways-ai-affected-pop-culture-in-2025/articleshow/126217533.cms",
+        "published": "Sun, 28 Dec 2025 22:15:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Artificial intelligence made a significant impact on pop culture in 2025. AI-generated music topped charts, and films used AI for accent enhancement. Classic movies were reimagined with AI, and podcast hosts cloned their voices. Deceased celebrities appeared in AI-generated videos, sparking debate. Hollywood grappled with AI's role, with some directors opposing its use."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/from-ai-to-chips-big-tech-is-getting-what-it-wants-from-trump/articleshow/126217285.cms",
+        "title": "From AI to chips, Big Tech is getting what it wants from Trump",
+        "link": "https://economictimes.indiatimes.com/tech/technology/from-ai-to-chips-big-tech-is-getting-what-it-wants-from-trump/articleshow/126217285.cms",
+        "published": "Sun, 28 Dec 2025 21:44:09 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "President Trump's administration has taken a tech-friendly approach, countering earlier commitments to regulate the industry. The relaxation of export limits on AI chips has paved the way for major tech companies to thrive, driving up their stock prices and raising cryptocurrency valuations."
     }
 ]
