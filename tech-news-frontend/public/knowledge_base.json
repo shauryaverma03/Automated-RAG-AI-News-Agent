@@ -31166,5 +31166,37 @@
         "published": "Sun, 28 Dec 2025 14:00:44 GMT",
         "source": "Latest news",
         "summary": "If you love Samsung's feature-packed software, this OneUI tool is your next rabbit hole to explore."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/",
+        "title": "OpenAI is looking for a new Head of Preparedness",
+        "link": "https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/",
+        "published": "Sun, 28 Dec 2025 15:08:19 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI is looking to hire a new executive responsible for studying emerging AI-related risks in areas ranging from computer security to mental health."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/28/the-14-fintech-real-estate-proptech-startups-from-disrupt-startup-battlefield/",
+        "title": "The 14 fintech, real estate, proptech startups from Disrupt Startup Battlefield",
+        "link": "https://techcrunch.com/2025/12/28/the-14-fintech-real-estate-proptech-startups-from-disrupt-startup-battlefield/",
+        "published": "Sun, 28 Dec 2025 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Here is the full list of the fintech, real estate, and proptech Startup Battlefield 200 selectees, along with a note on what made us select them for the competition."
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=46411275",
+        "title": "Ask HN: Anti-AI Open Source License?",
+        "link": "https://news.ycombinator.com/item?id=46411275",
+        "published": "Sun, 28 Dec 2025 14:24:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46411275\">Comments</a>"
+    },
+    {
+        "id": "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list",
+        "title": "One year of keeping a tada list",
+        "link": "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list",
+        "published": "Mon, 22 Dec 2025 14:16:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46354282\">Comments</a>"
     }
 ]
