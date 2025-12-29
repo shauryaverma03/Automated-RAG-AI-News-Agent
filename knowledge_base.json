@@ -32358,5 +32358,61 @@
         "published": "Mon, 29 Dec 2025 16:20:00 GMT",
         "source": "Latest news",
         "summary": "The Skylight Calendar smart display has had a significant impact on keeping track of events, meetings, and even household tasks."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/",
+        "title": "Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere",
+        "link": "https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/",
+        "published": "Mon, 29 Dec 2025 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Plaud Note Pro is a $179 notetaker, which is an excellent recording device first"
+    },
+    {
+        "id": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
+        "title": "Turn your PC into a Super Nintendo with Epilogue&#8217;s new USB dock",
+        "link": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
+        "published": "2025-12-29T12:22:05-05:00",
+        "source": "The Verge",
+        "summary": "After announcing and teasing its design well over a year ago, Epilogue's new SN Operator will finally be available for preorder starting tomorrow. Like the company's GB Operator that debuted in early 2021, the SN Operator is a standalone USB cartridge slot that lets you play and archive old Nintendo console games on PCs, Macs, [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/pc/co-founder-of-cd-projekt-micha%C5%82-kicinski-has-acquired-gog-the-companys-game-storefront-174853415.html?src=rss",
+        "title": "Co-founder of CD Projekt Micha\u0142 Kici\u0144ski has acquired GOG, the company's game storefront",
+        "link": "https://www.engadget.com/gaming/pc/co-founder-of-cd-projekt-micha%C5%82-kicinski-has-acquired-gog-the-companys-game-storefront-174853415.html?src=rss",
+        "published": "Mon, 29 Dec 2025 17:48:53 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Micha\u0142 Kici\u0144ski, co-founder of CD Projekt, <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=a3926e63-4324-467b-872c-52d2bfe9bd34&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=08606c93-89f2-4adb-a389-f9a28e668876&amp;featureId=text-link&amp;merchantName=GOG.com&amp;linkText=has+acquired&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5nb2cuY29tL3ByZXNzcm9vbS9jZC1wcm9qZWt0LWNvLWZvdW5kZXItbWljaGFsLWtpY2l"
+    },
+    {
+        "id": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+        "title": "GOG is getting acquired by its original co-founder: What it means for you",
+        "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+        "published": "Mon, 29 Dec 2025 16:43:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46422412\">Comments</a>"
+    },
+    {
+        "id": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+        "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+        "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+        "published": "Mon, 29 Dec 2025 17:57:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46423290\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/pikaos-linux-distro-review/",
+        "title": "Gaming on Linux? I found a distro that makes it pain-free",
+        "link": "https://www.zdnet.com/article/pikaos-linux-distro-review/",
+        "published": "Mon, 29 Dec 2025 18:06:00 GMT",
+        "source": "Latest news",
+        "summary": "Gaming on Linux has come a long way; PikaOS is one such distro that offers a user-friendly, out-of-the-box experience."
+    },
+    {
+        "id": "https://www.zdnet.com/article/elevation-lab-timecapsule-review/",
+        "title": "It took just minutes for me to extend my AirTag's battery life by 5 years - here's how",
+        "link": "https://www.zdnet.com/article/elevation-lab-timecapsule-review/",
+        "published": "Mon, 29 Dec 2025 17:30:37 GMT",
+        "source": "Latest news",
+        "summary": "An AirTag battery failure at the wrong time can leave your gear vulnerable. Elevation Lab's Time Capsule fixes that."
     }
 ]
