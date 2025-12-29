@@ -32286,5 +32286,77 @@
         "published": "Mon, 29 Dec 2025 20:46:41 +0530",
         "source": "Tech-Economic Times",
         "summary": "SoftBank Group is acquiring DigitalBridge Group for $4 billion. This deal will boost SoftBank's focus on artificial intelligence. DigitalBridge is a major investor in digital infrastructure like data centers and cell towers. The acquisition is expected to conclude in the latter half of next year. SoftBank aims to leverage the growing demand for AI computing power."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/",
+        "title": "Why the electrical grid needs more software",
+        "link": "https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/",
+        "published": "Mon, 29 Dec 2025 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The electrical grid is facing unprecedented stress from the addition of new data centers. Software could offer a cost-effective way to boost reliability and capacity."
+    },
+    {
+        "id": "https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms",
+        "title": "How to tweak your online platform algorithms",
+        "link": "https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms",
+        "published": "2025-12-29T11:30:00-05:00",
+        "source": "The Verge",
+        "summary": "Love them or hate them, more than half of the world's population interacts with algorithmic recommendations in some way every day. Algorithmic recommendations play an integral role in how users discover new content across platforms like Facebook, Instagram, TikTok, and YouTube. It can be nice to be fed a stream of fresh posts, pictures, and [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/",
+        "title": "China drafts world\u2019s strictest rules to end AI-encouraged suicide, violence",
+        "link": "https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/",
+        "published": "Mon, 29 Dec 2025 16:30:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "China wants a human to intervene and notify guardians if suicide is ever mentioned."
+    },
+    {
+        "id": "https://www.engadget.com/deals/1password-deal-get-50-percent-off-plans-for-the-holiday-season-162844584.html?src=rss",
+        "title": "1Password deal: Get 50 percent off plans for the holiday season",
+        "link": "https://www.engadget.com/deals/1password-deal-get-50-percent-off-plans-for-the-holiday-season-162844584.html?src=rss",
+        "published": "Mon, 29 Dec 2025 16:28:45 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>If cleaning up your digital life is on your New Year's resolution list, we've got good news: 1Password is offering <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=29d07367-7ffa-4e05-9a7f-c1dd19430630&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=cd9e1307-aef8-4e09-8a9c-1a77b7b352b3&amp;featureId=text-link&amp;merchantName=1Password&amp;linkText=half+off+its+subscription+plans&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbm"
+    },
+    {
+        "id": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+        "title": "Static Allocation with Zig",
+        "link": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+        "published": "Mon, 29 Dec 2025 16:07:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46422009\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-galaxy-s25-ultra-vs-oneplus-15/",
+        "title": "I tested the two best Android flagship phones of 2025 - and the winner is not so obvious",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-s25-ultra-vs-oneplus-15/",
+        "published": "Mon, 29 Dec 2025 17:00:40 GMT",
+        "source": "Latest news",
+        "summary": "Which phone deserves your hard-earned money going into 2026, the Samsung Galaxy S25 Ultra or the OnePlus 15? Here's my verdict."
+    },
+    {
+        "id": "https://www.zdnet.com/article/harvard-free-online-coding-classes/",
+        "title": "I took Harvard's free online coding classes to better catch AI's errors - and they're legit",
+        "link": "https://www.zdnet.com/article/harvard-free-online-coding-classes/",
+        "published": "Mon, 29 Dec 2025 16:38:09 GMT",
+        "source": "Latest news",
+        "summary": "Harvard's free programming classes teach you how to think, debug, and adapt in an AI-driven world where knowing code matters more than ever."
+    },
+    {
+        "id": "https://www.zdnet.com/article/amazon-fire-tv-omni-tv-2025-review/",
+        "title": "Why the QLED TV I recommend to most people in 2025 isn't made by Samsung or LG",
+        "link": "https://www.zdnet.com/article/amazon-fire-tv-omni-tv-2025-review/",
+        "published": "Mon, 29 Dec 2025 16:35:36 GMT",
+        "source": "Latest news",
+        "summary": "Amazon's latest flagship Fire TV may just be the best mix of quality and price, but should you buy one over the bigger brands?"
+    },
+    {
+        "id": "https://www.zdnet.com/article/skylight-calendar-smart-display-review/",
+        "title": "I thought smart calendars were a gimmick, until I put this 15-inch tablet on my wall",
+        "link": "https://www.zdnet.com/article/skylight-calendar-smart-display-review/",
+        "published": "Mon, 29 Dec 2025 16:20:00 GMT",
+        "source": "Latest news",
+        "summary": "The Skylight Calendar smart display has had a significant impact on keeping track of events, meetings, and even household tasks."
     }
 ]
