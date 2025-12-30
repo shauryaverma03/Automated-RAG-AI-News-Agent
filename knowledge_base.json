@@ -33558,5 +33558,85 @@
         "published": "Tue, 30 Dec 2025 17:32:03 GMT",
         "source": "Latest news",
         "summary": "The Xtar L8 Box is my dream AA/AAA battery charger - it charges eight batteries simultaneously, is compatible with both AA and AAA batteries, and runs off a USB-C charger."
+    },
+    {
+        "id": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
+        "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
+        "link": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
+        "published": "2025-12-30T13:32:27-05:00",
+        "source": "The Verge",
+        "summary": "Two former employees at cybersecurity firms - one of whom was a ransomware negotiator - have pleaded guilty to carrying out a series of ransomware attacks in 2023. The Department of Justice announced the guilty pleas on Tuesday, saying 40-year-old Ryan Goldberg and 36-year-old Kevin Martin extorted $1.2 million in Bitcoin from a medical device [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/home/how-to-watch-the-hisense-ces-2026-presentation-live-190040090.html?src=rss",
+        "title": "How to watch the Hisense CES 2026 presentation live",
+        "link": "https://www.engadget.com/home/how-to-watch-the-hisense-ces-2026-presentation-live-190040090.html?src=rss",
+        "published": "Tue, 30 Dec 2025 19:00:40 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<figure><img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-12/834aecc0-dcf1-11f0-b7de-13a29302f310\" style=\"height: 4000px; width: 6000px;\" /><figcaption>Xinhua News Agency via Getty Images</figcaption></figure>\n<p>Hisense is perhaps best known for its budget-friendly electronics and appliances, like TVs and refrigerators. But at CES 2025, the China-based company showed its high-end chops with a massive <a href=\"https://www.engadget.com/home/home-theater/hisense-introduces-its-first-ever"
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/samsung-unveils-its-new-200-galaxy-a17-5g-smartphone-arriving-in-january-184846560.html?src=rss",
+        "title": "Samsung unveils its new $200 Galaxy A17 5G smartphone, arriving in January",
+        "link": "https://www.engadget.com/mobile/smartphones/samsung-unveils-its-new-200-galaxy-a17-5g-smartphone-arriving-in-january-184846560.html?src=rss",
+        "published": "Tue, 30 Dec 2025 18:48:46 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Samsung will have two new inexpensive mobile devices <a class=\"link\" href=\"https://news.samsung.com/us/samsung-welcomes-galaxy-a17-5g-galaxy-tab-a11-galaxy-ecosystem/\" target=\"_blank\">arriving</a> on the US market next month. The Galaxy A17 5G starts at $199 and will be available on January 7. Arriving on January 8, the Galaxy Tab A11+ will retail for $250.&nbsp;</p><p>The Galaxy A17 5G has a 6.7\u201d FHD+ Super AMOLED display and is powered by the same Exynos 1330 chip found in the Galaxy A16 5G"
+    },
+    {
+        "id": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+        "title": "Electrolysis can solve one of our biggest contamination problems",
+        "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+        "published": "Tue, 30 Dec 2025 18:08:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46436127\">Comments</a>"
+    },
+    {
+        "id": "https://hackerbook.dosaygo.com",
+        "title": "Show HN: 22 GB of Hacker News in SQLite",
+        "link": "https://hackerbook.dosaygo.com",
+        "published": "Tue, 30 Dec 2025 17:01:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46435308\">Comments</a>"
+    },
+    {
+        "id": "https://loss32.org/",
+        "title": "Loss32: Let's Build a Win32/Linux",
+        "link": "https://loss32.org/",
+        "published": "Mon, 29 Dec 2025 19:09:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46424173\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/tcl-note-a1-nxtpaper-ces-2026/",
+        "title": "TCL's newest E Ink tablet beats the Kindle and Remarkable with this display tech",
+        "link": "https://www.zdnet.com/article/tcl-note-a1-nxtpaper-ces-2026/",
+        "published": "Tue, 30 Dec 2025 18:54:00 GMT",
+        "source": "Latest news",
+        "summary": "TCL's Note A1 Nxtpaper tablet will feature a full-color display at 120Hz while retaining the digital paper experience."
+    },
+    {
+        "id": "https://www.zdnet.com/article/elevation-lab-time-capsule-review/",
+        "title": "I gave my AirTag a 5-year battery life with this accessory - and it took just minutes to set up",
+        "link": "https://www.zdnet.com/article/elevation-lab-time-capsule-review/",
+        "published": "Tue, 30 Dec 2025 18:53:00 GMT",
+        "source": "Latest news",
+        "summary": "An AirTag battery failure at the wrong time can leave your gear vulnerable. Elevation Lab's Time Capsule is a handy solution."
+    },
+    {
+        "id": "https://www.zdnet.com/article/meta-buys-manus-ai-agent-2-billion/",
+        "title": "Everything Meta could do with its new $2 billion AI agent",
+        "link": "https://www.zdnet.com/article/meta-buys-manus-ai-agent-2-billion/",
+        "published": "Tue, 30 Dec 2025 18:38:17 GMT",
+        "source": "Latest news",
+        "summary": "Meta has struggled to compete with industry-leading AI labs like OpenAI and Anthropic. Here's how its acquisition of Chinese startup Manus could change that."
+    },
+    {
+        "id": "https://www.zdnet.com/article/lg-gallery-tv-samsung-frame-rival/",
+        "title": "A major TV manufacturer just announced its answer to the Samsung Frame - and it's promising",
+        "link": "https://www.zdnet.com/article/lg-gallery-tv-samsung-frame-rival/",
+        "published": "Tue, 30 Dec 2025 18:27:00 GMT",
+        "source": "Latest news",
+        "summary": "The LG Gallery TV has magnetic frames and a special 'Gallery Mode' that was developed with museum curators."
     }
 ]
