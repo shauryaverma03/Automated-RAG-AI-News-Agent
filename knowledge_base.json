@@ -33638,5 +33638,61 @@
         "published": "Tue, 30 Dec 2025 18:27:00 GMT",
         "source": "Latest news",
         "summary": "The LG Gallery TV has magnetic frames and a special 'Gallery Mode' that was developed with museum curators."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2025/12/stranger-things-series-finale-trailer-is-here/",
+        "title": "Stranger Things series finale trailer is here",
+        "link": "https://arstechnica.com/culture/2025/12/stranger-things-series-finale-trailer-is-here/",
+        "published": "Tue, 30 Dec 2025 19:00:00 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Netflix's finale will also have a two-day theatrical release to more than 600 locations."
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/",
+        "title": "Cond\u00e9 Nast User database reportedly breached, Ars unaffected",
+        "link": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/",
+        "published": "Tue, 30 Dec 2025 18:45:54 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "A serious data breach has occurred, but Ars users have nothing to worry about."
+    },
+    {
+        "id": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+        "title": "FediMeteo: A \u20ac4 FreeBSD VPS Became a Global Weather Service",
+        "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+        "published": "Tue, 30 Dec 2025 19:21:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46436889\">Comments</a>"
+    },
+    {
+        "id": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+        "title": "A Vulnerability in Libsodium",
+        "link": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+        "published": "Tue, 30 Dec 2025 17:24:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46435614\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/level-lock-pro-review/",
+        "title": "I replaced my deadbolt with this Apple HomeKey smart lock - and it's an iPhone user's dream",
+        "link": "https://www.zdnet.com/article/level-lock-pro-review/",
+        "published": "Tue, 30 Dec 2025 19:57:00 GMT",
+        "source": "Latest news",
+        "summary": "The Matter-enabled Level Lock Pro maintains a sleek deadbolt look while packing advanced smart features."
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-tech-splurges-2025/",
+        "title": "5 tech splurges I thought I'd regret in 2025 (but now can't live without)",
+        "link": "https://www.zdnet.com/article/best-tech-splurges-2025/",
+        "published": "Tue, 30 Dec 2025 19:32:00 GMT",
+        "source": "Latest news",
+        "summary": "I tested many expensive tech gadgets over the past 12 months, but only these deserve a spot in your life."
+    },
+    {
+        "id": "https://www.zdnet.com/article/hisense-xr10-px4pro-projector-ces-2026/",
+        "title": "Hisense's new 4K laser projector gets so bright, it makes OLED TVs look outdated",
+        "link": "https://www.zdnet.com/article/hisense-xr10-px4pro-projector-ces-2026/",
+        "published": "Tue, 30 Dec 2025 19:30:00 GMT",
+        "source": "Latest news",
+        "summary": "Ahead of CES 2026, the company has unveiled two new projectors with some seriously ambitious specs."
     }
 ]
