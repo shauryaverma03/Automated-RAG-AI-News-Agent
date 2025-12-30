@@ -32646,5 +32646,61 @@
         "published": "Mon, 29 Dec 2025 22:28:53 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46426596\">Comments</a>"
+    },
+    {
+        "id": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
+        "title": "Stranger Things Creator Says Turn Off \"Garbage\" Settings",
+        "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
+        "published": "Mon, 29 Dec 2025 23:50:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46427586\">Comments</a>"
+    },
+    {
+        "id": "https://pubs.usgs.gov/fs/farallones/",
+        "title": "Geology of the Gulf of the Farallones National Marine Sanctuary",
+        "link": "https://pubs.usgs.gov/fs/farallones/",
+        "published": "Mon, 29 Dec 2025 23:12:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46427181\">Comments</a>"
+    },
+    {
+        "id": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
+        "title": "MongoDB Server Security Update, December 2025",
+        "link": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
+        "published": "Tue, 30 Dec 2025 00:23:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46427920\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/gcc-nation-90-new-tech-centres-added-4-5l-indian-jobs-in-2025/articleshow/126238317.cms",
+        "title": "GCC nation! 90+ new tech centres added 4.5L Indian jobs in 2025",
+        "link": "https://economictimes.indiatimes.com/tech/technology/gcc-nation-90-new-tech-centres-added-4-5l-indian-jobs-in-2025/articleshow/126238317.cms",
+        "published": "Tue, 30 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\u200b\u200bWith new centres opening and hiring continuing at scale, GCCs are now a major driver of jobs and office demand. ET's Tanya Pandey breaks down the numbers behind India\u2019s GCC boom."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-unicorn-glean-cranking-up-india-build-out-for-10x-growth/articleshow/126237817.cms",
+        "title": "AI unicorn Glean cranking up India build-out for 10x growth",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-unicorn-glean-cranking-up-india-build-out-for-10x-growth/articleshow/126237817.cms",
+        "published": "Tue, 30 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Launched in 2019, Glean is among the first AI-powered enterprise search platforms. However, the advent of AI has made it easier for companies to build products faster than ever before, offering a level playing field. This has increased competition and reduced the time taken to build and deliver a product."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/investments-in-ai-cloud-set-to-drive-it-spending-in-2026/articleshow/126236597.cms",
+        "title": "Investments in AI, cloud set to drive IT spending in 2026",
+        "link": "https://economictimes.indiatimes.com/tech/technology/investments-in-ai-cloud-set-to-drive-it-spending-in-2026/articleshow/126236597.cms",
+        "published": "Tue, 30 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to Gartner, overall IT spending in 2026 is estimated to grow 10.6% to $176 billion, compared with the 8.7% growth in the previous year. However, the bigger shift, the research and consultancy firm noted, is not just higher IT budgets but a reallocation of spending."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/as-vc-exits-pile-up-2026-will-test-fundraising-prospects-of-first-time-independent-funds/articleshow/126236514.cms",
+        "title": "2025 Year in Review: 2026 to test fundraising prospects of VCs going solo",
+        "link": "https://economictimes.indiatimes.com/tech/startups/as-vc-exits-pile-up-2026-will-test-fundraising-prospects-of-first-time-independent-funds/articleshow/126236514.cms",
+        "published": "Tue, 30 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Data shared by executive search firm Longhouse shows the industry saw nearly two dozen high-profile departures and lateral moves during the year. The exits add to a growing list of general partners moving on from large funds, raising questions about whether their experience and track record will translate into solo fundraises at a time when limited partners are becoming increasingly selective."
     }
 ]
