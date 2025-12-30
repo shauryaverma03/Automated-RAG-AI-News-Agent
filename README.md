@@ -1,132 +1,140 @@
-# 🚀 Automated-RAG-AI-News-Agent
+# 🚀 Automated RAG AI News Agent
 
-[![GitHub](https://img.shields.io/badge/GitHub-shauryaverma03%2FAutomated--RAG--AI--News--Agent-blue)](https://github.com/shauryaverma03/Automated-RAG-AI-News-Agent)
+![GitHub Repo stars](https://img.shields.io/github/stars/shauryaverma03/Automated-RAG-AI-News-Agent?style=social)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🤗 Hugging Face Profile & Dataset
+An AI-powered automated news intelligence system that collects, processes, summarizes, and retrieves daily tech news using Retrieval-Augmented Generation (RAG).
 
-- **Check my Hugging Face profile:** [https://huggingface.co/shaurya03](https://huggingface.co/shaurya03)
-- **Directly download the dataset:** [https://huggingface.co/datasets/shaurya03/tech-news-daily](https://huggingface.co/datasets/shaurya03/tech-news-daily)
-
----
-
-Welcome to **Automated-RAG-AI-News-Agent**! This Python-powered project brings together the latest advances in Retrieval-Augmented Generation (RAG) with automated news gathering and summarization.  
-Whether you're a developer, data scientist, or news enthusiast, this agent makes it easy to collect, analyze, and summarize news with just a few steps.  
-
----
-
-## 🌟 Features
-
-- **Automated News Ingestion**: Pulls in news articles from multiple sources (RSS, APIs, or web scraping).
-- **RAG-Driven Summarization**: Uses Retrieval-Augmented Generation integrating cutting-edge AI from Hugging Face and Google Generative AI.
-- **Knowledge Base**: Stores retrieved content for fast contextual access and analysis.
-- **Streamlit UI**: Ready-to-use interactive web interface.
-- **Easy Customization**: Swap sources, adjust summarization logic, or plug in your own AI models.
+GitHub Repository: https://github.com/shauryaverma03/Automated-RAG-AI-News-Agent  
+Hugging Face Profile: https://huggingface.co/shaurya03  
+Dataset: https://huggingface.co/datasets/shaurya03/tech-news-daily  
 
 ---
 
-## 📁 Project Structure
+## About
 
-| File Name                | Purpose                                                                              |
-|--------------------------|--------------------------------------------------------------------------------------|
-| `app.py`                 | Main Streamlit application, provides user interface for querying and results display.|
-| `ingest_and_push.py`     | Handles downloading news, extracting content, and populating the knowledge base.     |
-| `knowledge_base.json`    | Stores news articles and summaries in structured format.                             |
-| `requirements.txt`       | Lists all Python dependencies needed for the project.                                |
-| `.env` (create yourself) | Stores API keys and configuration values.                                            |
+Automated RAG AI News Agent automates the complete tech news pipeline:
+- News collection and ingestion
+- AI-based summarization
+- Knowledge storage
+- Semantic retrieval using RAG
+- Interactive UI using Streamlit and React
 
----
-
-## 🛠️ Installation & Setup
-
-### **Step 1: Clone the Repository**
-```sh
-git clone https://github.com/shauryaverma03/Automated-RAG-AI-News-Agent.git
-cd Automated-RAG-AI-News-Agent
-```
-
-### **Step 2: Install Dependencies**
-
-Ensure you have Python 3.8+, then run:
-```sh
-pip install -r requirements.txt
-```
-Key packages used:
-- `requests`, `beautifulsoup4`, `feedparser` (news ingestion & parsing)
-- `pinecone`, `huggingface_hub`, `google-generativeai` (RAG & AI integration)
-- `pandas` (data handling)
-- `streamlit` (web UI)
-- `python-dotenv`, `lxml` (config management, parsing)
-
-### **Step 3: Configure Environment**
-
-Create a `.env` file in the root folder:
-```env
-HUGGINGFACE_API_KEY=your_hf_key_here
-GOOGLE_API_KEY=your_google_key_here
-PINECONE_API_KEY=your_pinecone_key_here
-```
-Add relevant API keys for the services you plan to use.
+This project is suitable for AI portfolios, hackathons, and real-world AI systems.
 
 ---
 
-## 🚦 How to Use
+## Features
 
-### **Ingest News and Populate Knowledge Base**
-```sh
-python ingest_and_push.py
-```
-- Fetches news, scrapes & extracts important content.
-- Populates `knowledge_base.json` for use by the agent.
-
-### **Run the Interactive Web App**
-```sh
-streamlit run app.py
-```
-- Launches an interactive UI for querying news topics and reviewing AI-generated summaries.
-
-### **Query the RAG AI News Agent**
-- Use the UI or connect via API (see `app.py` for endpoint details).
-- Ask questions, request summaries, or explore the knowledge base.
+- Automated tech news ingestion
+- RAG-based summarization
+- JSON-based knowledge base
+- Semantic search
+- Streamlit interactive UI
+- React frontend support
+- Hugging Face & Pinecone integration
 
 ---
 
-## 💡 How It Works
+## Project Structure
 
-1. **Ingestion**: Downloads and parses news articles using Python libraries (`requests`, `beautifulsoup4`, etc.).
-2. **Knowledge Base Population**: Stores articles in `knowledge_base.json` with topic metadata.
-3. **RAG Summarization**: For user queries, retrieves relevant news excerpts and sends them to either Hugging Face or Google Generative AI models.
-4. **User Interface**: Streamlit provides a friendly interface for exploration and interaction.
-
----
-
-## 🧑‍💻 Customization
-
-- Add/remove news sources in `ingest_and_push.py`.
-- Integrate with additional LLMs by updating RAG modules.
-- Personalize the Streamlit UI in `app.py`.
-- Adjust knowledge base structure or add new fields as needed.
+Automated-RAG-AI-News-Agent/
+├── tech-news-frontend/
+├── ingest_and_push.py
+├── knowledge_base.json
+├── app.py
+├── requirements.txt
+├── .env.example
+└── README.md
 
 ---
 
-## 📜 License
+## Tech Stack
 
-This project is licensed under the MIT License. See [LICENSE](https://github.com/shauryaverma03/Automated-RAG-AI-News-Agent/blob/main/LICENSE) for details.
+- Python
+- Hugging Face Transformers
+- Google Generative AI
+- Pinecone / Vector Search
+- Streamlit
+- React
+- JSON Knowledge Base
+
+---
+
+## Installation
+
+git clone https://github.com/shauryaverma03/Automated-RAG-AI-News-Agent.git  
+cd Automated-RAG-AI-News-Agent  
+pip install -r requirements.txt  
 
 ---
 
-## 🙋‍♀️ Contributing
+## Environment Variables
 
-- Contributions, feature requests, and feedback are welcome!
-- Open an issue or pull request to improve the agent.
+Create a .env file:
+
+HUGGINGFACE_API_KEY=your_hf_key_here  
+GOOGLE_API_KEY=your_google_key_here  
+PINECONE_API_KEY=your_pinecone_key_here  
+
+---
+
+## Usage
+
+Ingest News:
+
+python ingest_and_push.py  
+
+Run App:
+
+streamlit run app.py  
 
 ---
 
-## 🔗 References & Support
+## RAG Workflow
 
-- [Hugging Face](https://huggingface.co/)
-- [Google Generative AI](https://ai.google/)
-- [Streamlit Docs](https://docs.streamlit.io/)
-- [MIT License](https://opensource.org/licenses/MIT)
+1. News scraping / RSS ingestion  
+2. Text chunking  
+3. Embedding generation  
+4. Knowledge storage  
+5. Semantic retrieval  
+6. AI-generated summaries  
 
 ---
-*Developed by shauryaverma03 – Automated RAG meets the world of news!*
+
+## Customization
+
+- Add new sources in ingest_and_push.py
+- Customize Streamlit or React UI
+- Replace JSON with Pinecone or MongoDB
+- Automate ingestion using cron jobs
+
+---
+
+## Future Scope
+
+- Real-time news ingestion
+- Topic-wise clustering
+- Multilingual summaries
+- Voice-based interaction
+- User authentication
+
+---
+
+## License
+
+MIT License
+
+---
+
+## Contributing
+
+Issues and pull requests are welcome.
+
+---
+
+## Support
+
+If you like this project, give it a star ⭐
