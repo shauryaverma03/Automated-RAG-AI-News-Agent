@@ -33750,5 +33750,37 @@
         "published": "Tue, 30 Dec 2025 05:25:03 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Nexus Power is building biodegradable batteries from crop waste to power EVs, reduce pollution, and replace lithium-based cells."
+    },
+    {
+        "id": "https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/",
+        "title": "The science of how (and when) we decide to speak out\u2014or self-censor",
+        "link": "https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/",
+        "published": "Tue, 30 Dec 2025 21:30:04 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The study's main takeaway: \"Be bold. It is the thing that slows down authoritarian creep.\""
+    },
+    {
+        "id": "https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/",
+        "title": "Lawsuit over Trump rejecting medical research grants is settled",
+        "link": "https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/",
+        "published": "Tue, 30 Dec 2025 20:45:34 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Settlement forces NIH to review grants previously rejected on ideological grounds."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/the-onexsugar-wallet-is-an-upcoming-retro-handheld-with-a-43-foldable-screen-215528433.html?src=rss",
+        "title": "The OneXSugar Wallet is an upcoming retro handheld with a 4:3 foldable screen",
+        "link": "https://www.engadget.com/gaming/the-onexsugar-wallet-is-an-upcoming-retro-handheld-with-a-43-foldable-screen-215528433.html?src=rss",
+        "published": "Tue, 30 Dec 2025 21:55:28 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>OneXPlayer is quickly establishing itself as a company that isn't afraid to get weird as hell. (Take, for example, its <a class=\"link\" href=\"https://www.engadget.com/gaming/next-gen-snapdragon-g-series-chips-will-power-handhelds-from-ayaneo-onexsugar-and-retroid-pocket-131733930.html\" target=\"_blank\">transforming dual-screen gaming portable</a>.) Its latest venture is another retro gaming handheld that, at first glance, looks like a standard dual-screen model. But the Android-powered OneXSuga"
+    },
+    {
+        "id": "https://www.engadget.com/computing/idc-warns-of-major-pc-market-downturn-due-to-memory-crunch-214510197.html?src=rss",
+        "title": "IDC warns of major PC market downturn due to memory crunch",
+        "link": "https://www.engadget.com/computing/idc-warns-of-major-pc-market-downturn-due-to-memory-crunch-214510197.html?src=rss",
+        "published": "Tue, 30 Dec 2025 21:45:10 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The demand building out AI infrastructure has placed on <a class=\"link\" href=\"https://www.engadget.com/ai/there-arent-any-black-friday-deals-on-ram-this-year-and-you-can-thank-ai-for-that-130000335.html\" target=\"_blank\">PC component makers</a> has already led to <a class=\"link\" href=\"https://www.engadget.com/computing/crucial-is-a-casualty-of-ais-hunger-for-ram-185910113.html\" target=\"_blank\">the death</a> of one consumer-facing RAM brand, but <a class=\"link\" href=\"https://www.idc.com/resourc"
     }
 ]
