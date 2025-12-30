@@ -33494,5 +33494,69 @@
         "published": "Tue, 30 Dec 2025 16:24:30 GMT",
         "source": "Latest news",
         "summary": "Microsoft is far more aggressive about Rust adoption than Linux."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/",
+        "title": "Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025",
+        "link": "https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/",
+        "published": "Tue, 30 Dec 2025 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "According to Dealroom\u2019s European Spinout Report 2025, 76 European deep tech and life sciences spinouts have either reached $1 billion valuations, $100 million in revenue, or both."
+    },
+    {
+        "id": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
+        "title": "The OneXSugar Wallet is the first gaming handheld with a folding screen",
+        "link": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
+        "published": "2025-12-30T12:52:38-05:00",
+        "source": "The Verge",
+        "summary": "Folding OLED displays are still most commonly found on premium smartphones and laptops, but One-Netbook is bringing the tech to a new gaming device. Its new OneXSugar Wallet is reminiscent of the company's folding OneXSugar Sugar 1 handheld that launched earlier this year. But instead of two screens, the Wallet handheld unfolds to reveal just [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/netflix-has-released-a-trailer-for-the-stranger-things-finale-171204480.html?src=rss",
+        "title": "Netflix has released a trailer for the Stranger Things finale",
+        "link": "https://www.engadget.com/entertainment/streaming/netflix-has-released-a-trailer-for-the-stranger-things-finale-171204480.html?src=rss",
+        "published": "Tue, 30 Dec 2025 17:12:04 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Tomorrow's the big day, and I don't just mean New Year's Eve. The series finale of <em>Stranger Things</em> airs tomorrow, and Netflix has released a <a href=\"https://www.youtube.com/watch?v=AfQ13jsLDms\"><ins>trailer for the last episode</ins></a>. We're given only flashes of the final episode, along with a voiceover of an emotional Jim Hopper telling Eleven he needs her to fight one last time.</p>\n<p>It's just over 1 minute and 30 seconds long, with what appears to be only about 30 seconds o"
+    },
+    {
+        "id": "https://github.com/torokernel/torokernel",
+        "title": "Toro: Deploy Applications as Unikernels",
+        "link": "https://github.com/torokernel/torokernel",
+        "published": "Tue, 30 Dec 2025 17:09:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46435418\">Comments</a>"
+    },
+    {
+        "id": "https://mwilczynski.dev/posts/riscv-gpu-zink/",
+        "title": "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
+        "link": "https://mwilczynski.dev/posts/riscv-gpu-zink/",
+        "published": "Tue, 30 Dec 2025 13:55:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46433352\">Comments</a>"
+    },
+    {
+        "id": "https://www.gkbrk.com/hotel-music",
+        "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
+        "link": "https://www.gkbrk.com/hotel-music",
+        "published": "Tue, 23 Dec 2025 15:21:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46366010\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/distrobox-test-multiple-linux-distros-in-containers/",
+        "title": "This simple Linux tool lets you try multiple distros safely on one desktop - for free",
+        "link": "https://www.zdnet.com/article/distrobox-test-multiple-linux-distros-in-containers/",
+        "published": "Tue, 30 Dec 2025 17:54:44 GMT",
+        "source": "Latest news",
+        "summary": "With Distrobox, you can run and experiment with distributions inside containers. No virtual machine required."
+    },
+    {
+        "id": "https://www.zdnet.com/article/xtar-l8-box-battery-charger-compatible-with-aa-aaa-usb-c/",
+        "title": "This charger will allow me to finally say goodbye to alkaline batteries in 2026",
+        "link": "https://www.zdnet.com/article/xtar-l8-box-battery-charger-compatible-with-aa-aaa-usb-c/",
+        "published": "Tue, 30 Dec 2025 17:32:03 GMT",
+        "source": "Latest news",
+        "summary": "The Xtar L8 Box is my dream AA/AAA battery charger - it charges eight batteries simultaneously, is compatible with both AA and AAA batteries, and runs off a USB-C charger."
     }
 ]
