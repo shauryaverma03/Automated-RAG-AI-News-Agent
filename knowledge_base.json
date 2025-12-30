@@ -33694,5 +33694,61 @@
         "published": "Tue, 30 Dec 2025 19:30:00 GMT",
         "source": "Latest news",
         "summary": "Ahead of CES 2026, the company has unveiled two new projectors with some seriously ambitious specs."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2025/12/doge-did-not-find-2t-in-fraud-but-that-doesnt-matter-musk-allies-say/",
+        "title": "DOGE did not find $2T in fraud, but that doesn\u2019t matter, Musk allies say",
+        "link": "https://arstechnica.com/tech-policy/2025/12/doge-did-not-find-2t-in-fraud-but-that-doesnt-matter-musk-allies-say/",
+        "published": "Tue, 30 Dec 2025 20:30:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Musk allies spin DOGE as having a \"higher purpose\" beyond federal budget cuts."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2025/12/as-floods-become-more-severe-a-new-jersey-program-provides-a-model/",
+        "title": "NJ\u2019s answer to flooding: it has bought out and demolished 1,200 properties",
+        "link": "https://arstechnica.com/tech-policy/2025/12/as-floods-become-more-severe-a-new-jersey-program-provides-a-model/",
+        "published": "Tue, 30 Dec 2025 20:00:43 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The state deals with flooding and sea level rise by buying homes in flood prone areas."
+    },
+    {
+        "id": "https://www.kasava.dev/blog/everything-as-code-monorepo",
+        "title": "Everything as Code: How We Manage Our Company in One Monorepo",
+        "link": "https://www.kasava.dev/blog/everything-as-code-monorepo",
+        "published": "Tue, 30 Dec 2025 20:05:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46437381\">Comments</a>"
+    },
+    {
+        "id": "https://arxiv.org/abs/2512.14012",
+        "title": "Prof. Software Developers Don't Vibe, They Control: AI Agent Coding Use in 2025",
+        "link": "https://arxiv.org/abs/2512.14012",
+        "published": "Tue, 30 Dec 2025 20:06:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46437391\">Comments</a>"
+    },
+    {
+        "id": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
+        "title": "A faster heart for F-Droid. Our new server is here",
+        "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
+        "published": "Tue, 30 Dec 2025 18:36:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46436409\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-clear-tv-cache/",
+        "title": "How to clear the cache on your TV (and why it makes such a big difference)",
+        "link": "https://www.zdnet.com/article/how-to-clear-tv-cache/",
+        "published": "Tue, 30 Dec 2025 20:54:06 GMT",
+        "source": "Latest news",
+        "summary": "Clearing your TV's cache can greatly decrease stuttering and improve performance. Here's how to do it on brands like Samsung, LG, and more."
+    },
+    {
+        "id": "https://yourstory.com/2025/12/nexus-power-biobatteries-ev-india",
+        "title": "Nexus Power: Reinventing Battery Tech with Bio-Organic, Lithium-Free Innovation",
+        "link": "https://yourstory.com/2025/12/nexus-power-biobatteries-ev-india",
+        "published": "Tue, 30 Dec 2025 05:25:03 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Nexus Power is building biodegradable batteries from crop waste to power EVs, reduce pollution, and replace lithium-based cells."
     }
 ]
