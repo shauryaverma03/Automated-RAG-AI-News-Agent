@@ -33958,5 +33958,37 @@
         "published": "Tue, 30 Dec 2025 16:31:27 GMT",
         "source": "YourStory RSS Feed",
         "summary": "A young founder from Bedwali Gram Sabha outlines how his small nursery raises fruit and forest saplings for farmers and local institutions."
+    },
+    {
+        "id": "http://www.redbook.io/",
+        "title": "Readings in Database Systems (5th Edition)",
+        "link": "http://www.redbook.io/",
+        "published": "Wed, 31 Dec 2025 02:01:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46440510\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/china-urges-netherlands-to-correct-nexperia-mistakes/articleshow/126263324.cms",
+        "title": "China urges Netherlands to correct Nexperia 'mistakes'",
+        "link": "https://economictimes.indiatimes.com/tech/technology/china-urges-netherlands-to-correct-nexperia-mistakes/articleshow/126263324.cms",
+        "published": "Wed, 31 Dec 2025 09:15:06 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "China has criticised the Netherlands for interfering in the chip industry and disrupting the global semiconductor supply chain. The row centres on Dutch control of Nexperia, a firm linked to a Chinese company, and Beijing\u2019s retaliatory export curbs. Dutch officials say the intervention was necessary, despite China\u2019s objections."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-is-sued-by-us-virgin-islands-over-ads-for-scams-dangers-to-children/articleshow/126263278.cms",
+        "title": "Meta sued by US Virgin Islands over ads for scams, dangers to children",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-is-sued-by-us-virgin-islands-over-ads-for-scams-dangers-to-children/articleshow/126263278.cms",
+        "published": "Wed, 31 Dec 2025 09:09:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The US Virgin Islands has sued Meta, accusing it of allowing scam adverts and failing to protect users, including children. The case cites reports that a large share of Meta\u2019s revenue comes from harmful ads. Meta denies the claims, saying it actively tackles fraud and prioritises safety."
+    },
+    {
+        "id": "https://inc42.com/buzz/elasticrun-narrows-fy25-loss-by-60-to-inr-145-cr/",
+        "title": "ElasticRun Narrows FY25 Loss By 60% to INR 145 Cr",
+        "link": "https://inc42.com/buzz/elasticrun-narrows-fy25-loss-by-60-to-inr-145-cr/",
+        "published": "Wed, 31 Dec 2025 04:30:23 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"ElasticRun Narrows FY25 Loss By 60% to INR 145 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1021\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/12/ftr-10.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1361\" />Business-to-business (B2B) ecommerce solutions provider ElasticRun managed to narrow its loss in the fiscal year FY25 by 60% to INR&#8230;"
     }
 ]
