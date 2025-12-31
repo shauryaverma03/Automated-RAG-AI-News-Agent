@@ -33790,5 +33790,53 @@
         "published": "Tue, 30 Dec 2025 22:28:16 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46438828\">Comments</a>"
+    },
+    {
+        "id": "https://codecrafters.io/blog/programming-project-ideas",
+        "title": "Project ideas to appreciate the art of programming",
+        "link": "https://codecrafters.io/blog/programming-project-ideas",
+        "published": "Tue, 30 Dec 2025 22:47:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46439027\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/banks-are-pushing-video-kyc-adoption-as-financial-frauds-tick-up/articleshow/126258116.cms",
+        "title": "Banks are pushing video KYC adoption as financial frauds tick up",
+        "link": "https://economictimes.indiatimes.com/tech/technology/banks-are-pushing-video-kyc-adoption-as-financial-frauds-tick-up/articleshow/126258116.cms",
+        "published": "Wed, 31 Dec 2025 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The central bank allows lenders to open digital savings accounts with just a basic Aadhaar and PAN card check. However, rules mandate a deposit limit of Rs 1 lakh in such accounts, and their conversion into full-KYC accounts within one year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/et-graphics-more-tools-but-less-digital-security-is-india-incs-cyber-paradox/articleshow/126258484.cms",
+        "title": "ET Graphics: More tools but less digital security is India Inc\u2019s cyber paradox",
+        "link": "https://economictimes.indiatimes.com/tech/technology/et-graphics-more-tools-but-less-digital-security-is-india-incs-cyber-paradox/articleshow/126258484.cms",
+        "published": "Wed, 31 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Execution gaps, weak control over third-party vendors and untested plans leave firms exposed."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/ettech-explainer-decoding-govts-11-billion-rdif-fund/articleshow/126258404.cms",
+        "title": "ETtech Explainer: Decoding govt's $11 billion RDIF Fund",
+        "link": "https://economictimes.indiatimes.com/tech/startups/ettech-explainer-decoding-govts-11-billion-rdif-fund/articleshow/126258404.cms",
+        "published": "Wed, 31 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "RDIF's design is a page out of the playbooks of giant global sovereign funds, such as Singapore's Temasek, China's CIC, Norway's NBIM and ADIA of the UAE. However, India's potential sovereign fund is tailored specifically for deeptech and science-heavy innovation, an area where venture funding is less."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/h-1b-visa-holders-take-stock-of-a-year-of-fear-and-loathing/articleshow/126258374.cms",
+        "title": "H-1B visa holders take stock of a year of fear and loathing",
+        "link": "https://economictimes.indiatimes.com/tech/technology/h-1b-visa-holders-take-stock-of-a-year-of-fear-and-loathing/articleshow/126258374.cms",
+        "published": "Wed, 31 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The price of American dream, both financial and emotional, has never been higher"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/fmcg-companies-pull-up-their-stocks-for-a-smooth-ride/articleshow/126258293.cms",
+        "title": "FMCG companies pull up their stocks for a smooth ride",
+        "link": "https://economictimes.indiatimes.com/tech/technology/fmcg-companies-pull-up-their-stocks-for-a-smooth-ride/articleshow/126258293.cms",
+        "published": "Wed, 31 Dec 2025 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Over the last few years, New Year\u2019s eve has marked a peak for deliveries, executives at the companies and retail channels said. Restaurant chains are looking to their own apps to fill in the gaps or have reached out to logistics and other on-demand delivery companies."
     }
 ]
