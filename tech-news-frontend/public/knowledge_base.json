@@ -35022,5 +35022,29 @@
         "published": "Thu, 01 Jan 2026 13:24:07 +0530",
         "source": "Tech-Economic Times",
         "summary": "UPI hit record transaction volumes and value in December, rebounding after a softer November, driven by festive and year-end spending. Other digital payment modes such as IMPS and FASTag also saw growth, while AePS declined sequentially. Even as usage rises, NPCI is reviewing certain features to address consumer safety concerns."
+    },
+    {
+        "id": "https://nchagnet.pages.dev/blog/pokemon-team-optimization/",
+        "title": "Pok\u00e9mon Team Optimization",
+        "link": "https://nchagnet.pages.dev/blog/pokemon-team-optimization/",
+        "published": "Sat, 27 Dec 2025 13:38:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46401763\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-a-big-opportunity-essential-to-ensure-its-benefits-reach-all-president-murmu/articleshow/126284933.cms",
+        "title": "AI a 'big opportunity', essential to ensure its benefits reach all: President Droupadi Murmu",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-a-big-opportunity-essential-to-ensure-its-benefits-reach-all-president-murmu/articleshow/126284933.cms",
+        "published": "Thu, 01 Jan 2026 13:52:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "President Droupadi Murmu said artificial intelligence offers India a major opportunity for inclusive growth if its benefits reach all sections of society. She highlighted AI\u2019s role in boosting GDP, jobs and productivity, and stressed skilling in data and AI. The government, she said, is promoting responsible AI adoption through education and national missions."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/leading-the-ai-infrastructure-push-a-look-back-at-how-2025-played-out-for-sam-altman-and-openai/articleshow/126284350.cms",
+        "title": "Leading the AI infrastructure push: A look back at how 2025 played out for Sam Altman and OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/leading-the-ai-infrastructure-push-a-look-back-at-how-2025-played-out-for-sam-altman-and-openai/articleshow/126284350.cms",
+        "published": "Thu, 01 Jan 2026 13:48:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "By 2025, OpenAI under Sam Altman had shifted AI from novelty to critical infrastructure, with ChatGPT driving growth and vast spending on compute. Altman pushed autonomous agents, massive data centres and long-term bets despite losses. He acknowledged bubbles, fierce competition and regulation risks, but argued AI\u2019s economic impact would be transformational."
     }
 ]
