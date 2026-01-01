@@ -35534,5 +35534,45 @@
         "published": "Thu, 01 Jan 2026 17:37:01 GMT",
         "source": "YourStory RSS Feed",
         "summary": "India\u2019s quick-commerce model has once again found itself at the centre of a heated public debate. At the heart of the discussion is a simple"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/01/what-is-mastodon/",
+        "title": "A beginner\u2019s guide to Mastodon, the open source Twitter alternative",
+        "link": "https://techcrunch.com/2026/01/01/what-is-mastodon/",
+        "published": "Thu, 01 Jan 2026 21:02:13 +0000",
+        "source": "TechCrunch",
+        "summary": "Unless if you&#8217;re really in the know about nascent platforms, you probably didn&#8217;t know what Mastodon was until Elon Musk bought Twitter and renamed it X. In the initial aftermath of the acquisition, as users fretted over what direction Twitter would take, millions of users hopped over to Mastodon, a fellow microblogging site. As time [&#8230;]"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+        "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+        "link": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+        "published": "Thu, 01 Jan 2026 20:28:20 +0000",
+        "source": "TechCrunch",
+        "summary": "The bloodletting will hit hardest in back-office operations, risk management, and compliance."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/01/marvel-rings-in-new-year-with-wonder-man-trailer/",
+        "title": "Marvel rings in new year with Wonder Man trailer",
+        "link": "https://arstechnica.com/culture/2026/01/marvel-rings-in-new-year-with-wonder-man-trailer/",
+        "published": "Thu, 01 Jan 2026 20:18:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Acting is the sum of everything you've experienced. The joy. Sadness. Loss, Heartbreak.\""
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
+        "title": "Research roundup: 7 cool science stories we almost missed",
+        "link": "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
+        "published": "Thu, 01 Jan 2026 19:43:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Double-detonating \"superkilonova,\" Roman liquid gypsum burials, biomechanics of kangaroo posture, and more."
+    },
+    {
+        "id": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
+        "title": "Dell's version of the DGX Spark fixes pain points",
+        "link": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
+        "published": "Thu, 01 Jan 2026 19:11:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46457027\">Comments</a>"
     }
 ]
