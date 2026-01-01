@@ -34894,5 +34894,45 @@
         "published": "Thu, 01 Jan 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "India\u2019s Global Capability Centres (GCCs) are shifting away from mass hiring and focusing instead on specialised skills in AI, cloud, and cybersecurity as they head into 2026, a move that could reshape both job creation and the future of the country\u2019s tech workforce. India has over 1,800 GCCs, employing around 10.4 million people, with salaries that are 25-30% higher than those in other sectors."
+    },
+    {
+        "id": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
+        "title": "\u2018College dropout\u2019 has become the most coveted startup founder credential",
+        "link": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
+        "published": "Thu, 01 Jan 2026 02:44:02 +0000",
+        "source": "TechCrunch",
+        "summary": "AI founders are increasingly using their \"dropout\" status as a credential during YC pitches."
+    },
+    {
+        "id": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+        "title": "2025: The Year in LLMs",
+        "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+        "published": "Wed, 31 Dec 2025 23:54:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46449643\">Comments</a>"
+    },
+    {
+        "id": "https://bustermq.sh/",
+        "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+        "link": "https://bustermq.sh/",
+        "published": "Thu, 01 Jan 2026 00:18:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46449812\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-disable-acr-on-tv-why/",
+        "title": "How to disable ACR on your TV (and why doing so makes such a big difference)",
+        "link": "https://www.zdnet.com/article/how-to-disable-acr-on-tv-why/",
+        "published": "Thu, 01 Jan 2026 01:00:45 GMT",
+        "source": "Latest news",
+        "summary": "Your Samsung, LG, and even Sony TV comes with notable privacy risks. Here's how to avoid one of the biggest with just a few steps."
+    },
+    {
+        "id": "https://yourstory.com/2025/12/ai-is-not-just-for-oems-how-startups-are-democratising-auto-intelligence",
+        "title": "AI is not just for OEMs: How startups are democratising auto intelligence",
+        "link": "https://yourstory.com/2025/12/ai-is-not-just-for-oems-how-startups-are-democratising-auto-intelligence",
+        "published": "Thu, 01 Jan 2026 01:11:34 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Advanced diagnostics and AI-driven intelligence are no longer confined to automotive giants. They are reaching small garages, Tier II and Tier III towns, and fleet operators who form the backbone of India\u2019s mobility ecosystem."
     }
 ]
