@@ -35166,5 +35166,37 @@
         "published": "Thu, 01 Jan 2026 16:15:09 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In 2025, six large startups went public\u2014minting founder-billionaires and handing windfall gains to venture funds."
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-fitness-tracker/",
+        "title": "14 Best Fitness Trackers (2025), Tested and Reviewed",
+        "link": "https://www.wired.com/gallery/best-fitness-tracker/",
+        "published": "Thu, 01 Jan 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Whether you\u2019re skiing in the backcountry or trampolining in the backyard, we have an activity tracker for you."
+    },
+    {
+        "id": "https://www.wired.com/story/how-to-start-a-healthy-habit/",
+        "title": "How to Start (and Keep) a Healthy Habit (2026)",
+        "link": "https://www.wired.com/story/how-to-start-a-healthy-habit/",
+        "published": "Thu, 01 Jan 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Whether you want to run a marathon or learn to play the guitar, here\u2019s how to set yourself up for success."
+    },
+    {
+        "id": "https://github.com/buyukakyuz/rustmm",
+        "title": "Rust\u2013: Rust without the borrow checker",
+        "link": "https://github.com/buyukakyuz/rustmm",
+        "published": "Thu, 01 Jan 2026 10:53:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46453062\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/punjab-plans-to-use-ai-to-boost-agriculture/articleshow/126286981.cms",
+        "title": "Punjab plans to use AI to boost agriculture",
+        "link": "https://economictimes.indiatimes.com/tech/technology/punjab-plans-to-use-ai-to-boost-agriculture/articleshow/126286981.cms",
+        "published": "Thu, 01 Jan 2026 17:01:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Agriculture and Farmers Welfare Minister Gurmeet Singh Khudian chaired a meeting at Punjab Bhawan here to review progress and prepare a roadmap for field-level use of AI-based solutions."
     }
 ]
