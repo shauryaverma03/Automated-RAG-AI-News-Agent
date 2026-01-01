@@ -34830,5 +34830,69 @@
         "published": "Wed, 31 Dec 2025 08:50:39 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Food delivery platforms Zomato and Swiggy are rolling out peak-hour bonuses and penalty waivers for delivery partners ahead of New Year\u2019s Eve, as gig workers\u2019 unions call for a nationwide strike that could disrupt food delivery and quick-commerce services."
+    },
+    {
+        "id": "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/",
+        "title": "The Delete Act",
+        "link": "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/",
+        "published": "Thu, 01 Jan 2026 00:02:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46449694\">Comments</a>"
+    },
+    {
+        "id": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+        "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
+        "link": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+        "published": "Wed, 31 Dec 2025 22:11:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46448894\">Comments</a>"
+    },
+    {
+        "id": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
+        "title": "Resistance training load does not determine hypertrophy",
+        "link": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
+        "published": "Wed, 31 Dec 2025 22:25:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46448998\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/npci-may-push-deadline-to-stop-pull-payments-on-upi-to-minimise-disruption/articleshow/126277632.cms",
+        "title": "NPCI may push deadline to stop pull payments on UPI to minimise disruption",
+        "link": "https://economictimes.indiatimes.com/tech/technology/npci-may-push-deadline-to-stop-pull-payments-on-upi-to-minimise-disruption/articleshow/126277632.cms",
+        "published": "Thu, 01 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The pull feature allowed users to request funds from each other. Specific merchant UPI IDs could also initiate payments through this. However, the feature became a problem after fraudsters started using it to dupe unsuspecting consumers."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/execution-tops-sops-as-states-race-to-attract-data-centres/articleshow/126277565.cms",
+        "title": "Execution tops sops as states race to attract data centres",
+        "link": "https://economictimes.indiatimes.com/tech/startups/execution-tops-sops-as-states-race-to-attract-data-centres/articleshow/126277565.cms",
+        "published": "Thu, 01 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Karnataka, Telangana, Maharashtra, Gujarat, Uttar Pradesh, Odisha, Tamil Nadu, Haryana and West Bengal have announced policies and incentives to position themselves as preferred destinations. But operators say the competition has now shifted from policy to implementation. For them, power remains the most critical requirement-data centres require uninterrupted electricity, high-capacity substations and long-term regulatory certainty."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/new-year-celebrations-at-home-out-online-delivery-rides-on-mostly-untouched-by-stir/articleshow/126277457.cms",
+        "title": "New year celebrations, at home &amp; out: Online delivery rides on, mostly untouched by stir",
+        "link": "https://economictimes.indiatimes.com/tech/technology/new-year-celebrations-at-home-out-online-delivery-rides-on-mostly-untouched-by-stir/articleshow/126277457.cms",
+        "published": "Thu, 01 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A section of delivery riders led by the Indian Federation of App-Based Transport Workers and the Telangana Gig and Platform Workers Union went on strike on December 25 and 31, demanding better pay, safer working conditions and social security benefits. The unions have also called for a ban on 10-minute deliveries."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/ettech-state-of-startups-survey-startups-expect-to-pivot-to-an-ai-avatar-this-year/articleshow/126276903.cms",
+        "title": "ETtech State of Startups Survey: Startups expect to pivot to an AI avatar this year",
+        "link": "https://economictimes.indiatimes.com/tech/startups/ettech-state-of-startups-survey-startups-expect-to-pivot-to-an-ai-avatar-this-year/articleshow/126276903.cms",
+        "published": "Thu, 01 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The poll recorded responses from 70 stakeholders, of whom 60% were founders and top-level executives at new-age startups and tech companies across consumer internet, financial services, enterprise, AI, retail and logistics sectors. The rest were VC and private equity investors."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/gccs-to-ditch-hiring-surge-for-ai-cyber-skills-in-2026-experts/articleshow/126276364.cms",
+        "title": "GCCs to ditch hiring surge for AI, cyber skills in 2026 : Experts",
+        "link": "https://economictimes.indiatimes.com/tech/technology/gccs-to-ditch-hiring-surge-for-ai-cyber-skills-in-2026-experts/articleshow/126276364.cms",
+        "published": "Thu, 01 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India\u2019s Global Capability Centres (GCCs) are shifting away from mass hiring and focusing instead on specialised skills in AI, cloud, and cybersecurity as they head into 2026, a move that could reshape both job creation and the future of the country\u2019s tech workforce. India has over 1,800 GCCs, employing around 10.4 million people, with salaries that are 25-30% higher than those in other sectors."
     }
 ]
