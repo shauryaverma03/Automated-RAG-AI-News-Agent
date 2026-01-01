@@ -35438,5 +35438,21 @@
         "published": "Thu, 01 Jan 2026 13:03:42 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Vishal Chaturvedi, who was designated as senior management personnel, said he stepped down due to personal commitments."
+    },
+    {
+        "id": "https://www.theverge.com/policy/852332/public-domain-2026-betty-boop-nancy-drew-pluto",
+        "title": "Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free",
+        "link": "https://www.theverge.com/policy/852332/public-domain-2026-betty-boop-nancy-drew-pluto",
+        "published": "2026-01-01T11:30:00-05:00",
+        "source": "The Verge",
+        "summary": "Some years ago, I was writing a science fiction short story in which I wanted to incorporate verses from a 1928 song, \"Button Up Your Overcoat.\" However, when I sold the story, my editor told me that since the song was still copyrighted, it was safer not to include the verses. If I had written [&#8230;]"
+    },
+    {
+        "id": "https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en",
+        "title": "Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP",
+        "link": "https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en",
+        "published": "Thu, 01 Jan 2026 15:48:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46454968\">Comments</a>"
     }
 ]
