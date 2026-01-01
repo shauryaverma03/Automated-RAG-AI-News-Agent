@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://github.com/shauryaverma03/Automated-RAG-AI-News-Agent/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/shauryaverma03/Automated-RAG-AI-News-Agent)
 
----
+----
 
 ## 🤗 Hugging Face Profile & Dataset
 
@@ -260,3 +260,4 @@ For questions, issues, or suggestions:
 **⭐ If you find this project helpful, please consider giving it a star! **
 
 </div>
+
