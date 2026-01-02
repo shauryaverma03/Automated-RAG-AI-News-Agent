@@ -36974,5 +36974,29 @@
         "published": "Fri, 02 Jan 2026 20:09:00 GMT",
         "source": "Latest news",
         "summary": "The Xtar L8 Box can charge eight batteries simultaneously, is compatible with both AA and AAA batteries, and runs off a USB-C charger."
+    },
+    {
+        "id": "https://indieweb.org/POSSE",
+        "title": "Publish (On Your) Own Site, Syndicate Elsewhere",
+        "link": "https://indieweb.org/POSSE",
+        "published": "Fri, 02 Jan 2026 19:48:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46468600\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/Alanma23/tinytinyTPU-co",
+        "title": "TinyTinyTPU: 2\u00d72 systolic-array TPU-style matrix-multiply unit deployed on FPGA",
+        "link": "https://github.com/Alanma23/tinytinyTPU-co",
+        "published": "Fri, 02 Jan 2026 19:13:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46468237\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/deepseek-research-training-models/",
+        "title": "How DeepSeek's new way to train advanced AI models could disrupt everything - again",
+        "link": "https://www.zdnet.com/article/deepseek-research-training-models/",
+        "published": "Fri, 02 Jan 2026 20:25:33 GMT",
+        "source": "Latest news",
+        "summary": "The Chinese AI lab may have just found a way to train advanced LLMs in a manner that's practical and scalable, even for more cash-strapped developers."
     }
 ]
