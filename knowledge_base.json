@@ -36998,5 +36998,21 @@
         "published": "Fri, 02 Jan 2026 20:25:33 GMT",
         "source": "Latest news",
         "summary": "The Chinese AI lab may have just found a way to train advanced LLMs in a manner that's practical and scalable, even for more cash-strapped developers."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/",
+        "title": "OpenAI reorganizes some teams to build audio-based AI hardware products",
+        "link": "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/",
+        "published": "Fri, 02 Jan 2026 21:27:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Voice has lagged in adoption behind screens. OpenAI wants to change that."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/",
+        "title": "Researchers spot Saturn-sized planet in the \u201cEinstein desert\u201d",
+        "link": "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/",
+        "published": "Fri, 02 Jan 2026 20:54:56 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Rogue, free-floating planets appear to have two distinct origins."
     }
 ]
