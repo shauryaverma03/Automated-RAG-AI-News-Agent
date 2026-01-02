@@ -35942,5 +35942,29 @@
         "published": "Fri, 02 Jan 2026 07:17:22 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>China has released draft rules to regulate human-like AI chatbots, introducing strict requirements on user identification, safety monitoring, and content controls. The move raises concerns over data privacy and online speech.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/01/223-china-ai-chatbot-regulation-data-privacy-risks/\">China\u2019s Draft to Regulate AI Chatbots Raises Questions About User Privacy and Online Speech</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA"
+    },
+    {
+        "id": "https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector",
+        "title": "Samsung adds much needed brightness to its Freestyle projector",
+        "link": "https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector",
+        "published": "2026-01-02T03:30:17-05:00",
+        "source": "The Verge",
+        "summary": "The Freestyle Plus all-in-one portable projector features 430 ISO Lumens, or \"nearly twice the brightness of the previous generation,\" according to Samsung. Great! But also a little strange since both the original and second generation Freestyle projectors listed \"550 lumens\" on their respective spec sheets. See, projector makers are notorious for playing fast and loose [&#8230;]"
+    },
+    {
+        "id": "https://www.futilitycloset.com/2026/01/02/round-and-round/",
+        "title": "Round the tree, yes, but not round the squirrel",
+        "link": "https://www.futilitycloset.com/2026/01/02/round-and-round/",
+        "published": "Fri, 02 Jan 2026 08:16:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46462592\">Comments</a>"
+    },
+    {
+        "id": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
+        "title": "FreeBSD: Home NAS, part 1 \u2013 configuring ZFS mirror (RAID1)",
+        "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
+        "published": "Fri, 02 Jan 2026 06:48:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46462108\">Comments</a>"
     }
 ]
