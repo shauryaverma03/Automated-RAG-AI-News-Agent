@@ -35798,5 +35798,13 @@
         "published": "Fri, 02 Jan 2026 02:15:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Unlike traditional applications, agentic systems must monitor themselves in production, adapt to dynamic data and user behaviour, operate within strict compliance constraints, and be explainable to business users and regulators. However, most platforms are not designed to support this."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/indias-healthtech-startups-switch-strategy-ntt-data-bets-on-ai",
+        "title": "India's healthtech startups switch strategy; NTT Data bets on AI",
+        "link": "https://yourstory.com/2026/01/indias-healthtech-startups-switch-strategy-ntt-data-bets-on-ai",
+        "published": "Fri, 02 Jan 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Pristyn Care, which initially started as a lead-generation platform for surgeries, now operates its own network of clinics and has embedded clinical staff within partner hospitals to manage patient journeys from consultation through recovery."
     }
 ]
