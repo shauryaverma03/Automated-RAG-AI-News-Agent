@@ -35766,5 +35766,37 @@
         "published": "Fri, 02 Jan 2026 02:30:17 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/12/FTR-Daily-Brief-65.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />What\u2019s In Store For Indian Startups This Year? The Indian startup ecosystem enters 2026 with a new mantra, built on&#8230;"
+    },
+    {
+        "id": "https://www.engadget.com/science/space/starlink-is-lowering-thousands-of-satellites-orbits-to-reduce-risk-of-collisions-030509067.html?src=rss",
+        "title": "Starlink is lowering thousands of satellites' orbits to reduce risk of collisions",
+        "link": "https://www.engadget.com/science/space/starlink-is-lowering-thousands-of-satellites-orbits-to-reduce-risk-of-collisions-030509067.html?src=rss",
+        "published": "Fri, 02 Jan 2026 03:05:09 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Starlink will lower the orbits of roughly 4,400 satellites this year as a safety measure, according to engineering VP, Michael Nicolls. In a post on <a class=\"link\" href=\"https://x.com/michaelnicollsx/status/2006790372681220530?s=20\" target=\"_blank\">X</a>, Nicolls wrote that the company is &quot;beginning a significant reconfiguration of its satellite constellation,&quot; in which all satellites orbiting at around 550 kilometers (342 miles) will be lowered to around 480 km (298 miles). The mo"
+    },
+    {
+        "id": "https://github.com/ghostty-org/ghostty/issues/3558",
+        "title": "Why users cannot create Issues directly",
+        "link": "https://github.com/ghostty-org/ghostty/issues/3558",
+        "published": "Fri, 02 Jan 2026 01:24:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46460319\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/maxpert/marmot",
+        "title": "Marmot \u2013 A distributed SQLite server with MySQL wire compatible interface",
+        "link": "https://github.com/maxpert/marmot",
+        "published": "Fri, 02 Jan 2026 02:21:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46460676\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/01/indias-ai-leap-application-lifecycle-management-platforms-define-enterprise-success",
+        "title": "India\u2019s AI Leap: Why application lifecycle management platforms will define enterprise success",
+        "link": "https://yourstory.com/2026/01/indias-ai-leap-application-lifecycle-management-platforms-define-enterprise-success",
+        "published": "Fri, 02 Jan 2026 02:15:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Unlike traditional applications, agentic systems must monitor themselves in production, adapt to dynamic data and user behaviour, operate within strict compliance constraints, and be explainable to business users and regulators. However, most platforms are not designed to support this."
     }
 ]
