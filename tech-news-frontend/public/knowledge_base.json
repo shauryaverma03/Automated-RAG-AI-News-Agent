@@ -37686,5 +37686,53 @@
         "published": "Sat, 03 Jan 2026 19:14:39 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46480373\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/",
+        "title": "California residents can use new tool to demand brokers delete their personal data",
+        "link": "https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/",
+        "published": "Sat, 03 Jan 2026 22:25:34 +0000",
+        "source": "TechCrunch",
+        "summary": "A new tool should make it easier for California residents to limit data brokers\u2019 ability to store and sell their personal information."
+    },
+    {
+        "id": "https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year",
+        "title": "Surprise, surprise: Silksong wins Steam\u2019s Game of the Year",
+        "link": "https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year",
+        "published": "2026-01-03T18:04:09-05:00",
+        "source": "The Verge",
+        "summary": "Valve has announced the winners of the 2025 Steam Awards and, unsurprisingly, Hollow Knight: Silksong, took home the Game of the Year honors. It was also given the \"Best Game You Suck At\" award, which, I'm not sure if that's a good thing or not. Given the relentless fawning over Silksong since its release in [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/",
+        "title": "What Happens Next in Venezuela\u2014and the Rest of Latin America?",
+        "link": "https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/",
+        "published": "Sat, 03 Jan 2026 22:10:35 +0000",
+        "source": "WIRED",
+        "summary": "Donald Trump says that Venezuela's governance will remain in the hands of senior US officials until a \"proper and judicious transition\" can take place. The rest of the region is on notice."
+    },
+    {
+        "id": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+        "title": "Total monthly number of StackOverflow questions over time",
+        "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+        "published": "Sat, 03 Jan 2026 22:23:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46482345\">Comments</a>"
+    },
+    {
+        "id": "https://lib25519.cr.yp.to/ed25519-cli.html",
+        "title": "Ed25519-CLI \u2013 command-line interface for the Ed25519 signature system",
+        "link": "https://lib25519.cr.yp.to/ed25519-cli.html",
+        "published": "Sun, 28 Dec 2025 16:12:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46412070\">Comments</a>"
+    },
+    {
+        "id": "https://glthr.com/the-riven-diffs-1",
+        "title": "The Riven (1997) Diffs",
+        "link": "https://glthr.com/the-riven-diffs-1",
+        "published": "Sat, 03 Jan 2026 23:01:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46482642\">Comments</a>"
     }
 ]
