@@ -37774,5 +37774,29 @@
         "published": "Sun, 04 Jan 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "With the right data and models, AI can help us move from a reactive approach to proactive forecasting, improving global fuel security and giving stakeholders early visibility into potential risks. But this requires a continuous flow of relevant, high-quality data."
+    },
+    {
+        "id": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
+        "title": "How Thomas Mann Wrote the Magic Mountain",
+        "link": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
+        "published": "Sun, 04 Jan 2026 02:13:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46484104\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/grok-user-making-illegal-content-will-suffer-same-consequence-as-uploading-such-content-musk/articleshow/126331112.cms",
+        "title": "Grok user making illegal content will suffer same consequence as uploading such content: Musk",
+        "link": "https://economictimes.indiatimes.com/tech/technology/grok-user-making-illegal-content-will-suffer-same-consequence-as-uploading-such-content-musk/articleshow/126331112.cms",
+        "published": "Sun, 04 Jan 2026 10:06:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microblogging platform X owner Elon Musk declared users of its AI service Grok generating illegal content will face severe penalties. This follows a directive from India's Ministry of Electronics and IT demanding immediate removal of vulgar and unlawful material."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/5000-delivery-workers-terminated-every-month-on-zomato-deepinder-goyal/articleshow/126331099.cms",
+        "title": "5,000 delivery workers terminated every month on Zomato: Deepinder Goyal",
+        "link": "https://economictimes.indiatimes.com/tech/technology/5000-delivery-workers-terminated-every-month-on-zomato-deepinder-goyal/articleshow/126331099.cms",
+        "published": "Sun, 04 Jan 2026 10:05:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Zomato's CEO Deepinder Goyal revealed that the company terminates approximately 5,000 gig workers monthly due to fraud, while 1.5 to 2 lakh workers leave voluntarily. Many view the delivery role as temporary. The company also faces significant customer fraud, with some customers fabricating issues to claim refunds."
     }
 ]
