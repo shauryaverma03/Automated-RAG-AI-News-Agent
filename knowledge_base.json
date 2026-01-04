@@ -37758,5 +37758,21 @@
         "published": "Sat, 03 Jan 2026 23:24:41 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46482877\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/obround/mytorch",
+        "title": "MyTorch \u2013 Minimalist autograd in 450 lines of Python",
+        "link": "https://github.com/obround/mytorch",
+        "published": "Sun, 04 Jan 2026 01:21:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46483776\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/01/can-ai-predict-the-next-fuel-crisis-before-it-happens",
+        "title": "Can AI predict the next fuel crisis before it happens?",
+        "link": "https://yourstory.com/2026/01/can-ai-predict-the-next-fuel-crisis-before-it-happens",
+        "published": "Sun, 04 Jan 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "With the right data and models, AI can help us move from a reactive approach to proactive forecasting, improving global fuel security and giving stakeholders early visibility into potential risks. But this requires a continuous flow of relevant, high-quality data."
     }
 ]
