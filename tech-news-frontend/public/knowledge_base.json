@@ -37990,5 +37990,45 @@
         "published": "Sun, 04 Jan 2026 11:00:38 GMT",
         "source": "Latest news",
         "summary": "We spend days and weeks working, sleeping, and participating in various activities while wearing a smartwatch to find out which ones are best to recommend to you."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/",
+        "title": "Subtle releases ear buds with its noise cancelation models",
+        "link": "https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/",
+        "published": "Sun, 04 Jan 2026 12:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Subtle's new $199 earbuds will also let you dictate in any app on desktop or phone"
+    },
+    {
+        "id": "https://www.wired.com/story/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science/",
+        "title": "A New Bridge Links the Strange Math of Infinity to Computer Science",
+        "link": "https://www.wired.com/story/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science/",
+        "published": "Sun, 04 Jan 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Descriptive set theorists study the niche mathematics of infinity. Now, they\u2019ve shown that their problems can be rewritten in the concrete language of algorithms."
+    },
+    {
+        "id": "https://www.wired.com/story/best-protein-bars/",
+        "title": "Protein Bars: Gluten-Free, Whole Foods, Fiber (2026)",
+        "link": "https://www.wired.com/story/best-protein-bars/",
+        "published": "Sun, 04 Jan 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "What to prioritize, what to skip, when to enjoy\u2014plus, we\u2019ve selected WIRED's favorite bars worth trying."
+    },
+    {
+        "id": "https://www.hillelwayne.com/post/what-comments/",
+        "title": "Maybe Comments _Should_ Explain 'What'",
+        "link": "https://www.hillelwayne.com/post/what-comments/",
+        "published": "Sun, 04 Jan 2026 10:43:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46486780\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/agritech-unnati-acquires-gramophone-info-edge-to-transfer-stake-infuse-rs-35-crore/articleshow/126334027.cms",
+        "title": "Agritech Unnati acquires Gramophone; Info Edge to transfer stake, infuse Rs 35 crore",
+        "link": "https://economictimes.indiatimes.com/tech/technology/agritech-unnati-acquires-gramophone-info-edge-to-transfer-stake-infuse-rs-35-crore/articleshow/126334027.cms",
+        "published": "Sun, 04 Jan 2026 16:37:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Agritech startup Unnati is acquiring Gramophone in a stock-swap deal, with Info Edge transferring its 51% stake in Gramophone for a 15.7% stake in Unnati. Info Edge will also invest Rs 35 crore in Unnati, increasing its total stake to 20.5%."
     }
 ]
