@@ -40534,5 +40534,157 @@
         "published": "Mon, 05 Jan 2026 20:02:14 GMT",
         "source": "Latest news",
         "summary": "One is the world's oldest Linux distro, the other isn't Linux at all. Each delivers superb stability - let's compare."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/05/lego-smart-bricks-introduce-a-new-way-to-build-and-they-dont-require-screens/",
+        "title": "Lego Smart Bricks introduce a new way to build \u2014 and they don\u2019t require screens",
+        "link": "https://techcrunch.com/2026/01/05/lego-smart-bricks-introduce-a-new-way-to-build-and-they-dont-require-screens/",
+        "published": "Mon, 05 Jan 2026 20:31:51 +0000",
+        "source": "TechCrunch",
+        "summary": "Lego developed a custom ASIC chip that allows its new Ssmart Bricks to pick up on signals from surrounding Smart Tags that dictate how it should make sounds or light up."
+    },
+    {
+        "id": "https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028",
+        "title": "Boston Dynamics\u2019 Tesla Bot rival Atlas will start building Hyundai cars in 2028",
+        "link": "https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028",
+        "published": "2026-01-05T16:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Boston Dynamics unveiled the latest version of its humanoid Atlas robot Monday at CES in Las Vegas. The robot, with a glowing circle for a face and a fully electric, battery-powered body, is so advanced that it will soon be working alongside human factory workers for parent company Hyundai, the companies claimed. Hyundai said it [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/855540/nuralogix-longevity-mirror-health-tech-ces-2026",
+        "title": "This smart mirror was a menace at CES 2026",
+        "link": "https://www.theverge.com/tech/855540/nuralogix-longevity-mirror-health-tech-ces-2026",
+        "published": "2026-01-05T15:59:41-05:00",
+        "source": "The Verge",
+        "summary": "Imagine walking into CES 2026, sitting down in front of a smart mirror, taking a 30-second selfie, and getting a score for how well you're aging. Well, last night, a bunch of other tech journalists did just that. I witnessed some journalists take critical damage to their self-esteem. Others wiped their brow in relief. Yours [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
+        "title": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
+        "link": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
+        "published": "Mon, 05 Jan 2026 21:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Google DeepMind and Boston Dynamics are teaming up to integrate Gemini into a humanoid robot called Atlas."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/",
+        "title": "Anna\u2019s Archive loses .org domain, says suspension likely unrelated to Spotify piracy",
+        "link": "https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/",
+        "published": "Mon, 05 Jan 2026 20:38:48 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"We don't believe this has to do with our Spotify backup,\" Anna's Archive says."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/",
+        "title": "Stewart Cheifet, PBS host who chronicled the PC revolution, dies at 87",
+        "link": "https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/",
+        "published": "Mon, 05 Jan 2026 20:28:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Cheifet produced more than 400 episodes of TV tracing the rise of personal computing."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/amazon-alexa-released-to-the-general-public-via-an-early-access-website/",
+        "title": "Amazon Alexa+ released to the general public via an early access website",
+        "link": "https://arstechnica.com/gadgets/2026/01/amazon-alexa-released-to-the-general-public-via-an-early-access-website/",
+        "published": "Mon, 05 Jan 2026 20:01:12 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Amazon brings back browser-based Alexa but will eventually add a paywall."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/",
+        "title": "SanDisk says goodbye to WD Blue and Black SSDs, hello to new \u201cOptimus\u201d drives",
+        "link": "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/",
+        "published": "Mon, 05 Jan 2026 19:32:28 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Optimus SSDs will continue with the same model numbers that the WD SSDs used."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/01/biowares-anthem-will-soon-be-completely-unplayable/",
+        "title": "BioWare\u2019s Anthem will soon be completely unplayable",
+        "link": "https://arstechnica.com/gaming/2026/01/biowares-anthem-will-soon-be-completely-unplayable/",
+        "published": "Mon, 05 Jan 2026 19:15:09 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Replay the troubled jetpack shooter before the servers shut down for good on Jan. 12."
+    },
+    {
+        "id": "https://www.engadget.com/apps/viral-reddit-post-critical-of-food-delivery-apps-may-have-been-ai-generated-210558754.html?src=rss",
+        "title": "Viral Reddit post critical of food delivery apps may have been AI-generated",
+        "link": "https://www.engadget.com/apps/viral-reddit-post-critical-of-food-delivery-apps-may-have-been-ai-generated-210558754.html?src=rss",
+        "published": "Mon, 05 Jan 2026 21:05:58 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>A <a class=\"link\" href=\"https://www.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\" target=\"_blank\">viral Reddit post</a> purportedly from an employee of a &quot;major food delivery app&quot; may actually be an AI-generated hoax, <a class=\"link\" href=\"https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam\" target=\"_blank\"><em>The V"
+    },
+    {
+        "id": "https://www.engadget.com/home/home-theater/tcl-unveils-its-x11l-sqd-mini-led-tvs-at-ces-2026-205532386.html?src=rss",
+        "title": "TCL unveils its X11L SQD-Mini LED TVs at CES 2026",
+        "link": "https://www.engadget.com/home/home-theater/tcl-unveils-its-x11l-sqd-mini-led-tvs-at-ces-2026-205532386.html?src=rss",
+        "published": "Mon, 05 Jan 2026 20:55:32 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p></p><p>TCL introduced the next entry in its flagship line of televisions during CES. The <a class=\"link\" href=\"https://www.prnewswire.com/news-releases/tcl-unveils-x11l-series-sqd-mini-led-tv-at-ces-2026-delivering-ultimate-performance-with-an-all-new-level-of-accurate-color-302652292.html\" target=\"_blank\">X11L SQD-Mini LED Series</a> is available for pre-order now in three sizes. But like much of the gear on show in Las Vegas this week, it doesn't come cheap. The 75-inch model of the X11L co"
+    },
+    {
+        "id": "https://www.engadget.com/computing/intel-at-ces-2026-live-updates-from-the-core-ultra-series-3-panther-lake-launch-event-130040881.html?src=rss",
+        "title": "Intel at CES 2026: Live updates from the Core Ultra Series 3 Panther Lake launch event",
+        "link": "https://www.engadget.com/computing/intel-at-ces-2026-live-updates-from-the-core-ultra-series-3-panther-lake-launch-event-130040881.html?src=rss",
+        "published": "Mon, 05 Jan 2026 20:15:35 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<figure><img src=\"https://s.yimg.com/os/creatr-uploaded-images/2026-01/9e1dc860-e813-11f0-bffc-4cb5d6b5aab1\" style=\"height: 2466px; width: 3700px;\" /><figcaption>SOPA Images via Getty Images</figcaption></figure>\n<p><a href=\"https://www.engadget.com/big-tech/ces-2026-what-to-expect-from-techs-biggest-conference-in-january-120000369.html\">CES 2026</a> is off and running, and chipmakers enabling the AI moment are one of the big starts of the show. In addition to <a href=\"https://www.engadget.com/c"
+    },
+    {
+        "id": "https://retool.com/pipes",
+        "title": "Pipe Dreams \u2013 The life and times of Yahoo Pipes (2023)",
+        "link": "https://retool.com/pipes",
+        "published": "Mon, 05 Jan 2026 18:55:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46503006\">Comments</a>"
+    },
+    {
+        "id": "https://minha.sh/posts/so,-you-want-to-chunk-really-fast",
+        "title": "So, you want to chunk really fast?",
+        "link": "https://minha.sh/posts/so,-you-want-to-chunk-really-fast",
+        "published": "Mon, 05 Jan 2026 17:19:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46501665\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/earflow-ces-2026/",
+        "title": "This high-tech sippy cup at CES 2026 could prevent your kid from needing ear tubes",
+        "link": "https://www.zdnet.com/article/earflow-ces-2026/",
+        "published": "Mon, 05 Jan 2026 21:05:30 GMT",
+        "source": "Latest news",
+        "summary": "Earflo is a medical device cleverly designed as a sippy cup - and early studies show it led to a nearly 90% reduction in the need for ear tube surgery for children with negative middle ear pressure."
+    },
+    {
+        "id": "https://www.zdnet.com/article/hp-elitebook-x-g2i-ces/",
+        "title": "HP's EliteBook X G2i is be the ultraportable business laptop I've been waiting for",
+        "link": "https://www.zdnet.com/article/hp-elitebook-x-g2i-ces/",
+        "published": "Mon, 05 Jan 2026 20:52:43 GMT",
+        "source": "Latest news",
+        "summary": "HP's new EliteBook X G2 series is highly customizable and incredibly lightweight, with some welcome design innovations."
+    },
+    {
+        "id": "https://www.zdnet.com/article/belkin-just-upgraded-this-nintendo-switch-accessory-at-ces-2026-and-you-can-buy-it-now/",
+        "title": "Belkin just upgraded this Nintendo Switch accessory at CES, and you can buy it now",
+        "link": "https://www.zdnet.com/article/belkin-just-upgraded-this-nintendo-switch-accessory-at-ces-2026-and-you-can-buy-it-now/",
+        "published": "Mon, 05 Jan 2026 20:28:25 GMT",
+        "source": "Latest news",
+        "summary": "Belkin's Charging Case Pro for Nintendo Switch 2 gets a facelift, and it's available now in three colors."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/startup-news-and-updates-daily-roundup-january-5-2026",
+        "title": "Startup news and updates: Daily roundup (January 5, 2026)",
+        "link": "https://yourstory.com/2026/01/startup-news-and-updates-daily-roundup-january-5-2026",
+        "published": "Mon, 05 Jan 2026 09:04:18 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, January 5, 2026."
+    },
+    {
+        "id": "https://inc42.com/buzz/uncademy-rolls-back-changes-to-esop-exercise-window/",
+        "title": "Uncademy Rolls Back Changes To ESOP Exercise Window",
+        "link": "https://inc42.com/buzz/uncademy-rolls-back-changes-to-esop-exercise-window/",
+        "published": "Mon, 05 Jan 2026 20:35:53 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Uncademy Rolls Back Changes To ESOP Exercise Window\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/unacademy-ESOP-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Edtech unicorn Unacademy has reportedly rolled back its contentious plan to reduce the ESOP exercise window to just 30 days&#8230;"
     }
 ]
