@@ -45374,5 +45374,93 @@
         "published": "Wed, 07 Jan 2026 21:48:00 GMT",
         "source": "Latest news",
         "summary": "What's more futuristic and innovative than technology you wear on your face? These are our top picks at this year's show so far."
+    },
+    {
+        "id": "https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car",
+        "title": "Bluetti now charges power stations at up to 1200W in your car",
+        "link": "https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car",
+        "published": "2026-01-07T18:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Bluetti's latest car charger can quickly charge power stations at a very fast 1200W - about 10 times faster than plugging it into the 12V cigarette lighter outlet. The Charger 2, as it's called, can also reverse the flow of electrons to jump-start your vehicle or maintain its starter battery when used with a Bluetti [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement",
+        "title": "Character.AI and Google settle teen suicide and self-harm suits",
+        "link": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement",
+        "published": "2026-01-07T17:30:22-05:00",
+        "source": "The Verge",
+        "summary": "Character.AI and Google have reached settlements with several families whose teens harmed themselves or died by suicide after interacting with Character.AI's chatbots, according to new court filings. The details of the settlements are still unknown. The parties notified a federal court in Florida that they had reached a \"mediated settlement in principle to resolve all [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/apple-airpods-pro-3-deal-126/",
+        "title": "The Apple AirPods Pro 3 Are $50 Off",
+        "link": "https://www.wired.com/story/apple-airpods-pro-3-deal-126/",
+        "published": "Wed, 07 Jan 2026 22:16:44 +0000",
+        "source": "WIRED",
+        "summary": "Snag a relatively rare discount on Apple\u2019s finest earbuds at Best Buy."
+    },
+    {
+        "id": "https://www.engadget.com/general/bluettis-charger-2-uses-solar-and-engine-power-to-charge-your-portable-battery-230000270.html?src=rss",
+        "title": "Bluetti's Charger 2 uses solar and engine power to charge your portable battery",
+        "link": "https://www.engadget.com/general/bluettis-charger-2-uses-solar-and-engine-power-to-charge-your-portable-battery-230000270.html?src=rss",
+        "published": "Wed, 07 Jan 2026 23:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>If you\u2019re off-roading, it\u2019s a neat idea to use your engine to top up your battery, which prompted <a class=\"link\" href=\"https://www.engadget.com/3-big-announcements-from-bluetti-at-ces-2022-175050612.html\" target=\"_blank\">Bluetti</a> to launch the Charger. You could hook it to your alternator and draw off energy as you drove to make sure you turned up to your campsite with full batteries. But if you\u2019re also toting around solar panels on your roof, then it\u2019s a shame you can\u2019t also use that pow"
+    },
+    {
+        "id": "https://www.engadget.com/computing/engadget-podcast-ces-2026-and-the-rocky-year-ahead-for-the-pc-industry-221500019.html?src=rss",
+        "title": "Engadget Podcast: CES 2026 and the rocky year ahead for the PC industry",
+        "link": "https://www.engadget.com/computing/engadget-podcast-ces-2026-and-the-rocky-year-ahead-for-the-pc-industry-221500019.html?src=rss",
+        "published": "Wed, 07 Jan 2026 22:15:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p></p><h1><strong>CES 2026: A rocky year ahead of the PC industry</strong></h1><p>We're halfway through CES 2026, and it\u2019s clear that it's going to be a rough year for the PC industry. In this episode, Devindra chats with Engadget's Dan Cooper about Intel, AMD, NVIDIA and the sad state of the PC industry. We've got some new CPUs, but the volatile RAM market will likely make everything expensive this year. Also, they dive into Dell's revival of the XPS brand, as well as iPolish's smart nails and"
+    },
+    {
+        "id": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
+        "title": "Notion AI: Unpatched data exfiltration",
+        "link": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
+        "published": "Wed, 07 Jan 2026 19:49:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46531565\">Comments</a>"
+    },
+    {
+        "id": "https://realfood.gov",
+        "title": "Eat Real Food",
+        "link": "https://realfood.gov",
+        "published": "Wed, 07 Jan 2026 17:22:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46529237\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/xmems-chips-ces-demo/",
+        "title": "The xMEMS breakthrough that makes ultra-thin, great-sounding smart glasses possible",
+        "link": "https://www.zdnet.com/article/xmems-chips-ces-demo/",
+        "published": "Wed, 07 Jan 2026 22:45:00 GMT",
+        "source": "Latest news",
+        "summary": "When you look at your headphones, earbuds, or smartglasses, odds are you don't think about the chips inside. Here's why you should."
+    },
+    {
+        "id": "https://www.zdnet.com/article/roborock-rover-robot-vacuum-ces/",
+        "title": "I saw a two-legged robot vacuum climb up stairs at CES, and blew my mind away",
+        "link": "https://www.zdnet.com/article/roborock-rover-robot-vacuum-ces/",
+        "published": "Wed, 07 Jan 2026 22:44:00 GMT",
+        "source": "Latest news",
+        "summary": "The Roborock Rover has garnered the attention that few devices can achieve at CES 2026, and I had the chance to see it in person."
+    },
+    {
+        "id": "https://www.zdnet.com/article/asus-zenbook-a14-hands-on-ces/",
+        "title": "Not enough people are talking about the this MacBook Air alternative at CES 2026",
+        "link": "https://www.zdnet.com/article/asus-zenbook-a14-hands-on-ces/",
+        "published": "Wed, 07 Jan 2026 22:41:00 GMT",
+        "source": "Latest news",
+        "summary": "My favorite thin and light laptop from 2025 is getting a refresh at CES 2026, and it now comes in a new 16-inch option."
+    },
+    {
+        "id": "https://www.zdnet.com/article/openai-chatgpt-health-mode/",
+        "title": "Use ChatGPT for medical advice? Try its new Health mode - here's how",
+        "link": "https://www.zdnet.com/article/openai-chatgpt-health-mode/",
+        "published": "Wed, 07 Jan 2026 22:36:41 GMT",
+        "source": "Latest news",
+        "summary": "ChatGPT Health is OpenAI's new 'dedicated experience' that taps into your medical records for all your health questions. Here's how it works."
     }
 ]
