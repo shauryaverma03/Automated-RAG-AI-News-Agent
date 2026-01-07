@@ -43414,5 +43414,77 @@
         "published": "Tue, 06 Jan 2026 21:46:04 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46519326\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
+        "title": "HP\u2019s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard",
+        "link": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
+        "published": "Tue, 06 Jan 2026 22:40:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The most familiar, full-fledged PC experience you can get from a keyboard."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/",
+        "title": "With GeForce Super GPUs missing in action, Nvidia focuses on software upgrades",
+        "link": "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/",
+        "published": "Tue, 06 Jan 2026 21:56:18 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Nvidia's only GeForce announcements this year were about software improvements."
+    },
+    {
+        "id": "https://www.engadget.com/wearables/ipolish-brings-color-changing-press-on-smart-nails-to-ces-001345407.html?src=rss",
+        "title": "iPolish brings color-changing press-on smart nails to CES",
+        "link": "https://www.engadget.com/wearables/ipolish-brings-color-changing-press-on-smart-nails-to-ces-001345407.html?src=rss",
+        "published": "Wed, 07 Jan 2026 00:13:45 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>In the original, and<em> </em>best <a class=\"link\" href=\"https://www.engadget.com/2012-05-11-total-recall-mind-bending-blu-ray-july-31st.html\" target=\"_blank\"><em>Total Recall,</em></a><em> </em>there\u2019s a scene where Rekall\u2019s receptionist uses a digital pen to change the color of her nail polish. It\u2019s only taken 35 years, but now a company has turned up to CES 2026 with a version that actually works outside a pricey sci-fi movie. iPolish is a company which makes press-on acrylic nails that, w"
+    },
+    {
+        "id": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+        "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
+        "link": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+        "published": "Tue, 06 Jan 2026 20:55:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46518573\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/voice-ai-firm-arrowhead-raises-3-million-in-a-round-led-by-stellaris-venture-partners/articleshow/126378538.cms",
+        "title": "Voice AI firm Arrowhead raises $3 million in a round led by Stellaris Venture Partners",
+        "link": "https://economictimes.indiatimes.com/tech/funding/voice-ai-firm-arrowhead-raises-3-million-in-a-round-led-by-stellaris-venture-partners/articleshow/126378538.cms",
+        "published": "Wed, 07 Jan 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Arrowhead has raised $3 million in a funding round led by the early-stage venture capital firm Stellaris Venture Partners. The round also saw participation from angel investors such as Cred founder Kunal Shah and M2P founder Madhusudanan R, along with other senior fintech executives."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-inside-the-10-minute-delivery-model-of-quick-commerce/articleshow/126379099.cms",
+        "title": "ETtech Explainer: Inside the 10-minute delivery model of quick commerce",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-inside-the-10-minute-delivery-model-of-quick-commerce/articleshow/126379099.cms",
+        "published": "Wed, 07 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The recent all-India gig worker strike highlighted whether the 10-minute quick commerce model is necessary, at the cost of riders risking their lives to deliver orders quickly. So, how is this 10-minute delivery system, which did not exist a few years ago, actually executed?"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/veteran-founders-roll-up-sleeves-for-deeptech-ai-play/articleshow/126378996.cms",
+        "title": "Veteran consumer internet founders roll up sleeves to launch  deeptech, AI startups",
+        "link": "https://economictimes.indiatimes.com/tech/startups/veteran-founders-roll-up-sleeves-for-deeptech-ai-play/articleshow/126378996.cms",
+        "published": "Wed, 07 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is seeing a clear shift as founders and senior executives who built large consumer internet companies are now moving into deeptech and AI. After scaling marketplaces, apps and platforms, many are choosing harder, slower problems in robotics, aerospace, advanced manufacturing and AI research."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/healthtech-funding-drops-on-integrated-care-models-rise/articleshow/126378804.cms",
+        "title": "Healthtech funding drops on integrated care models' rise",
+        "link": "https://economictimes.indiatimes.com/tech/funding/healthtech-funding-drops-on-integrated-care-models-rise/articleshow/126378804.cms",
+        "published": "Wed, 07 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to Venture Intelligence, healthtech funding fell to $447 million last year from $707 million in 2024. Funding had peaked at $2.62 billion in 2021, before declining to $1.07 billion in 2022 and $682 million in 2023."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/catalysts/future-signals-spotting-the-shifts-before-they-become-headlines/articleshow/126378633.cms",
+        "title": "Signals for 2026: Spotting the shifts before they become headlines",
+        "link": "https://economictimes.indiatimes.com/tech/catalysts/future-signals-spotting-the-shifts-before-they-become-headlines/articleshow/126378633.cms",
+        "published": "Wed, 07 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "For Indian startups, 2026 will be an inflection point where experiments of the years past create systems on which the future is built. There are patterns across data, founder behaviour, and market structure, elevated by the evolution of AI, that point to this."
     }
 ]
