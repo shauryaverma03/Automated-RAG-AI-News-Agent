@@ -45614,5 +45614,109 @@
         "published": "Thu, 08 Jan 2026 00:30:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "With over 80 customers and 2X quarter-on-quarter growth, Aivar is expanding its footprint across India, the US, and the Middle East."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/",
+        "title": "Waymo is rebranding its Zeekr robotaxi",
+        "link": "https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/",
+        "published": "Thu, 08 Jan 2026 02:43:12 +0000",
+        "source": "TechCrunch",
+        "summary": "It sounds like \"Oh hi.\""
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
+        "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
+        "link": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
+        "published": "Thu, 08 Jan 2026 01:32:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The settlements are among the first tied to lawsuits accusing AI companies of harming users."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/",
+        "title": "Ford is getting ready to put AI assistants in its cars",
+        "link": "https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/",
+        "published": "Thu, 08 Jan 2026 00:00:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The Blue Oval is also working on new hands-free driver assists."
+    },
+    {
+        "id": "https://pebblebed.com/blog/kernel-bugs",
+        "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
+        "link": "https://pebblebed.com/blog/kernel-bugs",
+        "published": "Thu, 08 Jan 2026 02:18:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46536340\">Comments</a>"
+    },
+    {
+        "id": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
+        "title": "Fighting back against biometric surveillance at Wegmans",
+        "link": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
+        "published": "Thu, 08 Jan 2026 00:48:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46535514\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-chatgpt-health-to-connect-medical-records-wellness-apps/articleshow/126404949.cms",
+        "title": "OpenAI launches ChatGPT Health to connect medical records, wellness apps",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-chatgpt-health-to-connect-medical-records-wellness-apps/articleshow/126404949.cms",
+        "published": "Thu, 08 Jan 2026 07:32:12 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI has introduced a new health section in ChatGPT for medical and wellness questions. Users can upload records, link fitness apps and prepare for appointments, with added privacy safeguards. OpenAI \u2060plans to expand access and make ChatGPT Health available to all users on web and iOS in the coming weeks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/anthropic-said-to-be-in-talks-to-raise-funding-at-a-350-billion-valuation/articleshow/126404841.cms",
+        "title": "Anthropic said to be in talks to raise funding at a $350 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/funding/anthropic-said-to-be-in-talks-to-raise-funding-at-a-350-billion-valuation/articleshow/126404841.cms",
+        "published": "Thu, 08 Jan 2026 07:13:54 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic, maker of the Claude chatbot, is in talks to raise $10 billion, almost doubling its value to about $350 billion. However, the financing discussions are ongoing, and the plans could change. The deal reflects intense investor excitement around AI despite bubble fears."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-earmarks-50-billion-for-employee-stock-grant-pool-the-information-reports/articleshow/126404834.cms",
+        "title": "OpenAI earmarks $50 billion for employee stock grant pool, The Information reports",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-earmarks-50-billion-for-employee-stock-grant-pool-the-information-reports/articleshow/126404834.cms",
+        "published": "Thu, 08 Jan 2026 07:05:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI reportedly reserved a large share pool for staff in October, said to equal 10% of the firm valued at $500 billion, The Information reported. The company is also exploring new funding talks that might lift its valuation to about $750 billion soon, a 50% jump from OpenAI's reported $500 billion valuation in October."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/openai-earmarks-50-billion-for-employee-stock-grant-pool-the-information-reports/articleshow/126404808.cms",
+        "title": "OpenAI earmarks $50 billion for employee stock grant pool: The Information",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openai-earmarks-50-billion-for-employee-stock-grant-pool-the-information-reports/articleshow/126404808.cms",
+        "published": "Thu, 08 Jan 2026 07:05:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI reportedly reserved a large share pool for staff in October, said to equal 10% of the firm valued at $500 billion, The Information reported. The company is also exploring new funding talks that might lift its valuation to about $750 billion soon, a 50% jump from OpenAI's reported $500 billion valuation in October."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/govt-cracks-down-on-grok-indias-legal-gap-on-deepfakes/articleshow/126404659.cms",
+        "title": "Govt cracks down on Grok; India\u2019s legal gap on deepfakes",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/govt-cracks-down-on-grok-indias-legal-gap-on-deepfakes/articleshow/126404659.cms",
+        "published": "Thu, 08 Jan 2026 06:59:11 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Thursday! The government has sought more details from X regarding obscene content generated on Grok. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/from-ownership-to-access-how-subscription-models-are-redefining-indias-mobility-future",
+        "title": "From ownership to access: How subscription models are redefining India\u2019s mobility future",
+        "link": "https://yourstory.com/2026/01/from-ownership-to-access-how-subscription-models-are-redefining-indias-mobility-future",
+        "published": "Thu, 08 Jan 2026 01:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Formerly restricted to movies, music and software, subscriptions are now redefining how Indians experience cars\u2014especially electric vehicles."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/why-online-grocers-are-keen-to-serve-picky-customers-with-premium-produce",
+        "title": "Ripe for growth: Why online grocers are keen to serve picky customers with premium produce",
+        "link": "https://yourstory.com/2026/01/why-online-grocers-are-keen-to-serve-picky-customers-with-premium-produce",
+        "published": "Thu, 08 Jan 2026 02:34:35 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Wellness-focused customers are willing to pay more for high-quality fruits and vegetables delivered at their doorstep. This has prompted a host of players to launch premium offerings, Swiggy and Zepto being the latest.  However, balancing quality and speed is a challenge."
+    },
+    {
+        "id": "https://inc42.com/buzz/looking-back-at-fintech-in-2025-nitro-bags-5-mn-more/",
+        "title": "Looking Back At Fintech In 2025, Nitro Bags $5 Mn & More",
+        "link": "https://inc42.com/buzz/looking-back-at-fintech-in-2025-nitro-bags-5-mn-more/",
+        "published": "Thu, 08 Jan 2026 02:30:25 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/FTR-Daily-Brief-69.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />What Made Fintech Stand Out In 2025? It was business as usual for fintech startups in 2025. The sector once&#8230;"
     }
 ]
