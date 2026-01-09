@@ -47790,5 +47790,29 @@
         "published": "Fri, 09 Jan 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "A shift in consumer mindset has prompted a host of players to launch premium offerings. Good Monk offers tasteless powders that blend into daily food. Trans comedian Alok Menon is touring to ask harder questions about how we stay alive together."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/01/in-a-first-nasa-orders-astronauts-home-after-unspecified-medical-issue/",
+        "title": "NASA orders \u201ccontrolled medical evacuation\u201d from the International Space Station",
+        "link": "https://arstechnica.com/space/2026/01/in-a-first-nasa-orders-astronauts-home-after-unspecified-medical-issue/",
+        "published": "Fri, 09 Jan 2026 04:26:28 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"The crew is highly trained, and they came to the aid of their colleague right away.\""
+    },
+    {
+        "id": "https://github.com/lukasz-madon/awesome-remote-job",
+        "title": "Remote Job",
+        "link": "https://github.com/lukasz-madon/awesome-remote-job",
+        "published": "Fri, 09 Jan 2026 04:14:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46549965\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/union-minister-ashwini-vaishnaw-discusses-manufacturing-of-sovereign-high-end-gpus-in-india-with-nvidia-officials/articleshow/126427209.cms",
+        "title": "Union Minister Ashwini Vaishnaw discusses manufacturing of sovereign, high-end GPUs in India with Nvidia officials",
+        "link": "https://economictimes.indiatimes.com/tech/technology/union-minister-ashwini-vaishnaw-discusses-manufacturing-of-sovereign-high-end-gpus-in-india-with-nvidia-officials/articleshow/126427209.cms",
+        "published": "Fri, 09 Jan 2026 10:04:54 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is stepping up plans to build its own graphics processors after talks between minister Ashwini Vaishnaw and Nvidia executives. The discussions covered sovereign GPUs and local manufacturing of advanced AI devices. The government is also expanding subsidised access to GPUs to boost domestic AI development."
     }
 ]
