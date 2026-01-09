@@ -47862,5 +47862,53 @@
         "published": "Fri, 09 Jan 2026 12:45:03 +0530",
         "source": "Tech-Economic Times",
         "summary": "AI is transforming online search, with startups like OpenAI innovating faster than legacy firms, said Snowflake CEO Sridhar Ramaswamy. AI-powered browsers and tools are reshaping how users access information. While cloud giants compete, Snowflake remains confident in its specialised analytics platforms and long-term relevance in the market."
+    },
+    {
+        "id": "https://www.wired.com/story/the-oceans-just-keep-getting-hotter/",
+        "title": "The Oceans Just Keep Getting Hotter",
+        "link": "https://www.wired.com/story/the-oceans-just-keep-getting-hotter/",
+        "published": "Fri, 09 Jan 2026 08:00:00 +0000",
+        "source": "WIRED",
+        "summary": "For the eighth year in a row, the world\u2019s oceans absorbed a record-breaking amount of heat in 2025. It was equivalent to the energy it would take to boil 2 billion Olympic swimming pools."
+    },
+    {
+        "id": "https://emnudge.dev/blog/what-happened-to-webassembly/",
+        "title": "What Happened to WebAssembly",
+        "link": "https://emnudge.dev/blog/what-happened-to-webassembly/",
+        "published": "Fri, 09 Jan 2026 07:38:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46551044\">Comments</a>"
+    },
+    {
+        "id": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
+        "title": "Mathematics for Computer Science (2018) [pdf]",
+        "link": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
+        "published": "Fri, 09 Jan 2026 07:06:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46550895\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/startups-go-public-in-litmus-test-for-chinese-ai/articleshow/126430235.cms",
+        "title": "Startups go public in litmus test for Chinese AI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/startups-go-public-in-litmus-test-for-chinese-ai/articleshow/126430235.cms",
+        "published": "Fri, 09 Jan 2026 13:01:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Chinese AI startup Zhipu AI surged over 12% in its Hong Kong debut, raising $558 million ahead of rival MiniMax\u2019s listing. But analysts said profits were unlikely any time soon from either company, the first two IPOs among China's so-called \"six tigers\", generative AI providers competing with tech giants such as Alibaba and ByteDance."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/zomato-parent-eternal-rs-3125-cr-gst-demand-west-bengal",
+        "title": "Zomato-parent Eternal hit with Rs 31.25 Cr GST demand in West Bengal; plans to appeal",
+        "link": "https://yourstory.com/2026/01/zomato-parent-eternal-rs-3125-cr-gst-demand-west-bengal",
+        "published": "Fri, 09 Jan 2026 07:59:48 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Eternal faces fresh tax trouble as West Bengal authorities demand nearly Rs 31.25 crore for alleged GST shortfalls across FY20-22. Eternal plans to appeal, asserting a strong case on merits and expecting no financial impact."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/built-different-dell-nvidia-webinar-new-ai-developer-playbook",
+        "title": "Built Different: Dell x NVIDIA webinar on the new AI developer playbook",
+        "link": "https://yourstory.com/2026/01/built-different-dell-nvidia-webinar-new-ai-developer-playbook",
+        "published": "Fri, 09 Jan 2026 07:25:39 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "AI developers are facing bigger models, faster iteration demands, and increasingly complex pipelines. This webinar dives into how new client-side capabilities are changing what gets built locally, and how quickly prototypes take shape."
     }
 ]
