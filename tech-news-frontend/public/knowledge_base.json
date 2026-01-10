@@ -49494,5 +49494,45 @@
         "published": "Sat, 10 Jan 2026 15:47:48 +0530",
         "source": "Tech-Economic Times",
         "summary": "At the Consumer Electronics Show, gadget makers warned of a global DRAM shortage driven by booming AI demand. Memory prices are soaring, boosting revenues at Samsung Electronics and Micron Technology. IDC says shortages may last into next year, forcing higher prices and fewer device features."
+    },
+    {
+        "id": "https://www.wired.com/review/fujifilm-xe5-mirrorless-camera/",
+        "title": "Fujifilm X-E5 Mirrorless Camera Review: Compact Color Science in a Retro Package",
+        "link": "https://www.wired.com/review/fujifilm-xe5-mirrorless-camera/",
+        "published": "Sat, 10 Jan 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Did you want the TikTok-popular X100VI, but with an interchangeable lens? The Fujifilm X-E5 has you covered."
+    },
+    {
+        "id": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
+        "title": "Security News This Week: ICE Can Now Spy on Every Phone in Your Neighborhood",
+        "link": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
+        "published": "Sat, 10 Jan 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Plus: Iran shuts down its internet amid sweeping protests, an alleged scam boss gets extradited to China, and more."
+    },
+    {
+        "id": "https://www.wired.com/review/shokz-openfit-pro/",
+        "title": "Shokz OpenFit Pro Review: ANC on Open Earbuds?",
+        "link": "https://www.wired.com/review/shokz-openfit-pro/",
+        "published": "Sat, 10 Jan 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "True ANC on a set of open-ear earbuds would be a game changer. Shokz's OpenFit Pro give us a taste of what that might be like."
+    },
+    {
+        "id": "https://www.zdnet.com/article/lenovo-motorola-qira-ai-assistant-wearable-ces-2026/",
+        "title": "I've tested Gemini, ChatGPT, Copilot, and others - Lenovo might have all AI assistants beat",
+        "link": "https://www.zdnet.com/article/lenovo-motorola-qira-ai-assistant-wearable-ces-2026/",
+        "published": "Sat, 10 Jan 2026 12:02:33 GMT",
+        "source": "Latest news",
+        "summary": "Meet Qira, a personal ambient intelligence system that works across your devices."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/pm-modi-tells-indiaai-startups-to-showcase-local-ai-use-cases-at-february-summit/articleshow/126452243.cms",
+        "title": "PM Modi tells IndiaAI startups to showcase local AI use cases at February summit",
+        "link": "https://economictimes.indiatimes.com/tech/startups/pm-modi-tells-indiaai-startups-to-showcase-local-ai-use-cases-at-february-summit/articleshow/126452243.cms",
+        "published": "Sat, 10 Jan 2026 17:30:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The PM held a closed-door meeting at his residence on January 8 with about a dozen founders from the IndiaAI Mission cohort. Union IT minister Ashwini Vaishnaw and senior officials of MeitY also attended the meeting. Modi told the founders to develop safe and authenticated AI, prioritising trust, transparency, and watermarking in their models to build user confidence and comply with evolving regulations."
     }
 ]
