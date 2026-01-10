@@ -49846,5 +49846,37 @@
         "published": "Sat, 10 Jan 2026 10:14:33 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we showcase scenes from the popular Chitra Santhe art fair in Bengaluru."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+        "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
+        "link": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+        "published": "Sat, 10 Jan 2026 19:37:54 +0000",
+        "source": "TechCrunch",
+        "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI\u2019s chatbot Grok."
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss",
+        "title": "An Instagram data breach reportedly exposed the personal info of 17.5 million users",
+        "link": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html?src=rss",
+        "published": "Sat, 10 Jan 2026 19:21:05 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>If you received a bunch of password reset requests from Instagram recently, you're not alone. As reported by <a class=\"no-affiliate-link\" href=\"https://bsky.app/profile/malwarebytes.com/post/3mbywfybiil26\">Malwarebytes</a>, an antivirus software company, there was a data breach revealing the &quot;sensitive information&quot; of 17.5 million Instagram users. Malwarebytes added that the leak included Instagram usernames, physical addresses, phone numbers, email addresses and more.</p>\n<p>The co"
+    },
+    {
+        "id": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
+        "title": "ASCII-Driven Development",
+        "link": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
+        "published": "Thu, 08 Jan 2026 08:18:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46538628\">Comments</a>"
+    },
+    {
+        "id": "https://sfeducation.substack.com/p/how-your-high-school-affects-your",
+        "title": "How your high school affects your chances of UC Admission",
+        "link": "https://sfeducation.substack.com/p/how-your-high-school-affects-your",
+        "published": "Thu, 08 Jan 2026 06:04:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46537741\">Comments</a>"
     }
 ]
