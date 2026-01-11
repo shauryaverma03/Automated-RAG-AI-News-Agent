@@ -50518,5 +50518,45 @@
         "published": "Sun, 11 Jan 2026 16:43:06 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46577242\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
+        "title": "Google pulls AI overviews for some medical searches",
+        "link": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
+        "published": "2026-01-11T14:19:40-05:00",
+        "source": "The Verge",
+        "summary": "Earlier this month, The Guardian published an investigation that showed Google was serving up misleading and outright false information via its AI overviews in response to certain medical inquiries. Now those results appear to have been removed. According to the original report: In one case that experts described as \"really dangerous\", Google wrongly advised people [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/transportation/evs/californias-governor-plans-to-set-aside-200-million-for-state-ev-tax-credits-194446449.html?src=rss",
+        "title": "California's governor plans to set aside $200 million for state EV tax credits",
+        "link": "https://www.engadget.com/transportation/evs/californias-governor-plans-to-set-aside-200-million-for-state-ev-tax-credits-194446449.html?src=rss",
+        "published": "Sun, 11 Jan 2026 19:44:46 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The loss of the <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/transportation/evs/trumps-big-beautiful-bill-is-bad-for-american-evs-but-it-could-have-been-worse-210155196.html\">federal EV tax credits</a> may have been a huge blow to prospective buyers, but California wants to fill that gap for its residents. Governor Gavin Newsom's proposed budget for 2026-2027, which was released on Friday, includes a &quot;light-duty zero-emission vehicle (ZEV) incentive program&quot; that deta"
+    },
+    {
+        "id": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+        "title": "Open-source iCloud Photos Downloader (AKA escape from iCloud)",
+        "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+        "published": "Sun, 11 Jan 2026 19:23:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46578921\">Comments</a>"
+    },
+    {
+        "id": "https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/",
+        "title": "\"Scholars Will Call It Nonsense\" the Structure of Erich von D\u00e4niken's Argument",
+        "link": "https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/",
+        "published": "Sun, 11 Jan 2026 19:26:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46578957\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-teams-up-with-walmart-other-retailers-to-enable-shopping-within-gemini-ai-chatbot/articleshow/126470806.cms",
+        "title": "Google teams up with Walmart, other retailers to enable shopping within Gemini AI chatbot",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-teams-up-with-walmart-other-retailers-to-enable-shopping-within-gemini-ai-chatbot/articleshow/126470806.cms",
+        "published": "Mon, 12 Jan 2026 01:25:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Google is enhancing its Gemini AI chatbot with shopping features, partnering with Walmart, Shopify and Wayfair to enable instant purchases without leaving the app. Recommendations can be personalised based on past purchases, linking to existing carts. OpenAI and Walmart announced a similar deal in October, saying the partnership would allow ChatGPT members to use an instant checkout feature to shop for nearly everything available on Walmart's website except for fresh food."
     }
 ]
