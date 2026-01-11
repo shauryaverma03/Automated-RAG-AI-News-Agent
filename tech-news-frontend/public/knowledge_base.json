@@ -50614,5 +50614,37 @@
         "published": "Thu, 08 Jan 2026 10:34:05 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46539478\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/",
+        "title": "Google co-founders may be leaving California",
+        "link": "https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/",
+        "published": "Sun, 11 Jan 2026 22:56:58 +0000",
+        "source": "TechCrunch",
+        "summary": "Sergey Brin and Larry Page appear to be pulling back from the state where they co-founded Google."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/",
+        "title": "Instagram says there\u2019s been \u2018no breach\u2019 despite password reset requests",
+        "link": "https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/",
+        "published": "Sun, 11 Jan 2026 22:26:03 +0000",
+        "source": "TechCrunch",
+        "summary": "Instagram says that although some users received suspicious-looking password reset requests, it has not been breached."
+    },
+    {
+        "id": "https://iczelia.net/posts/snake-polyglot/",
+        "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
+        "link": "https://iczelia.net/posts/snake-polyglot/",
+        "published": "Sun, 11 Jan 2026 22:14:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46580864\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/01/karnataka-to-host-indias-first-commercial-quantum-computer-at-iiit-dharwad",
+        "title": "Karnataka to host India\u2019s first commercial Quantum computer at IIIT-Dharwad",
+        "link": "https://yourstory.com/2026/01/karnataka-to-host-indias-first-commercial-quantum-computer-at-iiit-dharwad",
+        "published": "Fri, 09 Jan 2026 11:05:58 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "State bets big on frontier computing, announcing deployment of a cutting-edge machine at IIIT-Dharwad as part of a broader push to build an advanced deeptech ecosystem and attract next-generation research and talent."
     }
 ]
