@@ -50134,5 +50134,29 @@
         "published": "Sun, 11 Jan 2026 06:20:29 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Our weekly quiz on business creativity. Read, learn, share!"
+    },
+    {
+        "id": "https://www.wired.com/story/the-danger-of-reducing-a-americas-venezuela-invasion-to-a-60-second-video/",
+        "title": "The Danger of Reducing America's Venezuela Invasion to a 60-Second Video",
+        "link": "https://www.wired.com/story/the-danger-of-reducing-a-americas-venezuela-invasion-to-a-60-second-video/",
+        "published": "Sun, 11 Jan 2026 10:00:00 +0000",
+        "source": "WIRED",
+        "summary": "January 3 marked the return of US military intervention in Latin America. While the events unfolded between Caracas and Brooklyn, social networks had already fabricated their own reality."
+    },
+    {
+        "id": "https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/",
+        "title": "You are not required to close your <p>, <li>, <img>, or <br> tags in HTML",
+        "link": "https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/",
+        "published": "Fri, 09 Jan 2026 20:43:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46559065\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-proposes-forcing-smartphone-makers-to-give-source-code-in-security-overhaul-report/articleshow/126463365.cms",
+        "title": "India proposes forcing smartphone makers to give source code in security overhaul: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-proposes-forcing-smartphone-makers-to-give-source-code-in-security-overhaul-report/articleshow/126463365.cms",
+        "published": "Sun, 11 Jan 2026 14:42:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is reportedly proposing new security rules for smartphones. These rules include sharing source code and making software changes. Tech companies like Apple and Samsung are opposing these measures. They argue the requirements lack global precedent and risk revealing proprietary information."
     }
 ]
