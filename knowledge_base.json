@@ -50558,5 +50558,21 @@
         "published": "Mon, 12 Jan 2026 01:25:52 +0530",
         "source": "Tech-Economic Times",
         "summary": "Google is enhancing its Gemini AI chatbot with shopping features, partnering with Walmart, Shopify and Wayfair to enable instant purchases without leaving the app. Recommendations can be personalised based on past purchases, linking to existing carts. OpenAI and Walmart announced a similar deal in October, saying the partnership would allow ChatGPT members to use an instant checkout feature to shop for nearly everything available on Walmart's website except for fresh food."
+    },
+    {
+        "id": "https://cavendishlabs.org/blog/negative-temperature/",
+        "title": "Sampling at negative temperature",
+        "link": "https://cavendishlabs.org/blog/negative-temperature/",
+        "published": "Sun, 11 Jan 2026 20:01:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46579374\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/it-ministry-takes-up-communications-device-safety-issue-mobile-phone-players-say-routine-consultation/articleshow/126470859.cms",
+        "title": "IT ministry takes up communications device safety issue; mobile phone players say routine consultation",
+        "link": "https://economictimes.indiatimes.com/tech/technology/it-ministry-takes-up-communications-device-safety-issue-mobile-phone-players-say-routine-consultation/articleshow/126470859.cms",
+        "published": "Mon, 12 Jan 2026 01:42:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The IT ministry has taken over discussions on mobile phone and communication device safety from the telecom department under the ITSAR framework. Industry sources say this is a routine consultation with no new mandates. Talks focus on standards for software updates and device source code, ensuring transparent engagement with manufacturers."
     }
 ]
