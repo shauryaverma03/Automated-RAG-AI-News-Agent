@@ -50022,5 +50022,37 @@
         "published": "Sun, 11 Jan 2026 02:57:34 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46572304\">Comments</a>"
+    },
+    {
+        "id": "https://alienchow.dev/post/fibre_disintegration/",
+        "title": "My Home Fibre Network Disintegrated",
+        "link": "https://alienchow.dev/post/fibre_disintegration/",
+        "published": "Sun, 11 Jan 2026 04:19:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46572679\">Comments</a>"
+    },
+    {
+        "id": "https://www.bbc.com/news/articles/c623r47d67lo",
+        "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
+        "link": "https://www.bbc.com/news/articles/c623r47d67lo",
+        "published": "Sun, 11 Jan 2026 04:45:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46572769\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-toys-look-for-bright-side-after-troubled-start/articleshow/126461513.cms",
+        "title": "AI toys look for bright side after troubled start",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-toys-look-for-bright-side-after-troubled-start/articleshow/126461513.cms",
+        "published": "Sun, 11 Jan 2026 10:22:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Toy makers at the Consumer Electronics Show were adamant about being careful to ensure that their fun creations infused with generative artificial intelligence don't turn naughty. Toy giant Mattel, meanwhile, made no mention of the report in mid-December when it postponed the release of its first toy developed in partnership with ChatGPT-maker OpenAI."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/musk-to-open-new-x-algorithm-for-public-in-seven-days-report/articleshow/126461419.cms",
+        "title": "Musk to open new X algorithm for public in seven days: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/musk-to-open-new-x-algorithm-for-public-in-seven-days-report/articleshow/126461419.cms",
+        "published": "Sun, 11 Jan 2026 10:08:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tesla and SpaceX CEO Elon Musk has said that he will open the new X algorithm to the public in seven days. It will include all code for organic and advertising post recommendations."
     }
 ]
