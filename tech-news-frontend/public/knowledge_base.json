@@ -50318,5 +50318,21 @@
         "published": "Sun, 11 Jan 2026 13:00:40 GMT",
         "source": "Latest news",
         "summary": "The XGIMI Memomind series comprises three smart glasses, with one of them weighing under 30 grams."
+    },
+    {
+        "id": "https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history",
+        "title": "How TiVo killed live TV",
+        "link": "https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history",
+        "published": "2026-01-11T09:00:16-05:00",
+        "source": "The Verge",
+        "summary": "For a while, it seemed like everyone had a TiVo. It was a plot point on major TV shows; it had A-list Hollywood fans; it became a verb as ubiquitous as Google or Xerox. The love was well-earned, since TiVo had created a product that felt genuinely like magic. You could pause live TV. And [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold",
+        "title": "I went looking for weird phones and CES 2026 did not disappoint",
+        "link": "https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold",
+        "published": "2026-01-11T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "It's January, which means there's a whole year of rectangular glass slabs ahead of us. But before that happens, I managed to find phones of a different shape lurking around the corners of the CES convention center halls. They weren't center stage, of course. That was reserved for robots doing laundry badly. But in the [&#8230;]"
     }
 ]
