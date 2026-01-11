@@ -50094,5 +50094,45 @@
         "published": "Sun, 11 Jan 2026 12:31:37 +0530",
         "source": "Tech-Economic Times",
         "summary": "In 2021, Facebook, another Meta company, reported that data of over 350 million users had been exposed from publicly accessible profiles but not breached. Data breaches at other major social media platforms, X and LinkedIn, were reported in 2018 and 2021, impacting billions of users."
+    },
+    {
+        "id": "https://0xghost.dev/blog/std-move-deep-dive/",
+        "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
+        "link": "https://0xghost.dev/blog/std-move-deep-dive/",
+        "published": "Fri, 09 Jan 2026 09:01:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46551602\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/vojtapolasek/vojtux",
+        "title": "Vojtux \u2013 Unofficial Linux Distribution Aimed at Visually Impaired Users",
+        "link": "https://github.com/vojtapolasek/vojtux",
+        "published": "Wed, 07 Jan 2026 11:43:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46525271\">Comments</a>"
+    },
+    {
+        "id": "https://wichm.home.xs4all.nl/filmsize.html",
+        "title": "More than one hundred years of Film Sizes",
+        "link": "https://wichm.home.xs4all.nl/filmsize.html",
+        "published": "Sun, 11 Jan 2026 08:22:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46573688\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/under-eu-scrutiny-musk-vows-to-release-xs-algorithm-code-every-four-weeks/articleshow/126461419.cms",
+        "title": "Under EU scrutiny, Musk vows to release X\u2019s algorithm code every four weeks",
+        "link": "https://economictimes.indiatimes.com/tech/technology/under-eu-scrutiny-musk-vows-to-release-xs-algorithm-code-every-four-weeks/articleshow/126461419.cms",
+        "published": "Sun, 11 Jan 2026 10:08:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "This is not the first time X has promised to make its algorithms open source. Elon Musk had made similar commitments in 2022 and 2023. However, the latest publicly available update to its recommendation code dates back to March 2023."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/livelihood-ai-insights-quiz-entrepreneur-education",
+        "title": "Livelihood, AI, insights: test your business creativity with Edition 217 of our weekly quiz!",
+        "link": "https://yourstory.com/2026/01/livelihood-ai-insights-quiz-entrepreneur-education",
+        "published": "Sun, 11 Jan 2026 06:20:29 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Our weekly quiz on business creativity. Read, learn, share!"
     }
 ]
