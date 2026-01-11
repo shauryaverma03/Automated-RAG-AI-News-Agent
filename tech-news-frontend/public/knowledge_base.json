@@ -50334,5 +50334,61 @@
         "published": "2026-01-11T09:00:00-05:00",
         "source": "The Verge",
         "summary": "It's January, which means there's a whole year of rectangular glass slabs ahead of us. But before that happens, I managed to find phones of a different shape lurking around the corners of the CES convention center halls. They weren't center stage, of course. That was reserved for robots doing laundry badly. But in the [&#8230;]"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+        "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
+        "link": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+        "published": "Sun, 11 Jan 2026 15:07:49 +0000",
+        "source": "TechCrunch",
+        "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI\u2019s chatbot Grok."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/",
+        "title": "Wing to expand drone delivery to another 150 Walmart stores",
+        "link": "https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/",
+        "published": "Sun, 11 Jan 2026 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The partnership will grow Wing's drone delivery service to more than 270 Walmart stores by 2027."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+        "title": "Google announces a new protocol to facilitate commerce using AI agents",
+        "link": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+        "published": "Sun, 11 Jan 2026 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Google said that merchants can now offer discounts to users directly in AI mode results"
+    },
+    {
+        "id": "https://www.theverge.com/tech/859724/wing-walmart-drone-delivery-expansion-2027",
+        "title": "Wing\u2019s drone delivery is coming to 150 more Walmarts",
+        "link": "https://www.theverge.com/tech/859724/wing-walmart-drone-delivery-expansion-2027",
+        "published": "2026-01-11T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Wing is bringing drone delivery to even more Walmart stores in 2026. The Alphabet-owned company announced today that its drones will be flying above 150 more locations this year, including in four new cities: Los Angeles, St. Louis, Miami, and Cincinnati. In June 2025, the companies said they would expand their delivery partnership to 100 [&#8230;]"
+    },
+    {
+        "id": "https://github.com/netzherpes/KIM1-Demo",
+        "title": "Happy 50th Birthday KIM-1",
+        "link": "https://github.com/netzherpes/KIM1-Demo",
+        "published": "Sun, 11 Jan 2026 13:55:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46575804\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-should-prioritise-indic-ai-models-instead-of-foundational-ones-openai-researcher/articleshow/126466772.cms",
+        "title": "India should prioritise Indic AI models instead of foundational ones: OpenAI researcher",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-should-prioritise-indic-ai-models-instead-of-foundational-ones-openai-researcher/articleshow/126466772.cms",
+        "published": "Sun, 11 Jan 2026 20:19:33 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Sushant Sachdeva urged India to focus on AI models for local languages rather than competing with the US and China on large foundation models. He said India can use existing public models to serve its linguistically diverse population. His remarks come as the government and startups boost efforts in homegrown AI development."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/xai-locked-out-of-claude-as-anthropic-enforces-competitor-rules/articleshow/126466343.cms",
+        "title": "xAI locked out of Claude as Anthropic enforces competitor rules",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/xai-locked-out-of-claude-as-anthropic-enforces-competitor-rules/articleshow/126466343.cms",
+        "published": "Sun, 11 Jan 2026 20:01:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic has blocked xAI from using its Claude AI models after xAI accessed them through the Cursor coding tool, citing rules against aiding competitors. xAI cofounder Tony Wu said this will slow productivity but push them to build their own tools. This comes just as Elon Musk announced that X\u2019s recommendation algorithm will be open-sourced soon."
     }
 ]
