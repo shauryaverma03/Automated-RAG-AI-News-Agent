@@ -50014,5 +50014,13 @@
         "published": "Sun, 11 Jan 2026 01:00:37 GMT",
         "source": "Latest news",
         "summary": "You might be surprised to learn how many 'vampire devices' could be in your home, silently draining power."
+    },
+    {
+        "id": "https://github.com/unhaya/vam-seek",
+        "title": "Show HN: VAM Seek \u2013 2D video navigation grid, 15KB, zero server load",
+        "link": "https://github.com/unhaya/vam-seek",
+        "published": "Sun, 11 Jan 2026 02:57:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46572304\">Comments</a>"
     }
 ]
