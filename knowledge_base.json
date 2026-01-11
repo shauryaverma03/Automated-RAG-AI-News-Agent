@@ -50446,5 +50446,37 @@
         "published": "Sun, 11 Jan 2026 10:35:26 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we showcase artistic highlights from two recent exhibitions at Nehru Centre in Worli."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+        "title": "Google removes AI Overviews for certain medical queries",
+        "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+        "published": "Sun, 11 Jan 2026 17:56:41 +0000",
+        "source": "TechCrunch",
+        "summary": "This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries."
+    },
+    {
+        "id": "https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails",
+        "title": "Instagram says it fixed the issue that let someone send all those password reset emails",
+        "link": "https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails",
+        "published": "2026-01-11T12:26:38-05:00",
+        "source": "The Verge",
+        "summary": "If you're one of the many, many people who received a password reset email from Instagram the other day, the company says it fixed the issue. What was the issue? Unclear. We reached out to Meta for clarification and have yet to receive a response. All we know is that an \"external party\" triggered the [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/transportation/wings-drone-deliveries-are-coming-to-150-more-walmarts-180708189.html?src=rss",
+        "title": "Wing's drone deliveries are coming to 150 more Walmarts",
+        "link": "https://www.engadget.com/transportation/wings-drone-deliveries-are-coming-to-150-more-walmarts-180708189.html?src=rss",
+        "published": "Sun, 11 Jan 2026 18:07:09 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Don't be surprised if you see even more <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/apps/uber-will-once-again-test-delivering-food-by-drone-this-year-120017602.html\">drones delivering</a> groceries across the US since the Alphabet-owned <a class=\"no-affiliate-link\" href=\"https://wing.com/news/wing-walmart-expand-drone-delivery-coast-to-coast\">Wing</a> announced another service expansion with Walmart over the next year. The partnership said that drone delivery services will be "
+    },
+    {
+        "id": "https://github.com/amcchord/M5Tab-Macintosh",
+        "title": "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
+        "link": "https://github.com/amcchord/M5Tab-Macintosh",
+        "published": "Sun, 11 Jan 2026 12:02:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46574961\">Comments</a>"
     }
 ]
