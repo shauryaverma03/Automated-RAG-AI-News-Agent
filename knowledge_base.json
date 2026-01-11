@@ -50574,5 +50574,45 @@
         "published": "Mon, 12 Jan 2026 01:42:47 +0530",
         "source": "Tech-Economic Times",
         "summary": "The IT ministry has taken over discussions on mobile phone and communication device safety from the telecom department under the ITSAR framework. Industry sources say this is a routine consultation with no new mandates. Talks focus on standards for software updates and device source code, ensuring transparent engagement with manufacturers."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/",
+        "title": "That time Will Smith helped discover new species of anaconda",
+        "link": "https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/",
+        "published": "Sun, 11 Jan 2026 20:35:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Footage of the 2024 discovery appears in NatGeo's new documentary series Pole to Pole with <em>Will Smith</em>"
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/googles-new-commerce-framework-cranks-up-the-heat-on-agentic-shopping-212433122.html?src=rss",
+        "title": "Google's new commerce framework cranks up the heat on 'agentic shopping'",
+        "link": "https://www.engadget.com/big-tech/googles-new-commerce-framework-cranks-up-the-heat-on-agentic-shopping-212433122.html?src=rss",
+        "published": "Sun, 11 Jan 2026 21:24:33 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>To further push the limits of <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/ai/google-adds-agentic-ai-checkout-to-shopping-140000930.html\">consumerism</a>, Google has launched a new open standard for agentic commerce that's called <a class=\"no-affiliate-link\" href=\"https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/\">Universal Commerce Protocol</a> (UCP). In brief, it's a framework that combines the power of AI agents and online shop"
+    },
+    {
+        "id": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+        "title": "The struggle of resizing windows on macOS Tahoe",
+        "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+        "published": "Sun, 11 Jan 2026 20:47:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46579864\">Comments</a>"
+    },
+    {
+        "id": "https://fulghum.io/self-hosting",
+        "title": "2026 is the Year of Self-hosting",
+        "link": "https://fulghum.io/self-hosting",
+        "published": "Sun, 11 Jan 2026 21:29:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46580326\">Comments</a>"
+    },
+    {
+        "id": "https://www.youtube.com/watch?v=il-TXbn5iMA",
+        "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
+        "link": "https://www.youtube.com/watch?v=il-TXbn5iMA",
+        "published": "Thu, 08 Jan 2026 10:34:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46539478\">Comments</a>"
     }
 ]
