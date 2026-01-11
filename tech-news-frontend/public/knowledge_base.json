@@ -50390,5 +50390,29 @@
         "published": "Sun, 11 Jan 2026 20:01:50 +0530",
         "source": "Tech-Economic Times",
         "summary": "Anthropic has blocked xAI from using its Claude AI models after xAI accessed them through the Cursor coding tool, citing rules against aiding competitors. xAI cofounder Tony Wu said this will slow productivity but push them to build their own tools. This comes just as Elon Musk announced that X\u2019s recommendation algorithm will be open-sourced soon."
+    },
+    {
+        "id": "https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on",
+        "title": "Google\u2019s AI Inbox could be a glimpse of Gmail\u2019s future",
+        "link": "https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on",
+        "published": "2026-01-11T10:30:00-05:00",
+        "source": "The Verge",
+        "summary": "This week, Google announced a new AI Inbox view for Gmail that replaces the traditional list of emails with an AI-generated list of to-dos and topics to track based on what's in your inbox. It's not widely available yet, but I have access, and in the few hours I've spent messing around with it, I [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/instagram-says-accounts-are-secure-after-wave-of-suspicious-password-reset-requests-192105188.html?src=rss",
+        "title": "Instagram says accounts 'are secure' after wave of suspicious password reset requests",
+        "link": "https://www.engadget.com/cybersecurity/instagram-says-accounts-are-secure-after-wave-of-suspicious-password-reset-requests-192105188.html?src=rss",
+        "published": "Sun, 11 Jan 2026 16:09:08 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>If you received a bunch of password reset requests from Instagram recently, you're not alone. <a class=\"no-affiliate-link\" href=\"https://bsky.app/profile/malwarebytes.com/post/3mbywfybiil26\">Malwarebytes</a>, an antivirus software company, initially reported that there was a data breach revealing the &quot;sensitive information&quot; of 17.5 million Instagram users. Malwarebytes added that the leak included Instagram usernames, physical addresses, phone numbers, email addresses and more. Howe"
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
+        "title": "Instagram data breach reportedly exposed the personal info of 17.5M users",
+        "link": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
+        "published": "Sun, 11 Jan 2026 15:07:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46576337\">Comments</a>"
     }
 ]
