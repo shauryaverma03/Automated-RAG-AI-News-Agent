@@ -52270,5 +52270,77 @@
         "published": "Mon, 12 Jan 2026 20:26:47 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46593802\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay",
+        "title": "Fired Rockstar employees\u2019 plea for interim pay denied",
+        "link": "https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay",
+        "published": "2026-01-12T17:25:39-05:00",
+        "source": "The Verge",
+        "summary": "A UK employment tribunal rejected a request from fired Rockstar Games employees to receive interim pay while waiting for a full hearing about their dismissal, according to Bloomberg and IGN. After Rockstar fired 34 employees last year - 31 from the UK and three from Canada - the Independent Workers' Union of Great Britain (IWGB) [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage",
+        "title": "Framework hikes desktop PC prices as RAM shortage drags on",
+        "link": "https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage",
+        "published": "2026-01-12T17:25:08-05:00",
+        "source": "The Verge",
+        "summary": "Just weeks after raising the price of its RAM modules, Framework has announced that it's also increasing the price of its desktop PC in response to the global memory shortage. The Framework Desktop with 32GB of RAM and an AMD Ryzen AI Max 385 chip now starts at $1,139, instead of $1,099. \"We held off [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse",
+        "title": "Meta plans to lay off hundreds of metaverse employees this week",
+        "link": "https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse",
+        "published": "2026-01-12T17:14:58-05:00",
+        "source": "The Verge",
+        "summary": "Meta's Reality Labs team is expected to lose around 10 percent of its staff, with layoffs concentrated on the division's metaverse employees, as reported by The New York Times. The layoffs are apparently a side effect of Meta's AI ambitions, which are pulling focus away from its virtual reality division. According to the Times, Meta's [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/",
+        "title": "Minnesota Sues to Stop ICE \u2018Invasion\u2019",
+        "link": "https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/",
+        "published": "Mon, 12 Jan 2026 22:42:45 +0000",
+        "source": "WIRED",
+        "summary": "The state of Minnesota, along with the Twin Cities, have sued the US government and several officials to halt the flood of agents carrying out an Immigration and Customs Enforcement operation."
+    },
+    {
+        "id": "https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/",
+        "title": "FBI Agent\u2019s Sworn Testimony Contradicts Claims ICE\u2019s Jonathan Ross Made Under Oath",
+        "link": "https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/",
+        "published": "Mon, 12 Jan 2026 22:11:11 +0000",
+        "source": "WIRED",
+        "summary": "The testimony also calls into question whether Ross failed to follow his training during the incident in which he reportedly shot and killed Minnesota citizen Renee Good."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/01/hobby-github-repo-shows-linus-torvalds-vibe-codes-sometimes/",
+        "title": "Hobby GitHub repo shows Linus Torvalds vibe codes (sometimes)",
+        "link": "https://arstechnica.com/ai/2026/01/hobby-github-repo-shows-linus-torvalds-vibe-codes-sometimes/",
+        "published": "Mon, 12 Jan 2026 22:27:50 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"But then I cut out the middle man\u2014me.\""
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/",
+        "title": "Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule",
+        "link": "https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/",
+        "published": "Mon, 12 Jan 2026 22:07:23 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "FCC waives rule that forced Verizon to unlock phones 60 days after activation."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+        "title": "Google removes some AI health summaries after investigation finds \u201cdangerous\u201d flaws",
+        "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+        "published": "Mon, 12 Jan 2026 21:47:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "AI Overviews provided false liver test information experts called alarming."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/judge-trump-violated-fifth-amendment-by-ending-energy-grants-in-only-blue-states/",
+        "title": "Judge: Trump violated Fifth Amendment by ending energy grants in only blue states",
+        "link": "https://arstechnica.com/tech-policy/2026/01/judge-trump-violated-fifth-amendment-by-ending-energy-grants-in-only-blue-states/",
+        "published": "Mon, 12 Jan 2026 21:27:35 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Donald Trump\u2019s social media post triggers rare Fifth Amendment ruling."
     }
 ]
