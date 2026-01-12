@@ -52238,5 +52238,37 @@
         "published": "Mon, 12 Jan 2026 12:44:19 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Startup Meetup Bangalore 2026 by IIT Madras E-Cell gathers founders, investors, and incubators for a focused morning of startup innovation."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
+        "title": "Why Amazon bought Bee, an AI wearable",
+        "link": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
+        "published": "Mon, 12 Jan 2026 21:55:44 +0000",
+        "source": "TechCrunch",
+        "summary": "Amazon explains where its wearable Bee fits in and whether it will merge with Alexa."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+        "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+        "link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+        "published": "Mon, 12 Jan 2026 21:44:43 +0000",
+        "source": "TechCrunch",
+        "summary": "Meta is ramping up its efforts to build out its AI capacity."
+    },
+    {
+        "id": "https://www.engadget.com/deals/our-favorite-ugreen-3-in-1-wireless-charger-is-32-percent-off-right-now-214707069.html?src=rss",
+        "title": "Our favorite UGreen 3-in-1 wireless charger is 32 percent off right now",
+        "link": "https://www.engadget.com/deals/our-favorite-ugreen-3-in-1-wireless-charger-is-32-percent-off-right-now-214707069.html?src=rss",
+        "published": "Mon, 12 Jan 2026 21:47:07 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Now that the winter holidays are well and truly past, now's the perfect time to take stock of your tech setup. If you were gifted (or gifted yourself) some new gear in December, make sure that you've got the proper accessories to keep that gear performing at its best. If a new way to power all those batteries would be a benefit, Amazon's currently running a discount on an excellent wireless charging pad. The <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=66ea56"
+    },
+    {
+        "id": "https://www.bellard.org/ts_zip/",
+        "title": "Fabrice Bellard's TS Zip (2024)",
+        "link": "https://www.bellard.org/ts_zip/",
+        "published": "Mon, 12 Jan 2026 20:26:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46593802\">Comments</a>"
     }
 ]
