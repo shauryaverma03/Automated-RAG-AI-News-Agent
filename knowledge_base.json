@@ -54438,5 +54438,53 @@
         "published": "Tue, 13 Jan 2026 21:30:00 GMT",
         "source": "Latest news",
         "summary": "The new channels join more than 300 others offered by the streaming service - and no Roku TV is required."
+    },
+    {
+        "id": "https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission",
+        "title": "WeatherTech founder might be the newest US consumer protection official",
+        "link": "https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission",
+        "published": "2026-01-13T17:28:00-05:00",
+        "source": "The Verge",
+        "summary": "President Donald Trump made an unconventional pick for his nomination to the Federal Trade Commission: WeatherTech founder and CEO David MacNeil. MacNeil founded the company, which makes weather-resistant car floor mats, in 1989, according to its website, and he owns 100 percent of the company. WeatherTech has made it a mission to keep its manufacturing [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
+        "title": "The RAM shortage\u2019s silver lining: Less talk about \u201cAI PCs\u201d",
+        "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
+        "published": "Tue, 13 Jan 2026 22:34:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\u201cGeneral interest in AI PCs has been wavering for a while ...\""
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/",
+        "title": "Never-before-seen Linux malware is \u201cfar more advanced than typical\u201d",
+        "link": "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/",
+        "published": "Tue, 13 Jan 2026 22:07:21 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "VoidLink includes an unusually broad and advanced array of capabilities."
+    },
+    {
+        "id": "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/",
+        "title": "We can't have nice things because of AI scrapers",
+        "link": "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/",
+        "published": "Tue, 13 Jan 2026 21:57:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46608840\">Comments</a>"
+    },
+    {
+        "id": "https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt",
+        "title": "Let's be honest, Generative AI isn't going all that well",
+        "link": "https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt",
+        "published": "Tue, 13 Jan 2026 18:37:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46605587\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/upi-can-scale-to-100-cr-active-users-rbi-dy-guv/",
+        "title": "UPI Can Scale To 100 Cr Active Users: RBI Dy Guv",
+        "link": "https://inc42.com/buzz/upi-can-scale-to-100-cr-active-users-rbi-dy-guv/",
+        "published": "Tue, 13 Jan 2026 22:50:32 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"UPI Can Scale To 100 Cr Active Users: RBI Dy Guv\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/UPI-RBI-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Reserve Bank of India (RBI) deputy governor T Rabi Sankar yesterday reportedly said that unified payments interface\u2019s (UPI) user base&#8230;"
     }
 ]
