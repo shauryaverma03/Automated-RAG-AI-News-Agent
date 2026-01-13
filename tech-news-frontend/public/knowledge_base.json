@@ -52550,5 +52550,53 @@
         "published": "Tue, 13 Jan 2026 01:30:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Deeptech solutions are building trust by reducing uncertainty around cost and battery performance. This is likely to further accelerate EV adoption across the country.\n\n\nby Ashwin Shankar, Founder, BatteryPool\n\nImagine a delivery agent on a sunny day in Nagpur, waiting outside a grocery store. He i"
+    },
+    {
+        "id": "https://www.zdnet.com/article/what-is-physical-ai-qualcomm-ces/",
+        "title": "Physical AI is the next frontier - and it's already all around you",
+        "link": "https://www.zdnet.com/article/what-is-physical-ai-qualcomm-ces/",
+        "published": "Tue, 13 Jan 2026 03:00:52 GMT",
+        "source": "Latest news",
+        "summary": "I spoke to Qualcomm executives at CES to learn more about what the buzzword means, how it applies to you, and what a physical AI future looks like."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/brazils-antitrust-body-opens-investigation-into-whatsapp-business-tool/articleshow/126496119.cms",
+        "title": "Brazil's antitrust body opens investigation into WhatsApp business tool",
+        "link": "https://economictimes.indiatimes.com/tech/technology/brazils-antitrust-body-opens-investigation-into-whatsapp-business-tool/articleshow/126496119.cms",
+        "published": "Tue, 13 Jan 2026 08:58:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In \u200ca statement, CADE said that there are potential anti-competitive practices arising from \u200dthe new terms regarding \u200dthe access \u2060and \u2060offering by artificial intelligence tool providers of their technologies to WhatsApp users."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-invest-nearly-13-billion-in-chip-packaging-plant-in-south-korea/articleshow/126496080.cms",
+        "title": "SK Hynix to invest nearly $13 billion in chip packaging plant in South Korea",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-invest-nearly-13-billion-in-chip-packaging-plant-in-south-korea/articleshow/126496080.cms",
+        "published": "Tue, 13 Jan 2026 08:53:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SK Hynix said \u200baccelerating global competition in AI is driving \u200ca \u200dsharp rise in demand for \u200dAI-focused memory, underscoring the need to respond \u200cproactively to growing demand for high-bandwidth memory (HBM) chips."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-apple-has-called-on-google-to-help-smarten-up-siri-and-bring-other-ai-features-to-the-iphone/articleshow/126495889.cms",
+        "title": "Why Apple has called on Google to help smarten up Siri and bring other AI features to the iPhone",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-apple-has-called-on-google-to-help-smarten-up-siri-and-bring-other-ai-features-to-the-iphone/articleshow/126495889.cms",
+        "published": "Tue, 13 Jan 2026 08:35:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The deal allowing Apple to tinto Google's AI technology was disclosed Monday in a joint statement from the Silicon Valley powerhouses. The partnership will draw upon Google's Gemini technology to customize a suite of AI features dubbed \"Apple Intelligence\" on the iPhone and other products."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/openai-acquires-healthcare-startup-torch-deal-pegged-at-100-million/articleshow/126495788.cms",
+        "title": "OpenAI acquires healthcare startup Torch, deal pegged at $100 million",
+        "link": "https://economictimes.indiatimes.com/tech/startups/openai-acquires-healthcare-startup-torch-deal-pegged-at-100-million/articleshow/126495788.cms",
+        "published": "Tue, 13 Jan 2026 08:26:48 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Torch is a small healthcare technology startup which focusses on unifying fragmented medical data such as lab results, medications, and doctor visit records, into a single, AI-readable system."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-acquires-healthcare-startup-torch-deal-pegged-at-100-million/articleshow/126495784.cms",
+        "title": "OpenAI acquires healthcare startup Torch, deal pegged at $100 million",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-acquires-healthcare-startup-torch-deal-pegged-at-100-million/articleshow/126495784.cms",
+        "published": "Tue, 13 Jan 2026 08:26:48 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Torch is a small healthcare technology startup which focusses on unifying fragmented medical data such as lab results, medications, and doctor visit records, into a single, AI-readable system."
     }
 ]
