@@ -56350,5 +56350,61 @@
         "published": "Wed, 14 Jan 2026 21:26:51 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46623761\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+        "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+        "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+        "published": "Wed, 14 Jan 2026 22:42:51 +0000",
+        "source": "TechCrunch",
+        "summary": "The California Attorney General has opened a formal investigation into Elon Musk's xAI after its chatbot Grok began generating nonconsensual sexual images of real women and even children."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
+        "title": "OpenAI signs deal, worth $10 billion, for compute from Cerebras",
+        "link": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
+        "published": "Wed, 14 Jan 2026 22:25:32 +0000",
+        "source": "TechCrunch",
+        "summary": "The collaboration will help OpenAI models deliver faster response times for more difficult or time consuming tasks, the companies said."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale",
+        "title": "The Stream Deck Plus is back to its lowest price",
+        "link": "https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale",
+        "published": "2026-01-14T18:04:09-05:00",
+        "source": "The Verge",
+        "summary": "If you\u2019re looking for a simple way to streamline your workflow, the Elgato Stream Deck Plus is a handy productivity tool for automating everyday tasks. Right now, it\u2019s on sale for $159.99 ($40 off) at Amazon, Best Buy, and B&#38;H Photo, which is its best price to date. Like the standard Stream Deck, the Stream [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
+        "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
+        "link": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
+        "published": "Wed, 14 Jan 2026 22:48:32 +0000",
+        "source": "WIRED",
+        "summary": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/netflix-will-air-new-video-podcasts-from-pete-davidson-and-michael-irvin-this-month-224353011.html?src=rss",
+        "title": "Netflix will air new video podcasts from Pete Davidson and Michael Irvin this month",
+        "link": "https://www.engadget.com/entertainment/streaming/netflix-will-air-new-video-podcasts-from-pete-davidson-and-michael-irvin-this-month-224353011.html?src=rss",
+        "published": "Wed, 14 Jan 2026 22:43:53 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Netflix is continuing to double down on podcasts, with the streaming service's announcement that it has hired talent to host two original shows for its platform. The first show stars NFL Hall of Famer-turned-analyst Michael Irvin and the second is a talk show for former Saturday Night Live cast member Pete Davidson.</p><p><em>The White House with Michael Irvin</em> <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=2a170a1e-7e5c-4edd-b5dd-ea6d3bd9416a&amp;site"
+    },
+    {
+        "id": "https://cursor.com/blog/scaling-agents",
+        "title": "Scaling long-running autonomous coding",
+        "link": "https://cursor.com/blog/scaling-agents",
+        "published": "Wed, 14 Jan 2026 22:18:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46624541\">Comments</a>"
+    },
+    {
+        "id": "https://cryptography.io/en/latest/statements/state-of-openssl/",
+        "title": "The State of OpenSSL for pyca/cryptography",
+        "link": "https://cryptography.io/en/latest/statements/state-of-openssl/",
+        "published": "Wed, 14 Jan 2026 22:04:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46624352\">Comments</a>"
     }
 ]
