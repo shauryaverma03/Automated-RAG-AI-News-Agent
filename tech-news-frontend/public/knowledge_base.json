@@ -55814,5 +55814,133 @@
         "published": "Wed, 14 Jan 2026 21:54:36 +0530",
         "source": "Tech-Economic Times",
         "summary": "Electronics manufacturing services giant Foxconn and HCL Group have named their semiconductor joint venture as India Chip Private Limited, a regulatory filing said on Wednesday."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
+        "title": "Gemini is winning",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
+        "published": "2026-01-14T13:16:39-05:00",
+        "source": "The Verge",
+        "summary": "If you want to win in AI - and I mean win in the biggest, most lucrative, most shape-the-world-in-your-image kind of way - you have to do a bunch of hard things simultaneously. You need to have a model that is unquestionably one of the best on the market. You need the nearly infinite resources [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/861897/atlantic-penske-vox-google-ad-tech-antitrust-lawsuits",
+        "title": "The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations",
+        "link": "https://www.theverge.com/news/861897/atlantic-penske-vox-google-ad-tech-antitrust-lawsuits",
+        "published": "2026-01-14T12:47:18-05:00",
+        "source": "The Verge",
+        "summary": "Lawsuits seeking damages from Google's illegal ad tech monopoly are piling up following the Justice Department's successful antitrust case. Vox Media, The Verge's parent company, is the latest in a wave of media companies that have filed suit against Google, seeking to be reimbursed for the monopoly profits the tech company allegedly made at publishers' [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk",
+        "title": "X hasn&#8217;t really stopped Grok AI from undressing women in the UK",
+        "link": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk",
+        "published": "2026-01-14T12:47:01-05:00",
+        "source": "The Verge",
+        "summary": "Elon Musk's X is trying to stop people using its AI chatbot Grok to undress women amid intensifying outrage and legal scrutiny over the deluge of nonconsensual sexual deepfakes flooding the site. It's not trying very hard: it took us less than a minute to get around its latest attempt to rein in the chatbot. [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/861890/uk-backpeddles-mandatory-digital-id-requirements",
+        "title": "UK digital ID plans will no longer be mandatory",
+        "link": "https://www.theverge.com/news/861890/uk-backpeddles-mandatory-digital-id-requirements",
+        "published": "2026-01-14T12:36:59-05:00",
+        "source": "The Verge",
+        "summary": "The United Kingdom has walked back plans to make its upcoming digital ID scheme a mandatory requirement for working adults. While the UK government remains \"committed to mandatory digital right-to-work checks,\" an unspecified government spokesperson told The Times, digital ID will now be optional when the initiative is introduced sometime in 2029. The national digital [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/01/man-got-2500-whole-body-mri-that-found-no-problems-then-had-massive-stroke/",
+        "title": "Man got $2,500 whole-body MRI that found no problems\u2014then had massive stroke",
+        "link": "https://arstechnica.com/health/2026/01/man-got-2500-whole-body-mri-that-found-no-problems-then-had-massive-stroke/",
+        "published": "Wed, 14 Jan 2026 17:25:24 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The MRI showed a problem in a brain artery that should have been flagged, man claims."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/01/scientists-sequence-a-woolly-rhino-genome-from-a-14400-year-old-wolfs-stomach/",
+        "title": "Scientists sequence a woolly rhino genome from a 14,400-year-old wolf\u2019s stomach",
+        "link": "https://arstechnica.com/science/2026/01/scientists-sequence-a-woolly-rhino-genome-from-a-14400-year-old-wolfs-stomach/",
+        "published": "Wed, 14 Jan 2026 17:01:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Fortunately for paleogeneticists, wolf puppies don't chew their food thoroughly."
+    },
+    {
+        "id": "https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/",
+        "title": "Gemini can now scan your photos, email, and more to provide better answers",
+        "link": "https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/",
+        "published": "Wed, 14 Jan 2026 16:42:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The feature will start with paid users only, and it's off by default."
+    },
+    {
+        "id": "https://www.engadget.com/he-could-just-turn-it-off-180209551.html?src=rss",
+        "title": "He could just turn it off",
+        "link": "https://www.engadget.com/he-could-just-turn-it-off-180209551.html?src=rss",
+        "published": "Wed, 14 Jan 2026 18:02:09 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Generative AI, we are repeatedly told, is a transformative and complicated technology. So complicated that its own creators are <a href=\"https://www.technologyreview.com/2024/03/05/1089449/nobody-knows-how-ai-works/\">unable</a> <a href=\"https://futurism.com/anthropic-ceo-admits-ai-ignorance\">to</a> <a href=\"https://www.vox.com/unexplainable/2023/7/15/23793840/chat-gpt-ai-science-mystery-unexplainable-podcast\">explain</a> why it acts the way it does, and so transformative that we'd be fools to"
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/vpn/how-to-turn-off-a-vpn-on-iphone-180000533.html?src=rss",
+        "title": "How to turn off a VPN on iPhone",
+        "link": "https://www.engadget.com/cybersecurity/vpn/how-to-turn-off-a-vpn-on-iphone-180000533.html?src=rss",
+        "published": "Wed, 14 Jan 2026 18:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Look, <a class=\"link\" href=\"https://www.engadget.com/cybersecurity/vpn/what-is-a-vpn-and-what-can-you-do-with-one-161549146.html\" target=\"_blank\">virtual private networks</a> are great \u2014 I wouldn't have made a list of the <a class=\"link\" href=\"https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html\" target=\"_blank\">best VPNs</a> if I didn't recommend using them. But being able to control your own technology is also important. A VPN can provide protection and peace of mind <a class="
+    },
+    {
+        "id": "https://www.engadget.com/deals/get-three-months-of-audible-for-only-3-193859098.html?src=rss",
+        "title": "Get three months of Audible for only $3",
+        "link": "https://www.engadget.com/deals/get-three-months-of-audible-for-only-3-193859098.html?src=rss",
+        "published": "Wed, 14 Jan 2026 17:46:26 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Have a hankering for some audiobooks? Audible is holding one heck of a sale right now, giving users <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=a8d99938-0b9f-4c17-b1d6-b88b320bc1cc&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=three+months+of+access+for+%243&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczov"
+    },
+    {
+        "id": "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now",
+        "title": "So, You've Hit an Age Gate. What Now?",
+        "link": "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now",
+        "published": "Wed, 14 Jan 2026 17:27:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46619030\">Comments</a>"
+    },
+    {
+        "id": "https://dutchreview.com/news/dutch-police-car-stolen-during-chase/",
+        "title": "Dutch police have their own car stolen during car theft chase",
+        "link": "https://dutchreview.com/news/dutch-police-car-stolen-during-chase/",
+        "published": "Wed, 14 Jan 2026 17:43:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46619275\">Comments</a>"
+    },
+    {
+        "id": "https://www.ismypubfucked.com/",
+        "title": "Find a pub that needs you",
+        "link": "https://www.ismypubfucked.com/",
+        "published": "Wed, 14 Jan 2026 15:44:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46617360\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/smartphone-sharing-data-without-your-knowledge-how-to-stop-it/",
+        "title": "Your phone is sharing data without your knowledge - how to stop it ASAP",
+        "link": "https://www.zdnet.com/article/smartphone-sharing-data-without-your-knowledge-how-to-stop-it/",
+        "published": "Wed, 14 Jan 2026 18:07:48 GMT",
+        "source": "Latest news",
+        "summary": "Even when it's idle, your smartphone is transmitting certain information to the device manufacturer, says NordVPN. Here's why you might want to limit some of this data."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/oracle-sued-by-bondholders-over-losses-tied-to-ai-buildout/articleshow/126532599.cms",
+        "title": "Oracle sued by bondholders over losses tied to AI buildout",
+        "link": "https://economictimes.indiatimes.com/tech/technology/oracle-sued-by-bondholders-over-losses-tied-to-ai-buildout/articleshow/126532599.cms",
+        "published": "Wed, 14 Jan 2026 23:31:09 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Bondholders have filed a lawsuit against Oracle, claiming they lost money. They allege the company, led by Larry Ellison, did not reveal it needed to sell more debt to expand its AI systems. The New York court case involves $18 billion in bonds issued in September, with Ellison and the banks also named."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-to-investigate-xai-over-deepfake-content-officials-say/articleshow/126532355.cms",
+        "title": "California to investigate xAI over deepfake content, officials say",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-to-investigate-xai-over-deepfake-content-officials-say/articleshow/126532355.cms",
+        "published": "Wed, 14 Jan 2026 23:22:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "California \u200dofficials \u200bsaid they were demanding \u2060answers from Elon Musk's xAI amid the spread of \u200cnon-consensual \u200csexual images on the \u200cplatform that has prompted global scrutiny."
     }
 ]
