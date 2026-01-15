@@ -58374,5 +58374,53 @@
         "published": "Thu, 15 Jan 2026 16:49:13 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46635345\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+        "title": "Taiwan to invest\u00a0$250B in US semiconductor manufacturing",
+        "link": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+        "published": "Thu, 15 Jan 2026 20:52:44 +0000",
+        "source": "TechCrunch",
+        "summary": "The U.S. struck a trade deal with Taiwan as the country looks to help boost domestic semiconductor manufacturing."
+    },
+    {
+        "id": "https://www.theverge.com/news/862922/krafton-next-pubg-franchise",
+        "title": "Krafton is trying to find its next PUBG",
+        "link": "https://www.theverge.com/news/862922/krafton-next-pubg-franchise",
+        "published": "2026-01-15T15:38:15-05:00",
+        "source": "The Verge",
+        "summary": "PUBG developer Krafton has 26 games in development, and in a recent town hall meeting, the company outlined a plan to \"focus on its core gaming business while outlining a disciplined approach to building long-term Franchise IPs.\" \"During the past year, KRAFTON has prepared for Franchise IP development by strengthening its creative leadership, as well [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/01/nasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown/",
+        "title": "NASA\u2019s first-ever medical evacuation from space ends with on-target splashdown",
+        "link": "https://arstechnica.com/space/2026/01/nasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown/",
+        "published": "Thu, 15 Jan 2026 20:19:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "This is the first time NASA has called an early end to a space mission for medical reasons."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/amazons-new-world-aeternum-mmo-will-go-offline-january-31-2027-205449407.html?src=rss",
+        "title": "Amazon's New World: Aeternum MMO will go offline January 31, 2027",
+        "link": "https://www.engadget.com/gaming/amazons-new-world-aeternum-mmo-will-go-offline-january-31-2027-205449407.html?src=rss",
+        "published": "Thu, 15 Jan 2026 20:54:49 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Today, Amazon <a class=\"link\" href=\"https://www.newworld.com/en-us/news/articles/the-future-of-new-world-aeternum-what-to-expect\" target=\"_blank\">shared</a> more details about the final chapter of its game <em>New World: Aeternum</em>. The company <a class=\"link\" href=\"https://www.engadget.com/amazon-is-winding-down-its-still-popular-new-world-mmo-amid-mass-layoffs-150500426.html\" target=\"_blank\">announced</a> in October that it would wind down support for the MMO, with the Nighthaven season "
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/netflixs-expanded-sony-deal-includes-streaming-rights-to-the-legend-of-zelda-movie-203011384.html?src=rss",
+        "title": "Netflix's expanded Sony deal includes streaming rights to the Legend of Zelda movie",
+        "link": "https://www.engadget.com/entertainment/streaming/netflixs-expanded-sony-deal-includes-streaming-rights-to-the-legend-of-zelda-movie-203011384.html?src=rss",
+        "published": "Thu, 15 Jan 2026 20:30:11 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>As part of a new agreement, films from Sony Pictures Entertainment will stream on Netflix first, the companies <a class=\"link\" href=\"https://about.netflix.com/en/news/netflix-and-sony-pictures-entertainment-enter-new-global-pay-1-deal\" target=\"_blank\">announced via a joint statement</a>. The new deal <a class=\"link\" href=\"https://www.engadget.com/sony-netflix-exclusive-deal-182221930.html\" target=\"_blank\">expands on the exclusive rights</a> Netflix had to Sony films in the US, and means the s"
+    },
+    {
+        "id": "https://www.zdnet.com/article/whisperpair-vulnerability-google-fast-pair-bluetooth-attack-audio-devices/",
+        "title": "Your Bluetooth headphones could be vulnerable to attack - here's what to do next",
+        "link": "https://www.zdnet.com/article/whisperpair-vulnerability-google-fast-pair-bluetooth-attack-audio-devices/",
+        "published": "Thu, 15 Jan 2026 20:22:00 GMT",
+        "source": "Latest news",
+        "summary": "Google Fast Pair offers the convenience of one-click accessory pairing, but its improper implementation has created a new security risk. See if your device is patched yet."
     }
 ]
