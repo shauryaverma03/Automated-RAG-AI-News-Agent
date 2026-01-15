@@ -58294,5 +58294,85 @@
         "published": "Thu, 15 Jan 2026 18:56:00 GMT",
         "source": "Latest news",
         "summary": "T-Mobile's Better Value plan starts at $140 a month for three lines, with a five-year price guarantee. Here's the fine print."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
+        "title": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
+        "link": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
+        "published": "Thu, 15 Jan 2026 19:28:45 +0000",
+        "source": "TechCrunch",
+        "summary": "Higgsfield says it's on a $200 million annual revenue run rate. So it opened its previous Series A round back up and sold another $80 million in shares."
+    },
+    {
+        "id": "https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted",
+        "title": "Amazon\u2019s New World: Aeternum MMO will shut down next year",
+        "link": "https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted",
+        "published": "2026-01-15T14:52:25-05:00",
+        "source": "The Verge",
+        "summary": "Amazon has announced that the servers for New World: Aeternum, one of the company's MMOs, will be shut down on January 31st, 2027. The game will also be delisted and no longer available for purchase starting today, January 15th. Last year, Amazon announced that it would be pivoting away from MMOs to put more of [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
+        "title": "Elon Musk\u2019s Grok \u2018Undressing\u2019 Problem Isn\u2019t Fixed",
+        "link": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
+        "published": "Thu, 15 Jan 2026 19:30:14 +0000",
+        "source": "WIRED",
+        "summary": "X has placed more restrictions on Grok\u2019s ability to generate explicit AI images, but tests show that the updates have created a patchwork of limitations that fail to fully address the issue."
+    },
+    {
+        "id": "https://www.wired.com/story/oneplus-watch-3-deal-126/",
+        "title": "Save $50 on the OnePlus Watch 3, Which Has Revolutionary Battery Tech",
+        "link": "https://www.wired.com/story/oneplus-watch-3-deal-126/",
+        "published": "Thu, 15 Jan 2026 19:24:56 +0000",
+        "source": "WIRED",
+        "summary": "Save some cash on this Wear OS smartwatch with a revolutionary battery that can go for five days on a charge (16 days on low-power mode)."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/",
+        "title": "Spotify\u2019s 3rd price hike in 2.5 years hints at potential new normal",
+        "link": "https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/",
+        "published": "Thu, 15 Jan 2026 19:22:07 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Spotify claims the higher fees will help \"benefit artists.\""
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/",
+        "title": "ChatGPT wrote \u201cGoodnight Moon\u201d suicide lullaby for man who later killed himself",
+        "link": "https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/",
+        "published": "Thu, 15 Jan 2026 19:07:09 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "ChatGPT used a man's favorite children's book to romanticize his suicide."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/democrats-ask-trumps-ftc-to-investigate-trump-mobiles-broken-promises/",
+        "title": "Six months later, Trump Mobile still hasn\u2019t delivered preordered phones",
+        "link": "https://arstechnica.com/tech-policy/2026/01/democrats-ask-trumps-ftc-to-investigate-trump-mobiles-broken-promises/",
+        "published": "Thu, 15 Jan 2026 18:54:57 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Lawmakers seek FTC investigation, but Trump has taken control of the agency."
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/flaw-in-17-google-fast-pair-audio-devices-could-let-hackers-eavesdrop-194613456.html?src=rss",
+        "title": "Flaw in 17 Google Fast Pair audio devices could let hackers eavesdrop",
+        "link": "https://www.engadget.com/cybersecurity/flaw-in-17-google-fast-pair-audio-devices-could-let-hackers-eavesdrop-194613456.html?src=rss",
+        "published": "Thu, 15 Jan 2026 19:46:13 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Now would be a good time to update all your Bluetooth audio devices. On Thursday, <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=fc65353f-45dc-4cd0-89be-ac2071680abb&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=8404957d-0b0f-4df4-be02-abfa15084dd2&amp;featureId=text-link&amp;merchantName=WIRED&amp;linkText=Wired+reported+on+a+security+flaw&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53aXJl"
+    },
+    {
+        "id": "https://github.com/juicedata/juicefs",
+        "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
+        "link": "https://github.com/juicedata/juicefs",
+        "published": "Thu, 15 Jan 2026 18:45:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46637165\">Comments</a>"
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=46635345",
+        "title": "Ask HN: How can we solve the loneliness epidemic?",
+        "link": "https://news.ycombinator.com/item?id=46635345",
+        "published": "Thu, 15 Jan 2026 16:49:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46635345\">Comments</a>"
     }
 ]
