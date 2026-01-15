@@ -58422,5 +58422,45 @@
         "published": "Thu, 15 Jan 2026 20:22:00 GMT",
         "source": "Latest news",
         "summary": "Google Fast Pair offers the convenience of one-click accessory pairing, but its improper implementation has created a new security risk. See if your device is patched yet."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
+        "title": "The AI lab revolving door spins ever faster",
+        "link": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
+        "published": "Thu, 15 Jan 2026 22:04:02 +0000",
+        "source": "TechCrunch",
+        "summary": "AI labs just can't get their employees to stay put."
+    },
+    {
+        "id": "https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors",
+        "title": "Asus says it&#8217;s dropping the RTX 5070 Ti as the memory shortage squeezes supply",
+        "link": "https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors",
+        "published": "2026-01-15T17:06:21-05:00",
+        "source": "The Verge",
+        "summary": "On Thursday, Hardware Unboxed reported that Asus is winding down production of its RTX 5070 Ti, saying, Asus \"explicitly told us this model is currently facing a supply shortage and, as such, they have placed the model into end-of-life status.\" They added that the same applies to Asus's 16GB RTX 5060 Ti, and mentioned how [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/862938/us-taiwan-chipmaking-deal-250-billion-investment-tsmc",
+        "title": "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing",
+        "link": "https://www.theverge.com/news/862938/us-taiwan-chipmaking-deal-250-billion-investment-tsmc",
+        "published": "2026-01-15T16:12:18-05:00",
+        "source": "The Verge",
+        "summary": "The US just lowered Taiwan's tariffs in exchange for a massive domestic chipmaking promise, the Commerce Department announced on Thursday. Under the deal, tariffs on goods from Taiwan will decrease from 20 to 15 percent, while Taiwanese technology companies will invest $250 billion into building and expanding chipmaking facilities in the US, supported by at [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/nolah-evolution-hybrid-mattress-sale-2026/",
+        "title": "Take an Extra $50 Off My Favorite Mattress With This Code",
+        "link": "https://www.wired.com/story/nolah-evolution-hybrid-mattress-sale-2026/",
+        "published": "Thu, 15 Jan 2026 21:43:57 +0000",
+        "source": "WIRED",
+        "summary": "Nolah's Evolution is the mattress I personally sleep on as a certified sleep coach, and it's on sale pre-Presidents' Day."
+    },
+    {
+        "id": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
+        "title": "Inside OpenAI\u2019s Raid on Thinking Machines Lab",
+        "link": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
+        "published": "Thu, 15 Jan 2026 21:14:23 +0000",
+        "source": "WIRED",
+        "summary": "OpenAI is planning to bring over more researchers from Thinking Machines Lab after nabbing two cofounders, a source familiar with the situation says. Plus, the latest efforts to automate jobs with AI."
     }
 ]
