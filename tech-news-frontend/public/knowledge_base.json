@@ -56558,5 +56558,109 @@
         "published": "Thu, 15 Jan 2026 00:30:46 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/Untitled-design-5.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Spacetech startup Aule Space has raised $2 Mn (about INR 18 Cr) in a pre-seed funding round led by deeptech&#8230;"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
+        "title": "Mira Murati\u2019s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
+        "link": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
+        "published": "Thu, 15 Jan 2026 02:16:37 +0000",
+        "source": "TechCrunch",
+        "summary": "The abrupt change in personnel was in the works for several weeks, according to an OpenAI executive."
+    },
+    {
+        "id": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+        "title": "Furiosa: 3.5x efficiency over H100s",
+        "link": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+        "published": "Thu, 15 Jan 2026 00:53:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46626410\">Comments</a>"
+    },
+    {
+        "id": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+        "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+        "link": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+        "published": "Thu, 15 Jan 2026 01:45:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46626836\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/verizon-outage-sos-phone-us/",
+        "title": "Verizon outage affects over 2 million users: What 'SOS' means, refunds, more updates",
+        "link": "https://www.zdnet.com/article/verizon-outage-sos-phone-us/",
+        "published": "Thu, 15 Jan 2026 02:10:00 GMT",
+        "source": "Latest news",
+        "summary": "If you see an SOS sign at the top of your phone, don't panic just yet. It's happening across the US."
+    },
+    {
+        "id": "https://www.zdnet.com/article/is-verizon-down-how-to-check-your-local-area/",
+        "title": "Is Verizon down? How to check your local area for outage problems, fixes, and more",
+        "link": "https://www.zdnet.com/article/is-verizon-down-how-to-check-your-local-area/",
+        "published": "Thu, 15 Jan 2026 01:49:00 GMT",
+        "source": "Latest news",
+        "summary": "If you're low (or completely out) of signal today, keep these pages in mind to stay up to date with the Verizon outage."
+    },
+    {
+        "id": "https://www.zdnet.com/article/fitbit-premium-ai-review/",
+        "title": "Are AI health coach subscriptions a scam? My verdict after testing Fitbit's for a month",
+        "link": "https://www.zdnet.com/article/fitbit-premium-ai-review/",
+        "published": "Thu, 15 Jan 2026 01:06:00 GMT",
+        "source": "Latest news",
+        "summary": "Is Fitbit Premium, and its Gemini smarts, enough to justify its price? Here's my buying advice."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/trump-embraces-ai-deepfakes-in-political-messaging/articleshow/126537108.cms",
+        "title": "Trump embraces AI deepfakes in political messaging",
+        "link": "https://economictimes.indiatimes.com/tech/technology/trump-embraces-ai-deepfakes-in-political-messaging/articleshow/126537108.cms",
+        "published": "Thu, 15 Jan 2026 08:07:06 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "From playing football in the Oval Office to sipping cocktails on a sun lounger in Gaza and attacking critics from a fighter jet, Donald Trump has become the first US president to deploy AI-generated imagery as a key tool of political communications. \"While it would in many ways be desirable for the president to stay above the fray and away from sharing AI-generated images, Trump has repeatedly demonstrated that he sees his time in office as a nonstop political campaign,\" Joshua Tucker, co-direct"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/alibaba-upgrades-qwen-app-to-order-food-book-travel/articleshow/126536986.cms",
+        "title": "Alibaba upgrades Qwen app to order food, book travel",
+        "link": "https://economictimes.indiatimes.com/tech/technology/alibaba-upgrades-qwen-app-to-order-food-book-travel/articleshow/126536986.cms",
+        "published": "Thu, 15 Jan 2026 07:47:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The new features, now in public testing in China, enable users to complete such tasks entirely within \u200cthe AI chat interface, \u200cwithout switching between applications."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/california-to-investigate-xai-over-grok-chatbot-images-officials-say/articleshow/126536934.cms",
+        "title": "California to investigate xAI over Grok chatbot images, officials say",
+        "link": "https://economictimes.indiatimes.com/tech/technology/california-to-investigate-xai-over-grok-chatbot-images-officials-say/articleshow/126536934.cms",
+        "published": "Thu, 15 Jan 2026 07:40:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Early \u200bthis year, hyper-realistic images of women processed to look like they were in microscopic bikinis, \u200cin degrading poses, or \u200dcovered in bruises flooded X, the site formerly known as Twitter. In \u200dsome cases, minors were digitally stripped down to swimwear."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/google-says-us-transmission-system-is-biggest-challenge-for-connecting-data-centers/articleshow/126536924.cms",
+        "title": "Google says US transmission system is biggest challenge for connecting data centers",
+        "link": "https://economictimes.indiatimes.com/tech/technology/google-says-us-transmission-system-is-biggest-challenge-for-connecting-data-centers/articleshow/126536924.cms",
+        "published": "Thu, 15 Jan 2026 07:38:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The world's largest technology companies are running up against the realities \u200cof the \u200ccountry's slow-moving power system as they race to access vast amounts of electricity for the expansion of energy-intensive \u200cdata centers, which are increasingly being used to train and roll out artificial intelligence."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/pync-calls-it-quits-shadowfax-ceo-on-d2c-shift/articleshow/126536584.cms",
+        "title": "Pync calls it quits; Shadowfax CEO on D2C shift",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/pync-calls-it-quits-shadowfax-ceo-on-d2c-shift/articleshow/126536584.cms",
+        "published": "Thu, 15 Jan 2026 07:04:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Thursday! Instant house-help startup Pync is shutting down and merging with rival Snabbit. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://inc42.com/buzz/growws-q3-snapshot-pee-safe-bags-32-mn-more/",
+        "title": "Groww\u2019s Q3 Snapshot, Pee Safe Bags $32 Mn & More",
+        "link": "https://inc42.com/buzz/growws-q3-snapshot-pee-safe-bags-32-mn-more/",
+        "published": "Thu, 15 Jan 2026 02:30:48 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Groww\u2019s Q3 Snapshot, Pee Safe Bags $32 Mn &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/FTR-Daily-Brief-2026-01-15T010108.434.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Groww\u2019s Bottom Line Fades In Q3 Groww delivered a volatile yet resilient performance in the third quarter of the ongoing&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/edtech-startup-emversity-raises-30-mn-to-scale-its-upskilling-programmes/",
+        "title": "Edtech Startup Emversity Raises $30 Mn To Scale Its Upskilling Programmes",
+        "link": "https://inc42.com/buzz/edtech-startup-emversity-raises-30-mn-to-scale-its-upskilling-programmes/",
+        "published": "Thu, 15 Jan 2026 01:00:17 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Ex-Unacademy COO\u2019s Startup Emversity Nets $5 Mn\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/04/eemversity-funding-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Edtech startup Emversity has raised $30 Mn (INR 271 Cr) in a Series A funding round led by Premji Invest,&#8230;"
     }
 ]
