@@ -60254,5 +60254,69 @@
         "published": "Fri, 16 Jan 2026 19:28:31 +0000",
         "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
         "summary": "<p>OpenAI plans to start testing ads inside of ChatGPT &quot;in the coming weeks.&quot; In a <a class=\"link\" href=\"https://openai.com/index/our-approach-to-advertising-and-expanding-access/\" target=\"_blank\">blog post published Friday</a>, the company said adult users in the US of its free and Go tiers (more on the latter in a moment) would start seeing sponsored products and services appear below their conversations with its chatbot. &quot;Ads will be clearly labeled and separated from the organ"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/",
+        "title": "TikTok quietly launches a micro drama app called \u2018PineDrama\u2019",
+        "link": "https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/",
+        "published": "Fri, 16 Jan 2026 21:11:11 +0000",
+        "source": "TechCrunch",
+        "summary": "Think TikTok, but every single video you come across is a short episode of a fictional story."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/",
+        "title": "EPA rules that xAI\u2019s natural gas generators were illegally used",
+        "link": "https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/",
+        "published": "Fri, 16 Jan 2026 20:49:18 +0000",
+        "source": "TechCrunch",
+        "summary": "Elon Musk's AI company had installed and operated 35 natural gas turbines without permits, something the EPA now says was illegal."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
+        "title": "From OpenAI\u2019s offices to a deal with Eli Lilly \u2014 how Chai Discovery became one of the flashiest names in AI drug development",
+        "link": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
+        "published": "Fri, 16 Jan 2026 20:14:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The startup has partnered with Eli Lilly and enjoys the backing of some of Silicon Valley's most influential VCs."
+    },
+    {
+        "id": "https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump",
+        "title": "Trump and Mid-Atlantic governors want tech companies to pay for new power plants",
+        "link": "https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump",
+        "published": "2026-01-16T15:51:18-05:00",
+        "source": "The Verge",
+        "summary": "The Trump administration and a bipartisan group of governors are pressuring the PJM Interconnection, the biggest electricity market in the US, to hold a power auction meant to spur a massive buildout of new power plants. Together, they're \"urging\" PJM to hold an \"emergency\" auction for companies to procure electricity over 15-year contracts. The unusually [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block",
+        "title": "Fortnite blocks creators from selling prize wheel spins",
+        "link": "https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block",
+        "published": "2026-01-16T15:20:42-05:00",
+        "source": "The Verge",
+        "summary": "Epic Games is making a big change to the rules for Fortnite creators just days after allowing them to publish experiences with in-game transactions. Beginning January 20th, experiences - which Epic Games calls \"islands\" - will not be able to offer in-island transactions as \"a 'spin' or 'increased luck' for a prize wheel,\" according to [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/ram-shortage-chaos-expands-to-gpus-high-capacity-ssds-and-even-hard-drives/",
+        "title": "RAM shortage chaos expands to GPUs, high-capacity SSDs, and even hard drives",
+        "link": "https://arstechnica.com/gadgets/2026/01/ram-shortage-chaos-expands-to-gpus-high-capacity-ssds-and-even-hard-drives/",
+        "published": "Fri, 16 Jan 2026 19:56:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "GPU makers may prioritize more profitable models; large SSDs are harder to find."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/verizon-frontier-to-complete-10b-merger-after-approvals-from-fcc-and-states/",
+        "title": "Calif. counters FCC attack on DEI with conditions on Verizon/Frontier merger",
+        "link": "https://arstechnica.com/tech-policy/2026/01/verizon-frontier-to-complete-10b-merger-after-approvals-from-fcc-and-states/",
+        "published": "Fri, 16 Jan 2026 19:12:04 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Verizon touts \"expanded reach of almost 30 million fiber passings\" across US."
+    },
+    {
+        "id": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+        "title": "Cursor's latest \"browser experiment\" implied success without evidence",
+        "link": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+        "published": "Fri, 16 Jan 2026 14:37:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46646777\">Comments</a>"
     }
 ]
