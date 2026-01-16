@@ -60318,5 +60318,77 @@
         "published": "Fri, 16 Jan 2026 14:37:49 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46646777\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/",
+        "title": "Snowflake, Databricks challenger Clickhouse hits $15B valuation",
+        "link": "https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/",
+        "published": "Fri, 16 Jan 2026 22:05:08 +0000",
+        "source": "TechCrunch",
+        "summary": "The $400 million round was led by Dragoneer."
+    },
+    {
+        "id": "https://www.wired.com/story/jackery-explorer-300-plus-deal-126/",
+        "title": "Our Favorite Compact Power Station Is on Sale for 33% Off",
+        "link": "https://www.wired.com/story/jackery-explorer-300-plus-deal-126/",
+        "published": "Fri, 16 Jan 2026 21:10:17 +0000",
+        "source": "WIRED",
+        "summary": "This little power station can keep your stuff topped up, plus you can save some cash on solar panels."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/",
+        "title": "This may be the grossest eye pic ever\u2014but the cause is what\u2019s truly horrifying",
+        "link": "https://arstechnica.com/health/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/",
+        "published": "Fri, 16 Jan 2026 21:32:13 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Hypervirulent germ nearly destroys man, invading brain and blowing out an eye."
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
+        "title": "OpenAI to test ads in ChatGPT as it burns through billions",
+        "link": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
+        "published": "Fri, 16 Jan 2026 21:20:03 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Ads coming to free tier and new $8/month ChatGPT Go plan in US."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/01/mandiant-releases-rainbow-table-that-cracks-weak-admin-password-in-12-hours/",
+        "title": "Mandiant releases rainbow table that cracks weak admin password in 12 hours",
+        "link": "https://arstechnica.com/security/2026/01/mandiant-releases-rainbow-table-that-cracks-weak-admin-password-in-12-hours/",
+        "published": "Fri, 16 Jan 2026 21:05:37 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Windows laggards still using the vulnerable hashing function: Your days are numbered."
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/google-is-appealing-the-ruling-from-its-search-antitrust-case-to-avoid-sharing-data-with-rivals-215107905.html?src=rss",
+        "title": "Google is appealing the ruling from its search antitrust case to avoid sharing data with rivals",
+        "link": "https://www.engadget.com/big-tech/google-is-appealing-the-ruling-from-its-search-antitrust-case-to-avoid-sharing-data-with-rivals-215107905.html?src=rss",
+        "published": "Fri, 16 Jan 2026 21:51:07 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google <a class=\"link\" href=\"https://blog.google/company-news/outreach-and-initiatives/public-policy/why-were-appealing-the-doj-search-distribution-case/\" target=\"_blank\">has filed its appeal</a> to the Department of Justice\u2019s antitrust case that ended with <a class=\"link\" href=\"https://www.engadget.com/big-tech/google-is-a-monopolist-in-search-us-judge-rules-in-antitrust-case-193358356.html\" target=\"_blank\">a federal judge ruling</a> that the company was maintaining a monopoly with its searc"
+    },
+    {
+        "id": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+        "title": "East Germany balloon escape",
+        "link": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+        "published": "Fri, 16 Jan 2026 17:16:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46648916\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/chat-gpt-go/",
+        "title": "ChatGPT's $8 subscription comes to the US: How Go compares to Plus and Pro",
+        "link": "https://www.zdnet.com/article/chat-gpt-go/",
+        "published": "Fri, 16 Jan 2026 21:26:50 GMT",
+        "source": "Latest news",
+        "summary": "Here's how ChatGPT Go stacks up against OpenAI's other offerings."
+    },
+    {
+        "id": "https://www.zdnet.com/article/naya-connect-keyboard-hands-on/",
+        "title": "I tried the viral never-ending modular keyboard, and it rewired my productivity for good",
+        "link": "https://www.zdnet.com/article/naya-connect-keyboard-hands-on/",
+        "published": "Fri, 16 Jan 2026 21:12:34 GMT",
+        "source": "Latest news",
+        "summary": "Naya is taking to Kickstarter to fund its second product launch - a modular keyboard that connects with its module lineup."
     }
 ]
