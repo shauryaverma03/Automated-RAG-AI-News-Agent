@@ -60390,5 +60390,53 @@
         "published": "Fri, 16 Jan 2026 21:12:34 GMT",
         "source": "Latest news",
         "summary": "Naya is taking to Kickstarter to fund its second product launch - a modular keyboard that connects with its module lineup."
+    },
+    {
+        "id": "https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal",
+        "title": "Google is appealing a judge\u2019s search monopoly ruling",
+        "link": "https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal",
+        "published": "2026-01-16T17:36:55-05:00",
+        "source": "The Verge",
+        "summary": "Google is appealing a federal court's decision ruling it an illegal online search monopolist. The company filed a notice to appeal on Friday, requesting a pause on the court-ordered remedies meant to restore competition to the online search market. \"As we have long said, the Court's August 2024 ruling ignored the reality that people use [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/the-campaign-to-destroy-renee-good/",
+        "title": "The Campaign to Destroy Renee Good",
+        "link": "https://www.wired.com/story/the-campaign-to-destroy-renee-good/",
+        "published": "Fri, 16 Jan 2026 22:37:01 +0000",
+        "source": "WIRED",
+        "summary": "After an ICE agent shot and killed the Minneapolis mother, conservative media launched an all-out attack on her reputation. Her identity as a queer woman was central to it."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/",
+        "title": "Archaeologists find a supersized medieval shipwreck in Denmark",
+        "link": "https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/",
+        "published": "Fri, 16 Jan 2026 22:07:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The sunken ship reveals that the medieval European economy was growing fast."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/",
+        "title": "Judge orders Anna\u2019s Archive to delete scraped data; no one thinks it will comply",
+        "link": "https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/",
+        "published": "Fri, 16 Jan 2026 21:43:22 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "WorldCat operator hopes default judgment will convince web hosts to take action."
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html?src=rss",
+        "title": "The best VPN service for 2026",
+        "link": "https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html?src=rss",
+        "published": "Fri, 16 Jan 2026 22:36:39 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>As frustrating as it is that governments and businesses are running roughshod over our online freedoms, at least we have plenty of good VPNs to choose from to keep us protected online. There are so many fast, intelligently designed, full-featured and affordable services on the market that the biggest problem is picking one. For any use case, you can bet at least two providers will be neck-and-neck for first place.<br /><br />On the other hand, the VPN world is still the Wild West in some ways"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/x-is-fully-online-after-going-down-for-most-of-the-morning-171843711.html?src=rss",
+        "title": "X is fully online after going down for most of the morning",
+        "link": "https://www.engadget.com/social-media/x-is-fully-online-after-going-down-for-most-of-the-morning-171843711.html?src=rss",
+        "published": "Fri, 16 Jan 2026 22:10:01 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>X seems to be working again after struggling with an outage that took the service offline and made it slow to load for much of the morning. According to X\u2019s developer platform <a class=\"link\" href=\"https://docs.x.com/status\" target=\"_blank\">page</a>,  there is an <a class=\"link\" href=\"https://docs.x.com/incidents\" target=\"_blank\">ongoing incident</a> related to streaming endpoints that\u2019s caused increased errors. The incident started at 7:39AM PT, according to the page.</p><p>That roughly coin"
     }
 ]
