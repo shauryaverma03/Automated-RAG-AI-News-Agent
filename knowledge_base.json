@@ -60182,5 +60182,77 @@
         "published": "Fri, 16 Jan 2026 08:10:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Can sustainable fashion in India scale beyond a niche? Explore the business case, startup impact, and the real cost of fast fashion."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/16/supreme-court-hacker-posted-stolen-government-data-on-instagram/",
+        "title": "Supreme Court hacker posted stolen government data on Instagram",
+        "link": "https://techcrunch.com/2026/01/16/supreme-court-hacker-posted-stolen-government-data-on-instagram/",
+        "published": "Fri, 16 Jan 2026 20:01:12 +0000",
+        "source": "TechCrunch",
+        "summary": "Nicholas Moore pleaded guilty to stealing victims\u2019 information from the Supreme Court and other federal government agencies, and then posting it on his Instagram @ihackthegovernment."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
+        "title": "ChatGPT users are about to get hit with targeted ads",
+        "link": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
+        "published": "Fri, 16 Jan 2026 19:54:19 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI says that users impacted by the ads will have some control over what they see."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/",
+        "title": "Trump administration wants tech companies to buy $15B of power plants they may not use",
+        "link": "https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/",
+        "published": "Fri, 16 Jan 2026 19:38:27 +0000",
+        "source": "TechCrunch",
+        "summary": "In an attempt to alleviate rising electricity prices, the White House wants grid operator PJM to hold an auction for new generating capacity, and it wants tech companies to bid."
+    },
+    {
+        "id": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
+        "title": "Google brings its AI videomaker to Workspace users",
+        "link": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
+        "published": "2026-01-16T14:37:52-05:00",
+        "source": "The Verge",
+        "summary": "Google is expanding access to its AI videomaking tool. Launched last May, Flow was initially only available to Google AI Pro and AI Ultra subscribers, but now, those with Business, Enterprise, and Education Workspace plans can access it, too. Flow uses Google's AI video generation model Veo 3.1 to generate eight-second clips based on a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/862861/amd-ces-2026-socketed-laptop-chips-strix-halo-price",
+        "title": "The two things AMD subtly revealed at CES that actually excite me",
+        "link": "https://www.theverge.com/tech/862861/amd-ces-2026-socketed-laptop-chips-strix-halo-price",
+        "published": "2026-01-16T14:25:12-05:00",
+        "source": "The Verge",
+        "summary": "As we predicted, the world's biggest consumer electronics show was a bit of a bust for gamers this year! CES 2026 brought us several neat gamepads, but barely any handhelds and no new desktop GPUs - not from Nvidia, not from Intel, and not from AMD. But if you dig deep, AMD said two things [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/deals/get-up-to-78-percent-off-expressvpn-two-year-plans-180602525.html?src=rss",
+        "title": "Get up to 78 percent off ExpressVPN two-year plans",
+        "link": "https://www.engadget.com/deals/get-up-to-78-percent-off-expressvpn-two-year-plans-180602525.html?src=rss",
+        "published": "Fri, 16 Jan 2026 20:05:37 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>If you're looking to up your privacy game on the internet in the new year, you can do so for a little less than usual thanks to <a href=\"https://checkout.expressvpn.com/order\">ExpressVPN's</a> latest deal. Its two-year plans are up to 78 percent off right now: the Advanced tier is on sale for $101 for two years, plus four additional free months. That works out to $3.59 per month during the promotional period.</p> \n<p>We\u2019ve consistently liked ExpressVPN because it\u2019s fast, easy to use and widel"
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/vpn/cyberghost-vpn-review-despite-its-flaws-the-value-is-hard-to-beat-200000250.html?src=rss",
+        "title": "CyberGhost VPN review: Despite its flaws, the value is hard to beat",
+        "link": "https://www.engadget.com/cybersecurity/vpn/cyberghost-vpn-review-despite-its-flaws-the-value-is-hard-to-beat-200000250.html?src=rss",
+        "published": "Fri, 16 Jan 2026 20:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>CyberGhost is the middle child of the Kape Technologies VPN portfolio, but in quality, it's much closer to ExpressVPN than Private Internet Access. I mainly put it on my <a class=\"link\" href=\"https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html\" target=\"_blank\">best VPN</a> list because it's so cheap, but I wouldn't have done that if it didn't earn its place in other ways \u2014 affordable crap is still crap, after all.</p>\n<p>My universal impression of CyberGhost is a VPN that's not"
+    },
+    {
+        "id": "https://www.engadget.com/ai/anthropic-opens-up-its-claude-cowork-feature-to-anyone-with-a-20-subscription-194000021.html?src=rss",
+        "title": "Anthropic opens up its Claude Cowork feature to anyone with a $20 subscription",
+        "link": "https://www.engadget.com/ai/anthropic-opens-up-its-claude-cowork-feature-to-anyone-with-a-20-subscription-194000021.html?src=rss",
+        "published": "Fri, 16 Jan 2026 19:40:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link\" href=\"https://www.engadget.com/ai/anthropic-launches-claude-cowork-a-version-of-its-coding-ai-for-regular-people-193000849.html\" target=\"_blank\">Claude Cowork</a>, Anthropic's AI assistant for taking care of simple tasks on your computer, is <a class=\"link\" href=\"https://x.com/claudeai/status/2012215329070493971?s=20\" target=\"_blank\">now available</a> for anyone with a $20 per month Pro subscription to try. Anthropic launched Cowork as an exclusive feature for its <a class=\"li"
+    },
+    {
+        "id": "https://www.engadget.com/ai/openai-is-bringing-ads-to-chatgpt-192831449.html?src=rss",
+        "title": "OpenAI is bringing ads to ChatGPT",
+        "link": "https://www.engadget.com/ai/openai-is-bringing-ads-to-chatgpt-192831449.html?src=rss",
+        "published": "Fri, 16 Jan 2026 19:28:31 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>OpenAI plans to start testing ads inside of ChatGPT &quot;in the coming weeks.&quot; In a <a class=\"link\" href=\"https://openai.com/index/our-approach-to-advertising-and-expanding-access/\" target=\"_blank\">blog post published Friday</a>, the company said adult users in the US of its free and Go tiers (more on the latter in a moment) would start seeing sponsored products and services appear below their conversations with its chatbot. &quot;Ads will be clearly labeled and separated from the organ"
     }
 ]
