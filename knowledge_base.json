@@ -58838,5 +58838,45 @@
         "published": "Fri, 16 Jan 2026 03:40:36 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The company noted that it is on track to report over Rs 750 crore in adjusted net revenue in the second half of FY26."
+    },
+    {
+        "id": "https://www.theverge.com/column/861948/casting-netflix-dead",
+        "title": "Casting is dead. Long live casting!",
+        "link": "https://www.theverge.com/column/861948/casting-netflix-dead",
+        "published": "2026-01-15T23:30:00-05:00",
+        "source": "The Verge",
+        "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Last month, Netflix made the surprising decision to kill off a key feature: With no prior warning, the company removed the ability to cast videos from its mobile apps to [&#8230;]"
+    },
+    {
+        "id": "https://www.bbc.com/news/articles/cly56w0p9e1o",
+        "title": "Boeing knew of flaw in part linked to UPS plane crash",
+        "link": "https://www.bbc.com/news/articles/cly56w0p9e1o",
+        "published": "Fri, 16 Jan 2026 04:11:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46642920\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ccpa-fines-meta-amazon-flipkart-meesho-rs-10-lakh-each-for-illegal-walkie-talkie-sales/articleshow/126557280.cms",
+        "title": "CCPA fines Meta, Amazon, Flipkart, Meesho Rs 10 lakh each for illegal walkie-talkie sales",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ccpa-fines-meta-amazon-flipkart-meesho-rs-10-lakh-each-for-illegal-walkie-talkie-sales/articleshow/126557280.cms",
+        "published": "Fri, 16 Jan 2026 09:58:16 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Central Consumer Protection Authority (CCPA) has initiated suo motu action against e-commerce platforms for listing and selling unauthorised walkie-talkies in violation of the Consumer Protection Act, 2019 and telecom laws, issuing final orders against eight entities and imposing penalties totalling Rs 44 lakh."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/walmart-international-chief-kathryn-mclay-to-step-down-after-two-years/articleshow/126556984.cms",
+        "title": "Walmart International chief Kathryn McLay to step down after two years",
+        "link": "https://economictimes.indiatimes.com/tech/technology/walmart-international-chief-kathryn-mclay-to-step-down-after-two-years/articleshow/126556984.cms",
+        "published": "Fri, 16 Jan 2026 09:38:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Kathryn McLay will step down as CEO \u200cof its Walmart \u200cInternational unit on January 31 but will remain with the company through the first quarter \u200cto help ensure a smooth transition. McLay's departure comes two months after the Bentonville, Arkansas-based retailer announced that its CEO of 12 years, Doug McMillon, \u200bwould be stepping down and succeeded by \u200bUS division chief John Furner."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/irina-ghose-joins-anthropic-as-india-md/articleshow/126556818.cms",
+        "title": "Anthropic appoints Irina Ghose as India MD",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/irina-ghose-joins-anthropic-as-india-md/articleshow/126556818.cms",
+        "published": "Fri, 16 Jan 2026 09:18:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The AI company plans to open its Bengaluru office in February. India is Anthropic's second-largest market, only behind the US, and the company had revealed plans to open an office here and hire for multiple roles last year. The large language model (LLM) startup also plans to partner with conglomerates, healthcare institutions, education organisations and startup accelerators to develop locally relevant AI applications in India."
     }
 ]
