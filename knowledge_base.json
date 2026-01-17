@@ -60782,5 +60782,53 @@
         "published": "Fri, 16 Jan 2026 08:13:37 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Some of the world\u2019s most influential companies were not born from perfect planning or flawless foresight. Instead, they emerged from errors"
+    },
+    {
+        "id": "https://www.wired.com/story/gear-news-of-the-week-kia-shows-off-the-ev2-and-fujifilm-debuts-new-instax-cameras/",
+        "title": "Gear News of the Week: Kia Shows off the EV2, and Fujifilm Debuts New Instax Cameras",
+        "link": "https://www.wired.com/story/gear-news-of-the-week-kia-shows-off-the-ev2-and-fujifilm-debuts-new-instax-cameras/",
+        "published": "Sat, 17 Jan 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Plus: Fender rebrands its PreSonus music production app, Ricoh unveils a monochrome camera, and Omega has a new Speedmaster."
+    },
+    {
+        "id": "https://www.wired.com/gallery/the-best-mattresses-for-back-pain/",
+        "title": "The Best Mattress for Back Pain: 7 Top Options We Tested (2025)",
+        "link": "https://www.wired.com/gallery/the-best-mattresses-for-back-pain/",
+        "published": "Sat, 17 Jan 2026 10:36:00 +0000",
+        "source": "WIRED",
+        "summary": "Struggling with back pain while you sleep or when you wake up in the morning? These mattresses can help with that."
+    },
+    {
+        "id": "https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/",
+        "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news",
+        "link": "https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/",
+        "published": "Sat, 17 Jan 2026 10:29:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46656911\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/originalankur/maptoposter",
+        "title": "Map To Poster \u2013 Create Art of your favourite city",
+        "link": "https://github.com/originalankur/maptoposter",
+        "published": "Sat, 17 Jan 2026 10:13:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46656834\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/PABannier/WSIStreamer",
+        "title": "Show HN: Streaming gigabyte medical images from S3 without downloading them",
+        "link": "https://github.com/PABannier/WSIStreamer",
+        "published": "Sat, 17 Jan 2026 08:46:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46656358\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/hdr10-vs-hdr-10-plus-vs-dolby-vision/",
+        "title": "HDR10 vs. HDR 10+ vs. Dolby Vision: Which format works best for your TV?",
+        "link": "https://www.zdnet.com/article/hdr10-vs-hdr-10-plus-vs-dolby-vision/",
+        "published": "Sat, 17 Jan 2026 11:00:44 GMT",
+        "source": "Latest news",
+        "summary": "Confused by HDR10, HDR10+, and Dolby Vision? Here's how to pick the right TV with the best HDR format."
     }
 ]
