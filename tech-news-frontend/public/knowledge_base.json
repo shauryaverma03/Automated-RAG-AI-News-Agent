@@ -60438,5 +60438,93 @@
         "published": "Fri, 16 Jan 2026 22:10:01 +0000",
         "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
         "summary": "<p>X seems to be working again after struggling with an outage that took the service offline and made it slow to load for much of the morning. According to X\u2019s developer platform <a class=\"link\" href=\"https://docs.x.com/status\" target=\"_blank\">page</a>,  there is an <a class=\"link\" href=\"https://docs.x.com/incidents\" target=\"_blank\">ongoing incident</a> related to streaming endpoints that\u2019s caused increased errors. The incident started at 7:39AM PT, according to the page.</p><p>That roughly coin"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
+        "title": "AI cloud startup Runpod hits $120M in ARR \u2014 and it started with a Reddit post",
+        "link": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
+        "published": "Fri, 16 Jan 2026 23:46:33 +0000",
+        "source": "TechCrunch",
+        "summary": "Their startup\u00a0journey\u00a0is a wild example of how if you build it well and the timing is lucky, they will definitely come."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
+        "title": "California AG sends Musk\u2019s xAI a cease-and-desist order over sexual deepfakes",
+        "link": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
+        "published": "Fri, 16 Jan 2026 23:21:24 +0000",
+        "source": "TechCrunch",
+        "summary": "The flood of AI-generated sexual imagery has spurred concern from state and congressional officials alike."
+    },
+    {
+        "id": "https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/",
+        "title": "Thinking Machines Cofounder\u2019s Office Relationship Preceded His Termination",
+        "link": "https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/",
+        "published": "Sat, 17 Jan 2026 00:40:41 +0000",
+        "source": "WIRED",
+        "summary": "Leaders at Mira Murati\u2019s startup believe Barret Zoph engaged in an incident of \u201cserious misconduct.\u201d The details are now coming to light."
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/",
+        "title": "Rackspace customers grapple with \u201cdevastating\u201d email hosting price hike",
+        "link": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/",
+        "published": "Fri, 16 Jan 2026 23:15:27 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Reseller says Rackspace plans to charge it 706 percent more."
+    },
+    {
+        "id": "https://arstechnica.com/features/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/",
+        "title": "This may be the grossest eye pic ever\u2014but the cause is what\u2019s truly horrifying",
+        "link": "https://arstechnica.com/features/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/",
+        "published": "Fri, 16 Jan 2026 21:32:13 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Hypervirulent germ nearly destroys man, invading brain and blowing out an eye."
+    },
+    {
+        "id": "https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades",
+        "title": "Left in the cold: Study finds most renters shut out of energy-saving upgrades",
+        "link": "https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades",
+        "published": "Fri, 16 Jan 2026 23:35:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46653653\">Comments</a>"
+    },
+    {
+        "id": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+        "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
+        "link": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+        "published": "Fri, 16 Jan 2026 21:42:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46652617\">Comments</a>"
+    },
+    {
+        "id": "https://nanonets.com/cookbooks/structured-llm-outputs",
+        "title": "LLM Structured Outputs Handbook",
+        "link": "https://nanonets.com/cookbooks/structured-llm-outputs",
+        "published": "Thu, 15 Jan 2026 16:46:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46635309\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tech-mahindra-posts-strongest-december-quarter-in-three-years/articleshow/126591341.cms",
+        "title": "Tech Mahindra posts strongest December quarter in three years",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tech-mahindra-posts-strongest-december-quarter-in-three-years/articleshow/126591341.cms",
+        "published": "Sat, 17 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tech Mahindra posted its strongest quarterly performance in three years, with net profit rising 14% year-on-year to Rs 1,122 crore and revenue up 8% to Rs 14,393 crore, supported by large deal wins and core vertical growth. Margins improved for the ninth consecutive quarter, aided by operational efficiencies and AI-led initiatives. Headcount fell to 149,616 as hiring slowed."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/quick-commerce-market-heats-up-blinkit-drops-delivery-fees-in-select-markets/articleshow/126590779.cms",
+        "title": "Quick commerce market heats up; Blinkit drops delivery fees in select markets",
+        "link": "https://economictimes.indiatimes.com/tech/technology/quick-commerce-market-heats-up-blinkit-drops-delivery-fees-in-select-markets/articleshow/126590779.cms",
+        "published": "Sat, 17 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Blinkit has cut delivery fees in select micro-markets like Gurgaon, Bengaluru and Mumbai to stay competitive against Amazon Now and Flipkart Minutes. Other quick commerce players, including Zepto and Instamart, had already reduced charges. The move aims to retain customers as rapid expansion and dark store growth intensify market competition."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/dealmaking-via-mauritius-may-be-a-road-less-taken/articleshow/126590422.cms",
+        "title": "Dealmaking via Mauritius may be a road less taken",
+        "link": "https://economictimes.indiatimes.com/tech/technology/dealmaking-via-mauritius-may-be-a-road-less-taken/articleshow/126590422.cms",
+        "published": "Sat, 17 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Supreme Court\u2019s ruling against Tiger Global could reshape how foreign investors use Mauritius-based entities to invest in India. Funds must now show genuine \u201csubstance\u201d in these jurisdictions, or face Indian tax scrutiny. The verdict may also affect other treaty-based investments and indirect share transfers in Indian companies."
     }
 ]
