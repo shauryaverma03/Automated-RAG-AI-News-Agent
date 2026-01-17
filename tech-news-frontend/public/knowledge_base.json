@@ -61270,5 +61270,21 @@
         "published": "Sat, 17 Jan 2026 17:48:06 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46660134\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/whispem/minikv",
+        "title": "Show HN: Minikv \u2013 Distributed key-value and object store in Rust (Raft, S3 API)",
+        "link": "https://github.com/whispem/minikv",
+        "published": "Sat, 17 Jan 2026 19:39:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46661308\">Comments</a>"
+    },
+    {
+        "id": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
+        "title": "An Elizabethan mansion's secrets for staying warm",
+        "link": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
+        "published": "Sat, 17 Jan 2026 16:53:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46659550\">Comments</a>"
     }
 ]
