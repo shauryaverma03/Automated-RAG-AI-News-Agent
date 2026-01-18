@@ -61406,5 +61406,45 @@
         "published": "Sun, 18 Jan 2026 03:49:29 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46664638\">Comments</a>"
+    },
+    {
+        "id": "https://twitter.com/neelsomani/status/2012695714187325745",
+        "title": "Erdos 281 solved with ChatGPT 5.2 Pro",
+        "link": "https://twitter.com/neelsomani/status/2012695714187325745",
+        "published": "Sun, 18 Jan 2026 03:48:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46664631\">Comments</a>"
+    },
+    {
+        "id": "https://www.anthropic.com/news/accelerating-scientific-research",
+        "title": "How scientists are using Claude to accelerate research and discovery",
+        "link": "https://www.anthropic.com/news/accelerating-scientific-research",
+        "published": "Sun, 18 Jan 2026 03:22:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46664540\">Comments</a>"
+    },
+    {
+        "id": "https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives",
+        "title": "No knives, only cook knives",
+        "link": "https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives",
+        "published": "Sat, 17 Jan 2026 23:38:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46663268\">Comments</a>"
+    },
+    {
+        "id": "https://www.abelard.org/asimov.php",
+        "title": "Profession by Isaac Asimov",
+        "link": "https://www.abelard.org/asimov.php",
+        "published": "Sun, 18 Jan 2026 02:17:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46664195\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-in-universities-what-is-driving-professors-to-develop-custom-assistants/articleshow/126637353.cms",
+        "title": "AI in universities: What is driving professors to develop custom assistants?",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-in-universities-what-is-driving-professors-to-develop-custom-assistants/articleshow/126637353.cms",
+        "published": "Sun, 18 Jan 2026 10:22:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Universities are grappling with generative AI. Some ban it, others embrace it. Professors at George Washington University are creating custom AI teaching assistants. These tools help students with research and writing. This approach aims to teach AI literacy responsibly. It offers a controlled environment for learning."
     }
 ]
