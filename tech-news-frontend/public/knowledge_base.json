@@ -61542,5 +61542,45 @@
         "published": "Sun, 18 Jan 2026 05:38:39 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we showcase a range of artworks from the Museum of Goa."
+    },
+    {
+        "id": "https://www.wired.com/review/personal-comfort-rejuvenate/",
+        "title": "Personal Comfort\u2019s the Rejuvenate Review: Have It Your Way",
+        "link": "https://www.wired.com/review/personal-comfort-rejuvenate/",
+        "published": "Sun, 18 Jan 2026 10:04:00 +0000",
+        "source": "WIRED",
+        "summary": "Memory foam layers, 45 firmness levels, and a library of specialty size options set this adjustable mattress apart."
+    },
+    {
+        "id": "https://github.com/gibram-io/gibram",
+        "title": "Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval",
+        "link": "https://github.com/gibram-io/gibram",
+        "published": "Sun, 18 Jan 2026 06:47:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46665393\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/exl-eyes-two-new-india-centres-as-ai-spend-set-to-rise-in-2026/articleshow/126641297.cms",
+        "title": "EXL eyes two new India centres as AI spend set to rise in 2026",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/exl-eyes-two-new-india-centres-as-ai-spend-set-to-rise-in-2026/articleshow/126641297.cms",
+        "published": "Sun, 18 Jan 2026 15:28:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Exlservice Holdings is set to open two new centers in smaller Indian cities this year. The data and AI company aims to tap into better infrastructure and talent outside major metros. This expansion aligns with rising global IT spends focused on AI, infrastructure, and cybersecurity."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-adoption-outpaces-training-71-professionals-expect-role-changes-report/articleshow/126640163.cms",
+        "title": "AI adoption outpaces training; 71% professionals expect role changes: Report",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-adoption-outpaces-training-71-professionals-expect-role-changes-report/articleshow/126640163.cms",
+        "published": "Sun, 18 Jan 2026 15:20:34 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Artificial Intelligence is rapidly changing workplaces. Many professionals expect their jobs to evolve significantly in the coming years due to AI. However, a large number feel their companies are not providing adequate training on AI tools. This lack of guidance leads to uncertainty about AI's role."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/market-participants-seek-capital-gains-tax-relief-ahead-of-union-budget",
+        "title": "Market participants seek capital gains tax relief ahead of Union Budget",
+        "link": "https://yourstory.com/2026/01/market-participants-seek-capital-gains-tax-relief-ahead-of-union-budget",
+        "published": "Sun, 18 Jan 2026 09:31:56 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Market stakeholders also demanded enhancement of the tax-free exemption limit on long-term capital gains (LTCG) from equity investments to provide greater relief to retail and long-term investors.\nFinance Minister Nirmala Sitharaman is set to present th"
     }
 ]
