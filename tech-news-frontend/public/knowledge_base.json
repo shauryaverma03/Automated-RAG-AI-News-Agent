@@ -61982,5 +61982,21 @@
         "published": "Sun, 18 Jan 2026 17:53:21 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46670181\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/computing/microsoft-issues-emergency-fix-afer-a-security-update-left-some-windows-11-devices-unable-to-shut-down-192216734.html?src=rss",
+        "title": "Microsoft issues emergency fix after a security update left some Windows 11 devices unable to shut down",
+        "link": "https://www.engadget.com/computing/microsoft-issues-emergency-fix-afer-a-security-update-left-some-windows-11-devices-unable-to-shut-down-192216734.html?src=rss",
+        "published": "Sun, 18 Jan 2026 19:22:16 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>If you weren't able to shut down your Windows 11 device recently, Microsoft has rolled out an <a class=\"no-affiliate-link\" href=\"https://learn.microsoft.com/en-us/windows/release-health/windows-message-center#3763\">emergency fix</a> addressing a couple of critical bugs that popped up with its latest January 2026 Windows security update. The latest &quot;out-of-band&quot; update repairs an issue for some Windows 11 devices that would only restart when users tried to shut down or hibernate. The"
+    },
+    {
+        "id": "https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614",
+        "title": "Breaking the Zimmermann Telegram (2018)",
+        "link": "https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614",
+        "published": "Sun, 18 Jan 2026 19:19:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46671174\">Comments</a>"
     }
 ]
