@@ -61334,5 +61334,37 @@
         "published": "Sat, 17 Jan 2026 22:19:25 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46662662\">Comments</a>"
+    },
+    {
+        "id": "https://xous.dev/",
+        "title": "Xous Operating System",
+        "link": "https://xous.dev/",
+        "published": "Wed, 14 Jan 2026 17:29:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46619059\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/windows-11-home-vs-windows-11-pro/",
+        "title": "Windows 11 Home vs. Windows 11 Pro: I compared both versions, and here's my upgrade advice",
+        "link": "https://www.zdnet.com/article/windows-11-home-vs-windows-11-pro/",
+        "published": "Sun, 18 Jan 2026 00:00:39 GMT",
+        "source": "Latest news",
+        "summary": "Windows 11 Pro gives you greater control over settings, but is it worth the extra cost? I break down the differences between the two systems."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/in-a-cooling-job-market-ai-pros-still-hold-the-cards/articleshow/126624727.cms",
+        "title": "In a cooling job market, AI pros still hold the cards",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/in-a-cooling-job-market-ai-pros-still-hold-the-cards/articleshow/126624727.cms",
+        "published": "Sun, 18 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI professionals are getting not just multiple offers but also counter-offers from existing employers and big incentives. New job offers and counteroffers currently come with 25-70% pay hikes for AI professionals, executives at search firms and recruitment services firms said. This trend is only going to get stronger in 2026, they told ET."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/indias-big-it-ends-recruitment-freeze-but-only-for-niche-skills/articleshow/126623927.cms",
+        "title": "India\u2019s big IT ends recruitment freeze, but only for niche skills",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/indias-big-it-ends-recruitment-freeze-but-only-for-niche-skills/articleshow/126623927.cms",
+        "published": "Sun, 18 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India\u2019s top five IT companies added 2,505 employees to their combined headcount in calendar year 2025, after shedding nearly the same number the year before, reflecting selective and skill-based hiring."
     }
 ]
