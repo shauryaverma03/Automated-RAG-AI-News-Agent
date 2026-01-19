@@ -62238,5 +62238,37 @@
         "published": "Mon, 19 Jan 2026 04:10:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Learn how to write a modern startup business plan in 2026 that clarifies strategy, tests assumptions, and earns investor confidence."
+    },
+    {
+        "id": "https://rijnard.com/blog/the-code-only-agent",
+        "title": "The Code-Only Agent",
+        "link": "https://rijnard.com/blog/the-code-only-agent",
+        "published": "Mon, 19 Jan 2026 02:27:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46674416\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/fashion-and-accessories-brand-salty-raises-rs-30-crore-from-mg-investments-others/articleshow/126669492.cms",
+        "title": "Fashion and accessories brand Salty raises Rs 30 crore from MG Investments, others",
+        "link": "https://economictimes.indiatimes.com/tech/funding/fashion-and-accessories-brand-salty-raises-rs-30-crore-from-mg-investments-others/articleshow/126669492.cms",
+        "published": "Mon, 19 Jan 2026 11:23:01 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Salty plans to deploy the capital to expand into new product categories such as watches, sunglasses, scarves, belts and bag charms. The funds will also be used to strengthen its core team, scale its presence across ecommerce and quick commerce platforms, and set up its first flagship store."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-or-die-india-on-right-track-top-ai-expert-at-wef/articleshow/126669500.cms",
+        "title": "AI or die; India on right track: top AI expert at WEF",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-or-die-india-on-right-track-top-ai-expert-at-wef/articleshow/126669500.cms",
+        "published": "Mon, 19 Jan 2026 11:13:20 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Jack Hidary launched a sandbox or research group on AI and quantum technologies at Alphabet in 2016, which was spun off into an independent company in 2022. Its investors include former Google CEO Eric Schmidt, now chairman of SandboxAQ; Salesforce CEO Marc Benioff; T Rowe Price and a lot more."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/assetplus-funding-rs-175-cr-nexus-venture-partners-mutual-funds-wealth-management",
+        "title": "AssetPlus raises Rs 175 Cr led by Nexus Venture Partners to strengthen assisted wealth management",
+        "link": "https://yourstory.com/2026/01/assetplus-funding-rs-175-cr-nexus-venture-partners-mutual-funds-wealth-management",
+        "published": "Mon, 19 Jan 2026 06:13:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "AssetPlus will use the new capital to strengthen its technology infrastructure, expand its product suite, and advance initiatives supporting comprehensive wealth management."
     }
 ]
