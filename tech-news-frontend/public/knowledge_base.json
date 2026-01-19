@@ -63198,5 +63198,37 @@
         "published": "Mon, 19 Jan 2026 11:38:46 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Pitch Arena 2026 connects startups with top investors via Elevate and PitchFest tracks. Apply now to fundraise and grow."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/",
+        "title": "Elon Musk accused of making up math to squeeze $134B from OpenAI, Microsoft",
+        "link": "https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/",
+        "published": "Mon, 19 Jan 2026 19:04:18 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Musk's math reduced ChatGPT inventors' contributions to \"zero,\" OpenAI argued."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/",
+        "title": "Asus confirms its smartphone business is on indefinite hiatus",
+        "link": "https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/",
+        "published": "Mon, 19 Jan 2026 18:24:49 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Asus chairman Jonney Shih sees AI applications as the company's main focus going forward."
+    },
+    {
+        "id": "https://teendifferent.substack.com/p/apply_chat_template-is-the-safety",
+        "title": "Bypassing Gemma and Qwen safety with raw strings",
+        "link": "https://teendifferent.substack.com/p/apply_chat_template-is-the-safety",
+        "published": "Mon, 19 Jan 2026 05:11:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46675271\">Comments</a>"
+    },
+    {
+        "id": "https://www.righto.com/2025/12/8087-microcode-conditions.html",
+        "title": "Conditions in the Intel 8087 floating-point chip's microcode",
+        "link": "https://www.righto.com/2025/12/8087-microcode-conditions.html",
+        "published": "Thu, 15 Jan 2026 13:23:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46632120\">Comments</a>"
     }
 ]
