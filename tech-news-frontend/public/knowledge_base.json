@@ -62046,5 +62046,61 @@
         "published": "Sun, 18 Jan 2026 22:15:01 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46672701\">Comments</a>"
+    },
+    {
+        "id": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0",
+        "title": "Wine 11.0",
+        "link": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0",
+        "published": "Wed, 14 Jan 2026 03:08:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46611816\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-seeks-consensus-on-common-ai-standards-at-february-summit/articleshow/126660618.cms",
+        "title": "India seeks consensus on common AI standards at February summit",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-seeks-consensus-on-common-ai-standards-at-february-summit/articleshow/126660618.cms",
+        "published": "Mon, 19 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India will focus on building global consensus on AI standards at the upcoming IndiaAI Impact Summit, officials told us. The country aims to promote ethical, open-source tools and equitable AI access, supporting sectors like healthcare, education, and agriculture. India also seeks a global partnership and funding facility to ensure responsible and fair AI deployment worldwide."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/nano-gcc-attrition-shaped-by-clearly-defined-roadmaps/articleshow/126660483.cms",
+        "title": "Nano GCC attrition shaped by clearly defined roadmaps",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nano-gcc-attrition-shaped-by-clearly-defined-roadmaps/articleshow/126660483.cms",
+        "published": "Mon, 19 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India\u2019s nano GCCs are diverging, with long-term centres showing 80-88% employee retention, while short-term or contract-led setups face high churn. Smaller teams of 20-150 employees are highly sensitive to attrition, affecting product delivery and IP development. Rising demand for AI and specialised tech skills is driving targeted hiring and higher salaries."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/groww-steps-up-wealth-play-via-mf-and-portfolio-management-solutions/articleshow/126660009.cms",
+        "title": "Groww steps up wealth play via MF and portfolio management solutions",
+        "link": "https://economictimes.indiatimes.com/tech/technology/groww-steps-up-wealth-play-via-mf-and-portfolio-management-solutions/articleshow/126660009.cms",
+        "published": "Mon, 19 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Groww is expanding deeper into wealth management by developing platforms for high-net-worth clients and mutual fund distributors. This follows its acquisition of Fisdom, which has been integrated into Groww\u2019s operations. The Bengaluru-based firm aims to scale digital tools to help distributors service clients and compete with startups like AssetPlus and ZFunds."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/blackstone-finalises-structured-investment-deal-in-ai-cloud-startup-neysa/articleshow/126656335.cms",
+        "title": "Blackstone finalises structured investment deal in AI cloud startup Neysa",
+        "link": "https://economictimes.indiatimes.com/tech/startups/blackstone-finalises-structured-investment-deal-in-ai-cloud-startup-neysa/articleshow/126656335.cms",
+        "published": "Mon, 19 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US firm Blackstone has finalised a structured investment in Mumbai-based AI cloud startup Neysa, initially putting in $50\u201375 million. The deal allows Blackstone to increase its stake to a controlling position if certain business milestones are met. Neysa was was last valued at $120-130 million, and has raised $50 million in funding across two rounds till now."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/assetplus-raises-rs-175-crore-from-nexus-venture-partners-eight-roads-others/articleshow/126653698.cms",
+        "title": "AssetPlus raises Rs 175 crore from Nexus Venture Partners, Eight Roads, others",
+        "link": "https://economictimes.indiatimes.com/tech/funding/assetplus-raises-rs-175-crore-from-nexus-venture-partners-eight-roads-others/articleshow/126653698.cms",
+        "published": "Mon, 19 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Wealthtech startup AssetPlus raised Rs 175 crore to expand its distributor-led wealth management platform. Existing investors, including Eight Roads Ventures and Rainmatter Fund, also participated. It works with over 18,000 mutual fund distributors and manages Rs 7,250 crore in assets, offering mutual funds, insurance, and retirement products."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/namdev-finvest-bags-37m-from-fmo-iix-franklin-templeton-expand-msme-lending",
+        "title": "Namdev Finvest bags $37M from FMO, IIX and Franklin Templeton to expand MSME lending",
+        "link": "https://yourstory.com/2026/01/namdev-finvest-bags-37m-from-fmo-iix-franklin-templeton-expand-msme-lending",
+        "published": "Mon, 19 Jan 2026 00:35:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "With the latest debt infusion, Namdev said it is positioning its balance sheet for the next phase of growth, even as it explores a larger equity raise in the future."
     }
 ]
