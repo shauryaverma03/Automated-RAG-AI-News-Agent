@@ -63358,5 +63358,45 @@
         "published": "Fri, 16 Jan 2026 18:15:52 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46649781\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/01/nasas-artemis-ii-rocket-rolls-to-launch-pad-but-key-test-looms-ahead/",
+        "title": "NASA\u2019s Artemis II rocket rolls to launch pad, but key test looms ahead",
+        "link": "https://arstechnica.com/space/2026/01/nasas-artemis-ii-rocket-rolls-to-launch-pad-but-key-test-looms-ahead/",
+        "published": "Mon, 19 Jan 2026 22:01:52 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "After a remarkably smooth launch campaign, Artemis II reached its last stop before the Moon."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/01/bungies-delayed-marathon-revival-will-finally-launch-march-5/",
+        "title": "The first new Marathon game in decades will launch on March 5",
+        "link": "https://arstechnica.com/gaming/2026/01/bungies-delayed-marathon-revival-will-finally-launch-march-5/",
+        "published": "Mon, 19 Jan 2026 21:07:55 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Development hasn't exactly been smooth since the extraction shooter's 2023 announcement."
+    },
+    {
+        "id": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
+        "title": "Level S4 solar radiation event",
+        "link": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
+        "published": "Mon, 19 Jan 2026 20:26:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46684056\">Comments</a>"
+    },
+    {
+        "id": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
+        "title": "The coming industrialisation of exploit generation with LLMs",
+        "link": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
+        "published": "Mon, 19 Jan 2026 07:57:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46676081\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/jordanhubbard/nanolang",
+        "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
+        "link": "https://github.com/jordanhubbard/nanolang",
+        "published": "Mon, 19 Jan 2026 21:48:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46684958\">Comments</a>"
     }
 ]
