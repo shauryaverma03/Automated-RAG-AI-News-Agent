@@ -62102,5 +62102,69 @@
         "published": "Mon, 19 Jan 2026 00:35:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "With the latest debt infusion, Namdev said it is positioning its balance sheet for the next phase of growth, even as it explores a larger equity raise in the future."
+    },
+    {
+        "id": "https://www.alilleybrinker.com/mini/gas-town-decoded/",
+        "title": "Gas Town Decoded",
+        "link": "https://www.alilleybrinker.com/mini/gas-town-decoded/",
+        "published": "Wed, 14 Jan 2026 22:39:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46624883\">Comments</a>"
+    },
+    {
+        "id": "https://git.qt.io/cradam/fil-qt",
+        "title": "Fil-Qt: A Qt Base build with Fil-C experience",
+        "link": "https://git.qt.io/cradam/fil-qt",
+        "published": "Fri, 16 Jan 2026 13:19:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46646080\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/copilot-steal-data-reprompt-vulnerability-microsoft/",
+        "title": "How a simple link allowed hackers to bypass Copilot's security guardrails - and what Microsoft did about it",
+        "link": "https://www.zdnet.com/article/copilot-steal-data-reprompt-vulnerability-microsoft/",
+        "published": "Mon, 19 Jan 2026 02:00:34 GMT",
+        "source": "Latest news",
+        "summary": "Reprompt let attackers control Copilot and pull your data, even after you closed the chat."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/south-korea-to-negotiate-with-the-us-for-favourable-chip-tariff-terms-official-says/articleshow/126666443.cms",
+        "title": "South Korea to negotiate with the US for favourable chip tariff terms, official says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-to-negotiate-with-the-us-for-favourable-chip-tariff-terms-official-says/articleshow/126666443.cms",
+        "published": "Mon, 19 Jan 2026 08:20:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The country \u200clast year released a joint fact sheet on its trade deal with the U.S. that \u200bincluded terms ensuring \u200bSouth Korea will not \u200creceive unfavourable \u200dtreatment from U.S. \u200dtariffs on imported chips compared to \u200ckey competitors, the official said, when asked about the Trump administration's proclamation imposing tariffs on artificial intelligence chips."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microns-1-8-billion-acquisition-boosts-powerchip-shares/articleshow/126665875.cms",
+        "title": "Micron's $1.8 billion acquisition boosts Powerchip shares",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microns-1-8-billion-acquisition-boosts-powerchip-shares/articleshow/126665875.cms",
+        "published": "Mon, 19 Jan 2026 07:37:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Micron Technology on Saturday \u200csaid it had signed a letter of intent to \u200dacquire Powerchip's P5 \u200dfabrication site \u2060in \u2060Tongluo, Miaoli County, Taiwan, for $1.8 billion in cash."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/blackstones-big-ai-bet-indias-nano-gcc-split/articleshow/126665418.cms",
+        "title": "Blackstone\u2019s big AI bet; India\u2019s nano GCC split",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/blackstones-big-ai-bet-indias-nano-gcc-split/articleshow/126665418.cms",
+        "published": "Mon, 19 Jan 2026 06:58:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Monday! Investment major Blackstone has struck a deal to take a controlling stake in AI infra startup Neysa. Details of the transaction and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://inc42.com/buzz/indias-defence-tech-moment-gujarat-tops-startup-charts-more/",
+        "title": "India\u2019s Defence Tech Moment, Gujarat Tops Startup Charts & More",
+        "link": "https://inc42.com/buzz/indias-defence-tech-moment-gujarat-tops-startup-charts-more/",
+        "published": "Mon, 19 Jan 2026 02:30:16 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"India\u2019s Defence Tech Moment, Gujarat Tops Startup Charts &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/FTR-Daily-Brief-2026-01-18T214946.551.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Inside India\u2019s Next Big Deeptech Bet This year\u2019s Republic Day parade is set to feel different. Beyond the imported jets,&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/shadowfaxs-hyperlocal-moat/",
+        "title": "Shadowfax\u2019s Hyperlocal Moat",
+        "link": "https://inc42.com/features/shadowfaxs-hyperlocal-moat/",
+        "published": "Mon, 19 Jan 2026 01:30:08 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/FTR-10.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />When Shadowfax was founded in 2015, India\u2019s ecommerce ecosystem was still learning how to move parcels efficiently beyond metros.\u00a0 Over&#8230;"
     }
 ]
