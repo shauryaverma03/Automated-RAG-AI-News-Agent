@@ -62942,5 +62942,85 @@
         "published": "Mon, 19 Jan 2026 20:08:50 +0530",
         "source": "Tech-Economic Times",
         "summary": "Logistics firm Shadowfax Technologies has secured approximately Rs 850 crore from anchor investors ahead of its IPO, which opens on January 20. The company has reduced its IPO size to Rs 1,907 crore, with a focus on diversifying its client base towards D2C brands and smaller retailers. Shadowfax reported a 68% rise in operating revenues to Rs 1,805."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
+        "title": "Well, there goes the metaverse!",
+        "link": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
+        "published": "Mon, 19 Jan 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The metaverse is on its last legs as VR is eclipsed by AI. But that's not the only thing that went wrong for Meta's VR ambitions."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
+        "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
+        "link": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
+        "published": "Mon, 19 Jan 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved tools, blocking attacks, and ensuring compliance."
+    },
+    {
+        "id": "https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/",
+        "title": "Kiel Institute Analysis: US Americans pay 96% of tariff burden",
+        "link": "https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/",
+        "published": "Mon, 19 Jan 2026 15:43:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46680212\">Comments</a>"
+    },
+    {
+        "id": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+        "title": "GLM-4.7-Flash",
+        "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+        "published": "Mon, 19 Jan 2026 15:12:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46679872\">Comments</a>"
+    },
+    {
+        "id": "https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/",
+        "title": "West Midlands police chief quits over AI hallucination",
+        "link": "https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/",
+        "published": "Mon, 19 Jan 2026 14:54:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46679657\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/andhra-pradesh-to-be-developed-as-ai-creative-tech-hub-says-cm-chandrababu-naidu/articleshow/126695129.cms",
+        "title": "Andhra Pradesh to be developed as AI creative tech hub, says CM Chandrababu Naidu",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/andhra-pradesh-to-be-developed-as-ai-creative-tech-hub-says-cm-chandrababu-naidu/articleshow/126695129.cms",
+        "published": "Mon, 19 Jan 2026 21:06:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Andhra Pradesh is set to become a hub for AI-driven creative enterprises. Chief Minister N Chandrababu Naidu met industry leaders in Zurich to discuss investment opportunities. The state is encouraging growth in digital media, gaming, and animation. Eros Innovations is exploring AI initiatives and virtual reality tourism promotion."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-crawls-3x-more-of-the-web-than-openai-how-that-matters/articleshow/126693827.cms",
+        "title": "Google crawls 3X more of the web than OpenAI, &amp; how that matters",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-crawls-3x-more-of-the-web-than-openai-how-that-matters/articleshow/126693827.cms",
+        "published": "Mon, 19 Jan 2026 20:49:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Google's extensive web crawling capabilities, significantly exceeding competitors like OpenAI, Microsoft, Anthropic, and Meta, could grant it a decisive advantage in the AI race. Cloudflare CEO Matthew Prince warns this dominance, fueled by Google's search crawler integration with AI data collection, presents a challenge for rivals seeking a level playing field."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/digital-india-foundation-builds-platform-for-failed-startups/articleshow/126693704.cms",
+        "title": "Digital India Foundation builds platform for failed startups",
+        "link": "https://economictimes.indiatimes.com/tech/startups/digital-india-foundation-builds-platform-for-failed-startups/articleshow/126693704.cms",
+        "published": "Mon, 19 Jan 2026 20:45:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Digital India Foundation, a Noida-based nonprofit, on Monday launched Phoenix Hub, a platform designed to help redistribute technology, innovations, and skilled workers from failed startups to new ventures."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/shadowfax-raises-rs-850-crore-from-anchor-investors-ahead-of-ipo/articleshow/126690701.cms",
+        "title": "Shadowfax raises Rs 850 crore from anchor investors ahead of IPO",
+        "link": "https://economictimes.indiatimes.com/tech/technology/shadowfax-raises-rs-850-crore-from-anchor-investors-ahead-of-ipo/articleshow/126690701.cms",
+        "published": "Mon, 19 Jan 2026 20:08:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Logistics firm Shadowfax Technologies has secured approximately Rs 850 crore from anchor investors ahead of its IPO, which opens on January 20. The company has reduced its IPO size to Rs 1,907 crore, with a focus on diversifying its client base towards D2C brands and smaller retailers. Shadowfax reported a 68% rise in operating revenues to Rs 1,805."
+    },
+    {
+        "id": "https://inc42.com/buzz/shadowfax-raises-inr-856-cr-from-anchor-investors-ahead-of-ipo/",
+        "title": "Shadowfax Raises INR 856 Cr From Anchor Investors Ahead Of IPO",
+        "link": "https://inc42.com/buzz/shadowfax-raises-inr-856-cr-from-anchor-investors-ahead-of-ipo/",
+        "published": "Mon, 19 Jan 2026 16:06:17 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Shadowfax DRHP: Shareholding Structure &amp; Key Executives\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/11/Shadowfax-DRHP-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Logistics major Shadowfax has raised INR 856 Cr from anchor investors ahead of its initial public offering (IPO). The company&#8230;"
     }
 ]
