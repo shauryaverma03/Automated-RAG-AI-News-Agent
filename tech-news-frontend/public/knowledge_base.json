@@ -65030,5 +65030,37 @@
         "published": "Tue, 20 Jan 2026 14:23:44 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46692116\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+        "title": "Elon Musk says Tesla\u2019s restarted Dojo3 will be for \u2018space-based AI compute\u2019",
+        "link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+        "published": "Tue, 20 Jan 2026 22:10:41 +0000",
+        "source": "TechCrunch",
+        "summary": "Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won\u2019t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to \u201cspace-based AI compute.\u201d"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/",
+        "title": "X open sources its algorithm while facing a transparency fine and Grok controversies",
+        "link": "https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/",
+        "published": "Tue, 20 Jan 2026 21:37:09 +0000",
+        "source": "TechCrunch",
+        "summary": "In a post to GitHub on Tuesday, the social media giant purported to share its secret sauce."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/20/luminar-founder-austin-russell-agrees-to-accept-subpoena-in-bankruptcy-case/",
+        "title": "Luminar founder Austin Russell agrees to accept subpoena in bankruptcy case",
+        "link": "https://techcrunch.com/2026/01/20/luminar-founder-austin-russell-agrees-to-accept-subpoena-in-bankruptcy-case/",
+        "published": "Tue, 20 Jan 2026 21:32:47 +0000",
+        "source": "TechCrunch",
+        "summary": "The agreement comes two weeks after Luminar accused its billionaire founder of dodging information requests, as it evaluates potential legal claims."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/",
+        "title": "Why Serve Robotics is\u00a0acquiring\u00a0a hospital assistant robot company",
+        "link": "https://techcrunch.com/2026/01/20/why-serve-robotics-is-acquiring-a-hospital-assistant-robot-company/",
+        "published": "Tue, 20 Jan 2026 21:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Diligent Robotics is a startup that builds robots designed to assist in hospitals by delivering lab samples, supplies, and other tasks. The deal values Diligent's common stock at $29 million."
     }
 ]
