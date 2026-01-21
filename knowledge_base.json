@@ -65174,5 +65174,117 @@
         "published": "Tue, 20 Jan 2026 22:18:53 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46698469\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/",
+        "title": "Netflix to redesign its app as it competes with social platforms for daily engagement",
+        "link": "https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/",
+        "published": "Wed, 21 Jan 2026 00:47:09 +0000",
+        "source": "TechCrunch",
+        "summary": "At the center of the redesign is deeper integration of vertical video feeds, which the streaming giant has been experimenting with since May."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/",
+        "title": "One-time hot insurance tech Ethos poised to be first tech IPO of the year",
+        "link": "https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/",
+        "published": "Tue, 20 Jan 2026 23:36:32 +0000",
+        "source": "TechCrunch",
+        "summary": "Ethos was backed by a who's who of VCs and celebs through 2021. It is currently profitable, it says."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
+        "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
+        "link": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
+        "published": "Tue, 20 Jan 2026 23:29:56 +0000",
+        "source": "TechCrunch",
+        "summary": "The feature is designed to stop problematic content from being delivered to users under the age of 18."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
+        "title": "Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular",
+        "link": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
+        "published": "Tue, 20 Jan 2026 23:33:57 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The colors show the star\u2019s final breath transforming into the raw ingredients for new worlds."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
+        "title": "Zuck stuck on Trump\u2019s bad side: FTC appeals loss in Meta monopoly case",
+        "link": "https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/",
+        "published": "Tue, 20 Jan 2026 23:22:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "FTC will appeal ruling that found Meta has no monopoly in social networking."
+    },
+    {
+        "id": "https://atlas9.dev/blog/soft-delete.html",
+        "title": "The challenges of soft delete",
+        "link": "https://atlas9.dev/blog/soft-delete.html",
+        "published": "Tue, 20 Jan 2026 21:36:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46698061\">Comments</a>"
+    },
+    {
+        "id": "https://www.simonpcouch.com/blog/2026-01-20-cc-impact/",
+        "title": "Electricity use of AI coding agents",
+        "link": "https://www.simonpcouch.com/blog/2026-01-20-cc-impact/",
+        "published": "Tue, 20 Jan 2026 18:02:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46695415\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/persistent-systems-q3-profit-jumps-17-8-yoy-beats-estimates-despite-labour-code-hit/articleshow/126843117.cms",
+        "title": "Persistent Systems Q3 profit jumps 17.8% YoY, beats estimates despite labour code hit",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/persistent-systems-q3-profit-jumps-17-8-yoy-beats-estimates-despite-labour-code-hit/articleshow/126843117.cms",
+        "published": "Wed, 21 Jan 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Mid-tier IT services company Persistent Systems has reported a 17.8% year-on-year increase in December-quarter net profit, despite taking a one-time charge due to labour code changes, surpassing analyst estimates"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/regulatory-clarity-key-for-crypto-adoption-binance-co-ceo-richard-teng/articleshow/126853405.cms",
+        "title": "Regulatory clarity key for crypto adoption: Binance co-CEO Richard Teng",
+        "link": "https://economictimes.indiatimes.com/tech/technology/regulatory-clarity-key-for-crypto-adoption-binance-co-ceo-richard-teng/articleshow/126853405.cms",
+        "published": "Wed, 21 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Binance co-CEO Richard Teng says clearer crypto regulations are needed for wider adoption in India, even as the US leads the sector. He views crypto as complementary to UPI and sees AI and blockchain as mutually reinforcing technologies. Teng also explained why enthusiasm around central bank digital currencies is dying globally."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/ai-native-deals-services-strengthening-it-spends-ltimindtree-ceo-venu-lambu/articleshow/126846679.cms",
+        "title": "AI-native deals, services strengthening IT spends: LTIMindtree CEO Venu Lambu",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/ai-native-deals-services-strengthening-it-spends-ltimindtree-ceo-venu-lambu/articleshow/126846679.cms",
+        "published": "Wed, 21 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "LTIMindtree is seeing rising demand for AI-led and AI-native services, even as discretionary enterprise spending remains uncertain. The company reported 6.1% year-on-year growth and is targeting double-digit growth by Q4. In a bid to expand its domain capabilities and geographical presence, the company is looking for acquisition opportunities, chief executive Venu Lambu said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/hospitals-insurers-rejig-operations-as-dpdp-kicks-in-next-year/articleshow/126845513.cms",
+        "title": "Hospitals, insurers rejig operations as DPDP kicks in next year",
+        "link": "https://economictimes.indiatimes.com/tech/technology/hospitals-insurers-rejig-operations-as-dpdp-kicks-in-next-year/articleshow/126845513.cms",
+        "published": "Wed, 21 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India\u2019s healthcare and health insurance sectors are ramping up data protection as the DPDP Act comes into force in May 2027. Hospitals and insurers are embedding privacy into operations, updating policies, and investing in compliance tools. The legislation is seen as both a regulatory mandate and an opportunity to build long-term trust in the space."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-based-voice-ai-startup-cartesia-to-launch-operations-in-india-ceo-karan-goel/articleshow/126843988.cms",
+        "title": "US-based voice AI startup Cartesia to launch operations in India: CEO Karan Goel",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-based-voice-ai-startup-cartesia-to-launch-operations-in-india-ceo-karan-goel/articleshow/126843988.cms",
+        "published": "Wed, 21 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "San Francisco-based startup Cartesia, which builds real-time voice AI agents, is launching operations in Bengaluru with a $2.5 million investment. The India office will hire researchers and support clients, helping build solutions for Indian business needs. Cartesia\u2019s platform powers enterprises and startups with low-latency, scalable voice AI infrastructure."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/voice-ai-startup-ringgai-seriesa-arkam-ventures",
+        "title": "Voice AI startup Ringg AI raises $5.5M in Series A round led by Arkam Ventures",
+        "link": "https://yourstory.com/2026/01/voice-ai-startup-ringgai-seriesa-arkam-ventures",
+        "published": "Wed, 21 Jan 2026 00:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The company plans to use the capital to expand its engineering and go-to-market teams, develop new products, and scale its presence outside India."
+    },
+    {
+        "id": "https://inc42.com/buzz/semiconductor-startup-sensesemi-raises-inr-25-cr-to-build-edge-ai-chips/",
+        "title": "Semiconductor Startup Sensesemi Raises INR 25 Cr To Build Edge AI Chips",
+        "link": "https://inc42.com/buzz/semiconductor-startup-sensesemi-raises-inr-25-cr-to-build-edge-ai-chips/",
+        "published": "Wed, 21 Jan 2026 00:31:17 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1080\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/Your-paragraph-text-4.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Semiconductor startup Sensesemi has secured INR 25 Cr ($2.7 Mn) in a seed funding round led by deeptech-focussed VC firmPiper&#8230;"
     }
 ]
