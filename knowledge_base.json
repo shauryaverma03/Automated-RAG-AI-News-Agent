@@ -67278,5 +67278,141 @@
         "published": "Thu, 22 Jan 2026 00:40:29 +0530",
         "source": "Tech-Economic Times",
         "summary": "In a post on X, Murty said, \u201cI want to alert you to fake videos circulating online that falsely use my image and voice to promote financial schemes and investments. These are deepfakes created without my knowledge or consent. Please do not make any financial decisions based on these fraudulent videos. \""
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/",
+        "title": "Apps for boycotting American products surge to the top of the Danish App Store",
+        "link": "https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/",
+        "published": "Wed, 21 Jan 2026 20:38:54 +0000",
+        "source": "TechCrunch",
+        "summary": "The boost in downloads comes as Danish consumers have been organizing a grassroots boycott of American-made products, which also included canceling their U.S. vacations and ditching their subscriptions to U.S.-based streaming services, like Netflix."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/",
+        "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+        "link": "https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/",
+        "published": "Wed, 21 Jan 2026 20:34:42 +0000",
+        "source": "TechCrunch",
+        "summary": "Research from startup GPTZero points to the impossible problem prestigious conferences face in the age of AI slop."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc",
+        "title": "Anthropic\u2019s new Claude \u2018constitution\u2019: be helpful and honest, and don\u2019t destroy humanity",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc",
+        "published": "2026-01-21T15:36:18-05:00",
+        "source": "The Verge",
+        "summary": "Anthropic is overhauling Claude's so-called \"soul doc.\" The new missive is a 57-page document titled \"Claude's Constitution,\" which details \"Anthropic's intentions for the model's values and behavior,\" aimed not at outside readers but the model itself. The document is designed to spell out Claude's \"ethical character\" and \"core identity,\" including how it should balance conflicting [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt",
+        "title": "Apple is turning Siri into an AI bot that&#8217;s more like ChatGPT",
+        "link": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt",
+        "published": "2026-01-21T15:26:47-05:00",
+        "source": "The Verge",
+        "summary": "Apple is planning a big Siri overhaul that will transform the voice assistant into an AI chatbot built directly into its iPhone and Mac, according to Bloomberg reporter Mark Gurman. The update is reportedly coming later this year and will replace the existing Siri interface, allowing users to interact with the assistant by both typing [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/mattress-types-explained/",
+        "title": "What Type of Mattress Is Right for You? (2026)",
+        "link": "https://www.wired.com/story/mattress-types-explained/",
+        "published": "Wed, 21 Jan 2026 20:34:00 +0000",
+        "source": "WIRED",
+        "summary": "Here\u2019s how to pick the best mattress for your sleep needs, straight from a professional mattress tester."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/01/the-problem-with-revisiting-tomb-raider-reacclimating-to-tank-controls/",
+        "title": "The problem with revisiting Tomb Raider: Reacclimating to tank controls",
+        "link": "https://arstechnica.com/gaming/2026/01/the-problem-with-revisiting-tomb-raider-reacclimating-to-tank-controls/",
+        "published": "Wed, 21 Jan 2026 21:03:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "For our C:\\ArsGames series, we look at the controls conundrum of early 3D."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/kioxias-memory-is-sold-out-for-2026-prolonging-a-high-end-and-expensive-phase/",
+        "title": "Kioxia's memory is \"sold out\" for 2026, prolonging a \"high-end and expensive phase\"",
+        "link": "https://arstechnica.com/gadgets/2026/01/kioxias-memory-is-sold-out-for-2026-prolonging-a-high-end-and-expensive-phase/",
+        "published": "Wed, 21 Jan 2026 20:37:00 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Kioxia is spinning up more manufacturing capacity, but relief will come slowly."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/01/watch-a-robot-swarm-bloom-like-a-garden/",
+        "title": "Watch a robot swarm \"bloom\" like a garden",
+        "link": "https://arstechnica.com/science/2026/01/watch-a-robot-swarm-bloom-like-a-garden/",
+        "published": "Wed, 21 Jan 2026 19:47:27 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The Swarm Garden: An array of modular robot agents that adapt to changing conditions for living architecture."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/",
+        "title": "Spotify won court order against Anna\u2019s Archive, taking down .org domain",
+        "link": "https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/",
+        "published": "Wed, 21 Jan 2026 19:34:14 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Lawsuit was filed under seal; Anna's Archive wasn't notified until after takedown."
+    },
+    {
+        "id": "https://www.engadget.com/audio/marshalls-new-heddon-hub-adds-multi-room-audio-to-speakers-with-auracast-210500811.html?src=rss",
+        "title": "Marshall's new Heddon hub adds multi-room audio to speakers with Auracast",
+        "link": "https://www.engadget.com/audio/marshalls-new-heddon-hub-adds-multi-room-audio-to-speakers-with-auracast-210500811.html?src=rss",
+        "published": "Wed, 21 Jan 2026 21:05:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Marshall plans to add seamless multi-room audio to its Bluetooth speakers via a newly announced music streaming hub called <a class=\"no-affiliate-link link\" href=\"https://www.marshall.com/us/en/product/heddon?pid=1009160\" target=\"_blank\">Heddon</a>. The $300 hub makes it possible to connect and synchronize multiple older Marshall speakers together, not unlike Sonos' audio devices.</p><p>Rather than use Wi-Fi to get multiple speakers playing the same audio, though, the Marshall Heddon uses <a "
+    },
+    {
+        "id": "https://www.engadget.com/ai/apple-is-reportedly-overhauling-siri-to-be-an-ai-chatbot-205303818.html?src=rss",
+        "title": "Apple is reportedly overhauling Siri to be an AI chatbot",
+        "link": "https://www.engadget.com/ai/apple-is-reportedly-overhauling-siri-to-be-an-ai-chatbot-205303818.html?src=rss",
+        "published": "Wed, 21 Jan 2026 20:53:03 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple has been spinning its wheels for many months over its approach to artificial intelligence, but a strategy finally appears to be emerging for the company. <em>Bloomberg</em>'s Mark Gurman <a class=\"link\" href=\"https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2OTAyNDk2NywiZXhwIjoxNzY5NjI5NzY3LCJhcnRpY2xl"
+    },
+    {
+        "id": "https://www.engadget.com/wearables/apple-is-reportedly-developing-a-wearable-ai-pin-204705065.html?src=rss",
+        "title": "Apple is reportedly developing a wearable AI pin",
+        "link": "https://www.engadget.com/wearables/apple-is-reportedly-developing-a-wearable-ai-pin-204705065.html?src=rss",
+        "published": "Wed, 21 Jan 2026 20:47:05 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple will reportedly try to succeed where <a class=\"link\" href=\"https://www.engadget.com/the-humane-ai-pin-is-the-solution-to-none-of-technologys-problems-120002469.html\" target=\"_blank\">Humane failed (miserably)</a>. On Wednesday, <em>The Information</em> <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=ba0a4cdc-cec8-416a-9e93-e11b8179129c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3512fe01-96f9-404d-bb5c-4712d6f3dcc9&amp;featureId=text-"
+    },
+    {
+        "id": "https://docs.freebsd.org/en/books/handbook/",
+        "title": "FreeBSD",
+        "link": "https://docs.freebsd.org/en/books/handbook/",
+        "published": "Wed, 21 Jan 2026 20:49:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46711346\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/roborock-qrevo-curv-2-flow-robot-vacuum-review/",
+        "title": "Finally, a self-cleaning robot vacuum that can handle my messy floors like a champ",
+        "link": "https://www.zdnet.com/article/roborock-qrevo-curv-2-flow-robot-vacuum-review/",
+        "published": "Wed, 21 Jan 2026 20:55:00 GMT",
+        "source": "Latest news",
+        "summary": "The Qrevo Curv 2 Flow is Roborock's first robot vacuum to feature a self-cleaning roller mop, and it delivers."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-wipe-your-old-windows-pc-properly/",
+        "title": "There's a right way to wipe your Windows PC before getting rid of it - here's how I do it",
+        "link": "https://www.zdnet.com/article/how-to-wipe-your-old-windows-pc-properly/",
+        "published": "Wed, 21 Jan 2026 20:51:00 GMT",
+        "source": "Latest news",
+        "summary": "If you're ready to replace your old computer and hand it down to a friend or family member, you'll need to wipe your data and reset it. Here's how to do it properly."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-use-chatgpt-plus-codex-to-debug-code/",
+        "title": "I used GPT-5.2-Codex to find a mystery bug and hosting nightmare - it was beyond fast",
+        "link": "https://www.zdnet.com/article/how-to-use-chatgpt-plus-codex-to-debug-code/",
+        "published": "Wed, 21 Jan 2026 20:40:00 GMT",
+        "source": "Latest news",
+        "summary": "The $20-per-month ChatGPT plan is more than enough for occasional bug fixes and feature addition runs. Here's a prime example by yours truly."
+    },
+    {
+        "id": "https://www.zdnet.com/article/spotify-premium-price-increase-alternatives/",
+        "title": "Spotify got another price increase, but I found a cheaper alternative (with the same Premium benefits)",
+        "link": "https://www.zdnet.com/article/spotify-premium-price-increase-alternatives/",
+        "published": "Wed, 21 Jan 2026 20:27:00 GMT",
+        "source": "Latest news",
+        "summary": "Premium, Student, Duo, and Family users are about to pay more. Fortunately, you have other, less expensive options."
     }
 ]
