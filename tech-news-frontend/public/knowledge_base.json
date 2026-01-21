@@ -67414,5 +67414,61 @@
         "published": "Wed, 21 Jan 2026 20:27:00 GMT",
         "source": "Latest news",
         "summary": "Premium, Student, Duo, and Family users are about to pay more. Fortunately, you have other, less expensive options."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+        "title": "Apple plans to make Siri an AI chatbot, report says",
+        "link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+        "published": "Wed, 21 Jan 2026 22:12:50 +0000",
+        "source": "TechCrunch",
+        "summary": "Siri could look more like ChatGPT than its current state as an integrated feature across Apple products."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+        "title": "Anthropic revises Claude\u2019s \u2018Constitution,\u2019 and hints at chatbot consciousness",
+        "link": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+        "published": "Wed, 21 Jan 2026 22:07:58 +0000",
+        "source": "TechCrunch",
+        "summary": "The newly revised document offers a roadmap for what Anthropic says is a safer and more helpful chatbot experience."
+    },
+    {
+        "id": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+        "title": "Apple is reportedly working on an AirTag-sized AI wearable",
+        "link": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+        "published": "2026-01-21T16:43:27-05:00",
+        "source": "The Verge",
+        "summary": "Apple is working on an AI-powered wearable pin with cameras and microphones designed to pick up a user's surroundings, according to a report from The Information. The rumored device is reportedly the size of an AirTag, with \"thin, flat, circular\" housing made from aluminium and glass. The Information reports that Apple's rumored AI pin will [&#8230;]"
+    },
+    {
+        "id": "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect",
+        "title": "Challenges in join optimization",
+        "link": "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect",
+        "published": "Wed, 21 Jan 2026 17:03:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46708351\">Comments</a>"
+    },
+    {
+        "id": "https://www.anthropic.com/news/claude-new-constitution",
+        "title": "Claude's new constitution",
+        "link": "https://www.anthropic.com/news/claude-new-constitution",
+        "published": "Wed, 21 Jan 2026 16:04:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46707572\">Comments</a>"
+    },
+    {
+        "id": "https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity",
+        "title": "TeraWave Satellite Communications Network",
+        "link": "https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity",
+        "published": "Wed, 21 Jan 2026 18:31:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46709548\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/apple-turning-siri-into-chatgpt-chatbot-ai-ios-27-iphone-mac-ipad/",
+        "title": "This rumored Siri upgrade could finally change how we use iPhones - but Apple needs to deliver",
+        "link": "https://www.zdnet.com/article/apple-turning-siri-into-chatgpt-chatbot-ai-ios-27-iphone-mac-ipad/",
+        "published": "Wed, 21 Jan 2026 21:40:00 GMT",
+        "source": "Latest news",
+        "summary": "A Siri AI chatbot can transform how you interact with your iPhone. Here's to hoping Apple can make it even better than its rivals."
     }
 ]
