@@ -65886,5 +65886,101 @@
         "published": "Wed, 21 Jan 2026 06:39:55 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The multi-stage fund will look to make investments in about 15-20 defence and space-tech startups."
+    },
+    {
+        "id": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills",
+        "title": "OpenAI says its data centers will pay for own energy and limit water usage",
+        "link": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills",
+        "published": "2026-01-21T05:58:15-05:00",
+        "source": "The Verge",
+        "summary": "OpenAI says it will minimize water use and pay for energy infrastructure upgrades needed to power its data centers. \"We're being good neighbors,\" the company said, directly addressing the growing opposition to AI projects amid rising utility bills. \"We commit to paying our own way on energy, so that our operations don't increase your electricity [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout",
+        "title": "ChatGPT is using age prediction to restrict what minors see",
+        "link": "https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout",
+        "published": "2026-01-21T05:23:14-05:00",
+        "source": "The Verge",
+        "summary": "OpenAI has added age prediction features to ChatGPT, meant to identify and bolster protections for underage users. These age detection plans were announced in December alongside updated guidelines for interacting with teens, and follow a rise in similar age-gating efforts from online platforms, including Instagram, YouTube, TikTok, and Roblox. ChatGPT's age prediction model works by [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/how-ice-uprooted-normal-life-in-minneapolis/",
+        "title": "\u2018I\u2019m Witnessing a Lot of Emptiness\u2019: How ICE Uprooted Normal Life in Minneapolis",
+        "link": "https://www.wired.com/story/how-ice-uprooted-normal-life-in-minneapolis/",
+        "published": "Wed, 21 Jan 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "WIRED talks to a postal worker, a teacher, two US citizens detained by federal agents, and six more Minnesota residents about life in an occupied American city."
+    },
+    {
+        "id": "https://www.wired.com/story/how-to-fix-wi-fi/",
+        "title": "How to Fix Your Wi-Fi Problems (2026)",
+        "link": "https://www.wired.com/story/how-to-fix-wi-fi/",
+        "published": "Wed, 21 Jan 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Is your magic internet box giving you problems? Get back online and stay there with our expert Wi-Fi fixes and tips."
+    },
+    {
+        "id": "https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/",
+        "title": "Meta Seeks to Bar Mentions of Mental Health\u2014and Zuckerberg\u2019s Harvard Past\u2014From Child Safety Trial",
+        "link": "https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/",
+        "published": "Wed, 21 Jan 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "The trial starts soon in New Mexico\u2019s case against Meta\u2014and the company is pulling out all the stops to protect its reputation."
+    },
+    {
+        "id": "https://www.zdnet.com/article/get-elegant-with-this-fork-of-the-manjaro-linux-distribution/",
+        "title": "This new Linux distro is a multimedia powerhouse right out of the box",
+        "link": "https://www.zdnet.com/article/get-elegant-with-this-fork-of-the-manjaro-linux-distribution/",
+        "published": "Wed, 21 Jan 2026 10:46:12 GMT",
+        "source": "Latest news",
+        "summary": "Elegance is a relatively new Linux distribution that aims to be your solution for office, multimedia, and gaming."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/deepinder-goyal-steps-down-as-eternal-ceo-read-his-full-letter-to-shareholders/articleshow/126974663.cms",
+        "title": "Deepinder Goyal steps down as Eternal CEO: Read his full letter to shareholders",
+        "link": "https://economictimes.indiatimes.com/tech/technology/deepinder-goyal-steps-down-as-eternal-ceo-read-his-full-letter-to-shareholders/articleshow/126974663.cms",
+        "published": "Wed, 21 Jan 2026 16:32:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Deepinder Goyal announced on Wednesday that he is stepping down as the group CEO of Eternal, transitioning to the role of vice chairman on the board of directors, subject to shareholder approval. Albinder Dhindsa, CEO of Blinkit, has been named the new group CEO."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/deepinder-goyal-resigns-as-eternal-ceo-company-names-albinder-dhindsa-as-successor/articleshow/126970627.cms",
+        "title": "Deepinder Goyal resigns as Eternal CEO; company names Albinder Dhindsa as successor",
+        "link": "https://economictimes.indiatimes.com/tech/technology/deepinder-goyal-resigns-as-eternal-ceo-company-names-albinder-dhindsa-as-successor/articleshow/126970627.cms",
+        "published": "Wed, 21 Jan 2026 15:57:32 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The company has named Blinkit founder and CEO Albinder Dhindsa as Goyal's successor, effective February 1."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/pocket-fm-hires-former-meta-ai-scientist-to-build-its-own-ai-models-for-storytelling",
+        "title": "Pocket FM hires former Meta AI scientist to build its own AI models for storytelling",
+        "link": "https://yourstory.com/2026/01/pocket-fm-hires-former-meta-ai-scientist-to-build-its-own-ai-models-for-storytelling",
+        "published": "Wed, 21 Jan 2026 10:56:38 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Pocket FM plans to develop specialised models for creative writing and audio production rather than rely on general-purpose AI systems from Google and other providers."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/small-town-businesses-endure-longer",
+        "title": "Lessons in longevity from India\u2019s small-town businesses",
+        "link": "https://yourstory.com/2026/01/small-town-businesses-endure-longer",
+        "published": "Wed, 21 Jan 2026 10:55:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Small-town entrepreneurs focus on trust, steady demand, and low costs to build stable businesses that grow quietly and last longer."
+    },
+    {
+        "id": "https://inc42.com/buzz/eternal-q3-pat-jumps-73-yoy-to-inr-102-cr/",
+        "title": "Eternal Q3: PAT Jumps 73% YoY To INR 102 Cr",
+        "link": "https://inc42.com/buzz/eternal-q3-pat-jumps-73-yoy-to-inr-102-cr/",
+        "published": "Wed, 21 Jan 2026 10:32:09 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Eternal Q3: PAT Jumps 73% YoY To INR 102 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/10/eternal-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Zomato-parent Eternal\u2019s consolidated net profit jumped 73% to INR 102 Cr in the quarter ended December 31, 2025 (Q3 FY26)&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/deepinder-goyal-steps-down-as-eternal-group-ceo/",
+        "title": "Deepinder Goyal Steps Down As Eternal Group CEO",
+        "link": "https://inc42.com/buzz/deepinder-goyal-steps-down-as-eternal-group-ceo/",
+        "published": "Wed, 21 Jan 2026 10:30:56 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Deepinder Goyal Exploring Launch Of Wearable Company \u2018Temple\u2019\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/01/Deepinder-Goyal-Zomato-CEO-feature.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Deepinder Goyal is stepping down from the role of Group CEO of Eternal. February 1, 2026 would be his last&#8230;"
     }
 ]
