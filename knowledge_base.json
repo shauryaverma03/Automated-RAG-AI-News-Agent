@@ -69790,5 +69790,85 @@
         "published": "Thu, 22 Jan 2026 22:00:00 GMT",
         "source": "Latest news",
         "summary": "Lenovo's latest ThinkPad P1 is a portable workstation that has it all, but you'll have to be willing to pay to play."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
+        "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
+        "link": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
+        "published": "Thu, 22 Jan 2026 22:44:29 +0000",
+        "source": "TechCrunch",
+        "summary": "The five-year-old-startup powers OpenAI\u2019s ChatGPT voice mode and raised a $100 million round led by Index Ventures."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
+        "title": "Inference startup Inferact lands $150M to commercialize vLLM",
+        "link": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
+        "published": "Thu, 22 Jan 2026 22:42:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The seed round values the newly formed startup at $800 million."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/01/hacker-who-stole-120000-bitcoins-wants-a-second-chance-and-a-security-job/",
+        "title": "Hacker who stole 120,000 bitcoins wants a second chance\u2014and a security job",
+        "link": "https://arstechnica.com/security/2026/01/hacker-who-stole-120000-bitcoins-wants-a-second-chance-and-a-security-job/",
+        "published": "Thu, 22 Jan 2026 22:23:15 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Crypto theft was \"the worst thing I had ever done.\""
+    },
+    {
+        "id": "https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/",
+        "title": "Report: Apple plans to launch AI-powered wearable pin device as soon as 2027",
+        "link": "https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/",
+        "published": "Thu, 22 Jan 2026 21:32:28 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Apple, OpenAI, Meta, and more are all racing toward AI hardware products."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/darth-mauls-standalone-series-premieres-on-disney-on-april-6-224036720.html?src=rss",
+        "title": "Darth Maul's standalone series premieres on Disney+ on April 6",
+        "link": "https://www.engadget.com/entertainment/streaming/darth-mauls-standalone-series-premieres-on-disney-on-april-6-224036720.html?src=rss",
+        "published": "Thu, 22 Jan 2026 22:40:36 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div><p>Darth Maul, the beloved, sometimes spider-legged former Sith Lord first introduced in <em>Star Wars: Episode 1 \u2014 The Phantom Menace</em>, is officially getting his own animated spin-off on April 6, 2026, based on <a class=\"link\" href=\"https://www.youtube.com/watch?v=oonACDq89BY\" target=\"_blank\">a new teaser trailer</a> published by Disney. <em>Star Wars: Maul \u2014 Shadow Lord</em> was <a class=\"link\" href=\"https://www."
+    },
+    {
+        "id": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
+        "title": "Anthropic Economic Index economic primitives",
+        "link": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
+        "published": "Thu, 22 Jan 2026 21:54:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46725632\">Comments</a>"
+    },
+    {
+        "id": "https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/",
+        "title": "Viking Ship Museum in Denmark announces the discovery of the largest cog",
+        "link": "https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/",
+        "published": "Thu, 22 Jan 2026 21:43:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46725522\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/iniu-apple-watch-power-bank-charger-review/",
+        "title": "The ultimate Apple Watch accessory? I didn't know I needed this charger until now",
+        "link": "https://www.zdnet.com/article/iniu-apple-watch-power-bank-charger-review/",
+        "published": "Thu, 22 Jan 2026 22:39:00 GMT",
+        "source": "Latest news",
+        "summary": "Your Apple Watch can be just as indispensable as your iPhone, and this Iniu power bank can keep it going for longer than a week."
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-buy-sony-bravia-8-ii-deal/",
+        "title": "Best Buy is selling last year's Sony OLED TV for $1,100 off - and it's an easy recommend for me",
+        "link": "https://www.zdnet.com/article/best-buy-sony-bravia-8-ii-deal/",
+        "published": "Thu, 22 Jan 2026 22:37:00 GMT",
+        "source": "Latest news",
+        "summary": "The Bravia 8 II is Sony's flagship OLED TV and is worth every penny of its retail price, but it's even better when you can snag one for this much off."
+    },
+    {
+        "id": "https://www.zdnet.com/article/high-ram-prices-how-to-find-laptop-deal/",
+        "title": "RAM prices are wild in 2026, yet good PC deals still exist - here's how I find them",
+        "link": "https://www.zdnet.com/article/high-ram-prices-how-to-find-laptop-deal/",
+        "published": "Thu, 22 Jan 2026 22:14:00 GMT",
+        "source": "Latest news",
+        "summary": "The cost of memory has exploded in recent months, driving up the cost of PCs - and there's no end in sight."
     }
 ]
