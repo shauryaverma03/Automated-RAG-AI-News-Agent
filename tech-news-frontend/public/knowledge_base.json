@@ -67646,5 +67646,85 @@
         "published": "Thu, 22 Jan 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Despite the brouhaha, most artificial intelligence projects in Indian IT services firms are failing to deliver sustained results. Research firm Forrester says only 10-15% of AI projects make it into long-term production use, though companies claim rapid adoption across their operations."
+    },
+    {
+        "id": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
+        "title": "Internet voting is insecure and should not be used in public elections",
+        "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
+        "published": "Thu, 22 Jan 2026 01:11:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>"
+    },
+    {
+        "id": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
+        "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
+        "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
+        "published": "Thu, 22 Jan 2026 01:11:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>"
+    },
+    {
+        "id": "https://arxiv.org/abs/2201.01174",
+        "title": "Binary Fuse Filters: Fast and Smaller Than XOR Filters",
+        "link": "https://arxiv.org/abs/2201.01174",
+        "published": "Sat, 17 Jan 2026 14:02:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46658128\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-use-chatgpt-translate-vs-google-translate/",
+        "title": "OpenAI just unveiled its Google Translate competitor, and ChatGPT already wins in a big way",
+        "link": "https://www.zdnet.com/article/how-to-use-chatgpt-translate-vs-google-translate/",
+        "published": "Thu, 22 Jan 2026 02:27:00 GMT",
+        "source": "Latest news",
+        "summary": "ChatGPT Translate isn't multimodal yet, but it still beats Google Translate by a wide margin. Here's how."
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-roku-tv-shortcuts-to-know/",
+        "title": "Every Roku user should know these 15+ shortcuts that unlock the system's best features",
+        "link": "https://www.zdnet.com/article/best-roku-tv-shortcuts-to-know/",
+        "published": "Thu, 22 Jan 2026 02:15:00 GMT",
+        "source": "Latest news",
+        "summary": "You're not getting the most out of your Roku - these hidden menus and settings can help."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-company-eightfold-sued-for-helping-companies-secretly-score-job-seekers/articleshow/127089962.cms",
+        "title": "AI company Eightfold sued for helping companies secretly score job seekers",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-company-eightfold-sued-for-helping-companies-secretly-score-job-seekers/articleshow/127089962.cms",
+        "published": "Thu, 22 Jan 2026 08:24:06 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The lawsuit filed on Tuesday is the first in the U.S. to accuse an AI hiring company of violating the Fair \u200cCredit Reporting Act, according \u200cto the law firms that filed the case, and shows how consumer advocates are seeking to apply existing law to AI systems capable of drawing inferences about individuals \u200cbased on vast amounts of data."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/surging-memory-chip-prices-dim-outlook-for-consumer-electronics-makers/articleshow/127089531.cms",
+        "title": "Surging memory chip prices dim outlook for consumer electronics makers",
+        "link": "https://economictimes.indiatimes.com/tech/technology/surging-memory-chip-prices-dim-outlook-for-consumer-electronics-makers/articleshow/127089531.cms",
+        "published": "Thu, 22 Jan 2026 08:22:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The rapid build-out of artificial intelligence infrastructure by U.S. tech firms such as OpenAI, Alphabet-owned Google and Microsoft has absorbed much of the world's memory chip supply, pushing up prices as manufacturers prioritize components for higher-margin data centers over consumer devices."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/deepinder-goyal-goes-beyond-eternal-psu-banks-enter-qr-battle/articleshow/127080006.cms",
+        "title": "Deepinder Goyal goes beyond Eternal; PSU banks enter QR battle",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/deepinder-goyal-goes-beyond-eternal-psu-banks-enter-qr-battle/articleshow/127080006.cms",
+        "published": "Thu, 22 Jan 2026 06:55:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Thursday! Deepinder Goyal steps down as Eternal CEO, with Albinder Dhindsa set to take over. This and more in today\u2019s ETtech Morning Disptach."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/budget-2026-experiments-to-scale-space-industry-wishlist",
+        "title": "Budget 2026: From experiments to scale, space industry wishlist",
+        "link": "https://yourstory.com/2026/01/budget-2026-experiments-to-scale-space-industry-wishlist",
+        "published": "Thu, 22 Jan 2026 02:40:56 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In the Union Budget 2026, founders and investors seek procurement mandates and critical infrastructure status. They advocate for regulatory speed and mission-linked risk-sharing to foster a sustainable and globally competitive ecosystem."
+    },
+    {
+        "id": "https://inc42.com/buzz/eternal-gets-a-new-boss-vcs-rethink-healthtech-bets-more/",
+        "title": "Eternal Gets A New Boss, VCs Rethink Healthtech Bets & More",
+        "link": "https://inc42.com/buzz/eternal-gets-a-new-boss-vcs-rethink-healthtech-bets-more/",
+        "published": "Thu, 22 Jan 2026 02:30:16 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Eternal Gets A New Boss, VCs Rethink Healthtech Bets &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/FTR-Daily-Brief-2026-01-22T001305.819.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Eternal\u2019s Action-Packed Q3 Much happened as Eternal announced its Q3 results yesterday. Deepinder Goyal is stepping down as Eternal&#8217;s group&#8230;"
     }
 ]
