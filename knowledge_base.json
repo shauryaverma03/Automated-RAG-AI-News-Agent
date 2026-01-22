@@ -69686,5 +69686,109 @@
         "published": "Thu, 22 Jan 2026 20:47:52 +0000",
         "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
         "summary": "<p>Paramount Skydance CEO David Ellison is apparently still hopeful that investors will approve his $108.4 billion hostile takeover of Warner Bros. Discovery. Paramount Skydance <a class=\"link\" href=\"https://www.paramount.com/press/paramount-files-proxy-materials-and-extends-tender-offer\" target=\"_blank\">announced Thursday</a> that it's extending its all-cash offer to acquire the storied studio, and giving investors until February 20, 2026 to accept. The company's previous offer expired on Janua"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
+        "title": "Are AI agents ready for the workplace? A new benchmark raises doubts.",
+        "link": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
+        "published": "Thu, 22 Jan 2026 21:42:18 +0000",
+        "source": "TechCrunch",
+        "summary": "New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/",
+        "title": "Microsoft 365 hit by outage, preventing access to emails and files",
+        "link": "https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/",
+        "published": "Thu, 22 Jan 2026 21:31:10 +0000",
+        "source": "TechCrunch",
+        "summary": "An hours-long outage is preventing Microsoft's enterprise customers from accessing their inboxes, files, and video meetings."
+    },
+    {
+        "id": "https://www.theverge.com/news/866238/vimeo-layoffs-bending-spoons-acquisition",
+        "title": "Vimeo lays off \u2018large portion\u2019 of staff after Bending Spoons buyout",
+        "link": "https://www.theverge.com/news/866238/vimeo-layoffs-bending-spoons-acquisition",
+        "published": "2026-01-22T17:02:50-05:00",
+        "source": "The Verge",
+        "summary": "Vimeo is laying off employees around the globe just months after the Italian software company Bending Spoons acquired the platform for $1.38 billion, as reported earlier by Business Insider. Even though it's not clear how many people were laid off, Dave Brown, Vimeo's former brand VP, says in a post on LinkedIn that \"a large [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement",
+        "title": "Epic and Google have a secret $800 million Unreal Engine and services deal",
+        "link": "https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement",
+        "published": "2026-01-22T16:47:07-05:00",
+        "source": "The Verge",
+        "summary": "A judge is questioning whether Epic Games and Google are settling their long-running antitrust fight partly because of a previously unannounced partnership involving the Unreal Engine, Fortnite, and Android. In a hearing in San Francisco today, the court revealed that Epic and Google have struck a new deal that apparently includes \"joint product development, joint [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/865854/senator-ed-markey-ai-companies-chatbots-advertising",
+        "title": "Sen. Markey questions OpenAI about \u2018deceptive advertising\u2019 in ChatGPT",
+        "link": "https://www.theverge.com/news/865854/senator-ed-markey-ai-companies-chatbots-advertising",
+        "published": "2026-01-22T16:30:00-05:00",
+        "source": "The Verge",
+        "summary": "Sen. Ed Markey (D-MA) is pressing OpenAI about its move to bring ads to ChatGPT, and is asking several other companies whether they have similar plans. In letters to the CEOs of OpenAI, Anthropic, Google, Meta, Microsoft, Snap, and xAI, Markey writes that embedding ads into AI chatbots \"raises significant concerns for consumer protection, privacy, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/transportation/866165/tesla-robotaxi-unsupervised-austin-texas-safety-monitor",
+        "title": "Tesla is finally doing unsupervised robotaxi rides",
+        "link": "https://www.theverge.com/transportation/866165/tesla-robotaxi-unsupervised-austin-texas-safety-monitor",
+        "published": "2026-01-22T16:23:19-05:00",
+        "source": "The Verge",
+        "summary": "Tesla is finally doing unsupervised robotaxi trips in Austin, Texas, according to a video posted on X. Elon Musk reposted the video, congratulating Tesla's AI team for the milestone. For months, Tesla's robotaxis in Austin and San Francisco have included safety monitors with access to a kill switch in case of emergency - a fallback [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/legislators-push-to-make-companies-tell-customers-when-their-products-will-die/",
+        "title": "Legislators Push to Make Companies Tell Customers When Their Products Will Die",
+        "link": "https://www.wired.com/story/legislators-push-to-make-companies-tell-customers-when-their-products-will-die/",
+        "published": "Thu, 22 Jan 2026 22:04:18 +0000",
+        "source": "WIRED",
+        "summary": "A pair of bills in Massachusetts would require manufacturers to tell consumers when their connected gadgets are going dark. It should be a boon for cybersecurity as connected devices grow obsolete."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musks-chosen-court/",
+        "title": "Asking Grok to delete fake nudes may force victims to sue in Musk's chosen court",
+        "link": "https://arstechnica.com/tech-policy/2026/01/asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musks-chosen-court/",
+        "published": "Thu, 22 Jan 2026 21:16:42 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Millions likely harmed by Grok-edited sex images as X advertisers shrugged."
+    },
+    {
+        "id": "https://arstechnica.com/google/2026/01/google-begins-offering-free-sat-practice-tests-powered-by-gemini/",
+        "title": "Google begins offering free SAT practice tests powered by Gemini",
+        "link": "https://arstechnica.com/google/2026/01/google-begins-offering-free-sat-practice-tests-powered-by-gemini/",
+        "published": "Thu, 22 Jan 2026 20:46:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Google says more kinds of standardized tests will be added in the future."
+    },
+    {
+        "id": "https://www.engadget.com/audio/speakers/jbl-made-a-pair-of-ai-powered-practice-amps-221000631.html?src=rss",
+        "title": "JBL made a pair of AI-powered practice amps",
+        "link": "https://www.engadget.com/audio/speakers/jbl-made-a-pair-of-ai-powered-practice-amps-221000631.html?src=rss",
+        "published": "Thu, 22 Jan 2026 22:10:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>JBL is trying its hand at something new, with a pair of AI-powered practice amps. The BandBox Solo and BandBox Trio include an onboard Stem AI that purportedly lets you separate or remove vocals and instruments from any music streamed over Bluetooth. So, say you're a young guitarist learning \u201cStairway to Heaven\u201d (as one does). At least in theory, you could use the speaker to remove Jimmy Page's part and hone your chops with the rest of the band.</p><p>The $250 BandBox Solo, designed for indiv"
+    },
+    {
+        "id": "https://www.engadget.com/home/home-theater/telly-has-only-delivered-35000-of-its-free-televisions-with-always-on-ads-215033698.html?src=rss",
+        "title": "Telly has only delivered 35,000 of its free televisions with always-on ads",
+        "link": "https://www.engadget.com/home/home-theater/telly-has-only-delivered-35000-of-its-free-televisions-with-always-on-ads-215033698.html?src=rss",
+        "published": "Thu, 22 Jan 2026 21:50:33 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Telly appeared on the home theater scene <a class=\"link\" href=\"https://www.engadget.com/telly-will-give-you-a-free-tv-if-youll-watch-non-stop-ads-164319359.html\" target=\"_blank\">in 2023</a> with an unusual proposition. Its business model revolves around giving customers free dual-screen televisions where the lower screen shows non-stop advertisements. At the time, the start-up\u2019s execs projected that Telly would ship its first 500,000 screens that summer. However, Janko Roettgers of <a class=\""
+    },
+    {
+        "id": "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/",
+        "title": "Compiling Scheme to WebAssembly",
+        "link": "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/",
+        "published": "Sat, 17 Jan 2026 23:29:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46663200\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/lenovo-thinkpad-p1-gen-8-review/",
+        "title": "I thought this Lenovo ThinkPad was all hype - until I unlocked the modular RAM",
+        "link": "https://www.zdnet.com/article/lenovo-thinkpad-p1-gen-8-review/",
+        "published": "Thu, 22 Jan 2026 22:00:00 GMT",
+        "source": "Latest news",
+        "summary": "Lenovo's latest ThinkPad P1 is a portable workstation that has it all, but you'll have to be willing to pay to play."
     }
 ]
