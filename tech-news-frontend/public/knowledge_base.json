@@ -67542,5 +67542,109 @@
         "published": "Wed, 21 Jan 2026 23:00:52 GMT",
         "source": "Latest news",
         "summary": "The Sennheiser RS 275 TV Headphones bundle features Sennheiser's acclaimed sound, hours-long comfort, and endless connectivity thanks to Auracast."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
+        "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
+        "link": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
+        "published": "Thu, 22 Jan 2026 00:20:18 +0000",
+        "source": "TechCrunch",
+        "summary": "Should this wearable materialize, it could be released as early as 2027, according to a report on the device."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/",
+        "title": "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
+        "link": "https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/",
+        "published": "Wed, 21 Jan 2026 23:24:14 +0000",
+        "source": "TechCrunch",
+        "summary": "SGLang, which originated as an open source research project at Ion Stoica\u2019s UC Berkeley lab, has raised capital from Accel."
+    },
+    {
+        "id": "https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb",
+        "title": "Blue Origin\u2019s Starlink rival TeraWave promises 6-terabit satellite internet",
+        "link": "https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb",
+        "published": "2026-01-21T18:22:57-05:00",
+        "source": "The Verge",
+        "summary": "SpaceX has the most internet-beaming satellites in its constellation, but the competition is coming, and now Jeff Bezos' space company, Blue Origin, has announced the TeraWave network. It says TeraWave will offer bandwidth of up to 6Tb available anywhere on Earth, for both upload and download. The only wrinkle? Even after satellite deployments are scheduled [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/",
+        "title": "Judge orders stop to FBI search of devices seized from Washington Post reporter",
+        "link": "https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/",
+        "published": "Wed, 21 Jan 2026 23:33:43 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Order says gov't must stop search while court reviews Washington Post motions."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
+        "title": "Millions of people imperiled through sign-in links sent by SMS",
+        "link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
+        "published": "Wed, 21 Jan 2026 23:22:14 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Even well-known services with millions of users are exposing sensitive data."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/",
+        "title": "mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say",
+        "link": "https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/",
+        "published": "Wed, 21 Jan 2026 22:51:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The vaccines are tailor-made to target each patient's unique cancer."
+    },
+    {
+        "id": "https://github.com/freedomofpress/dangerzone",
+        "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
+        "link": "https://github.com/freedomofpress/dangerzone",
+        "published": "Wed, 21 Jan 2026 22:54:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>"
+    },
+    {
+        "id": "https://www.ratatui-ruby.dev/",
+        "title": "Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem \u2013 TUIs with the joy of Ruby",
+        "link": "https://www.ratatui-ruby.dev/",
+        "published": "Sat, 17 Jan 2026 14:03:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46658133\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-leading-ai-push-ashwini-vaishnaw-trashes-imf-chiefs-second-tier-tag/articleshow/127040347.cms",
+        "title": "India\u2019s leading AI push: Ashwini Vaishnaw trashes IMF chief\u2019s \u2018second tier\u2019 tag",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-leading-ai-push-ashwini-vaishnaw-trashes-imf-chiefs-second-tier-tag/articleshow/127040347.cms",
+        "published": "Thu, 22 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Union minister Ashwini Vaishnaw rejected being called a second-tier AI player, claiming leadership across application, model, chip, infrastructure, and energy layers. Vaishnaw highlighted domestic AI models meeting 95% of national needs and stressed effective deployment over sheer scale. In addition, the minister pointed out that Stanford rankings place India third globally in AI penetration and preparedness."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/psu-banks-counting-on-qr-based-payments-to-breach-a-fintech-fort/articleshow/127036324.cms",
+        "title": "PSU banks counting on QR-based payments to breach a fintech fort",
+        "link": "https://economictimes.indiatimes.com/tech/technology/psu-banks-counting-on-qr-based-payments-to-breach-a-fintech-fort/articleshow/127036324.cms",
+        "published": "Thu, 22 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Public sector banks are entering QR-code merchant payments, challenging fintechs like Paytm and PhonePe. These lenders are not only trying to build servicing channels for these merchants, they are also looking to build merchant-focused applications, soundboxes and QR code-led acquisition strategies."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/bharti-eyes-karnataka-data-centre-sify-set-to-inaugurate-new-facility/articleshow/127033421.cms",
+        "title": "Bharti eyes Karnataka data centre; Sify set to inaugurate new facility",
+        "link": "https://economictimes.indiatimes.com/tech/technology/bharti-eyes-karnataka-data-centre-sify-set-to-inaugurate-new-facility/articleshow/127033421.cms",
+        "published": "Thu, 22 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Bharti Enterprises has expressed interest in setting up a data centre in Karnataka, industries minister M B Patil said on Wednesday. Patil made the announcement while attending the world economic forum in Davos."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/pe-backed-digital-engineering-services-firms-turn-to-ma-deals-in-search-for-scale/articleshow/127033108.cms",
+        "title": "PE-backed digital engineering services firms turn to M&amp;A deals in search for scale",
+        "link": "https://economictimes.indiatimes.com/tech/technology/pe-backed-digital-engineering-services-firms-turn-to-ma-deals-in-search-for-scale/articleshow/127033108.cms",
+        "published": "Thu, 22 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "With a receptive market for IPOs and a significant expansion of the market for digital engineering services\u2014beyond traditional software development to encompass cloud-native product engineering, software modernisation and embedded AI solutions, among others\u2014PE-led firms are using inorganic growth routes to propel their growth and cash in on faster exit opportunities."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/forrester-picks-holes-in-its-ai-story-says-just-10-15-pilots-scale/articleshow/127032256.cms",
+        "title": "Forrester picks holes in IT\u2019s AI story, says just 10-15% pilots scale",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/forrester-picks-holes-in-its-ai-story-says-just-10-15-pilots-scale/articleshow/127032256.cms",
+        "published": "Thu, 22 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Despite the brouhaha, most artificial intelligence projects in Indian IT services firms are failing to deliver sustained results. Research firm Forrester says only 10-15% of AI projects make it into long-term production use, though companies claim rapid adoption across their operations."
     }
 ]
