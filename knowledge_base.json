@@ -71574,5 +71574,85 @@
         "published": "Fri, 23 Jan 2026 19:38:23 GMT",
         "source": "Latest news",
         "summary": "There's no need to buy a dedicated device if you're an avid reader; you can carry your library right in your tablet."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
+        "title": "What to know about Netflix\u2019s landmark acquisition of Warner Bros.",
+        "link": "https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
+        "published": "Fri, 23 Jan 2026 20:31:27 +0000",
+        "source": "TechCrunch",
+        "summary": "Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
+        "title": "Researchers say Russian government hackers were behind attempted Poland power outage",
+        "link": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
+        "published": "Fri, 23 Jan 2026 20:17:24 +0000",
+        "source": "TechCrunch",
+        "summary": "Security researchers have attributed the attempted use of destructive \"wiper\" malware across Poland's energy infrastructure in late December to a Russian-backed hacking group known for causing power outages in neighboring Ukraine."
+    },
+    {
+        "id": "https://www.wired.com/story/how-to-prep-for-a-winter-storm/",
+        "title": "How to Prep for This Weekend\u2019s Big Winter Storm: Power, Heat, and Underwear",
+        "link": "https://www.wired.com/story/how-to-prep-for-a-winter-storm/",
+        "published": "Fri, 23 Jan 2026 20:34:19 +0000",
+        "source": "WIRED",
+        "summary": "Bitter cold, power outages, and impassible roads are a terrible cocktail. Here\u2019s how to prep and bunker in for an extreme winter storm."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/",
+        "title": "Core Ultra Series 3 launch may be hampered by chip shortages, says Intel",
+        "link": "https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/",
+        "published": "Fri, 23 Jan 2026 20:48:46 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Intel is allocating more of its own production to its money-making server chips."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/",
+        "title": "DHS keeps trying and failing to unmask anonymous ICE critics online",
+        "link": "https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/",
+        "published": "Fri, 23 Jan 2026 20:10:40 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Community watch groups have a playbook to keep ICE away from subscriber information."
+    },
+    {
+        "id": "https://www.engadget.com/wearables/a-rival-smart-glasses-company-is-suing-meta-over-its-ray-ban-products-205000997.html?src=rss",
+        "title": "A rival smart glasses company is suing Meta over its Ray-Ban products",
+        "link": "https://www.engadget.com/wearables/a-rival-smart-glasses-company-is-suing-meta-over-its-ray-ban-products-205000997.html?src=rss",
+        "published": "Fri, 23 Jan 2026 20:50:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Meta is being sued by <a class=\"link\" href=\"https://solosglasses.com/\" target=\"_blank\">Solos</a>, a rival smart glasses maker, for infringing on its patents, <a class=\"link\" href=\"https://www.bloomberg.com/news/articles/2026-01-23/meta-essilorluxottica-sued-in-smart-glasses-patent-case\" target=\"_blank\"><em>Bloomberg</em> reports</a>. Solos is seeking &quot;multiple billions of dollars&quot; in damages and an injunction that could prevent Meta from selling its Ray-Ban Meta smart glasses as par"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/retro-handheld-maker-anbernic-has-a-new-gamepad-with-a-screen-and-heart-rate-sensor-201651899.html?src=rss",
+        "title": "Retro handheld maker Anbernic has a new gamepad with a screen and heart rate sensor",
+        "link": "https://www.engadget.com/gaming/retro-handheld-maker-anbernic-has-a-new-gamepad-with-a-screen-and-heart-rate-sensor-201651899.html?src=rss",
+        "published": "Fri, 23 Jan 2026 20:16:51 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>File this one under &quot;Things that make you go, 'Hmmm\u2026'&quot; <a class=\"link\" href=\"https://www.engadget.com/gaming/you-can-now-buy-anbernics-budget-ds-clone-but-dont-get-your-hopes-up-for-3ds-emulation-183140820.html\" target=\"_blank\">Retro handheld maker Anbernic</a> is <a class=\"link\" href=\"https://x.com/anbernic_china/status/2014674553310769376\" target=\"_blank\">launching</a> a new controller with a screen. But unlike Nintendo's Wii U controller, there's no second-screen gaming capabilit"
+    },
+    {
+        "id": "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html",
+        "title": "Notes on the Intel 8086 processor's arithmetic-logic unit",
+        "link": "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html",
+        "published": "Fri, 23 Jan 2026 17:26:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46735133\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/my-favorite-terminal-based-linux-file-managers/",
+        "title": "Why I recommend these 5 Linux file managers over GUI - and they're all free",
+        "link": "https://www.zdnet.com/article/my-favorite-terminal-based-linux-file-managers/",
+        "published": "Fri, 23 Jan 2026 21:02:00 GMT",
+        "source": "Latest news",
+        "summary": "There are instances when a GUI file manager just won't work. When I run into those situations, I have several terminal-based options."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/weekly-funding-roundup-jan-17-23-capital-inflow-remains-upward-trend",
+        "title": "[Weekly funding roundup Jan 17-23] Capital inflow maintains upward trend",
+        "link": "https://yourstory.com/2026/01/weekly-funding-roundup-jan-17-23-capital-inflow-remains-upward-trend",
+        "published": "Fri, 23 Jan 2026 14:32:45 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "January continues to see higher inflow of venture capital funding into Indian startups with the key reason being the larger volume of deals."
     }
 ]
