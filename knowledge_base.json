@@ -71734,5 +71734,29 @@
         "published": "Fri, 23 Jan 2026 10:06:59 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Adani Group is one of India\u2019s biggest infrastructure-led conglomerates, with major bets across ports and logistics, power (thermal + renewables)"
+    },
+    {
+        "id": "https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/",
+        "title": "\u2018Uncanny Valley\u2019: Donald Trump\u2019s Davos Drama, AI Midterms, and ChatGPT\u2019s Last Resort",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/",
+        "published": "Fri, 23 Jan 2026 22:26:01 +0000",
+        "source": "WIRED",
+        "summary": "On this episode of Uncanny Valley, our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum."
+    },
+    {
+        "id": "https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/",
+        "title": "US Judge Rules ICE Raids Require Judicial Warrants, Contradicting Secret ICE Memo",
+        "link": "https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/",
+        "published": "Fri, 23 Jan 2026 22:24:07 +0000",
+        "source": "WIRED",
+        "summary": "The ruling in federal court in Minnesota lands as Immigration and Customs Enforcement faces scrutiny over an internal memo claiming judge-signed warrants aren\u2019t needed to enter homes without consent."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/",
+        "title": "TR-49 is interactive fiction for fans of deep research rabbit holes",
+        "link": "https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/",
+        "published": "Fri, 23 Jan 2026 21:52:24 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Dense narrative deduction game tells a compellingly academia-tinged sci-fi tale."
     }
 ]
