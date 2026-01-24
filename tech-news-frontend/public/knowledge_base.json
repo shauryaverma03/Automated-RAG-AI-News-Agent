@@ -72646,5 +72646,13 @@
         "published": "Sat, 24 Jan 2026 19:44:52 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46746946\">Comments</a>"
+    },
+    {
+        "id": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
+        "title": "Memory layout in Zig with formulas",
+        "link": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
+        "published": "Sat, 24 Jan 2026 15:57:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46744647\">Comments</a>"
     }
 ]
