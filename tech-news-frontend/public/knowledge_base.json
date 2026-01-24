@@ -72022,5 +72022,29 @@
         "published": "Sat, 24 Jan 2026 12:06:38 +0530",
         "source": "Tech-Economic Times",
         "summary": "TikTok has appointed Presser, who has been with the video-sharing platform for four years, to head its newly formed US arm, set up as an independent entity after a year-long standoff with Washington and backed by investors, including Oracle and Silver Lake, averting a potential ban."
+    },
+    {
+        "id": "https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house",
+        "title": "The Loch Capsule dishwasher is small, fast, and efficient \u2014 it even sanitizes gadgets",
+        "link": "https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house",
+        "published": "2026-01-24T03:00:00-05:00",
+        "source": "The Verge",
+        "summary": "A dishwasher is a luxury item some people can't live without. It's one of the first major kitchen devices I bought just as soon as I could afford one. And now that the kids are grown, it's the appliance I thought I'd miss most in my nomadic vanlife pursuits. Loch sent me its $459.99 / [&#8230;]"
+    },
+    {
+        "id": "https://www.traintrackr.co.uk/",
+        "title": "Traintrackr \u2013 Live LED Maps",
+        "link": "https://www.traintrackr.co.uk/",
+        "published": "Mon, 19 Jan 2026 07:53:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46676061\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-expands-claude-ai-access-with-excel-integration-for-pro-users/articleshow/127377343.cms",
+        "title": "Anthropic expands Claude AI access with Excel integration for Pro users",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-expands-claude-ai-access-with-excel-integration-for-pro-users/articleshow/127377343.cms",
+        "published": "Sat, 24 Jan 2026 13:30:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "This move makes advanced AI tools more accessible for spreadsheet-heavy workflows. The update, which aims to streamline data analysis for professionals in finance and operations, now supports drag-and-drop of multiple files, prevents overwriting existing cells, and uses auto-compaction for extended sessions."
     }
 ]
