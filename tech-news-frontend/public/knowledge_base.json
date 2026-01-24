@@ -72390,5 +72390,45 @@
         "published": "Sat, 24 Jan 2026 12:55:22 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46743154\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/",
+        "title": "How PopWheels helped a food cart ditch generators for e-bike batteries",
+        "link": "https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/",
+        "published": "Sat, 24 Jan 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "PopWheels realized its battery swapping network could be used for more than food delivery workers who need to charge their e-bikes. Now, its planning for an \"aggressive rollout\" this summer."
+    },
+    {
+        "id": "https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games",
+        "title": "Gaming&#8217;s most fun sales data is full of old and obscure games",
+        "link": "https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games",
+        "published": "2026-01-24T11:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Every month, Circana video game analyst Mat Piscatella posts fascinating data about video game sales on Bluesky, highlighting trends like November's historically bad month for game hardware and Battlefield 6's big launch in October. But he doesn't just share data about what is selling the most; as of late, he's also posted delightful lists of [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/transportation/ntsb-will-investigate-why-waymos-robotaxis-are-illegally-passing-school-buses-160943613.html?src=rss",
+        "title": "NTSB will investigate why Waymo's robotaxis are illegally passing school buses",
+        "link": "https://www.engadget.com/transportation/ntsb-will-investigate-why-waymos-robotaxis-are-illegally-passing-school-buses-160943613.html?src=rss",
+        "published": "Sat, 24 Jan 2026 16:09:43 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"no-affiliate-link\" href=\"https://www.engadget.com/transportation/evs/waymo-is-now-available-in-miami-162515070.html\">Waymo</a> has caught the attention of the National Transportation Safety Board as the federal agency launched an official investigation into the company for its robotaxis improperly passing school buses in Austin, Texas. The NTSB <a class=\"no-affiliate-link\" href=\"https://x.com/NTSB_Newsroom/status/2014817506477703198\">said on X</a> that it would &quot;examine the int"
+    },
+    {
+        "id": "https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/",
+        "title": "I Like GitLab",
+        "link": "https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/",
+        "published": "Sat, 24 Jan 2026 10:32:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46742432\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/login-credentials-of-149-million-accounts-including-gmail-facebook-netflix-leaked-report/articleshow/127405541.cms",
+        "title": "Login credentials of 149 million accounts including Gmail, Facebook, Netflix leaked: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/login-credentials-of-149-million-accounts-including-gmail-facebook-netflix-leaked-report/articleshow/127405541.cms",
+        "published": "Sat, 24 Jan 2026 20:40:20 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The report published by cybersecurity researcher Jeremiah Fowler claims that the publicly exposed data includes 48 million accounts on Gmail, 4 million on Yahoo, 17 million on Facebook, 6.5 million on Instagram, 3.4 million on Netflix, 1.5 million on Outlook, etc."
     }
 ]
