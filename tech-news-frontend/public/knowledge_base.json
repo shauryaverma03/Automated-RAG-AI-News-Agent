@@ -72654,5 +72654,37 @@
         "published": "Sat, 24 Jan 2026 15:57:45 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46744647\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/",
+        "title": "Gmail is having issues with spam and misclassification",
+        "link": "https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/",
+        "published": "Sat, 24 Jan 2026 22:58:00 +0000",
+        "source": "TechCrunch",
+        "summary": "If your Gmail account doesn\u2019t seem to be working properly today, you\u2019re not alone."
+    },
+    {
+        "id": "https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi",
+        "title": "Microsoft handed the government encryption keys for customer data",
+        "link": "https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi",
+        "published": "2026-01-24T17:39:57-05:00",
+        "source": "The Verge",
+        "summary": "The FBI went to Microsoft last year with a warrant, asking them to hand over keys to unlock encrypted data stored on three laptops as part of an investigation into potential fraud involving the COVID unemployment assistance program in Guam - and Microsoft complied. Typically, companies resist handing over encryption keys to authorities. Most famously, [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/",
+        "title": "ICE Asks Companies About \u2018Ad Tech and Big Data\u2019 Tools It Could Use in Investigations",
+        "link": "https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/",
+        "published": "Sat, 24 Jan 2026 22:14:57 +0000",
+        "source": "WIRED",
+        "summary": "A new federal filing from ICE demonstrates how commercial tools are increasingly being considered by the government for law enforcement and surveillance."
+    },
+    {
+        "id": "https://www.metropolitanreview.org/p/the-writers-came-at-night",
+        "title": "The Writers Came at Night",
+        "link": "https://www.metropolitanreview.org/p/the-writers-came-at-night",
+        "published": "Sat, 24 Jan 2026 21:19:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46747777\">Comments</a>"
     }
 ]
