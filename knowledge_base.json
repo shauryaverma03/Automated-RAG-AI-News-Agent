@@ -72774,5 +72774,21 @@
         "published": "Sun, 25 Jan 2026 01:45:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we highlight the outstanding work of the Natya Institute of Kathak and Choreography, and insights about its upcoming conference."
+    },
+    {
+        "id": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+        "title": "nvidia-smi hangs indefinitely after ~66 days",
+        "link": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+        "published": "Sun, 25 Jan 2026 03:33:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46750425\">Comments</a>"
+    },
+    {
+        "id": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
+        "title": "The Responsibility of Intellectuals",
+        "link": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
+        "published": "Sun, 25 Jan 2026 03:44:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46750485\">Comments</a>"
     }
 ]
