@@ -73078,5 +73078,45 @@
         "published": "Sun, 25 Jan 2026 11:56:42 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46753301\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review",
+        "title": "Sony\u2019s first clip earbuds don\u2019t quite hit the mark",
+        "link": "https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review",
+        "published": "2026-01-25T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "The Sony LinkBuds Clip are the company's first clip earbuds. They follow the innovative donut-hole LinkBuds and LinkBuds Open and, like their predecessors, allow you to listen to music or podcasts, make phone calls, or be active outdoors while still maintaining awareness of your surroundings. The clip design has become more popular over the past [&#8230;]"
+    },
+    {
+        "id": "https://turbopuffer.com/blog/ann-v3",
+        "title": "ANN v3: 200ms p99 query latency over 100B vectors",
+        "link": "https://turbopuffer.com/blog/ann-v3",
+        "published": "Wed, 21 Jan 2026 19:58:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46710747\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-android-camera-phone-comparison-test-grand-canyon/",
+        "title": "I camera tested the latest Samsung, Google, and Honor phones in the air - this model won the most",
+        "link": "https://www.zdnet.com/article/best-android-camera-phone-comparison-test-grand-canyon/",
+        "published": "Sun, 25 Jan 2026 14:00:42 GMT",
+        "source": "Latest news",
+        "summary": "Between the latest flagship Android phones, here's how they each fared in an adventurous gauntlet."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/articleshow/127478223.cms",
+        "title": "How Americans are using AI at work, according to a new Gallup poll",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll/articleshow/127478223.cms",
+        "published": "Sun, 25 Jan 2026 18:54:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "American workers are using artificial intelligence at work, with many now relying on it daily for writing, research and admin tasks. Use is highest in technology, finance and education, while service jobs lag behind. Most workers are not afraid of losing jobs, though some roles face higher risk future."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ed-chargesheets-online-gaming-app-winzo-alleges-players-duped-of-rs-734-cr-using-bots/articleshow/127477692.cms",
+        "title": "ED chargesheets online gaming app WinZO, alleges players duped of Rs 734 cr using bots",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ed-chargesheets-online-gaming-app-winzo-alleges-players-duped-of-rs-734-cr-using-bots/articleshow/127477692.cms",
+        "published": "Sun, 25 Jan 2026 18:44:40 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Enforcement Directorate has charged online gaming firm WinZO and its founders, accusing it of rigging real-money games using bots and AI. Investigators say users lost Rs 734 crore after being misled into unfair play. The agency also alleges money laundering through foreign subsidiaries and blocked withdrawals by authorities nationwide recently."
     }
 ]
