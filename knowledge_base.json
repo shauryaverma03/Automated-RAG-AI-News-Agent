@@ -73294,5 +73294,29 @@
         "published": "Sun, 25 Jan 2026 06:06:33 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46751231\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html?src=rss",
+        "title": "Microsoft releases second emergency Windows 11 update to fix Outlook crashes",
+        "link": "https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html?src=rss",
+        "published": "Sun, 25 Jan 2026 19:20:12 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Microsoft issued another out-of-band update to fix a bug that caused <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/microsoft-makes-outlook-free-to-use-for-mac-201328421.html\">Outlook</a> to crash for Windows 11 users. This second <a href=\"https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-25h2#2738msgdesc\">emergency patch</a> addresses issues seen with Outlook and files stored in the cloud following Microsoft's January 2026 Windows security update.</p>\n<p"
+    },
+    {
+        "id": "https://gwern.net/blog/2026/make-me-care",
+        "title": "First, Make Me Care",
+        "link": "https://gwern.net/blog/2026/make-me-care",
+        "published": "Sun, 25 Jan 2026 19:03:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46757067\">Comments</a>"
+    },
+    {
+        "id": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+        "title": "Spanish track was fractured before high-speed train disaster, report finds",
+        "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+        "published": "Sun, 25 Jan 2026 19:12:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46757162\">Comments</a>"
     }
 ]
