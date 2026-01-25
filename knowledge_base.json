@@ -73182,5 +73182,53 @@
         "published": "Sun, 25 Jan 2026 12:22:12 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46753484\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/",
+        "title": "TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo",
+        "link": "https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/",
+        "published": "Sun, 25 Jan 2026 17:06:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
+        "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
+        "link": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
+        "published": "Sun, 25 Jan 2026 16:56:31 +0000",
+        "source": "TechCrunch",
+        "summary": "We\u2019re about to get our first real look at the results of the recently announced AI partnership between Apple and Google."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/25/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+        "title": "What is Bending Spoons? Everything to know about Eventbrite\u2019s acquirer",
+        "link": "https://techcrunch.com/2026/01/25/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+        "published": "Sun, 25 Jan 2026 16:25:19 +0000",
+        "source": "TechCrunch",
+        "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/",
+        "title": "Google says it\u2019s fixed Gmail issues with spam and misclassification",
+        "link": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/",
+        "published": "Sun, 25 Jan 2026 16:16:39 +0000",
+        "source": "TechCrunch",
+        "summary": "If your Gmail account doesn\u2019t seem to be working properly today, you\u2019re not alone."
+    },
+    {
+        "id": "https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti",
+        "title": "It doesn\u2019t matter if Alex Pretti had a gun",
+        "link": "https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti",
+        "published": "2026-01-25T12:01:38-05:00",
+        "source": "The Verge",
+        "summary": "Shortly after federal agents killed Alex Pretti Saturday morning, DHS began to run with the story that the dead man had been armed and dangerous. He had a gun, DHS said. (A Bellingcat analysis of the video concludes that Pretti was unarmed when he was shot.) He had approached the agents holding the gun, DHS [&#8230;]"
+    },
+    {
+        "id": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+        "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+        "link": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+        "published": "Sun, 25 Jan 2026 15:51:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46755115\">Comments</a>"
     }
 ]
