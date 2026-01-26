@@ -73598,5 +73598,29 @@
         "published": "Mon, 26 Jan 2026 10:26:11 +0530",
         "source": "Tech-Economic Times",
         "summary": "Defendants in the suit are Alphabet, ByteDance and Meta, the tech titans behind YouTube, TikTok and Instagram. Meta cofounder and chief executive Mark Zuckerberg is slated to be called as a witness during the trial."
+    },
+    {
+        "id": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
+        "title": "The Browser Is the Sandbox",
+        "link": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
+        "published": "Mon, 26 Jan 2026 05:23:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46762150\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-begins-citing-elon-musks-grokipedia-triggering-fears-over-ai-misinformation/articleshow/127531116.cms",
+        "title": "ChatGPT begins citing Elon Musk\u2019s Grokipedia, triggering fears over AI misinformation",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-begins-citing-elon-musks-grokipedia-triggering-fears-over-ai-misinformation/articleshow/127531116.cms",
+        "published": "Mon, 26 Jan 2026 11:39:03 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to tests conducted by the Guardian, GPT-5.2 cited Grokipedia nine times in response to more than a dozen queries. These included questions about Iranian political and economic structures, as well as the biography of Richard Evans, the British historian who served as an expert witness in the landmark libel trial involving Holocaust denier David Irving."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/commitment-to-help-build-an-inclusive-ai-future-bill-gates-extends-greetings-on-77th-republic-day-celebrations/articleshow/127529297.cms",
+        "title": "'Commitment to help build an inclusive AI future': Bill Gates extends greetings on 77th Republic Day",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/commitment-to-help-build-an-inclusive-ai-future-bill-gates-extends-greetings-on-77th-republic-day-celebrations/articleshow/127529297.cms",
+        "published": "Mon, 26 Jan 2026 11:05:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Chair and Board Member of Gates Foundation, Bill Gates, on the occasion of the 77th Republic Day celebrations of India, extended his greetings and said that his foundation will outline the partnerships and the commitment to help build an inclusive AI future while attending the India AI Summit, which is to be held in Delhi from February 19-20."
     }
 ]
