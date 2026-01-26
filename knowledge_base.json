@@ -74758,5 +74758,45 @@
         "published": "Mon, 26 Jan 2026 19:27:00 GMT",
         "source": "Latest news",
         "summary": "The DeWalt 60V Max single-stage snow blower is tough enough to handle everything from fresh powder to ice when gas models let you down."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/26/heres-the-tech-powering-ices-deportation-crackdown/",
+        "title": "Here\u2019s the tech powering ICE\u2019s deportation crackdown",
+        "link": "https://techcrunch.com/2026/01/26/heres-the-tech-powering-ices-deportation-crackdown/",
+        "published": "Mon, 26 Jan 2026 21:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "From phone spyware and facial recognition to phone unlocking technology and databases and more, this tech powers Trump's deportation machine."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
+        "title": "Apple's AirTag 2 is easier to find thanks to new chip",
+        "link": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
+        "published": "Mon, 26 Jan 2026 20:18:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "This is the first major upgrade since Apple introduced AirTags five years ago."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/",
+        "title": "\u201cWildly irresponsible\u201d: DOT's use of AI to draft safety rules sparks concerns",
+        "link": "https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/",
+        "published": "Mon, 26 Jan 2026 20:13:47 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Staffers warn DOT's use of Gemini to draft rules could cause injuries and deaths."
+    },
+    {
+        "id": "https://www.engadget.com/ai/google-aims-to-take-the-sting-out-of-scheduling-meetings-with-a-new-gemini-feature-204853761.html?src=rss",
+        "title": "Google aims to take the sting out of scheduling meetings with a new Gemini feature",
+        "link": "https://www.engadget.com/ai/google-aims-to-take-the-sting-out-of-scheduling-meetings-with-a-new-gemini-feature-204853761.html?src=rss",
+        "published": "Mon, 26 Jan 2026 20:48:53 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google is <a class=\"link\" href=\"https://workspaceupdates.googleblog.com/2026/01/improved-meeting-suggestions-gemini-calendar.html\" target=\"_blank\">rolling out</a> a <a class=\"link\" href=\"https://www.engadget.com/ai/gemini-can-now-pull-context-the-rest-of-your-google-apps-if-you-let-it-160039468.html\" target=\"_blank\">Gemini</a> feature that could turn out to be pretty useful for many folks. It's a Google Calendar tool that can help figure out the best time to schedule a meeting, taking into ac"
+    },
+    {
+        "id": "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
+        "title": "The Hidden Engineering of Runways",
+        "link": "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
+        "published": "Tue, 20 Jan 2026 16:52:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46694193\">Comments</a>"
     }
 ]
