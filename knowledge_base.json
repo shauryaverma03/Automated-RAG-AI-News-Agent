@@ -73390,5 +73390,85 @@
         "published": "Sun, 25 Jan 2026 23:00:37 GMT",
         "source": "Latest news",
         "summary": "Evidence suggests that up-and-coming IT professionals find it tough to secure work in an AI-enabled workplace. Experts suggest these skills can help."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+        "title": "This founder cracked firefighting \u2014 now he\u2019s creating an AI gold mine",
+        "link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+        "published": "Sun, 25 Jan 2026 23:20:36 +0000",
+        "source": "TechCrunch",
+        "summary": "The nozzle is just the beginning \u2013 what company founder Sunny Sethi calls \"the muscle on the ground.\u201d"
+    },
+    {
+        "id": "https://github.com/Jcparkyn/herd",
+        "title": "Show HN: A small programming language where everything is pass-by-value",
+        "link": "https://github.com/Jcparkyn/herd",
+        "published": "Sun, 25 Jan 2026 23:01:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46759520\">Comments</a>"
+    },
+    {
+        "id": "https://tomaszmachnik.pl/case-study-math-en.html",
+        "title": "Case study: Creative math \u2013 How AI fakes proofs",
+        "link": "https://tomaszmachnik.pl/case-study-math-en.html",
+        "published": "Sun, 25 Jan 2026 22:44:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46759352\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/chipolo-one-point-tracker-review/",
+        "title": "Finally, Bluetooth trackers for Android users that function even better than AirTags (and they're on sale)",
+        "link": "https://www.zdnet.com/article/chipolo-one-point-tracker-review/",
+        "published": "Mon, 26 Jan 2026 00:31:00 GMT",
+        "source": "Latest news",
+        "summary": "Chipolo's One and Card Point trackers remain my recommended options for users who want to keep tabs on their personal items."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-weighing-pax-silica-entry-despite-sovereignty-worries/articleshow/127498656.cms",
+        "title": "India weighing Pax Silica entry despite sovereignty worries",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-weighing-pax-silica-entry-despite-sovereignty-worries/articleshow/127498656.cms",
+        "published": "Mon, 26 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is considering joining the US-led Pax Silica initiative to secure supply chains for semiconductors, AI infrastructure, critical minerals and advanced manufacturing. While keen to access raw materials and advanced tools, New Delhi is cautious about commitments that could limit sovereign policymaking on AI. Officials are weighing strategic benefits against autonomy."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tcs-is-all-set-to-seek-consent-manager-permit-under-dpdp/articleshow/127498365.cms",
+        "title": "TCS is all set to seek \u2018consent manager\u2019 permit under DPDP",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tcs-is-all-set-to-seek-consent-manager-permit-under-dpdp/articleshow/127498365.cms",
+        "published": "Mon, 26 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "TCS is preparing to seek a \u2018consent manager\u2019 permit under India\u2019s new Digital Personal Data Protection rules, joining Reliance Jio in a growing market. The data protection regime could create a Rs 10,000-crore compliance-as-a-service opportunity over three years, with consent management alone worth around Rs 1,000 crore. TCS sees it as a scalable revenue stream."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-led-it-deals-still-forms-small-chunk-despite-hype-zensar-ceo/articleshow/127498027.cms",
+        "title": "AI-led IT deals still forms small chunk despite hype: Zensar CEO",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-led-it-deals-still-forms-small-chunk-despite-hype-zensar-ceo/articleshow/127498027.cms",
+        "published": "Mon, 26 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Zensar Technologies says AI-driven deals are growing and more profitable but still form a small part of its overall IT business. About 20% of its order bookings are \u201cAI-influenced,\u201d while traditional projects remain dominant. The company aims to become an \u2018AI-native\u2019 organisation, cautiously exploring acquisitions to strengthen capabilities."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/d2c-brands-see-republic-day-sales-momentum-continuing-on-qcomm/articleshow/127497657.cms",
+        "title": "D2C brands see Republic Day sales momentum continuing on qcomm",
+        "link": "https://economictimes.indiatimes.com/tech/technology/d2c-brands-see-republic-day-sales-momentum-continuing-on-qcomm/articleshow/127497657.cms",
+        "published": "Mon, 26 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Direct-to-consumer brands saw higher sales during the week-long Republic Day sale, driven by discounts, the wedding season and festivals like Makar Sankranti. Ecommerce led early momentum, with quick commerce apps expected to boost sales further. Platforms offered up to 85% off and event-themed merchandise, sparking strong consumer demand across categories."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/competitive-intensity-increases-as-etail-majors-take-on-qcomm-aces/articleshow/127496164.cms",
+        "title": "Competitive intensity increases as etail majors take on qcomm aces",
+        "link": "https://economictimes.indiatimes.com/tech/technology/competitive-intensity-increases-as-etail-majors-take-on-qcomm-aces/articleshow/127496164.cms",
+        "published": "Mon, 26 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Competition in the quick commerce sector is getting even more intense as Amazon and Flipkart step up discounting to challenge Blinkit, Zepto and Swiggy Instamart, triggering a fresh price war. Discounts rose to 55% in January, with Amazon Now matching Zepto, while Flipkart XtraSaver boosts bulk promotions."
+    },
+    {
+        "id": "https://inc42.com/features/why-the-phonepe-ipo-looks-nothing-like-paytms/",
+        "title": "Why The PhonePe IPO Looks Nothing Like Paytm\u2019s",
+        "link": "https://inc42.com/features/why-the-phonepe-ipo-looks-nothing-like-paytms/",
+        "published": "Mon, 26 Jan 2026 00:50:32 +0000",
+        "source": "Inc42 Media",
+        "summary": "PhonePe is no longer just India\u2019s UPI giant\u2014it\u2019s becoming a full-stack financial ecosystem. After a string of high-profile IPOs last&#8230;"
     }
 ]
