@@ -74374,5 +74374,173 @@
         "published": "Mon, 26 Jan 2026 22:13:38 +0530",
         "source": "Tech-Economic Times",
         "summary": "A surge in corporate spending across the AI \u200csupply chain, from data center infrastructure to chips and power, has helped lift equity markets even as worries grow over a potential market bubble and the boom's sustainability."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+        "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+        "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+        "published": "Mon, 26 Jan 2026 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
+        "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
+        "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
+        "published": "Mon, 26 Jan 2026 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The 12-year-old firm raised $360,360,360 for its fifth fund. And there's a reason for that number."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/26/tiktok-attributes-recent-glitches-to-a-power-outage-at-a-u-s-data-center/",
+        "title": "TikTok attributes recent glitches to a power outage at a U.S. data center",
+        "link": "https://techcrunch.com/2026/01/26/tiktok-attributes-recent-glitches-to-a-power-outage-at-a-u-s-data-center/",
+        "published": "Mon, 26 Jan 2026 17:48:50 +0000",
+        "source": "TechCrunch",
+        "summary": "The timing of these outages lines up with the long-awaited creation of a separate U.S. TikTok entity last week."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/",
+        "title": "VC firm 2150 raises \u20ac210M fund to solve cities\u2019 climate challenges",
+        "link": "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/",
+        "published": "Mon, 26 Jan 2026 17:29:35 +0000",
+        "source": "TechCrunch",
+        "summary": "Europe-based venture fund 2150 raised the money to invest in climate tech startups that help solve cities' carbon footprint."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock",
+        "title": "Tattle TV has turned a Hitchcock classic into a vertical video \u2018microdrama\u2019",
+        "link": "https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock",
+        "published": "2026-01-26T13:00:29-05:00",
+        "source": "The Verge",
+        "summary": "Most vertical video microdrama apps have been focused on putting out newly-produced series meant to be watched on your phone. But Tattle TV thinks that people might also be interested in checking out bite-sized pieces of cinematic history. Though Tattle TV - a UK-based streaming platform created by filmmakers Philip McGoldrick and Marina Elderton - [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
+        "title": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
+        "link": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
+        "published": "2026-01-26T13:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Anthropic's Claude got a bit livelier today thanks to a new extension to MCP, the open-source protocol that allows AI agents to easily access tools and data across the internet. Users will now be able to interact with apps directly inside the Claude chatbot, letting you draft and format Slack messages to colleagues and create [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/867958/tiktok-upscrolled-app-us-takeover",
+        "title": "TikTokers are heading to UpScrolled following US takeover",
+        "link": "https://www.theverge.com/news/867958/tiktok-upscrolled-app-us-takeover",
+        "published": "2026-01-26T12:47:31-05:00",
+        "source": "The Verge",
+        "summary": "TikTok's takeover in the US has prompted users to join an alternative social platform called UpScrolled. The app, which is available on Android and iOS, currently holds the 12th spot in Apple's App Store, and it's struggling to keep up with an influx of new traffic. \"You showed up so fast our servers tapped out,\" [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/tiktok-glitches-caused-by-data-center-power-outage-us-joint-venture-says/",
+        "title": "Data center power outage took out TikTok first weekend under US ownership",
+        "link": "https://arstechnica.com/tech-policy/2026/01/tiktok-glitches-caused-by-data-center-power-outage-us-joint-venture-says/",
+        "published": "Mon, 26 Jan 2026 16:23:48 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "US TikTok users experienced a wide range of errors, sparking conspiracies."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/01/how-to-get-doom-running-on-a-pair-of-earbuds/",
+        "title": "How to get Doom running on a pair of earbuds",
+        "link": "https://arstechnica.com/gaming/2026/01/how-to-get-doom-running-on-a-pair-of-earbuds/",
+        "published": "Mon, 26 Jan 2026 16:13:22 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "No display? No problem for the UART-to-web-server \"Doombuds\" project."
+    },
+    {
+        "id": "https://www.engadget.com/ai/how-to-generate-ai-images-using-chatgpt-120000560.html?src=rss",
+        "title": "How to generate AI images using ChatGPT",
+        "link": "https://www.engadget.com/ai/how-to-generate-ai-images-using-chatgpt-120000560.html?src=rss",
+        "published": "Mon, 26 Jan 2026 18:05:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link\" href=\"https://www.engadget.com/ai/now-you-can-generate-images-directly-from-chatgpt-and-sora-180047905.html\" target=\"_blank\">Since March 2025</a>, ChatGPT has been capable of generating images. Following a <a class=\"link\" href=\"https://www.engadget.com/ai/openais-built-in-image-generator-for-chatgpt-is-now-available-to-free-users-120003146.html\" target=\"_blank\">period</a> where it briefly wasn't available to free users, you now don't even pay for one of OpenAI's subscriptions "
+    },
+    {
+        "id": "https://www.engadget.com/ai/claude-now-offers-deeper-integrations-with-apps-like-canva-and-slack-180000604.html?src=rss",
+        "title": "Claude now offers deeper integrations with apps like Canva and Slack",
+        "link": "https://www.engadget.com/ai/claude-now-offers-deeper-integrations-with-apps-like-canva-and-slack-180000604.html?src=rss",
+        "published": "Mon, 26 Jan 2026 18:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Anthropic has been building out support for third-party apps inside of Claude. As of today, the chatbot can now connect to platforms like Slack and <a class=\"link\" href=\"https://www.engadget.com/ai/claude-ai-now-integrates-with-canva-201808571.html\" target=\"_blank\">Canva</a>, fetching up files from inside those apps or performing tasks within them on a user's behalf.</p><p>For instance, when connected to Box, Claude can now search for files, preview documents inline and answer questions about"
+    },
+    {
+        "id": "https://www.engadget.com/ai/trump-admin-reportedly-plans-to-use-ai-to-write-federal-regulations-175155111.html?src=rss",
+        "title": "Trump admin reportedly plans to use AI to write federal regulations",
+        "link": "https://www.engadget.com/ai/trump-admin-reportedly-plans-to-use-ai-to-write-federal-regulations-175155111.html?src=rss",
+        "published": "Mon, 26 Jan 2026 17:51:56 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The Trump administration is planning on using Google Gemini to draft important federal regulations, <a href=\"https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations\"><ins>as reported by </ins><em><ins>ProPublica</ins></em></a>. This is starting with the Department of Transportation, according to interviews with agency staffers. Regulations created by the DOT help keep us safe when traveling.</p>\n<p>The plan was initially presented to DOT staff"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/ball-x-pits-first-update-brings-an-endless-mode-and-much-more-to-the-chaos-174306548.html?src=rss",
+        "title": "Ball x Pit's first update brings an endless mode and much more to the chaos",
+        "link": "https://www.engadget.com/gaming/ball-x-pits-first-update-brings-an-endless-mode-and-much-more-to-the-chaos-174306548.html?src=rss",
+        "published": "Mon, 26 Jan 2026 17:43:06 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div><p>It\u2019s time to jump back into the pit. <em>Ball x Pit </em>is <a class=\"link\" href=\"https://www.engadget.com/gaming/engadgets-games-of-the-year-2024-133005519.html\" target=\"_blank\">one of the very best games of 2025</a> and there\u2019s now even more to play around with in the brick-busting roguelite. The first major free update for the game (<a class=\"link\" href=\"https://www.engadget.com/gaming/ball-x-pit-is-evolving-with"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
+        "title": "Why chatbots are starting to check your age",
+        "link": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
+        "published": "Mon, 26 Jan 2026 17:05:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. How do tech companies check if their users are kids? This question has taken on new urgency recently thanks to growing concern about the dangers that can arise when children talk to&#8230;"
+    },
+    {
+        "id": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
+        "title": "Television is 100 years old today",
+        "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
+        "published": "Mon, 26 Jan 2026 14:41:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46766188\">Comments</a>"
+    },
+    {
+        "id": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
+        "title": "The Adolescence of Technology",
+        "link": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
+        "published": "Mon, 26 Jan 2026 17:07:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46768257\">Comments</a>"
+    },
+    {
+        "id": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
+        "title": "Fedora Asahi Remix is now working on Apple M3",
+        "link": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
+        "published": "Mon, 26 Jan 2026 17:54:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46769051\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/origami-linux-cosmic-desktop-immutable-fedora-base/",
+        "title": "This new Linux distro folds a gorgeous COSMIC desktop into an immutable Fedora base",
+        "link": "https://www.zdnet.com/article/origami-linux-cosmic-desktop-immutable-fedora-base/",
+        "published": "Mon, 26 Jan 2026 18:02:20 GMT",
+        "source": "Latest news",
+        "summary": "Origami Linux feels impressively fast, stable, and secure."
+    },
+    {
+        "id": "https://www.zdnet.com/article/claude-work-apps-slack-asana-figma-how-they-work/",
+        "title": "You can use Slack, Asana, and Figma directly inside Claude now - here's how",
+        "link": "https://www.zdnet.com/article/claude-work-apps-slack-asana-figma-how-they-work/",
+        "published": "Mon, 26 Jan 2026 18:00:41 GMT",
+        "source": "Latest news",
+        "summary": "Anthropic is trying to make Claude the primary UI of our working lives."
+    },
+    {
+        "id": "https://www.zdnet.com/article/is-tiktok-down-feed-glitchy-broken/",
+        "title": "Is TikTok down? Why your feed is suddenly glitchy or broken",
+        "link": "https://www.zdnet.com/article/is-tiktok-down-feed-glitchy-broken/",
+        "published": "Mon, 26 Jan 2026 17:30:15 GMT",
+        "source": "Latest news",
+        "summary": "App glitches, strange foreign-language videos, broken FYPs, and upload failures are happening - right after TikTok's ownership change."
+    },
+    {
+        "id": "https://www.zdnet.com/article/galvanox-pet-proof-usb-c-to-usb-c-charge-cable-review/",
+        "title": "Pets chewing through your charging cables? This one's almost indestructible",
+        "link": "https://www.zdnet.com/article/galvanox-pet-proof-usb-c-to-usb-c-charge-cable-review/",
+        "published": "Mon, 26 Jan 2026 17:23:00 GMT",
+        "source": "Latest news",
+        "summary": "These Galvanox pet-proof USB-C to USB-C cables are reinforced with stainless steel."
     }
 ]
