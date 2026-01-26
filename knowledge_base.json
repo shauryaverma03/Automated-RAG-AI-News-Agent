@@ -73774,5 +73774,37 @@
         "published": "Mon, 26 Jan 2026 10:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Discover seven powerful books that heal emotional wounds, guide life choices, and inspire daily growth with wisdom, comfort, and clarity."
+    },
+    {
+        "id": "https://www.wired.com/story/data-center-criticism-factories-supply-us/",
+        "title": "People Are Protesting Data Centers\u2014but Embracing the Factories That Supply Them",
+        "link": "https://www.wired.com/story/data-center-criticism-factories-supply-us/",
+        "published": "Mon, 26 Jan 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "As the data center backlash grows, support is growing for server factories and the hundreds of jobs they\u2019re expected to bring."
+    },
+    {
+        "id": "https://maplibre.org/news/2026-01-23-mlt-release/",
+        "title": "MapLibre Tile: a modern and efficient vector tile format",
+        "link": "https://maplibre.org/news/2026-01-23-mlt-release/",
+        "published": "Mon, 26 Jan 2026 10:19:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46763864\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/chinese-automakers-and-government-discuss-chip-shortage-and-exports/articleshow/127542955.cms",
+        "title": "Chinese automakers and government discuss chip shortage and exports",
+        "link": "https://economictimes.indiatimes.com/tech/technology/chinese-automakers-and-government-discuss-chip-shortage-and-exports/articleshow/127542955.cms",
+        "published": "Mon, 26 Jan 2026 15:43:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "An automotive industry meeting \u2060attended by multiple Chinese \u200cgovernment \u200cdepartments including the state \u200cplanner and industry ministry discussed intense sector competition, \u200bchip \u200bshortages and exports \u200camong other \u200dissues, \u200dthe China Association of \u200cAutomobile Manufacturers (CAAM) said."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/innovation-job-creation-iit-madras-for-all-prof-kamakoti-padma-shri",
+        "title": "[BIG INTERVIEW] Innovation, job creation, and IIT Madras for all: Padma Shri V Kamakoti\u2019s vision for the premier institution",
+        "link": "https://yourstory.com/2026/01/innovation-job-creation-iit-madras-for-all-prof-kamakoti-padma-shri",
+        "published": "Mon, 26 Jan 2026 09:42:30 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Nation always comes first to Professor Kamakoti, who has been conferred the Padma Shri awardee for 2026. 'Positive impact to society' is the only success metric he lives by, as he aims to make quality IIT education accessible to everyone."
     }
 ]
