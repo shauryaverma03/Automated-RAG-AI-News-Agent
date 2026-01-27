@@ -76910,5 +76910,53 @@
         "published": "Tue, 27 Jan 2026 19:20:24 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46784977\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm",
+        "title": "The winter storm tested power grids straining to accommodate AI data centers",
+        "link": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm",
+        "published": "2026-01-27T17:28:58-05:00",
+        "source": "The Verge",
+        "summary": "The colossal winter storm that swept across 34 states left hundreds of thousands of people without electricity. Bitterly cold temperatures lingering after Winter Storm Fern are still testing power grids, already under stress from a rush of new AI data centers. Over the weekend, wholesale electricity prices soared in Virginia, the state with the most [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/",
+        "title": "There's a rash of scam spam coming from a real Microsoft address",
+        "link": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/",
+        "published": "Tue, 27 Jan 2026 22:34:40 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Abusing Microsoft's reputation may make scam harder to spot."
+    },
+    {
+        "id": "https://www.engadget.com/social-media/mark-zuckerberg-was-initially-opposed-to-parental-controls-for-ai-chatbots-according-to-legal-filing-230110214.html?src=rss",
+        "title": "Mark Zuckerberg was initially opposed to parental controls for AI chatbots, according to legal filing",
+        "link": "https://www.engadget.com/social-media/mark-zuckerberg-was-initially-opposed-to-parental-controls-for-ai-chatbots-according-to-legal-filing-230110214.html?src=rss",
+        "published": "Tue, 27 Jan 2026 23:01:10 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Meta has faced some serious questions about how it allows its underage users to interact with AI-powered chatbots. Most recently, internal communications obtained by the New Mexico Attorney General's Office revealed that although Meta CEO Mark Zuckerberg was opposed to the chatbots having &quot;explicit&quot; conversations with minors, he also rejected the idea of placing parental controls on the feature. </p><p><em>Reuters</em> <a class=\"link\" href=\"https://www.reuters.com/legal/government/m"
+    },
+    {
+        "id": "https://github.com/kangtastic/timestation",
+        "title": "Time Station Emulator",
+        "link": "https://github.com/kangtastic/timestation",
+        "published": "Tue, 27 Jan 2026 20:35:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46786183\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/using-cockpit-as-a-virtual-machine-manager-on-linux/",
+        "title": "Need to manage virtual machines on Linux? I found an easier way",
+        "link": "https://www.zdnet.com/article/using-cockpit-as-a-virtual-machine-manager-on-linux/",
+        "published": "Tue, 27 Jan 2026 22:15:37 GMT",
+        "source": "Latest news",
+        "summary": "If you're looking for a way to manage virtual machines on Linux and even do it remotely, Cockpit is what you want."
+    },
+    {
+        "id": "https://www.zdnet.com/article/moonshot-kimi-k2-5-model/",
+        "title": "Move over, Claude: Moonshot's new AI model lets you vibe-code from a single video upload",
+        "link": "https://www.zdnet.com/article/moonshot-kimi-k2-5-model/",
+        "published": "Tue, 27 Jan 2026 22:14:00 GMT",
+        "source": "Latest news",
+        "summary": "While it's not yet clear how practically useful the capability will be for individuals and businesses, the model's \"coding with vision\" capability makes vibe coding even vibier."
     }
 ]
