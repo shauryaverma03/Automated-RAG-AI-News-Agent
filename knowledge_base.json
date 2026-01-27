@@ -74918,5 +74918,69 @@
         "published": "Mon, 26 Jan 2026 21:11:53 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46771599\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+        "title": "Google pays $68 million to settle claims its voice assistant spied on users",
+        "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+        "published": "Tue, 27 Jan 2026 00:43:35 +0000",
+        "source": "TechCrunch",
+        "summary": "The tech giant did not admit wrongdoing in the case."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
+        "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
+        "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
+        "published": "Tue, 27 Jan 2026 00:13:15 +0000",
+        "source": "TechCrunch",
+        "summary": "Ricursive joins Recursive and Unconventional AI in raising massive funds at multi-billion valuations out of the gate."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+        "title": "OpenAI spills technical details about how its AI coding agent works",
+        "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+        "published": "Mon, 26 Jan 2026 23:05:17 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Unusually detailed post explains how OpenAI handles the Codex agent loop."
+    },
+    {
+        "id": "https://www.engadget.com/social-media/a-tiktok-us-power-outage-caused-a-cascading-systems-failure-leading-to-multiple-bugs-173426490.html?src=rss",
+        "title": "A TikTok US power outage caused a 'cascading systems failure' leading to multiple bugs",
+        "link": "https://www.engadget.com/social-media/a-tiktok-us-power-outage-caused-a-cascading-systems-failure-leading-to-multiple-bugs-173426490.html?src=rss",
+        "published": "Tue, 27 Jan 2026 00:18:58 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>If your TikTok feed has felt a little off lately, it's not just you. TikTok says is still working to fix its service in the US following a power outage at one of its data centers that's caused \u201cmultiple bugs\u201d in the app. TikTok users have reported problems logging in and uploading videos, as well as strange behavior from the &quot;for you&quot; algorithm. Creators have also noticed that new uploads are seemingly getting o views or likes and that in-app earnings have disappeared. </p><p>&quot;"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/people-are-uninstalling-tiktok-and-downloading-an-indie-competitor-233345222.html?src=rss",
+        "title": "People are uninstalling TikTok and downloading an indie competitor",
+        "link": "https://www.engadget.com/social-media/people-are-uninstalling-tiktok-and-downloading-an-indie-competitor-233345222.html?src=rss",
+        "published": "Mon, 26 Jan 2026 23:33:45 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>TikTok's newly formed US entity is off to a very bumpy start. As the app continues to face technical issues affecting the recommendation algorithm, view counts and other features, TikTok is also seeing a wave of frustrated users uninstalling it, according to new data.</p><p>Analytics firm Sensor Tower, which tracks downloads and other app store-related metrics, told <a class=\"no-affiliate-link link\" href=\"https://www.cnbc.com/2026/01/26/tiktok-uninstalls-are-up-150percent-following-us-joint-v"
+    },
+    {
+        "id": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+        "title": "AI code and software craft",
+        "link": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+        "published": "Mon, 26 Jan 2026 18:04:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46769188\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/semiconductor-startups-caution-govt-on-dli-2-0/articleshow/127559026.cms",
+        "title": "Semicon firms caution govt against rigid DLI framework",
+        "link": "https://economictimes.indiatimes.com/tech/technology/semiconductor-startups-caution-govt-on-dli-2-0/articleshow/127559026.cms",
+        "published": "Tue, 27 Jan 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Industry executives broadly welcomed the intent to deepen state support for chip design companies but flagged concerns around venture capital (VC) compatibility, the structure of funding instruments, and the need for continuity for firms graduating from DLI 1.0."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/banks-step-up-privacy-play-as-dpdp-act-timeline-tightens/articleshow/127557323.cms",
+        "title": "Banks and fintechs up privacy play as DPDP Act nears phased rollout",
+        "link": "https://economictimes.indiatimes.com/tech/technology/banks-step-up-privacy-play-as-dpdp-act-timeline-tightens/articleshow/127557323.cms",
+        "published": "Tue, 27 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Non-state lender Yes Bank has constituted a dedicated data privacy office and appointed a data privacy officer. \u201cIn line with the DPDPA, we are currently undertaking a gap assessment, evaluating consent tools, and rolling out multiple training initiatives to build staff awareness of the DPDP Act,\u201d said Munesh Ahuja, its data privacy officer. Industry experts said such steps are becoming essential as the 18-month phased rollout of the DPDP framework compresses timelines for compliance, with enfor"
     }
 ]
