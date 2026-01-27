@@ -76742,5 +76742,61 @@
         "published": "Tue, 27 Jan 2026 18:25:00 GMT",
         "source": "Latest news",
         "summary": "The FTC says Amazon tricked customers into signing up for a Prime subscription and made it difficult to cancel. Check if you're eligible for a payout."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/",
+        "title": "TikTok joins Snap to settle social media addiction lawsuit",
+        "link": "https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/",
+        "published": "Tue, 27 Jan 2026 19:40:46 +0000",
+        "source": "TechCrunch",
+        "summary": "Jury selection begins Tuesday as this case moves closer to trial."
+    },
+    {
+        "id": "https://www.theverge.com/tech/868843/razer-synapse-web-beta-browser-chromium-configure-settings",
+        "title": "Razer\u2019s testing a new tool for customizing its keyboards in your browser",
+        "link": "https://www.theverge.com/tech/868843/razer-synapse-web-beta-browser-chromium-configure-settings",
+        "published": "2026-01-27T14:38:19-05:00",
+        "source": "The Verge",
+        "summary": "Razer has announced the beta release of a new online customization tool compatible with several versions of its Huntsman V3 Pro keyboards at launch. Razer Synapse Web isn't a full replacement for the company's Synapse 4 desktop app. It's instead designed to be a streamlined alternative accessible through a browser for situations where you're not [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/pornhub-will-become-unavailable-for-many-uk-users-as-of-february-2-194622124.html?src=rss",
+        "title": "Pornhub will become unavailable for many UK users as of February 2",
+        "link": "https://www.engadget.com/entertainment/pornhub-will-become-unavailable-for-many-uk-users-as-of-february-2-194622124.html?src=rss",
+        "published": "Tue, 27 Jan 2026 19:46:23 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Pornhub will stop offering full access to new users in the UK on February 2, its parent company Aylo said Tuesday, citing the nation's <a href=\"https://www.legislation.gov.uk/ukpga/2023/50\"><ins>Online Safety Act</ins></a> and its age-verification requirements. The company said users who already verified their ages before the cutoff will still be able to access the adult site through existing accounts.</p>\n<p>The move follows the Online Safety Act\u2019s <a href=\"https://www.ofcom.org.uk/online-sa"
+    },
+    {
+        "id": "https://www.engadget.com/ai/apple-and-google-reportedly-still-offer-dozens-of-ai-nudify-apps-192712446.html?src=rss",
+        "title": "Apple and Google reportedly still offer dozens of AI \u2018nudify\u2019 apps",
+        "link": "https://www.engadget.com/ai/apple-and-google-reportedly-still-offer-dozens-of-ai-nudify-apps-192712446.html?src=rss",
+        "published": "Tue, 27 Jan 2026 19:27:12 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>A recent investigation by an online advocacy organization called the Tech Transparency Project (TTP) found that the Apple App Store and Google Play Store <a href=\"https://www.techtransparencyproject.org/articles/nudify-apps-widely-available-in-apple-and-google-app-stores\"><ins>are rife with so-called &quot;nudify&quot; apps</ins></a>. These are AI applications that create nonconsensual and sexualized images, which is a clear violation of both companies' store policies.</p>\n<p>All told, the in"
+    },
+    {
+        "id": "https://openai.com/index/introducing-prism",
+        "title": "Prism",
+        "link": "https://openai.com/index/introducing-prism",
+        "published": "Tue, 27 Jan 2026 18:03:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46783752\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6",
+        "title": "Clawdbot Renames to Moltbot",
+        "link": "https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6",
+        "published": "Tue, 27 Jan 2026 18:08:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46783863\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-portable-power-station/",
+        "title": "The best portable power stations of 2026: Expert tested for winter storms and beyond",
+        "link": "https://www.zdnet.com/article/best-portable-power-station/",
+        "published": "Tue, 27 Jan 2026 19:19:24 GMT",
+        "source": "Latest news",
+        "summary": "We tested some of the best portable power stations from brands like EcoFlow, Jackery, and more to help you find the best off-grid solutions for winter storms and summer camping trips."
     }
 ]
