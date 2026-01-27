@@ -76798,5 +76798,45 @@
         "published": "Tue, 27 Jan 2026 19:19:24 GMT",
         "source": "Latest news",
         "summary": "We tested some of the best portable power stations from brands like EcoFlow, Jackery, and more to help you find the best off-grid solutions for winter storms and summer camping trips."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
+        "title": "Amazon agrees to pay consumers $309M in returns policy settlement",
+        "link": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
+        "published": "Tue, 27 Jan 2026 20:38:03 +0000",
+        "source": "TechCrunch",
+        "summary": "The lawsuit, filed in 2023, alleged that Amazon caused \"substantial unjustified monetary losses\u201d for consumers who returned an item but were still charged for it."
+    },
+    {
+        "id": "https://www.engadget.com/ai/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool-205135155.html?src=rss",
+        "title": "Astronomers discover over 800 cosmic anomalies using a new AI tool",
+        "link": "https://www.engadget.com/ai/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool-205135155.html?src=rss",
+        "published": "Tue, 27 Jan 2026 20:51:35 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Here's a use of AI that appears to do more good than harm. A pair of astronomers at the European Space Agency (ESA) <a class=\"link\" href=\"https://esahubble.org/news/heic2603/?lang\" target=\"_blank\">developed</a> a neural network that searches through space images for anomalies. The results were far beyond what human experts could have done. In two and a half days, it sifted through nearly 100 million image cutouts, discovering 1,400 anomalous objects.</p><p>The creators of the AI model, David "
+    },
+    {
+        "id": "https://www.engadget.com/audio/headphones/sennheiser-debuts-new-models-of-wired-headphones-and-earbuds-201245058.html?src=rss",
+        "title": "Sennheiser debuts new models of wired headphones and earbuds",
+        "link": "https://www.engadget.com/audio/headphones/sennheiser-debuts-new-models-of-wired-headphones-and-earbuds-201245058.html?src=rss",
+        "published": "Tue, 27 Jan 2026 20:12:45 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Wireless audio has become the industry standard, but there are still options out there for people who prefer a wired connection. Two new choices joining the market come from Sennheiser, which has released the CX 80U wired earbuds and HD 400U wired over-ear headphones. These new takes on the company's previous models for wired listening have replaced the 3.5mm audio jack connector with a USB-C cable. Both sets support 24-bit, 96 kHz digital audio playback. They're compatible with a broad array"
+    },
+    {
+        "id": "https://www.zdnet.com/article/alienware-16-aurora-gaming-laptop-deal/",
+        "title": "You can buy a new Alienware 16 Aurora gaming laptop for less than a RAM upgrade right now",
+        "link": "https://www.zdnet.com/article/alienware-16-aurora-gaming-laptop-deal/",
+        "published": "Tue, 27 Jan 2026 20:21:28 GMT",
+        "source": "Latest news",
+        "summary": "In a world where $1,000 will barely cover a RAM or GPU upgrade, you can snag the premium Alienware 16 Aurora gaming laptop on sale for just under that at Dell."
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-android-phone-settings-to-improve-battery-life/",
+        "title": "I changed 12 settings on my Android phone to significantly improve its battery life",
+        "link": "https://www.zdnet.com/article/best-android-phone-settings-to-improve-battery-life/",
+        "published": "Tue, 27 Jan 2026 20:21:00 GMT",
+        "source": "Latest news",
+        "summary": "Battery dropping too fast? Consider these 12 expert-approved tips to make your device last up to hours longer."
     }
 ]
