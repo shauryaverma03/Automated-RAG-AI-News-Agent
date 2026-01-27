@@ -76838,5 +76838,77 @@
         "published": "Tue, 27 Jan 2026 20:21:00 GMT",
         "source": "Latest news",
         "summary": "Battery dropping too fast? Consider these 12 expert-approved tips to make your device last up to hours longer."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
+        "title": "Anduril has invented a wild new\u00a0drone flying contest where jobs are the prize",
+        "link": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
+        "published": "Tue, 27 Jan 2026 21:54:38 +0000",
+        "source": "TechCrunch",
+        "summary": "This is a race series for software programmers and the brainchild of founder Palmer Luckey, he tells TechCrunch."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/",
+        "title": "Bluesky teases 2026 roadmap: a better Discover feed, real-time features and more",
+        "link": "https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/",
+        "published": "Tue, 27 Jan 2026 21:32:18 +0000",
+        "source": "TechCrunch",
+        "summary": "Bluesky is teasing new features  and improvements ranging from the Discover feed to video support."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+        "title": "Anthropic reportedly upped its latest raise to $20B",
+        "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+        "published": "Tue, 27 Jan 2026 21:16:10 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports."
+    },
+    {
+        "id": "https://www.theverge.com/22985108/best-fitness-tracker",
+        "title": "The best fitness trackers and watches we\u2019ve tested",
+        "link": "https://www.theverge.com/22985108/best-fitness-tracker",
+        "published": "2026-01-27T16:51:15-05:00",
+        "source": "The Verge",
+        "summary": "Fitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you\u2019ve recovered from a hard bout of training. Even flagship smartwatches, which used to be lackluster trackers, have become pretty adept workout companions. Whatever your fitness [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/supreme-court-to-decide-how-1988-videotape-privacy-law-applies-to-online-video/",
+        "title": "Supreme Court to decide how 1988 videotape privacy law applies to online video",
+        "link": "https://arstechnica.com/tech-policy/2026/01/supreme-court-to-decide-how-1988-videotape-privacy-law-applies-to-online-video/",
+        "published": "Tue, 27 Jan 2026 21:15:51 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "<em>Salazar v. Paramount</em> hinges on video privacy law's definition of \"consumer.\""
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/",
+        "title": "A WB-57 pilot just made a heroic landing in Houston after its landing gear failed",
+        "link": "https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/",
+        "published": "Tue, 27 Jan 2026 21:05:17 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"A thorough investigation will be conducted by NASA into the cause.\""
+    },
+    {
+        "id": "https://www.engadget.com/apps/adobe-photoshop-upgrades-its-firefly-powered-generative-ai-editing-tools-213737915.html?src=rss",
+        "title": "Adobe Photoshop upgrades its Firefly-powered generative-AI editing tools",
+        "link": "https://www.engadget.com/apps/adobe-photoshop-upgrades-its-firefly-powered-generative-ai-editing-tools-213737915.html?src=rss",
+        "published": "Tue, 27 Jan 2026 21:37:37 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Adobe Photoshop <a class=\"link\" href=\"https://blog.adobe.com/en/publish/2026/01/27/new-photoshop-innovations-provide-creative-pros-more-control-realism-precision\" target=\"_blank\">introduced</a> some new features that are rolling out for creators today. As you'd expect from any service operator in this day and age, there's some AI involved. Adobe has improved the tools for Generative Fill, Generative Expand and Remove that are powered by its Firefly generative AI platform. Using these tools fo"
+    },
+    {
+        "id": "https://campedersen.com/vcad",
+        "title": "Parametric CAD in Rust",
+        "link": "https://campedersen.com/vcad",
+        "published": "Tue, 27 Jan 2026 20:36:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46786196\">Comments</a>"
+    },
+    {
+        "id": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
+        "title": "Try text scaling support in Chrome Canary",
+        "link": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
+        "published": "Tue, 27 Jan 2026 19:20:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46784977\">Comments</a>"
     }
 ]
