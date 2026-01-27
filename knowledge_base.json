@@ -76174,5 +76174,245 @@
         "published": "Tue, 27 Jan 2026 12:53:56 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Third-generation entrepreneur Sunil Kumar lives in Padrauna city\u2019s Awas Vikas Colony in Kushinagar district. His workday unfolds inside a small photo studio"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
+        "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
+        "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
+        "published": "Tue, 27 Jan 2026 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/",
+        "title": "Android phones are getting more anti-theft features",
+        "link": "https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/",
+        "published": "Tue, 27 Jan 2026 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Google says Android devices will get new security features, like stronger authentication safeguards and enhanced recovery tools."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/indian-states-weigh-australia-style-ban-on-social-media-for-children/",
+        "title": "Indian states weigh Australia-style ban on social media for children",
+        "link": "https://techcrunch.com/2026/01/27/indian-states-weigh-australia-style-ban-on-social-media-for-children/",
+        "published": "Tue, 27 Jan 2026 16:58:01 +0000",
+        "source": "TechCrunch",
+        "summary": "Goa and Andhra Pradesh are among Indian states mulling Australia-like social media ban for under-16s."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/amazon-is-closing-its-physical-amazon-go-and-amazon-fresh-stores/",
+        "title": "Amazon is closing its physical Amazon Go and Amazon Fresh stores",
+        "link": "https://techcrunch.com/2026/01/27/amazon-is-closing-its-physical-amazon-go-and-amazon-fresh-stores/",
+        "published": "Tue, 27 Jan 2026 16:21:32 +0000",
+        "source": "TechCrunch",
+        "summary": "These retail closures will not impact customers who use Amazon for grocery delivery."
+    },
+    {
+        "id": "https://www.theverge.com/news/868679/tiktok-down-outage-us-usds",
+        "title": "TikTok US is mostly back up and running",
+        "link": "https://www.theverge.com/news/868679/tiktok-down-outage-us-usds",
+        "published": "2026-01-27T12:05:01-05:00",
+        "source": "The Verge",
+        "summary": "As we moved into the third day of the TikTokalypse, the app appears to have finally stabilized in the US, as we verified that it's possible to consistently publish new videos and even have other people watch them. That hasn't been a simple task since the service started having problems early Sunday morning, but on [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3",
+        "title": "Google Search now lets you ask AI Overviews follow-up questions",
+        "link": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3",
+        "published": "2026-01-27T12:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Google is making Search less about links and more about AI. The company is upgrading its AI-powered search features, adding Gemini 3 to AI Overviews and letting users ask follow-up questions \"seamlessly\" to make sure Search can answer \"whatever's on your mind,\" a move that feels closer to using an AI chatbot than a search [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/868558/highguard-online-shooters",
+        "title": "The promise and peril of a new online shooter",
+        "link": "https://www.theverge.com/entertainment/868558/highguard-online-shooters",
+        "published": "2026-01-27T12:00:00-05:00",
+        "source": "The Verge",
+        "summary": "The routine is familiar by now. A new online shooter with bright, colorful graphics launches and rockets up the charts despite the fact that you maybe haven't even heard of it. Or maybe it just has a really forgettable name. But everyone seems to be talking about it, and it's free, so you figure you [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/868567/alex-pretti-minneapolis-childhood-friend",
+        "title": "I grew up with Alex Pretti",
+        "link": "https://www.theverge.com/policy/868567/alex-pretti-minneapolis-childhood-friend",
+        "published": "2026-01-27T11:39:39-05:00",
+        "source": "The Verge",
+        "summary": "The day Alex Pretti was shot 10 times in the street by federal agents, I was delivering a eulogy for my grandfather, who died the way we're supposed to: old, asleep, surrounded by family. Because it's my job to coordinate visuals for this website, I locked myself in a bathroom stall, watched a video of [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/868640/pornhub-uk-block-age-verification-online-safety-act",
+        "title": "Pornhub will block new users in the UK next month",
+        "link": "https://www.theverge.com/news/868640/pornhub-uk-block-age-verification-online-safety-act",
+        "published": "2026-01-27T11:35:55-05:00",
+        "source": "The Verge",
+        "summary": "Pornhub will soon begin restricting UK users from accessing its website in response to the country's \"failed\" online safety regulations, according to an announcement on Tuesday. The site's owner, Aylo, says it will block users who haven't already verified their age on the platform starting February 2nd, 2026, as reported earlier by 404 Media. As [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
+        "title": "Google DeepMind Staffers Ask Leaders to Keep Them \u2018Physically Safe\u2019 From ICE",
+        "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
+        "published": "Tue, 27 Jan 2026 17:00:00 +0000",
+        "source": "WIRED",
+        "summary": "A federal agent allegedly tried to enter Google\u2019s Cambridge campus in the fall, WIRED has learned. Now, staffers want policies that protect them from immigration officials."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/01/how-volvos-new-adaptive-seat-belts-will-reduce-injuries-during-a-crash/",
+        "title": "Volvo invented the seat belt 67 years ago; now it has improved it",
+        "link": "https://arstechnica.com/cars/2026/01/how-volvos-new-adaptive-seat-belts-will-reduce-injuries-during-a-crash/",
+        "published": "Tue, 27 Jan 2026 16:16:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The EX60 senses a passenger's size and weight, determining how much force to use."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/01/apple-patches-ancient-ios-versions-to-keep-imessage-facetime-other-services-working/",
+        "title": "Apple patches ancient iOS versions to keep iMessage, FaceTime, other services working",
+        "link": "https://arstechnica.com/gadgets/2026/01/apple-patches-ancient-ios-versions-to-keep-imessage-facetime-other-services-working/",
+        "published": "Tue, 27 Jan 2026 15:49:53 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Apple renews certificates for old iOS versions to keep the lights on longer."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/01/trade-wars-muzzle-allied-talks-on-trumps-golden-dome-missile-shield/",
+        "title": "Trade wars muzzle allied talks on Trump's Golden Dome missile shield",
+        "link": "https://arstechnica.com/space/2026/01/trade-wars-muzzle-allied-talks-on-trumps-golden-dome-missile-shield/",
+        "published": "Tue, 27 Jan 2026 15:42:04 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\u201cInternational partners, I have not been allowed to talk to yet because of the trade wars.\""
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/01/why-nasa-imsa-and-tech-companies-are-teaming-up-on-tech-transfer/",
+        "title": "Why NASA, IMSA, and tech companies are teaming up on tech transfer",
+        "link": "https://arstechnica.com/cars/2026/01/why-nasa-imsa-and-tech-companies-are-teaming-up-on-tech-transfer/",
+        "published": "Tue, 27 Jan 2026 15:17:13 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "IMSA Labs will use the vast amount of race car data collected during a race to improve simulations."
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-we-think-the-company-will-unveil-130000218.html?src=rss",
+        "title": "Samsung Galaxy Unpacked 2026: Everything we think the company will unveil",
+        "link": "https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-we-think-the-company-will-unveil-130000218.html?src=rss",
+        "published": "Tue, 27 Jan 2026 17:02:39 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Samsung\u2019s 2025 was filled with <a class=\"link\" href=\"https://www.engadget.com/mobile/smartphones/samsung-galaxy-z-trifold-hands-on-flexing-is-believing-at-ces-2026-224343480.html\" target=\"_blank\">new foldables</a>, an <a class=\"link\" href=\"https://www.engadget.com/mobile/smartphones/samsung-galaxy-s25-edge-review-more-than-just-super-thin-180042172.html\" target=\"_blank\">ultra-thin new form factor</a> and the launch of <a class=\"link\" href=\"https://www.engadget.com/ar-vr/samsung-galaxy-xr-hand"
+    },
+    {
+        "id": "https://www.engadget.com/ai/gemini-3-is-now-googles-default-model-for-ai-overviews-170000302.html?src=rss",
+        "title": "Gemini 3 is now Google's default model for AI Overviews",
+        "link": "https://www.engadget.com/ai/gemini-3-is-now-googles-default-model-for-ai-overviews-170000302.html?src=rss",
+        "published": "Tue, 27 Jan 2026 17:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google has begun rolling out two upgrades for Search. Starting today, Gemini 3 is the default model powering AI Overviews. When the company debuted its new family of AI systems <a class=\"link\" href=\"https://www.engadget.com/ai/googles-new-gemini-3-model-arrives-in-ai-mode-and-the-gemini-app-160054273.html\" target=\"_blank\">last November</a>, it first deployed Gemini 3 in AI Overviews through a router that was programmed to direct the most difficult questions to the new system. Now Google is ma"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/how-to-get-nbc-without-fubo-ahead-of-the-2026-winter-olympics-163805696.html?src=rss",
+        "title": "How to get NBC without Fubo ahead of the 2026 Winter Olympics",
+        "link": "https://www.engadget.com/entertainment/streaming/how-to-get-nbc-without-fubo-ahead-of-the-2026-winter-olympics-163805696.html?src=rss",
+        "published": "Tue, 27 Jan 2026 16:38:05 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>After more than two months of contract disputes, NBCUniversal's lineup of channels are<em> still </em>not being carried by Fubo, which is a bummer for anyone hoping to <a href=\"https://www.engadget.com/entertainment/winter-olympics-how-to-watch-schedule-of-events-and-everything-else-you-need-to-know-about-the-2026-milano-cortina-games-172409424.html\">watch the 2026 Winter Olympics</a>. Once again, NBC will be the primary place to watch the Winter Games, but Fubo subscribers will need to find "
+    },
+    {
+        "id": "https://www.engadget.com/ai/pinterest-is-conducting-a-massive-round-of-layoffs-to-prioritize-ai-powered-products-and-capabilities-163440004.html?src=rss",
+        "title": "Pinterest is conducting a massive round of layoffs to prioritize 'AI-powered products and capabilities'",
+        "link": "https://www.engadget.com/ai/pinterest-is-conducting-a-massive-round-of-layoffs-to-prioritize-ai-powered-products-and-capabilities-163440004.html?src=rss",
+        "published": "Tue, 27 Jan 2026 16:34:40 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Pinterest is planning on laying off up to 15 percent of its workforce, <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=34e37b9c-8975-48da-aa39-df8bcd5badc3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=8be0fc93-7bc0-4709-8164-f4efb5e16a64&amp;featureId=text-link&amp;merchantName=CNBC&amp;linkText=according+to+a+report+by+CNBC&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDI2LzAxLzI3L"
+    },
+    {
+        "id": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+        "title": "Management as AI superpower: Thriving in a world of agentic AI",
+        "link": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+        "published": "Tue, 27 Jan 2026 17:04:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46782811\">Comments</a>"
+    },
+    {
+        "id": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
+        "title": "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
+        "link": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
+        "published": "Tue, 27 Jan 2026 16:56:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46782662\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/android-anti-theft-security-updates/",
+        "title": "Your Android phone just got a powerful anti-theft upgrade. Here's what's new",
+        "link": "https://www.zdnet.com/article/android-anti-theft-security-updates/",
+        "published": "Tue, 27 Jan 2026 17:00:53 GMT",
+        "source": "Latest news",
+        "summary": "These updates give you more control over your device's security."
+    },
+    {
+        "id": "https://www.zdnet.com/article/vafoton-pd-240w-short-usb-c-cable-review/",
+        "title": "This $7 cable is secretly the most useful thing in my tech bag",
+        "link": "https://www.zdnet.com/article/vafoton-pd-240w-short-usb-c-cable-review/",
+        "published": "Tue, 27 Jan 2026 16:44:00 GMT",
+        "source": "Latest news",
+        "summary": "The Vafoton PD 240W Thunderbolt 4 cable supports 40Gbps data transfer and is durable enough to clip to my backpack."
+    },
+    {
+        "id": "https://www.zdnet.com/article/klein-tools-80016-circuit-breaker-finder-review/",
+        "title": "A 5-minute circuit scan exposed a serious wiring issue in my home (and saved me hundreds)",
+        "link": "https://www.zdnet.com/article/klein-tools-80016-circuit-breaker-finder-review/",
+        "published": "Tue, 27 Jan 2026 16:32:00 GMT",
+        "source": "Latest news",
+        "summary": "I almost paid for new wiring - until this Klein circuit breaker finder showed me the power was already there."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-protect-yourself-text-email-irs-scams/",
+        "title": "This IRS text message scam keeps fooling people - 3 ways security experts avoid it",
+        "link": "https://www.zdnet.com/article/how-to-protect-yourself-text-email-irs-scams/",
+        "published": "Tue, 27 Jan 2026 16:26:00 GMT",
+        "source": "Latest news",
+        "summary": "Messages claiming you're due a tax refund are sent by scammers spoofing the IRS and other tax agencies. The FTC has some advice in time for tax season."
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-galaxy-s26-rumors/",
+        "title": "These Samsung Galaxy S26 rumors are tempting me to finally switch from Pixel - here's why",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-s26-rumors/",
+        "published": "Tue, 27 Jan 2026 16:25:00 GMT",
+        "source": "Latest news",
+        "summary": "I've been a loyal Pixel phone user for nearly a decade, but the Galaxy S26 might change that."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/teens-underwhelmed-by-frances-social-media-ban/articleshow/127640484.cms",
+        "title": "Teens underwhelmed by France's social media ban",
+        "link": "https://economictimes.indiatimes.com/tech/technology/teens-underwhelmed-by-frances-social-media-ban/articleshow/127640484.cms",
+        "published": "Tue, 27 Jan 2026 22:24:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "France's National Assembly passed a bill in a marathon overnight session that would impose a minimum age for using social media, becoming the first country in Europe to follow  Australia, which banned under-16s from TikTok, Snapchat, Facebook and other sites last year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/california-governor-to-probe-tiktok-on-trump-censorship-allegation/articleshow/127638780.cms",
+        "title": "California governor to probe TikTok on Trump censorship allegation",
+        "link": "https://economictimes.indiatimes.com/tech/technology/california-governor-to-probe-tiktok-on-trump-censorship-allegation/articleshow/127638780.cms",
+        "published": "Tue, 27 Jan 2026 21:54:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "California Governor Gavin Newsom said Monday he was launching a probe into allegations that TikTok censored content critical of US President Donald Trump. The Democratic governor is one of Trump's most vocal critics and has accused the president's administration of curbing basic freedoms in the United States."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/entry-level-it-salaries-have-stagnated-says-aicc-report-ahead-of-union-budget/articleshow/127638654.cms",
+        "title": "Entry-level IT salaries have stagnated, says AICC report ahead of Union Budget",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/entry-level-it-salaries-have-stagnated-says-aicc-report-ahead-of-union-budget/articleshow/127638654.cms",
+        "published": "Tue, 27 Jan 2026 21:51:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The report titled \"Real State of the Economy, 2026\u201d said entry-level AI jobs are under threat due to the rise of AI. Youth unemployment touched 15% in September 2025 and 18.4% in urban areas, it said."
+    },
+    {
+        "id": "https://inc42.com/buzz/entellus-industries-raises-inr-50-cr-to-scale-rare-earth-metals-manufacturing/",
+        "title": "Entellus Industries Raises INR 50 Cr To Scale Rare Earth Metals Manufacturing",
+        "link": "https://inc42.com/buzz/entellus-industries-raises-inr-50-cr-to-scale-rare-earth-metals-manufacturing/",
+        "published": "Tue, 27 Jan 2026 16:45:51 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"entellus funding\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"628\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/namdev-funding-social-.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1200\" />Manufacturing startup Entellus Industries has secured INR 50 Cr (about $5.5 Mn) in a funding round led by deeptech-focussed investment&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/tata-electronics-semiconductor-plant-to-support-indian-startups-build-prototype-chips-ashwin-vaishnaw/",
+        "title": "Tata Electronics\u2019 Semiconductor Plant To Support Indian Startups Build Prototype Chips: Ashwin Vaishnaw",
+        "link": "https://inc42.com/buzz/tata-electronics-semiconductor-plant-to-support-indian-startups-build-prototype-chips-ashwin-vaishnaw/",
+        "published": "Tue, 27 Jan 2026 16:27:05 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/Semiconductor-Funding-3.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Adding to the regulatory push to further build the prowess of India&#8217;s semiconductor industry, Union minister for electronics and IT&#8230;"
     }
 ]
