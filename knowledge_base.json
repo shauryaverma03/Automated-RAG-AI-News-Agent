@@ -78790,5 +78790,69 @@
         "published": "Wed, 28 Jan 2026 06:17:54 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The expansion is expected to cut around one million tonnes of CO2 annually from freight operations - a key contributor to transport emissions - marking a significant step in decarbonising the logistics sector."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
+        "title": "WhatsApp will now charge AI chatbots to operate in Italy",
+        "link": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
+        "published": "Wed, 28 Jan 2026 19:18:59 +0000",
+        "source": "TechCrunch",
+        "summary": "WhatsApp plans to charge developers of AI chatbots per message."
+    },
+    {
+        "id": "https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home",
+        "title": "I used Claude to vibe-code my wildly overcomplicated smart home",
+        "link": "https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home",
+        "published": "2026-01-28T15:00:00-05:00",
+        "source": "The Verge",
+        "summary": "I am not, by any definition, a coder, but when I started seeing people's vibe-coded smart home projects all over my social feeds this month, I was intrigued. From a \"master command center\" built on a Lutron system to AI controlling a smart oven, people were unleashing AI in their smart homes, using Claude Code [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/868870/samsung-galaxy-buds-fe-kindle-paperwhite-deal-sale",
+        "title": "The entry-level Samsung Galaxy Buds FE are on sale for $30 off right now",
+        "link": "https://www.theverge.com/gadgets/868870/samsung-galaxy-buds-fe-kindle-paperwhite-deal-sale",
+        "published": "2026-01-28T14:52:31-05:00",
+        "source": "The Verge",
+        "summary": "If past timing is any indication, Samsung is likely to hold its next Unpacked event in late February. However, we\u2019re not expecting the company to shake up its earbuds lineup until the summer \u2014 the winter keynote is typically reserved for smartphone announcements \u2014 which makes today\u2019s discount on the Galaxy Buds FE far more [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/the-doomsday-clock-is-now-85-seconds-to-midnight-heres-what-that-means/",
+        "title": "The Doomsday Clock Is Now 85 Seconds to Midnight. Here\u2019s What That Means",
+        "link": "https://www.wired.com/story/the-doomsday-clock-is-now-85-seconds-to-midnight-heres-what-that-means/",
+        "published": "Wed, 28 Jan 2026 20:09:07 +0000",
+        "source": "WIRED",
+        "summary": "Catastrophic risks are increasing, cooperation is declining, and swift action is needed from global leaders to correct course."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/",
+        "title": "US cyber defense chief accidentally uploaded secret government info to ChatGPT",
+        "link": "https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/",
+        "published": "Wed, 28 Jan 2026 19:56:44 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Congress recently grilled the acting chief on mass layoffs and a failed polygraph."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/01/why-reviving-the-shuttered-anthem-is-turning-out-tougher-than-expected/",
+        "title": "Why reviving the shuttered Anthem is turning out tougher than expected",
+        "link": "https://arstechnica.com/gaming/2026/01/why-reviving-the-shuttered-anthem-is-turning-out-tougher-than-expected/",
+        "published": "Wed, 28 Jan 2026 18:48:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Despite proof-of-concept video, EA's Frostbite Engine servers are difficult to pick apart."
+    },
+    {
+        "id": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
+        "title": "Computer History Museum Launches Digital Portal to Its Collection",
+        "link": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
+        "published": "Wed, 28 Jan 2026 17:54:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46798994\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/linux-community-project-continuity-plan-for-replacing-linus-torvalds/",
+        "title": "Linux after Linus? The kernel community finally drafts a plan for replacing Torvalds",
+        "link": "https://www.zdnet.com/article/linux-community-project-continuity-plan-for-replacing-linus-torvalds/",
+        "published": "Wed, 28 Jan 2026 20:09:29 GMT",
+        "source": "Latest news",
+        "summary": "Linus plans to live forever. But just in case he doesn't, there's now a succession plan (though no actual successor)."
     }
 ]
