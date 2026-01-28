@@ -77710,5 +77710,125 @@
         "published": "Wed, 28 Jan 2026 10:39:05 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Despite denying that Google's Voice Assistant recorded private users' conversations without consent and used them for targeted advertising, Google is paying $68 million to avoid costs.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/01/223-google-voice-assistant-recording-private-conversations-68-million/\">Google Denies Voice Assistant Recording Private Conversations, But Settles Case for $68 Million</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk",
+        "title": "Grok is the most antisemitic chatbot according to the ADL",
+        "link": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk",
+        "published": "2026-01-28T07:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Across six top large language models, xAI's Grok performed the worst at identifying and countering antisemitic content, according to a study published Wednesday by the Anti-Defamation League. On the other end of the spectrum, Anthropic's Claude performed the best according to the report's metrics, but the ADL said all models had gaps that required improvement. [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview",
+        "title": "Windows 11&#8217;s ability to resume Android apps on your PC is getting closer",
+        "link": "https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview",
+        "published": "2026-01-28T06:18:36-05:00",
+        "source": "The Verge",
+        "summary": "Microsoft is getting ready to improve Windows 11's ability to resume Android apps on a PC. The software giant first introduced its cross-device resume last year, letting Windows 11 users resume OneDrive sessions from their Android device on a PC. Now, it's expanding this to Spotify playback, browsing sessions, and more. The improved cross-device resume [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives",
+        "title": "Astronomers used AI to find 1,400 \u2018anomalous objects\u2019 from Hubble archives",
+        "link": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives",
+        "published": "2026-01-28T06:15:37-05:00",
+        "source": "The Verge",
+        "summary": "A pair of astronomers at the European Space Agency (ESA) discovered more than 800 previously undocumented \"astrophysical anomalies\" hiding in Hubble's archives. To do so, researchers David O'Ryan and Pablo G&#243;mez trained an AI model to comb through Hubble's 35-year dataset, hunting for strange objects and flagging them for manual review. It's \"a treasure trove [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/europe-offline-club-phone-addiction/",
+        "title": "No Phone, No Social Safety Net: Welcome to the \u2018Offline Club\u2019",
+        "link": "https://www.wired.com/story/europe-offline-club-phone-addiction/",
+        "published": "Wed, 28 Jan 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Across Europe\u2019s largest cities, people are gathering for semi-silent, offline hangouts, in search of an experience that isn\u2019t mediated through their smartphones."
+    },
+    {
+        "id": "https://www.wired.com/story/google-smart-glasses-software-style/",
+        "title": "Google\u2019s Smart Glasses Will Have the Best Software. But They\u2019ll Have to Win on Style Too",
+        "link": "https://www.wired.com/story/google-smart-glasses-software-style/",
+        "published": "Wed, 28 Jan 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "When Google releases its smart glasses in the coming months, the strength of its AI-powered software will be its biggest leg up on its rivals. But will people want to be seen wearing them?"
+    },
+    {
+        "id": "https://www.wired.com/story/apple-patches-older-ios-versions-to-keep-imessage-facetime-working/",
+        "title": "Apple Patches Old Versions of iOS to Keep iMessage and FaceTime Running",
+        "link": "https://www.wired.com/story/apple-patches-older-ios-versions-to-keep-imessage-facetime-working/",
+        "published": "Wed, 28 Jan 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Apple is renewing certificates for iOS versions dating back to 2013 to keep the lights on a little longer."
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/amazons-latest-round-of-layoffs-will-affect-16000-workers-120000702.html?src=rss",
+        "title": "Amazon's latest round of layoffs will affect 16,000 workers",
+        "link": "https://www.engadget.com/big-tech/amazons-latest-round-of-layoffs-will-affect-16000-workers-120000702.html?src=rss",
+        "published": "Wed, 28 Jan 2026 12:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Amazon has <a class=\"link\" href=\"https://www.aboutamazon.com/news/company-news/amazon-layoffs-corporate-jan-2026\" target=\"_blank\">confirmed</a> that it\u2019s letting go of 16,000 workers and employees across its organization. In an announcement by company SVP Beth Galetti, she explained that Amazon was going through organizational changes to reduce layers and remove bureaucracy. Affected employees in the US will be given 90 days to look for another internal role and will receive severance pay if "
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/vpn/windscribe-review-despite-the-annoyances-it-has-the-right-idea-120000837.html?src=rss",
+        "title": "Windscribe review: Despite the annoyances, it has the right idea",
+        "link": "https://www.engadget.com/cybersecurity/vpn/windscribe-review-despite-the-annoyances-it-has-the-right-idea-120000837.html?src=rss",
+        "published": "Wed, 28 Jan 2026 12:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Windscribe is a virtual private network (VPN) with intense &quot;How do you do, fellow kids?&quot; energy. It has servers in 69 countries and an annual plan that costs $69, an obsession with the sex number that rivals Elon Musk's. I'm shocked that it doesn't have a subscription costing $4.20 per month.</p>\n<p>But there's another side to Windscribe's cringe: an obsession with independence and a Bernie Sanders-like anger on behalf of an exploited public. In a market where the <a class=\"link\" hr"
+    },
+    {
+        "id": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+        "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+        "link": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+        "published": "Wed, 28 Jan 2026 06:21:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46791742\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/pine-labs-q3-results-co-swings-to-black-with-cons-pat-of-rs-42-crore-versus-yoy-loss-revenue-rises-24/articleshow/127702791.cms",
+        "title": "Pine Labs Q3 Results: Co swings to black with cons PAT of Rs 42 crore versus YoY loss; revenue rises 24%",
+        "link": "https://economictimes.indiatimes.com/tech/startups/pine-labs-q3-results-co-swings-to-black-with-cons-pat-of-rs-42-crore-versus-yoy-loss-revenue-rises-24/articleshow/127702791.cms",
+        "published": "Wed, 28 Jan 2026 16:19:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Pine Labs swung to a consolidated profit of Rs 42 crore in Q3FY26 after a loss last year, driven by 24% revenue growth and strong platform volumes. EBITDA rose 59% YoY, while GTV hit Rs 4.5 lakh crore. Transaction growth stayed robust, though operating cash flow remained negative due to festive-driven working capital needs."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/february-reads-reconnect",
+        "title": "Why February is the perfect month for reflective reading",
+        "link": "https://yourstory.com/2026/01/february-reads-reconnect",
+        "published": "Wed, 28 Jan 2026 09:43:07 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "February is the perfect month for reflective reading. Discover how slow, thoughtful books can help you pause, reconnect, and reset emotionally."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/azamgarh-village-playschool-early-education-story",
+        "title": "Azamgarh: A neighbourhood playschool fills an early education gap",
+        "link": "https://yourstory.com/2026/01/azamgarh-village-playschool-early-education-story",
+        "published": "Wed, 28 Jan 2026 12:09:40 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In Chagoriya village of Azamgarh district, a small playschool has begun to draw parents lookingwho earlier had no nearby option for early childhood"
+    },
+    {
+        "id": "https://yourstory.com/2026/01/pinterest-dark-years-zero-growth",
+        "title": "How Pinterest survived two years of zero growth and reset",
+        "link": "https://yourstory.com/2026/01/pinterest-dark-years-zero-growth",
+        "published": "Wed, 28 Jan 2026 11:45:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Pinterest faced two years of stalled growth after the pandemic boom. Here\u2019s how leadership, discipline and focus helped the platform reset and recover."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/pine-labs-swings-to-profit-as-costs-grow-slower-than-sales",
+        "title": "Pine Labs swings to profit as costs grow slower than sales",
+        "link": "https://yourstory.com/2026/01/pine-labs-swings-to-profit-as-costs-grow-slower-than-sales",
+        "published": "Wed, 28 Jan 2026 11:40:11 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Pine Labs processed 193 crore transactions during the quarter, up 23% from a year earlier, while its merchant base expanded 14% to 10.5 lakh merchants."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/startup-news-and-updates-daily-roundup-january-28-2026",
+        "title": "Startup news and updates: Daily roundup (January 28, 2026)",
+        "link": "https://yourstory.com/2026/01/startup-news-and-updates-daily-roundup-january-28-2026",
+        "published": "Wed, 28 Jan 2026 10:42:12 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here\u2019s the roundup for Wednesday, January 28, 2026."
     }
 ]
