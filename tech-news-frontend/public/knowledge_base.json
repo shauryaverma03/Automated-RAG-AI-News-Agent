@@ -78526,5 +78526,141 @@
         "published": "Wed, 28 Jan 2026 21:46:22 +0530",
         "source": "Tech-Economic Times",
         "summary": "The expanded definition would include deep-tech, cooperatives and allow startups to pivot to deep-tech, the official said. The government has taken a series of measures to promote the startup ecosystem in the country to boost innovation."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+        "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+        "link": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+        "published": "Wed, 28 Jan 2026 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/",
+        "title": "Apple tells Patreon to move creators to in-app purchase for subscriptions by November",
+        "link": "https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/",
+        "published": "Wed, 28 Jan 2026 17:45:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Patreon isn\u2019t happy about Apple\u2019s new subscription billing mandate, arguing Apple\u2019s shifting rules create uncertainty for creators."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+        "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta\u2019s Llama",
+        "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+        "published": "Wed, 28 Jan 2026 17:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company."
+    },
+    {
+        "id": "https://www.theverge.com/transportation/869544/a-rogue-waymo-that-crashed-into-a-parked-car-was-being-manually-driven",
+        "title": "A \u2018rogue Waymo\u2019 that crashed into a parked car was being manually driven.",
+        "link": "https://www.theverge.com/transportation/869544/a-rogue-waymo-that-crashed-into-a-parked-car-was-being-manually-driven",
+        "published": "2026-01-28T13:22:10-05:00",
+        "source": "The Verge",
+        "summary": "The Zeekr van was seen on video driving up on an embankment in Echo Park before crashing into several parked cars. Waymo told CBS that its looking into the incident but stressed that the vehicle was being manually driven and was not in autonomous mode. Waymo has yet to deploy its new Zeekr vans in [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/869523/spotify-11-billion-in-royalties",
+        "title": "Spotify says it paid out $11 billion in royalties in 2025",
+        "link": "https://www.theverge.com/news/869523/spotify-11-billion-in-royalties",
+        "published": "2026-01-28T13:22:07-05:00",
+        "source": "The Verge",
+        "summary": "Today, Spotify announced that it had paid out more than $11 billion to the music industry in 2025. It's an impressive-sounding number that's a full $1 billion more than it paid last year. And, according to Spotify, that accounts for roughly 30 percent of the entire recording industry's revenue. And, according to Spotify, that accounts [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update",
+        "title": "Process Zero II will let you do a little processing, if you want",
+        "link": "https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update",
+        "published": "2026-01-28T13:01:59-05:00",
+        "source": "The Verge",
+        "summary": "Popular iPhone camera app Halide is debuting a major update today: Halide Mark III. It's been years in the making, and it'll be available as a \"Public Preview,\" letting users get their hands on new features while design is finalized. This update includes the next iteration of the app's much-discussed Process Zero mode, adding HDR [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale",
+        "title": "The noise-canceling AirPods 4 are down to $120, one of their best prices yet",
+        "link": "https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale",
+        "published": "2026-01-28T12:36:46-05:00",
+        "source": "The Verge",
+        "summary": "The AirPods Pro 3 may be on sale for $199 ($50 off), but that\u2019s still a lot of money. If you want noise cancellation for less, fortunately you can buy the AirPods 4 with Active Noise Cancellation for $119 ($60 off) at Amazon and Walmart. That\u2019s the cheapest they\u2019ve been since the holidays, and only [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/google-chrome-auto-browse/",
+        "title": "Google\u2019s New Chrome \u2018Auto Browse\u2019 Agent Attempts to Roam the Web Without You",
+        "link": "https://www.wired.com/story/google-chrome-auto-browse/",
+        "published": "Wed, 28 Jan 2026 18:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Google\u2019s latest addition to its Chrome browser puts generative AI behind the wheel and you in the passenger seat."
+    },
+    {
+        "id": "https://www.engadget.com/ai/google-brings-its-nano-banana-image-generator-to-chrome-180000104.html?src=rss",
+        "title": "Google brings its Nano Banana image generator to Chrome",
+        "link": "https://www.engadget.com/ai/google-brings-its-nano-banana-image-generator-to-chrome-180000104.html?src=rss",
+        "published": "Wed, 28 Jan 2026 18:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Following its recent <a class=\"link\" href=\"https://www.engadget.com/ai/gmail-is-getting-a-gemini-ai-overhaul-130000422.html\" target=\"_blank\">AI makeover of Gmail</a>, Google is <a class=\"link\" href=\"https://urldefense.com/v3/__https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse-personal-intelligence/__;!!Op6eflyXZCqGR5I!ECX3YhJ2S_Ln-Eo8NBS8kRek4NmLLxPViJfnIk5Q48gqhnrd4qmVffvAWUACcAy71syHbW6lRFxWD7CP6lg4q8BMSknIxA$\" target=\"_blank\">bringing more Gemini-powered tools"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/ubisoft-173241918.html?src=rss",
+        "title": "French Ubisoft workers vote to strike",
+        "link": "https://www.engadget.com/gaming/ubisoft-173241918.html?src=rss",
+        "published": "Wed, 28 Jan 2026 17:32:41 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>When deciding which video game to buy, &quot;Is it fun?&quot; is no longer the only consideration. Given the state of the industry, &quot;Do I want to support this company?&quot; is arguably more important. Take, for example, Ubisoft, where things seem to unravel more each day. After the floundering publisher floated even more layoffs this week, workers at its Paris headquarters said, &quot;Enough is enough.&quot; They're now <a class=\"link\" href=\"https://www.eurogamer.net/ubisoft-worker-unio"
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/vpn/how-to-cancel-windscribe-and-get-your-money-back-173000785.html?src=rss",
+        "title": "How to cancel Windscribe and get your money back",
+        "link": "https://www.engadget.com/cybersecurity/vpn/how-to-cancel-windscribe-and-get-your-money-back-173000785.html?src=rss",
+        "published": "Wed, 28 Jan 2026 17:30:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link\" href=\"https://www.engadget.com/cybersecurity/vpn/windscribe-review-despite-the-annoyances-it-has-the-right-idea-120000837.html\" target=\"_blank\">Windscribe</a> isn't a VPN for everybody, and it's not trying to be. Despite its high-achieving free plan, it didn't quite make my list of the <a class=\"link\" href=\"https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html\" target=\"_blank\">best VPNs</a>, largely due to alienating interface choices and swingy download speeds. I"
+    },
+    {
+        "id": "https://www.dimamik.com/posts/oban_py/",
+        "title": "Oban, the job processing framework from Elixir, has come to Python",
+        "link": "https://www.dimamik.com/posts/oban_py/",
+        "published": "Wed, 28 Jan 2026 16:32:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46797594\">Comments</a>"
+    },
+    {
+        "id": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+        "title": "Android's full desktop interface leaks: New status bar, Chrome Extensions",
+        "link": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+        "published": "Wed, 28 Jan 2026 03:34:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46790740\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/google-chrome-auto-browse/",
+        "title": "Your Google Chrome browser just got a useful autopilot feature - here's how it works",
+        "link": "https://www.zdnet.com/article/google-chrome-auto-browse/",
+        "published": "Wed, 28 Jan 2026 18:00:45 GMT",
+        "source": "Latest news",
+        "summary": "Google's new Auto Browse feature aims to handle your digital chores by taking actions on your behalf."
+    },
+    {
+        "id": "https://www.zdnet.com/article/i3-g10-plus-robot-vacuum-mop-review/",
+        "title": "My favorite budget-friendly robot vacuum is from a brand you've never heard of",
+        "link": "https://www.zdnet.com/article/i3-g10-plus-robot-vacuum-mop-review/",
+        "published": "Wed, 28 Jan 2026 17:35:00 GMT",
+        "source": "Latest news",
+        "summary": "I test robot vacuums for a living, but one of the most pleasant surprises is from a $230 unit."
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-ipad-settings-change-improve-battery-life/",
+        "title": "I changed 6 settings on my iPad to instantly improve the battery life (by hours)",
+        "link": "https://www.zdnet.com/article/best-ipad-settings-change-improve-battery-life/",
+        "published": "Wed, 28 Jan 2026 17:34:00 GMT",
+        "source": "Latest news",
+        "summary": "A few simple tweaks, and you'll quickly find yourself with a tablet that lasts longer than usual."
+    },
+    {
+        "id": "https://inc42.com/buzz/easy-home-finance-nets-30-mn-to-streamline-home-loans/",
+        "title": "Easy Home Finance Nets $30 Mn To Streamline Home Loans",
+        "link": "https://inc42.com/buzz/easy-home-finance-nets-30-mn-to-streamline-home-loans/",
+        "published": "Wed, 28 Jan 2026 18:16:58 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Easy Home Finance Nets $30 Mn To Streamline Home Loans\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/easy-funding-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Lending tech startup Easy Home Finance has raised $30 Mn (INR 276 Cr) as part of its Series C funding&#8230;"
     }
 ]
