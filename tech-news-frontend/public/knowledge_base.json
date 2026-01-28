@@ -76958,5 +76958,93 @@
         "published": "Tue, 27 Jan 2026 22:14:00 GMT",
         "source": "Latest news",
         "summary": "While it's not yet clear how practically useful the capability will be for individuals and businesses, the model's \"coding with vision\" capability makes vibe coding even vibier."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+        "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
+        "link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+        "published": "Wed, 28 Jan 2026 00:12:43 +0000",
+        "source": "TechCrunch",
+        "summary": "Personal AI assistant Moltbot \u2014formerly Clawdbot \u2014 has gone viral in a matter of weeks. But there\u2019s more you should know before jumping on the bandwagon."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/",
+        "title": "Fashion rental app By Rotation and Uber partner to help deliver ski clothing",
+        "link": "https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/",
+        "published": "Wed, 28 Jan 2026 00:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "By Rotation, one of the UK\u2019s most popular peer-to-peer fashion rental platforms, is partnering with Uber to deliver ski clothes."
+    },
+    {
+        "id": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
+        "title": "Meta is spending millions to convince people that data centers are cool and you like them",
+        "link": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
+        "published": "2026-01-27T18:53:53-05:00",
+        "source": "The Verge",
+        "summary": "Over the last few months of 2025, Meta spent $6.4 million on an ad campaign running in cities across the country, from Sacramento to Washington, with a clear mission: win over viewers on the construction of new data centers. As the New York Times reports, the ad campaign is anchored by short, folksy video spotlights [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent",
+        "title": "Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech\u2019s new obsession",
+        "link": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent",
+        "published": "2026-01-27T18:28:11-05:00",
+        "source": "The Verge",
+        "summary": "An open-source AI agent that \"actually does things\" is taking off, with people across the web sharing how they're using the agent to do a whole bunch of things, like manage reminders, log health and fitness data, and even communicate with clients. The tool, called Moltbot (formerly Clawdbot), runs locally on a variety of devices, [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/meta-blocks-links-to-ice-list-a-wiki-that-names-agents-231410653.html?src=rss",
+        "title": "Meta blocks links to ICE List, a Wiki that names agents",
+        "link": "https://www.engadget.com/social-media/meta-blocks-links-to-ice-list-a-wiki-that-names-agents-231410653.html?src=rss",
+        "published": "Tue, 27 Jan 2026 23:14:10 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Meta has started blocking links to ICE List, a website that compiles information about incidents involving Immigrations and Customs Enforcement (ICE) and Border Patrol agents, and lists thousands of their employees' names. It seems that the latter detail is what caused Meta to take action in a move that was first <a class=\"no-affiliate-link link\" href=\"https://www.wired.com/story/meta-is-blocking-links-to-ice-list-on-facebook-instagram-and-threads/\" target=\"_blank\">reported by</a> <em>Wired</"
+    },
+    {
+        "id": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+        "title": "Rust's Standard Library on the GPU",
+        "link": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+        "published": "Sat, 24 Jan 2026 04:49:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46741150\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/over-100-indian-ai-startup-founders-moving-to-us-for-funds-and-talent/articleshow/127642560.cms",
+        "title": "Over 100 Indian AI startup founders moving to US for funds and talent",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/over-100-indian-ai-startup-founders-moving-to-us-for-funds-and-talent/articleshow/127642560.cms",
+        "published": "Wed, 28 Jan 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "More than 100 Indian AI founders have moved or are preparing to move to the US, drawn by closer access to customers, capital and the most advanced artificial intelligence ecosystems, despite talk of a reverse brain drain. Composio, Meetstream.ai, Smallest.ai, Beatoven.ai and GetCrux are among startups that have moved base to the US over the past couple of years, while several others are in the process of relocating, investors and founders told ET."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/law-firms-are-cashing-in-as-indias-data-centre-expansion-accelerates/articleshow/127640877.cms",
+        "title": "Law firms are cashing in as India\u2019s data centre expansion accelerates",
+        "link": "https://economictimes.indiatimes.com/tech/technology/law-firms-are-cashing-in-as-indias-data-centre-expansion-accelerates/articleshow/127640877.cms",
+        "published": "Wed, 28 Jan 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "As the country expands its digital infrastructure to support AI and data storage, legal work related to data centers has increased. Lawyers say their responsibilities now include everything from land and power planning to obtaining regulatory approvals, securing financing, and ensuring long-term compliance."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/dli-2-0-is-targeting-six-key-chip-types-80-local-build-ashwini-vaishnaw/articleshow/127649390.cms",
+        "title": "DLI 2.0 is targeting six key chip types, 80% local build: Ashwini Vaishnaw",
+        "link": "https://economictimes.indiatimes.com/tech/technology/dli-2-0-is-targeting-six-key-chip-types-80-local-build-ashwini-vaishnaw/articleshow/127649390.cms",
+        "published": "Wed, 28 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The government is finalising the second phase of the Design-Linked Incentive (DLI) scheme to boost India\u2019s semiconductor capabilities, focusing on six key chip categories and supporting 50 fabless companies. By 2032, India aims to produce advanced 2-3 nm chips and cover 80% of domestic electronic system needs. Annual deeptech awards will also be introduced."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-well-set-to-lead-ai-adoption-growth-meta-senior-executive/articleshow/127648632.cms",
+        "title": "India well set to lead AI adoption &amp; growth: Meta senior executive",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-well-set-to-lead-ai-adoption-growth-meta-senior-executive/articleshow/127648632.cms",
+        "published": "Wed, 28 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is well placed to lead global AI adoption, backed by a large developer base, growing startups, and nearly 800 million internet users, Meta\u2019s Sandhya Devanathan said. She said that the country is central to Meta\u2019s vision for product development and business solutions. She expects an increase in the real-world impact generated by Indian AI startups in 2026."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/blackstone-plans-rs-10000-crore-digital-infra-hub-in-chennai/articleshow/127648141.cms",
+        "title": "Blackstone plans Rs 10,000-crore digital infra hub in Chennai",
+        "link": "https://economictimes.indiatimes.com/tech/technology/blackstone-plans-rs-10000-crore-digital-infra-hub-in-chennai/articleshow/127648141.cms",
+        "published": "Wed, 28 Jan 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Blackstone is expanding its data centre presence in India with a Rs 10,000 crore investment to build a hyperscale campus in Chennai. The 16-acre facility in Ambattur will start with 216 MW capacity and is developed with Beary Group. This move strengthens Blackstone\u2019s growing Indian data centre portfolio."
     }
 ]
