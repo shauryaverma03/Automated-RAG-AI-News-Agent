@@ -81262,5 +81262,37 @@
         "published": "Thu, 29 Jan 2026 18:55:38 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46814743\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+        "title": "Elon Musk\u2019s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+        "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+        "published": "Thu, 29 Jan 2026 22:47:42 +0000",
+        "source": "TechCrunch",
+        "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation."
+    },
+    {
+        "id": "https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/",
+        "title": "\u2018Uncanny Valley\u2019: Minneapolis Misinformation, TikTok\u2019s New Owners, and Moltbot Hype",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/",
+        "published": "Thu, 29 Jan 2026 22:19:59 +0000",
+        "source": "WIRED",
+        "summary": "On this episode of Uncanny Valley, we dive into the news that's held our attention this week: ICE activity as it's been unfolding in Minnesota."
+    },
+    {
+        "id": "https://www.engadget.com/ai/amazon-discovered-a-high-volume-of-csam-in-its-ai-training-data-but-isnt-saying-where-it-came-from-224749228.html?src=rss",
+        "title": "Amazon discovered a 'high volume' of CSAM in its AI training data but isn't saying where it came from",
+        "link": "https://www.engadget.com/ai/amazon-discovered-a-high-volume-of-csam-in-its-ai-training-data-but-isnt-saying-where-it-came-from-224749228.html?src=rss",
+        "published": "Thu, 29 Jan 2026 22:47:49 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p></p><p>The National Center for Missing and Exploited Children said it received more than 1 million reports of AI-related child sexual abuse material (CSAM) in 2025. The &quot;vast majority&quot; of that content was reported by Amazon, which found the material in its training data, according to an investigation by <a class=\"link\" href=\"https://www.bloomberg.com/news/features/2026-01-29/amazon-found-child-sex-abuse-in-ai-training-data\" target=\"_blank\"><em>Bloomberg</em></a>. In addition, Amazon"
+    },
+    {
+        "id": "https://github.com/flameshot-org/flameshot",
+        "title": "Flameshot",
+        "link": "https://github.com/flameshot-org/flameshot",
+        "published": "Thu, 29 Jan 2026 19:30:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46815297\">Comments</a>"
     }
 ]
