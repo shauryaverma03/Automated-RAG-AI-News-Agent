@@ -80638,5 +80638,165 @@
         "published": "Thu, 29 Jan 2026 15:51:44 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/02/swiggy-instamart.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Amid heated competition in the quick commerce market, the second largest player Swiggy Instamart won\u2019t be adopting a discount heavy&#8230;"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+        "title": "OpenAI\u2019s Sora app is struggling after its stellar launch",
+        "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+        "published": "Thu, 29 Jan 2026 16:48:44 +0000",
+        "source": "TechCrunch",
+        "summary": "Sora's mobile app downloads fell 45% in January, and consumer spending dropped."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+        "title": "Music publishers sue Anthropic for $3B over \u2018flagrant piracy\u2019 of 20,000 works",
+        "link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+        "published": "Thu, 29 Jan 2026 16:30:29 +0000",
+        "source": "TechCrunch",
+        "summary": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
+        "title": "Half of developers think gen AI is bad for the gaming industry",
+        "link": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
+        "published": "2026-01-29T12:00:00-05:00",
+        "source": "The Verge",
+        "summary": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of respondents said that gen AI is having a \"negative\" impact on the games industry, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on",
+        "title": "Google\u2019s AI helped me make bad Nintendo knockoffs",
+        "link": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on",
+        "published": "2026-01-29T12:00:00-05:00",
+        "source": "The Verge",
+        "summary": "This week, a new generative AI tool from Google let me create bad knockoffs of 3D Nintendo worlds. Check out my version of something like Super Mario 64: I didn't like Metroid Prime 4: Beyond, but it's better than my version of a Metroid Prime experience: Or how about my take on The Legend of [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/870045/microsoft-windows-11-issues-rebuilding-trust-notepad",
+        "title": "Microsoft is working to rebuild trust in Windows",
+        "link": "https://www.theverge.com/tech/870045/microsoft-windows-11-issues-rebuilding-trust-notepad",
+        "published": "2026-01-29T12:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Windows is in a weird spot. In its 40-year history, the operating system has weathered its fair share of missteps, but Windows 11 is testing the patience of its users in new ways. Persistent bugs, performance issues, intrusive prompts, ads, and bloatware have eroded the core Windows experience. Early system requirement decisions have also damaged [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/870102/waymo-sfo-passenger-trip-approval-airport",
+        "title": "Waymo is finally starting passenger trips at SFO \u2014\u00a0but not to the terminals",
+        "link": "https://www.theverge.com/news/870102/waymo-sfo-passenger-trip-approval-airport",
+        "published": "2026-01-29T12:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Waymo has finally broken through its SFO logjam. The company announced today that it will start offering robotaxi rides to a select group of passengers traveling to and from the San Francisco International Airport, a major step in Waymo's effort to increase its footprint in the Bay Area. The company plans on gradually growing the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/870159/linux-gaming-open-gaming-collective-bazzite",
+        "title": "Linux gaming developers join forces to form the Open Gaming Collective",
+        "link": "https://www.theverge.com/tech/870159/linux-gaming-open-gaming-collective-bazzite",
+        "published": "2026-01-29T11:36:51-05:00",
+        "source": "The Verge",
+        "summary": "Gaming on Linux has already come a long way over recent years, with improvements to Valve's Proton and more gamers switching to Linux, but the newly-formed Open Gaming Collective (OGC) is aiming to take it even further. Universal Blue, developer of the gaming-focused Linux distribution Bazzite, announced on Wednesday that its helping to form the [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
+        "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
+        "link": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
+        "published": "Thu, 29 Jan 2026 17:00:00 +0000",
+        "source": "WIRED",
+        "summary": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company's stuffed animals."
+    },
+    {
+        "id": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+        "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+        "link": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+        "published": "Thu, 29 Jan 2026 16:12:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46812173\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/liene-pixcut-s1-bluetooth-sticker-printer/",
+        "title": "This Bluetooth sticker printer is the weirdest tech gadget I didn't know I needed",
+        "link": "https://www.zdnet.com/article/liene-pixcut-s1-bluetooth-sticker-printer/",
+        "published": "Thu, 29 Jan 2026 17:13:00 GMT",
+        "source": "Latest news",
+        "summary": "The Liene PixCut S1 is a photo and sticker printer that works beautifully with your phone for custom stickers."
+    },
+    {
+        "id": "https://www.zdnet.com/article/rogbid-fusion-smart-ring-smartwatch/",
+        "title": "This smart ring looks like a tiny smartwatch for your finger - and it's only $50",
+        "link": "https://www.zdnet.com/article/rogbid-fusion-smart-ring-smartwatch/",
+        "published": "Thu, 29 Jan 2026 17:12:15 GMT",
+        "source": "Latest news",
+        "summary": "The Rogbid Fusion packs in health tracking and some surprising extras."
+    },
+    {
+        "id": "https://www.zdnet.com/article/security-nightmare-moltbot-5-reasons-viral-ai-agent/",
+        "title": "Moltbot is a security nightmare: 5 reasons to avoid using the viral AI agent right now",
+        "link": "https://www.zdnet.com/article/security-nightmare-moltbot-5-reasons-viral-ai-agent/",
+        "published": "Thu, 29 Jan 2026 17:10:24 GMT",
+        "source": "Latest news",
+        "summary": "Handing your computing tasks over to a cute AI crustacean might be tempting - but before you join the latest viral AI trend, consider these security risks."
+    },
+    {
+        "id": "https://www.zdnet.com/article/keysmart-smartcard-wallet-tracker-works-with-ios-android/",
+        "title": "I love AirTags, but this slim card tracker is better for my wallet - and works with iOS and Android",
+        "link": "https://www.zdnet.com/article/keysmart-smartcard-wallet-tracker-works-with-ios-android/",
+        "published": "Thu, 29 Jan 2026 17:00:50 GMT",
+        "source": "Latest news",
+        "summary": "KeySmart's new dual-network SmartCard works with Apple FindMy and Google Find Hub, so you can track your wallet with any phone."
+    },
+    {
+        "id": "https://www.zdnet.com/article/stop-using-chatgpt-ai-models-i-use-instead/",
+        "title": "Stop using ChatGPT for everything: My go-to AI models for research, coding, and more (and which I avoid)",
+        "link": "https://www.zdnet.com/article/stop-using-chatgpt-ai-models-i-use-instead/",
+        "published": "Thu, 29 Jan 2026 16:46:00 GMT",
+        "source": "Latest news",
+        "summary": "ChatGPT isn't right for everything. So I found the best AI models for any job."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end/articleshow/127781515.cms",
+        "title": "An AI pioneer warns the tech 'herd' is marching into a dead end",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end/articleshow/127781515.cms",
+        "published": "Thu, 29 Jan 2026 22:50:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI pioneer Yann LeCun argues large language models are a dead end for achieving human-level intelligence. After leaving Meta, he criticizes Silicon Valley\u2019s herd mentality, defends open source and pursues alternative AI systems that can plan, learn from the real world and rival global competitors."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/is-chip-giant-asml-about-to-hit-a-ceiling-or-break-through-it/articleshow/127781602.cms",
+        "title": "Is chip giant ASML about to hit a ceiling, or break through it?",
+        "link": "https://economictimes.indiatimes.com/tech/technology/is-chip-giant-asml-about-to-hit-a-ceiling-or-break-through-it/articleshow/127781602.cms",
+        "published": "Thu, 29 Jan 2026 22:43:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "ASML shares are up 34% so \u200cfar this month and \u200ctrade at 42 times 2026 earnings estimates, well above Nvidia's 25 times, as analysts have ratcheted up forecasts. ASML management sees sales growth this year ranging from as low \u200cas 4% to as high as 19%."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/banned-to-back-again-a-timeline-of-tiktoks-rise-fall-and-rebirth/articleshow/127781641.cms",
+        "title": "Banned to back again: A timeline of TikTok's rise, fall and rebirth",
+        "link": "https://economictimes.indiatimes.com/tech/technology/banned-to-back-again-a-timeline-of-tiktoks-rise-fall-and-rebirth/articleshow/127781641.cms",
+        "published": "Thu, 29 Jan 2026 22:19:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "TikTok evolved from a teen dance app into a dominant US platform shaping culture, commerce and politics."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hey-chatgpt-where-should-i-go-to-college/articleshow/127781591.cms",
+        "title": "Hey, ChatGPT: Where should I go to college?",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hey-chatgpt-where-should-i-go-to-college/articleshow/127781591.cms",
+        "published": "Thu, 29 Jan 2026 22:16:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Overwhelmed parents and students increasingly use AI chatbots for college planning, research and reassurance. Tools offer constant, affordable guidance amid scarce counselors, but experts warn inaccuracies, flattery and outdated data can mislead applicants and cannot replace human judgment entirely reliably."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/karnataka-innovation-act-to-enable-regulatory-sandbox-for-emerging-technologies/articleshow/127781500.cms",
+        "title": "Karnataka Innovation Act to enable regulatory sandbox for emerging technologies",
+        "link": "https://economictimes.indiatimes.com/tech/technology/karnataka-innovation-act-to-enable-regulatory-sandbox-for-emerging-technologies/articleshow/127781500.cms",
+        "published": "Thu, 29 Jan 2026 22:06:32 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Announced at the India Digital Summit 2026, the proposed move seeks to strengthen the state\u2019s pole position in AI and deep-tech while balancing rapid innovation with safety, accountability, and trust."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/how-india-is-orchestrating-its-rise-in-spacetech",
+        "title": "How India is orchestrating its rise in spacetech",
+        "link": "https://yourstory.com/2026/01/how-india-is-orchestrating-its-rise-in-spacetech",
+        "published": "Thu, 29 Jan 2026 16:55:24 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The Economic Survey 2025-26 highlights India\u2019s transition to a commercial space hub, leveraging 300 startups and strategic reforms to expand its global footprint."
     }
 ]
