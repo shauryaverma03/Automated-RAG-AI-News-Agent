@@ -80910,5 +80910,157 @@
         "published": "Thu, 29 Jan 2026 23:05:42 +0530",
         "source": "Tech-Economic Times",
         "summary": "Samir Bodas, cofounder, and former CEO of enterprise software firm Icertis, has passed away after battling with cancer, the company said on Thursday."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+        "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+        "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+        "published": "Thu, 29 Jan 2026 18:58:07 +0000",
+        "source": "TechCrunch",
+        "summary": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments."
+    },
+    {
+        "id": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech",
+        "title": "Apple\u2019s second biggest acquisition ever is an AI company that listens to \u2018silent speech\u2019",
+        "link": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech",
+        "published": "2026-01-29T14:22:27-05:00",
+        "source": "The Verge",
+        "summary": "Apple's biggest acquisition ever is still its $3 billion Beats buy in 2014, but now the second biggest deal is bringing in Q.ai, a four-year-old AI audio startup. Apple did not disclose the terms, but Financial Times reports that Apple is spending $2 billion on the company, and mentions Q.ai patents for technology that could [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/867950/obsbot-tiny-3-lite-hands-on-impressions",
+        "title": "Obsbot\u2019s new gimbal webcam doesn\u2019t justify its $350 price",
+        "link": "https://www.theverge.com/tech/867950/obsbot-tiny-3-lite-hands-on-impressions",
+        "published": "2026-01-29T14:14:27-05:00",
+        "source": "The Verge",
+        "summary": "Webcam company Obsbot recently launched two new gimbal-equipped webcams, the $349 Tiny 3 and the $199 Tiny 3 Lite. It claims that the priciest model is the smallest pan, tilt, zoom (PTZ) 4K webcam ever made, weighing 63 grams. Ironically, the Tiny 3 Lite is heavier and bigger. I've been testing the Tiny 3 for [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood",
+        "title": "Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi",
+        "link": "https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood",
+        "published": "2026-01-29T13:42:54-05:00",
+        "source": "The Verge",
+        "summary": "Prediction markets will let you bet on just about anything, from how many tweets Elon Musk will post this week to the next president of the United States, with predictions sometimes showing shockingly (or suspiciously) spot-on accuracy. Polymarket\u2019s CEO Shayne Copland has even claimed that prediction markets are \u201cthe most accurate thing we have as [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/",
+        "title": "AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment",
+        "link": "https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/",
+        "published": "Thu, 29 Jan 2026 19:07:14 +0000",
+        "source": "WIRED",
+        "summary": "Across Instagram and Facebook, AI-generated videos show people of color putting ICE agents in their place. Are they cathartic or just adding to a stew of misinformation?"
+    },
+    {
+        "id": "https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/",
+        "title": "A Yann LeCun\u2013Linked Startup Charts a New Path to AGI",
+        "link": "https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/",
+        "published": "Thu, 29 Jan 2026 19:00:00 +0000",
+        "source": "WIRED",
+        "summary": "As the world\u2019s largest companies pour hundreds of billions of dollars into large language models, San Francisco-based Logical Intelligence is trying something different in pursuit of AI that can mimic the human brain."
+    },
+    {
+        "id": "https://www.wired.com/story/anker-soundcore-aeroclip-deal-126/",
+        "title": "Our Favorite Open Earbuds Are $60 Off",
+        "link": "https://www.wired.com/story/anker-soundcore-aeroclip-deal-126/",
+        "published": "Thu, 29 Jan 2026 18:44:11 +0000",
+        "source": "WIRED",
+        "summary": "The Anker Soundcore Aeroclip earbuds boast great sound without cutting you off from the outside world."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+        "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
+        "link": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+        "published": "Thu, 29 Jan 2026 18:30:52 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Settlement comes more than 6 years after Gary DeMercurio and Justin Wynn's ordeal began."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
+        "title": "New OpenAI tool renews fears that \u201cAI slop\u201d will overwhelm scientific research",
+        "link": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
+        "published": "Thu, 29 Jan 2026 17:51:49 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "New \"Prism\" workspace launches just as studies show AI-assisted papers are flooding journals with diminished quality."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/01/custom-machine-kept-man-alive-without-lungs-for-48-hours/",
+        "title": "Custom machine kept man alive without lungs for 48 hours",
+        "link": "https://arstechnica.com/health/2026/01/custom-machine-kept-man-alive-without-lungs-for-48-hours/",
+        "published": "Thu, 29 Jan 2026 17:26:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Infections had turned his lungs to soup and had to be cleared before transplant."
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/apple-acquires-qai-for-a-reported-2-billion-190017949.html?src=rss",
+        "title": "Apple acquires Q.ai for a reported $2 billion",
+        "link": "https://www.engadget.com/big-tech/apple-acquires-qai-for-a-reported-2-billion-190017949.html?src=rss",
+        "published": "Thu, 29 Jan 2026 19:00:17 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple has acquired Israel-based startup Q.ai, a move that could provide a much-needed boost to the tech giant's capabilities in artificial intelligence. Although Apple has not disclosed terms of the deal, sources told <a class=\"link\" href=\"https://www.ft.com/content/49f4e2e4-3a68-4842-be67-879409d06aa1\" target=\"_blank\"><em>Financial Times</em></a> that the arrangement is reportedly valued at nearly $2 billion. If that figure is accurate, the Q.ai acquisition marks Apple's second largest acqui"
+    },
+    {
+        "id": "https://www.engadget.com/ai/music-publishers-sue-anthropic-for-3-billion-over-flagrant-piracy-185459358.html?src=rss",
+        "title": "Music publishers sue Anthropic for $3 billion over \u2018flagrant piracy\u2019",
+        "link": "https://www.engadget.com/ai/music-publishers-sue-anthropic-for-3-billion-over-flagrant-piracy-185459358.html?src=rss",
+        "published": "Thu, 29 Jan 2026 18:54:59 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>A group of music publishers led by Concord Music Group and Universal Music Group <a href=\"https://fingfx.thomsonreuters.com/gfx/legaldocs/gkplqybmavb/ANTHROPIC%20MUSIC%20COPYRIGHT%20LAWSUIT%20piracy.pdf\"><ins>are suing</ins></a> Anthropic, <a href=\"https://www.reuters.com/legal/litigation/anthropic-faces-new-music-publisher-lawsuit-over-alleged-piracy-2026-01-28/\"><ins>according to a report by </ins><em><ins>Reuters</ins></em></a>. The suit accuses the AI company of illegally downloading more"
+    },
+    {
+        "id": "https://www.engadget.com/ai/googles-project-genie-lets-you-generate-your-own-interactive-worlds-183646186.html?src=rss",
+        "title": "Google's Project Genie lets you generate your own interactive worlds",
+        "link": "https://www.engadget.com/ai/googles-project-genie-lets-you-generate-your-own-interactive-worlds-183646186.html?src=rss",
+        "published": "Thu, 29 Jan 2026 18:36:46 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>This past summer, Google DeepMind <a class=\"link\" href=\"https://www.engadget.com/ai/google-deepminds-genie-3-can-dynamically-alter-the-state-of-its-simulated-worlds-140052124.html\" target=\"_blank\">debuted Genie 3</a>. It\u2019s what\u2019s known as a world world, an AI system capable of generating images and reacting as the user moves through the environment the software is simulating. At the time, DeepMind positioned Genie 3 as a tool for training AI agents. Now, it\u2019s making the model available to peo"
+    },
+    {
+        "id": "https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/",
+        "title": "AI's Impact on Engineering Jobs May Be Different Than Expected",
+        "link": "https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/",
+        "published": "Thu, 29 Jan 2026 18:00:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46813834\">Comments</a>"
+    },
+    {
+        "id": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+        "title": "My Mom and Dr. DeepSeek (2025)",
+        "link": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+        "published": "Thu, 29 Jan 2026 18:45:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46814569\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/01/startup-news-and-updates-daily-roundup-january-29-2026",
+        "title": "Startup news and updates: Daily roundup (January 29, 2026)",
+        "link": "https://yourstory.com/2026/01/startup-news-and-updates-daily-roundup-january-29-2026",
+        "published": "Thu, 29 Jan 2026 12:31:30 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, January 29, 2026."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/swiggy-posts-widened-loss-rs-1065-crore-december-quarter-instamart-expenses-mount",
+        "title": "Swiggy posts widened loss of Rs 1,065 Cr in December quarter as Instamart expenses mount",
+        "link": "https://yourstory.com/2026/01/swiggy-posts-widened-loss-rs-1065-crore-december-quarter-instamart-expenses-mount",
+        "published": "Thu, 29 Jan 2026 10:48:07 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Despite a 53% revenue jump, Swiggy's Q3 loss widened to Rs 1,065 crore, up from Rs 799 crore a year ago. Heavy spending on Instamart in customer acquisitioon and store infrastructure deepened the red ink, overshadowing profits in the food delivery arm."
+    },
+    {
+        "id": "https://yourstory.com/2026/01/indias-internet-user-base-crosses-950-million-2025-iamai-report",
+        "title": "India\u2019s internet user base crosses 950M in 2025: IAMAI report",
+        "link": "https://yourstory.com/2026/01/indias-internet-user-base-crosses-950-million-2025-iamai-report",
+        "published": "Thu, 29 Jan 2026 11:05:41 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "India now has 958 million active internet users, marking an approximate 8% year\u2011on\u2011year growth, reinforcing India\u2019s position as one of the world\u2019s largest and fastest\u2011evolving digital markets."
+    },
+    {
+        "id": "https://inc42.com/buzz/icertis-cofounder-samir-bodas-passes-away/",
+        "title": "Icertis Cofounder Samir Bodas Passes Away",
+        "link": "https://inc42.com/buzz/icertis-cofounder-samir-bodas-passes-away/",
+        "published": "Thu, 29 Jan 2026 18:49:46 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Icertis Cofounder Samir Bodas Passes Away\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/01/samir-bodas-demise-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />SaaS unicorn Icertis\u2019 cofounder Samir Bodas has passed away at the age of 61 after a prolonged battle with cancer.\u00a0&#8230;"
     }
 ]
