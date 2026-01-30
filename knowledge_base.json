@@ -83022,5 +83022,29 @@
         "published": "Fri, 30 Jan 2026 21:59:50 GMT",
         "source": "Latest news",
         "summary": "I dug into Netflix's menus and unlocked a world of hidden content and features."
+    },
+    {
+        "id": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity",
+        "title": "Video game company stock prices dip after Google introduces an AI world-generation tool",
+        "link": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity",
+        "published": "2026-01-30T17:45:16-05:00",
+        "source": "The Verge",
+        "summary": "The stock prices of some major video game companies, including Take-Two Interactive, Roblox, and Unity, had notable declines on Friday, just a day after Google announced its Project Genie tool that lets users prompt AI to generate interactive experiences, Reuters reports. Take-Two's stock price closed at $220.30 (down 7.93 percent from yesterday), Roblox's closed at [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/",
+        "title": "Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti\u2019s Killing",
+        "link": "https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/",
+        "published": "Fri, 30 Jan 2026 22:49:24 +0000",
+        "source": "WIRED",
+        "summary": "Donald Trump has appeared to undermine Second Amendment rights in statements about Alex Pretti\u2019s killing. Many in the firearms community are going along with it."
+    },
+    {
+        "id": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
+        "title": "Show HN: I built an AI conversation partner to practice speaking languages",
+        "link": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
+        "published": "Fri, 30 Jan 2026 22:16:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46830698\">Comments</a>"
     }
 ]
