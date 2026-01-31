@@ -83118,5 +83118,85 @@
         "published": "Sat, 31 Jan 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Aerospace components maker JJG Aero has raised $30 million in funding led by Norwest, marking the investor\u2019s first bet in the segment in India. The company plans to expand manufacturing capacity as global aircraft demand remains strong. Industry leaders say India offers major growth potential in aerospace manufacturing."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
+        "title": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
+        "link": "https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
+        "published": "Sat, 31 Jan 2026 01:23:12 +0000",
+        "source": "TechCrunch",
+        "summary": "Ampadu's departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a donor-advised fund."
+    },
+    {
+        "id": "https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding",
+        "title": "Senate passes budget with two more weeks of Homeland Security funding",
+        "link": "https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding",
+        "published": "2026-01-30T21:38:04-05:00",
+        "source": "The Verge",
+        "summary": "The Senate voted on Friday evening to pass the federal budget, funding everything except for one entity: the Department of Homeland Security, which was given a two-week funding extension in order to negotiate new guardrails around Immigrations and Customs Enforcement (ICE). If no agreement is reached, DHS funding will lapse and the department will face [&#8230;]"
+    },
+    {
+        "id": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+        "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+        "link": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+        "published": "Sat, 31 Jan 2026 00:51:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46832074\">Comments</a>"
+    },
+    {
+        "id": "https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/",
+        "title": "Stonebraker on CAP theorem and Databases",
+        "link": "https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/",
+        "published": "Fri, 30 Jan 2026 23:47:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46831592\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/moltbot-clawdbot-5-reasons-viral-ai-agent-security-nightmare/",
+        "title": "The viral AI agent Moltbot is a security mess - 5 red flags you shouldn't ignore (before it's too late)",
+        "link": "https://www.zdnet.com/article/moltbot-clawdbot-5-reasons-viral-ai-agent-security-nightmare/",
+        "published": "Sat, 31 Jan 2026 02:00:45 GMT",
+        "source": "Latest news",
+        "summary": "Handing your computing tasks over to a cute AI crustacean might be tempting - but you should consider these security risks before getting started."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apples-cook-says-iphone-star-ingredient-of-india-success-recipe/articleshow/127813011.cms",
+        "title": "Apple's Cook says iPhone star ingredient of India success recipe",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apples-cook-says-iphone-star-ingredient-of-india-success-recipe/articleshow/127813011.cms",
+        "published": "Sat, 31 Jan 2026 07:55:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Apple's chief executive officer Tim Cook Friday told the global investing community that December was a \"terrific quarter\" for the company in India, underscoring the revenue centrality of Asia's no 2 economy that's already the biggest iPhone manufacturing base after China for the consumer-technology icon."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/saks-ending-ecommerce-partnership-with-amazon-report/articleshow/127812878.cms",
+        "title": "Saks ending ecommerce partnership with Amazon: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/saks-ending-ecommerce-partnership-with-amazon-report/articleshow/127812878.cms",
+        "published": "Sat, 31 Jan 2026 07:28:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Saks will wind down its Saks on Amazon storefront so it can focus on parts of its business it sees as spurring more growth. The partnership arose from Amazon's $475 million investment in Saks' business in 2024. The companies agreed to an arrangement in which Saks would sell products on Amazon, paying the e-commerce giant at least $900 million over eight years."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/combining-spacex-with-xai-may-be-simple-for-musk-but-tesla-isnt-so-easy/articleshow/127812790.cms",
+        "title": "Combining SpaceX with xAI may be simple for Musk, but Tesla isn't so easy",
+        "link": "https://economictimes.indiatimes.com/tech/technology/combining-spacex-with-xai-may-be-simple-for-musk-but-tesla-isnt-so-easy/articleshow/127812790.cms",
+        "published": "Sat, 31 Jan 2026 07:12:34 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Elon Musk fans and the man himself have long mused about Musk Inc, a merger of companies owned by the world's richest man. But with \u200dSpaceX expected to go public later this year, and Tesla facing \u200ba challenging transition from human-driven EVs to robotaxis and robots, even some proponents of a sprawling Musk conglomerate want to start smaller."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spacex-generated-about-8-billion-in-profit-last-year-ahead-of-ipo-sources-say/articleshow/127812763.cms",
+        "title": "SpaceX generated about $8 billion in profit last year ahead of IPO: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spacex-generated-about-8-billion-in-profit-last-year-ahead-of-ipo-sources-say/articleshow/127812763.cms",
+        "published": "Sat, 31 Jan 2026 07:08:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SpaceX \u200bgenerated about $8 billion in profit on $15 billion to $16 billion of revenue \u2060last year, two people familiar with the company's results said, providing fresh insight into the financial health of Elon Musk's space company that is expected to go public later this year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/musks-starlink-updates-privacy-policy-to-allow-consumer-data-to-train-ai/articleshow/127812751.cms",
+        "title": "Musk's Starlink updates privacy policy to allow consumer data to train AI",
+        "link": "https://economictimes.indiatimes.com/tech/technology/musks-starlink-updates-privacy-policy-to-allow-consumer-data-to-train-ai/articleshow/127812751.cms",
+        "published": "Sat, 31 Jan 2026 07:06:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ahead \u2060of a blockbuster IPO planned for later this year, SpaceX is in talks to merge with Musk's AI company, xAI, a deal first reported by Reuters on Thursday. SpaceX, already the world's most valuable private company, could \u200creach a value \u200cof more than $1 trillion after the IPO."
     }
 ]
