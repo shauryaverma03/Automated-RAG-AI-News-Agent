@@ -83958,5 +83958,45 @@
         "published": "Sat, 31 Jan 2026 20:02:36 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46840219\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
+        "title": "Waymo reportedly raising a $16B funding round",
+        "link": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
+        "published": "Sat, 31 Jan 2026 21:56:22 +0000",
+        "source": "TechCrunch",
+        "summary": "Waymo is reportedly finalizing a new funding round that will value the robotaxi company at $110 billion."
+    },
+    {
+        "id": "https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/",
+        "title": "SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers",
+        "link": "https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/",
+        "published": "Sat, 31 Jan 2026 21:27:25 +0000",
+        "source": "TechCrunch",
+        "summary": "SpaceX's filing claims these satellites will be \u201ca first step towards becoming a Kardashev II-level civilization\u00a0\u2014\u00a0one that can harness the Sun\u2019s full power.\""
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/",
+        "title": "A cup of coffee for depression treatment has better results than microdosing",
+        "link": "https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/",
+        "published": "Sat, 31 Jan 2026 12:19:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The effect of microdosing have been overstated, at least when it comes to depression."
+    },
+    {
+        "id": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
+        "title": "Outsourcing Thinking",
+        "link": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
+        "published": "Sat, 31 Jan 2026 21:06:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46840865\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/rtvkiz/minimal",
+        "title": "Show HN: Minimal \u2013 Open-Source Community driven Hardened Container Images",
+        "link": "https://github.com/rtvkiz/minimal",
+        "published": "Sat, 31 Jan 2026 19:58:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46840178\">Comments</a>"
     }
 ]
