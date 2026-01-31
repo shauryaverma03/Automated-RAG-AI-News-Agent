@@ -83910,5 +83910,53 @@
         "published": "Sat, 31 Jan 2026 12:35:17 GMT",
         "source": "YourStory RSS Feed",
         "summary": "As FM Sitharaman prepares to present the Union Budget, technology companies are urging investments in AI development, digital infrastructure, and market liquidity to accelerate adoption across sectors."
+    },
+    {
+        "id": "https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest",
+        "title": "\u201cNo more Minnesota nice, Minneapolis will strike\u201d",
+        "link": "https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest",
+        "published": "2026-01-31T15:30:00-05:00",
+        "source": "The Verge",
+        "summary": "It was too cold to take off my mittens and check Google Maps so I put my faith in the trickle of bundled-up people ahead of me. All of them were carrying signs and wearing whistles around their necks on top of layers and layers of winter clothing. At first there were dozens of us [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/nvidia-is-still-planning-to-make-a-huge-investment-in-openai-ceo-says-205521528.html?src=rss",
+        "title": "NVIDIA is still planning to make a 'huge' investment in OpenAI, CEO says",
+        "link": "https://www.engadget.com/ai/nvidia-is-still-planning-to-make-a-huge-investment-in-openai-ceo-says-205521528.html?src=rss",
+        "published": "Sat, 31 Jan 2026 20:55:21 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>NVIDIA CEO Jensen Huang told reporters that the company will &quot;invest a great deal of money&quot; in OpenAI's latest funding round, according to <a class=\"link\" href=\"https://www.bloomberg.com/news/articles/2026-01-31/nvidia-to-join-openai-s-current-funding-round-huang-says\" target=\"_blank\"><em>Bloomberg</em></a>, after <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=2f007401-3eaa-4237-b69b-54ccbe125502&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/ayaneos-pocket-s-mini-has-the-perfect-aspect-ratio-for-revisiting-classic-console-games-203926701.html?src=rss",
+        "title": "Ayaneo's Pocket S Mini has the perfect aspect ratio for revisiting classic console games",
+        "link": "https://www.engadget.com/gaming/ayaneos-pocket-s-mini-has-the-perfect-aspect-ratio-for-revisiting-classic-console-games-203926701.html?src=rss",
+        "published": "Sat, 31 Jan 2026 20:39:28 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>There may be plenty of <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/gaming/next-gen-snapdragon-g-series-chips-will-power-handhelds-from-ayaneo-onexsugar-and-retroid-pocket-131733930.html\">gaming handhelds</a> out there, but there aren't many horizontal options that let you play childhood favorites in the original 4:3 aspect ratio. To address that gap, Ayaneo launched a premium option with the <a class=\"no-affiliate-link\" href=\"https://ayaneo.com/article/915\">Pocket S Mini</a>. "
+    },
+    {
+        "id": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private",
+        "title": "US has investigated claims WhatsApp chats aren't private",
+        "link": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private",
+        "published": "Sat, 31 Jan 2026 17:25:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46838635\">Comments</a>"
+    },
+    {
+        "id": "https://arxiv.org/abs/2512.21473",
+        "title": "Demystifying ARM SME to Optimize General Matrix Multiplications",
+        "link": "https://arxiv.org/abs/2512.21473",
+        "published": "Sat, 31 Jan 2026 20:05:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46840252\">Comments</a>"
+    },
+    {
+        "id": "https://www.usenix.org/system/files/login-logout_1305_mickens.pdf",
+        "title": "The Saddest Moment (2013) [pdf]",
+        "link": "https://www.usenix.org/system/files/login-logout_1305_mickens.pdf",
+        "published": "Sat, 31 Jan 2026 20:02:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46840219\">Comments</a>"
     }
 ]
