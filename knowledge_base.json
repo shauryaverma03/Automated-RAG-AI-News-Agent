@@ -83302,5 +83302,21 @@
         "published": "Sat, 31 Jan 2026 05:17:02 GMT",
         "source": "YourStory RSS Feed",
         "summary": "JJG Aero, which serves marquee clients including Collins Aerospace, Safran, and GE Aerospace, has grown at a 35% CAGR over the past three years and plans to use the funds for capacity addition and vertical integration."
+    },
+    {
+        "id": "https://en.wikipedia.org/wiki/Ashcan_comic",
+        "title": "Ashcan Comic",
+        "link": "https://en.wikipedia.org/wiki/Ashcan_comic",
+        "published": "Fri, 30 Jan 2026 07:26:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46821488\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/instagram-tests-feature-to-let-users-quietly-leave-close-friends-lists-report/articleshow/127815158.cms",
+        "title": "Instagram tests feature to let users quietly leave \u2018Close Friends\u2019 lists: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/instagram-tests-feature-to-let-users-quietly-leave-close-friends-lists-report/articleshow/127815158.cms",
+        "published": "Sat, 31 Jan 2026 11:58:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The new feature is still in the works, and no launch date has been set. The Close Friends feature, rolled out in 2018, enables users to share stories, reels, and posts with a selected group of followers."
     }
 ]
