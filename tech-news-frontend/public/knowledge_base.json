@@ -85078,5 +85078,37 @@
         "published": "Sun, 01 Feb 2026 09:02:33 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Finance Minister Nirmala Sitharaman on Sunday presented the Union Budget 2026-27 in the Lok Sabha."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+        "title": "AI layoffs or \u2018AI-washing\u2019?",
+        "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+        "published": "Sun, 01 Feb 2026 22:15:53 +0000",
+        "source": "TechCrunch",
+        "summary": "How many of the companies with recent layoffs are just using AI as an excuse?"
+    },
+    {
+        "id": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+        "title": "Defeating a 40-year-old copy protection dongle",
+        "link": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+        "published": "Sun, 01 Feb 2026 21:30:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46849567\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/gavrielc/nanoclaw",
+        "title": "Show HN: NanoClaw \u2013 \u201cClawdbot\u201d in 500 lines of TS with Apple container isolation",
+        "link": "https://github.com/gavrielc/nanoclaw",
+        "published": "Sun, 01 Feb 2026 22:49:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46850205\">Comments</a>"
+    },
+    {
+        "id": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+        "title": "My thousand dollar iPhone can't do math",
+        "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+        "published": "Sun, 01 Feb 2026 20:51:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46849258\">Comments</a>"
     }
 ]
