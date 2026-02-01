@@ -84430,5 +84430,29 @@
         "published": "Sun, 01 Feb 2026 06:48:13 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The budget also proposes establishing a new National Institute of Design through a challenge route to address shortages in the design sector, where domestic talent hasn't kept pace with industry growth."
+    },
+    {
+        "id": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+        "title": "What I learned building an opinionated and minimal coding agent",
+        "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+        "published": "Sun, 01 Feb 2026 09:33:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46844822\">Comments</a>"
+    },
+    {
+        "id": "https://netbird.io/",
+        "title": "Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)",
+        "link": "https://netbird.io/",
+        "published": "Sun, 01 Feb 2026 09:44:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46844870\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/02/union-budget-customs-duty-exemption-for-lithium-ion-cell-manufacturing",
+        "title": "Union Budget extends customs duty exemption for lithium-ion cell manufacturing to battery energy storage systems",
+        "link": "https://yourstory.com/2026/02/union-budget-customs-duty-exemption-for-lithium-ion-cell-manufacturing",
+        "published": "Sun, 01 Feb 2026 09:34:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Imports of key raw materials for EV batteries, including lithium oxide, hydroxide and lithium carbonates, now attract no basic customs duty as opposed to 7.5% levied earlier."
     }
 ]
