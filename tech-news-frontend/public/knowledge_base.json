@@ -84014,5 +84014,53 @@
         "published": "Sat, 31 Jan 2026 21:14:02 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46840924\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+        "title": "Nvidia CEO denies he\u2019s \u2018unhappy\u2019 with OpenAI",
+        "link": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+        "published": "2026-01-31T18:37:56-05:00",
+        "source": "The Verge",
+        "summary": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there have been suggestions that the deal might not happen. While Huang [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/",
+        "title": "Research roundup: 6 cool stories we almost missed",
+        "link": "https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/",
+        "published": "Sat, 31 Jan 2026 23:13:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "A lip-syncing robot, Leonardo's DNA, and new evidence that humans, not glaciers, moved stones to Stonehenge"
+    },
+    {
+        "id": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
+        "title": "Scientist who helped eradicate smallpox dies at age 89",
+        "link": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
+        "published": "Wed, 28 Jan 2026 10:03:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46793313\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-sonos-soundbar-settings-improve-audio-quality/",
+        "title": "I changed 3 settings on my Sonos soundbar to instantly improve the audio performance",
+        "link": "https://www.zdnet.com/article/best-sonos-soundbar-settings-improve-audio-quality/",
+        "published": "Sun, 01 Feb 2026 01:00:51 GMT",
+        "source": "Latest news",
+        "summary": "If you're disappointed with your soundbar's sound performance, these simple (and free) tweaks helped mine significantly."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/labour-reforms-prompt-gig-firms-for-compliance-push/articleshow/127825355.cms",
+        "title": "Labour reforms prompt gig firms for compliance push",
+        "link": "https://economictimes.indiatimes.com/tech/technology/labour-reforms-prompt-gig-firms-for-compliance-push/articleshow/127825355.cms",
+        "published": "Sun, 01 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Employers of gig workers are reviewing the proposed labour code rules to understand their cost and operational impact. Many firms are consulting lawyers and staffing experts while reassessing expansion and workforce models. Companies say uncertainty remains as states are yet to finalise how the rules will be implemented."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-social-network-becomes-talk-of-the-town/articleshow/127825286.cms",
+        "title": "AI agents\u2019 social network becomes talk of the town",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-social-network-becomes-talk-of-the-town/articleshow/127825286.cms",
+        "published": "Sun, 01 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Moltbook, a new social network for AI agents, has exploded in popularity, attracting around a million bots within hours. Inspired by Reddit, the text-heavy platform lets AI discuss philosophy, stories and even emotions, delighting some researchers. Others warn it is chaotic, filled with crypto promotion and hype."
     }
 ]
