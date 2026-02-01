@@ -84990,5 +84990,37 @@
         "published": "Sun, 01 Feb 2026 19:04:30 +0000",
         "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
         "summary": "<p>Just like buying a new iPhone through Apple's online store, you now select each spec of your new Mac device when purchasing through the website. As first spotted by <a class=\"no-affiliate-link\" href=\"https://www.macworld.com/article/3048329/apple-just-completely-changed-how-you-buy-a-new-mac.html\"><em>MacWorld</em></a>, Apple updated its <a class=\"no-affiliate-link\" href=\"https://www.apple.com/shop/buy-mac/macbook-pro\">online configuration tool</a> for purchasing a Mac. Compared to the previo"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/",
+        "title": "Amazon\u2019s \u2018Melania\u2019 documentary makes $7M on opening weekend",
+        "link": "https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/",
+        "published": "Sun, 01 Feb 2026 19:16:27 +0000",
+        "source": "TechCrunch",
+        "summary": "While the documentary is exceeding box office expectations, it's unlikely to make a profit in theaters."
+    },
+    {
+        "id": "https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd",
+        "title": "Bill Gates says accusations contained in Epstein files are \u2018absolutely absurd\u2019",
+        "link": "https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd",
+        "published": "2026-02-01T14:24:53-05:00",
+        "source": "The Verge",
+        "summary": "Reports of Bill Gates' connections with Jeffrey Epstein grow more lurid with each dump of documents from the Department of Justice. The latest includes somewhat confusing emails that Epstein may have been drafting on behalf of someone named Boris, who worked at the Bill &#38; Melinda Gates Foundation. The messages claim that Bill contracted an [&#8230;]"
+    },
+    {
+        "id": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
+        "title": "I taught my neighbor to keep the volume down",
+        "link": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
+        "published": "Sun, 01 Feb 2026 19:00:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46848415\">Comments</a>"
+    },
+    {
+        "id": "https://cedardb.com/blog/string_compression/",
+        "title": "Efficient String Compression for Modern Database Systems",
+        "link": "https://cedardb.com/blog/string_compression/",
+        "published": "Fri, 30 Jan 2026 16:02:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46826011\">Comments</a>"
     }
 ]
