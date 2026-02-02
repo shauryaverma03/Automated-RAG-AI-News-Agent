@@ -86326,5 +86326,149 @@
         "published": "Mon, 02 Feb 2026 11:45:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Small daily habits quietly shape who you become. Learn how consistent, simple actions influence your future more than big decisions."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/02/grubhub-waives-delivery-service-fees-orders-over-50/",
+        "title": "Grubhub waives delivery and service fees on restaurant orders over $50",
+        "link": "https://techcrunch.com/2026/02/02/grubhub-waives-delivery-service-fees-orders-over-50/",
+        "published": "Mon, 02 Feb 2026 18:22:43 +0000",
+        "source": "TechCrunch",
+        "summary": "In a bold move to close the gap with rivals, Grubhub is waiving delivery and service fees on restaurant orders over $50."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+        "title": "OpenAI launches new MacOS app for agentic coding",
+        "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+        "published": "Mon, 02 Feb 2026 18:19:31 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI has released a new MacOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/02/notepad-says-chinese-government-hackers-hijacked-its-software-updates-for-months/",
+        "title": "Notepad++ says Chinese government hackers hijacked its software updates for months",
+        "link": "https://techcrunch.com/2026/02/02/notepad-says-chinese-government-hackers-hijacked-its-software-updates-for-months/",
+        "published": "Mon, 02 Feb 2026 18:09:34 +0000",
+        "source": "TechCrunch",
+        "summary": "The developer of the popular text editor Notepad++ said hackers associated with the Chinese government hijacked its software update mechanism to deliver tainted software to users for months."
+    },
+    {
+        "id": "https://www.theverge.com/report/872073/steven-sinofsky-jeffrey-epstein-files-emails-microsoft-exit-settlement",
+        "title": "Former Windows 8 boss recruited Epstein to help negotiate his messy Microsoft exit",
+        "link": "https://www.theverge.com/report/872073/steven-sinofsky-jeffrey-epstein-files-emails-microsoft-exit-settlement",
+        "published": "2026-02-02T13:09:30-05:00",
+        "source": "The Verge",
+        "summary": "Emails between former Windows boss Steven Sinofsky and Jeffrey Epstein, published by the Justice department on Friday, appear to show that Sinofsky constantly sought Epstein's advice as he negotiated his surprise exit from Microsoft in November 2012, forwarding emails to him in nearly real time as talks progressed. Sinofsky also appears to have paid Epstein [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/apps/a-developer-turned-wikipedia-into-a-social-media-style-feed-174924280.html?src=rss",
+        "title": "A developer turned Wikipedia into a social media-style feed",
+        "link": "https://www.engadget.com/apps/a-developer-turned-wikipedia-into-a-social-media-style-feed-174924280.html?src=rss",
+        "published": "Mon, 02 Feb 2026 17:49:24 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>While it's important to stay informed about what's going on in the world, endlessly scrolling through your social media feeds and absorbing what's likely to be a largely negative influx of information can't be great for your mental wellbeing. Perhaps with an eye on stopping you from doomscrolling, developer Lyra Rebane created <a class=\"link\" href=\"https://xikipedia.org/\" target=\"_blank\">Xikipedia</a>, a social media-style feed of <a class=\"link\" href=\"https://www.engadget.com/ai/wikimedia-sa"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+        "title": "What we\u2019ve been getting wrong about AI\u2019s truth crisis",
+        "link": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+        "published": "Mon, 02 Feb 2026 18:09:57 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. What would it take to convince you that the era of truth decay we were long warned about\u2014where AI content dupes us, shapes our beliefs even when we catch the lie, and&#8230;"
+    },
+    {
+        "id": "https://www.millert.dev/",
+        "title": "Todd C. Miller \u2013 sudo Maintainer for over 30 years",
+        "link": "https://www.millert.dev/",
+        "published": "Mon, 02 Feb 2026 17:25:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46858577\">Comments</a>"
+    },
+    {
+        "id": "https://openai.com/index/introducing-the-codex-app/",
+        "title": "The Codex App",
+        "link": "https://openai.com/index/introducing-the-codex-app/",
+        "published": "Mon, 02 Feb 2026 18:02:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46859054\">Comments</a>"
+    },
+    {
+        "id": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
+        "title": "Linux From Scratch Ends SysVinit Support",
+        "link": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
+        "published": "Mon, 02 Feb 2026 17:45:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46858829\">Comments</a>"
+    },
+    {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+        "title": "Advancing AI Benchmarking with Game Arena",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+        "published": "Mon, 02 Feb 2026 17:49:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46858873\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/malwarebytes-in-chatgpt-flags-scams-for-free/",
+        "title": "Is that a scam? This new ChatGPT trick scans suspicious numbers, emails, and links - for free",
+        "link": "https://www.zdnet.com/article/malwarebytes-in-chatgpt-flags-scams-for-free/",
+        "published": "Mon, 02 Feb 2026 18:21:22 GMT",
+        "source": "Latest news",
+        "summary": "Why take the risk when you can ask Malwarebytes to check for scams right inside ChatGPT? It's easy."
+    },
+    {
+        "id": "https://www.zdnet.com/article/openai-codex-mac-app-free-trial/",
+        "title": "OpenAI's Codex just got its own Mac app - and anyone can try it for free now",
+        "link": "https://www.zdnet.com/article/openai-codex-mac-app-free-trial/",
+        "published": "Mon, 02 Feb 2026 18:00:00 GMT",
+        "source": "Latest news",
+        "summary": "The new Mac app turns GPT-5.2-Codex into a multi-agent command center. Here's how."
+    },
+    {
+        "id": "https://www.zdnet.com/article/ideal-os-linux-distribution-review/",
+        "title": "This Linux distro has one of the smartest security features I've seen (and I've tested dozens)",
+        "link": "https://www.zdnet.com/article/ideal-os-linux-distribution-review/",
+        "published": "Mon, 02 Feb 2026 17:53:00 GMT",
+        "source": "Latest news",
+        "summary": "If you're looking for a bit of extra security in an MXLinux-based distribution, iDeal OS might be an ideal solution."
+    },
+    {
+        "id": "https://www.zdnet.com/article/sonos-amp-multi-news/",
+        "title": "Sonos' first new hardware since app debacle targets your most complex audio setup",
+        "link": "https://www.zdnet.com/article/sonos-amp-multi-news/",
+        "published": "Mon, 02 Feb 2026 17:46:36 GMT",
+        "source": "Latest news",
+        "summary": "The Amp Multi is built to accommodate a web of Sonos' architectural speakers, and its functionality will rely entirely on the Sonos app."
+    },
+    {
+        "id": "https://www.zdnet.com/article/ram-prices-linux-zram/",
+        "title": "RAM too expensive? Here's how to speed up your Linux system anyway - for free",
+        "link": "https://www.zdnet.com/article/ram-prices-linux-zram/",
+        "published": "Mon, 02 Feb 2026 17:32:27 GMT",
+        "source": "Latest news",
+        "summary": "If you haven't noticed, the price of memory has shot through the roof. If you can't afford to boost your Linux system with hardware, try this software approach."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moltbook-social-media-site-for-ai-agents-had-big-security-hole-cyber-firm-wiz-says/articleshow/127868369.cms",
+        "title": "'Moltbook' social media site for AI agents had big security hole, cyber firm Wiz says",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moltbook-social-media-site-for-ai-agents-had-big-security-hole-cyber-firm-wiz-says/articleshow/127868369.cms",
+        "published": "Mon, 02 Feb 2026 23:14:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Moltbook, a Reddit-like site advertised as a \"social network built exclusively for AI agents,\" inadvertently revealed the private messages shared between agents, the email addresses of more than 6,000 owners, and more \u200cthan a million \u200ccredentials, Wiz said in a blog post."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/snowflake-partners-with-openai-in-200-million-ai-deal/articleshow/127868337.cms",
+        "title": "Snowflake partners with OpenAI in $200 million AI deal",
+        "link": "https://economictimes.indiatimes.com/tech/technology/snowflake-partners-with-openai-in-200-million-ai-deal/articleshow/127868337.cms",
+        "published": "Mon, 02 Feb 2026 23:11:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Snowflake said on Monday it has entered a $200 million \u200dpartnership with OpenAI to \u200bintegrate advanced artificial intelligence models directly into its \u2060cloud data platform, as enterprises increasingly turn to AI to extract insights from vast troves of data."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/oracle-rises-as-50-billion-raise-eases-data-center-funding-fears/articleshow/127868269.cms",
+        "title": "Oracle rises as $50 billion raise eases data-center funding fears",
+        "link": "https://economictimes.indiatimes.com/tech/technology/oracle-rises-as-50-billion-raise-eases-data-center-funding-fears/articleshow/127868269.cms",
+        "published": "Mon, 02 Feb 2026 23:08:44 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Oracle shares gained 2.5% on Monday after Wall Street analysts said the software company's $50 \u200dbillion fundraising plan allays worries over \u200bits ability to finance a massive data-center expansion with OpenAI."
     }
 ]
