@@ -88430,5 +88430,69 @@
         "published": "Tue, 03 Feb 2026 18:49:20 GMT",
         "source": "Latest news",
         "summary": "Samsung will sell you a 65-inch QN1EF Neo QLED TV and HW-S700D soundbar for under $1,200 now, just in time for the Super Bowl and the Winter Olympics."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/",
+        "title": "YC startups can now receive investment in stablecoin",
+        "link": "https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/",
+        "published": "Tue, 03 Feb 2026 19:54:12 +0000",
+        "source": "TechCrunch",
+        "summary": "All startups accepted into YC will soon have the option to receive their seed checks via stablecoins."
+    },
+    {
+        "id": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing",
+        "title": "Microsoft says it\u2019s building an app store for AI content licensing",
+        "link": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing",
+        "published": "2026-02-03T15:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Microsoft says it is working on the Publisher Content Marketplace (PCM), an AI licensing hub that shows usage terms set by publishers. That way, AI companies can easily shop the terms and set up deals to use online content for \"grounding\" their AI models, while the content owners get usage-based reporting to help set prices. [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/",
+        "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren\u2019t Allowed",
+        "link": "https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/",
+        "published": "Tue, 03 Feb 2026 19:55:36 +0000",
+        "source": "WIRED",
+        "summary": "I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies."
+    },
+    {
+        "id": "https://www.wired.com/story/ice-cbp-srt-bortac-units-immigration-operations/",
+        "title": "The Paramilitary ICE and CBP Units at the Center of Minnesota's Killings",
+        "link": "https://www.wired.com/story/ice-cbp-srt-bortac-units-immigration-operations/",
+        "published": "Tue, 03 Feb 2026 19:52:29 +0000",
+        "source": "WIRED",
+        "summary": "Two agents involved in the shooting deaths of US citizens in Minneapolis are reportedly part of highly militarized DHS units whose extreme tactics are generally reserved for war zones."
+    },
+    {
+        "id": "https://www.engadget.com/ai/apple-just-made-xcode-better-for-vibe-coding-195653049.html?src=rss",
+        "title": "Apple just made Xcode better for vibe coding",
+        "link": "https://www.engadget.com/ai/apple-just-made-xcode-better-for-vibe-coding-195653049.html?src=rss",
+        "published": "Tue, 03 Feb 2026 19:56:53 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple has just <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=477d4d1b-ab12-4ec8-ac1f-ec11c985c0ae&amp;featureId=text-link&amp;merchantName=Apple&amp;linkText=released+Xcode+26.3&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vY2EvbmV3c3Jvb20vMjAyNi8wMi94Y29kZS0yNi1wb2ludC0zLXVubG9ja3MtdGhlLXBvd2VyL"
+    },
+    {
+        "id": "https://www.zdnet.com/article/xcode-agentic-coding-apple-developer-tools/",
+        "title": "Xcode 26.3 finally brings agentic coding to Apple's developer tools",
+        "link": "https://www.zdnet.com/article/xcode-agentic-coding-apple-developer-tools/",
+        "published": "Tue, 03 Feb 2026 20:18:17 GMT",
+        "source": "Latest news",
+        "summary": "Xcode 26.3 could be Apple's biggest leap in AI coding tools, shifting from assistant prompts to autonomous agents that build, test, and update configurations directly inside Xcode."
+    },
+    {
+        "id": "https://www.zdnet.com/article/google-pixel-10-pro-xl-vs-samsung-galaxy-s25-ultra/",
+        "title": "Google Pixel 10 Pro XL vs. Samsung Galaxy S25 Ultra: I tested both Androids, and it's a close one",
+        "link": "https://www.zdnet.com/article/google-pixel-10-pro-xl-vs-samsung-galaxy-s25-ultra/",
+        "published": "Tue, 03 Feb 2026 19:51:00 GMT",
+        "source": "Latest news",
+        "summary": "I've tested the two best Android phones out there - here's what sets each one apart, and why you might want to pick one over the other."
+    },
+    {
+        "id": "https://www.zdnet.com/article/kanopy-free-streaming-service-signup/",
+        "title": "Your library card unlocks a free movie streaming service most people don't know about",
+        "link": "https://www.zdnet.com/article/kanopy-free-streaming-service-signup/",
+        "published": "Tue, 03 Feb 2026 19:39:00 GMT",
+        "source": "Latest news",
+        "summary": "Kanopy offers thousands of shows and movies. Here's how to sign up for it."
     }
 ]
