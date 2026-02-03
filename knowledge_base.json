@@ -88494,5 +88494,45 @@
         "published": "Tue, 03 Feb 2026 19:39:00 GMT",
         "source": "Latest news",
         "summary": "Kanopy offers thousands of shows and movies. Here's how to sign up for it."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+        "title": "Intel will start making GPUs, a market dominated by Nvidia",
+        "link": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+        "published": "Tue, 03 Feb 2026 21:01:34 +0000",
+        "source": "TechCrunch",
+        "summary": "Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/873160/super-bowl-4k-oled-big-tv-deal-sale",
+        "title": "The four best Super Bowl TV deals we found",
+        "link": "https://www.theverge.com/gadgets/873160/super-bowl-4k-oled-big-tv-deal-sale",
+        "published": "2026-02-03T16:23:36-05:00",
+        "source": "The Verge",
+        "summary": "The Super Bowl is not only one of the biggest sporting events in the world, it\u2019s also one of the best times of year to find a deal on a big TV. For major events in particular, a large TV makes sense because it provides a more immersive experience and allows for groups of friends [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo",
+        "title": "Elon Musk is merging SpaceX and xAI to build data centers in space \u2014 or so he says",
+        "link": "https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo",
+        "published": "2026-02-03T16:01:03-05:00",
+        "source": "The Verge",
+        "summary": "On Monday, Elon Musk announced that he was merging two of his companies, SpaceX and xAI, in a deal said to be worth $1.25 trillion. The reason, Musk said in an announcement, was that in order for AI to grow, it needed to go to space. AI relies on \"large terrestrial data centers\" that run [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/",
+        "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
+        "link": "https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/",
+        "published": "Tue, 03 Feb 2026 20:13:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Paris prosecutor: Illegal content probe includes pornographic images of minors."
+    },
+    {
+        "id": "https://www.engadget.com/ai/chatgpt-is-down-for-many-users-this-afternoon-210238573.html?src=rss",
+        "title": "ChatGPT is down for many users this afternoon",
+        "link": "https://www.engadget.com/ai/chatgpt-is-down-for-many-users-this-afternoon-210238573.html?src=rss",
+        "published": "Tue, 03 Feb 2026 21:02:38 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>If you've had trouble using ChatGPT today, you aren't alone. The AI chatbot is experiencing a partial outage for many users this afternoon. <a class=\"link\" href=\"https://downdetector.com/status/openai/\" target=\"_blank\">Down Detector</a> reports of issues with the service leapt from almost nothing to more than 12,000 around 3PM ET.&nbsp;</p><figure><img alt=\"Screenshot of Down Detector reports on ChatGPT status\" src=\"https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Screenshot_2026-02"
     }
 ]
