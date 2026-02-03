@@ -88238,5 +88238,101 @@
         "published": "Tue, 03 Feb 2026 09:37:33 GMT",
         "source": "YourStory RSS Feed",
         "summary": "As travelers, particularly Gen Z, seek unpredictable, nature-rich experiences, the government is looking to back the infrastructure to unlock India\u2019s ecological treasures."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/",
+        "title": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
+        "link": "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/",
+        "published": "Tue, 03 Feb 2026 18:35:19 +0000",
+        "source": "TechCrunch",
+        "summary": "The use of administrative subpoenas, which are not subject to judicial oversight, are used to demand a wealth of information from tech companies, including the owners of anonymous online accounts documenting ICE operations."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/",
+        "title": "Skyryse lands another $300M to make flying, even helicopters, simple and safe",
+        "link": "https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/",
+        "published": "Tue, 03 Feb 2026 18:21:23 +0000",
+        "source": "TechCrunch",
+        "summary": "Skyrsye, now valued at $1.15 billion, is pushing to get FAA certification for its universal operating system for flight."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
+        "title": "Agentic coding comes to Apple\u2019s Xcode with agents from Anthropic and OpenAI",
+        "link": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
+        "published": "Tue, 03 Feb 2026 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/",
+        "title": "Gradient\u2019s heat pumps get new smarts to enable old building retrofits",
+        "link": "https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/",
+        "published": "Tue, 03 Feb 2026 17:56:45 +0000",
+        "source": "TechCrunch",
+        "summary": "Gradient's heat pumps fit in windows, minimizing installation times. Now, it is introducing software to make those units more intelligent."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/03/watch-club-microdrama-video-social-network/",
+        "title": "Watch Club is producing short video dramas and building a social network around them",
+        "link": "https://techcrunch.com/2026/02/03/watch-club-microdrama-video-social-network/",
+        "published": "Tue, 03 Feb 2026 17:44:49 +0000",
+        "source": "TechCrunch",
+        "summary": "Watch Club will house microdramas and fan discussions in the same app, creating a fandom-focused social media experience."
+    },
+    {
+        "id": "https://www.wired.com/story/republicans-boosting-fraud-allegations-california/",
+        "title": "Republicans Are All In on Boosting Fraud Allegations in California",
+        "link": "https://www.wired.com/story/republicans-boosting-fraud-allegations-california/",
+        "published": "Tue, 03 Feb 2026 17:43:31 +0000",
+        "source": "WIRED",
+        "summary": "Right-wing influencers who were instrumental in spreading allegations of fraud in Minnesota ahead of ICE\u2019s surge are now going after a number of California\u2019s social welfare programs."
+    },
+    {
+        "id": "https://www.engadget.com/deals/sonys-wh-1000xm6-headphones-are-down-to-a-record-low-price-175038776.html?src=rss",
+        "title": "Sony's WH-1000XM6 headphones are down to a record-low price",
+        "link": "https://www.engadget.com/deals/sonys-wh-1000xm6-headphones-are-down-to-a-record-low-price-175038776.html?src=rss",
+        "published": "Tue, 03 Feb 2026 17:50:38 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Sony's wireless WH-1000XM6 headphones <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0F3PT1VBL&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=4519507c-493c-4bae-a537-e3800e375935&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=are+on+sale+for+%24398+via+Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL1NvbnktV0g"
+    },
+    {
+        "id": "https://deno.com/blog/introducing-deno-sandbox",
+        "title": "Deno Sandbox",
+        "link": "https://deno.com/blog/introducing-deno-sandbox",
+        "published": "Tue, 03 Feb 2026 17:33:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46874097\">Comments</a>"
+    },
+    {
+        "id": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+        "title": "Xcode 26.3 unlocks the power of agentic coding",
+        "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+        "published": "Tue, 03 Feb 2026 18:04:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46874619\">Comments</a>"
+    },
+    {
+        "id": "https://nikolak.com/gdpr-failure/",
+        "title": "I made 20 GDPR deletion requests. 12 were ignored",
+        "link": "https://nikolak.com/gdpr-failure/",
+        "published": "Tue, 03 Feb 2026 17:48:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46874345\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-laptop-deals-presidents-day-2026/",
+        "title": "The best Presidents' Day laptop sales we've found so far",
+        "link": "https://www.zdnet.com/article/best-laptop-deals-presidents-day-2026/",
+        "published": "Tue, 03 Feb 2026 18:16:15 GMT",
+        "source": "Latest news",
+        "summary": "We're tracking the best laptop deals ahead of Presidents' Day 2026, with offers from Apple, Lenovo, HP, and more."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/walmart-hits-1-trillion-market-value-joins-club-dominated-by-big-tech-giants/articleshow/127892146.cms",
+        "title": "Walmart hits $1 trillion market value, joins club dominated by Big Tech giants",
+        "link": "https://economictimes.indiatimes.com/tech/technology/walmart-hits-1-trillion-market-value-joins-club-dominated-by-big-tech-giants/articleshow/127892146.cms",
+        "published": "Tue, 03 Feb 2026 23:28:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Walmart became the first retailer ever to hit $1 trillion in market valuation on Tuesday, riding on a year-long rally that has seen its shares rise nearly 26%, placing it among the ranks of Big Tech heavyweights such as Nvidia and Alphabet."
     }
 ]
