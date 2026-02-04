@@ -90510,5 +90510,53 @@
         "published": "Wed, 04 Feb 2026 21:13:17 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46891860\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+        "title": "Google\u2019s Gemini app has surpassed 750M monthly active users",
+        "link": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+        "published": "Wed, 04 Feb 2026 22:53:46 +0000",
+        "source": "TechCrunch",
+        "summary": "Google revealed a significant milestone for it's Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
+        "title": "The Wayback Machine debuts a new plug-in designed to fix the internet\u2019s broken links problem",
+        "link": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
+        "published": "Wed, 04 Feb 2026 22:27:12 +0000",
+        "source": "TechCrunch",
+        "summary": "Should a linked web page go offline, the new feature will then redirect readers to the archived versions, so that there is no drop in service. The tool also archives a user's own posts, helping to ensure their longevity."
+    },
+    {
+        "id": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings",
+        "title": "Google&#8217;s annual revenue tops $400 billion for the first time",
+        "link": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings",
+        "published": "2026-02-04T17:41:03-05:00",
+        "source": "The Verge",
+        "summary": "Google's parent company, Alphabet, has earned more than $400 billion in annual revenue for the first time. The company announced the milestone as part of its Q4 2025 earnings report released on Wednesday, which highlights the 15 percent year-over-year increase as its cloud business and YouTube continue to grow. As noted in the earnings report, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation",
+        "title": "Senators grill Waymo and Tesla over robotaxi safety, liability, and China",
+        "link": "https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation",
+        "published": "2026-02-04T17:31:01-05:00",
+        "source": "The Verge",
+        "summary": "During a two-hour hearing in the US Senate Wednesday, top executives from Waymo and Tesla urged lawmakers to take action on long-stalled legislation to speed the deployment of self-driving cars on public roads. But after two hours of Q&#38;A around a number of hot-button topics, including robotaxi safety, legal liability, remote operation, and China, it [&#8230;]"
+    },
+    {
+        "id": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+        "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
+        "link": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+        "published": "Wed, 04 Feb 2026 21:08:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46891794\">Comments</a>"
+    },
+    {
+        "id": "https://kk.org/thetechnium/the-singularity/",
+        "title": "The Singularity Is Always Near (2006)",
+        "link": "https://kk.org/thetechnium/the-singularity/",
+        "published": "Tue, 03 Feb 2026 00:32:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46864543\">Comments</a>"
     }
 ]
