@@ -90206,5 +90206,85 @@
         "published": "Wed, 04 Feb 2026 23:12:22 +0530",
         "source": "Tech-Economic Times",
         "summary": "The United Nations children's agency UNICEF on Wednesday called for countries to criminalize the creation of AI-generated child sexual abuse content, \u200csaying it was \u200calarmed by reports of an increase in the number of artificial intelligence images sexualising children."
+    },
+    {
+        "id": "https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare",
+        "title": "OpenClaw&#8217;s AI &#8216;skill&#8217; extensions are a security nightmare",
+        "link": "https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare",
+        "published": "2026-02-04T14:03:38-05:00",
+        "source": "The Verge",
+        "summary": "OpenClaw, the AI agent that has exploded in popularity over the past week, is raising new security concerns after researchers uncovered malware in hundreds of user-submitted \"skill\" add-ons on its marketplace. In a post on Monday, 1Password product VP Jason Meller says OpenClaw's skill hub has become \"an attack surface,\" with the most-downloaded add-on serving [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
+        "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+        "link": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
+        "published": "Wed, 04 Feb 2026 19:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Axiom says its AI found solutions to several long-standing math problems, a sign of the technology\u2019s steadily advancing reasoning capabilities."
+    },
+    {
+        "id": "https://www.wired.com/story/pixel-9a-deal-226/",
+        "title": "Our Favorite Pixel Phone Is $100 Off",
+        "link": "https://www.wired.com/story/pixel-9a-deal-226/",
+        "published": "Wed, 04 Feb 2026 18:31:16 +0000",
+        "source": "WIRED",
+        "summary": "While the Pixel 9a isn't the fanciest offering, it is the best value, and it gets even better with a discount."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/",
+        "title": "\"Capture it all\": ICE urged to explain memo about collecting info on protesters",
+        "link": "https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/",
+        "published": "Wed, 04 Feb 2026 18:32:38 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Sen. Markey: Database of peaceful protesters, if it exists, should be shut down."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/02/adobe-reverses-decision-to-discontinue-animate-after-a-lot-of-confusion-and-angst/",
+        "title": "User blowback convinces Adobe to keep supporting 30-year-old 2D animation app",
+        "link": "https://arstechnica.com/gadgets/2026/02/adobe-reverses-decision-to-discontinue-animate-after-a-lot-of-confusion-and-angst/",
+        "published": "Wed, 04 Feb 2026 17:55:13 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Despite the about-face, some customers think \"the damage is done.\""
+    },
+    {
+        "id": "https://www.engadget.com/gaming/robloxs-4d-creation-toolset-is-now-available-in-open-beta-191510664.html?src=rss",
+        "title": "Roblox\u2019s '4D' creation toolset is now available in open beta",
+        "link": "https://www.engadget.com/gaming/robloxs-4d-creation-toolset-is-now-available-in-open-beta-191510664.html?src=rss",
+        "published": "Wed, 04 Feb 2026 19:15:11 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Roblox launched an open-source AI model that <a href=\"https://techcrunch.com/2025/03/17/roblox-releases-its-open-source-model-that-can-create-3d-objects-using-ai/\"><ins>generates 3D objects on the fly</ins></a> early last year and now that toolset is getting a massive boost. The platform has introduced a model that <a href=\"https://devforum.roblox.com/t/early-access-introducing-in-experience-4d-functional-objects-and-enhanced-3d-generation/4050893\"><ins>whips up &quot;4D&quot; objects</ins></"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/overwatch-will-drop-the-2-as-jetpack-cat-and-four-other-heroes-arrive-on-february-10-184500327.html?src=rss",
+        "title": "Overwatch will drop the '2' as Jetpack Cat and four other heroes arrive on February 10",
+        "link": "https://www.engadget.com/gaming/overwatch-will-drop-the-2-as-jetpack-cat-and-four-other-heroes-arrive-on-february-10-184500327.html?src=rss",
+        "published": "Wed, 04 Feb 2026 18:45:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Blizzard is <a class=\"link\" href=\"https://www.engadget.com/gaming/blizzard-lines-up-wow-overwatch-hearthstone-and-diablo-showcases-154912932.html\" target=\"_blank\">running a series of showcases</a> for several of its major franchises and on Wednesday, it was time for <em>Overwatch </em>to step up to the plate. That\u2019s <em>Overwatch, </em>by the way, and not <em>Overwatch 2</em>. The studio is formally nixing the number from the game's name.&nbsp;</p><p>&quot;Overwatch is more than just a digit:"
+    },
+    {
+        "id": "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/",
+        "title": "Yawning has an unexpected influence on the fluid inside your brain",
+        "link": "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/",
+        "published": "Fri, 30 Jan 2026 16:57:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46826803\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/ai-chrome-extensions-data-harvesting-privacy/",
+        "title": "Half of Chrome's AI extensions are harvesting your data - see the surprising worst offenders",
+        "link": "https://www.zdnet.com/article/ai-chrome-extensions-data-harvesting-privacy/",
+        "published": "Wed, 04 Feb 2026 19:02:47 GMT",
+        "source": "Latest news",
+        "summary": "Coding, transcription, and other productivity tools proved the most invasive, though several other categories are worth watching as well."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-watch-tv-for-free-antenna/",
+        "title": "This $20 gadget lets you watch the Super Bowl for free (and the 2026 Olympics)",
+        "link": "https://www.zdnet.com/article/how-to-watch-tv-for-free-antenna/",
+        "published": "Wed, 04 Feb 2026 18:51:48 GMT",
+        "source": "Latest news",
+        "summary": "Over-the-air TV antennas give you access to local news, sports, and entertainment channels for no cost, making them a great choice for enjoying the big game without paying high subscription fees."
     }
 ]
