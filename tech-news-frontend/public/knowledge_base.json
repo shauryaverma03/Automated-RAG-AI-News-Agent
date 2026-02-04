@@ -90286,5 +90286,93 @@
         "published": "Wed, 04 Feb 2026 18:51:48 GMT",
         "source": "Latest news",
         "summary": "Over-the-air TV antennas give you access to local news, sports, and entertainment channels for no cost, making them a great choice for enjoying the big game without paying high subscription fees."
+    },
+    {
+        "id": "https://www.theverge.com/column/874050/regulator-shutdown-averted-crypto",
+        "title": "This Town, 2.0",
+        "link": "https://www.theverge.com/column/874050/regulator-shutdown-averted-crypto",
+        "published": "2026-02-04T15:20:56-05:00",
+        "source": "The Verge",
+        "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the most ambitious crossover event of all time: the infinity war between technology and politics. Not subscribed yet? Come on, do it! Washington might seem slower than Silicon Valley. But that's because it's more turbulent. In order to achieve anything, one has to navigate [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news",
+        "title": "Overwatch: all the news about Blizzard\u2019s hit hero shooter",
+        "link": "https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news",
+        "published": "2026-02-04T14:53:54-05:00",
+        "source": "The Verge",
+        "summary": "Overwatch 2, the sequel to Activision Blizzard\u2019s hit hero shooter Overwatch, was announced in 2019 but didn\u2019t arrive for another three years, eventually bringing a shift to five-on-five matches in PVP, and a few new characters, including Overwatch\u2019s first Black female hero. After canceling planned PvE content and unlocking its hero pool, the game\u2019s developers [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/873973/ikea-matter-thread-smart-home-connectivity-issues",
+        "title": "Ikea&#8217;s cheap new smart home gear is struggling to get connected",
+        "link": "https://www.theverge.com/tech/873973/ikea-matter-thread-smart-home-connectivity-issues",
+        "published": "2026-02-04T14:35:19-05:00",
+        "source": "The Verge",
+        "summary": "I've spent the last couple of weeks trying - and mostly failing - to test Ikea's new Matter-over-Thread gear. These highly anticipated smart home devices include programmable buttons, smart bulbs, plugs, and temperature and motion sensors - all of which should work with any smart home platform and start at just $6. But I've hit [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/",
+        "title": "Notepad++ Users, You May Have Been Hacked by China",
+        "link": "https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/",
+        "published": "Wed, 04 Feb 2026 19:52:59 +0000",
+        "source": "WIRED",
+        "summary": "Suspected Chinese state-backed hackers hijacked the Notepadd++ update infrastructure to deliver a backdoored version of the popular free source code editor and note-taking app for Windows."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/02/trump-admin-is-destroying-medical-research-senate-report-finds/",
+        "title": "Trump admin is \"destroying medical research,\" Senate report finds",
+        "link": "https://arstechnica.com/health/2026/02/trump-admin-is-destroying-medical-research-senate-report-finds/",
+        "published": "Wed, 04 Feb 2026 20:02:22 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "In a Senate hearing Tuesday, NIH director dismissed concern about research chaos."
+    },
+    {
+        "id": "https://www.engadget.com/home/smart-home/best-digital-frame-120046051.html?src=rss",
+        "title": "The best digital frames for 2026",
+        "link": "https://www.engadget.com/home/smart-home/best-digital-frame-120046051.html?src=rss",
+        "published": "Wed, 04 Feb 2026 20:01:26 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>A digital photo frame shouldn\u2019t be complicated. At its best, it\u2019s just a good-looking screen that can be set up quickly that reliably shows the photos you care about. Unfortunately, that\u2019s not always how things play out. The market is flooded with cheap digital frames that promise simplicity but end up delivering washed-out displays, clunky apps and a frustrating experience \u2014 leading you to abandon it after a week.<br /><br />That\u2019s a shame, because a good digital frame can be really enjoyabl"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/games-done-quicks-back-to-black-2026-event-kicks-off-tomorrow-194147068.html?src=rss",
+        "title": "Games Done Quick's Back to Black 2026 event kicks off tomorrow",
+        "link": "https://www.engadget.com/gaming/games-done-quicks-back-to-black-2026-event-kicks-off-tomorrow-194147068.html?src=rss",
+        "published": "Wed, 04 Feb 2026 19:41:47 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Hot on the heels of <a class=\"link\" href=\"https://www.engadget.com/gaming/how-to-watch-awesome-games-done-quick-2026-174938687.html\" target=\"_blank\">AGDQ</a> in January, Games Done Quick is hosting its second speedrunning event of the year, Back to Black 2026, starting tomorrow, February 5. The four-day event is organized by <a class=\"link\" href=\"https://gamesdonequick.com/site/blackinaflash\" target=\"_blank\">Black in a Flash</a> and is raising money for <a class=\"link\" href=\"https://www.racef"
+    },
+    {
+        "id": "https://paulgraham.com/mean.html",
+        "title": "Mean People Fail (2014)",
+        "link": "https://paulgraham.com/mean.html",
+        "published": "Wed, 04 Feb 2026 19:47:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46890675\">Comments</a>"
+    },
+    {
+        "id": "https://www.fluid.sh/",
+        "title": "Claude Code for Infrastructure",
+        "link": "https://www.fluid.sh/",
+        "published": "Wed, 04 Feb 2026 18:34:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46889703\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/02/ai-is-infrastructure-and-india-will-have-its-own-says-jensen-huang",
+        "title": "AI is infrastructure, and India will have its own,\u201d says NVIDIA's Jensen Huang",
+        "link": "https://yourstory.com/2026/02/ai-is-infrastructure-and-india-will-have-its-own-says-jensen-huang",
+        "published": "Wed, 04 Feb 2026 18:12:43 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "NVIDIA CEO Jensen Huang said India will build its own AI systems, data centres and chips, calling artificial intelligence as essential to nations as electricity and the internet."
+    },
+    {
+        "id": "https://inc42.com/buzz/samridh-scheme-disbursed-inr-94-cr-startup-funding-in-5-years-mos-it/",
+        "title": "SAMRIDH Scheme Disbursed INR 94 Cr Startup Funding In 5 Years: MoS IT",
+        "link": "https://inc42.com/buzz/samridh-scheme-disbursed-inr-94-cr-startup-funding-in-5-years-mos-it/",
+        "published": "Wed, 04 Feb 2026 20:10:23 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2026/02/parl-SAMRIDH-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Minister of State (MoS) for IT Jitin Prasada yesterday informed the Parliament that the Centre has disbursed funds worth INR&#8230;"
     }
 ]
