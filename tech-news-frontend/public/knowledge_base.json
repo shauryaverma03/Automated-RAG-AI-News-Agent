@@ -93046,5 +93046,21 @@
         "published": "Tue, 03 Feb 2026 06:25:17 +0530",
         "source": "Opinion",
         "summary": "Here are the best of Business Standard's opinion pieces for today"
+    },
+    {
+        "id": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+        "title": "Things Unix can do atomically (2010)",
+        "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+        "published": "Fri, 06 Feb 2026 05:29:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46909468\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/02/assam-startup-rethinking-sustainable-beauty",
+        "title": "How an Assam startup is rethinking sustainable beauty",
+        "link": "https://yourstory.com/2026/02/assam-startup-rethinking-sustainable-beauty",
+        "published": "Fri, 06 Feb 2026 06:07:06 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "India\u2019s beauty boom is giving way to tougher questions around safety, sustainability, and waste. A young skincare brand from Assam is answering them by upcycling waste into wellness."
     }
 ]
