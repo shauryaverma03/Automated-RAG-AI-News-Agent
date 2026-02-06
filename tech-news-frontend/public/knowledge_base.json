@@ -94574,5 +94574,85 @@
         "published": "Fri, 06 Feb 2026 21:30:28 GMT",
         "source": "Latest news",
         "summary": "Apple Music and Spotify are the two most popular music streaming platforms, so you should know what each has to offer before subscribing."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+        "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+        "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+        "published": "Fri, 06 Feb 2026 22:43:22 +0000",
+        "source": "TechCrunch",
+        "summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale",
+        "title": "We found 20 Verge-approved gifts on sale ahead of Valentine\u2019s Day",
+        "link": "https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale",
+        "published": "2026-02-06T17:45:54-05:00",
+        "source": "The Verge",
+        "summary": "Valentine\u2019s Day is coming up fast, and if you haven\u2019t started shopping yet, there are a lot of great gifts on sale that should still arrive in time if you order soon. Several Verge-approved gadgets are seeing some of their best discounts since the holidays, with options we think will appeal to a wide range [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/",
+        "title": "ICE Agent\u2019s \u2018Dragging\u2019 Case May Help Expose Evidence in Renee Good Shooting",
+        "link": "https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/",
+        "published": "Fri, 06 Feb 2026 22:14:45 +0000",
+        "source": "WIRED",
+        "summary": "The government has withheld details of the investigation of Renee Good\u2019s killing\u2014but an unrelated case involving the ICE agent who shot her could force new revelations."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
+        "title": "Randomly quoting Ray Bradbury did not save lawyer from losing case over AI errors",
+        "link": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
+        "published": "Fri, 06 Feb 2026 22:43:12 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Behold the most overwrought AI legal filings you will ever gaze upon."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
+        "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
+        "link": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
+        "published": "Fri, 06 Feb 2026 22:16:51 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Incident is at least the third time the exchange has been targeted by thieves."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/",
+        "title": "Why $700 could be a \"death sentence\" for the Steam Machine",
+        "link": "https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/",
+        "published": "Fri, 06 Feb 2026 21:53:05 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Analysts expect Valve might be hit particularly hard by soaring RAM, storage prices."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/how-to-watch-the-opening-ceremony-at-the-2026-milan-cortina-winter-olympics-rebroadcast-tonight-143529231.html?src=rss",
+        "title": "How to watch the Opening Ceremony at the 2026 Milan Cortina Winter Olympics rebroadcast tonight",
+        "link": "https://www.engadget.com/entertainment/streaming/how-to-watch-the-opening-ceremony-at-the-2026-milan-cortina-winter-olympics-rebroadcast-tonight-143529231.html?src=rss",
+        "published": "Fri, 06 Feb 2026 22:51:50 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<figure>\n <img alt=\"A general view of the Olympic Rings during the opening ceremony of the Milano Cortina 2026 Winter Olympic Games at the San Siro stadium in Milan, northern Italy, on February 6, 2026. (Photo by Gabriel BOUYS / AFP via Getty Images)\" src=\"https://s.yimg.com/os/creatr-uploaded-images/2026-02/75e87470-03ad-11f1-8f6f-2a7279dc01c9\" style=\"height: 3897px; width: 6933px;\" />\n <figcaption>\n  The Opening Ceremony for the 2026 Winter Games will re-air tonight on NBC. (Gabriel BOUYS / AF"
+    },
+    {
+        "id": "https://openciv3.org/",
+        "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+        "link": "https://openciv3.org/",
+        "published": "Fri, 06 Feb 2026 21:51:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46918612\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/valdanylchuk/breezydemo",
+        "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+        "link": "https://github.com/valdanylchuk/breezydemo",
+        "published": "Fri, 06 Feb 2026 21:33:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46918429\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/sony-bravia-3-amazon-deal/",
+        "title": "This 85-inch Sony Bravia dropped to less than $1,000 at Amazon",
+        "link": "https://www.zdnet.com/article/sony-bravia-3-amazon-deal/",
+        "published": "Fri, 06 Feb 2026 23:00:44 GMT",
+        "source": "Latest news",
+        "summary": "The Sony Bravia 3 may be an base model LED TV, but it still offers plenty of premium-grade features. Amazon is selling 85-inch version for just under $1,000."
     }
 ]
