@@ -94510,5 +94510,69 @@
         "published": "Fri, 06 Feb 2026 10:47:44 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In Natrada village, near Panwari in Mahoba district, a modest roadside workshop has become a practical stop for farmers and drivers"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
+        "title": "It just got easier for Claude to check in on your WordPress site",
+        "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
+        "published": "Fri, 06 Feb 2026 22:04:59 +0000",
+        "source": "TechCrunch",
+        "summary": "WordPress users can now leverage Claude to analyze web traffic or find information about other internal site metrics."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
+        "title": "Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors",
+        "link": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
+        "published": "Fri, 06 Feb 2026 21:23:50 +0000",
+        "source": "TechCrunch",
+        "summary": "The mysterious businessman pitched Jeffrey Epstein on numerous mobility startups in an era when the sector was white hot, according to TechCrunch's review of hundreds of documents released by the Department of Justice."
+    },
+    {
+        "id": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
+        "title": "Apple might let you use ChatGPT from CarPlay",
+        "link": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
+        "published": "2026-02-06T16:32:44-05:00",
+        "source": "The Verge",
+        "summary": "CarPlay users could soon be able to use their chatbot of choice instead of Siri. As Bloomberg reports, Apple is working to add support for CarPlay voice control apps from OpenAI, Anthropic, Google, and others. Previously, users who wanted to access third-party chatbots in the car would need to go through their iPhone, but soon [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson",
+        "title": "This is the Trump Phone",
+        "link": "https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson",
+        "published": "2026-02-06T16:32:34-05:00",
+        "source": "The Verge",
+        "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This time, surprisingly, we received a response - and an interview. The Trump phone is real - maybe, sort of, soon? - and I've seen it. Not in the flesh, [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/02/covid-19-cleared-the-skies-but-also-supercharged-methane-emissions/",
+        "title": "COVID-19 cleared the skies but also supercharged methane emissions",
+        "link": "https://arstechnica.com/science/2026/02/covid-19-cleared-the-skies-but-also-supercharged-methane-emissions/",
+        "published": "Fri, 06 Feb 2026 21:05:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Less pollution meant lower amounts of a methane-destroying chemical."
+    },
+    {
+        "id": "https://arstechnica.com/google/2026/02/waymo-leverages-genie-3-to-create-a-world-model-for-self-driving-cars/",
+        "title": "Waymo leverages Genie 3 to create a world model for self-driving cars",
+        "link": "https://arstechnica.com/google/2026/02/waymo-leverages-genie-3-to-create-a-world-model-for-self-driving-cars/",
+        "published": "Fri, 06 Feb 2026 20:44:35 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "With Genie 3, Waymo wants to explore rare and even impossible driving conditions."
+    },
+    {
+        "id": "https://www.engadget.com/transportation/apple-will-reportedly-allow-third-party-ai-assistants-in-carplay-213432646.html?src=rss",
+        "title": "Apple will reportedly allow third-party AI assistants in CarPlay",
+        "link": "https://www.engadget.com/transportation/apple-will-reportedly-allow-third-party-ai-assistants-in-carplay-213432646.html?src=rss",
+        "published": "Fri, 06 Feb 2026 21:34:32 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple plans to allow third-party voice-controlled AI apps in CarPlay, <a class=\"link\" href=\"https://www.bloomberg.com/news/articles/2026-02-06/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay\" target=\"_blank\"><em>Bloomberg</em> reports</a>. Siri is the default voice assistant for things like controlling music and looking up directions, but future AI apps in CarPlay could handle the complicated, open-ended requests Siri can't answer.</p><p>The expanded support would let dev"
+    },
+    {
+        "id": "https://www.zdnet.com/article/spotify-vs-apple-music/",
+        "title": "Apple Music vs. Spotify: I tested both music streaming services, and my choice is clear",
+        "link": "https://www.zdnet.com/article/spotify-vs-apple-music/",
+        "published": "Fri, 06 Feb 2026 21:30:28 GMT",
+        "source": "Latest news",
+        "summary": "Apple Music and Spotify are the two most popular music streaming platforms, so you should know what each has to offer before subscribing."
     }
 ]
