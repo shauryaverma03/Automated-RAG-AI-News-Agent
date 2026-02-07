@@ -94654,5 +94654,93 @@
         "published": "Fri, 06 Feb 2026 23:00:44 GMT",
         "source": "Latest news",
         "summary": "The Sony Bravia 3 may be an base model LED TV, but it still offers plenty of premium-grade features. Amazon is selling 85-inch version for just under $1,000."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
+        "title": "\u2018Industry\u2019 season 4 captures tech fraud better than any show on TV right now",
+        "link": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
+        "published": "Sat, 07 Feb 2026 00:06:23 +0000",
+        "source": "TechCrunch",
+        "summary": "This latest season of the TV show Industry takes a look at the world of money and power through the eyes of a fintech baron."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
+        "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
+        "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
+        "published": "Fri, 06 Feb 2026 23:53:43 +0000",
+        "source": "TechCrunch",
+        "summary": "Apple engineers are working to support AI chatbot apps over the next few months."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+        "title": "Sixteen Claude AI agents working together created a new C compiler",
+        "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+        "published": "Fri, 06 Feb 2026 23:40:58 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/02/penisgate-erupts-at-olympics-scandal-exposes-risks-of-bulking-your-budge/",
+        "title": "Penisgate erupts at Olympics; scandal exposes risks of bulking your bulge",
+        "link": "https://arstechnica.com/health/2026/02/penisgate-erupts-at-olympics-scandal-exposes-risks-of-bulking-your-budge/",
+        "published": "Fri, 06 Feb 2026 23:08:42 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Claims of penis injections in ski jumpers has fillers spewing into the news."
+    },
+    {
+        "id": "https://www.engadget.com/ai/the-cryptocom-guy-bought-aicom-and-a-super-bowl-ad-234325394.html?src=rss",
+        "title": "The Crypto.com guy bought AI.com (and a Super Bowl ad)",
+        "link": "https://www.engadget.com/ai/the-cryptocom-guy-bought-aicom-and-a-super-bowl-ad-234325394.html?src=rss",
+        "published": "Fri, 06 Feb 2026 23:43:25 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div><p>Kris Marszalek, CEO and co-founder of crypto and stock trading platform Crypto.com, <a class=\"link\" href=\"https://ai.com/company-news/ai-com-launch\" target=\"_blank\">has bought an expensive website</a>. In this case it's <a class=\"link\" href=\"http://ai.com\" target=\"_blank\">AI.com</a>, valued at one point at <a class=\"no-affiliate-link link\" href=\"https://www.theinformation.com/articles/ai-com-is-for-sale-asking-price"
+    },
+    {
+        "id": "https://github.com/pydantic/monty",
+        "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+        "link": "https://github.com/pydantic/monty",
+        "published": "Fri, 06 Feb 2026 21:16:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46918254\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-ai-chatbot/",
+        "title": "The best AI chatbots of 2026: Expert tested and reviewed",
+        "link": "https://www.zdnet.com/article/best-ai-chatbot/",
+        "published": "Sat, 07 Feb 2026 00:23:38 GMT",
+        "source": "Latest news",
+        "summary": "I pushed eight free AI chatbots to their limits to find the best AI chatbots of 2026. To explore our top picks, check out ZDNET's chatbot-by-chatbot guide."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-aipc-india/articleshow/127998921.cms",
+        "title": "Indians show no urge to press buy button for AI PCs",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-aipc-india/articleshow/127998921.cms",
+        "published": "Sat, 07 Feb 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Global demand for AI PCs is slowing faster than expected, and India is seeing a similar trend as buyers hesitate over higher prices. Gartner has cut its 2026 forecast, citing weak consumer interest and lack of compelling software. Hardware limits, especially memory shortages, are further holding back adoption."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/startup-india-sops-to-boost-deeptech-firms-revenue-research/articleshow/128004439.cms",
+        "title": "Startup India sops to boost deeptech firms\u2019 revenue, research",
+        "link": "https://economictimes.indiatimes.com/tech/startups/startup-india-sops-to-boost-deeptech-firms-revenue-research/articleshow/128004439.cms",
+        "published": "Sat, 07 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The government's move to allow deeptech startups into the Startup India scheme could improve their ability to raise funds and build technologies, founders and investors said. DPIIT brought deeptech startups under the programme with more lenient regulations. Founders said long cycles and sustained capital need regulatory stability and long-term commitment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tech-dpdp-iamai/articleshow/128000677.cms",
+        "title": "IAMAI flags rushed DPDP rollout",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tech-dpdp-iamai/articleshow/128000677.cms",
+        "published": "Sat, 07 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Internet and Mobile Association of India has asked the government to slow enforcement of the Digital Personal Data Protection framework, warning rushed timelines could disrupt businesses. It said companies were promised an 18-month transition but may now get far less. IAMAI cautioned this could create operational, legal and compliance risks across the digital ecosystem."
+    },
+    {
+        "id": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-america-s-about-turn-poses-a-global-dilemma-126020602113_1.html",
+        "title": "Best of BS Opinion: America's about-turn poses a global dilemma",
+        "link": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-america-s-about-turn-poses-a-global-dilemma-126020602113_1.html",
+        "published": "Sat, 07 Feb 2026 06:15:47 +0530",
+        "source": "Opinion",
+        "summary": "From prosperity and human flourishing to the decline of American dominance, shifting global blocs, Bangladesh ties and disability policy, today's Opinion page maps key faultlines"
     }
 ]
