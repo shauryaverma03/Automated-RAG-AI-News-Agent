@@ -94838,5 +94838,77 @@
         "published": "Sat, 07 Feb 2026 01:30:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we showcase a range of artworks from a unique four-day craft exhibition in Bangalore International Centre."
+    },
+    {
+        "id": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+        "title": "How we made geo joins 400\u00d7 faster with H3 indexes",
+        "link": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+        "published": "Thu, 05 Feb 2026 11:19:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46898473\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/why-solid-state-batteries-not-on-iphone-yet/",
+        "title": "Why doesn't my iPhone have a solid-state battery yet? I found out (and can't even be mad)",
+        "link": "https://www.zdnet.com/article/why-solid-state-batteries-not-on-iphone-yet/",
+        "published": "Sat, 07 Feb 2026 03:37:00 GMT",
+        "source": "Latest news",
+        "summary": "Solid-state batteries have significant advantages over lithium-ion batteries. Here's what stands in the way of mass distribution."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/delhi-gig-workers-delegation-meets-rahul-gandhi-asserts-need-for-legislation/articleshow/128018935.cms",
+        "title": "Delhi: Gig workers' delegation meets Rahul Gandhi, asserts need for legislation",
+        "link": "https://economictimes.indiatimes.com/tech/technology/delhi-gig-workers-delegation-meets-rahul-gandhi-asserts-need-for-legislation/articleshow/128018935.cms",
+        "published": "Sat, 07 Feb 2026 09:20:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A delegation of transport and delivery gig workers met the Leader of Opposition in Lok Sabha, Rahul Gandhi, to discuss the need for legislation from the Centre and implementations of regulations in Congress-ruled states, the Telangana Gig And Platform Workers Union's Founder President said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/crypto-firm-accidentally-sends-44-billion-in-bitcoins-to-users/articleshow/128018884.cms",
+        "title": "Crypto firm accidentally sends $44 billion in bitcoins to users",
+        "link": "https://economictimes.indiatimes.com/tech/technology/crypto-firm-accidentally-sends-44-billion-in-bitcoins-to-users/articleshow/128018884.cms",
+        "published": "Sat, 07 Feb 2026 09:18:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "South Korean cryptocurrency exchange Bithumb \u200dsaid on Saturday \u200bit had accidentally given away more \u2060than $40 billion worth of bitcoins to customers as promotional rewards, triggering a sharp selloff on the exchange."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/ballia-bindi-making-women-odop-livelihood",
+        "title": "Inside Ballia\u2019s bindi-making network, led by women\u2019s groups",
+        "link": "https://yourstory.com/2026/02/ballia-bindi-making-women-odop-livelihood",
+        "published": "Fri, 06 Feb 2026 13:22:47 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Bindi-making in Ballia rarely looks like an industry from the outside. It happens in homes and small workspaces, where sheets are cut"
+    },
+    {
+        "id": "https://yourstory.com/2026/02/fixing-indias-debt-collection-industry-veranda-learning-q3-profit-soars-110",
+        "title": "Fixing India's debt collection industry; Veranda Learning Q3 profit soars 110%",
+        "link": "https://yourstory.com/2026/02/fixing-indias-debt-collection-industry-veranda-learning-q3-profit-soars-110",
+        "published": "Sat, 07 Feb 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "DPDzero uses AI to help lenders in India recover unpaid loans more efficiently. Veranda Learning reported a net profit of Rs 17 crore, driven by a 52% revenue rise. A solar-powered mill is reshaping how tribal farmers earn from millet."
+    },
+    {
+        "id": "https://inc42.com/resources/how-indias-language-diversity-is-shaping-global-ai/",
+        "title": "How India\u2019s Language Diversity Is Shaping Global AI",
+        "link": "https://inc42.com/resources/how-indias-language-diversity-is-shaping-global-ai/",
+        "published": "Sat, 07 Feb 2026 04:30:32 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"How India\u2019s Language Diversity Is Shaping Global AI\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Untitled-design-9.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />India is positioned at a rare crossroads of linguistic variety and swift technological acceptance. This mix is reconfiguring the global&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/from-the-whole-truth-to-zilo-indian-startups-raised-131-mn-this-week/",
+        "title": "From The Whole Truth To ZILO \u2014 Indian Startups Raised $131 Mn This Week",
+        "link": "https://inc42.com/buzz/from-the-whole-truth-to-zilo-indian-startups-raised-131-mn-this-week/",
+        "published": "Sat, 07 Feb 2026 03:30:30 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"From The Whole Truth To ZILO \u2014 Indian Startups Raised $131 Mn This Week\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Ftr-100-8.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Fundraising activity within the world&#8217;s third largest startup ecosystem picked up after the Union Budget announced the Budget 2026 on&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/ipo-bound-aye-finance-nets-%e2%82%b9-455-cr-from-anchor-investors/",
+        "title": "IPO-Bound Aye Finance Nets \u20b9455 Cr From Anchor Investors",
+        "link": "https://inc42.com/buzz/ipo-bound-aye-finance-nets-%e2%82%b9-455-cr-from-anchor-investors/",
+        "published": "Fri, 06 Feb 2026 16:23:18 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"IPO-Bound Aye Finance Nets INR 455 Cr From Anchor Investors\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"570\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/aye-finance-IPO-featured-760x570-1.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"760\" />Ahead of the commencement of the bidding for its public issue on February 9, MSME-focussed NBFC Aye Finance has raised&#8230;"
     }
 ]
