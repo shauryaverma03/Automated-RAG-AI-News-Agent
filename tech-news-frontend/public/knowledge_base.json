@@ -95478,5 +95478,45 @@
         "published": "Sat, 07 Feb 2026 17:39:53 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46925741\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/875425/gog-native-linux-support",
+        "title": "GOG is already working on native Linux support",
+        "link": "https://www.theverge.com/tech/875425/gog-native-linux-support",
+        "published": "2026-02-07T15:23:46-05:00",
+        "source": "The Verge",
+        "summary": "GOG recently posted a job listing for a senior software engineer focused on porting its Galaxy desktop client to Linux. Now, in reply to a Reddit AMA, the GOG team has revealed that work on native Linux support is already underway. It's still too early to give an ETA, according to the Reddit thread. But [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/doj-is-investigating-if-netflix-used-anticompetitive-tactics-as-part-of-its-merger-probe-210940856.html?src=rss",
+        "title": "DOJ is investigating if Netflix used anticompetitive tactics as part of its merger probe",
+        "link": "https://www.engadget.com/entertainment/streaming/doj-is-investigating-if-netflix-used-anticompetitive-tactics-as-part-of-its-merger-probe-210940856.html?src=rss",
+        "published": "Sat, 07 Feb 2026 21:09:40 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Netflix's <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/entertainment/netflix-to-buy-warner-bros-for-827-billion-120836295.html\">acquisition</a> of Warner Bros. Discovery isn't quite a done deal yet. As first reported by <a class=\"no-affiliate-link\" href=\"https://www.wsj.com/business/media/justice-department-casts-wide-net-on-netflixs-business-practices-in-merger-probe-fd30d7f8\"><em>The Wall Street Journal</em></a>, the US Department of Justice has started its probe of Netflix's"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/the-state-department-is-scrubbing-its-x-accounts-of-all-posts-from-before-trumps-second-term-205515745.html?src=rss",
+        "title": "The State Department is scrubbing its X accounts of all posts from before Trump's second term",
+        "link": "https://www.engadget.com/social-media/the-state-department-is-scrubbing-its-x-accounts-of-all-posts-from-before-trumps-second-term-205515745.html?src=rss",
+        "published": "Sat, 07 Feb 2026 20:55:15 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The State Department is wiping the post history of its X accounts and making it so you'll have to file a Freedom of Information Act request if you want to access any of the content it removed, according to <a class=\"link\" href=\"https://www.npr.org/2026/02/07/nx-s1-5704785/state-department-trump-posts-x\" target=\"_blank\"><em>NPR</em></a>. The publication reports that the State Department is removing all posts from before President Trump's current term \u2014 a move that affects several accounts asso"
+    },
+    {
+        "id": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
+        "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
+        "link": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
+        "published": "Sat, 07 Feb 2026 19:07:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46926576\">Comments</a>"
+    },
+    {
+        "id": "https://code.claude.com/docs/en/fast-mode",
+        "title": "Speed up responses with fast mode",
+        "link": "https://code.claude.com/docs/en/fast-mode",
+        "published": "Sat, 07 Feb 2026 18:08:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46926043\">Comments</a>"
     }
 ]
