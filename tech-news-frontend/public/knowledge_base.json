@@ -95286,5 +95286,45 @@
         "published": "Sat, 07 Feb 2026 19:07:48 +0530",
         "source": "Tech-Economic Times",
         "summary": "Tech stocks have swung sharply this year, with fears growing that huge AI investments may not turn profitable. The Nasdaq has fallen despite brief rebounds, unsettling investors. Strong earnings from firms like Amazon, Alphabet and Microsoft failed to reassure markets amid plans for massive spending on AI computing power."
+    },
+    {
+        "id": "https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs",
+        "title": "Anker\u2019s new charger with a screen would feel less gimmicky if it did more",
+        "link": "https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs",
+        "published": "2026-02-07T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "The latest Anker 45-watt Nano charger, announced in January, which remains one of the smallest 45-watt chargers on the market, adds a full color screen displaying an animated character and a smattering of details about the device you're charging. The display is occasionally useful if you like to keep tabs on how much power your [&#8230;]"
+    },
+    {
+        "id": "https://github.com/suitenumerique",
+        "title": "France's homegrown open source online office suite",
+        "link": "https://github.com/suitenumerique",
+        "published": "Sat, 07 Feb 2026 13:34:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46923736\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/lg-gram-17-review/",
+        "title": "I tested 35+ ultraportable Windows PCs last year, but only one seems to defy physics",
+        "link": "https://www.zdnet.com/article/lg-gram-17-review/",
+        "published": "Sat, 07 Feb 2026 14:30:41 GMT",
+        "source": "Latest news",
+        "summary": "The LG Gram 17 (2025), is an improvement from the previous model, with better thermals and battery power. But it's light as ever."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-us-interim-trade-deal-to-boost-access-to-advanced-gpus-data-centres-equipments/articleshow/128037330.cms",
+        "title": "India-US interim trade deal to boost access to advanced GPUs, data centre equipment",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-us-interim-trade-deal-to-boost-access-to-advanced-gpus-data-centres-equipments/articleshow/128037330.cms",
+        "published": "Sat, 07 Feb 2026 20:37:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Union Minister Ashwini Vaishnaw said India and the US are finalising an interim trade framework that will boost access to GPUs and data centre equipment. This agreement is expected to create opportunities for startups, service providers, and the wider AI ecosystem. Data centres are projected to drive major growth and investment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ride-hailing-app-services-partially-impacted-as-drivers-go-on-strike/articleshow/128036689.cms",
+        "title": "Ride hailing app services partially impacted as drivers go on strike",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ride-hailing-app-services-partially-impacted-as-drivers-go-on-strike/articleshow/128036689.cms",
+        "published": "Sat, 07 Feb 2026 19:52:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ride-hailing apps such as Ola, Uber and Rapido faced sporadic disruption on Saturday as drivers staged a partial strike in several cities. The Telangana Gig and Platform Workers Union called the \u201cbreakdown\u201d to protest rules and practices of app-based transport firms. The union demanded minimum base fares and regulatory changes."
     }
 ]
