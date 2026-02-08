@@ -96070,5 +96070,37 @@
         "published": "Sun, 08 Feb 2026 13:40:56 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46934107\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19",
+        "title": "The iPhone 17e could launch soon with MagSafe and an A19 chip",
+        "link": "https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19",
+        "published": "2026-02-08T10:26:33-05:00",
+        "source": "The Verge",
+        "summary": "Almost exactly one year after launching the iPhone 16e, Apple is preparing to launch the 17e, according to Mark Gurman. The iPhone 17e will feature an upgraded A19 chip from the iPhone 17 lineup, plus MagSafe charging, and move Apple's in-house cellular chips. Just as importantly, the company apparently plans to keep the price at [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/how-to-stream-the-2026-super-bowl-for-free-tonight-patriots-vs-seahawks-time-where-to-watch-super-bowl-lx-start-time-halftime-show-and-more-124512549.html?src=rss",
+        "title": "How to stream the 2026 Super Bowl for free tonight: Patriots vs. Seahawks time, where to watch Super Bowl LX, start time, halftime show and more",
+        "link": "https://www.engadget.com/entertainment/streaming/how-to-stream-the-2026-super-bowl-for-free-tonight-patriots-vs-seahawks-time-where-to-watch-super-bowl-lx-start-time-halftime-show-and-more-124512549.html?src=rss",
+        "published": "Sun, 08 Feb 2026 15:51:16 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The 2026 Super Bowl between the New England Patriots and the Seattle Seahawks will air on NBC today, Feb. 8, at 6:30PM ET/3:30PM PT. The Big Game will also stream live on Peacock. If you no longer subscribe to cable, don't have access to NBC over the air and aren't currently signed up for Peacock, there are still ways to watch Super Bowl LX \u2014 and Bad Bunny's <a href=\"https://sports.yahoo.com/nfl/article/2026-super-bowl-how-to-watch-the-halftime-show-and-everything-you-need-to-know-about-bad-b"
+    },
+    {
+        "id": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
+        "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
+        "link": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
+        "published": "Sun, 08 Feb 2026 14:02:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46934266\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/100-of-claudes-code-effectively-ai-written-anthropic-cpo/articleshow/128075643.cms",
+        "title": "100% of Claude's code effectively AI-written: Anthropic CPO",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/100-of-claudes-code-effectively-ai-written-anthropic-cpo/articleshow/128075643.cms",
+        "published": "Sun, 08 Feb 2026 20:49:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to Krieger, the engineering process at Anthropic has moved away from traditional manual coding faster than expected. He said staff engineers now ship pull requests ranging from 2,000 to 3,000 lines that are generated entirely by the AI. Under this system, human developers have moved toward high-level oversight and the verification of machine-generated code rather than line-by-line creation."
     }
 ]
