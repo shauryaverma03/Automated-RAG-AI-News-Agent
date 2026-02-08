@@ -95854,5 +95854,53 @@
         "published": "Sun, 08 Feb 2026 07:30:05 GMT",
         "source": "YourStory RSS Feed",
         "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 221st quiz. Ready?"
+    },
+    {
+        "id": "https://www.wired.com/story/the-shoes-and-brooms-transforming-curling-at-the-2026-winter-olympics/",
+        "title": "The Shoes and Brooms Transforming Curling at the 2026 Winter Olympics",
+        "link": "https://www.wired.com/story/the-shoes-and-brooms-transforming-curling-at-the-2026-winter-olympics/",
+        "published": "Sun, 08 Feb 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Halfway between chess and bocce, curling is experiencing an evolution thanks to technology. From brooms to stones to footwear, here\u2019s everything you need to know about the game\u2019s gadgets."
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-ai-notetakers/",
+        "title": "4 Best AI Notetakers (2026), Tested and Reviewed",
+        "link": "https://www.wired.com/gallery/best-ai-notetakers/",
+        "published": "Sun, 08 Feb 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "A growing collection of pocket-sized gadgets lets you record your meetings and extract value from them. Here are our favorites."
+    },
+    {
+        "id": "https://www.wired.com/story/why-open-earbuds-are-my-favorite-new-category/",
+        "title": "I Have Fallen in Love With Open Earbuds (and You Should Too)",
+        "link": "https://www.wired.com/story/why-open-earbuds-are-my-favorite-new-category/",
+        "published": "Sun, 08 Feb 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "From jogging and cycling to multi-tasking or puttering around the house, open earbuds are an excellent way to jam out in the real world."
+    },
+    {
+        "id": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
+        "title": "Dave Farber has passed away",
+        "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
+        "published": "Sun, 08 Feb 2026 11:38:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46933401\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/avoid-costly-large-llm-buildouts-focus-on-smaller-models-sridhar-vembu-on-india-ai-strategy/articleshow/128069836.cms",
+        "title": "Avoid costly, large LLM buildouts; focus on smaller models: Sridhar Vembu on India AI strategy",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/avoid-costly-large-llm-buildouts-focus-on-smaller-models-sridhar-vembu-on-india-ai-strategy/articleshow/128069836.cms",
+        "published": "Sun, 08 Feb 2026 17:22:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The remarks come at a time when interest in artificial intelligence (AI) has peaked in India, with the country soon to host the India AI Impact Summit - the largest of the four major global AI congregations so far."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/popular-open-source-coding-application-targeted-in-chinese-linked-supply-chain-attack/articleshow/128069696.cms",
+        "title": "Popular open-source coding application targeted in Chinese-linked supply-chain attack",
+        "link": "https://economictimes.indiatimes.com/tech/technology/popular-open-source-coding-application-targeted-in-chinese-linked-supply-chain-attack/articleshow/128069696.cms",
+        "published": "Sun, 08 Feb 2026 17:14:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Don Ho, the French-based developer of Notepad++, said in a blog posted to the project's website on \u200cMonday that malicious actors had \u200ctargeted the update process for certain targeted users beginning in June 2025. The hackers had access to the hosting server used for Notepad++ updates until September \u200c2, 2025, but maintained credentials to some hosting services until December 2, 2025, according to Ho."
     }
 ]
