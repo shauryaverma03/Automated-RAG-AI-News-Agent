@@ -95710,5 +95710,21 @@
         "published": "Sun, 08 Feb 2026 12:16:54 +0530",
         "source": "Tech-Economic Times",
         "summary": "Elon Musk's SpaceX and xAI are merging. The plan involves building AI data centers in space for unlimited solar power. This move aims to boost SpaceX before a potential public offering this year. Investors are watching closely as Musk pushes technological boundaries. The merger could offer SpaceX a share in the booming AI market."
+    },
+    {
+        "id": "https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics",
+        "title": "The world heard JD Vance being booed at the Olympics. Except for viewers in USA",
+        "link": "https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics",
+        "published": "Sun, 08 Feb 2026 07:00:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46931948\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/submer-and-anant-raj-cloud-team-up-to-build-sustainable-ai-data-centres-in-india/articleshow/128063620.cms",
+        "title": "Submer and Anant Raj Cloud team up to build sustainable AI data centres in India",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/submer-and-anant-raj-cloud-team-up-to-build-sustainable-ai-data-centres-in-india/articleshow/128063620.cms",
+        "published": "Sun, 08 Feb 2026 13:17:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The two companies want to build data centres across India that are ready for heavy AI work. These facilities will use high-density and energy-efficient systems. This will allow businesses and the government to run large AI programs while using less power. Europe-based Submer will provide its modular infrastructure and its \"InferX\" platform to help manage these tasks easily."
     }
 ]
