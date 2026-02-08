@@ -96022,5 +96022,53 @@
         "published": "Sun, 08 Feb 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Lastly, the Milan Cortina Winter Olympics have officially begun. Participating from India this year are alpine skier Arif Khan and cross-country skier Stanzin Lundup."
+    },
+    {
+        "id": "https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek",
+        "title": "How I Built the Star Trek control panel of my dreams",
+        "link": "https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek",
+        "published": "2026-02-08T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "One of my pandemic hobbies that stuck was home automation. I discovered Home Assistant - the popular open source, extremely customizable home automation platform - and all the intricate things you can do with it to make your home work better. I have ADHD and have found Home Assistant to be a valuable tool for [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/874842/gulikit-hyperlink-gen2-usb-adapter-wireless-switch-2-hands-on",
+        "title": "GuliKit\u2019s tiny USB dongle lets you connect your PS5 controller to your Switch 2",
+        "link": "https://www.theverge.com/tech/874842/gulikit-hyperlink-gen2-usb-adapter-wireless-switch-2-hands-on",
+        "published": "2026-02-08T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Dongles have a well-earned reputation for being a nuisance. They're often costly and annoying to deal with, but for gamers, there's one that I love to recommend that's neither. 8BitDo's $20 USB Adapter 2 lets you wirelessly link controllers to the Switch 2 that would otherwise be unsupported, like the Sony DualSense (complete with rumble [&#8230;]"
+    },
+    {
+        "id": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
+        "title": "AI fatigue Is real and nobody talks about it",
+        "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
+        "published": "Sun, 08 Feb 2026 14:19:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46934404\">Comments</a>"
+    },
+    {
+        "id": "https://datatracker.ietf.org/doc/html/rfc3092",
+        "title": "RFC 3092 \u2013 Etymology of \"Foo\" (2001)",
+        "link": "https://datatracker.ietf.org/doc/html/rfc3092",
+        "published": "Sun, 08 Feb 2026 14:32:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46934499\">Comments</a>"
+    },
+    {
+        "id": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+        "title": "I am happier writing code by hand",
+        "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+        "published": "Sun, 08 Feb 2026 14:12:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46934344\">Comments</a>"
+    },
+    {
+        "id": "https://github.github.io/gh-aw/",
+        "title": "GitHub Agentic Workflows",
+        "link": "https://github.github.io/gh-aw/",
+        "published": "Sun, 08 Feb 2026 13:40:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46934107\">Comments</a>"
     }
 ]
