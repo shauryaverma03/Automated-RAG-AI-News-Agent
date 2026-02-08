@@ -96286,5 +96286,45 @@
         "published": "Sun, 08 Feb 2026 20:38:55 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46938280\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/",
+        "title": "Amazon\u2019s \u2018Melania\u2019 documentary stumbles in second weekend",
+        "link": "https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/",
+        "published": "Sun, 08 Feb 2026 22:41:31 +0000",
+        "source": "TechCrunch",
+        "summary": "After a better-than-expected opening weekend in theaters, box office for Amazon\u2019s \u201cMelania\u201dfell 67%."
+    },
+    {
+        "id": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
+        "title": "YouTube Music starts putting lyrics behind a paywall",
+        "link": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
+        "published": "2026-02-08T17:55:43-05:00",
+        "source": "The Verge",
+        "summary": "Free YouTube Music accounts are now seeing their access to lyrics limited, according to multiple reports. Google started testing lyrics as an exclusive feature for Premium users in September, but it appears that it's now receiving a wider rollout. It seems that free users will be limited to viewing lyrics for five songs per month, [&#8230;]"
+    },
+    {
+        "id": "https://arxiv.org/abs/2510.25417",
+        "title": "Shifts in U.S. Social Media Use, 2020\u20132024: Decline, Fragmentation, Polarization",
+        "link": "https://arxiv.org/abs/2510.25417",
+        "published": "Sun, 08 Feb 2026 21:52:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46938903\">Comments</a>"
+    },
+    {
+        "id": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
+        "title": "Reverse Engineering the Prom for the SGI O2",
+        "link": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
+        "published": "Sun, 08 Feb 2026 22:25:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46939187\">Comments</a>"
+    },
+    {
+        "id": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+        "title": "More Mac malware from Google search",
+        "link": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+        "published": "Sun, 08 Feb 2026 20:52:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46938398\">Comments</a>"
     }
 ]
