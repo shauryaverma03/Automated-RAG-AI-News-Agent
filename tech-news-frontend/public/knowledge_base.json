@@ -96102,5 +96102,45 @@
         "published": "Sun, 08 Feb 2026 20:49:36 +0530",
         "source": "Tech-Economic Times",
         "summary": "According to Krieger, the engineering process at Anthropic has moved away from traditional manual coding faster than expected. He said staff engineers now ship pull requests ranging from 2,000 to 3,000 lines that are generated entirely by the AI. Under this system, human developers have moved toward high-level oversight and the verification of machine-generated code rather than line-by-line creation."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/",
+        "title": "TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?",
+        "link": "https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/",
+        "published": "Sun, 08 Feb 2026 17:05:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/",
+        "title": "San Francisco\u2019s pro-billionaire march draws dozens",
+        "link": "https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/",
+        "published": "Sun, 08 Feb 2026 16:49:48 +0000",
+        "source": "TechCrunch",
+        "summary": "A march supporting California\u2019s billionaires didn\u2019t exactly draw a huge crowd on Saturday."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+        "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+        "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+        "published": "Sun, 08 Feb 2026 16:18:16 +0000",
+        "source": "TechCrunch",
+        "summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX."
+    },
+    {
+        "id": "https://github.com/microsoft/vscode/issues/292452",
+        "title": "Billing can be bypassed using a combo of subagents with an agent definition",
+        "link": "https://github.com/microsoft/vscode/issues/292452",
+        "published": "Sun, 08 Feb 2026 16:56:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46936105\">Comments</a>"
+    },
+    {
+        "id": "https://freethemath.org",
+        "title": "Five disciplines discovered the same math independently \u2013 none of them knew",
+        "link": "https://freethemath.org",
+        "published": "Sun, 08 Feb 2026 15:29:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46935104\">Comments</a>"
     }
 ]
