@@ -96326,5 +96326,77 @@
         "published": "Sun, 08 Feb 2026 20:52:55 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46938398\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/",
+        "title": "A Project Hail Mary final trailer? Yes please",
+        "link": "https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/",
+        "published": "Sun, 08 Feb 2026 23:26:37 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"There are infinite possibilities for this to go wrong.\""
+    },
+    {
+        "id": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+        "title": "AI makes the easy part easier and the hard part harder",
+        "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+        "published": "Sun, 08 Feb 2026 23:13:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46939593\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ola-trims-its-realty-footprint-to-recalibrate-operations-cut-costs/articleshow/128081297.cms",
+        "title": "Ola trims its realty footprint to recalibrate operations, cut costs",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ola-trims-its-realty-footprint-to-recalibrate-operations-cut-costs/articleshow/128081297.cms",
+        "published": "Mon, 09 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The company has given up over 112,000 sq ft at Prestige-RMZ Startech in Koramangala, giving up the entire seventh and eighth floors in Tower B. Global consulting and technology firm Accenture has taken over the floors, sources said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-eyes-common-standards-for-ai-deployment-at-summit/articleshow/128081238.cms",
+        "title": "India eyes common standards for AI deployment at Summit",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-eyes-common-standards-for-ai-deployment-at-summit/articleshow/128081238.cms",
+        "published": "Mon, 09 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "This will play out through India's efforts to create multilateral consensus on deploying a set of open-access AI resources that lead to responsible and ethical deployment across the world, he said. \"The first is an open source repository of AI solutions for key sectors such as agriculture, healthcare and education that can be used by all countries, especially keeping in mind nations in the global south,\" Abhishek Singh said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/hackers-breach-govt-systems-in-37-countries-in-vast-spying-plot/articleshow/128080291.cms",
+        "title": "Hackers breach govt systems in 37 countries in vast spying plot",
+        "link": "https://economictimes.indiatimes.com/tech/technology/hackers-breach-govt-systems-in-37-countries-in-vast-spying-plot/articleshow/128080291.cms",
+        "published": "Mon, 09 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The findings are part of Unit 42\u2019s latest report, The Shadow Campaigns: Uncovering Global Espionage. The investigation uncovered a coordinated hacking campaign that broke into government and critical infrastructure networks across 37 countries, including India, while scanning systems in 155 countries within just two months, November to December 2025."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/learning-speed-most-important-skill-in-age-of-ai-pearson-chief/articleshow/128080132.cms",
+        "title": "Learning speed most important skill in age of AI: Pearson chief",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/learning-speed-most-important-skill-in-age-of-ai-pearson-chief/articleshow/128080132.cms",
+        "published": "Mon, 09 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Rather than eliminating work, AI is fundamentally redesigning how jobs are done, forcing companies and workers to rethink how quickly they learn new skills, Abbosh said. \u201cAI is not wiping out jobs. It is changing every job,\u201d he said. \u201cThe half-life of skills is shrinking fast. Learning speed is now the most important skill anyone can have.\u201d"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/large-fintechs-press-the-pedal-on-marketing-spends-to-boost-growth/articleshow/128080009.cms",
+        "title": "Large fintechs press the pedal on marketing spends to boost growth",
+        "link": "https://economictimes.indiatimes.com/tech/startups/large-fintechs-press-the-pedal-on-marketing-spends-to-boost-growth/articleshow/128080009.cms",
+        "published": "Mon, 09 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "After two years of aggressive cost-cutting, India\u2019s top fintech players are loosening their purse strings for marketing in FY26. Companies like PhonePe, Paytm, and PB Fintech are dialing up ad spends to acquire new customers and capture market share."
+    },
+    {
+        "id": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-trade-deals-a-positive-but-more-reforms-required-126020800702_1.html",
+        "title": "Best of BS Opinion: Trade deals a positive, but more reforms required",
+        "link": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-trade-deals-a-positive-but-more-reforms-required-126020800702_1.html",
+        "published": "Mon, 09 Feb 2026 06:15:26 +0530",
+        "source": "Opinion",
+        "summary": "Today's Best of BS Opinion explores India's trade deals, RBI's stance amid base-year revisions, co-operatives' regulatory dilemma, equity market challenges, and Russia's wilderness in history"
+    },
+    {
+        "id": "https://inc42.com/features/why-physicswallah-is-going-back-to-school/",
+        "title": "Why PhysicsWallah Is Going Back To School",
+        "link": "https://inc42.com/features/why-physicswallah-is-going-back-to-school/",
+        "published": "Mon, 09 Feb 2026 00:30:50 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Markets-NL-PW-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Is India\u2019s test prep market hitting a ceiling in terms of growth? That\u2019s the soft signal from PhysicsWallah after its&#8230;"
     }
 ]
