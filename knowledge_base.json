@@ -97462,5 +97462,173 @@
         "published": "Mon, 09 Feb 2026 20:11:30 +0530",
         "source": "Tech-Economic Times",
         "summary": "Apollo Global Management is close to a significant deal. A roughly $3.4 billion loan is being finalised. This loan will fund an investment vehicle. The vehicle plans to purchase Nvidia chips. These chips will then be leased to Elon Musk's AI company, xAI."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
+        "title": "Anthropic closes in on $20B round",
+        "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
+        "published": "Mon, 09 Feb 2026 17:37:23 +0000",
+        "source": "TechCrunch",
+        "summary": "The company raised $13 billion in equity funding just five months ago, but intense competition between frontier labs and the ongoing cost of compute have made them eager to raise as quickly as possible."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+        "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
+        "link": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+        "published": "Mon, 09 Feb 2026 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Founded by former Google Japan leaders, InfiniMind is building enterprise AI to turn vast, unused video archives into searchable, actionable business intelligence."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination/",
+        "title": "Snapchat now lets you inform others when you have arrived at your destination",
+        "link": "https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination/",
+        "published": "Mon, 09 Feb 2026 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "With its new \"Arrival Notifications,\" users can now set one-time or recurring alerts for locations beyond their home, providing an automatic way to share when they\u2019ve arrived at their destination."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/09/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/",
+        "title": "Hacktivist scrapes over 500,000 stalkerware customers\u2019 payment records",
+        "link": "https://techcrunch.com/2026/02/09/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/",
+        "published": "Mon, 09 Feb 2026 16:20:12 +0000",
+        "source": "TechCrunch",
+        "summary": "More than half-a-million people who bought access to phone surveillance and social media snooping apps had their email address and partial payment card numbers published online."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
+        "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
+        "link": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
+        "published": "Mon, 09 Feb 2026 15:47:08 +0000",
+        "source": "TechCrunch",
+        "summary": "YouTube TV is offering new, less expensive plans that can be customized around topics like sports, news, and entertainment."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/875742/google-pixel9a-switch-2-case-netgear-gigabit-deal-sale",
+        "title": "Google\u2019s Pixel 9A is back down to $349, its cheapest price so far",
+        "link": "https://www.theverge.com/gadgets/875742/google-pixel9a-switch-2-case-netgear-gigabit-deal-sale",
+        "published": "2026-02-09T11:24:56-05:00",
+        "source": "The Verge",
+        "summary": "The Pixel 9A is an incredible phone that\u2019s worth hopping on while it\u2019s $349 for the 128GB version in blue, black, or pink at Amazon and Best Buy. It\u2019s discounted ahead of the new Pixel 10A, for which Google will open pre-orders on February 18. That\u2019s also when the company will share more details regarding [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/875782/sony-wf-1000xm6-earbuds-spec-leak",
+        "title": "Leaked specs for Sony\u2019s next flagship wireless earbuds reveal ANC upgrades",
+        "link": "https://www.theverge.com/tech/875782/sony-wf-1000xm6-earbuds-spec-leak",
+        "published": "2026-02-09T11:05:03-05:00",
+        "source": "The Verge",
+        "summary": "Following images of Sony's new WF-1000XM6 earbuds shared by a retailer last week ahead of an official announcement, reliable leaker billbil-kun has revealed what they're claiming are the full specs and new features of the company's next flagship buds. The WF-1000XM6 will be powered by a new QN3e processor that's \"three times faster\" than what's [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/875784/linux-kernel-7-0-announced",
+        "title": "Linux 6.19 arrives with a teaser for Linux 7.0",
+        "link": "https://www.theverge.com/tech/875784/linux-kernel-7-0-announced",
+        "published": "2026-02-09T10:58:43-05:00",
+        "source": "The Verge",
+        "summary": "On Sunday, Linux developer Linus Torvalds announced the release of Linux 6.19, which will be the last update in this kernel cycle, as previously reported by Phoronix. It adds support for the modern AMDGPU driver for older AMD GCN 1.0 and 1.1 graphics cards, like Radeon HD 7000 series GPUs, along with Vulkan support through [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/tv-movies/youtube-tv-launches-curated-subscription-packages-this-week-170710000.html?src=rss",
+        "title": "YouTube TV launches curated subscription packages this week",
+        "link": "https://www.engadget.com/entertainment/tv-movies/youtube-tv-launches-curated-subscription-packages-this-week-170710000.html?src=rss",
+        "published": "Mon, 09 Feb 2026 17:07:10 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>YouTube is launching <a href=\"https://blog.youtube/news-and-events/youtube-tv-plans-launch-pricing/\"><ins>YouTube TV Plans this week</ins></a>, after revealing the program <a href=\"https://www.engadget.com/entertainment/streaming/youtube-tv-plans-will-let-you-choose-genre-specific-content-packages-182909455.html\"><ins>back in December</ins></a>. These are genre-specific subscription packages that let users opt into a curated version of the service and save a few bucks in the process. Yeah. It"
+    },
+    {
+        "id": "https://www.engadget.com/deals/grab-apples-iphone-air-magsafe-battery-while-its-down-to-an-all-time-low-144516211.html?src=rss",
+        "title": "Grab Apple's iPhone Air MagSafe battery while it's down to an all-time low",
+        "link": "https://www.engadget.com/deals/grab-apples-iphone-air-magsafe-battery-while-its-down-to-an-all-time-low-144516211.html?src=rss",
+        "published": "Mon, 09 Feb 2026 15:46:27 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Despite its supremely sleek design, the <a href=\"https://www.engadget.com/mobile/smartphones/the-iphone-air-is-a-great-advertisement-for-the-iphone-17-201318112.html\">iPhone Air</a> actually has a pretty respectable battery life, lasting for somewhere in the region of 27 hours if you\u2019re continuously streaming video. But you\u2019re still going to be wary of it dying on you if you\u2019re on a trip or just having a particularly screen-heavy day. That\u2019s where Apple\u2019s <a class=\"rapid-with-clickid\" href=\"h"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/",
+        "title": "Why the Moltbook frenzy was like Pok\u00e9mon",
+        "link": "https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/",
+        "published": "Mon, 09 Feb 2026 17:02:56 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Lots of influential people in tech last week were describing Moltbook, an online hangout populated by AI agents interacting with one another, as a glimpse into the future. It appeared to show&#8230;"
+    },
+    {
+        "id": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+        "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+        "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+        "published": "Mon, 09 Feb 2026 16:26:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46947096\">Comments</a>"
+    },
+    {
+        "id": "https://explainers.blog/posts/why-is-the-sky-blue/",
+        "title": "Why Is the Sky Blue?",
+        "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
+        "published": "Mon, 09 Feb 2026 15:39:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46946401\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-make-ubuntu-server-user-friendly-for-those-wanting-to-self-host/",
+        "title": "Want to self-host for free? This server OS makes it easy - here's how to get started",
+        "link": "https://www.zdnet.com/article/how-to-make-ubuntu-server-user-friendly-for-those-wanting-to-self-host/",
+        "published": "Mon, 09 Feb 2026 17:31:13 GMT",
+        "source": "Latest news",
+        "summary": "If you're looking to start self-hosting services so you can break free from the likes of Google, Apple, and Microsoft, you'll want to get to know Ubuntu Server."
+    },
+    {
+        "id": "https://www.zdnet.com/article/top-linux-distributions-hyprland/",
+        "title": "4 Linux distros that make Hyprland easy to try - and one is truly glorious",
+        "link": "https://www.zdnet.com/article/top-linux-distributions-hyprland/",
+        "published": "Mon, 09 Feb 2026 17:30:13 GMT",
+        "source": "Latest news",
+        "summary": "Hyprland is a hot topic among Linux users and will only continue to grow in popularity. But which distributions make this new(ish) desktop viable for the average user?"
+    },
+    {
+        "id": "https://www.zdnet.com/article/chatgpt-starting-ads-which-ai-chatbots-are-ad-free/",
+        "title": "Is ChatGPT starting ads today? Here's a preview - and which AIs don't have them",
+        "link": "https://www.zdnet.com/article/chatgpt-starting-ads-which-ai-chatbots-are-ad-free/",
+        "published": "Mon, 09 Feb 2026 17:27:00 GMT",
+        "source": "Latest news",
+        "summary": "Wondering how ads will work in ChatGPT? Or which AIs are still ad-free? There aren't many. Here's a quick rundown."
+    },
+    {
+        "id": "https://www.zdnet.com/article/my-favorite-presidents-day-deals-2026/",
+        "title": "The top 5 Presidents' Day deals I'd buy right now (including an 85-inch TV for under $1,000)",
+        "link": "https://www.zdnet.com/article/my-favorite-presidents-day-deals-2026/",
+        "published": "Mon, 09 Feb 2026 17:24:38 GMT",
+        "source": "Latest news",
+        "summary": "Presidents' Day is a few days away, but savings are already here. These are my favorite offers I've seen scouring the sales so far, including discounts on tax software, Mini LED TVs, and more."
+    },
+    {
+        "id": "https://www.zdnet.com/article/i-tested-three-pairs-of-display-glasses-and-the-mid-range-one-is-the-clear-winner/",
+        "title": "I tested 3 pairs of XR display glasses and didn't expect the winner to be this obvious",
+        "link": "https://www.zdnet.com/article/i-tested-three-pairs-of-display-glasses-and-the-mid-range-one-is-the-clear-winner/",
+        "published": "Mon, 09 Feb 2026 17:21:00 GMT",
+        "source": "Latest news",
+        "summary": "When it comes to Viture, RayNeo, and Xreal, polished spatial tracking beats both raw brightness and future promises."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/using-ai-to-tackle-mule-accounts-to-be-in-focus-during-two-days-conference-by-cbi-centre/articleshow/128122306.cms",
+        "title": "Using AI to tackle mule accounts to be in focus during two days conference by CBI, Centre",
+        "link": "https://economictimes.indiatimes.com/tech/technology/using-ai-to-tackle-mule-accounts-to-be-in-focus-during-two-days-conference-by-cbi-centre/articleshow/128122306.cms",
+        "published": "Mon, 09 Feb 2026 21:57:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The use of artificial intelligence in tackling mule accounts, which form a key element in facilitating laundering of illicit funds stolen through cyber crimes, will be one of the focus areas of the two-day conference organised by the CBI and the Union Home Ministry's Indian Cyber Crime Coordination Centre (I4C) beginning Tuesday, officials said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-sued-by-autodesk-over-ai-powered-movie-making-software/articleshow/128122194.cms",
+        "title": "Google sued by Autodesk over AI-powered movie-making software",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-sued-by-autodesk-over-ai-powered-movie-making-software/articleshow/128122194.cms",
+        "published": "Mon, 09 Feb 2026 21:53:11 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Google has been sued by Autodesk for allegedly \u200dinfringing its \"Flow\" trademark to \u200bmarket competing AI-enabled software used to make movies, TV \u2060shows and video games."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/flipkart-taps-ex-blinkit-cfo-former-wipro-executive-top-finance-hr-roles",
+        "title": "Flipkart taps ex-Blinkit CFO, former Wipro executive for top finance and HR roles",
+        "link": "https://yourstory.com/2026/02/flipkart-taps-ex-blinkit-cfo-former-wipro-executive-top-finance-hr-roles",
+        "published": "Mon, 09 Feb 2026 12:18:49 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Flipkart's new hires bolster the ecommerce brand's leadership bench as it strengthens governance and operations ahead of a potential IPO."
     }
 ]
