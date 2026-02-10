@@ -99686,5 +99686,101 @@
         "published": "Tue, 10 Feb 2026 22:21:29 +0530",
         "source": "Tech-Economic Times",
         "summary": "Microsoft is exploring using superconducting power lines in its data centers, \u200dwhich could potentially accelerate its massive \u200bUS build-out of the server warehouses by making them more energy-efficient, \u2060the company said on Tuesday."
+    },
+    {
+        "id": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
+        "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
+        "link": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
+        "published": "2026-02-10T13:43:16-05:00",
+        "source": "The Verge",
+        "summary": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend with its new Shargeek 300. We first went hands on with it over a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai",
+        "title": "Facebook can animate your profile pic with AI",
+        "link": "https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai",
+        "published": "2026-02-10T13:14:21-05:00",
+        "source": "The Verge",
+        "summary": "Facebook is rolling out new AI features that let you animate your profile picture and restyle Stories and Memories. You'll also be able to add animated backgrounds to text posts to make them pop in the feed. With the animated profile pictures, you'll be able to give a still photo motion with some preset types [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/gopro-hero-lens-bundle-deal-226/",
+        "title": "This GoPro and Lens Bundle Is $200 Off",
+        "link": "https://www.wired.com/story/gopro-hero-lens-bundle-deal-226/",
+        "published": "Tue, 10 Feb 2026 18:21:44 +0000",
+        "source": "WIRED",
+        "summary": "You can grab a fully kitted action camera and all the lenses for $550."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/",
+        "title": "Windows' original Secure Boot certificates expire in June\u2014here's what you need to do",
+        "link": "https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/",
+        "published": "Tue, 10 Feb 2026 18:04:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "PCs without the new certificates could eventually have trouble booting new OSes."
+    },
+    {
+        "id": "https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2",
+        "title": "Semaglutide improves knee osteoarthritis independant of weight loss",
+        "link": "https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2",
+        "published": "Tue, 10 Feb 2026 16:55:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46962801\">Comments</a>"
+    },
+    {
+        "id": "https://campedersen.com/singularity",
+        "title": "The Singularity will occur on a Tuesday",
+        "link": "https://campedersen.com/singularity",
+        "published": "Tue, 10 Feb 2026 17:04:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46962996\">Comments</a>"
+    },
+    {
+        "id": "https://livedocs.com",
+        "title": "Launch HN: Livedocs (YC W22) \u2013 An AI-native notebook for data analysis",
+        "link": "https://livedocs.com",
+        "published": "Tue, 10 Feb 2026 18:09:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46964162\">Comments</a>"
+    },
+    {
+        "id": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+        "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
+        "link": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+        "published": "Tue, 10 Feb 2026 17:52:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46963887\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/presidents-day-sales-everything-you-need-to-know/",
+        "title": "Presidents' Day sales: Everything you need to know",
+        "link": "https://www.zdnet.com/article/presidents-day-sales-everything-you-need-to-know/",
+        "published": "Tue, 10 Feb 2026 18:42:49 GMT",
+        "source": "Latest news",
+        "summary": "Presidents' Day sales are just around the corner. Here's what to know before spending your money."
+    },
+    {
+        "id": "https://www.zdnet.com/article/microsoft-exchange-online-legitimate-emails-phishing-spam/",
+        "title": "Missing emails? Exchange Online is tagging legitimate messages as spam - here's what to do",
+        "link": "https://www.zdnet.com/article/microsoft-exchange-online-legitimate-emails-phishing-spam/",
+        "published": "Tue, 10 Feb 2026 18:25:30 GMT",
+        "source": "Latest news",
+        "summary": "Some Microsoft Exchange Online customers have been unable to send and receive email. A fix is underway, and here's what to do in the meantime."
+    },
+    {
+        "id": "https://www.zdnet.com/article/roku-free-upgrade-more-channels-save-money/",
+        "title": "Your Roku just got a free upgrade that could save you money - no Roku TV required",
+        "link": "https://www.zdnet.com/article/roku-free-upgrade-more-channels-save-money/",
+        "published": "Tue, 10 Feb 2026 17:56:37 GMT",
+        "source": "Latest news",
+        "summary": "Roku adds 9 more channels to its free Live TV lineup. Here's how to access the new shows."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/pooja-devi-hathras-home-tailoring-unit-cm-yuva",
+        "title": "Hathras: From hand-stitching to a home-based tailoring unit",
+        "link": "https://yourstory.com/2026/02/pooja-devi-hathras-home-tailoring-unit-cm-yuva",
+        "published": "Tue, 10 Feb 2026 11:47:49 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Pooja Devi has lived in Hathras for over two decades, and for much of that time her work stayed small and close to home. After her marriage"
     }
 ]
