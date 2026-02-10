@@ -99926,5 +99926,77 @@
         "published": "Tue, 10 Feb 2026 20:17:45 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=46966209\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
+        "title": "Boston Dynamics CEO\u00a0Robert Playter\u00a0steps\u00a0down after 30 years at the company",
+        "link": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
+        "published": "Tue, 10 Feb 2026 21:20:10 +0000",
+        "source": "TechCrunch",
+        "summary": "Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/",
+        "title": "VC Masha Bucher, Epstein associate and Day One founder, explains herself",
+        "link": "https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/",
+        "published": "Tue, 10 Feb 2026 21:07:44 +0000",
+        "source": "TechCrunch",
+        "summary": "After numerous news reports documented Masha Bucher's close business and personal relationship with convicted sex offender Jeffrey Epstein, Bucher took to X to explain."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/",
+        "title": "Google sent personal and financial information of student journalist to ICE",
+        "link": "https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/",
+        "published": "Tue, 10 Feb 2026 20:41:21 +0000",
+        "source": "TechCrunch",
+        "summary": "The tech giant handed over the personal information of a journalist and student who attended a pro-Palestinian protest in 2024. This is the latest example of ICE using its controversial subpoena powers to target people critical of the Trump administration."
+    },
+    {
+        "id": "https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder",
+        "title": "Ayaneo\u2019s new Windows handheld will cost up to $4,299 with maxed out specs",
+        "link": "https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder",
+        "published": "2026-02-10T15:49:40-05:00",
+        "source": "The Verge",
+        "summary": "Ayaneo opened preorders for its next Windows 11 handheld and it looks like a powerhouse. The Ayaneo Next 2 is 13.45 inches wide, 10.3-inches tall, and weighs 3.14 pounds. That's more than twice as heavy as the original Ayaneo Next that launched back in 2022, and it easily outweighs the Steam Deck and Switch 2. [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/",
+        "title": "The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating",
+        "link": "https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/",
+        "published": "Tue, 10 Feb 2026 20:45:00 +0000",
+        "source": "WIRED",
+        "summary": "Are you speechless watching US figure skater Ilia Malinin on the ice? Science explains how it\u2019s possible the Quad God can do more than four full rotations in the air."
+    },
+    {
+        "id": "https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/",
+        "title": "RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees",
+        "link": "https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/",
+        "published": "Tue, 10 Feb 2026 20:30:28 +0000",
+        "source": "WIRED",
+        "summary": "The site Realfood.gov uses Elon Musk\u2019s Grok chatbot to dispense nutrition information\u2014some of which contradicts the government\u2019s new guidelines."
+    },
+    {
+        "id": "https://mtlynch.io/bootstrapped-founder-year-8/",
+        "title": "My eighth year as a bootstrapped founder",
+        "link": "https://mtlynch.io/bootstrapped-founder-year-8/",
+        "published": "Sun, 08 Feb 2026 11:47:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46933444\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/windows-bluetooth-le-audio-sharing-auracast/",
+        "title": "More Windows 11 PCs are getting this big Bluetooth update - what you need to try it",
+        "link": "https://www.zdnet.com/article/windows-bluetooth-le-audio-sharing-auracast/",
+        "published": "Tue, 10 Feb 2026 21:04:00 GMT",
+        "source": "Latest news",
+        "summary": "Both your laptop and hearing device must be compatible with Bluetooth LE Audio."
+    },
+    {
+        "id": "https://www.zdnet.com/article/google-search-remove-personal-ids-explicit-images/",
+        "title": "You can tell Google Search to remove your personal IDs and explicit images now - but there's a catch",
+        "link": "https://www.zdnet.com/article/google-search-remove-personal-ids-explicit-images/",
+        "published": "Tue, 10 Feb 2026 20:51:00 GMT",
+        "source": "Latest news",
+        "summary": "Google will remove your passport, driver's license, or Social Security number if you ask. But you have to add those details to your request first. Is that safe?"
     }
 ]
