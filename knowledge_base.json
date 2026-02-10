@@ -100054,5 +100054,85 @@
         "published": "Tue, 10 Feb 2026 13:15:25 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In Hardoi, Uttar Pradesh, handloom is not just a symbol of heritage\u2014it remains part of everyday life. From towels and lungis to bedsheets"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
+        "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+        "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
+        "published": "Tue, 10 Feb 2026 23:16:28 +0000",
+        "source": "TechCrunch",
+        "summary": "A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+        "title": "An ice dance duo skated to AI music at the Olympics",
+        "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+        "published": "Tue, 10 Feb 2026 22:31:13 +0000",
+        "source": "TechCrunch",
+        "summary": "Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
+        "title": "ChatGPT\u2019s deep research tool adds a built-in document viewer so you can read its reports",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
+        "published": "2026-02-10T18:02:32-05:00",
+        "source": "The Verge",
+        "summary": "OpenAI is updating ChatGPT's deep research tool with a full-screen viewer that you can use to scroll through and navigate to specific areas of its AI-generated reports. As shown in a video shared by OpenAI, the built-in viewer allows you to open ChatGPT's reports in a window separate from your chat, while showing a table [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/876717/samsung-galaxy-unpacked-february-2026-s26",
+        "title": "Samsung\u2019s next Unpacked is confirmed for later this month",
+        "link": "https://www.theverge.com/tech/876717/samsung-galaxy-unpacked-february-2026-s26",
+        "published": "2026-02-10T18:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Samsung's annual Galaxy S-series reveal is later than usual this year, but we finally have a confirmed date to circle on the calendar: February 25th. And if you were hoping for major hardware upgrades from the company's flagship phones, you probably shouldn't hold your breath: an extensive leak published by WinFuture has seemingly confirmed that [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds",
+        "title": "Trump\u2019s new \u2018Buy American\u2019 requirement for EV charging would dramatically curtail build-out",
+        "link": "https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds",
+        "published": "2026-02-10T17:30:54-05:00",
+        "source": "The Verge",
+        "summary": "It seems clear at this point to say that Donald Trump does not want to spend a single dime on EV charging. He tried to freeze $5 billion in funding for the National Electric Vehicle Infrastructure (NEVI) program, which was approved as part of the Bipartisan Infrastructure Law. And when a federal judge ordered the [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/samsungs-galaxy-s26-unpacked-event-is-on-february-25-230000375.html?src=rss",
+        "title": "Samsung's Galaxy S26 Unpacked event is on February 25",
+        "link": "https://www.engadget.com/mobile/smartphones/samsungs-galaxy-s26-unpacked-event-is-on-february-25-230000375.html?src=rss",
+        "published": "Tue, 10 Feb 2026 23:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>After kicking off CES 2026 with its <a class=\"link\" href=\"https://www.engadget.com/home/smart-home/samsung-unveiled-ai-powered-products-at-ces-2026-everything-announced-from-the-years-first-press-conference-230059247.html\" target=\"_blank\">&quot;First Look&quot; event</a>, Samsung is ready to announce the first of what should be several new Galaxy smartphones this year. The company <a class=\"link\" href=\"https://news.samsung.com/us/samsung-galaxy-unpacked-february-2026-next-ai-phone-makes-life-"
+    },
+    {
+        "id": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+        "title": "The Day the Telnet Died",
+        "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+        "published": "Tue, 10 Feb 2026 22:20:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46967772\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-unpacked-2026-confirmed-galaxy-s26-ultra-preorder-deal/",
+        "title": "Samsung confirms Galaxy S26 preorder deal for $900 off ahead of February Unpacked",
+        "link": "https://www.zdnet.com/article/samsung-unpacked-2026-confirmed-galaxy-s26-ultra-preorder-deal/",
+        "published": "Tue, 10 Feb 2026 23:00:26 GMT",
+        "source": "Latest news",
+        "summary": "Samsung's newest hardware will be unveiled on February 25, and you can already score a discount with this preorder reservation."
+    },
+    {
+        "id": "https://www.zdnet.com/article/windows-11-4-essential-settings/",
+        "title": "You can fix most Windows 11 issues by double checking these 4 settings first",
+        "link": "https://www.zdnet.com/article/windows-11-4-essential-settings/",
+        "published": "Tue, 10 Feb 2026 23:00:08 GMT",
+        "source": "Latest news",
+        "summary": "If you're having trouble with Windows 11, look to this short list of the four best things you can do to enhance your PC's performance."
+    },
+    {
+        "id": "https://inc42.com/buzz/legalise-virtual-digital-assets-mp-raghav-chadha-to-govt/",
+        "title": "Legalise Virtual Digital Assets: MP Raghav Chadha To Govt",
+        "link": "https://inc42.com/buzz/legalise-virtual-digital-assets-mp-raghav-chadha-to-govt/",
+        "published": "Tue, 10 Feb 2026 23:02:15 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Legalise Virtual Digital Assets: MP Raghav Chadha To Govt\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/raghav-chadha-crypto-featured-1.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Member of Parliament (MP) and AAP leader Raghav Chadha has urged the Centre to legalise virtual digital assets (VDAs) such&#8230;"
     }
 ]
