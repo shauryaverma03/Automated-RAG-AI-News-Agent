@@ -99534,5 +99534,157 @@
         "published": "Tue, 10 Feb 2026 21:32:37 +0530",
         "source": "Tech-Economic Times",
         "summary": "The EU on Tuesday unconditionally approved Google's $32 billion bid for cloud security platform Wiz after finding it raised no competition concerns in Europe."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert",
+        "title": "An Ark showed me augmented reality\u2019s true artistic potential",
+        "link": "https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert",
+        "published": "2026-02-10T12:20:00-05:00",
+        "source": "The Verge",
+        "summary": "A few weeks ago, I locked eyes with Sir Ian McKellen as he told me a story about how I was born, where I grew up, and when I would eventually die. Some of the details were a little off, but others were so unsettlingly on the money that it felt like he really did [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/876392/shokz-openfit-air-earbuds-kobo-clara-colour-deal-sale",
+        "title": "The Shokz OpenFit Air earbuds are matching their all-time low price",
+        "link": "https://www.theverge.com/gadgets/876392/shokz-openfit-air-earbuds-kobo-clara-colour-deal-sale",
+        "published": "2026-02-10T12:05:02-05:00",
+        "source": "The Verge",
+        "summary": "If you like to take your workouts outside, open-ear earbuds are helpful for staying aware of surroundings, but that extra peace of mind often comes at the expense of bass. The Shokz OpenFit Air Earbuds actually try to address that problem, though, and they\u2019re currently $79.95 ($40 off) at Amazon, Target, and directly from Shokz [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal",
+        "title": "Microsoft is keeping Secure Boot alive with Windows updates",
+        "link": "https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal",
+        "published": "2026-02-10T12:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Microsoft is automatically replacing boot-level security certificates on Windows devices before they start expiring later this year. The new Secure Boot certificates will be rolled out as part of the regular Windows platform updates, according to Microsoft's announcement blog, marking a \"generational refresh\" of the security standard. Secure Boot was introduced in 2011 to protect [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/",
+        "title": "Upgraded Google safety tools can now find and remove more of your personal info",
+        "link": "https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/",
+        "published": "Tue, 10 Feb 2026 16:59:25 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The Results About You tool is getting an upgrade."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/02/the-kia-pv5-electric-van-combines-futuristic-looks-and-thoughtful-design/",
+        "title": "The Kia PV5 electric van combines futuristic looks and thoughtful design",
+        "link": "https://arstechnica.com/cars/2026/02/the-kia-pv5-electric-van-combines-futuristic-looks-and-thoughtful-design/",
+        "published": "Tue, 10 Feb 2026 16:20:20 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Forget VW's expensive retro bus\u2014this is the electric van we've been waiting for."
+    },
+    {
+        "id": "https://www.engadget.com/science/space/hubble-showcases-the-egg-nebula-in-all-its-dying-star-glory-174239769.html?src=rss",
+        "title": "Hubble showcases the Egg Nebula in all its dying-star glory",
+        "link": "https://www.engadget.com/science/space/hubble-showcases-the-egg-nebula-in-all-its-dying-star-glory-174239769.html?src=rss",
+        "published": "Tue, 10 Feb 2026 17:42:39 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Hubble may <a class=\"link\" href=\"https://www.engadget.com/science/space/new-webb-image-shows-star-formation-as-glittering-craggy-peaks-133001953.html\" target=\"_blank\">no longer be the gold standard</a>, but it can still capture some impressive images. The telescope's latest <a class=\"link\" href=\"https://esahubble.org/images/heic2604a/\" target=\"_blank\">snapshot</a> is our clearest view yet of the Egg Nebula. Roughly 3,000 light-years away from Earth, the nebula's name is derived from its dense"
+    },
+    {
+        "id": "https://www.engadget.com/computing/microsoft-will-start-refreshing-secure-boot-certificates-in-march-for-windows-11-and-windows-10-esu-users-170000777.html?src=rss",
+        "title": "Microsoft will start refreshing Secure Boot certificates in March for Windows 11 and Windows 10 ESU users",
+        "link": "https://www.engadget.com/computing/microsoft-will-start-refreshing-secure-boot-certificates-in-march-for-windows-11-and-windows-10-esu-users-170000777.html?src=rss",
+        "published": "Tue, 10 Feb 2026 17:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Get ye to Windows Update, because there's a good chance you've got new Secure Boot certificates to install. <a class=\"link\" href=\"https://blogs.windows.com/windowsexperience/?p=180181\" target=\"_blank\">Microsoft just announced</a> that it will be refreshing those certificates, which were originally introduced when <a class=\"link\" href=\"https://en.wikipedia.org/wiki/UEFI#SECURE-BOOT\" target=\"_blank\">Secure Boot</a> debuted in 2011, as a security precaution. Secure Boot was a way for Microsoft t"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/pc/the-ayaneo-next-2-is-a-massive-pc-handheld-with-a-price-tag-to-match-165326534.html?src=rss",
+        "title": "Ayaneo's massive Next 2 handheld has a similarly massive price tag",
+        "link": "https://www.engadget.com/gaming/pc/the-ayaneo-next-2-is-a-massive-pc-handheld-with-a-price-tag-to-match-165326534.html?src=rss",
+        "published": "Tue, 10 Feb 2026 16:53:27 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>There appears to be no limit to how chonky and eye-wateringly expensive PC gaming handhelds can get, with the latest behemoth being the Ayaneo Next 2. First <a href=\"https://www.engadget.com/gaming/the-ayaneo-next-ii-is-a-hulking-gaming-handheld-with-a-9-inch-display-175018940.html\">announced</a> back in November, the latest Windows handheld in Ayaneo\u2019s Next lineup is now up for <a href=\"https://www.indiegogo.com/en/projects/ayaneo/ayaneo-next-2-windows-handheld#/section/rewards/reward-produc"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
+        "title": "A \u201cQuitGPT\u201d campaign is urging people to cancel their ChatGPT subscriptions",
+        "link": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
+        "published": "Tue, 10 Feb 2026 17:00:24 +0000",
+        "source": "MIT Technology Review",
+        "summary": "In September, Alfred Stephen, a freelance software developer in Singapore, purchased a ChatGPT Plus subscription, which costs $20 a month and offers more access to advanced models, to speed up his work. But he grew frustrated with the chatbot\u2019s coding abilities and its gushing, meandering replies. Then he came across a post on Reddit about&#8230;"
+    },
+    {
+        "id": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+        "title": "Mathematicians disagree on the essential structure of the complex numbers",
+        "link": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+        "published": "Tue, 10 Feb 2026 16:36:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46962402\">Comments</a>"
+    },
+    {
+        "id": "https://clawhub.ai/",
+        "title": "ClawHub",
+        "link": "https://clawhub.ai/",
+        "published": "Tue, 10 Feb 2026 17:40:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46963691\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/apple-m4-macbook-pro-deal/",
+        "title": "You can save $400 on a M4 MacBook Pro right now -- but only for a limited time",
+        "link": "https://www.zdnet.com/article/apple-m4-macbook-pro-deal/",
+        "published": "Tue, 10 Feb 2026 17:52:45 GMT",
+        "source": "Latest news",
+        "summary": "Multiple variants of Apple's latest flagship laptop have received discounts in the days leading up to Presidents' Day."
+    },
+    {
+        "id": "https://www.zdnet.com/article/eartune-fidelity-eartips-review/",
+        "title": "My AirPods wouldn't stay in my ears - these $20 eartips brought me freedom",
+        "link": "https://www.zdnet.com/article/eartune-fidelity-eartips-review/",
+        "published": "Tue, 10 Feb 2026 17:45:00 GMT",
+        "source": "Latest news",
+        "summary": "Tired of losing your AirPods? These memory foam eartips from Eartune provide a snug fit."
+    },
+    {
+        "id": "https://www.zdnet.com/article/why-i-still-recommend-the-airpods-pro-2-in-2026-especially-at-this-price/",
+        "title": "Why I still recommend the AirPods Pro 2 in 2026 - especially at this price",
+        "link": "https://www.zdnet.com/article/why-i-still-recommend-the-airpods-pro-2-in-2026-especially-at-this-price/",
+        "published": "Tue, 10 Feb 2026 17:27:00 GMT",
+        "source": "Latest news",
+        "summary": "Apple's premium wireless earbuds remain among the best bang-for-buck earbuds out there."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-has-led-to-industrialisation-of-cybercrime-says-i4c-ceo/articleshow/128169777.cms",
+        "title": "AI has led to industrialisation of cybercrime, says I4C CEO",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-has-led-to-industrialisation-of-cybercrime-says-i4c-ceo/articleshow/128169777.cms",
+        "published": "Tue, 10 Feb 2026 23:01:32 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The advent of artificial intelligence has led to the industrialisation of cybercrime, with a lot of automated attacks being carried out by organised gangs, a top official of the Indian Cybercrime Coordination Centre said on Tuesday."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/uk-regulator-asks-social-media-firms-to-block-crypto-exchange-htx/articleshow/128169491.cms",
+        "title": "UK regulator asks social media firms to block crypto exchange HTX",
+        "link": "https://economictimes.indiatimes.com/tech/technology/uk-regulator-asks-social-media-firms-to-block-crypto-exchange-htx/articleshow/128169491.cms",
+        "published": "Tue, 10 Feb 2026 22:55:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Britain's markets regulator said \u200don Tuesday it had \u200basked social media companies and app stores to block \u2060access to crypto exchange HTX in the UK."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tesla-files-complaint-against-union-member-for-secretly-recording-works-council-meeting-memo-shows/articleshow/128169334.cms",
+        "title": "Tesla files complaint against union member for secretly recording works council meeting, memo shows",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tesla-files-complaint-against-union-member-for-secretly-recording-works-council-meeting-memo-shows/articleshow/128169334.cms",
+        "published": "Tue, 10 Feb 2026 22:53:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tesla \u200bhas filed a criminal complaint \u2060against a member of Germany's IG Metall trade union for secretly recording a \u200cworks \u200ccouncil meeting that took place at its \u200cplant near Berlin on Tuesday."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tesla-names-europe-executive-to-head-global-sales-report/articleshow/128169376.cms",
+        "title": "Tesla names Europe executive to head global sales: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tesla-names-europe-executive-to-head-global-sales-report/articleshow/128169376.cms",
+        "published": "Tue, 10 Feb 2026 22:50:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tesla \u200chas \u200cnamed the European operations head to \u200boversee \u200bthe \u200ccompany's \u200dsales \u200dglobally, Bloomberg News reported \u200con Tuesday, citing people \u200dfamiliar with the \u200dmatter."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsoft-exploring-using-advanced-power-lines-to-make-data-centers-more-energy-efficient/articleshow/128168403.cms",
+        "title": "Microsoft exploring using advanced power lines to make data centers more energy-efficient",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-exploring-using-advanced-power-lines-to-make-data-centers-more-energy-efficient/articleshow/128168403.cms",
+        "published": "Tue, 10 Feb 2026 22:21:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft is exploring using superconducting power lines in its data centers, \u200dwhich could potentially accelerate its massive \u200bUS build-out of the server warehouses by making them more energy-efficient, \u2060the company said on Tuesday."
     }
 ]
