@@ -101654,5 +101654,181 @@
         "published": "Wed, 11 Feb 2026 16:43:35 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In Umran, Kanpur Dehat, Uttar Pradesh, a modest garment setup stands, built around a simple routine \u2014 fabric comes in, patterns are cut"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/",
+        "title": "DOJ says Trenchant boss sold exploits to Russian broker capable of accessing \u2018millions of computers and devices\u2019",
+        "link": "https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/",
+        "published": "Wed, 11 Feb 2026 18:41:41 +0000",
+        "source": "TechCrunch",
+        "summary": "The former boss of the L3Harris-owned hacking and surveillance tools maker Trenchant faces nine years in prison for selling several exploits to a Russian broker, which counts the Russian government among its customers."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
+        "title": "Why the economics of orbital AI are so brutal",
+        "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
+        "published": "Wed, 11 Feb 2026 18:15:21 +0000",
+        "source": "TechCrunch",
+        "summary": "A 1 Gw orbital data center would cost roughly $42.4B\u2014almost three times its ground-bound equivalent."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
+        "title": "Threads\u2019 new \u2018Dear Algo\u2019 AI feature lets you personalize your feed",
+        "link": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
+        "published": "Wed, 11 Feb 2026 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/",
+        "title": "Google releases the first beta of Android 17, adopts a continous developer release plan",
+        "link": "https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/",
+        "published": "Wed, 11 Feb 2026 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Google is changing how developers get access to new APIs and features of the latest version."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
+        "title": "How AI changes the math for startups, according to a Microsoft VP",
+        "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
+        "published": "Wed, 11 Feb 2026 17:51:37 +0000",
+        "source": "TechCrunch",
+        "summary": "Amanda Silver is a corporate vice president at Microsoft\u2019s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises."
+    },
+    {
+        "id": "https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution",
+        "title": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links",
+        "link": "https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution",
+        "published": "2026-02-11T13:06:36-05:00",
+        "source": "The Verge",
+        "summary": "Microsoft has fixed a serious security vulnerability affecting Markdown files in Notepad. In the company's Tuesday patch notes, Microsoft says a bad actor could carry out a remote code execution attack by tricking users \"into clicking a malicious link inside a Markdown file opened in Notepad,\" as reported earlier by The Register. Clicking the link [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
+        "title": "Here are the 40 best Presidents Day deals you can already shop",
+        "link": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
+        "published": "2026-02-11T13:00:52-05:00",
+        "source": "The Verge",
+        "summary": "Deals have been admittedly pretty dry since the holidays, but now that February is in full swing, we\u2019re starting to see strong discounts return across a range of categories. In fact, thanks to Valentine\u2019s Day, the Super Bowl, and \u2014 as of this week \u2014 Presidents Day, retailers are once again offering a slew of [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage",
+        "title": "Why \u2018deleted\u2019 doesn\u2019t mean gone: How police recovered Nancy Guthrie\u2019s doorbell footage",
+        "link": "https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage",
+        "published": "2026-02-11T13:00:33-05:00",
+        "source": "The Verge",
+        "summary": "FBI Director Kash Patel said yesterday that investigators recovered footage from Savannah Guthrie's mother's doorbell camera using \"residual data located in backend systems.\" This claim has many home security camera users asking an uncomfortable question: Is your data really gone when you hit delete? When Nancy Guthrie went missing, officials said she had a doorbell [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/876610/meta-threads-dear-algo-algorithm",
+        "title": "Threads\u2019 new \u2018Dear Algo\u2019 feature lets you tell the algorithm what you want to see",
+        "link": "https://www.theverge.com/tech/876610/meta-threads-dear-algo-algorithm",
+        "published": "2026-02-11T13:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Threads now lets users in the US adjust what is recommended in their feed by writing \"Dear Algo\" in a post and explaining what they're looking for. The feature is part of a bigger push across Meta's platforms to give users more control over the types of posts that are recommended to them. Dear Algo [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/jeffrey-epstein-advised-an-elon-musk-associate-on-taking-tesla-private/",
+        "title": "Jeffrey Epstein Advised an Elon Musk Associate on Taking Tesla Private",
+        "link": "https://www.wired.com/story/jeffrey-epstein-advised-an-elon-musk-associate-on-taking-tesla-private/",
+        "published": "Wed, 11 Feb 2026 18:11:45 +0000",
+        "source": "WIRED",
+        "summary": "The financier recommended adding Margaret Thatcher to Tesla\u2019s board even though she had been dead for five years."
+    },
+    {
+        "id": "https://www.wired.com/story/anker-laptop-power-bank-deal-226/",
+        "title": "Our Favorite Upgraded Power Bank Is $30 Off",
+        "link": "https://www.wired.com/story/anker-laptop-power-bank-deal-226/",
+        "published": "Wed, 11 Feb 2026 18:04:14 +0000",
+        "source": "WIRED",
+        "summary": "This supercharged Anker pack can keep all your devices topped up."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/tv-movies/the-helldivers-movie-will-star-jason-momoa-and-hits-theaters-on-november-10-2027-183445038.html?src=rss",
+        "title": "The Helldivers movie will star Jason Momoa and hits theaters on November 10, 2027",
+        "link": "https://www.engadget.com/entertainment/tv-movies/the-helldivers-movie-will-star-jason-momoa-and-hits-theaters-on-november-10-2027-183445038.html?src=rss",
+        "published": "Wed, 11 Feb 2026 18:34:45 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Jason Momoa will be playing the lead in the forthcoming film adaptation of the Helldivers gaming franchise, <a href=\"https://variety.com/2026/film/news/jason-momoa-helldivers-release-date-november-2027-1236659604/\"><ins>according to a report by </ins><em><ins>Variety</ins></em></a>. The games don't have a story-driven protagonist, so Momoa is likely to play a currently unnamed soldier.</p>\n<p>We also have a release date for the <em>Helldivers</em> film. It comes out on November 10, 2027. That"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/meta-turned-threads-algorithm-complaints-into-an-official-feature-180000236.html?src=rss",
+        "title": "Meta turned Threads algorithm complaints into an official feature",
+        "link": "https://www.engadget.com/social-media/meta-turned-threads-algorithm-complaints-into-an-official-feature-180000236.html?src=rss",
+        "published": "Wed, 11 Feb 2026 18:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Threads users have been complaining about its recommendation algorithm pretty much since the beginning of the platform. At some point, this turned into a meme, with users writing posts jokingly addressed to the algorithm in which they requested to see more posts about the topics they're actually interested in.</p><p>Now, Meta is turning those &quot;Dear algorithm&quot; posts into an official feature that it says will allow Threads users to tune their recommendations in real time. With the cha"
+    },
+    {
+        "id": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+        "title": "Claude Code Is Being Dumbed Down",
+        "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+        "published": "Wed, 11 Feb 2026 18:23:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46978710\">Comments</a>"
+    },
+    {
+        "id": "https://theloop.ecpr.eu/its-not-finance-its-your-pensions/",
+        "title": "It's not finance, it's your pensions",
+        "link": "https://theloop.ecpr.eu/its-not-finance-its-your-pensions/",
+        "published": "Fri, 06 Feb 2026 09:16:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46910704\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/roku-revamps-news-hub-watch-local-stations-free/",
+        "title": "Roku lets anyone watch local news for free: How to find your NBC, ABC, and CBS stations",
+        "link": "https://www.zdnet.com/article/roku-revamps-news-hub-watch-local-stations-free/",
+        "published": "Wed, 11 Feb 2026 18:30:12 GMT",
+        "source": "Latest news",
+        "summary": "The Roku Channel has hundreds of free live channels, including your local news affiliates."
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-early-presidents-day-deals-2026/",
+        "title": "The best early Presidents' Day sales we've found so far: Save on Apple, Sony, and more",
+        "link": "https://www.zdnet.com/article/best-early-presidents-day-deals-2026/",
+        "published": "Wed, 11 Feb 2026 18:18:30 GMT",
+        "source": "Latest news",
+        "summary": "Presidents' Day sales are slowly making their way online, and I'm scouting for expert-approved deals on home, tech, and more."
+    },
+    {
+        "id": "https://www.zdnet.com/article/what-is-alexa-plus-generative-ai-amazon/",
+        "title": "What is Alexa+? Everything Amazon's generative AI can do - and how to get it today",
+        "link": "https://www.zdnet.com/article/what-is-alexa-plus-generative-ai-amazon/",
+        "published": "Wed, 11 Feb 2026 17:50:00 GMT",
+        "source": "Latest news",
+        "summary": "Alexa+ is smarter, more natural-sounding, and more capable than the old Alexa. Here's how to upgrade ASAP."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-biggest-challenge-is-turning-its-ai-into-a-cash-machine/articleshow/128219694.cms",
+        "title": "OpenAI's biggest challenge is turning its AI into a cash machine",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-biggest-challenge-is-turning-its-ai-into-a-cash-machine/articleshow/128219694.cms",
+        "published": "Wed, 11 Feb 2026 23:30:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI, once opposed to ads in ChatGPT, has begun introducing them amid mounting financial pressure. Facing huge computing costs and competition, the company seeks new revenue through advertising and enterprise sales, despite risks to user trust and market position."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-sovereign-ai-hub-to-create-5000-high-skilled-jobs-in-odisha-following-sarvam-ai-mou/articleshow/128219593.cms",
+        "title": "New Sovereign AI hub to create 5,000 high-skilled jobs in Odisha following Sarvam AI MoU",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-sovereign-ai-hub-to-create-5000-high-skilled-jobs-in-odisha-following-sarvam-ai-mou/articleshow/128219593.cms",
+        "published": "Wed, 11 Feb 2026 23:24:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The project follows a strategic proposal from Sarvam AI, a leading Indian startup, which plans to invest approximately Rs 20,000 crore ($2.3 billion) to set up the hub. This facility will serve as a cornerstone for the state's digital transformation, transitioning Odisha from its traditional roots in mining and metals toward a technology-driven future."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/printing-unit-cm-yuva-jalaun",
+        "title": "Flex banners to paper jobs: Inside a small print shop business in Jalaun",
+        "link": "https://yourstory.com/2026/02/printing-unit-cm-yuva-jalaun",
+        "published": "Wed, 11 Feb 2026 16:44:23 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In a narrow commercial stretch of Kalpi in Jalaun district, Uttar Pradesh, Mohammad Danish runs a small printing unit that supplies the everyday material"
+    },
+    {
+        "id": "https://inc42.com/buzz/saas-unicorn-icertis-mulls-sale-at-5-bn-valuation-report/",
+        "title": "SaaS Unicorn Icertis Mulls Sale At $5 Bn Valuation: Report",
+        "link": "https://inc42.com/buzz/saas-unicorn-icertis-mulls-sale-at-5-bn-valuation-report/",
+        "published": "Wed, 11 Feb 2026 18:38:48 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"SaaS Unicorn Icertis Mulls Sale At $5 Bn Valuation: Report\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/icertis-sale-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />SoftBank-backed SaaS unicorn Icertis is reportedly exploring a potential sale, which could value the company at up to $5 Bn.&#8230;"
     }
 ]
