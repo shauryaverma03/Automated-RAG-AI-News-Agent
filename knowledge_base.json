@@ -105870,5 +105870,53 @@
         "published": "Fri, 13 Feb 2026 17:50:54 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47005509\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+        "title": "Airbnb says a third of its customer support is now handled by AI in the U.S. and Canada",
+        "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+        "published": "Fri, 13 Feb 2026 22:12:26 +0000",
+        "source": "TechCrunch",
+        "summary": "Airbnb has shifted a third of its North American customer service to its AI agent, CEO Brian Chesky said."
+    },
+    {
+        "id": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+        "title": "OpenAI Is Nuking Its 4o Model. China\u2019s ChatGPT Fans Aren\u2019t OK",
+        "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+        "published": "Fri, 13 Feb 2026 21:56:18 +0000",
+        "source": "WIRED",
+        "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
+        "title": "Verizon makes customers wait 35 days to unlock fully paid-off phones",
+        "link": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
+        "published": "Fri, 13 Feb 2026 22:13:27 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Verizon unlocks have 35-day waiting period after paying off device plan online."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/",
+        "title": "Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage",
+        "link": "https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/",
+        "published": "Fri, 13 Feb 2026 21:39:29 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\u201cThis is definitely not about dogs,\u201d senator says, urging a pause on Ring face scans."
+    },
+    {
+        "id": "https://mccloskeybr.com/articles/font_rendering.html",
+        "title": "Font Rendering from First Principles",
+        "link": "https://mccloskeybr.com/articles/font_rendering.html",
+        "published": "Sun, 08 Feb 2026 00:58:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46930181\">Comments</a>"
+    },
+    {
+        "id": "https://www.moltis.org",
+        "title": "Show HN: Moltis \u2013 AI assistant with memory, tools, and self-extending skills",
+        "link": "https://www.moltis.org",
+        "published": "Thu, 12 Feb 2026 19:15:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46993587\">Comments</a>"
     }
 ]
