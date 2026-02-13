@@ -105814,5 +105814,61 @@
         "published": "Fri, 13 Feb 2026 10:44:40 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In Gonda, Uttar Pradesh, masoor dal\u2014known in English as red lentils\u2014is judged even before it is cooked. Buyers look for clean, evenly graded grains"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
+        "title": "Fintech lending giant Figure confirms data breach",
+        "link": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
+        "published": "Fri, 13 Feb 2026 21:02:46 +0000",
+        "source": "TechCrunch",
+        "summary": "The company said hackers downloaded \u201ca limited number of files\u201d after breaking into an employee\u2019s account. The hacking group ShinyHunters took responsibility for the breach."
+    },
+    {
+        "id": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+        "title": "Why top talent is walking away from OpenAI and xAI",
+        "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+        "published": "Fri, 13 Feb 2026 21:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI\u2019s&#160;founding team&#160;has left the company \u2014 some on their own, others through \u201crestructuring\u201d \u2014 while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its \u201cadult mode\u201d feature.&#160; Watch as TechCrunch\u2019s\u00a0Equity\u00a0podcast hosts Kirsten Korosec, Anthony [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol",
+        "title": "4chan\u2019s creator says \u2018Epstein had nothing to do\u2019 with creating infamous far-right board /pol/",
+        "link": "https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol",
+        "published": "2026-02-13T16:01:19-05:00",
+        "source": "The Verge",
+        "summary": "The close timing of Jeffrey Epstein coming into contact with 4chan founder Chris 'moot' Poole and the launch of the \"politically incorrect\" message board /pol/ that became a breeding ground for QAnon and the white supremacist alt-right movement was coincidental, says Poole. In a statement given to The Verge, Pool writes, \"The decision to add [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
+        "title": "The first Android 17 beta is now available on Pixel devices",
+        "link": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
+        "published": "Fri, 13 Feb 2026 20:58:25 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Don't expect big changes yet."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+        "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
+        "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+        "published": "Fri, 13 Feb 2026 19:40:21 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "One developer is struggling with the social implications of a drive-by AI character attack."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/tv-movies/bitcoin-biopic-starring-casey-affleck-to-use-ai-to-generate-locations-and-tweak-performances-210657775.html?src=rss",
+        "title": "Bitcoin biopic starring Casey Affleck to use AI to generate locations and tweak performances",
+        "link": "https://www.engadget.com/entertainment/tv-movies/bitcoin-biopic-starring-casey-affleck-to-use-ai-to-generate-locations-and-tweak-performances-210657775.html?src=rss",
+        "published": "Fri, 13 Feb 2026 21:06:57 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><em>Killing Satoshi</em>, an upcoming biopic about the elusive creator of Bitcoin, will reportedly rely heavily on artificial intelligence to generate locations and adjust actors' performances, <a class=\"link\" href=\"https://variety.com/2026/film/news/pete-davidson-killing-satoshi-ai-doug-liman-ryan-kavanaugh-1236661170/\" target=\"_blank\"><em>Variety</em> reports</a>. The film was <a class=\"link\" href=\"https://variety.com/2025/film/news/doug-liman-casey-affleck-pete-davidson-bitcoin-killing-sat"
+    },
+    {
+        "id": "https://hatchet.run/blog/tuis-are-easy-now",
+        "title": "Building a TUI is easy now",
+        "link": "https://hatchet.run/blog/tuis-are-easy-now",
+        "published": "Fri, 13 Feb 2026 17:50:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47005509\">Comments</a>"
     }
 ]
