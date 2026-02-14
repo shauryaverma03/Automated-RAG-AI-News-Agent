@@ -106910,5 +106910,29 @@
         "published": "Fri, 13 Feb 2026 11:30:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Want to be happier? Seneca\u2019s timeless advice shows why releasing past mistakes and future anxiety is the key to inner peace."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+        "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+        "link": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+        "published": "Sat, 14 Feb 2026 20:37:42 +0000",
+        "source": "TechCrunch",
+        "summary": "As much of Silicon Valley chases mega-rounds and buzzy AI deals, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital's earlier days"
+    },
+    {
+        "id": "https://www.engadget.com/ai/airbnb-is-testing-out-ai-search-with-a-small-percentage-of-users-203054011.html?src=rss",
+        "title": "Airbnb is testing out AI search with a 'small percentage' of users",
+        "link": "https://www.engadget.com/ai/airbnb-is-testing-out-ai-search-with-a-small-percentage-of-users-203054011.html?src=rss",
+        "published": "Sat, 14 Feb 2026 20:30:54 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a href=\"https://www.engadget.com/apps/airbnb-tests-letting-users-order-groceries-through-instacart-161340408.html\">Airbnb</a> plans to double down on artificial intelligence to improve its user experience for both guests and hosts. During a <a class=\"no-affiliate-link\" href=\"https://events.q4inc.com/attendee/468531313\">fourth-quarter earnings call</a>, Airbnb's CEO, Brian Chesky, said the company is building an &quot;AI-native experience&quot; aimed at helping guests book trips, assisting ho"
+    },
+    {
+        "id": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+        "title": "OpenAI should build Slack",
+        "link": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+        "published": "Sat, 14 Feb 2026 07:50:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47012553\">Comments</a>"
     }
 ]
