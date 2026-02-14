@@ -105934,5 +105934,93 @@
         "published": "Fri, 13 Feb 2026 21:35:52 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47008163\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
+        "title": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
+        "link": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
+        "published": "Fri, 13 Feb 2026 23:16:48 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "CDC awarded $1.6 million for study birth dose of hepatitis B vaccine in Guinea-Bissau."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
+        "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
+        "link": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
+        "published": "Fri, 13 Feb 2026 23:03:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Hayden AI's cameras will scan for violations from 7 city vehicles."
+    },
+    {
+        "id": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
+        "title": "The evolution of OpenAI's mission statement",
+        "link": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
+        "published": "Fri, 13 Feb 2026 23:43:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47009416\">Comments</a>"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
+        "title": "Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts",
+        "link": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
+        "published": "Sat, 14 Feb 2026 00:00:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47009582\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/5-favorite-linux-distros-easy-setup/",
+        "title": "My 5 favorite Linux distros that are ready to use out of the box (no setup required)",
+        "link": "https://www.zdnet.com/article/5-favorite-linux-distros-easy-setup/",
+        "published": "Sat, 14 Feb 2026 01:00:48 GMT",
+        "source": "Latest news",
+        "summary": "These distros are easy to install, include the right apps, skip the bloat and ads, and automatically detect your hardware."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/physical-ai-gaining-traction-in-operations-technology-honeywells-anant-maheshwari/articleshow/128322001.cms",
+        "title": "Physical AI gaining traction in operations technology: Honeywell's Anant Maheshwari",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/physical-ai-gaining-traction-in-operations-technology-honeywells-anant-maheshwari/articleshow/128322001.cms",
+        "published": "Sat, 14 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Artificial intelligence is moving beyond IT services, with physical AI gaining traction in operations technology, said Anant Maheshwari of Honeywell at the ET NOW Global Business Summit. AI adds \u2018learn\u2019 to systems that \u2018see\u2019, \u2018think\u2019 and \u2018act\u2019. He said it will hasten talent maturity rather than cause job losses."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/kla-inks-mou-with-tn-govt-for-rs-3600-crore-rd-and-innovation-campus-in-chennai/articleshow/128321210.cms",
+        "title": "KLA inks MoU with TN govt for Rs 3,600 crore R&amp;D and innovation campus in Chennai",
+        "link": "https://economictimes.indiatimes.com/tech/technology/kla-inks-mou-with-tn-govt-for-rs-3600-crore-rd-and-innovation-campus-in-chennai/articleshow/128321210.cms",
+        "published": "Sat, 14 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "KLA Corporation has signed an MoU with the Tamil Nadu government to set up a new R&amp;D and innovation campus in Chennai, investing up to 3,600 crore over the next decade. The 12-acre site will expand existing operations. The facility may create 4,000 jobs and support advanced research and engineering."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/fidelity-accel-lead-160170-million-investment-round-in-spinny/articleshow/128320435.cms",
+        "title": "Fidelity, Accel lead $160\u2013170 million investment round in Spinny",
+        "link": "https://economictimes.indiatimes.com/tech/funding/fidelity-accel-lead-160170-million-investment-round-in-spinny/articleshow/128320435.cms",
+        "published": "Sat, 14 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Spinny has secured 160\u2013170 million in a funding round led by US-based investors Fidelity and Accel Leaders Fund. The deal includes 90 million of primary capital, while Blume Ventures and Fundamentum sold shares, with other existing investors joining. Fidelity\u2019s investment received CCI approval on Thursday, valuing the company at 1.4\u20131.5 billion."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/digital-arrest-victims-may-be-going-under-cover/articleshow/128319770.cms",
+        "title": "Digital arrest victims may be going under cover",
+        "link": "https://economictimes.indiatimes.com/tech/technology/digital-arrest-victims-may-be-going-under-cover/articleshow/128319770.cms",
+        "published": "Sat, 14 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Banks and insurers are in early talks to design an insurance product to cover victims of digital arrest scams, potentially making India the first country with such fraud coverage. The government has formed an interdepartmental committee to support tools like a UPI kill switch. Insurers and regulators are discussing protection for losses caused under psychological pressure."
+    },
+    {
+        "id": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-who-holds-power-and-who-pays-the-price-126021301788_1.html",
+        "title": "Best of BS Opinion: Who holds power and who pays the price",
+        "link": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-who-holds-power-and-who-pays-the-price-126021301788_1.html",
+        "published": "Sat, 14 Feb 2026 06:15:05 +0530",
+        "source": "Opinion",
+        "summary": "Here are the best of Business Standard's opinion pieces for today"
+    },
+    {
+        "id": "https://yourstory.com/2026/02/mahindra-blues-festival-music-photography",
+        "title": "The iconic Mahindra Blues Festival celebrates its 14th edition in Mumbai",
+        "link": "https://yourstory.com/2026/02/mahindra-blues-festival-music-photography",
+        "published": "Fri, 13 Feb 2026 12:24:04 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In this photo essay, we showcase a range of performers from the Mahindra Blues Festival, along with curator insights."
     }
 ]
