@@ -107390,5 +107390,37 @@
         "published": "Sun, 15 Feb 2026 11:29:45 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Union IT Secretary is of the view that there should be democratic access to AI resources."
+    },
+    {
+        "id": "https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding",
+        "title": "Why are Epstein\u2019s emails full of equals signs?",
+        "link": "https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding",
+        "published": "2026-02-15T08:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Many of the emails released by the Department of Justice from its investigation into Jeffrey Epstein are full of garbled symbols like: Or: The scrambled text is so ubiquitous that it's spurred conspiracy theories that it could be some kind of code. But as believable as it might be that a cabal of elite sex [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
+        "title": "AI can\u2019t make good video game worlds yet, and it might never be able to",
+        "link": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
+        "published": "2026-02-15T08:00:00-05:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, follow Jay Peters. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before the generative AI explosion, [&#8230;]"
+    },
+    {
+        "id": "https://marler8997.github.io/blog/fixed-windows/",
+        "title": "I Fixed Windows Native Development",
+        "link": "https://marler8997.github.io/blog/fixed-windows/",
+        "published": "Sun, 15 Feb 2026 11:25:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47022891\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/data-centres-to-be-massive-job-creator-pm-modi/articleshow/128384333.cms",
+        "title": "Data centres to be massive job creator: PM Modi",
+        "link": "https://economictimes.indiatimes.com/tech/technology/data-centres-to-be-massive-job-creator-pm-modi/articleshow/128384333.cms",
+        "published": "Sun, 15 Feb 2026 18:49:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "This comes a day before the PM opens the India AI Impact Summit and Expo at the Bharat Mandapam in New Delhi. The high-powered event, being held from February 16 to 20, will be the first-ever AI summit hosted in the global south and is anchored in the three guiding principles of 'People, Planet, and Progress'."
     }
 ]
