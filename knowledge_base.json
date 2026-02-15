@@ -106982,5 +106982,45 @@
         "published": "Fri, 13 Feb 2026 19:22:18 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47006615\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/alibaba/zvec",
+        "title": "Zvec: A lightweight, fast, in-process vector database",
+        "link": "https://github.com/alibaba/zvec",
+        "published": "Fri, 13 Feb 2026 08:53:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47000535\">Comments</a>"
+    },
+    {
+        "id": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+        "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+        "link": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+        "published": "Fri, 13 Feb 2026 23:34:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47009327\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/which-hdmi-port-to-use-on-your-tv/",
+        "title": "Does it matter which HDMI port you use on your TV? Short answer: Yes",
+        "link": "https://www.zdnet.com/article/which-hdmi-port-to-use-on-your-tv/",
+        "published": "Sun, 15 Feb 2026 01:00:56 GMT",
+        "source": "Latest news",
+        "summary": "You might be losing out on peak imaging or sound performance - here's how to choose the right port."
+    },
+    {
+        "id": "https://www.zdnet.com/article/which-ai-tools-are-worth-paying-for-here-are-subscriptions-im-keeping-and-why/",
+        "title": "Which AI tools are actually worth paying for? I'm keeping these subscriptions in 2026 - here's why",
+        "link": "https://www.zdnet.com/article/which-ai-tools-are-worth-paying-for-here-are-subscriptions-im-keeping-and-why/",
+        "published": "Sun, 15 Feb 2026 01:00:43 GMT",
+        "source": "Latest news",
+        "summary": "I pay close attention to anything that can save me time. After reviewing my 2025 spending on generative AI, I made one big change."
+    },
+    {
+        "id": "https://www.zdnet.com/article/hisense-u8qg-review/",
+        "title": "The Hisense U8QG is one of the smartest TV buys I can recommend",
+        "link": "https://www.zdnet.com/article/hisense-u8qg-review/",
+        "published": "Sun, 15 Feb 2026 00:11:00 GMT",
+        "source": "Latest news",
+        "summary": "The Hisense U8QG delivers premium features at a midrange price, making it one of the smartest TV buys on the market right now. And right now at Best Buy, you can save $1,300 on the 65-inch version."
     }
 ]
