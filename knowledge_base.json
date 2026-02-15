@@ -107606,5 +107606,69 @@
         "published": "Sun, 15 Feb 2026 16:19:51 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47024907\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+        "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+        "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+        "published": "Sun, 15 Feb 2026 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+        "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+        "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+        "published": "Sun, 15 Feb 2026 17:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani",
+        "title": "You need to watch the intensely surreal cult classic Possession",
+        "link": "https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani",
+        "published": "2026-02-15T12:30:00-05:00",
+        "source": "The Verge",
+        "summary": "Let me just say that I highly recommend you go into Possession blind. Don't watch a trailer. Don't even finish reading this. Go watch it now over on Shudder, Criterion, or Metrograph. It's also available through Kanopy or Hoopla if your library provides access. Then come back so we can talk about it in the [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
+        "title": "\"It ain't no unicorn\": These researchers have interviewed 130 Bigfoot hunters",
+        "link": "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
+        "published": "Sun, 15 Feb 2026 17:20:12 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "What prompts this community to spend time looking for a creature that likely doesn't exist?"
+    },
+    {
+        "id": "https://www.engadget.com/transportation/evs/tesla-carplay-is-coming-but-its-reportedly-being-held-back-by-low-ios-26-adoption-numbers-173812736.html?src=rss",
+        "title": "Tesla CarPlay is coming but it's reportedly being held back by low iOS 26 adoption numbers",
+        "link": "https://www.engadget.com/transportation/evs/tesla-carplay-is-coming-but-its-reportedly-being-held-back-by-low-ios-26-adoption-numbers-173812736.html?src=rss",
+        "published": "Sun, 15 Feb 2026 17:38:12 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>We're still waiting for Apple CarPlay compatibility for <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/transportation/evs/tesla-launches-a-seven-seat-version-of-the-2026-model-y-130039385.html\">Tesla EVs</a>, but it's been pushed back thanks to a slight hitch with iOS 26, according to <a class=\"no-affiliate-link\" href=\"https://www.bloomberg.com/news/newsletters/2026-02-15/tesla-carplay-delays-related-to-ios-26-and-fsd-apple-s-new-siri-delays-ios-27\"><em>Bloomberg</em></a>'s Mark "
+    },
+    {
+        "id": "https://github.com/TechPaula/LT6502",
+        "title": "LT6502: A 6502-based homebrew laptop",
+        "link": "https://github.com/TechPaula/LT6502",
+        "published": "Sun, 15 Feb 2026 17:12:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47025399\">Comments</a>"
+    },
+    {
+        "id": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+        "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+        "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+        "published": "Sun, 15 Feb 2026 17:10:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47025378\">Comments</a>"
+    },
+    {
+        "id": "https://gwern.net/gwtar",
+        "title": "Gwtar: A static efficient single-file HTML format",
+        "link": "https://gwern.net/gwtar",
+        "published": "Sun, 15 Feb 2026 15:37:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47024506\">Comments</a>"
     }
 ]
