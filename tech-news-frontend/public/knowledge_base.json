@@ -107238,5 +107238,29 @@
         "published": "Sun, 15 Feb 2026 07:01:24 GMT",
         "source": "YourStory RSS Feed",
         "summary": "BCGX maintained that India should follow a policy of \u201csovereignty by design\u201d with policies that protect data along with bringing benefits for everyone."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
+        "title": "The great computer science exodus (and where students are going instead)",
+        "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
+        "published": "Sun, 15 Feb 2026 08:40:27 +0000",
+        "source": "TechCrunch",
+        "summary": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses."
+    },
+    {
+        "id": "https://oat.ink/",
+        "title": "Oat \u2013 Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+        "link": "https://oat.ink/",
+        "published": "Sun, 15 Feb 2026 08:17:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47021980\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/02/softbank-rides-ai-surge-from-trash-to-livelihoods",
+        "title": "SoftBank rides AI surge; From trash to livelihoods",
+        "link": "https://yourstory.com/2026/02/softbank-rides-ai-surge-from-trash-to-livelihoods",
+        "published": "Sun, 15 Feb 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "AI-related holdings have surged from 18% to over 60% of SoftBank group\u2019s net asset value in three years, while in India, the challenge of daily waste, once managed mainly by the informal sector, is being transformed by a new wave of social enterprises and climate-focused startups."
     }
 ]
