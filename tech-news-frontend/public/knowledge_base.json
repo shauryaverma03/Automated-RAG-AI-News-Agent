@@ -107262,5 +107262,21 @@
         "published": "Sun, 15 Feb 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "AI-related holdings have surged from 18% to over 60% of SoftBank group\u2019s net asset value in three years, while in India, the challenge of daily waste, once managed mainly by the informal sector, is being transformed by a new wave of social enterprises and climate-focused startups."
+    },
+    {
+        "id": "https://www.seangoedecke.com/fast-llm-inference/",
+        "title": "Two different tricks for fast LLM inference",
+        "link": "https://www.seangoedecke.com/fast-llm-inference/",
+        "published": "Sun, 15 Feb 2026 09:27:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47022329\">Comments</a>"
+    },
+    {
+        "id": "https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e",
+        "title": "Git is a file system. We need a database for the code",
+        "link": "https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e",
+        "published": "Sun, 15 Feb 2026 09:09:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47022238\">Comments</a>"
     }
 ]
