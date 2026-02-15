@@ -107278,5 +107278,45 @@
         "published": "Sun, 15 Feb 2026 09:09:31 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47022238\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/review/currentbody-led-hair-growth-helmet/",
+        "title": "CurrentBody LED Hair Growth Helmet Review: Baby Hairs Abound (2026)",
+        "link": "https://www.wired.com/review/currentbody-led-hair-growth-helmet/",
+        "published": "Sun, 15 Feb 2026 11:08:00 +0000",
+        "source": "WIRED",
+        "summary": "This FDA-cleared red-light helmet helps spur hair growth and is Bluetooth-enabled with a comfortable design. But don\u2019t expect results overnight."
+    },
+    {
+        "id": "https://www.wired.com/story/ai-fancy-footwear-and-all-the-other-gear-powering-olympic-bobsledding/",
+        "title": "AI, Fancy Footwear, and All the Other Gear Powering Olympic Bobsledding",
+        "link": "https://www.wired.com/story/ai-fancy-footwear-and-all-the-other-gear-powering-olympic-bobsledding/",
+        "published": "Sun, 15 Feb 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Bobsledders rely a lot on specialized equipment to perform well and stay safe during the \"Formula 1 of ice.\u201d Here\u2019s a quick guide."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-has-all-ingredients-to-be-a-full-stack-ai-leader-sam-altman/articleshow/128379247.cms",
+        "title": "India has all ingredients to be a full-stack AI leader: Sam Altman",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-has-all-ingredients-to-be-a-full-stack-ai-leader-sam-altman/articleshow/128379247.cms",
+        "published": "Sun, 15 Feb 2026 15:49:42 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Referring to the government's IndiaAI Mission, he said it is designed to expand compute capacity, support startups and accelerate multilingual applications in healthcare, agriculture and public services to ensure AI becomes \"an essential tool for hundreds of millions of people across India\"."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/elon-musk-says-tesla-spacex-and-xai-have-no-standalone-safety-teams-controversy-swirls-around-grok/articleshow/128378974.cms",
+        "title": "Elon Musk says Tesla, SpaceX and xAI have no standalone safety teams; controversy swirls around Grok",
+        "link": "https://economictimes.indiatimes.com/tech/technology/elon-musk-says-tesla-spacex-and-xai-have-no-standalone-safety-teams-controversy-swirls-around-grok/articleshow/128378974.cms",
+        "published": "Sun, 15 Feb 2026 15:38:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Musk argued that safety is embedded into every role within his companies, rather than overseen by a standalone department. He extended that philosophy to xAI, saying the company does not rely on what he described as a powerless, separate safety function but integrates responsibility across teams."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-china-ministerial-delegation-to-visit-ai-summit/articleshow/128378854.cms",
+        "title": "US, China ministerial delegation to visit AI Summit",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-china-ministerial-delegation-to-visit-ai-summit/articleshow/128378854.cms",
+        "published": "Sun, 15 Feb 2026 15:33:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "World leaders from 20 nations including France, the United Arab Emirates, Brazil, Switzerland, and Spain, among others will attend the summit, while government delegations from 100 countries will hold talks. A series of bilateral meetings are scheduled to be held on the sidelines."
     }
 ]
