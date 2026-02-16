@@ -109014,5 +109014,45 @@
         "published": "Mon, 16 Feb 2026 11:08:15 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Soren Kierkegaard\u2019s famous quote on life reveals why we understand our choices only in hindsight, yet must live forward with courage and uncertainty."
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/iphone-fold-rumors-everything-we-know-so-far-including-the-leaked-design-upgrades-price-and-more-details-130000074.html?src=rss",
+        "title": "iPhone Fold rumors: Everything we know so far, including the leaked design, upgrades, price and more details",
+        "link": "https://www.engadget.com/mobile/smartphones/iphone-fold-rumors-everything-we-know-so-far-including-the-leaked-design-upgrades-price-and-more-details-130000074.html?src=rss",
+        "published": "Mon, 16 Feb 2026 18:20:53 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple still hasn\u2019t officially announced a foldable iPhone, but the rumor mill hasn\u2019t slowed down. Over the past few months, analysts, supply-chain watchers and leakers have continued to sketch out what Apple\u2019s first folding phone might look like and when it could finally arrive. Most signs still point to a late-2026 debut, though plenty could change between now and then.</p><p>As always with unreleased Apple hardware, nothing here is confirmed. Plans can shift, features can be reworked and ti"
+    },
+    {
+        "id": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
+        "title": "I guess I kinda get why people hate AI",
+        "link": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
+        "published": "Mon, 16 Feb 2026 17:22:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47037628\">Comments</a>"
+    },
+    {
+        "id": "https://webmachinelearning.github.io/webmcp/",
+        "title": "WebMCP Proposal",
+        "link": "https://webmachinelearning.github.io/webmcp/",
+        "published": "Mon, 16 Feb 2026 17:08:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47037501\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/cloudflare-flags-issues-at-x-and-aws-as-user-reports-signal-recovery/articleshow/128432888.cms",
+        "title": "Cloudflare flags issues at X and AWS as users report signal recovery",
+        "link": "https://economictimes.indiatimes.com/tech/technology/cloudflare-flags-issues-at-x-and-aws-as-user-reports-signal-recovery/articleshow/128432888.cms",
+        "published": "Mon, 16 Feb 2026 23:14:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cloudflare, the tech company that provides a wide range of services for apps and websites, said it was experiencing issues early Monday. Users reported problems with the service on DownDetector, an online outage tracker, as well as with X, formerly Twitter, and Amazon Web Services. It was unclear whether the X and Amazon problems were related to Cloudflare's outage."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/at-mega-ai-summit-in-delhi-goa-seeks-deeptech-semiconductor-investments/articleshow/128432469.cms",
+        "title": "At mega AI Summit in Delhi, Goa seeks deeptech, semiconductor investments",
+        "link": "https://economictimes.indiatimes.com/tech/technology/at-mega-ai-summit-in-delhi-goa-seeks-deeptech-semiconductor-investments/articleshow/128432469.cms",
+        "published": "Mon, 16 Feb 2026 22:59:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Banking on the Centre's ambitious India AI Mission unveiled alongside a major industry summit in New Delhi, Goa is positioning itself as an emerging hub for artificial intelligence, deep-tech research and semiconductor-linked sectors, a state minister said on Monday."
     }
 ]
