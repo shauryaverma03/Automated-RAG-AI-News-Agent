@@ -109238,5 +109238,37 @@
         "published": "Mon, 16 Feb 2026 21:45:00 GMT",
         "source": "Latest news",
         "summary": "The Lenovo ThinkPad X1 Carbon Gen 13 from 2025 is over $600 off in this Presidents' Day flash sale."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/theres-a-dedicated-channel-for-formula-1-in-the-apple-tv-app-now-230904295.html?src=rss",
+        "title": "There's a dedicated channel for Formula 1 in the Apple TV app now",
+        "link": "https://www.engadget.com/entertainment/streaming/theres-a-dedicated-channel-for-formula-1-in-the-apple-tv-app-now-230904295.html?src=rss",
+        "published": "Mon, 16 Feb 2026 23:09:04 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple continues to double down on its Formula 1 programming, following up on the <a class=\"link\" href=\"https://www.engadget.com/entertainment/streaming/f1-the-movie-now-streaming-on-apple-tv-following-a-long-theatrical-run-133531702.html\" target=\"_blank\">box office success</a> of its blockbuster movie by adding a dedicated channel for the racing league to the Apple TV app. This section of the streaming service hints at some of what may be coming when the F1 season begins with the kickoff even"
+    },
+    {
+        "id": "https://www.engadget.com/audio/more-rode-mics-can-now-connect-directly-to-iphones-and-ipads-230000533.html?src=rss",
+        "title": "More Rode mics can now connect directly to iPhones and iPads",
+        "link": "https://www.engadget.com/audio/more-rode-mics-can-now-connect-directly-to-iphones-and-ipads-230000533.html?src=rss",
+        "published": "Mon, 16 Feb 2026 23:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Rode is rolling out a firmware update for its <a class=\"link\" href=\"https://www.engadget.com/rodes-wireless-pro-mic-kit-lets-you-forget-about-clipped-audio-000028417.html\" target=\"_blank\">Wireless Pro</a> and <a class=\"link\" href=\"https://www.engadget.com/audio/rodes-latest-wireless-go-microphone-system-boasts-40-hours-of-on-board-storage-230014651.html\" target=\"_blank\">Wireless Go (third-gen)</a> microphones to add a feature called Direct Connect, which was already available for the <a class"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/call-of-duty-warzone-mobile-will-go-offline-on-april-17-222240967.html?src=rss",
+        "title": "Call of Duty: Warzone Mobile will go offline on April 17",
+        "link": "https://www.engadget.com/gaming/call-of-duty-warzone-mobile-will-go-offline-on-april-17-222240967.html?src=rss",
+        "published": "Mon, 16 Feb 2026 22:22:40 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><em>Call of Duty: Warzone Mobile</em> will be no more this spring. According to Activision, servers will be taken offline for this mobile battle royale game on April 17, 2026. The shooter will remain available for current players until that date. This mobile port of the CoD battle royale mode has been on its way to a finale for the past year, with the game studio <a class=\"link\" href=\"https://www.engadget.com/gaming/activision-is-abandoning-call-of-duty-warzone-mobile-161023019.html\" target=\""
+    },
+    {
+        "id": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+        "title": "Running NanoClaw in a Docker Shell Sandbox",
+        "link": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+        "published": "Mon, 16 Feb 2026 22:53:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47041456\">Comments</a>"
     }
 ]
