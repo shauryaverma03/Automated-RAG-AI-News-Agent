@@ -107822,5 +107822,85 @@
         "published": "Sun, 15 Feb 2026 22:52:00 GMT",
         "source": "Latest news",
         "summary": "Asus' ROG Strix G18 is a powerful gaming machine housing the latest hardware. Buy from Amazon, and you'll score a code for the next Resident Evil."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+        "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+        "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+        "published": "Mon, 16 Feb 2026 01:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+        "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+        "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+        "published": "Mon, 16 Feb 2026 00:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates."
+    },
+    {
+        "id": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+        "title": "Error payloads in Zig",
+        "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+        "published": "Sun, 15 Feb 2026 23:08:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47028705\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/verizon-free-iphone-17-pro-deal/",
+        "title": "Get an iPhone 17 Pro for free, plus a $200 gift card at Verizon - here's how to qualify",
+        "link": "https://www.zdnet.com/article/verizon-free-iphone-17-pro-deal/",
+        "published": "Mon, 16 Feb 2026 01:01:58 GMT",
+        "source": "Latest news",
+        "summary": "Sign up for or switch to the Verizon Unlimited Ultimate mobile plan and get a free iPhone 17 Pro and a $200 Verizon virtual gift card."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/blackstone-leads-600-million-raise-in-ai-cloud-neysa-at-1-4-billion-enterprise-value/articleshow/128390051.cms",
+        "title": "Blackstone leads $600 million raise in AI cloud Neysa at $1.4 billion enterprise value",
+        "link": "https://economictimes.indiatimes.com/tech/startups/blackstone-leads-600-million-raise-in-ai-cloud-neysa-at-1-4-billion-enterprise-value/articleshow/128390051.cms",
+        "published": "Mon, 16 Feb 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Blackstone is leading a $1.2 billion investment in Neysa, marking what would be India's largest-ever funding round in the AI space. The round is split evenly between primary equity and debt, giving Blackstone a majority stake."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/blackstone-leads-600-million-raise-in-ai-cloud-neysa-at-1-4-billion-enterprise-value/articleshow/128390049.cms",
+        "title": "Blackstone leads $600 million raise in AI cloud startup Neysa at $1.4 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/funding/blackstone-leads-600-million-raise-in-ai-cloud-neysa-at-1-4-billion-enterprise-value/articleshow/128390049.cms",
+        "published": "Mon, 16 Feb 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Blackstone is leading a $1.2 billion investment in Neysa, marking what would be India's largest-ever funding round in the AI space. The round is split evenly between primary equity and debt, giving Blackstone a majority stake."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/quick-commerce-gains-as-last-minute-events-drive-valentines-demand/articleshow/128389838.cms",
+        "title": "Quick commerce gains as last-minute events drive Valentine\u2019s demand",
+        "link": "https://economictimes.indiatimes.com/tech/technology/quick-commerce-gains-as-last-minute-events-drive-valentines-demand/articleshow/128389838.cms",
+        "published": "Mon, 16 Feb 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Direct-to-consumer (D2C) brands report a surge in sales during the Valentine\u2019s Day period as smaller events, festivals, and occasions grow bigger on quick commerce each year. Valentine\u2019s Day is emerging as a key sales event for quick commerce platforms as companies like Zepto, Blinkit, Flipkart Minutes and Swiggy\u2019s Instamart create dedicated sections on their apps featuring brand deals, offers and promotions days before February 14."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/wrong-to-think-that-ai-will-eliminate-it-services-nasscom-prez/articleshow/128390380.cms",
+        "title": "Wrong to think that AI will eliminate IT services: Nasscom prez",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/wrong-to-think-that-ai-will-eliminate-it-services-nasscom-prez/articleshow/128390380.cms",
+        "published": "Mon, 16 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Stock market investors have wiped out nearly $50 billion from Indian IT companies\u2019 market capitalisation since the start of 2025, spooked by fears of AI tools eating into the IT sector\u2019s revenue. Analysts estimate tools such as Anthropic\u2019s Cowork plugins and Palantir\u2019s ERP software will have a 2% hit on revenue growth each year for the next three-four years."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/new-age-ipo-sizes-shrink-as-choppy-markets-reshape-pricing-benchmarks/articleshow/128389950.cms",
+        "title": "Why new-age IPOs are seeing shrinking issue sizes, slashed valuations",
+        "link": "https://economictimes.indiatimes.com/tech/startups/new-age-ipo-sizes-shrink-as-choppy-markets-reshape-pricing-benchmarks/articleshow/128389950.cms",
+        "published": "Mon, 16 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Several new-age companies that have gone public in recent months have trimmed issue sizes and settled for lower valuations as volatile markets and shifting investor filters reset IPO benchmarks. The recalibration is occurring even as India\u2019s IPO market remains active."
+    },
+    {
+        "id": "https://inc42.com/features/shadowfax-makes-quick-commerce-its-prime-focus/",
+        "title": "Shadowfax Makes Quick Commerce Its \u2018Prime\u2019 Focus",
+        "link": "https://inc42.com/features/shadowfax-makes-quick-commerce-its-prime-focus/",
+        "published": "Mon, 16 Feb 2026 00:30:46 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Market-Newsletter-shadofax-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />India\u2019s logistics market is quietly fragmenting. Ever since the ecommerce boom of 2015-2016, scale in delivery was built around one&#8230;"
     }
 ]
