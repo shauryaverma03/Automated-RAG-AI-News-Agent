@@ -109086,5 +109086,77 @@
         "published": "Mon, 16 Feb 2026 18:44:58 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47038588\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/02/bytedance-backpedals-after-seedance-2-0-turned-hollywood-icons-into-ai-clip-art/",
+        "title": "ByteDance backpedals after Seedance 2.0 turned Hollywood icons into AI \u201cclip art\u201d",
+        "link": "https://arstechnica.com/tech-policy/2026/02/bytedance-backpedals-after-seedance-2-0-turned-hollywood-icons-into-ai-clip-art/",
+        "published": "Mon, 16 Feb 2026 17:42:37 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Hollywood backlash puts spotlight on ByteDance's sketchy launch of Seedance 2.0."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/02/dna-inspired-molecule-breaks-records-for-storing-solar-heat/",
+        "title": "A fluid can store solar energy and then release it as heat months later",
+        "link": "https://arstechnica.com/science/2026/02/dna-inspired-molecule-breaks-records-for-storing-solar-heat/",
+        "published": "Mon, 16 Feb 2026 17:30:38 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Sunlight can cause a molecule to change structure, and then release heat later."
+    },
+    {
+        "id": "https://www.engadget.com/apps/apples-podcasts-app-now-supports-http-live-streaming-video-technology-182605460.html?src=rss",
+        "title": "Apple's Podcasts app now supports HTTP Live Streaming video technology",
+        "link": "https://www.engadget.com/apps/apples-podcasts-app-now-supports-http-live-streaming-video-technology-182605460.html?src=rss",
+        "published": "Mon, 16 Feb 2026 18:26:05 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple is planning a <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=4ff6901d-ec37-492f-b8c4-588ec3a43c47&amp;featureId=text-link&amp;merchantName=Apple&amp;linkText=major+update+for+its+Podcasts+app&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vbmV3c3Jvb20vMjAyNi8wMi9hcHBsZS1pbnRyb2R1Y2VzLWEtbmV3LXZpZGV"
+    },
+    {
+        "id": "https://wero-wallet.eu",
+        "title": "Wero \u2013 Digital payment wallet, Made in Europe",
+        "link": "https://wero-wallet.eu",
+        "published": "Mon, 16 Feb 2026 19:09:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47038965\">Comments</a>"
+    },
+    {
+        "id": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+        "title": "\"token anxiety\"; or, a slot machine by any other name",
+        "link": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+        "published": "Mon, 16 Feb 2026 18:23:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47038318\">Comments</a>"
+    },
+    {
+        "id": "https://jmail.world/jemini",
+        "title": "Show HN: Jemini \u2013 Gemini for the Epstein Files",
+        "link": "https://jmail.world/jemini",
+        "published": "Mon, 16 Feb 2026 05:53:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47031334\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/roku-streaming-stick-plus-deal/",
+        "title": "This $25 streaming stick breathed new life into my LG TV",
+        "link": "https://www.zdnet.com/article/roku-streaming-stick-plus-deal/",
+        "published": "Mon, 16 Feb 2026 20:05:00 GMT",
+        "source": "Latest news",
+        "summary": "Roku or Fire TV stick? This $25 deal made the decision easy for me."
+    },
+    {
+        "id": "https://www.zdnet.com/article/owlet-dream-sock-review/",
+        "title": "This smart sock gave me peace of mind as a new mom",
+        "link": "https://www.zdnet.com/article/owlet-dream-sock-review/",
+        "published": "Mon, 16 Feb 2026 19:38:15 GMT",
+        "source": "Latest news",
+        "summary": "If you know a new mom or mom-to-be, the Owlet Dream Sock is a great gift to track their baby's sleep habits and have peace of mind."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/cloudflare-founder-matthew-prince-rejects-reports-of-service-outage/articleshow/128435868.cms",
+        "title": "Cloudflare CEO Matthew Prince rejects outage reports, hints at legal action",
+        "link": "https://economictimes.indiatimes.com/tech/technology/cloudflare-founder-matthew-prince-rejects-reports-of-service-outage/articleshow/128435868.cms",
+        "published": "Tue, 17 Feb 2026 00:57:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cloudflare\u2019s cofounder and chief executive rejected a report claiming the company suffered an outage Monday morning, disputing coverage that cited user complaints and data from Downdetector. Prince also hinted that the internet infrastructure provider might also consider legal action against Downdetector, because he was \u201ctired of their crap\u201d."
     }
 ]
