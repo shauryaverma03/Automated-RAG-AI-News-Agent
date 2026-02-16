@@ -109158,5 +109158,45 @@
         "published": "Tue, 17 Feb 2026 00:57:56 +0530",
         "source": "Tech-Economic Times",
         "summary": "Cloudflare\u2019s cofounder and chief executive rejected a report claiming the company suffered an outage Monday morning, disputing coverage that cited user complaints and data from Downdetector. Prince also hinted that the internet infrastructure provider might also consider legal action against Downdetector, because he was \u201ctired of their crap\u201d."
+    },
+    {
+        "id": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
+        "title": "Apple starts testing end-to-end encrypted RCS messages on iPhone",
+        "link": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
+        "published": "2026-02-16T15:21:33-05:00",
+        "source": "The Verge",
+        "summary": "Apple is starting to test end-to-end encrypted (E2EE) RCS messages with the developer beta of iOS 26.4 released Monday. Apple announced plans last year to support the feature, and once fully available, it will let iPhone and Android users send encrypted RCS messages to each other across platforms. However, with this initial implementation, Apple is [&#8230;]"
+    },
+    {
+        "id": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+        "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+        "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+        "published": "Mon, 16 Feb 2026 18:41:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47038546\">Comments</a>"
+    },
+    {
+        "id": "https://qntm.org/suicide",
+        "title": "Suicide Linux (2009)",
+        "link": "https://qntm.org/suicide",
+        "published": "Mon, 16 Feb 2026 20:34:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47039966\">Comments</a>"
+    },
+    {
+        "id": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+        "title": "Testing Postgres race conditions with synchronization barriers",
+        "link": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+        "published": "Mon, 16 Feb 2026 20:23:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47039834\">Comments</a>"
+    },
+    {
+        "id": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
+        "title": "PCB Rework and Repair Guide [pdf]",
+        "link": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
+        "published": "Sat, 14 Feb 2026 13:42:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47014460\">Comments</a>"
     }
 ]
