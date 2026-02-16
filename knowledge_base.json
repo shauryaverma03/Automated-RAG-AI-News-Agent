@@ -108742,5 +108742,85 @@
         "published": "Mon, 16 Feb 2026 13:31:30 GMT",
         "source": "YourStory RSS Feed",
         "summary": "slice Small Finance Bank said the Reserve Bank of India has approved the appointment of founder Rajan Bajaj as its Managing Director and Chief Executive Officer, marking a leadership transition at the fintech-led small finance bank. \n\nBajaj, who previously served as Executive Director, was appointe"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+        "title": "Flapping Airplanes on the future of AI: \u2018We want to try really radically different things\u2019",
+        "link": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+        "published": "Mon, 16 Feb 2026 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "\"We're exploring a different set of tradeoffs.\""
+    },
+    {
+        "id": "https://www.engadget.com/gaming/the-creators-of-mixtape-want-to-make-a-great-hangout-video-game-140026928.html?src=rss",
+        "title": "The creators of Mixtape want to make a great hangout video game",
+        "link": "https://www.engadget.com/gaming/the-creators-of-mixtape-want-to-make-a-great-hangout-video-game-140026928.html?src=rss",
+        "published": "Mon, 16 Feb 2026 14:00:26 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>For most adventure games, the long-term goal can often focus on solving a grand mystery or chasing a lost artifact of the past. But for the upcoming <a href=\"https://www.engadget.com/gaming/mixtape-turned-me-back-into-a-millennial-teenage-dirtbag-200337301.html\"><em>Mixtape</em></a><em>, </em>from publisher Annapurna Interactive, it sets its sights on the misadventures of young friends enjoying their last days together before moving on. It's the type of narrative adventure game that shines a "
+    },
+    {
+        "id": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
+        "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
+        "link": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
+        "published": "Mon, 16 Feb 2026 13:30:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47034713\">Comments</a>"
+    },
+    {
+        "id": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+        "title": "Running My Own XMPP Server",
+        "link": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+        "published": "Mon, 16 Feb 2026 13:39:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47034801\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/NationalSecurityAgency/ghidra",
+        "title": "Ghidra by NSA",
+        "link": "https://github.com/NationalSecurityAgency/ghidra",
+        "published": "Sat, 14 Feb 2026 04:24:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47011548\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-why-is-the-pentagon-locked-in-a-dispute-with-anthropic/articleshow/128427478.cms",
+        "title": "Explained: Why is the Pentagon locked in a dispute with Anthropic?",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-why-is-the-pentagon-locked-in-a-dispute-with-anthropic/articleshow/128427478.cms",
+        "published": "Mon, 16 Feb 2026 20:07:10 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The US Department of War is reportedly planning to sever ties with AI startup Anthropic after the company refused to remove restrictions on military use of its AI tools. This dispute centres on Anthropic's safety concerns regarding sensitive applications like weapons development and autonomous systems, potentially leading to the termination of a $200 million deal."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-can-lead-in-making-ai-more-accessible-to-global-south-bcg-india-md-partner-sidharth-madaan/articleshow/128426902.cms",
+        "title": "India can lead in making AI more accessible to Global South: BCG India MD &amp; Partner Sidharth Madaan",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-can-lead-in-making-ai-more-accessible-to-global-south-bcg-india-md-partner-sidharth-madaan/articleshow/128426902.cms",
+        "published": "Mon, 16 Feb 2026 20:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is well-positioned to make AI accessible to the Global South. The country has developed powerful open-source language models that can be adapted for various regions. However, India must quickly skill its young population and existing workforce in new technologies. This is crucial to convert its demographic advantage into a productivity advantage and avoid falling behind."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-has-potential-to-reduce-burden-on-healthcare-workforce-top-govt-official/articleshow/128426915.cms",
+        "title": "AI has potential to reduce burden on healthcare workforce: Top govt official",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-has-potential-to-reduce-burden-on-healthcare-workforce-top-govt-official/articleshow/128426915.cms",
+        "published": "Mon, 16 Feb 2026 19:52:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Artificial Intelligence will strengthen India's healthcare system. Union Health Secretary Punya Salila Srivastava highlighted AI's role in reducing workforce burden and enhancing patient care. India's digital health ecosystem is expanding, integrating AI into primary care. Initiatives like MadhuNetrAI and Cough Against TB are showcasing AI's potential for disease detection and early alerts."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boosting-efficiency-risk-of-weakening-human-accountability-a-challenge/articleshow/128426494.cms",
+        "title": "AI boosting efficiency; risk of weakening human accountability a challenge",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boosting-efficiency-risk-of-weakening-human-accountability-a-challenge/articleshow/128426494.cms",
+        "published": "Mon, 16 Feb 2026 19:45:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Artificial Intelligence promises to boost work efficiency and value creation. However, experts warn of education system gaps and the risk of reduced human accountability.  Leaders from global financial institutions highlighted these concerns at the AI Impact Summit 2026.  Preparing the workforce and maintaining oversight are crucial for future growth."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/x-outage-users-report-website-and-app-issues/articleshow/128426175.cms",
+        "title": "X outage: Users report website and app issues",
+        "link": "https://economictimes.indiatimes.com/tech/technology/x-outage-users-report-website-and-app-issues/articleshow/128426175.cms",
+        "published": "Mon, 16 Feb 2026 19:27:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Elon Musk\u2019s social media platform X faced another outage, the second month in a row. Over 3,000 complaints were reported in India on Monday evening, with most users experiencing website issues, while others struggled with the app or feed. The cause remains unclear, and the company has not given an explanation."
     }
 ]
