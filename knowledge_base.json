@@ -109350,5 +109350,93 @@
         "published": "Tue, 17 Feb 2026 00:35:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "HomeRun is a quick commerce platform for construction and home improvement materials."
+    },
+    {
+        "id": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
+        "title": "Valve\u2019s Steam Deck OLED will be \u2018intermittently\u2019 out of stock because of the RAM crisis",
+        "link": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
+        "published": "2026-02-16T21:57:56-05:00",
+        "source": "The Verge",
+        "summary": "Valve has updated the Steam Deck website to say that the Steam Deck OLED may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The PC gaming handheld has been out of stock in the US and other parts of the world for a few days, and thanks to this [&#8230;]"
+    },
+    {
+        "id": "https://www.bbc.com/news/articles/cx2gn239exlo",
+        "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+        "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
+        "published": "Tue, 17 Feb 2026 01:01:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47042396\">Comments</a>"
+    },
+    {
+        "id": "https://newsletter.mikekonczal.com/p/why-affordability-and-the-vibecession",
+        "title": "Why Affordability and the Vibecession Are Real Economic Problems",
+        "link": "https://newsletter.mikekonczal.com/p/why-affordability-and-the-vibecession",
+        "published": "Tue, 17 Feb 2026 02:49:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47043126\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/intelligence-rationality-make-technology-useful-pm-modi-on-public-interest-focus-of-ai-impact-summit/articleshow/128446988.cms",
+        "title": "Intelligence, rationality make technology useful: PM Modi on public interest focus of AI Impact Summit",
+        "link": "https://economictimes.indiatimes.com/tech/technology/intelligence-rationality-make-technology-useful-pm-modi-on-public-interest-focus-of-ai-impact-summit/articleshow/128446988.cms",
+        "published": "Tue, 17 Feb 2026 08:59:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In a post on X, the Prime Minister stated, \"Intelligence, rationality and decision-making make science and technology useful to the masses. The India AI Impact Summit also aims to see how AI can be used in the public interest. Service, hearing, grasping and holding. Delusion and delusion, knowledge of the meaning and knowledge of the truth are the attributes of intellect.\""
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nations-looking-at-overarching-ai-strategy-not-just-one-component-nvidia-exec-calista-redmond-says/articleshow/128446925.cms",
+        "title": "Nations looking at overarching AI strategy, not just one component, Nvidia exec Calista Redmond says",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nations-looking-at-overarching-ai-strategy-not-just-one-component-nvidia-exec-calista-redmond-says/articleshow/128446925.cms",
+        "published": "Tue, 17 Feb 2026 08:56:46 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Calista Redmond, VP Sovereign AI at Nvidia says that nations are increasingly looking at their overarching AI story and not just one component."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ireland-opens-probe-into-musks-grok-ai-over-sexualised-images/articleshow/128445980.cms",
+        "title": "Ireland opens probe into Musk's Grok AI over sexualised images",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ireland-opens-probe-into-musks-grok-ai-over-sexualised-images/articleshow/128445980.cms",
+        "published": "Tue, 17 Feb 2026 08:22:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The DPC is the lead EU regulator for X because the U.S. company's European Union operations are based in Ireland. It can levy fines of up \u200cto 4% of \u2060a \u2060company's global revenue under the bloc's General Data Protection Regulation (GDPR)."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spacex-to-compete-in-pentagon-contest-for-autonomous-drone-tech-report/articleshow/128445569.cms",
+        "title": "SpaceX to compete in Pentagon contest for autonomous drone tech: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spacex-to-compete-in-pentagon-contest-for-autonomous-drone-tech-report/articleshow/128445569.cms",
+        "published": "Tue, 17 Feb 2026 08:09:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Texas-based SpaceX recently acquired xAI in \u200ba deal that combined Musk's major space and defense contractor with the \u200bbillionaire entrepreneur's artificial intelligence startup. It occurred ahead of SpaceX's planned initial public offering this year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indias-tougher-ai-social-media-rules-spark-censorship-fears/articleshow/128445477.cms",
+        "title": "India's tougher AI social media rules spark censorship fears",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indias-tougher-ai-social-media-rules-spark-censorship-fears/articleshow/128445477.cms",
+        "published": "Tue, 17 Feb 2026 08:06:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India has tightened rules governing the use of artificial intelligence on social media to combat a flood of disinformation, but also prompting warnings of censorship and an erosion of digital freedoms. With more than a billion internet users, India is grappling with AI-generated disinformation swamping social media."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/enterprises-rethinking-the-concept-of-job-ready-talent",
+        "title": "Why enterprises are rethinking the concept of \u2018Job-Ready\u2019 talent",
+        "link": "https://yourstory.com/2026/02/enterprises-rethinking-the-concept-of-job-ready-talent",
+        "published": "Tue, 17 Feb 2026 01:50:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Job-ready no longer means qualified, it means prepared to deliver results. In a fast-changing business world, enterprises must move beyond training for skills and start building true role readiness that drives performance from day one."
+    },
+    {
+        "id": "https://inc42.com/startups/how-arata-grew-to-%e2%82%b961-cr-by-building-clean-beauty-as-a-habit/",
+        "title": "How Arata Grew To \u20b961 Cr By Building Clean Beauty As A Habit",
+        "link": "https://inc42.com/startups/how-arata-grew-to-%e2%82%b961-cr-by-building-clean-beauty-as-a-habit/",
+        "published": "Tue, 17 Feb 2026 03:30:10 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"How Arata Grew To \u20b961 Cr By Building Clean Beauty As A Habit\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/ftr-100-1-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Hair care aisles in India are expanding fast, but the category isn\u2019t getting smarter at the same pace. For decades,&#8230;"
+    },
+    {
+        "id": "https://inc42.com/startups/how-beco-grew-to-%e2%82%b9108-cr-by-making-green-products-performance-led/",
+        "title": "How BECO Grew To \u20b9108 Cr By Making Green Products Performance-Led",
+        "link": "https://inc42.com/startups/how-beco-grew-to-%e2%82%b9108-cr-by-making-green-products-performance-led/",
+        "published": "Tue, 17 Feb 2026 01:30:13 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"How BECO Grew To \u20b9108 Cr By Making Green Products Performance-Led\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/ftr-100-12.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />India\u2019s eco-friendly home hygiene market is set to double from $14.25 Bn in 2024 to $28.44 Bn by 2030, fuelled&#8230;"
     }
 ]
