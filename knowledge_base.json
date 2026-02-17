@@ -109686,5 +109686,61 @@
         "published": "Tue, 17 Feb 2026 13:25:29 +0530",
         "source": "Tech-Economic Times",
         "summary": "The partnership was announced at the start of the India-France Innovation Year launched by Prime Minister Narendra Modi and French President Emmanuel Macron in Mumbai."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
+        "title": "Cohere launches a family of open multilingual models",
+        "link": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
+        "published": "Tue, 17 Feb 2026 09:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Cohere's Tiny Aya models support over 70 langauges"
+    },
+    {
+        "id": "https://github.com/matt1398/claude-devtools",
+        "title": "Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)",
+        "link": "https://github.com/matt1398/claude-devtools",
+        "published": "Fri, 13 Feb 2026 16:43:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47004712\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sovereign-ai-models-available-at-summit-huge-response-to-event-ashwini-vaishnaw/articleshow/128456823.cms",
+        "title": "Govt looking to build consensus on the challenges between AI and copyright: Ashwini Vaishnaw",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sovereign-ai-models-available-at-summit-huge-response-to-event-ashwini-vaishnaw/articleshow/128456823.cms",
+        "published": "Tue, 17 Feb 2026 14:17:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Large AI models have been commercially rolled out by global players like ChatGPT of OpenAI, Google's Gemini, etc.The minister said investors are also bullish on India and have finalised investment of over Rs 20,000 crore, which will materialise over the next 1-2 years."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/only-30-ai-professionals-women-16-hold-research-roles-un-women-calls-for-inclusive-design/articleshow/128456740.cms",
+        "title": "'Only 30% AI professionals women, 16% hold research roles': UN Women calls for inclusive design",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/only-30-ai-professionals-women-16-hold-research-roles-un-women-calls-for-inclusive-design/articleshow/128456740.cms",
+        "published": "Tue, 17 Feb 2026 14:15:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Speaking at the launch of the AI Casebook on Gender and Agriculture at India AI Summit here, UN Women Regional Director for Asia Pacific Christine Arab said the underrepresentation of women in AI development was creating systemic bias in the technology."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/books-linger-long",
+        "title": "Books that stay: Why certain books never truly leave you",
+        "link": "https://yourstory.com/2026/02/books-linger-long",
+        "published": "Tue, 17 Feb 2026 08:14:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover books that stay with you long after the final page, sparking reflection, deeper questions, and quiet insight that unfolds over time."
+    },
+    {
+        "id": "https://inc42.com/buzz/india-to-attract-200-bn-in-ai-investments-in-two-years-ashwini-vaishnaw/",
+        "title": "India To Attract $200 Bn In AI Investments In Two Years: Ashwini Vaishnaw",
+        "link": "https://inc42.com/buzz/india-to-attract-200-bn-in-ai-investments-in-two-years-ashwini-vaishnaw/",
+        "published": "Tue, 17 Feb 2026 09:02:40 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Online Gaming Act To Be Implemented From Oct 1: Ashwini Vaishnaw\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/08/MoS-Ashwini-Vaishnaw-Feature.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />India is set to attract more than $200 Bn in investments towards artificial intelligence (AI) over the next two years,&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/equirus-marks-final-close-of-maiden-early-stage-vc-fund-at-%e2%82%b9166-cr/",
+        "title": "Equirus Marks Final Close Of Maiden Early Stage VC Fund At \u20b9166 Cr",
+        "link": "https://inc42.com/buzz/equirus-marks-final-close-of-maiden-early-stage-vc-fund-at-%e2%82%b9166-cr/",
+        "published": "Tue, 17 Feb 2026 08:49:25 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Equirus InnovateX Fund close\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Equirus-fund-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Financial services company Equirus Group has announced the final close of its maiden early-stage venture capital (VC) fund, Equirus InnovateX&#8230;"
     }
 ]
