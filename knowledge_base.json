@@ -109270,5 +109270,85 @@
         "published": "Mon, 16 Feb 2026 22:53:02 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47041456\">Comments</a>"
+    },
+    {
+        "id": "https://forestrydiary.com/",
+        "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+        "link": "https://forestrydiary.com/",
+        "published": "Mon, 16 Feb 2026 23:40:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47041836\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/zachlatta/freeflow",
+        "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+        "link": "https://github.com/zachlatta/freeflow",
+        "published": "Mon, 16 Feb 2026 21:10:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47040375\">Comments</a>"
+    },
+    {
+        "id": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+        "title": "Rise of the Triforce",
+        "link": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+        "published": "Mon, 16 Feb 2026 21:24:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47040524\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/the-three-weird-and-cheap-gadgets-zdnet-readers-are-buying-now/",
+        "title": "The three cheap gadgets ZDNET readers are buying nonstop (no. 1 is weird)",
+        "link": "https://www.zdnet.com/article/the-three-weird-and-cheap-gadgets-zdnet-readers-are-buying-now/",
+        "published": "Mon, 16 Feb 2026 23:43:52 GMT",
+        "source": "Latest news",
+        "summary": "Presidents' Day weekend is coming to a close, and these are the three odd (and cheap) gadgets our readers are loving."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-deep-tech-alliance-pencils-1-billion-for-ai-as-members-plan-2-5-billion-play/articleshow/128435515.cms",
+        "title": "India Deep Tech Alliance pencils $1 billion for AI as members plan $2.5 billion play",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-deep-tech-alliance-pencils-1-billion-for-ai-as-members-plan-2-5-billion-play/articleshow/128435515.cms",
+        "published": "Tue, 17 Feb 2026 06:11:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The India Deep Tech Alliance (IDTA) is set to announce increased investments in the artificial intelligence and deeptech ecosystem on Tuesday. IDTA members have collectively committed more than $2.5 billion over five years, with $1 billion earmarked for AI deployment within three years, IDTA chair Arun Kumar told ET."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-is-becoming-elevenlabs-key-growth-engine-as-enterprises-scale-voice-ai-ceo-mati-staniszewski/articleshow/128435783.cms",
+        "title": "India is becoming ElevenLabs\u2019 key growth engine as enterprises scale voice AI: CEO Mati Staniszewski",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-is-becoming-elevenlabs-key-growth-engine-as-enterprises-scale-voice-ai-ceo-mati-staniszewski/articleshow/128435783.cms",
+        "published": "Tue, 17 Feb 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is already the second-largest market for ElevenLabs and is fast turning into one of its biggest growth engines, as enterprises scale voice artificial intelligence across customer service, sales and operations, the company\u2019s cofounder and chief executive Mati Staniszewski said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tax-breaks-offer-legal-certainty-for-companies-amazons-chief-global-affairs-officer-david-zapolsky/articleshow/128435332.cms",
+        "title": "'Tax breaks offer legal certainty for companies':  Amazon\u2019s chief global affairs officer David Zapolsky",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tax-breaks-offer-legal-certainty-for-companies-amazons-chief-global-affairs-officer-david-zapolsky/articleshow/128435332.cms",
+        "published": "Tue, 17 Feb 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India represents a long-term strategic bet for Amazon, which has invested more than $40 billion in the country since 2010 and committed an additional $35 billion in the coming years, the company\u2019s chief global affairs and legal officer said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/high-capability-marks-made-in-india-llms/articleshow/128437428.cms",
+        "title": "High capability marks made-in-India LLMs",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/high-capability-marks-made-in-india-llms/articleshow/128437428.cms",
+        "published": "Tue, 17 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Here is a ready reckoner on the 12 AI startups/organisations which are building foundational AI models, backed by the IndiaAI Mission."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/using-ai-to-buy-better-golf-gear/articleshow/128437268.cms",
+        "title": "Using AI to buy better golf gear",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/using-ai-to-buy-better-golf-gear/articleshow/128437268.cms",
+        "published": "Tue, 17 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ro Chawla. head of South Asia &amp; India sales, ST Microelectronics, said he uses AI, like ChatGPT, to improve his golf game by analysing swing speed, distance, and common issues. It suggests driver heads, shaft stiffness, and weight tailored to his profile. This approach narrows choices, making club selection faster, smarter, and far less confusing."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/homerun-raises-rs-60-crore-in-series-a-funding-led-by-sorin-investments",
+        "title": "HomeRun raises Rs 60 Cr in Series A funding led by Sorin Investments",
+        "link": "https://yourstory.com/2026/02/homerun-raises-rs-60-crore-in-series-a-funding-led-by-sorin-investments",
+        "published": "Tue, 17 Feb 2026 00:35:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "HomeRun is a quick commerce platform for construction and home improvement materials."
     }
 ]
