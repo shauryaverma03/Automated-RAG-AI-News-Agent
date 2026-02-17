@@ -110950,5 +110950,37 @@
         "published": "Tue, 17 Feb 2026 10:36:12 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The leadership moves come as the Bengaluru-based company expands its integrated care model spanning health benefits, hospital services and clinical delivery, with an emphasis on developing senior leadership internally."
+    },
+    {
+        "id": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+        "title": "Google\u2019s AI search results will make links more obvious",
+        "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+        "published": "2026-02-17T17:38:24-05:00",
+        "source": "The Verge",
+        "summary": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/880476/sony-wh-1000-xm6-deal-sale",
+        "title": "Sony\u2019s WH-1000XM6 are nearly $100 off for just a few more hours",
+        "link": "https://www.theverge.com/gadgets/880476/sony-wh-1000-xm6-deal-sale",
+        "published": "2026-02-17T17:32:39-05:00",
+        "source": "The Verge",
+        "summary": "If you\u2019re looking for a great pair of noise-canceling headphones, Sony&#8217;s WH-1000XM6 are amongst the best available and are now down to $368 ($92 off) at Amazon in black or gray.\u00a0 While their high price usually makes them harder for us to suggest over the last-gen model, which is often on sale for around $278.99, [&#8230;]"
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=47049824",
+        "title": "Thank HN: You helped save 33k lives",
+        "link": "https://news.ycombinator.com/item?id=47049824",
+        "published": "Tue, 17 Feb 2026 17:06:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47049824\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/Zaneham/BarraCUDA",
+        "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+        "link": "https://github.com/Zaneham/BarraCUDA",
+        "published": "Tue, 17 Feb 2026 20:35:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47052941\">Comments</a>"
     }
 ]
