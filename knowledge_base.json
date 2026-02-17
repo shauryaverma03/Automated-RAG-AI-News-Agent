@@ -110654,5 +110654,109 @@
         "published": "Tue, 17 Feb 2026 13:30:50 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The Silicon Valley investor sees AI erasing jobs, collapsing the cost of essential services, and rendering universities obsolete."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+        "title": "Anthropic releases Sonnet 4.6",
+        "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+        "published": "Tue, 17 Feb 2026 18:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle."
+    },
+    {
+        "id": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
+        "title": "WordPress\u2019s new AI assistant will let users edit their sites with prompts",
+        "link": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
+        "published": "2026-02-17T13:33:15-05:00",
+        "source": "The Verge",
+        "summary": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/02/warner-bros-gives-paramount-one-more-week-to-beat-netflix-merger-offer/",
+        "title": "Warner Bros. rejects Paramount again but asks for \"best and final offer\"",
+        "link": "https://arstechnica.com/tech-policy/2026/02/warner-bros-gives-paramount-one-more-week-to-beat-netflix-merger-offer/",
+        "published": "Tue, 17 Feb 2026 17:17:17 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "WB board officially recommends Netflix deal but asks Paramount to increase price."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/02/which-countries-are-actually-serious-about-developing-their-own-rockets/",
+        "title": "There's a lot of big talk about sovereign launch\u2014who is doing something about it?",
+        "link": "https://arstechnica.com/space/2026/02/which-countries-are-actually-serious-about-developing-their-own-rockets/",
+        "published": "Tue, 17 Feb 2026 16:47:11 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "As alliances fray, these are the nations investing in sovereign access to space."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/netflix-is-adapting-the-board-game-ticket-to-ride-180505164.html?src=rss",
+        "title": "Netflix is adapting the board game Ticket to Ride",
+        "link": "https://www.engadget.com/entertainment/netflix-is-adapting-the-board-game-ticket-to-ride-180505164.html?src=rss",
+        "published": "Tue, 17 Feb 2026 18:05:05 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Netflix has been in the game adaptation business for a while now, but until recently most of its attention had been on adapting <em>video </em>games. That\u2019s still very much <a href=\"https://www.engadget.com/entertainment/streaming/netflixs-assassins-creed-tv-show-could-kick-off-in-ancient-rome-200238552.html\">happening</a>, but the streaming giant is also now buying up rights for board game IP too, with the latest being Asmodee\u2019s <em>Ticket to Ride</em>.</p>\n<p>Netflix will look to greenlight"
+    },
+    {
+        "id": "https://www.engadget.com/ai/wordpress-adds-an-ai-assistant-174719676.html?src=rss",
+        "title": "WordPress adds an AI assistant",
+        "link": "https://www.engadget.com/ai/wordpress-adds-an-ai-assistant-174719676.html?src=rss",
+        "published": "Tue, 17 Feb 2026 17:47:19 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Web designers of the world: The Automattic-owned <a class=\"link\" href=\"http://WordPress.com\" target=\"_blank\">WordPress.com</a> is further embracing AI on its platform. On Tuesday, it <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=418845ed-2a17-4065-a56b-b7711ba399c2&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=4d2177d9-b540-4762-aa87-44bb6025e55c&amp;featureId=text-link&amp;merchantName=WordPress.com&amp;linkText=expanded&amp;custData=eyJz"
+    },
+    {
+        "id": "https://www.anthropic.com/news/claude-sonnet-4-6",
+        "title": "Claude Sonnet 4.6",
+        "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+        "published": "Tue, 17 Feb 2026 17:48:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47050488\">Comments</a>"
+    },
+    {
+        "id": "https://go.dev/blog/gofix",
+        "title": "Using go fix to modernize Go code",
+        "link": "https://go.dev/blog/gofix",
+        "published": "Tue, 17 Feb 2026 16:42:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47049479\">Comments</a>"
+    },
+    {
+        "id": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+        "title": "Gentoo on Codeberg",
+        "link": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+        "published": "Tue, 17 Feb 2026 17:21:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47050067\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-switch-linux-distros-and-retain-all-of-your-data/",
+        "title": "3 ways to switch Linux distros without losing all your data",
+        "link": "https://www.zdnet.com/article/how-to-switch-linux-distros-and-retain-all-of-your-data/",
+        "published": "Tue, 17 Feb 2026 18:18:00 GMT",
+        "source": "Latest news",
+        "summary": "If you're thinking about distro-hopping, and you're wanting to retain your data, here's how you can do it."
+    },
+    {
+        "id": "https://www.zdnet.com/article/claude-sonnet-4-6-delivers-frontier-level-ai-for-free-and-cheap-seat-users/",
+        "title": "Claude Sonnet 4.6 delivers frontier-level AI for free and cheap-seat users",
+        "link": "https://www.zdnet.com/article/claude-sonnet-4-6-delivers-frontier-level-ai-for-free-and-cheap-seat-users/",
+        "published": "Tue, 17 Feb 2026 18:00:30 GMT",
+        "source": "Latest news",
+        "summary": "Anthropic is positioning Sonnet 4.6 as a practical daily driver. In many cases, it's even faster than Opus 4.6."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-chatgpt-lockdown-mode-protects-prompt-injection-attacks/",
+        "title": "How ChatGPT's new Lockdown Mode protects you from cyberattacks - and why it's not for everyone",
+        "link": "https://www.zdnet.com/article/how-chatgpt-lockdown-mode-protects-prompt-injection-attacks/",
+        "published": "Tue, 17 Feb 2026 17:59:16 GMT",
+        "source": "Latest news",
+        "summary": "The new security option is designed to thwart prompt-injection attacks that aim to steal your confidential data."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/figma-partners-with-anthropic-to-launch-code-to-canvas/articleshow/128475451.cms",
+        "title": "Figma partners with Anthropic to launch \u2018Code to Canvas\u2019",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/figma-partners-with-anthropic-to-launch-code-to-canvas/articleshow/128475451.cms",
+        "published": "Tue, 17 Feb 2026 23:19:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Figma on Tuesday announced a partnership with Anthropic and unveiled a new feature, \u201cCode to Canvas,\u201d that converts AI-generated code into fully editable designs within Figma."
     }
 ]
