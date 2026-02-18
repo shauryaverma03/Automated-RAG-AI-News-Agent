@@ -111534,5 +111534,69 @@
         "published": "Wed, 18 Feb 2026 07:51:39 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>At the India AI Impact Summit, experts warned that no AI model can reliably detect deepfakes yet, raising urgent questions about security and trust.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/02/223-ai-enabled-cybercrime-india-deepfake-threat/\">Notes from India AI Impact Summit: Experts Say No AI Model Can Reliably Detect Deepfakes Yet</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://annas-archive.li/blog/llms-txt.html",
+        "title": "If you\u2019re an LLM, please read this",
+        "link": "https://annas-archive.li/blog/llms-txt.html",
+        "published": "Wed, 18 Feb 2026 07:18:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47058219\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-must-be-safe-inclusive-and-sovereign-for-indias-future-ai4bharat/articleshow/128500338.cms",
+        "title": "AI must be safe, inclusive and sovereign for India's future: AI4Bharat",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-must-be-safe-inclusive-and-sovereign-for-indias-future-ai4bharat/articleshow/128500338.cms",
+        "published": "Wed, 18 Feb 2026 14:35:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI4Bharat, is a research lab at IIT Madras, dedicated to advancing AI technology for Indian languages through open-source contribution."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/google-can-work-with-our-talented-students-professionals-pm-modi-on-meeting-sundar-pichai/articleshow/128500163.cms",
+        "title": "Google can work with our talented students, professionals: PM Modi on meeting Sundar Pichai",
+        "link": "https://economictimes.indiatimes.com/tech/technology/google-can-work-with-our-talented-students-professionals-pm-modi-on-meeting-sundar-pichai/articleshow/128500163.cms",
+        "published": "Wed, 18 Feb 2026 14:29:12 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Prime Minister Narendra Modi held key meetings with Google CEO Sundar Pichai, Finland's Prime Minister Petteri Orpo, and Spain's President Pedro Sanchez during the India AI Impact Summit 2026. Discussions focused on AI, trade, and future technologies. The Prime Minister highlighted AI's growing role in India's IT sector and projected strong economic opportunities ahead."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/foreign-spies-can-see-telegram-messages-sent-by-russian-soldiers-ifax-cites-minister/articleshow/128500083.cms",
+        "title": "Foreign spies can see Telegram messages sent by Russian soldiers, Ifax cites minister",
+        "link": "https://economictimes.indiatimes.com/tech/technology/foreign-spies-can-see-telegram-messages-sent-by-russian-soldiers-ifax-cites-minister/articleshow/128500083.cms",
+        "published": "Wed, 18 Feb 2026 14:26:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Telegram, \u2060one of the most popular messenger \u200bservices in Russia, is widely used by Russian forces fighting \u200bin Ukraine, but is under pressure from the authorities who have imposed restrictions on \u200bit over what they \u2060say is \u200cits failure to delete extremist \u200bcontent."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/artificial-intelligence-not-a-replacement-for-expertise-airbus-executive/articleshow/128500010.cms",
+        "title": "Artificial intelligence not a replacement for expertise: Airbus executive",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/artificial-intelligence-not-a-replacement-for-expertise-airbus-executive/articleshow/128500010.cms",
+        "published": "Wed, 18 Feb 2026 14:24:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The President and Managing Director for India and South Asia at Airbus also said that AI should be seen as a bridge that helps to be more efficient and optimise resources on the way to the net-zero goals."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/future-wars-will-rely-more-on-cybersecurity-than-military-strength-zscaler-ceo-jay-chaudhry/articleshow/128499919.cms",
+        "title": "Future wars will rely more on cybersecurity than military strength: Zscaler CEO Jay Chaudhry",
+        "link": "https://economictimes.indiatimes.com/tech/startups/future-wars-will-rely-more-on-cybersecurity-than-military-strength-zscaler-ceo-jay-chaudhry/articleshow/128499919.cms",
+        "published": "Wed, 18 Feb 2026 14:20:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to Chaudhry, while AI offers endless possibilities, it also comes with substantial risks, making it essential to counter AI-driven threats using AI itself."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/pivot-keeping-early-adopters",
+        "title": "How to pivot without losing early adopters of your startup",
+        "link": "https://yourstory.com/2026/02/pivot-keeping-early-adopters",
+        "published": "Wed, 18 Feb 2026 09:05:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Learn how startups can pivot without losing early adopters. Discover strategies to protect trust, reduce churn and manage change effectively."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/naav-ai-using-openai-tools-shrink-translation-timelines-indian-publishing",
+        "title": "How NAAV AI is using OpenAI tools to shrink translation timelines for Indian publishing",
+        "link": "https://yourstory.com/2026/02/naav-ai-using-openai-tools-shrink-translation-timelines-indian-publishing",
+        "published": "Wed, 18 Feb 2026 08:02:21 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "India reads in many languages, but publishing rarely speaks in all of them at once. With NAAV AI leveraging OpenAI\u2019s long-context models, simultaneous multilingual releases are no longer unthinkable."
     }
 ]
