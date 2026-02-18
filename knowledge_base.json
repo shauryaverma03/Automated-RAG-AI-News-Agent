@@ -112678,5 +112678,101 @@
         "published": "Wed, 18 Feb 2026 13:13:05 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Google CEO Sundar Pichai said the $15 billion AI hub in Visakhapatnam, Andhra Pradesh, will house a gigawatt-scale compute facility and an international subsea cable gateway."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
+        "title": "Amazon halts Blue Jay robotics project\u00a0after less than six months",
+        "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
+        "published": "Wed, 18 Feb 2026 18:27:10 +0000",
+        "source": "TechCrunch",
+        "summary": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/",
+        "title": "Mastodon, a decentralized alternative to X, plans to target creators with new features",
+        "link": "https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/",
+        "published": "Wed, 18 Feb 2026 18:19:14 +0000",
+        "source": "TechCrunch",
+        "summary": "Mastodon is looking to grow its open source, decentralized social network with new features aimed at creators."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/",
+        "title": "Data breach at fintech giant Figure affects close to a million customers",
+        "link": "https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/",
+        "published": "Wed, 18 Feb 2026 18:14:07 +0000",
+        "source": "TechCrunch",
+        "summary": "The Figure data breach allowed hackers to steal customer names, dates of birth, physical addresses, phone numbers, and email addresses."
+    },
+    {
+        "id": "https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview",
+        "title": "Microsoft is bringing a built-in network speed test to Windows 11",
+        "link": "https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview",
+        "published": "2026-02-18T13:09:03-05:00",
+        "source": "The Verge",
+        "summary": "Microsoft is working on a bunch of new features for Windows 11, including a new network speed test that you can access from your taskbar. The tool is bundled in an update rolling out to Windows 11 Insiders in the Release Preview Channel, allowing you to right-click the network icon in the system tray to [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/nevada-sues-kalshi-for-operating-a-sports-gambling-market-without-a-license-175721982.html?src=rss",
+        "title": "Nevada sues Kalshi for operating a sports gambling market without a license",
+        "link": "https://www.engadget.com/big-tech/nevada-sues-kalshi-for-operating-a-sports-gambling-market-without-a-license-175721982.html?src=rss",
+        "published": "Wed, 18 Feb 2026 17:57:21 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Nevada is taking action against the rapidly growing Wild West of prediction markets. The state's gambling regulators and attorney general <a class=\"link\" href=\"https://www.theverge.com/policy/880658/nevada-kalshi-prediction-market-lawsuit\" target=\"_blank\">sued</a> Kalshi on Tuesday. They accuse the company of bypassing Nevada law by operating a sports gambling market without proper licenses. In addition, they say Kalshi provides services to individuals under 21, which violates state law.</p><"
+    },
+    {
+        "id": "https://github.com/pocketbase/pocketbase/discussions/7287",
+        "title": "Pocketbase lost its funding from FLOSS fund",
+        "link": "https://github.com/pocketbase/pocketbase/discussions/7287",
+        "published": "Wed, 18 Feb 2026 16:11:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47062561\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/nutyx-distribution-learning-linux-skills/",
+        "title": "Want to develop your Linux skills? I've found the perfect distro for you",
+        "link": "https://www.zdnet.com/article/nutyx-distribution-learning-linux-skills/",
+        "published": "Wed, 18 Feb 2026 17:53:09 GMT",
+        "source": "Latest news",
+        "summary": "Neither point-and-click simple like Mint nor grueling like Gentoo, NuTyx delivers the sweet spot for anyone who wants a better understanding of Linux systems."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-well-positioned-to-be-leader-in-ai-former-british-pm-rishi-sunak/articleshow/128519854.cms",
+        "title": "India well positioned to be leader in AI: Former UK PM Rishi Sunak",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-well-positioned-to-be-leader-in-ai-former-british-pm-rishi-sunak/articleshow/128519854.cms",
+        "published": "Wed, 18 Feb 2026 23:22:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Supported by a deep talent pool and strong digital public infrastructure, India is well positioned to be a leader in AI and demonstrate its mass adoption and deployment in society, former British prime minister Rishi Sunak said on Wednesday."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/pinterest-raises-quarterly-revenue-forecast-boosted-by-tvscientific-deal/articleshow/128519656.cms",
+        "title": "Pinterest raises quarterly revenue forecast, boosted by tvScientific deal",
+        "link": "https://economictimes.indiatimes.com/tech/technology/pinterest-raises-quarterly-revenue-forecast-boosted-by-tvscientific-deal/articleshow/128519656.cms",
+        "published": "Wed, 18 Feb 2026 23:18:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\u200bPinterest on Wednesday raised its forecast for first-quarter \u200brevenue, to reflect a contribution to its financials from the newly acquired connected-TV (CTV) advertising platform tvScientific, sending its shares up more than 3%."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sarvam-ai-to-launch-its-smart-wearable-in-may-partner-with-hmd-for-feature-phones/articleshow/128519454.cms",
+        "title": "Sarvam AI to launch its smart wearable in May, partner with HMD for feature phones",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sarvam-ai-to-launch-its-smart-wearable-in-may-partner-with-hmd-for-feature-phones/articleshow/128519454.cms",
+        "published": "Wed, 18 Feb 2026 23:14:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Sovereign AI model developer Sarvam plans to launch its made-in-India smart eyewear by May this year, a senior company official said on Wednesday."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/kuku-fm-ai-first-micro-drama-lal-chand-bisu-ai-impact",
+        "title": "\u201cEnd-to-end AI\u201d films are here: Kuku\u2019s AI Impact summit demo hints at a content flood",
+        "link": "https://yourstory.com/2026/02/kuku-fm-ai-first-micro-drama-lal-chand-bisu-ai-impact",
+        "published": "Wed, 18 Feb 2026 13:26:04 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "At AI Impact Summit 2026 at Bharat Mandapam, Lal Chand Bisu, CEO of Kuku FM, unveiled what he described as India\u2019s first \u201cAI-first micro drama\u201d"
+    },
+    {
+        "id": "https://yourstory.com/2026/02/ita-of-us-commerce-dept-visits-blore-strengthen-ai-partnership",
+        "title": "US Commerce Dept's ITA delegation visits Bengaluru to strengthen AI partnership",
+        "link": "https://yourstory.com/2026/02/ita-of-us-commerce-dept-visits-blore-strengthen-ai-partnership",
+        "published": "Wed, 18 Feb 2026 17:15:06 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The International Trade Administration delegation engaged with American and Indian tech companies to understand how AI is being leveraged to grow businesses."
     }
 ]
