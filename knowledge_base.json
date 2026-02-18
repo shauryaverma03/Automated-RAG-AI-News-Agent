@@ -112846,5 +112846,61 @@
         "published": "Wed, 18 Feb 2026 09:53:57 GMT",
         "source": "YourStory RSS Feed",
         "summary": "A short exchange between the Founder & CEO of YourStory, Shradha Sharma and Union IT Minister Ashwini Vaishnaw on the sidelines of the AI"
+    },
+    {
+        "id": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
+        "title": "This Defense Company Made AI Agents That Blow Things Up",
+        "link": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
+        "published": "Wed, 18 Feb 2026 19:47:15 +0000",
+        "source": "WIRED",
+        "summary": "Scout AI is using technology borrowed from the AI industry to power lethal weapons\u2014and recently demonstrated its explosive potential."
+    },
+    {
+        "id": "https://www.wired.com/story/arctis-gamebuds-deal-226/",
+        "title": "Save on Gaming Earbuds Perfect for Playing on Switch or ROG Xbox Ally",
+        "link": "https://www.wired.com/story/arctis-gamebuds-deal-226/",
+        "published": "Wed, 18 Feb 2026 19:46:05 +0000",
+        "source": "WIRED",
+        "summary": "While it may sound unorthodox, these earbuds make a great companion for your Switch 2 or other portable console."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
+        "title": "5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas",
+        "link": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
+        "published": "Wed, 18 Feb 2026 19:28:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The 26.3 updates were mostly invisible; these changes are more significant."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/",
+        "title": "Microsoft's new 10,000-year data storage medium: glass",
+        "link": "https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/",
+        "published": "Wed, 18 Feb 2026 19:01:55 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Femtosecond lasers etch data into a very stable medium."
+    },
+    {
+        "id": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+        "title": "R3forth: A concatenative language derived from ColorForth",
+        "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+        "published": "Wed, 18 Feb 2026 19:28:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47065179\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/ev-battery-will-outlast-your-phone-battery-study/",
+        "title": "Why your EV's battery will outlive your phone's battery - and by how much",
+        "link": "https://www.zdnet.com/article/ev-battery-will-outlast-your-phone-battery-study/",
+        "published": "Wed, 18 Feb 2026 19:51:26 GMT",
+        "source": "Latest news",
+        "summary": "Electric car batteries are surprisingly robust, and mileage is not a good indicator of battery wear, according to a new study."
+    },
+    {
+        "id": "https://inc42.com/buzz/google-deepmind-to-roll-out-ai-science-models-for-indian-researchers/",
+        "title": "Google Deepmind To Roll Out AI Science Models For Indian Researchers",
+        "link": "https://inc42.com/buzz/google-deepmind-to-roll-out-ai-science-models-for-indian-researchers/",
+        "published": "Wed, 18 Feb 2026 19:49:12 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Google Deepmind To Roll Out AI Models For Indian Researchers\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/deepmind-India-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Google\u2019s AI research lab, DeepMind, has announced a partnership with the Anusandhan National Research Foundation (ANRF), India\u2019s apex research body,&#8230;"
     }
 ]
