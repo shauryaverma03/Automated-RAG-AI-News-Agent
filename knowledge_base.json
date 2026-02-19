@@ -113150,5 +113150,133 @@
         "published": "Wed, 18 Feb 2026 11:10:46 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Semiconductor startup Vervesemi will use the fresh investment for product commercialisation, R&amp;D and expanding into newer markets."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+        "title": "OpenAI deepens India push with Pine Labs fintech partnership",
+        "link": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+        "published": "Thu, 19 Feb 2026 03:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce."
+    },
+    {
+        "id": "https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/",
+        "title": "Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony",
+        "link": "https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/",
+        "published": "Thu, 19 Feb 2026 02:04:13 +0000",
+        "source": "WIRED",
+        "summary": "The Meta CEO stuck to a playbook of repetitive answers and buzzwords in a landmark trial in Los Angeles on Wednesday."
+    },
+    {
+        "id": "https://code.claude.com/docs/en/legal-and-compliance",
+        "title": "Anthropic officially bans using subscription auth for third party use",
+        "link": "https://code.claude.com/docs/en/legal-and-compliance",
+        "published": "Thu, 19 Feb 2026 02:52:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47069299\">Comments</a>"
+    },
+    {
+        "id": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+        "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
+        "link": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+        "published": "Sun, 15 Feb 2026 18:07:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47025885\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/system76-thelio-desktop-linux-review/",
+        "title": "Why the Thelio remains my favorite desktop of all time (and it's not even close)",
+        "link": "https://www.zdnet.com/article/system76-thelio-desktop-linux-review/",
+        "published": "Thu, 19 Feb 2026 02:30:49 GMT",
+        "source": "Latest news",
+        "summary": "I recently opted for the latest iteration of the System76 Thelio. Wow, was that the right call."
+    },
+    {
+        "id": "https://www.zdnet.com/article/10-chatgpt-prompt-tricks-i-use-to-get-the-best-results-faster/",
+        "title": "10 ChatGPT pro tips for better results (and less back and forth)",
+        "link": "https://www.zdnet.com/article/10-chatgpt-prompt-tricks-i-use-to-get-the-best-results-faster/",
+        "published": "Thu, 19 Feb 2026 02:01:07 GMT",
+        "source": "Latest news",
+        "summary": "Want better ChatGPT answers? It all starts with your prompts. Here's how to optimize your inputs."
+    },
+    {
+        "id": "https://www.zdnet.com/article/acer-chromebook-plus-516-ge-cloud-gaming-review/",
+        "title": "Cloud gaming on a Chromebook? Absolutely - here's a budget option I recommend",
+        "link": "https://www.zdnet.com/article/acer-chromebook-plus-516-ge-cloud-gaming-review/",
+        "published": "Thu, 19 Feb 2026 01:45:40 GMT",
+        "source": "Latest news",
+        "summary": "Acer's Chromebook Plus 516 GE is optimized for cloud gaming with a 120Hz display and an Intel Core 5 120U processor."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/bill-gates-to-skip-ai-summit-keynote/articleshow/128538020.cms",
+        "title": "Bill Gates to skip AI Summit keynote",
+        "link": "https://economictimes.indiatimes.com/tech/technology/bill-gates-to-skip-ai-summit-keynote/articleshow/128538020.cms",
+        "published": "Thu, 19 Feb 2026 09:30:05 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft founder Bill Gates will not deliver his scheduled keynote address at the ongoing AI Impact Summit, organisers said on Thursday. The Bill &amp; Melinda Gates Foundation will instead be represented by Ankur Vora, president of its Africa and India offices, who is set to speak later in the day."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tatas-data-centre-business-signs-up-openai-as-customer/articleshow/128537473.cms",
+        "title": "Tata's data centre business signs up OpenAI as customer",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tatas-data-centre-business-signs-up-openai-as-customer/articleshow/128537473.cms",
+        "published": "Thu, 19 Feb 2026 09:11:10 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Separately, Tata Group is \u200bplanning to deploy \u200bChatGPT Enterprise across the company over the \u200cnext several years, starting \u200bwith \u200bhundreds \u2060of thousands of employees, OpenAI added."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/figma-forecasts-upbeat-annual-revenue-on-strong-design-momentum-shares-rise/articleshow/128536543.cms",
+        "title": "Figma forecasts upbeat annual revenue on strong design momentum, shares rise",
+        "link": "https://economictimes.indiatimes.com/tech/technology/figma-forecasts-upbeat-annual-revenue-on-strong-design-momentum-shares-rise/articleshow/128536543.cms",
+        "published": "Thu, 19 Feb 2026 09:08:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The company \u200chas banked \u2060on \u2060generative artificial intelligence as a strategic tool to stand out in a \u200bcrowded industry dominated by Adobe while also seeking out acquisitions to bolster its \u200bproducts."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-chatgpt-joins-hands-with-pine-labs-to-enable-agentic-commerce/articleshow/128537380.cms",
+        "title": "OpenAI\u2019s ChatGPT joins hands with Pine Labs to enable agentic commerce",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-chatgpt-joins-hands-with-pine-labs-to-enable-agentic-commerce/articleshow/128537380.cms",
+        "published": "Thu, 19 Feb 2026 09:07:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "With this integration, Pine Labs becomes OpenAI\u2019s first payments partner for ChatGPT in India, allowing merchants on its network to process transactions initiated through AI-led interfaces."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/personal-agents-are-ais-next-massive-leap-and-opportunity-metas-wang/articleshow/128536778.cms",
+        "title": "Personal agents are AI's next massive leap and opportunity: Meta's Wang",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/personal-agents-are-ais-next-massive-leap-and-opportunity-metas-wang/articleshow/128536778.cms",
+        "published": "Thu, 19 Feb 2026 08:47:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Alexandr Wang, Meta's new chief AI officer and head of its Superintelligence Labs, spoke to Himanshi Lohchab and Sruthijith KK about the tech giant's plans to deploy AI at scale across its apps, guided by Mark Zuckerberg's vision of \"personal superintelligence\". Wang, 29, is in India for the AI Impact Summit. Excerpts:"
+    },
+    {
+        "id": "https://yourstory.com/2026/02/why-price-sensitivity-and-trust-are-not-opposites-in-the-online-travel-market",
+        "title": "Why price sensitivity and trust are not opposites in the online travel market",
+        "link": "https://yourstory.com/2026/02/why-price-sensitivity-and-trust-are-not-opposites-in-the-online-travel-market",
+        "published": "Thu, 19 Feb 2026 01:45:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "As travellers become more informed and discerning, the focus is shifting from simply finding the lowest price to choosing platforms that offer clarity, reliability, and confidence throughout the booking journey."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/ai-impact-summit-innovators-international-photography",
+        "title": "Local talent, global impact: AI Impact Summit showcases innovators from around the world",
+        "link": "https://yourstory.com/2026/02/ai-impact-summit-innovators-international-photography",
+        "published": "Thu, 19 Feb 2026 01:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In our second photo essay from the India AI Impact Summit in New Delhi, we showcase innovations from overseas startups and corporates."
+    },
+    {
+        "id": "https://inc42.com/startups/how-this-baby-feeding-brand-is-turning-safety-concerns-into-repeat-buying/",
+        "title": "How This Baby Feeding Brand Is Turning Safety Concerns Into Repeat Buying",
+        "link": "https://inc42.com/startups/how-this-baby-feeding-brand-is-turning-safety-concerns-into-repeat-buying/",
+        "published": "Thu, 19 Feb 2026 03:30:29 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"How This Brand Is Turning Safety Concerns Into Repeat Buying\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/ftr-100-3-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Consumers today are concerned about the safety and sustainability of their kitchenware. Many are trying to reduce their exposure to&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/sarvams-big-showcase-magicbricks-ceo-quits-more/",
+        "title": "Sarvam\u2019s Big Showcase, MagicBricks CEO Quits & More",
+        "link": "https://inc42.com/buzz/sarvams-big-showcase-magicbricks-ceo-quits-more/",
+        "published": "Thu, 19 Feb 2026 02:30:59 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Sarvam\u2019s Big Showcase, MagicBricks CEO Quits &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/FTR-Daily-Brief-2026-02-19T000648.583.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Indian LLMs Steal The Show It was an action-packed third day at the India AI Impact Summit. As usual, big&#8230;"
     }
 ]
