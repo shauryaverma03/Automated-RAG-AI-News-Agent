@@ -113054,5 +113054,101 @@
         "published": "Wed, 18 Feb 2026 23:01:15 GMT",
         "source": "Latest news",
         "summary": "The Matter-enabled Level Lock Pro maintains a sleek deadbolt look while packing advanced smart features within."
+    },
+    {
+        "id": "https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview",
+        "title": "The RAM crunch could kill products and even entire companies, memory exec admits",
+        "link": "https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview",
+        "published": "2026-02-18T19:32:30-05:00",
+        "source": "The Verge",
+        "summary": "Phison is one of the leading makers of controller chips for SSDs and other flash memory devices - and CEO Pua Khein-Seng has now become a leading voice for just how bad the RAM shortage might get. Companies may need to cut back their product lines in the second half of 2026, and some companies [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/mark-zuckerberg-testifies-in-social-media-addiction-trial-that-meta-just-wants-instagram-to-be-useful-234332316.html?src=rss",
+        "title": "Mark Zuckerberg testifies in social media addiction trial that Meta just wants Instagram to be 'useful'",
+        "link": "https://www.engadget.com/social-media/mark-zuckerberg-testifies-in-social-media-addiction-trial-that-meta-just-wants-instagram-to-be-useful-234332316.html?src=rss",
+        "published": "Wed, 18 Feb 2026 23:43:32 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Mark Zuckerberg took the stand Wednesday in a high-profile jury trial over social media addiction. In an appearance that was <a class=\"link\" href=\"https://www.nbcnews.com/now/video/zuckerberg-combative-during-initial-testimony-at-social-media-addiction-trial-257921093912\" target=\"_blank\">described by</a> <em>NBC News</em> as &quot;combative,&quot; the Facebook founder reportedly said that Meta's goal was to make Instagram &quot;useful&quot; not increase the time users are spending in the app."
+    },
+    {
+        "id": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+        "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
+        "link": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+        "published": "Wed, 18 Feb 2026 23:08:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47067678\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/eufy-security-e340-review/",
+        "title": "Looking for a no-sub security camera? Here's one I recommend (and it's on sale)",
+        "link": "https://www.zdnet.com/article/eufy-security-e340-review/",
+        "published": "Thu, 19 Feb 2026 00:01:03 GMT",
+        "source": "Latest news",
+        "summary": "The Eufy Security E340 comes with two cameras that let you monitor your doorstep and keep tabs on delivers. Right now, it's $20 off."
+    },
+    {
+        "id": "https://www.zdnet.com/article/yes-your-internet-provider-can-throttle-your-speed-heres-an-easy-solution-that-may-help/",
+        "title": "Is your Wi-Fi being throttled? Here's a simple workaround that worked for me",
+        "link": "https://www.zdnet.com/article/yes-your-internet-provider-can-throttle-your-speed-heres-an-easy-solution-that-may-help/",
+        "published": "Thu, 19 Feb 2026 00:01:01 GMT",
+        "source": "Latest news",
+        "summary": "In addition to asking your provider directly, using tools like VPNs can help reveal if your internet connection is being deliberately throttled."
+    },
+    {
+        "id": "https://www.zdnet.com/article/finally-a-magsafe-battery-pack-that-doesnt-look-like-a-brick-and-it-charges-quick-too/",
+        "title": "This MagSafe pack is equal parts stylish and efficient - but I have one issue",
+        "link": "https://www.zdnet.com/article/finally-a-magsafe-battery-pack-that-doesnt-look-like-a-brick-and-it-charges-quick-too/",
+        "published": "Thu, 19 Feb 2026 00:01:00 GMT",
+        "source": "Latest news",
+        "summary": "Casely's Power Pod can power your phone, earbuds, and other electronic devices, and its design brings exactly what the battery pack market needs -- style."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/a-blanket-social-media-ban-for-kids-wont-work-for-al-unicefs-thomas-davin/articleshow/128523746.cms",
+        "title": "A blanket social media ban for kids won\u2019t work for Al: UNICEF\u2019s Thomas Davin",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/a-blanket-social-media-ban-for-kids-wont-work-for-al-unicefs-thomas-davin/articleshow/128523746.cms",
+        "published": "Thu, 19 Feb 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Thomas Davin, UNICEF\u2019s global innovation director, said blanket social media bans won\u2019t work everywhere, as their impact depends on a country\u2019s development and socio-economic conditions. He added that children in developing nations, including India, need access to AI and online services for education and economic security. Davin questioned whether age-based restrictions alone would be effective in India."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-mobile-net-playbook-can-help-it-leapfrog-in-ai-too/articleshow/128524520.cms",
+        "title": "India\u2019s mobile net playbook can help it leapfrog in AI too",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-mobile-net-playbook-can-help-it-leapfrog-in-ai-too/articleshow/128524520.cms",
+        "published": "Thu, 19 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Qualcomm CEO Cristiano Amon said India has the potential to lead in AI, similar to its success with mobile internet, thanks to its scale, young population, and vibrant mobile ecosystem. He highlighted the importance of sovereign AI and hybrid architectures for context-aware agents. Qualcomm has also launched a $150 million fund to invest in Indian AI startups."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-offering-global-south-a-unique-opportunity-to-catch-up-fast-microsofts-brad-smith/articleshow/128523342.cms",
+        "title": "AI is offering Global South a unique opportunity to catch up fast: Microsoft\u2019s Brad Smith",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-offering-global-south-a-unique-opportunity-to-catch-up-fast-microsofts-brad-smith/articleshow/128523342.cms",
+        "published": "Thu, 19 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Brad Smith, Microsoft\u2019s vice-chair, said AI gives the Global South a chance for \u201ccatch-up growth\u201d as technology adoption and investment increase. He called India a \u201cland of digital opportunity\u201d and highlighted the company\u2019s $17 billion-plus investment supporting the country\u2019s $200 billion AI infrastructure push. Opportunities exist across infrastructure, platforms, and applications."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-well-placed-to-scale-personal-superintelligence-metas-alexandr-wang/articleshow/128522639.cms",
+        "title": "India well-placed to scale personal Superintelligence: Meta\u2019s Alexandr Wang",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-well-placed-to-scale-personal-superintelligence-metas-alexandr-wang/articleshow/128522639.cms",
+        "published": "Thu, 19 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta\u2019s new chief AI officer, Alexandr Wang, said India is key for scaling \u201cpersonal superintelligence\u201d across the company\u2019s platforms, with more Indian consumer AI companies than in the US. The firm plans to deploy AI that works 24/7, understands user goals and acts on their behalf. Wang, who leads Superintelligence Labs, is tasked with bringing a builder\u2019s perspective to Meta\u2019s $14.3 billion AI investments."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/iit-bay-area-alumni-founded-ventures-showing-strong-momentum-across-applied-enterprise-ai-exec/articleshow/128519039.cms",
+        "title": "IIT Bay Area Alumni-founded ventures showing strong momentum across applied, enterprise AI: Exec",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/iit-bay-area-alumni-founded-ventures-showing-strong-momentum-across-applied-enterprise-ai-exec/articleshow/128519039.cms",
+        "published": "Thu, 19 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "IIT Bay Area alumni-founded ventures are showing strong momentum across applied and enterprise AI orchestration, verticalised AI in healthcare and fintech, AI governance frameworks, semiconductor innovation, climate tech, and AI-native SaaS models, said Rao Charagondla, chief financial officer and board member of the alumni association."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/semiconductor-startup-vervesemi-raises-10m-led-by-ashish-kacholia-unicorn-india-ventures",
+        "title": "Semiconductor startup Vervesemi raises $10M led by Ashish Kacholia, Unicorn India Ventures",
+        "link": "https://yourstory.com/2026/02/semiconductor-startup-vervesemi-raises-10m-led-by-ashish-kacholia-unicorn-india-ventures",
+        "published": "Wed, 18 Feb 2026 11:10:46 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Semiconductor startup Vervesemi will use the fresh investment for product commercialisation, R&amp;D and expanding into newer markets."
     }
 ]
