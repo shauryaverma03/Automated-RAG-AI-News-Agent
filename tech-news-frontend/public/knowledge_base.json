@@ -117262,5 +117262,13 @@
         "published": "Sat, 21 Feb 2026 07:37:22 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In our fourth photo essay from the India AI Impact Summit in New Delhi, we showcase 12 pavilions by Indian universities."
+    },
+    {
+        "id": "https://acmeweather.com/blog/introducing-acme-weather",
+        "title": "Acme Weather",
+        "link": "https://acmeweather.com/blog/introducing-acme-weather",
+        "published": "Sat, 21 Feb 2026 07:13:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47098296\">Comments</a>"
     }
 ]
