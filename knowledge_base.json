@@ -117542,5 +117542,61 @@
         "published": "Sat, 21 Feb 2026 14:43:45 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"IT Sell-Off Continues To Pressure New-Age Tech Stocks, EaseMyTrip Tops Weekly Gains\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1021\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Feature-100-6.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1361\" />New-age tech stocks saw a bearish week amid the fanfare around tech innovations showcased at the \u2018India AI Impact Summit&#8230;"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+        "title": "Google VP warns that two types of AI startups may not survive",
+        "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+        "published": "Sat, 21 Feb 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+        "title": "OpenAI debated calling police about suspected Canadian shooter\u2019s chats",
+        "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+        "published": "Sat, 21 Feb 2026 15:25:44 +0000",
+        "source": "TechCrunch",
+        "summary": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
+        "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
+        "published": "2026-02-21T10:22:57-05:00",
+        "source": "The Verge",
+        "summary": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could [&#8230;]"
+    },
+    {
+        "id": "https://igorstechnoclub.com/sandbox-exec/",
+        "title": "macOS's Little-Known Command-Line Sandboxing Tool",
+        "link": "https://igorstechnoclub.com/sandbox-exec/",
+        "published": "Sat, 21 Feb 2026 14:34:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47101200\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/social-media-can-be-addictive-even-for-adults-but-there-are-ways-to-cut-back/articleshow/128649173.cms",
+        "title": "Social media can be addictive even for adults, but there are ways to cut back",
+        "link": "https://economictimes.indiatimes.com/tech/technology/social-media-can-be-addictive-even-for-adults-but-there-are-ways-to-cut-back/articleshow/128649173.cms",
+        "published": "Sat, 21 Feb 2026 21:17:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Social media use is a growing concern for many. Experts discuss the challenges of excessive scrolling and the impact on daily life. Companies design apps to keep users engaged for advertising revenue. Recognizing problematic use is key. Simple tips and tech tools can help reduce screen time. Seeking professional help may be necessary for underlying issues."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-is-sarvam-ais-indus-indias-answer-to-chatgpt-gemini-like-chatbots/articleshow/128648970.cms",
+        "title": "What is Sarvam AI\u2019s Indus: India\u2019s answer to ChatGPT, Gemini-like chatbots?",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-is-sarvam-ais-indus-indias-answer-to-chatgpt-gemini-like-chatbots/articleshow/128648970.cms",
+        "published": "Sat, 21 Feb 2026 21:00:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian AI startup Sarvam.AI has launched Indus, a new chat interface. This chatbot is built on Sarvam's own 105 billion sovereign model. Indus is positioned as a competitor to global AI giants like OpenAI's ChatGPT and Google's Gemini. The company is currently focused on accuracy and usefulness for the Indian context."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-made-robots-shine-at-ai-impact-summit-2026-after-early-controversy/articleshow/128648478.cms",
+        "title": "India-made robots shine at AI Impact Summit 2026 after early controversy",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-made-robots-shine-at-ai-impact-summit-2026-after-early-controversy/articleshow/128648478.cms",
+        "published": "Sat, 21 Feb 2026 20:40:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian-made robots captured attention at the AI Impact Summit in New Delhi. The SVAN-M2 robot dog from xTerra Robotics impressed attendees. A UNWFP robot designed for food warehouses also drew significant interest. These indigenous innovations showcased India's growing capabilities in artificial intelligence and robotics. The summit also saw a controversy regarding a university's misrepresentation of a foreign product."
     }
 ]
