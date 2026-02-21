@@ -117046,5 +117046,125 @@
         "published": "Sat, 21 Feb 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "The US-headquartered company is shifting toward \u201cspec-driven development\u201d, where engineers write specifications and AI generates 100% code, he told ET. However, this doesn\u2019t mean that it is eliminating engineers. AI will expand the pool of creators, he said, adding that instead of zero software engineers left, the future could see eight billion software engineers as code generation is democratised."
+    },
+    {
+        "id": "https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/",
+        "title": "Trump Imposes New Tariffs to Sidestep Supreme Court Ruling",
+        "link": "https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/",
+        "published": "Sat, 21 Feb 2026 02:55:58 +0000",
+        "source": "WIRED",
+        "summary": "The president signed an executive order implementing 10 percent global tariffs after calling the justices who struck down his signature trade policy a \"disgrace.\""
+    },
+    {
+        "id": "https://www.zdnet.com/article/top-30-ai-agents-offer-mixed-functionality-autonomy/",
+        "title": "These top 30 AI agents deliver a mix of functions and autonomy",
+        "link": "https://www.zdnet.com/article/top-30-ai-agents-offer-mixed-functionality-autonomy/",
+        "published": "Sat, 21 Feb 2026 02:00:43 GMT",
+        "source": "Latest news",
+        "summary": "A handful hog the headlines, but many function-specific agents are available to developers and users. MIT's latest study explores the broader agentic ecosystem."
+    },
+    {
+        "id": "https://www.zdnet.com/article/lenovo-ideacentre-mini-x-review/",
+        "title": "Skip the $1,500 laptop - why Mini PCs are the way to go as RAM prices skyrocket",
+        "link": "https://www.zdnet.com/article/lenovo-ideacentre-mini-x-review/",
+        "published": "Sat, 21 Feb 2026 01:30:47 GMT",
+        "source": "Latest news",
+        "summary": "Lenovo's IdeaCentre Mini x is a compact PC with efficient everyday performance, making it a good alternative to desktops and laptops alike."
+    },
+    {
+        "id": "https://www.zdnet.com/article/privacy-screen-protector-s25-ultra/",
+        "title": "I put a privacy screen on my Galaxy S25 Ultra but quickly regretted it - here's why",
+        "link": "https://www.zdnet.com/article/privacy-screen-protector-s25-ultra/",
+        "published": "Sat, 21 Feb 2026 01:15:45 GMT",
+        "source": "Latest news",
+        "summary": "Although I like the extra security, I'm not sold on the underlying limitations."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-leaders-are-all-in-on-ai-the-public-not-so-much/articleshow/128631917.cms",
+        "title": "Tech leaders are all in on AI; the public, not so much",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-leaders-are-all-in-on-ai-the-public-not-so-much/articleshow/128631917.cms",
+        "published": "Sat, 21 Feb 2026 08:46:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Silicon Valley touts AI as revolutionary, but public skepticism is high. Surveys show limited workplace impact, widespread fear, and strong support for regulation."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/cybersecurity-stocks-hit-sharply-by-anthropic-claude-code-security/articleshow/128631892.cms",
+        "title": "Cybersecurity stocks hit sharply by Anthropic 'Claude Code Security'",
+        "link": "https://economictimes.indiatimes.com/tech/technology/cybersecurity-stocks-hit-sharply-by-anthropic-claude-code-security/articleshow/128631892.cms",
+        "published": "Sat, 21 Feb 2026 08:43:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Shares of companies in the cyber security solutions space have nosedived after America-based AI company Anthropic PBC unveiled a tool that is capable of autonomously finding and patching possible software vulnerabilities."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/chatgpt-maker-openai-considered-alerting-canadian-police-about-school-shooting-suspect-months-ago/articleshow/128630655.cms",
+        "title": "ChatGPT-maker OpenAI considered alerting Canadian police about school shooting suspect months ago",
+        "link": "https://economictimes.indiatimes.com/tech/technology/chatgpt-maker-openai-considered-alerting-canadian-police-about-school-shooting-suspect-months-ago/articleshow/128630655.cms",
+        "published": "Sat, 21 Feb 2026 07:43:33 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "ChatGPT-maker OpenAI said Friday it considered last year alerting Canadian police about the activities of a person who months later committed one of the worst school shootings in the country's history."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/openai-expects-compute-spend-of-around-600-billion-through-2030/articleshow/128630678.cms",
+        "title": "OpenAI expects compute spend of around $600 billion through 2030",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openai-expects-compute-spend-of-around-600-billion-through-2030/articleshow/128630678.cms",
+        "published": "Sat, 21 Feb 2026 07:42:22 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI \u200bis targeting roughly $600 billion in total compute \u200bspend through 2030, a source familiar with the matter told Reuters on Friday, as the ChatGPT maker lays groundwork for an \u200cIPO that \u2060could \u2060value it at up to $1 trillion."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsoft-gaming-head-phil-spencer-retires-insider-asha-sharma-takes-over/articleshow/128630688.cms",
+        "title": "Microsoft Gaming head Phil Spencer retires, insider Asha Sharma takes over",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-gaming-head-phil-spencer-retires-insider-asha-sharma-takes-over/articleshow/128630688.cms",
+        "published": "Sat, 21 Feb 2026 07:40:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft said on Friday gaming head Phil Spencer is retiring after 38 years at the software maker, in a major leadership shake-up. The company named insider \u200cAsha Sharma \u2060as the \u2060executive vice president and CEO of the gaming division. In her previous role, Sharma led product development \u200bfor AI models and services at Microsoft."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/the-invisible-cost-of-ai-drift-in-indian-enterprises",
+        "title": "The invisible cost of AI drift in Indian enterprises",
+        "link": "https://yourstory.com/2026/02/the-invisible-cost-of-ai-drift-in-indian-enterprises",
+        "published": "Sat, 21 Feb 2026 02:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "As AI becomes more embedded into everyday workflows, drift goes from being a technical concern to an operational and business risk."
+    },
+    {
+        "id": "https://inc42.com/startups/how-bacca-bucci-grew-to-%e2%82%b981-6-cr-by-owning-mid-premium-design-led-shoes/",
+        "title": "How Bacca Bucci Grew To \u20b981.6 Cr By Owning Mid-Premium, Design-Led Shoes",
+        "link": "https://inc42.com/startups/how-bacca-bucci-grew-to-%e2%82%b981-6-cr-by-owning-mid-premium-design-led-shoes/",
+        "published": "Sat, 21 Feb 2026 03:30:30 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"How Bacca Bucci Grew To \u20b981.6 Cr By Owning Mid-Premium, Design-Led Shoes\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/ftr-100-13-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />India is the world\u2019s second-largest footwear producer and consumer, with domestic demand soaking up 90-95% of its output. It is&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/from-spinny-to-statiq-indian-startups-raised-285-mn-this-week/",
+        "title": "From Spinny To Statiq \u2014 Indian Startups Raised $285 Mn This Week",
+        "link": "https://inc42.com/buzz/from-spinny-to-statiq-indian-startups-raised-285-mn-this-week/",
+        "published": "Sat, 21 Feb 2026 03:30:16 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"From Spinny To Statiq \u2014 Indian Startups Raised $285 Mn This Week\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Ftr-100-12-3.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Despite a slew of positive announcements at the ongoing India AI Impact Summit this week, fresh capital inflow into the&#8230;"
+    },
+    {
+        "id": "https://inc42.com/startups/how-superbottoms-grew-to-%e2%82%b984-cr-by-offering-cloth-diapers-for-modern-parents/",
+        "title": "How SuperBottoms Grew To \u20b984 Cr By Offering Cloth Diapers For Modern Parents",
+        "link": "https://inc42.com/startups/how-superbottoms-grew-to-%e2%82%b984-cr-by-offering-cloth-diapers-for-modern-parents/",
+        "published": "Sat, 21 Feb 2026 02:30:58 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"How SuperBottoms Grew To \u20b984 Cr By Building Repeat In Baby Essentials\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/ftr-100-12-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />For years, India\u2019s baby care market has sold a dominant narrative: modern parenting requires disposable diapers. Aggressive marketing made them&#8230;"
+    },
+    {
+        "id": "https://inc42.com/startups/how-somethings-brewing-grew-to-%e2%82%b912-4-cr-by-productising-the-coffee-hobby/",
+        "title": "How Something\u2019s Brewing Grew To \u20b912.4 Cr By Productising The Coffee Hobby",
+        "link": "https://inc42.com/startups/how-somethings-brewing-grew-to-%e2%82%b912-4-cr-by-productising-the-coffee-hobby/",
+        "published": "Sat, 21 Feb 2026 01:30:19 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"How Something\u2019s Brewing Grew To \u20b912.4 Cr By Productising The Coffee Hobby\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/ftr-100-11-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />For most Indians, brewing speciality coffee at home can feel intimidating, as if you need equal parts barista skill and&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/the-economics-of-retention-how-moengage-built-a-defensible-moat-in-a-crowded-market/",
+        "title": "The Economics Of Retention: How MoEngage Built A Defensible Moat In A Crowded Market",
+        "link": "https://inc42.com/features/the-economics-of-retention-how-moengage-built-a-defensible-moat-in-a-crowded-market/",
+        "published": "Sat, 21 Feb 2026 01:30:10 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"The Economics Of Retention: How MoEngage Built A Defensible Moat In A Crowded Market\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/FTR-9-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />\u201cYour most unhappy customers are your greatest source of learning,\u201d Amazon founder Jeff Bezos once said.\u00a0 The realisation reflects a&#8230;"
     }
 ]
