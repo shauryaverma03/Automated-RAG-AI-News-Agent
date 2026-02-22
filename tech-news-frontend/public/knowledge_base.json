@@ -118326,5 +118326,29 @@
         "published": "Sun, 22 Feb 2026 10:52:24 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Following a Supreme Court verdict against his earlier sweeping tariffs, the US President imposed a 10% tariffs on all countries, including India, from February 24 for 150 days."
+    },
+    {
+        "id": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
+        "title": "Linuxulator on FreeBSD Feels Like Magic",
+        "link": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
+        "published": "Sun, 22 Feb 2026 18:45:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47113527\">Comments</a>"
+    },
+    {
+        "id": "https://shuru.run",
+        "title": "Show HN: Local-First Linux MicroVMs for macOS",
+        "link": "https://shuru.run",
+        "published": "Sun, 22 Feb 2026 18:50:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47113567\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-galaxy-a35-review/",
+        "title": "Forget the flagship - this midrange Galaxy checks all the right boxes at less than $200",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-a35-review/",
+        "published": "Sun, 22 Feb 2026 20:01:03 GMT",
+        "source": "Latest news",
+        "summary": "The Samsung Galaxy A35 isn't perfect, but its OLED screen, reliable cameras, and two-day battery life make it a great phone for most."
     }
 ]
