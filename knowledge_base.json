@@ -118102,5 +118102,85 @@
         "published": "Sun, 22 Feb 2026 17:11:04 +0530",
         "source": "Tech-Economic Times",
         "summary": "The 86 signatories included the European Union as well the US and the UK, two key nations that had opted out of a global pact on AI at the previous year's summit in Paris. Other major participants include China, Germany, Japan, France, Italy, Russia and Canada. All the shared priorities mentioned in the declaration are voluntary and represent non-binding guidelines and principles."
+    },
+    {
+        "id": "https://www.theverge.com/column/882516/privacy-laws-america",
+        "title": "America desperately needs new privacy laws",
+        "link": "https://www.theverge.com/column/882516/privacy-laws-america",
+        "published": "2026-02-22T08:00:00-05:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the dire state of tech regulation, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 1973, long before the modern digital era, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review",
+        "title": "Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2",
+        "link": "https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review",
+        "published": "2026-02-22T08:00:00-05:00",
+        "source": "The Verge",
+        "summary": "There's been a surge of interest over the last few years in inexpensive digital cameras. Younger folks are snapping up old point-and-shoots because they view the aesthetic as more authentic and more appealing than smartphone images. Companies are even rereleasing old tech at new prices. And there are cameras like the original Camp Snap: a [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/how-to-send-a-message-via-satellite-on-iphone-130000418.html?src=rss",
+        "title": "How to send a message via satellite on iPhone",
+        "link": "https://www.engadget.com/mobile/smartphones/how-to-send-a-message-via-satellite-on-iphone-130000418.html?src=rss",
+        "published": "Sun, 22 Feb 2026 13:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple\u2019s satellite features were originally designed for emergencies, allowing iPhone users to contact emergency services when cellular and Wi-Fi coverage is unavailable. With recent versions of iOS, Apple has expanded those capabilities to include sending and receiving messages via satellite. This makes it possible to stay in touch with friends and family from remote locations where traditional networks do not reach, such as hiking trails, rural areas or offshore locations.</p><p>Messaging vi"
+    },
+    {
+        "id": "https://susam.net/attention-media-vs-social-networks.html",
+        "title": "Attention Media \u2260 Social Networks",
+        "link": "https://susam.net/attention-media-vs-social-networks.html",
+        "published": "Sun, 22 Feb 2026 12:36:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47110515\">Comments</a>"
+    },
+    {
+        "id": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+        "title": "Minions: Stripe's one-shot, end-to-end coding agents \u2013 Stripe Dot Dev Blog",
+        "link": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+        "published": "Sun, 22 Feb 2026 12:34:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47110495\">Comments</a>"
+    },
+    {
+        "id": "https://planetscale.com/blog/database-transactions",
+        "title": "What Is a Database Transaction?",
+        "link": "https://planetscale.com/blog/database-transactions",
+        "published": "Sun, 22 Feb 2026 12:28:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47110473\">Comments</a>"
+    },
+    {
+        "id": "https://hypha.pub/postgres-is-your-friend-orm-is-not",
+        "title": "Postgres Is Your Friend. ORM Is Not",
+        "link": "https://hypha.pub/postgres-is-your-friend-orm-is-not",
+        "published": "Sun, 22 Feb 2026 11:56:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47110310\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/bluetti-ac180-portable-power-station-review/",
+        "title": "I've tested dozens of power stations - this one handled at everything I threw at it",
+        "link": "https://www.zdnet.com/article/bluetti-ac180-portable-power-station-review/",
+        "published": "Sun, 22 Feb 2026 12:30:41 GMT",
+        "source": "Latest news",
+        "summary": "The Bluetti AC180 features up to 1800W of power output and 11 ports with exceptional durability."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/who-is-asha-sharma-the-new-ceo-of-microsoft-gaming/articleshow/128677775.cms",
+        "title": "Who is Asha Sharma, the new CEO of Microsoft Gaming?",
+        "link": "https://economictimes.indiatimes.com/tech/technology/who-is-asha-sharma-the-new-ceo-of-microsoft-gaming/articleshow/128677775.cms",
+        "published": "Sun, 22 Feb 2026 18:48:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Sharma succeeds Xbox boss Phil Spencer, who has been with the company for four decades, and will report directly to CEO Nadella and take charge of the Xbox console business, Game Pass, cloud gaming, and Microsoft\u2019s broader gaming portfolio."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bfsi-retail-have-seen-big-ai-adoption-in-india-sovereign-cloud-requirements-rising-servicenow-coo/articleshow/128676859.cms",
+        "title": "BFSI, retail have seen big AI adoption in India; sovereign cloud requirements rising: ServiceNow COO",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bfsi-retail-have-seen-big-ai-adoption-in-india-sovereign-cloud-requirements-rising-servicenow-coo/articleshow/128676859.cms",
+        "published": "Sun, 22 Feb 2026 18:09:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The US-based firm has partnered with top IT sector companies, such as TCS, Cognizant, LTIMindtree and Tech Mahindra, among others, and will look to have more such collaborations in the near future, according to a top company official."
     }
 ]
