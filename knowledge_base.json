@@ -117822,5 +117822,37 @@
         "published": "Sat, 21 Feb 2026 21:51:58 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47105198\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/",
+        "title": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs",
+        "link": "https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/",
+        "published": "Sat, 21 Feb 2026 23:54:38 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Accessing and remediating any of these issues can only be performed in the VAB.\""
+    },
+    {
+        "id": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
+        "title": "Are compilers deterministic?",
+        "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
+        "published": "Sun, 22 Feb 2026 00:21:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47106626\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/xaskasdf/ntransformer",
+        "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+        "link": "https://github.com/xaskasdf/ntransformer",
+        "published": "Sat, 21 Feb 2026 20:57:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47104667\">Comments</a>"
+    },
+    {
+        "id": "https://boristane.com/blog/how-i-use-claude-code/",
+        "title": "How I use Claude Code: Separation of planning and execution",
+        "link": "https://boristane.com/blog/how-i-use-claude-code/",
+        "published": "Sun, 22 Feb 2026 00:29:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47106686\">Comments</a>"
     }
 ]
