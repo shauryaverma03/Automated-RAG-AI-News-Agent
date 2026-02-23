@@ -119750,5 +119750,29 @@
         "published": "Mon, 23 Feb 2026 16:08:19 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The new office of Amazon will house over 7,000 employees and company has already ten corporate offices in Bengaluru alone."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+        "title": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic",
+        "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+        "published": "Mon, 23 Feb 2026 21:46:41 +0000",
+        "source": "TechCrunch",
+        "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule."
+    },
+    {
+        "id": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+        "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+        "link": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+        "published": "Mon, 23 Feb 2026 21:44:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47129361\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/Inokinoki/attesor",
+        "title": "AI-powered reverse-engineering of Rosetta 2 (for Linux VM)",
+        "link": "https://github.com/Inokinoki/attesor",
+        "published": "Mon, 23 Feb 2026 21:47:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47129415\">Comments</a>"
     }
 ]
