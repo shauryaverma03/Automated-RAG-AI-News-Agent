@@ -119646,5 +119646,69 @@
         "published": "Mon, 23 Feb 2026 19:23:30 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47127396\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+        "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+        "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+        "published": "Mon, 23 Feb 2026 19:57:27 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude\u2019s AI capabilities, as U.S. officials debate export controls aimed at slowing China\u2019s AI progress."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/",
+        "title": "Uber\u2019s new autonomous vehicle division is about survival and opportunity",
+        "link": "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/",
+        "published": "Mon, 23 Feb 2026 19:54:22 +0000",
+        "source": "TechCrunch",
+        "summary": "Uber Autonomous Solutions will see the company taking on all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business."
+    },
+    {
+        "id": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+        "title": "Billions of dollars later and still nobody knows what an Xbox is",
+        "link": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+        "published": "2026-02-23T15:30:00-05:00",
+        "source": "The Verge",
+        "summary": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started out as a good deal for gamers (although now not so much), [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+        "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+        "published": "2026-02-23T15:22:55-05:00",
+        "source": "The Verge",
+        "summary": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street [&#8230;]"
+    },
+    {
+        "id": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+        "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
+        "link": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+        "published": "Mon, 23 Feb 2026 20:05:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47127986\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-unpacked-2026-surprise-announcements-what-to-expect/",
+        "title": "Samsung Unpacked 2026: 5 surprise products we could see besides the S26 Ultra",
+        "link": "https://www.zdnet.com/article/samsung-unpacked-2026-surprise-announcements-what-to-expect/",
+        "published": "Mon, 23 Feb 2026 20:11:00 GMT",
+        "source": "Latest news",
+        "summary": "Unpacked 2026 this week could feature a few curveballs, like a new type of foldable, smart glasses, and more."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-turn-off-hdmi-cec-on-your-tv/",
+        "title": "How to turn off HDMI-CEC on your TV - and why it makes such a big difference",
+        "link": "https://www.zdnet.com/article/how-to-turn-off-hdmi-cec-on-your-tv/",
+        "published": "Mon, 23 Feb 2026 20:07:00 GMT",
+        "source": "Latest news",
+        "summary": "TVs often analyze what you watch to curate suggestions and serve you ads, even through HDMI-connected devices, but I've found ways to take back control."
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-alternatives-to-google-weather/",
+        "title": "Your best Google weather app alternatives (and what I recommend instead)",
+        "link": "https://www.zdnet.com/article/best-alternatives-to-google-weather/",
+        "published": "Mon, 23 Feb 2026 20:01:14 GMT",
+        "source": "Latest news",
+        "summary": "Missing Google's weather app? I found three reliable weather apps for Android, but there's an even better option."
     }
 ]
