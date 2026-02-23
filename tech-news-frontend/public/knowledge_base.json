@@ -118454,5 +118454,69 @@
         "published": "Sun, 22 Feb 2026 20:50:23 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47114530\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/",
+        "title": "NASA Delays Launch of Artemis II Lunar Mission Once Again",
+        "link": "https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/",
+        "published": "Mon, 23 Feb 2026 00:42:06 +0000",
+        "source": "WIRED",
+        "summary": "A failure in the helium flow of the SLS rocket has prompted NASA to delay the Artemis II moon mission. Rather than March 6, the launch is now targeted for April."
+    },
+    {
+        "id": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+        "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+        "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+        "published": "Sun, 22 Feb 2026 23:07:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47115805\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/air-taxi-startup-eplane-eyes-40-50-million-round-speciale-invest-co-leads/articleshow/128685403.cms",
+        "title": "Air taxi startup ePlane eyes $40-50 million round, Speciale Invest co-leads",
+        "link": "https://economictimes.indiatimes.com/tech/funding/air-taxi-startup-eplane-eyes-40-50-million-round-speciale-invest-co-leads/articleshow/128685403.cms",
+        "published": "Mon, 23 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Deeptech investor Speciale Invest is in discussions to co-lead the private round, along with other investors, sources said. The Chennai-based startup, incubated in IIT Madras, has already secured board approval for a $15-20 million convertible tranche that it aims to close next month."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ais-a-railwind-for-companies-transitioning-early-says-servicenow-exec-zavery/articleshow/128685307.cms",
+        "title": "AI\u2019s a railwind for companies transitioning early, says ServiceNow exec Zavery",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ais-a-railwind-for-companies-transitioning-early-says-servicenow-exec-zavery/articleshow/128685307.cms",
+        "published": "Mon, 23 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Customers will not rip-and-replace legacy software platforms overnight but look for best outcomes at the best price. ServiceNow\u2019s own numbers reflect that AI had an expansionary impact on its topline. In FY25, its AI revenue crossed $600 million and is expected to exceed $1 billion this fiscal. The company is growing 20%-plus on a large base, among the fastest growth in enterprise software, Zavery said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/monetisation-wrestles-with-moderation-in-livestream-grey-zones/articleshow/128685231.cms",
+        "title": "Monetisation wrestles with moderation in livestream grey zones",
+        "link": "https://economictimes.indiatimes.com/tech/technology/monetisation-wrestles-with-moderation-in-livestream-grey-zones/articleshow/128685231.cms",
+        "published": "Mon, 23 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "An ET analysis of more than 100 live streams across YouTube, Instagram and seven video chat applications over the past four weeks found a consistent pattern: creators typically begin with general entertainment content such as music, dance or casual conversation before transitioning into sessions featuring sexually suggestive dialogue, repeated monetisation prompts and offers of private interaction."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indias-real-edge-is-in-applied-tech-innovation-lightspeeds-top-brass/articleshow/128684040.cms",
+        "title": "Lightspeed bets big on AI, India\u2019s real edge is in applied innovation: Ravi Mhatre &amp; Bejul Somaia",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indias-real-edge-is-in-applied-tech-innovation-lightspeeds-top-brass/articleshow/128684040.cms",
+        "published": "Mon, 23 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Silicon Valley fund which has backed Anthropic  will stay away from investing in consumer brands, remaining focused on technology-first startups."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cybersecurity-a-national-priority-as-ai-pushes-threat-landscape-digital-adoption-says-palo-altos-nicole-quinn/articleshow/128680965.cms",
+        "title": "Cybersecurity a national priority as AI pushes threat landscape, digital adoption, says Palo Alto\u2019s Nicole Quinn",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cybersecurity-a-national-priority-as-ai-pushes-threat-landscape-digital-adoption-says-palo-altos-nicole-quinn/articleshow/128680965.cms",
+        "published": "Mon, 23 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Governments are increasingly focused on how to govern artificial intelligence and secure digital systems, Quinn said, but noted that policymakers often lag technology."
+    },
+    {
+        "id": "https://inc42.com/features/firstcrys-growing-pains/",
+        "title": "FirstCry\u2019s Growing Pains",
+        "link": "https://inc42.com/features/firstcrys-growing-pains/",
+        "published": "Mon, 23 Feb 2026 00:30:26 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Market-Newsletter-ftr-3.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />FirstCry went on a tumble soon after its Q3 results. Shares declined for four consecutive sessions, hitting a fresh 52-week&#8230;"
     }
 ]
