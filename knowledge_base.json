@@ -121630,5 +121630,109 @@
         "published": "Tue, 24 Feb 2026 20:29:00 GMT",
         "source": "Latest news",
         "summary": "This handy Android feature reduces your worry about waking or interrupting people with a text."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/",
+        "title": "Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker",
+        "link": "https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/",
+        "published": "Tue, 24 Feb 2026 21:50:23 +0000",
+        "source": "TechCrunch",
+        "summary": "Peter Williams, the former head of U.S. hacking tools maker L3Harris Trenchant, was sentenced to seven years in prison for stealing and selling his former company\u2019s hacking and surveillance tools to a Russian firm."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
+        "title": "Google\u2019s new 1.9GW clean energy deal includes massive 100-hour battery",
+        "link": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
+        "published": "Tue, 24 Feb 2026 21:32:22 +0000",
+        "source": "TechCrunch",
+        "summary": "Form Energy's iron-air batteries will store wind and solar power to keep the data center running 24/7."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/",
+        "title": "CarGurus data breach affects 12.5 million accounts",
+        "link": "https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/",
+        "published": "Tue, 24 Feb 2026 21:27:42 +0000",
+        "source": "TechCrunch",
+        "summary": "Automotive marketplace CarGurus was the target of a data breach in which the names, email addresses, phone numbers, and physical addresses of millions of customers were stolen."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
+        "title": "DJI sues the FCC for \u201ccarelessly\u201d restricting its drones",
+        "link": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
+        "published": "Tue, 24 Feb 2026 21:15:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "DJI lawsuit says company has been \"severely harmed by the FCC\u2019s ruling.\""
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/1password-plans-are-getting-more-expensive-soon-213236400.html?src=rss",
+        "title": "1Password plans are getting more expensive soon",
+        "link": "https://www.engadget.com/cybersecurity/1password-plans-are-getting-more-expensive-soon-213236400.html?src=rss",
+        "published": "Tue, 24 Feb 2026 21:32:36 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>1Password is increasing prices for its individual and family plans. The individual rate is increasing from nearly $36 a year to $48, while the family option will cost $72 instead of $60. In emails sent to users, the business announced that the new rates will take effect for users at their next subscription renewal after March 27.&nbsp;</p><p>It's a sizable price hike, but 1Password hasn't been incrementally inching its fees higher every couple years like we see so often for streaming subscrip"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
+        "title": "Just pull a string to turn these tile patterns into useful 3D structures",
+        "link": "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
+        "published": "Tue, 24 Feb 2026 22:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "MIT researchers have developed a new method for designing 3D structures that can spring up from a flat sheet of interconnected tiles with a single pull of a string. The technique could be used to make foldable bike helmets and medical devices, emergency shelters and field hospitals for disaster zones, and much more. Mina Konakovi\u0107&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/02/24/1132077/a-retinal-reboot-for-amblyopia/",
+        "title": "A retinal reboot for amblyopia",
+        "link": "https://www.technologyreview.com/2026/02/24/1132077/a-retinal-reboot-for-amblyopia/",
+        "published": "Tue, 24 Feb 2026 22:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "In the vision disorder amblyopia (or \u201clazy eye\u201d), impaired vision in one eye early in life causes neural connections in the brain\u2019s visual system to shift toward supporting the other eye, leaving the amblyopic eye less capable even if the original impairment is corrected. Current interventions don\u2019t work after infancy and early childhood, when the&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/",
+        "title": "A new way to rejuvenate the immune system",
+        "link": "https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/",
+        "published": "Tue, 24 Feb 2026 22:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "As people age, their immune function weakens. Owing to shrinkage of the thymus, where T cells normally mature and diversify, populations of these immune cells become smaller and can\u2019t react to pathogens as quickly. But researchers at MIT and the Broad Institute have now found a way to overcome that decline by temporarily programming cells&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/",
+        "title": "A\u200aI-designed proteins may help spot cancer",
+        "link": "https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/",
+        "published": "Tue, 24 Feb 2026 22:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Researchers at MIT and Microsoft have used artificial intelligence to create molecular sensors that could detect early signs of cancer via a urine test. The researchers developed an AI model to design short proteins that are targeted by enzymes called proteases, which are overactive in cancer cells. Nanoparticles coated with these proteins, called peptides, can&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/02/24/1132086/reformulated-antibodies-could-be-injected-for-easier-treatment/",
+        "title": "Reformulated antibodies could be injected for easier treatment",
+        "link": "https://www.technologyreview.com/2026/02/24/1132086/reformulated-antibodies-could-be-injected-for-easier-treatment/",
+        "published": "Tue, 24 Feb 2026 22:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Antibody treatments for cancer and other diseases are typically delivered intravenously, requiring patients to go to a hospital and potentially spend hours receiving infusions. Now Professor Patrick Doyle and his colleagues have taken a major step toward reformulating antibodies so that they can be injected with a standard syringe, making treatment easier and more accessible.&#160;&#8230;"
+    },
+    {
+        "id": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+        "title": "Mac\u00a0mini will be made at a new facility in Houston",
+        "link": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+        "published": "Tue, 24 Feb 2026 21:13:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47143152\">Comments</a>"
+    },
+    {
+        "id": "https://www.math.columbia.edu/~woit/wordpress/?p=15500",
+        "title": "Looks like it is happening",
+        "link": "https://www.math.columbia.edu/~woit/wordpress/?p=15500",
+        "published": "Tue, 24 Feb 2026 21:19:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47143211\">Comments</a>"
+    },
+    {
+        "id": "https://blog.cloudflare.com/vinext/",
+        "title": "How we rebuilt Next.js with AI in one week",
+        "link": "https://blog.cloudflare.com/vinext/",
+        "published": "Tue, 24 Feb 2026 20:07:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47142156\">Comments</a>"
     }
 ]
