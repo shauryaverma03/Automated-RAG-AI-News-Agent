@@ -121502,5 +121502,53 @@
         "published": "Tue, 24 Feb 2026 09:40:27 GMT",
         "source": "YourStory RSS Feed",
         "summary": "A family dry cleaning shop in Lalitpur upgrades equipment and expands capacity, adapting traditional skills to modern demand."
+    },
+    {
+        "id": "https://www.wired.com/story/jbl-flip-7-deal-0223/",
+        "title": "My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now",
+        "link": "https://www.wired.com/story/jbl-flip-7-deal-0223/",
+        "published": "Tue, 24 Feb 2026 19:55:19 +0000",
+        "source": "WIRED",
+        "summary": "JBL's fabulous Flip 7 speaker is on super sale for $100. Grab this go-anywhere companion on the cheap before the nice weather hits."
+    },
+    {
+        "id": "https://www.engadget.com/ai/google-sent-an-ai-generated-push-alert-that-included-a-racial-slur-195951493.html?src=rss",
+        "title": "Google sent an AI-generated push alert that included a racial slur",
+        "link": "https://www.engadget.com/ai/google-sent-an-ai-generated-push-alert-that-included-a-racial-slur-195951493.html?src=rss",
+        "published": "Tue, 24 Feb 2026 19:59:51 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google sent out an AI-generated news alert that included the N-word, <a href=\"https://deadline.com/2026/02/google-apologizes-bafta-ai-news-alet-n-word-1236734448/\"><ins>according to reporting by </ins><em><ins>Deadline</ins></em></a>. The push notification featured a link to a story by <em>The Hollywood Reporter</em> regarding an incident at the recent BAFTA Film Awards. The word appeared in the notification under the link.</p>\n<p>This was first spotted by <a href=\"https://www.instagram.com/p"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/tv-movies/heres-the-first-teaser-for-a24s-adaptation-of-the-backrooms-194300513.html?src=rss",
+        "title": "Here's the first teaser for A24's adaptation of The Backrooms",
+        "link": "https://www.engadget.com/entertainment/tv-movies/heres-the-first-teaser-for-a24s-adaptation-of-the-backrooms-194300513.html?src=rss",
+        "published": "Tue, 24 Feb 2026 19:43:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div><p>Three years after <a class=\"link\" href=\"https://deadline.com/2023/02/the-backrooms-a24-developing-feature-based-on-viral-horror-shorts-1235249413/\" target=\"_blank\">announcing plans</a> to produce a film based on the viral YouTube short, <a class=\"link\" href=\"https://www.youtube.com/watch?v=H4dGpz6cnHo\" target=\"_blank\"><em>The Backrooms (Found Footage)</em></a> in 2023, A24 has released <a class=\"link\" href=\"https://"
+    },
+    {
+        "id": "https://github.com/huggingface/skills",
+        "title": "HuggingFace Agent Skills",
+        "link": "https://github.com/huggingface/skills",
+        "published": "Tue, 24 Feb 2026 17:30:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47139902\">Comments</a>"
+    },
+    {
+        "id": "https://macky.dev",
+        "title": "I think WebRTC is better than SSH-ing for connecting to Mac terminal from iPhone",
+        "link": "https://macky.dev",
+        "published": "Tue, 24 Feb 2026 18:21:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47140612\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/capillary-to-acquire-mastercards-loyalty-biz-sessionm-for-20-mn/",
+        "title": "Capillary To Acquire Mastercard\u2019s Loyalty Biz, SessionM, For $20 Mn",
+        "link": "https://inc42.com/buzz/capillary-to-acquire-mastercards-loyalty-biz-sessionm-for-20-mn/",
+        "published": "Tue, 24 Feb 2026 19:48:56 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/ftr-1.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Listed SaaS company Capillary Technologies yesterday announced that it has signed a definitive agreement to acquire Mastercard\u2019s customer loyalty and&#8230;"
     }
 ]
