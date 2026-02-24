@@ -121734,5 +121734,45 @@
         "published": "Tue, 24 Feb 2026 20:07:00 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47142156\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+        "title": "Uber engineers built an AI version of their boss",
+        "link": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+        "published": "Tue, 24 Feb 2026 23:09:28 +0000",
+        "source": "TechCrunch",
+        "summary": "Uber CEO Dara Khosrowshahi said the company\u2019s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/",
+        "title": "Stripe is reportedly eyeing deal to buy some or all of PayPal",
+        "link": "https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/",
+        "published": "Tue, 24 Feb 2026 22:35:30 +0000",
+        "source": "TechCrunch",
+        "summary": "Stripe might be looking to buy PayPal, or parts of it, per early reports."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+        "title": "OpenAI defeats xAI\u2019s trade secrets lawsuit",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+        "published": "2026-02-24T18:05:28-05:00",
+        "source": "The Verge",
+        "summary": "OpenAI won a victory Tuesday in one of its legal battles with xAI, which involved allegations of poaching and theft of trade secrets. The former company's motion to dismiss the lawsuit was granted on Tuesday with leave to amend, meaning xAI has the option to refile with modified claims. In the ruling, US District Judge [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/computing/laptops/apples-touchscreen-macbook-will-reportedly-have-a-dynamic-interface-231929456.html?src=rss",
+        "title": "Apple's touchscreen MacBook will reportedly have a dynamic interface",
+        "link": "https://www.engadget.com/computing/laptops/apples-touchscreen-macbook-will-reportedly-have-a-dynamic-interface-231929456.html?src=rss",
+        "published": "Tue, 24 Feb 2026 23:19:29 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple's plan to <a class=\"link\" href=\"https://www.engadget.com/computing/laptops/a-macbook-pro-touchscreen-about-damn-time-180000315.html\" target=\"_blank\">add touchscreens</a> to its premium MacBook Pros is coming into focus. <a class=\"link\" href=\"https://www.bloomberg.com/news/articles/2026-02-24/apple-s-touch-screen-macbook-pro-to-have-dynamic-island-new-interface\" target=\"_blank\"><em>Bloomberg</em> reports</a> that when the new laptops launch this fall, they'll feature a <a class=\"link\" hr"
+    },
+    {
+        "id": "https://github.com/moonshine-ai/moonshine",
+        "title": "Show HN: Moonshine Open-Weights STT models \u2013 higher accuracy than WhisperLargev3",
+        "link": "https://github.com/moonshine-ai/moonshine",
+        "published": "Tue, 24 Feb 2026 21:54:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47143755\">Comments</a>"
     }
 ]
