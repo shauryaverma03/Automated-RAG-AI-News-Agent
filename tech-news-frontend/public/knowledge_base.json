@@ -123614,5 +123614,101 @@
         "published": "Wed, 25 Feb 2026 19:44:19 GMT",
         "source": "Latest news",
         "summary": "Best Buy already has preorder deals on the new Samsung Galaxy S26 devices. Here's how to save."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+        "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+        "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+        "published": "Wed, 25 Feb 2026 20:42:14 +0000",
+        "source": "TechCrunch",
+        "summary": "Many of hyperscalers have already made public commitments in to cover electricity cost increases."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/",
+        "title": "US cybersecurity agency CISA reportedly in dire shape amid Trump cuts and layoffs",
+        "link": "https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/",
+        "published": "Wed, 25 Feb 2026 20:26:57 +0000",
+        "source": "TechCrunch",
+        "summary": "Under the first year of the Trump administration, the U.S. cyber agency CISA has faced cuts, layoffs, and furloughs, as bipartisan lawmakers and cybersecurity industry sources say the agency is unprepared to handle a crisis."
+    },
+    {
+        "id": "https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai",
+        "title": "The Peace Corps is recruiting volunteers to sell AI to developing nations",
+        "link": "https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai",
+        "published": "2026-02-25T15:45:00-05:00",
+        "source": "The Verge",
+        "summary": "For more than six decades, the Peace Corps has represented itself as an agency focused on helping underserved communities around the globe. But a new initiative, called the \"Tech Corps,\" threatens to unravel the agency's original mission by recruiting de facto Silicon Valley salespeople to promote the biggest names in AI - many of which [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump",
+        "title": "Trump claims tech companies will sign deals next week to pay for their own power supply",
+        "link": "https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump",
+        "published": "2026-02-25T15:37:25-05:00",
+        "source": "The Verge",
+        "summary": "President Donald Trump tried to quell Americans' concerns about rising electricity costs during his State of the Union speech - and now we're learning that the deals he promised could land next week. Trump claimed that he's negotiated a \"rate payer protection pledge\" with major tech companies, which would see them build out or pay [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/everyone-speaks-incel-now/",
+        "title": "Everyone Speaks Incel Now",
+        "link": "https://www.wired.com/story/everyone-speaks-incel-now/",
+        "published": "Wed, 25 Feb 2026 20:59:50 +0000",
+        "source": "WIRED",
+        "summary": "After migrating from misogynist forums to social media feeds, terms like \u201clooksmaxxing\u201d and \u201cmogged\u201d are now impossible to avoid."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/the-next-assassins-creed-game-loses-its-creative-director-210119005.html?src=rss",
+        "title": "The next Assassin's Creed game loses its creative director",
+        "link": "https://www.engadget.com/gaming/the-next-assassins-creed-game-loses-its-creative-director-210119005.html?src=rss",
+        "published": "Wed, 25 Feb 2026 21:01:19 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Ubisoft's shakeups continue unabated. The creative director of the next Assassin's Creed game, <a class=\"link\" href=\"https://www.engadget.com/ubisoft-ceo-says-assassins-creed-remakes-are-in-the-works-035852195.html\" target=\"_blank\">codenamed Hexe</a>, has left the company. The departure of Clint Hocking, a 20-year veteran of the company over two stints, was reportedly announced in a staff meeting this week.</p><p>Hocking's resume at Ubisoft included serving as creative director on <em>Splinte"
+    },
+    {
+        "id": "https://www.engadget.com/ai/canadian-government-demands-safety-changes-from-openai-204924604.html?src=rss",
+        "title": "Canadian government demands safety changes from OpenAI",
+        "link": "https://www.engadget.com/ai/canadian-government-demands-safety-changes-from-openai-204924604.html?src=rss",
+        "published": "Wed, 25 Feb 2026 20:49:24 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Canadian officials summoned leaders from OpenAI to Ottawa this week to address safety concerns about ChatGPT. The crux of the government concerns was that OpenAI did not notify authorities when it banned the account of a user who allegedly committed a mass shooting in British Columbia earlier this month.&nbsp;</p><p>&quot;The message that we delivered, in no uncertain terms, was that we have \u200can expectation that there are going to \u2060be changes implemented, and if they're not forthcoming very q"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/xbox/xbox-consoles-now-support-1440p-streaming-204115304.html?src=rss",
+        "title": "Xbox consoles now support 1440p streaming",
+        "link": "https://www.engadget.com/gaming/xbox/xbox-consoles-now-support-1440p-streaming-204115304.html?src=rss",
+        "published": "Wed, 25 Feb 2026 20:41:15 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Microsoft <a class=\"link\" href=\"https://news.xbox.com/en-us/2026/02/25/february-xbox-update-1440p-streaming-rog-xbox-ally-updates-and-more/\" target=\"_blank\">has announced</a> that its rolling out support for streaming games at 1440p on Xbox consoles. Game streaming is a key benefit of paying for a Game Pass subscription, and <a class=\"link\" href=\"https://www.engadget.com/gaming/xbox/xbox-users-can-now-stream-games-they-own-on-their-consoles-173739687.html\" target=\"_blank\">as of 2025</a>, now "
+    },
+    {
+        "id": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+        "title": "Jimi Hendrix was a systems engineer",
+        "link": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+        "published": "Wed, 25 Feb 2026 20:16:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47157224\">Comments</a>"
+    },
+    {
+        "id": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+        "title": "Making MCP cheaper via CLI",
+        "link": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+        "published": "Wed, 25 Feb 2026 20:29:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47157398\">Comments</a>"
+    },
+    {
+        "id": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+        "title": "Windows 11 Notepad to support Markdown",
+        "link": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+        "published": "Wed, 25 Feb 2026 17:14:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47154399\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-galaxy-s26-amazon-deal/",
+        "title": "Amazon will give you a free $200 gift card with its Galaxy S26 preorder deal - plus $400 off",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-s26-amazon-deal/",
+        "published": "Wed, 25 Feb 2026 21:17:00 GMT",
+        "source": "Latest news",
+        "summary": "Preorder the new Samsung Galaxy S26, S26 Plus, or S26 Ultra from Amazon at a discount, and get a free gift card. We break down the details."
     }
 ]
