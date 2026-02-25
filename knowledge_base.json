@@ -121774,5 +121774,141 @@
         "published": "Tue, 24 Feb 2026 21:54:07 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47143755\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+        "title": "Nvidia challenger AI chip startup MatX raised $500M",
+        "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+        "published": "Wed, 25 Feb 2026 00:45:47 +0000",
+        "source": "TechCrunch",
+        "summary": "The startup was founded by former Google TPU engineers in 2023."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+        "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+        "link": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+        "published": "Wed, 25 Feb 2026 00:37:59 +0000",
+        "source": "TechCrunch",
+        "summary": "Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+        "title": "Spanish \u2018soonicorn\u2019 Multiverse Computing releases free compressed AI model",
+        "link": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+        "published": "Tue, 24 Feb 2026 23:32:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
+        "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
+        "link": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
+        "published": "Tue, 24 Feb 2026 23:21:54 +0000",
+        "source": "TechCrunch",
+        "summary": "Apple complies with new age-assurance laws in the U.S. and abroad, including those that block users from downloading apps aimed at adults."
+    },
+    {
+        "id": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+        "title": "Apple&#8217;s new age verification tools block underage app downloads where required by law",
+        "link": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+        "published": "2026-02-24T19:45:37-05:00",
+        "source": "The Verge",
+        "summary": "Apple, like many others, has had to launch age verification features in response to new requirements for age checks in many regions, and on Tuesday, the company announced new details about its tools that developers can use to \"meet their age assurance obligations under upcoming U.S. and regional laws, including in Brazil, Australia, Singapore, Utah, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island",
+        "title": "Apple\u2019s touchscreen MacBooks might also have a Dynamic Island",
+        "link": "https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island",
+        "published": "2026-02-24T18:51:19-05:00",
+        "source": "The Verge",
+        "summary": "Apple's OLED touchscreen MacBook Pros set to launch this fall will get a Dynamic Island feature like what's available on iPhones, according to Bloomberg's Mark Gurman. Apple first debuted the Dynamic Island with the iPhone 14 Pro and iPhone 14 Pro Max as a pill-shaped cutout that can show information and alerts, though the MacBook [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/",
+        "title": "Here\u2019s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files",
+        "link": "https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/",
+        "published": "Tue, 24 Feb 2026 23:22:38 +0000",
+        "source": "WIRED",
+        "summary": "The US Justice Department disclosures give fresh clues about how tech companies handle government inquiries about your data."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
+        "title": "WBD says Paramount\u2019s new, higher offer could be \u201csuperior\u201d to Netflix's",
+        "link": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
+        "published": "Tue, 24 Feb 2026 22:52:52 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "WBD's board is still reviewing the offer."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+        "title": "Following 35% growth, solar has passed hydro on US grid",
+        "link": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+        "published": "Tue, 24 Feb 2026 22:40:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Coal makes a bit of a comeback, if only by accident."
+    },
+    {
+        "id": "https://www.engadget.com/computing/accessories/lgs-massive-52-inch-ultra-wide-gaming-monitor-costs-2000-232937759.html?src=rss",
+        "title": "LG's massive 52-inch ultra-wide gaming monitor costs $2,000",
+        "link": "https://www.engadget.com/computing/accessories/lgs-massive-52-inch-ultra-wide-gaming-monitor-costs-2000-232937759.html?src=rss",
+        "published": "Tue, 24 Feb 2026 23:29:37 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>LG kicked off the year by <a class=\"link\" href=\"https://www.engadget.com/computing/accessories/lg-announces-line-of-premium-gaming-monitors-that-offer-5k-visuals-165224945.html\" target=\"_blank\">unveiling</a> a new lineup of gaming monitors, and today the company has priced out the biggest of the bunch. The UltraGear evo G9 (52G930B) is now available for pre-order, and the massive screen will cost just $2,000.&nbsp;</p>\n<p>Yes, you can buy a <a class=\"link\" href=\"https://www.engadget.com/gamin"
+    },
+    {
+        "id": "https://www.cape.co/",
+        "title": "Cell Service for the Fairly Paranoid",
+        "link": "https://www.cape.co/",
+        "published": "Tue, 24 Feb 2026 22:37:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47144325\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-use-malwarebytes-in-chatgpt-flags-scams-for-free/",
+        "title": "How I turned ChatGPT into a scam detector using the new Malwarebytes integration - for free",
+        "link": "https://www.zdnet.com/article/how-to-use-malwarebytes-in-chatgpt-flags-scams-for-free/",
+        "published": "Wed, 25 Feb 2026 01:01:25 GMT",
+        "source": "Latest news",
+        "summary": "Are you being scammed? This new ChatGPT trick scans suspicious numbers, emails, and links to keep you safe."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indias-semicon-business-push-triggers-race-for-domain-experts/articleshow/128762564.cms",
+        "title": "India\u2019s semicon business push triggers race for domain experts",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indias-semicon-business-push-triggers-race-for-domain-experts/articleshow/128762564.cms",
+        "published": "Wed, 25 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India\u2019s semiconductor push is driving a surge in hiring as companies like Micron, AMD, Applied Materials and L&amp;T Semiconductor seek specialised talent in chip design, verification and AI accelerators. Demand for system-level engineering skills far outstrips supply. Finance minister Nirmala Sitharaman announced a Rs 1,000 crore allocation for the second phase of the India Semiconductor Mission under FY27 to boost capabilities."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/yc-backed-data-infra-startup-s2-dev-raises-3-85-million-in-round-led-by-accel/articleshow/128762505.cms",
+        "title": "YC-backed data infra startup S2.dev raises $3.85 million in round led by Accel",
+        "link": "https://economictimes.indiatimes.com/tech/funding/yc-backed-data-infra-startup-s2-dev-raises-3-85-million-in-round-led-by-accel/articleshow/128762505.cms",
+        "published": "Wed, 25 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Uncorrelated Ventures and others participated in the seed funding round of the US-based data infrastructure startup. With this funding, to date, the company has raised a total of $5.5 million. The company plans to use the funds to speed up product development, expand its managed cloud service to more regions globally, and support early enterprise customers."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-decoding-anthropics-claude-code-update-that-triggered-ibm-selloff/articleshow/128762388.cms",
+        "title": "ETtech Explainer: Decoding Anthropic\u2019s Claude Code update that triggered IBM selloff",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-decoding-anthropics-claude-code-update-that-triggered-ibm-selloff/articleshow/128762388.cms",
+        "published": "Wed, 25 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A single Anthropic blog claiming its AI model Claude can read and modernise COBOL wiped nearly $30 billion off IBM\u2019s market value. COBOL, a 1959 programming language, still powers critical banking, airline and government systems worldwide. Claude promises to cut modernisation time from years to quarters, potentially transforming the economics of legacy system updates."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/anthropic-ais-cobol-code-advances-unlock-new-doors-for-it-companies/articleshow/128762313.cms",
+        "title": "Anthropic AI\u2019s COBOL code advances unlock new doors for IT companies",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/anthropic-ais-cobol-code-advances-unlock-new-doors-for-it-companies/articleshow/128762313.cms",
+        "published": "Wed, 25 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Industry leaders say Anthropic\u2019s advances in automating COBOL code could lower migration costs and create new opportunities for IT service firms. HCLTech CEO C Vijayakumar noted modernising mainframes is complex, with tools, integrations and business logic posing challenges. Despite IBM\u2019s stock drop, experts stressed that enterprise deployment of AI will expand IT services rather than replace them."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/deeptech-robotics-startup-armatrix-raises-2-1-million-in-round-led-by-pi-ventures/articleshow/128762256.cms",
+        "title": "Deeptech robotics startup Armatrix raises $2.1 million in round led by pi Ventures",
+        "link": "https://economictimes.indiatimes.com/tech/funding/deeptech-robotics-startup-armatrix-raises-2-1-million-in-round-led-by-pi-ventures/articleshow/128762256.cms",
+        "published": "Wed, 25 Feb 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Inuka Capital, Boundless Ventures, Boost VC, Turbostart, and gradCapital participated in the round. The company, which builds robotic arms resembling tentacles capable of navigating environments that are difficult or unsafe for human workers, plans to use the new capital to complete product development, expand the engineering and R&amp;D teams, and deploy pilot systems to early industrial customers."
     }
 ]
