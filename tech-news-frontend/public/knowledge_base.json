@@ -122606,5 +122606,221 @@
         "published": "Wed, 25 Feb 2026 11:34:37 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>The Declared Age Range API introduced by Apple allows developers to identify a user's age group, especially for 18+ rated apps, including those apps in Brazil with loot boxes. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/02/223-apple-age-verification-api-18-plus-rated-apps/\">Apple Introduces Age Verification API for 18+ Rated Apps in Selected Regions</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/",
+        "title": "Harbinger acquires autonomous driving company Phantom AI",
+        "link": "https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/",
+        "published": "Wed, 25 Feb 2026 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "It's the Los Angeles trucking startup's first acquisition \u2014 the latest in a series of moves to spin up new revenue streams."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/",
+        "title": "Jira\u2019s latest update allows AI agents and humans to work side by side",
+        "link": "https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/",
+        "published": "Wed, 25 Feb 2026 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Atlassian is unveiling \"agents in Jira\" which gives users the ability to assign and manage work given to AI agents the same as humans."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/25/ai-insurance-brokerage-harper-raises-45m-series-a-and-seed/",
+        "title": "Y Combinator grad and AI insurance brokerage Harper raises $47M",
+        "link": "https://techcrunch.com/2026/02/25/ai-insurance-brokerage-harper-raises-45m-series-a-and-seed/",
+        "published": "Wed, 25 Feb 2026 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Harper is an AI-native insurance brokerage that just raised a $45 million combined Series A and seed, after a member of YC's Winter 2025 cohort."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/",
+        "title": "Amazon\u2019s AI-powered Alexa+ gets new personality options",
+        "link": "https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/",
+        "published": "Wed, 25 Feb 2026 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Users will be able to choose from Alexa styles like Brief, Chill or Sweet, Amazon says."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/25/adobe-fireflys-video-editor-can-now-automatically-create-a-first-draft-from-footage/",
+        "title": "Adobe Firefly\u2019s video editor can now automatically create a first draft from footage",
+        "link": "https://techcrunch.com/2026/02/25/adobe-fireflys-video-editor-can-now-automatically-create-a-first-draft-from-footage/",
+        "published": "Wed, 25 Feb 2026 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Adobe Firefly is getting a new feature called Quick Cut that uses AI to edit footage to create a first draft of the final video based on user instructions."
+    },
+    {
+        "id": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+        "title": "You can now make Alexa\u2019s AI personality more friendly, blunt, or chilled out",
+        "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+        "published": "2026-02-25T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Amazon is giving you more control over how Alexa behaves during conversations and responses. Three \"personality style\" presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences. \"Alexa's personality is one of the things customers [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
+        "title": "Adobe\u2019s new AI video editing tool stitches clips into a first draft",
+        "link": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
+        "published": "2026-02-25T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Adobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a first cut to refine and build around. The Quick Cut feature is launching in beta today for Firefly's video editor, allowing users to automatically assemble clips together based on text prompts and simple creator inputs. \"Quick Cut [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/884280/amazon-publishing-deal-maverick-games-forza-cancel",
+        "title": "Amazon continues retreat from games by ending publishing deal for open-world racer",
+        "link": "https://www.theverge.com/entertainment/884280/amazon-publishing-deal-maverick-games-forza-cancel",
+        "published": "2026-02-25T08:46:44-05:00",
+        "source": "The Verge",
+        "summary": "Amazon continues to scale back its gaming efforts, this time by ending a notable publishing deal. The Game Business reports that Amazon will no longer be the publisher of an upcoming open-world racing title from Maverick Games, a new studio made up of former Forza developers. The deal was originally announced in 2024. The news [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/amazon-introduces-three-personality-styles-for-alexa-140000602.html?src=rss",
+        "title": "Amazon introduces three personality styles for Alexa+",
+        "link": "https://www.engadget.com/ai/amazon-introduces-three-personality-styles-for-alexa-140000602.html?src=rss",
+        "published": "Wed, 25 Feb 2026 14:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Amazon is offering a new way for <a class=\"link\" href=\"https://www.engadget.com/ai/alexa-is-now-available-nationwide-with-a-free-text-based-version-for-non-prime-members-to-try-155550342.html\" target=\"_blank\">Alexa+</a> users to customize the AI assistant's communication style. The company has introduced three personalities for Alexa+, so the assistant can adopt an attitude that is Brief, Chill or Sweet.&nbsp;</p><p>The Brief style will be exactly that: no small talk and no extra conversation"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/music/spotify-can-reorder-your-playlists-by-bpm-and-key-140000101.html?src=rss",
+        "title": "Spotify can reorder your playlists by BPM and key",
+        "link": "https://www.engadget.com/entertainment/music/spotify-can-reorder-your-playlists-by-bpm-and-key-140000101.html?src=rss",
+        "published": "Wed, 25 Feb 2026 14:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Spotify is rolling out a new feature that\u2019s meant to make transitions in between tracks even smoother. If you\u2019ll recall, the streaming service released the ability to <a class=\"link\" href=\"https://www.engadget.com/entertainment/music/spotify-now-lets-you-create-seamless-transitions-between-songs-on-your-custom-playlists-100051537.html\" target=\"_blank\">create customized transitions</a> within playlists in August last year. It gave people a way to create uninterrupted progressions and eliminate"
+    },
+    {
+        "id": "https://www.engadget.com/transportation/uber-previews-its-dubai-air-taxi-service-130000603.html?src=rss",
+        "title": "Uber previews its Dubai air taxi service",
+        "link": "https://www.engadget.com/transportation/uber-previews-its-dubai-air-taxi-service-130000603.html?src=rss",
+        "published": "Wed, 25 Feb 2026 13:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Uber is one step closer to going airborne. On Wednesday, the company previewed its air taxi booking service ahead of an expected launch in Dubai later this year. The inaugural Uber Air program will let travelers book <a class=\"link\" href=\"https://www.engadget.com/joby-aviations-first-production-air-taxi-cleared-for-flight-tests-093526681.html\" target=\"_blank\">Joby Aviation's electric air taxis</a> through a familiar process in the Uber app.</p><p>The experience of booking an air taxi will be "
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
+        "title": "The Download: introducing the Crime issue",
+        "link": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
+        "published": "Wed, 25 Feb 2026 13:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Crime issue Technology has long made crime and its prosecution a game of cat and mouse. But those same new technologies that have allowed crime to outpace law have also reenergized&#8230;"
+    },
+    {
+        "id": "https://www.0xsid.com/blog/online-tld-is-pain",
+        "title": "Never Buy A .online Domain",
+        "link": "https://www.0xsid.com/blog/online-tld-is-pain",
+        "published": "Wed, 25 Feb 2026 13:31:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47151233\">Comments</a>"
+    },
+    {
+        "id": "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html",
+        "title": "How to fold the Blade Runner origami unicorn (1996)",
+        "link": "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html",
+        "published": "Sun, 22 Feb 2026 22:42:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47115574\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/tempestphp/100-million-row-challenge",
+        "title": "100M-Row Challenge with PHP",
+        "link": "https://github.com/tempestphp/100-million-row-challenge",
+        "published": "Wed, 25 Feb 2026 10:24:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47149752\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-watch-samsung-unpacked-2026/",
+        "title": "How to watch Samsung Unpacked 2026 today - and what to expect",
+        "link": "https://www.zdnet.com/article/how-to-watch-samsung-unpacked-2026/",
+        "published": "Wed, 25 Feb 2026 13:42:00 GMT",
+        "source": "Latest news",
+        "summary": "We're getting new Galaxy S26 models - and possibly some surprises - during today's San Francisco-based keynote. Here's how to tune in."
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-galaxy-fold-wide-rumor-unpacked-2026/",
+        "title": "If Samsung teases this foldable phone at Unpacked today, I'm skipping the S26 series",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-fold-wide-rumor-unpacked-2026/",
+        "published": "Wed, 25 Feb 2026 13:40:00 GMT",
+        "source": "Latest news",
+        "summary": "The rumored wide-screen Galaxy Fold would combine the pocketability of a Flip 7 and the versatility of a Fold 7."
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-unpacked-02-25-2026-live-blog/",
+        "title": "Samsung Unpacked 2026 live blog: Galaxy S26 Ultra specs, Buds 4 Pro, OneUI 8.5, more",
+        "link": "https://www.zdnet.com/article/samsung-unpacked-02-25-2026-live-blog/",
+        "published": "Wed, 25 Feb 2026 13:20:00 GMT",
+        "source": "Latest news",
+        "summary": "Samsung's February Unpacked event starts in just a few hours, and we're expecting big announcements, a few surprises, and some guest appearances."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/billdesk-to-bag-worldline-openais-new-indian-exec/articleshow/128784111.cms",
+        "title": "Billdesk to bag Worldline; OpenAI\u2019s new Indian exec",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/billdesk-to-bag-worldline-openais-new-indian-exec/articleshow/128784111.cms",
+        "published": "Wed, 25 Feb 2026 19:11:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Billdesk is set to acquire Worldline\u2019s India business in one of the biggest fintech deals in the country. This and more in today\u2019s ETtech Top 5."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/industrial-manufacturing-solutions-firm-wootzwork-raises-6-6-million-in-round-led-by-z47/articleshow/128784024.cms",
+        "title": "Industrial manufacturing solutions firm Wootzwork raises $6.6 million in round led by Z47",
+        "link": "https://economictimes.indiatimes.com/tech/startups/industrial-manufacturing-solutions-firm-wootzwork-raises-6-6-million-in-round-led-by-z47/articleshow/128784024.cms",
+        "published": "Wed, 25 Feb 2026 18:54:06 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Nexus Venture Partners, AdvantEdge Founders, and Stride Ventures also participated in the round. With this, the company that positions itself as an alternative to the traditional multi-vendor manufacturing model by orchestrating execution across suppliers, geographies, and quality frameworks has now raised nearly $10 million. The fresh funds will be used to expand its global engineering and programme management teams, support large OEM programmes, and scale its manufacturing control and governan"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/the-new-desi-power-circle-rise-of-the-next-wave-of-indian-origin-leaders-in-big-tech/articleshow/128783013.cms",
+        "title": "The new \u2018desi\u2019 power circle: rise of the next wave of Indian-origin leaders in Big Tech",
+        "link": "https://economictimes.indiatimes.com/tech/technology/the-new-desi-power-circle-rise-of-the-next-wave-of-indian-origin-leaders-in-big-tech/articleshow/128783013.cms",
+        "published": "Wed, 25 Feb 2026 18:18:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Silicon Valley leadership map is expanding beyond Sundar Pichai and Satya Nadella. A powerful set of Indian-origin CXOs is shaping strategy, scaling AI infrastructure, and running global operations at some of the world\u2019s most influential tech companies, including OpenAI, Anthropic, Apple, Uber, and Tesla."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/mahoba-metal-craft-brass-odop-sumitra-kulpada",
+        "title": "Mahoba\u2019s Metal Craft: From Tradition to Everyday Utility",
+        "link": "https://yourstory.com/2026/02/mahoba-metal-craft-brass-odop-sumitra-kulpada",
+        "published": "Wed, 25 Feb 2026 09:59:32 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Mahoba\u2019s brass metal craft, supported by ODOP, continues as a household livelihood producing idols, figurines and durable decorative pieces."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/startup-news-and-updates-daily-roundup-february-25-2026",
+        "title": "Startup news and updates: Daily roundup (February 25, 2026)",
+        "link": "https://yourstory.com/2026/02/startup-news-and-updates-daily-roundup-february-25-2026",
+        "published": "Wed, 25 Feb 2026 12:24:39 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "From how CanAssist Breast test is using AI to determine treatment for early-stage breast cancer to Zeroharm raising Rs 65 crore, YourStory brings you today\u2019s headlines with the latest developments across sectors."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/zeroharm-sciences-raises-rs-65-cr-led-by-kotak-life-sciences-fund",
+        "title": "ZeroHarm Sciences raises Rs 65 Cr led by Kotak Life Sciences Fund",
+        "link": "https://yourstory.com/2026/02/zeroharm-sciences-raises-rs-65-cr-led-by-kotak-life-sciences-fund",
+        "published": "Wed, 25 Feb 2026 11:27:21 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The funding round was led by Kotak Alternate Asset Managers Limited through its Kotak Life Sciences Fund I (KLSF-I), which invested Rs 40 crore."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/decision-fatigue-zuckerberg-uniform",
+        "title": "Decision fatigue: Why Zuckerberg wears the same shirt",
+        "link": "https://yourstory.com/2026/02/decision-fatigue-zuckerberg-uniform",
+        "published": "Wed, 25 Feb 2026 13:13:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Why Mark Zuckerberg wears the same grey T-shirt daily and how reducing trivial decisions protects mental bandwidth for leadership and startups."
+    },
+    {
+        "id": "https://inc42.com/buzz/supplement-startup-zeroharm-sciences-nets-%e2%82%b965-cr-to-expand-overseas/",
+        "title": "Supplement Startup ZeroHarm Sciences Nets \u20b965 Cr To Expand Overseas",
+        "link": "https://inc42.com/buzz/supplement-startup-zeroharm-sciences-nets-%e2%82%b965-cr-to-expand-overseas/",
+        "published": "Wed, 25 Feb 2026 13:17:55 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"D2C Startup Wellbeing Nutrition Bags $10 Mn Funding From Hindustan Unilever, Fireside Ventures\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2022/12/Wellbeing-Nutrition-Feature.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Hyderabad-based nutrition supplements startup ZeroHarm Sciences has raised \u20b965 Cr ($7.2 Mn) in a funding round led by Kotak Alternate&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/billdesk-to-acquire-worldline-indias-payment-businesses/",
+        "title": "BillDesk To Acquire Worldline India\u2019s Payment Businesses",
+        "link": "https://inc42.com/buzz/billdesk-to-acquire-worldline-indias-payment-businesses/",
+        "published": "Wed, 25 Feb 2026 12:38:34 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"billdesk acquires worldline india\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/billdesk-featured.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Digital payments platform BillDesk has signed an agreement to acquire Worldline India\u2019s payment businesses to enhance its position as a&#8230;"
     }
 ]
