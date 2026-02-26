@@ -125286,5 +125286,101 @@
         "published": "Thu, 26 Feb 2026 18:00:00 GMT",
         "source": "Latest news",
         "summary": "NATO approved iOS 26 and iPadOS 26 devices for classified use up to the 'restricted' level, and that's a big deal. Here's why."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+        "title": "Mistral AI inks a deal with global consulting giant Accenture",
+        "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+        "published": "Thu, 26 Feb 2026 19:17:27 +0000",
+        "source": "TechCrunch",
+        "summary": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic."
+    },
+    {
+        "id": "https://www.theverge.com/tech/885516/nato-iphones-ipads-restricted-classified-information",
+        "title": "NATO says iPhones are secure enough to handle classified data",
+        "link": "https://www.theverge.com/tech/885516/nato-iphones-ipads-restricted-classified-information",
+        "published": "2026-02-26T14:08:03-05:00",
+        "source": "The Verge",
+        "summary": "The iPhone and iPad have been approved to hold NATO-restricted information, according to an announcement on Thursday. That means off-the-shelf devices running iOS 26 and iPadOS 26 can handle classified information \"without requiring special software or settings,\" Apple says. The NATO-restricted designation is the lowest level of classified information, and it applies to information that [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+        "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
+        "link": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+        "published": "Thu, 26 Feb 2026 19:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
+        "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
+        "link": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
+        "published": "Thu, 26 Feb 2026 17:12:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Google's new image model replaces the previous versions immediately."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/apple-and-netflix-are-teaming-up-to-share-formula-1-programming-192829498.html?src=rss",
+        "title": "Apple and Netflix are teaming up to share Formula 1 programming",
+        "link": "https://www.engadget.com/entertainment/streaming/apple-and-netflix-are-teaming-up-to-share-formula-1-programming-192829498.html?src=rss",
+        "published": "Thu, 26 Feb 2026 19:28:29 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple and Netflix have entered into a rather surprising partnership. The dynamic streaming duo will share Formula 1 programming, <a href=\"https://www.hollywoodreporter.com/tv/tv-news/apple-strikes-f1-deal-netflix-grand-prix-new-drive-survive-1236516195/\"><ins>according to </ins><em><ins>The Hollywood Reporter</ins></em></a>. The deal allows Netflix to stream the F1 Canadian Grand Prix in May, along with Apple TV. On the flipside, Apple TV and Netflix will both air season eight of the docuseri"
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/ebay-will-lay-off-800-workers-or-6-percent-of-its-staff-191500844.html?src=rss",
+        "title": "eBay will lay off 800 workers, or 6 percent of its staff",
+        "link": "https://www.engadget.com/big-tech/ebay-will-lay-off-800-workers-or-6-percent-of-its-staff-191500844.html?src=rss",
+        "published": "Thu, 26 Feb 2026 19:15:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>eBay announced that it is cutting about 800 jobs from its global staff. &quot;We are taking steps to reinvest across our business and align our structure with our strategic priorities, which will affect certain roles across our workforce,&quot; the retailer said in a statement as reported by <a class=\"link\" href=\"https://www.bloomberg.com/news/articles/2026-02-26/ebay-is-laying-off-about-800-workers-6-of-global-workforce?embedded-checkout=true\" target=\"_blank\"><em>Bloomberg</em></a>. This mov"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/everything-you-need-to-know-about-streaming-f1-on-apple-tv-190600771.html?src=rss",
+        "title": "Everything you need to know about streaming F1 on Apple TV",
+        "link": "https://www.engadget.com/entertainment/streaming/everything-you-need-to-know-about-streaming-f1-on-apple-tv-190600771.html?src=rss",
+        "published": "Thu, 26 Feb 2026 19:06:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>We\u2019ve known Apple would follow up its blockbuster film <a class=\"link\" href=\"https://www.engadget.com/entertainment/tv-movies/f1-the-movie-review-a-shameless-apple-ad-that-will-blow-your-socks-off-144808364.html\" target=\"_blank\"><em>F1: The Movie</em></a><em> </em>with <a class=\"link\" href=\"https://www.engadget.com/entertainment/streaming/apple-is-the-new-home-for-f1-racing-in-the-us-starting-in-2026-133619412.html\" target=\"_blank\">live coverage of F1 races in 2026</a>. Now that we\u2019re approac"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/meta-sues-advertisers-in-brazil-and-china-over-celeb-bait-scams-190000268.html?src=rss",
+        "title": "Meta sues advertisers in Brazil and China over 'celeb bait' scams",
+        "link": "https://www.engadget.com/social-media/meta-sues-advertisers-in-brazil-and-china-over-celeb-bait-scams-190000268.html?src=rss",
+        "published": "Thu, 26 Feb 2026 19:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Meta <a class=\"link\" href=\"https://about.fb.com/news/2026/02/meta-takes-legal-action-against-scam-advertisers/\" target=\"_blank\">has sued</a> the people and groups behind three scam operations that used images and deepfakes of celebrities to lure users to scam websites. According to the company, the three entities were based in China and Brazil and targeted people in the US, Japan and other countries. The ads promoted fraudulent investment schemes and fake health products.</p><p>Meta said that"
+    },
+    {
+        "id": "https://www.engadget.com/home/ambient-dreamie-bedside-companion-review-the-best-sleep-ive-had-in-years-184019430.html?src=rss",
+        "title": "Ambient Dreamie bedside companion review: The best sleep I've had in years",
+        "link": "https://www.engadget.com/home/ambient-dreamie-bedside-companion-review-the-best-sleep-ive-had-in-years-184019430.html?src=rss",
+        "published": "Thu, 26 Feb 2026 18:40:19 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>How much would you pay for a good night's sleep? This is a question I've asked myself repeatedly over the last few weeks as I've been testing the Dreamie, a $250 alarm clock and &quot;bedside companion&quot; that I couldn't stop thinking about after I first <a class=\"link\" href=\"https://www.engadget.com/home/smart-home/this-tabletop-sleep-device-and-sunrise-alarm-clock-aims-to-help-you-put-your-phone-away-before-bed-004751464.html\" target=\"_blank\">encountered it at CES</a>.</p>\n<p>Ambient's <"
+    },
+    {
+        "id": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+        "title": "I baked a pie every day for a year and it changed my life",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+        "published": "Mon, 23 Feb 2026 20:54:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47128645\">Comments</a>"
+    },
+    {
+        "id": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+        "title": "Will vibe coding end like the maker movement?",
+        "link": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+        "published": "Thu, 26 Feb 2026 16:07:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47167931\">Comments</a>"
+    },
+    {
+        "id": "https://www.usecardboard.com/",
+        "title": "Launch HN: Cardboard (YC W26) \u2013 Agentic video editor",
+        "link": "https://www.usecardboard.com/",
+        "published": "Thu, 26 Feb 2026 18:38:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47170174\">Comments</a>"
     }
 ]
