@@ -125486,5 +125486,85 @@
         "published": "Thu, 26 Feb 2026 10:23:10 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In Hapur, Ajitya Jindal builds Jindal Electronics by repairing and reselling appliances, creating steady income and local employment."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
+        "title": "Google paid startup Form Energy $1B for its massive 100-hour battery",
+        "link": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
+        "published": "Thu, 26 Feb 2026 21:04:23 +0000",
+        "source": "TechCrunch",
+        "summary": "The deal paves the way for Form Energy to raise a new funding round before potentially going public next year."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/885638/smartphone-decline-ram-shortage-idc",
+        "title": "Smartphone sales could be in for their biggest drop ever",
+        "link": "https://www.theverge.com/gadgets/885638/smartphone-decline-ram-shortage-idc",
+        "published": "2026-02-26T16:22:39-05:00",
+        "source": "The Verge",
+        "summary": "The smartphone industry could experience a record-breaking decline in 2026 as a result of the RAM shortage stemming from memory-hungry AI giants. That's according to the latest report from the International Data Corporation (IDC), which forecasts smartphone shipments to plummet 12.9 percent this year, marking its \"lowest annual shipment volume in more than a decade.\" [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/885566/samsung-ram-galaxy-s26-price",
+        "title": "Samsung exec confirms you can blame RAM \u2014 and other materials \u2014 for the Galaxy S26\u2019s higher pricetag",
+        "link": "https://www.theverge.com/tech/885566/samsung-ram-galaxy-s26-price",
+        "published": "2026-02-26T15:57:19-05:00",
+        "source": "The Verge",
+        "summary": "The Samsung Galaxy S26 and S26 Plus are \"more of the same for more money,\" my colleague Allison Johnson reported this week. Now, Samsung is confirming what we previously only suspected: RAMageddon is partly to blame. Samsung's Won-Joon Choi, the COO of its mobile business, tells The Verge that the memory shortage alone made a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/885592/ftc-age-verification-childrens-online-privacy-enforcement",
+        "title": "FTC declines to enforce a kids privacy law for data collected to verify users\u2019 ages",
+        "link": "https://www.theverge.com/policy/885592/ftc-age-verification-childrens-online-privacy-enforcement",
+        "published": "2026-02-26T15:42:17-05:00",
+        "source": "The Verge",
+        "summary": "The Federal Trade Commission is encouraging companies to adopt age verification technologies by announcing it will not enforce a children's online privacy law against certain websites that collect and use minors' personal data in order to verify their ages. \"Age verification technologies are some of the most child-protective technologies to emerge in decades,\" Christopher Mufarrige, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
+        "title": "Qualcomm won&#8217;t be announcing Windows gaming handhelds at GDC after all",
+        "link": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
+        "published": "2026-02-26T15:25:17-05:00",
+        "source": "The Verge",
+        "summary": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU and Intel's first dedicated handheld gaming chips. But plans have shifted, Qualcomm now [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
+        "title": "This AI Agent Is Designed to Not Go Rogue",
+        "link": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
+        "published": "Thu, 26 Feb 2026 20:54:51 +0000",
+        "source": "WIRED",
+        "summary": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down."
+    },
+    {
+        "id": "https://amplifying.ai/research/claude-code-picks",
+        "title": "What Claude Code Chooses",
+        "link": "https://amplifying.ai/research/claude-code-picks",
+        "published": "Thu, 26 Feb 2026 18:12:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47169757\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/linux-kernel-maintainers-new-way-of-authenticating-developers-and-code/",
+        "title": "Linux explores new way of authenticating developers and their code - here's how it works",
+        "link": "https://www.zdnet.com/article/linux-kernel-maintainers-new-way-of-authenticating-developers-and-code/",
+        "published": "Thu, 26 Feb 2026 20:24:44 GMT",
+        "source": "Latest news",
+        "summary": "Linux kernel maintainers propose a less painful process for identifying developers. See how it can make Linux code safer than ever."
+    },
+    {
+        "id": "https://www.zdnet.com/article/why-scammers-call-you-say-nothing-how-to-respond-safely/",
+        "title": "Why scammers call you and say nothing - and how to respond safely",
+        "link": "https://www.zdnet.com/article/why-scammers-call-you-say-nothing-how-to-respond-safely/",
+        "published": "Thu, 26 Feb 2026 20:24:00 GMT",
+        "source": "Latest news",
+        "summary": "There's a reason scammers don't say anything when they call you, at least not right away. Here's how to deal with these sneaky calls."
+    },
+    {
+        "id": "https://inc42.com/buzz/govt-begins-piloting-cbdcs-for-food-subsidy-distribution/",
+        "title": "Govt Begins Piloting CBDCs For Food Subsidy Distribution",
+        "link": "https://inc42.com/buzz/govt-begins-piloting-cbdcs-for-food-subsidy-distribution/",
+        "published": "Thu, 26 Feb 2026 20:31:17 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/CBDCFeature-Image.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Centre yesterday rolled out a central bank digital currency (CBDC)-based pilot for transfer of benefits under the Pradhan Mantri&#8230;"
     }
 ]
