@@ -127494,5 +127494,61 @@
         "published": "Sat, 28 Feb 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Narendra Modi will inaugurate Micron Technology\u2019s Assembly, Test and Packaging facility in Sanand, approved under the India Semiconductor Mission. The project involves an outlay of over Rs 22,500 crore and includes 500,000 square feet of cleanroom space. The facility will begin commercial production of made-in-India semiconductor memory modules for global markets."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
+        "title": "The Air Force's new ICBM is nearly ready to fly, but there\u2019s nowhere to put it",
+        "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
+        "published": "Sat, 28 Feb 2026 00:32:24 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"There were assumptions that were made in the strategy that obviously didn\u2019t come to fruition.\""
+    },
+    {
+        "id": "https://notdivided.org",
+        "title": "We Will Not Be Divided",
+        "link": "https://notdivided.org",
+        "published": "Sat, 28 Feb 2026 00:54:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47188473\">Comments</a>"
+    },
+    {
+        "id": "https://www.anthropic.com/news/statement-comments-secretary-war",
+        "title": "Statement on the comments from Secretary of War Pete Hegseth",
+        "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
+        "published": "Sat, 28 Feb 2026 01:20:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47188697\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-in-court/articleshow/128871763.cms",
+        "title": "Anthropic says it will challenge Pentagon's supply chain risk designation in court",
+        "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-in-court/articleshow/128871763.cms",
+        "published": "Sat, 28 Feb 2026 07:43:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic \u200bsaid on \u200bFriday it will challenge \u200cin \u2060court \u2060the \u200bPentagon's decision to declare \u200bthe AI firm \u200ba \u2060supply-chain risk, \u200chours \u200bafter \u200bU.S. \u2060President Donald Trump \u200balso directed every \u200bfederal agency to stop \u200cwork with the \u200bcompany."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spacex-could-seek-ipo-valuation-of-over-1-75-trillion-bloomberg/articleshow/128871474.cms",
+        "title": "SpaceX could seek IPO valuation of over $1.75 trillion: Bloomberg",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spacex-could-seek-ipo-valuation-of-over-1-75-trillion-bloomberg/articleshow/128871474.cms",
+        "published": "Sat, 28 Feb 2026 07:26:01 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Elon Musk\u2019s SpaceX plans a confidential initial public offering that could value the rocket and satellite firm above $1.75 trillion, Bloomberg reported. The filing may come in March, though timing could change. The report said a June IPO is likely, matching that schedule."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/articleshow/128871712.cms",
+        "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
+        "link": "https://economictimes.indiatimes.com/tech/technology/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/articleshow/128871712.cms",
+        "published": "Sat, 28 Feb 2026 06:02:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Trump administration has ordered all U.S. government agencies to stop using artificial intelligence technology from Anthropic and imposed penalties on the company after a dispute over military access to its AI tools."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/devsparks-pune-2026-whats-in-store-developer-only-summit",
+        "title": "DevSparks Pune 2026: Here's everything in store at the developer-only summit",
+        "link": "https://yourstory.com/2026/02/devsparks-pune-2026-whats-in-store-developer-only-summit",
+        "published": "Sat, 28 Feb 2026 02:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "From agentic systems and multi-agent workflows to GCC influence and real-world case studies, DevSparks 2026 brings developers face-to-face with how software engineering is changing."
     }
 ]
