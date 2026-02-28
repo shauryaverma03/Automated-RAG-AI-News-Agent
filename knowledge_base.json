@@ -128350,5 +128350,53 @@
         "published": "Fri, 27 Feb 2026 08:27:45 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47178051\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/",
+        "title": "Why did Netflix back down from its deal to acquire Warner Bros.?",
+        "link": "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/",
+        "published": "Sat, 28 Feb 2026 22:07:48 +0000",
+        "source": "TechCrunch",
+        "summary": "Netflix's co-CEO reportedly told Trump, \"I took your advice.\""
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+        "title": "What to know about the landmark Warner Bros.\u00a0Discovery sale",
+        "link": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+        "published": "Sat, 28 Feb 2026 21:28:06 +0000",
+        "source": "TechCrunch",
+        "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery \u2014 a historic Hollywood megadeal valued at $111 billion \u2014 as it continues to develop."
+    },
+    {
+        "id": "https://blog.vonng.com/en/db/minio-resurrect/",
+        "title": "MinIO Is Dead, Long Live MinIO",
+        "link": "https://blog.vonng.com/en/db/minio-resurrect/",
+        "published": "Sat, 28 Feb 2026 21:16:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47200342\">Comments</a>"
+    },
+    {
+        "id": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+        "title": "Block the \"Upgrade to Tahoe\" Alerts",
+        "link": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+        "published": "Sat, 28 Feb 2026 19:04:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47198977\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/starlink-mini-stargear-3-in-1-cable-power-spotlight/",
+        "title": "This 3-in-1 adapter for the Starlink Mini made all the difference for its power delivery",
+        "link": "https://www.zdnet.com/article/starlink-mini-stargear-3-in-1-cable-power-spotlight/",
+        "published": "Sat, 28 Feb 2026 21:54:00 GMT",
+        "source": "Latest news",
+        "summary": "The Stargear 3-in-1 cable gives me more power options, no matter where I am."
+    },
+    {
+        "id": "https://www.zdnet.com/article/bmx-solidsafe-10k-review/",
+        "title": "I tested a solid-state power bank that's seriously durable, but two things hold me back",
+        "link": "https://www.zdnet.com/article/bmx-solidsafe-10k-review/",
+        "published": "Sat, 28 Feb 2026 21:49:00 GMT",
+        "source": "Latest news",
+        "summary": "The BMX SolidSafe 10K has many advantages over traditional power banks. However, there are also a couple of issues."
     }
 ]
