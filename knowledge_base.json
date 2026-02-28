@@ -127550,5 +127550,69 @@
         "published": "Sat, 28 Feb 2026 02:30:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "From agentic systems and multi-agent workflows to GCC influence and real-world case studies, DevSparks 2026 brings developers face-to-face with how software engineering is changing."
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+        "title": "India disrupts access to popular developer platform Supabase with blocking order",
+        "link": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+        "published": "Sat, 28 Feb 2026 03:51:52 +0000",
+        "source": "TechCrunch",
+        "summary": "India, one of Supabase\u2019s biggest markets, is seeing patchy access after a government block order."
+    },
+    {
+        "id": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+        "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+        "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+        "published": "Sat, 28 Feb 2026 03:30:41 +0000",
+        "source": "WIRED",
+        "summary": "Anthropic says it would be \u201clegally unsound\u201d for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+        "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+        "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+        "published": "Sat, 28 Feb 2026 01:26:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere."
+    },
+    {
+        "id": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+        "title": "Don't use passkeys for encrypting user data",
+        "link": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+        "published": "Sat, 28 Feb 2026 03:11:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47189749\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/nvidia-plans-new-chip-to-speed-ai-processing-wsj/articleshow/128873790.cms",
+        "title": "Nvidia plans new chip to speed AI processing: WSJ",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-plans-new-chip-to-speed-ai-processing-wsj/articleshow/128873790.cms",
+        "published": "Sat, 28 Feb 2026 09:50:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Nvidia plans to launch a new processor to help OpenAI and other clients run AI systems faster and more efficiently. The chip is for \u201cinference\u201d computing and will debut at Nvidia\u2019s GTC conference. It incorporates a design by startup Groq."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/agreement-reached-with-department-of-war-to-deploy-openai-models-in-classified-network-ceo-sam-altman/articleshow/128872516.cms",
+        "title": "Sam Altman announces deal with Department of War to deploy OpenAI models on classified network",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/agreement-reached-with-department-of-war-to-deploy-openai-models-in-classified-network-ceo-sam-altman/articleshow/128872516.cms",
+        "published": "Sat, 28 Feb 2026 08:30:22 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Sam Altman said OpenAI has agreed with the Department of War to run its AI models on the classified network. The company will control safeguards, model use, and cloud deployment, while the government will respect its \u201cred lines.\u201d The deal follows tensions with Anthropic."
+    },
+    {
+        "id": "https://inc42.com/startups/manufacturing-startups-to-watch-5-indian-manufacturing-startups-that-caught-our-eye-in-february/",
+        "title": "Manufacturing Startups To Watch: 5 Indian Manufacturing Startups That Caught Our Eye In February",
+        "link": "https://inc42.com/startups/manufacturing-startups-to-watch-5-indian-manufacturing-startups-that-caught-our-eye-in-february/",
+        "published": "Sat, 28 Feb 2026 04:32:01 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Manufacturing-ftr-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />India&#8217;s manufacturing renaissance is unfolding in real time. While global manufacturing output grew a modest 0.7% in Q3 2025, India&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/from-temple-to-constelli-indian-startups-raised-220-mn-this-week/",
+        "title": "From Temple To Constelli \u2014 Indian Startups Raised $220 Mn This Week",
+        "link": "https://inc42.com/buzz/from-temple-to-constelli-indian-startups-raised-220-mn-this-week/",
+        "published": "Sat, 28 Feb 2026 03:30:12 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"From Temple To Constelli \u2014 Indian Startups Raised $220 Mn This Week\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Ftr-100-13-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Startup funding momentum continued to remain strong in the final week of February, with 33 startups cumulatively bagging $219.8 Mn&#8230;"
     }
 ]
