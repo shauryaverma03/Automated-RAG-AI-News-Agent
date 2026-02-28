@@ -127638,5 +127638,21 @@
         "published": "Sat, 28 Feb 2026 01:40:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we showcase highlights from annual editions of the Mahindra Percussion Festival, along with performer insights."
+    },
+    {
+        "id": "https://www.engadget.com/ai/openai-strikes-a-deal-with-the-defense-department-to-deploy-its-ai-models-054441785.html?src=rss",
+        "title": "OpenAI strikes a deal with the Defense Department to deploy its AI models",
+        "link": "https://www.engadget.com/ai/openai-strikes-a-deal-with-the-defense-department-to-deploy-its-ai-models-054441785.html?src=rss",
+        "published": "Sat, 28 Feb 2026 05:44:41 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>OpenAI has <a class=\"link\" href=\"https://x.com/sama/status/2027578652477821175\" target=\"_blank\">reached an agreement</a> with the Defense Department to deploy its models in the agency\u2019s network, company chief Sam Altman has revealed on X.  In his post, he said two of OpenAI\u2019s most important safety principles are \u201cprohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems.\u201d Altman claimed the company put those principles in"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indias-semiconductor-market-to-hit-103-billlion-by-2030-fuelled-by-ai-evs-and-defence/articleshow/128875710.cms",
+        "title": "India\u2019s semiconductor market to hit $103 billlion by 2030, fuelled by AI, EVs, and defence",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indias-semiconductor-market-to-hit-103-billlion-by-2030-fuelled-by-ai-evs-and-defence/articleshow/128875710.cms",
+        "published": "Sat, 28 Feb 2026 11:41:16 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India\u2019s semiconductor market is set to nearly double to $103bn by 2030, driven by AI, electric mobility and defence modernisation. Data centre capacity will jump from 1.5 GW to 9 GW, while the IndiaAI Mission exceeds GPU targets. Despite growth, the ecosystem still relies heavily on imports and faces capability gaps."
     }
 ]
