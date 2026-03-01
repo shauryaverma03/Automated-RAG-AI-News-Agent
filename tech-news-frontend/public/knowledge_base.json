@@ -128422,5 +128422,29 @@
         "published": "Sat, 28 Feb 2026 22:10:21 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47200828\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+        "title": "The trap Anthropic built for itself",
+        "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+        "published": "Sun, 01 Mar 2026 00:08:58 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them."
+    },
+    {
+        "id": "https://twitter.com/OpenAI/status/2027846016423321831",
+        "title": "We do not think Anthropic should be designated as a supply chain risk",
+        "link": "https://twitter.com/OpenAI/status/2027846016423321831",
+        "published": "Sat, 28 Feb 2026 21:24:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47200420\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/semicon-modi-launches-micron-facility-in-gujarat/articleshow/128893995.cms",
+        "title": "SemicON: Modi launches Micron facility in Gujarat",
+        "link": "https://economictimes.indiatimes.com/tech/technology/semicon-modi-launches-micron-facility-in-gujarat/articleshow/128893995.cms",
+        "published": "Sun, 01 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The semiconductor assembly, testing, marking and packaging facility in the industrial hub of Sanand is the first of 10 projects under the India Semiconductor Mission (ISM) that has begun commercial production and shipment. It converts advanced DRAM (dynamic random access memory) and NAND (flash memory) wafers from Micron\u2019s global manufacturing network into finished memory and storage products."
     }
 ]
