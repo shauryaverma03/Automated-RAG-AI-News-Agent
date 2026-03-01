@@ -128558,5 +128558,37 @@
         "published": "Fri, 27 Feb 2026 15:19:10 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47181542\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/the-piracy-problem-streaming-platforms-cant-solve/",
+        "title": "The Piracy Problem Streaming Platforms Can\u2019t Solve",
+        "link": "https://www.wired.com/story/the-piracy-problem-streaming-platforms-cant-solve/",
+        "published": "Sun, 01 Mar 2026 10:00:00 +0000",
+        "source": "WIRED",
+        "summary": "In parts of the Middle East and North Africa, a patchwork of sanctions, payment failures, and licensing gaps pushes people into piracy networks."
+    },
+    {
+        "id": "https://mlu-explain.github.io/decision-tree/",
+        "title": "Decision trees \u2013 the unreasonable power of nested decision rules",
+        "link": "https://mlu-explain.github.io/decision-tree/",
+        "published": "Sun, 01 Mar 2026 08:55:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47204964\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/semicon-2-0-to-boost-deep-tech-startups-create-design-ecosystem-union-minister-ashwini-vaishnaw/articleshow/128911673.cms",
+        "title": "Semicon 2.0 to boost deep tech startups, create design ecosystem: Union minister Ashwini Vaishnaw",
+        "link": "https://economictimes.indiatimes.com/tech/startups/semicon-2-0-to-boost-deep-tech-startups-create-design-ecosystem-union-minister-ashwini-vaishnaw/articleshow/128911673.cms",
+        "published": "Sun, 01 Mar 2026 15:11:22 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's Semicon Mission 2.0 will prioritise deep tech startups and a robust design ecosystem. The focus shifts from manufacturing to creating indigenous capabilities in semiconductor design and equipment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-on-pentagons-clash-with-anthropic-heres-all-that-sam-altman-said-after-signing-the-deal/articleshow/128911410.cms",
+        "title": "OpenAI on Pentagon\u2019s clash with Anthropic: Here\u2019s all that Sam Altman said after signing the deal",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-on-pentagons-clash-with-anthropic-heres-all-that-sam-altman-said-after-signing-the-deal/articleshow/128911410.cms",
+        "published": "Sun, 01 Mar 2026 14:49:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI\u2019s defence deal, which followed Anthropic being labelled a supply chain risk, has intensified scrutiny of the AI industry\u2019s ties with the military. Responding to criticism for signing the deal, chief executive Sam Altman said that while the government\u2019s move is disturbing, OpenAI\u2019s layered safeguards remain intact."
     }
 ]
