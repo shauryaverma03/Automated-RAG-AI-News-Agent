@@ -128502,5 +128502,37 @@
         "published": "Sun, 01 Mar 2026 11:14:32 +0530",
         "source": "Tech-Economic Times",
         "summary": "Unified Payments Interface has shown significant growth. In February, transaction counts rose by 27 percent year-on-year to 20.39 billion. Transaction amounts also grew by 22 percent annually, reaching Rs 26.84 lakh crore. UPI is now operational in over eight countries, boosting digital payments globally. India and Israel are also deepening their financial partnership to enable cross-border UPI transactions."
+    },
+    {
+        "id": "https://www.nature.com/articles/s41586-026-10114-5",
+        "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
+        "link": "https://www.nature.com/articles/s41586-026-10114-5",
+        "published": "Wed, 25 Feb 2026 15:01:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47152448\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-will-survive-us-ban-says-ceo-dario-amodei-amid-clash-with-pentagon/articleshow/128908907.cms",
+        "title": "Anthropic will survive US ban, says CEO Dario Amodei amid clash with Pentagon",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-will-survive-us-ban-says-ceo-dario-amodei-amid-clash-with-pentagon/articleshow/128908907.cms",
+        "published": "Sun, 01 Mar 2026 12:53:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "After the Trump administration halted US government use of Anthropic\u2019s AI systems and imposed additional penalties, Amodei dismissed the impact as limited and overstated. He defended the AI major\u2019s refusal to allow unrestricted military access to its models and accused the officials of amplifying uncertainty."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/age-appropriateness-important-factor-while-introducing-ai-in-school-education-experts/articleshow/128908125.cms",
+        "title": "Age appropriateness important factor while introducing AI in school education: Experts",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/age-appropriateness-important-factor-while-introducing-ai-in-school-education-experts/articleshow/128908125.cms",
+        "published": "Sun, 01 Mar 2026 12:15:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Education experts recommend integrating AI education in schools. Students need awareness of data privacy, misinformation, and bias. Access to AI tools must be controlled within secure school systems. Teachers require upskilling to guide responsible AI use. Overdependence on AI for answers can hinder critical thinking."
+    },
+    {
+        "id": "https://inc42.com/features/openai-stage-india-ai-startups-waiting-in-the-wings/",
+        "title": "On OpenAI\u2019s $110 Bn Stage, India\u2019s Waiting In The Wings",
+        "link": "https://inc42.com/features/openai-stage-india-ai-startups-waiting-in-the-wings/",
+        "published": "Sun, 01 Mar 2026 07:13:09 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"On OpenAI&#039;s $110 Bn Stage, India\u2019s Waiting In The Wings\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/The-Outline-Mar-1-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The dust had barely settled on the India AI Impact Summit when OpenAI showed off its war chest this week.&#8230;"
     }
 ]
