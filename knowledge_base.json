@@ -128446,5 +128446,13 @@
         "published": "Sun, 01 Mar 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "The semiconductor assembly, testing, marking and packaging facility in the industrial hub of Sanand is the first of 10 projects under the India Semiconductor Mission (ISM) that has begun commercial production and shipment. It converts advanced DRAM (dynamic random access memory) and NAND (flash memory) wafers from Micron\u2019s global manufacturing network into finished memory and storage products."
+    },
+    {
+        "id": "http://karpathy.github.io/2026/02/12/microgpt/",
+        "title": "Microgpt",
+        "link": "http://karpathy.github.io/2026/02/12/microgpt/",
+        "published": "Sun, 01 Mar 2026 01:39:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47202708\">Comments</a>"
     }
 ]
