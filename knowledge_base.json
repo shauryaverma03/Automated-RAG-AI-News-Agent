@@ -128454,5 +128454,37 @@
         "published": "Sun, 01 Mar 2026 01:39:26 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47202708\">Comments</a>"
+    },
+    {
+        "id": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+        "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
+        "link": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+        "published": "Thu, 26 Feb 2026 09:18:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47163779\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/any-breach-of-contract-could-trigger-a-termination-openais-layered-protections-in-us-defence-department-pact/articleshow/128905640.cms",
+        "title": "'Any breach of contract could trigger a termination': OpenAI's layered protections in US defence department pact",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/any-breach-of-contract-could-trigger-a-termination-openais-layered-protections-in-us-defence-department-pact/articleshow/128905640.cms",
+        "published": "Sun, 01 Mar 2026 10:25:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI has finalised a deal with the Pentagon for its technology on classified networks. This agreement includes significant safeguards for its use. Earlier, Anthropic was declared a supply-chain risk by the Pentagon. OpenAI stated its deal has more guardrails than any previous classified AI deployment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pentagon-vs-anthropic-who-should-control-the-ai-weapon/articleshow/128905361.cms",
+        "title": "Pentagon vs Anthropic: Who should control the AI weapon?",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pentagon-vs-anthropic-who-should-control-the-ai-weapon/articleshow/128905361.cms",
+        "published": "Sun, 01 Mar 2026 09:56:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A major clash is unfolding between the US Pentagon and AI firm Anthropic. The government wants unrestricted access to Anthropic's AI models, while the company insists on ethical constraints. This dispute raises fundamental questions about AI control and safety. The outcome could shape the future of artificial intelligence development and its integration into national security."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/art-algorithms-tao-art-gallery-photography",
+        "title": "Art and algorithms: Tao Art Gallery showcases contemporary Indian creations",
+        "link": "https://yourstory.com/2026/02/art-algorithms-tao-art-gallery-photography",
+        "published": "Sun, 01 Mar 2026 01:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In this photo essay, we feature highlights from the exhibition titled \u2018Systems, Silhouettes, and Synchronicities.\u2019"
     }
 ]
