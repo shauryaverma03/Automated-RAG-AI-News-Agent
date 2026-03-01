@@ -128998,5 +128998,29 @@
         "published": "Sun, 01 Mar 2026 19:32:00 GMT",
         "source": "Latest news",
         "summary": "The Honor Robot Phone has made another public appearance, this time with its flagship feature in action."
+    },
+    {
+        "id": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+        "title": "How to talk to anyone, and why you should",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+        "published": "Tue, 24 Feb 2026 20:08:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47142183\">Comments</a>"
+    },
+    {
+        "id": "https://growingswe.com/blog/microgpt",
+        "title": "Microgpt explained interactively",
+        "link": "https://growingswe.com/blog/microgpt",
+        "published": "Sun, 01 Mar 2026 09:43:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47205208\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazon-india-to-remove-seller-fee-for-items-under-rs-1000-from-mid-march/articleshow/128922249.cms",
+        "title": "Amazon India to remove seller fee for items under Rs 1,000 from mid-March",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazon-india-to-remove-seller-fee-for-items-under-rs-1000-from-mid-march/articleshow/128922249.cms",
+        "published": "Mon, 02 Mar 2026 02:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In April 2025, Amazon India had waived the seller referral fee for items below Rs 300. Now the company has expanded its zero referral fees from 1.2 crore products in 2025 to over 12.5 crore products."
     }
 ]
