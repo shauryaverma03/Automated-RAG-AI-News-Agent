@@ -128486,5 +128486,21 @@
         "published": "Sun, 01 Mar 2026 01:30:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we feature highlights from the exhibition titled \u2018Systems, Silhouettes, and Synchronicities.\u2019"
+    },
+    {
+        "id": "https://www.thetrueengineer.com/p/sql-vs-nosql-how-to-answer-this-interview",
+        "title": "SQL vs. NoSQL: How to Answer This Interview Question in 2026",
+        "link": "https://www.thetrueengineer.com/p/sql-vs-nosql-how-to-answer-this-interview",
+        "published": "Wed, 25 Feb 2026 20:37:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47157500\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/upi-transactions-surge-27-annually-at-20-39-billion-in-february-npci/articleshow/128906902.cms",
+        "title": "UPI transactions surge 27% annually at 20.39 billion in February: NPCI",
+        "link": "https://economictimes.indiatimes.com/tech/technology/upi-transactions-surge-27-annually-at-20-39-billion-in-february-npci/articleshow/128906902.cms",
+        "published": "Sun, 01 Mar 2026 11:14:32 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Unified Payments Interface has shown significant growth. In February, transaction counts rose by 27 percent year-on-year to 20.39 billion. Transaction amounts also grew by 22 percent annually, reaching Rs 26.84 lakh crore. UPI is now operational in over eight countries, boosting digital payments globally. India and Israel are also deepening their financial partnership to enable cross-border UPI transactions."
     }
 ]
