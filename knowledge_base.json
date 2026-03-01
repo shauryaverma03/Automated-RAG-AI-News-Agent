@@ -128742,5 +128742,29 @@
         "published": "Sun, 01 Mar 2026 13:00:40 GMT",
         "source": "Latest news",
         "summary": "The Honor Magic V6 packs a massive battery and razor-thin profile into a foldable that feels like a regular phone. Here's what stood out during my first hands-on."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+        "title": "SaaS in, SaaS out: Here\u2019s what\u2019s driving the SaaSpocalypse",
+        "link": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+        "published": "Sun, 01 Mar 2026 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tcs-infosys-defer-non-essential-trips-amid-middle-east-tensions-issue-advisories-to-employees/articleshow/128917847.cms",
+        "title": "TCS, Infosys defer non-essential trips amid Middle East tensions, issue advisories to employees",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tcs-infosys-defer-non-essential-trips-amid-middle-east-tensions-issue-advisories-to-employees/articleshow/128917847.cms",
+        "published": "Sun, 01 Mar 2026 19:27:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "TCS has suspended all incoming and outgoing travel to and from the Middle East region, including transit routes, citing airspace closures across several countries. Infosys, meanwhile, has \u201cstrongly discouraged\u201d employees from undertaking non-essential travel to the region until further notice."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/x-debuts-tag-for-content-creators-to-flag-ai-generated-posts/articleshow/128917449.cms",
+        "title": "X to debut tag for content creators to flag AI-generated posts",
+        "link": "https://economictimes.indiatimes.com/tech/technology/x-debuts-tag-for-content-creators-to-flag-ai-generated-posts/articleshow/128917449.cms",
+        "published": "Sun, 01 Mar 2026 19:10:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The move comes as governments and regulators push platforms to get more serious about provenance and misinformation. India has directed platforms such as Facebook, Instagram, and YouTube to clearly label AI-generated content and ensure that they carry embedded identifiers."
     }
 ]
