@@ -128614,5 +128614,45 @@
         "published": "Sun, 01 Mar 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "BoomBird emits a 130-decibel siren, loud enough to disorient an attacker, create panic, and buy a woman the critical seconds a woman in distress might need."
+    },
+    {
+        "id": "https://www.wired.com/story/how-to-secure-your-video-doorbell/",
+        "title": "Video Doorbell Advice and Settings for Opting Out of the Surveillance State",
+        "link": "https://www.wired.com/story/how-to-secure-your-video-doorbell/",
+        "published": "Sun, 01 Mar 2026 12:02:00 +0000",
+        "source": "WIRED",
+        "summary": "Video doorbells are handy, but they\u2019re a threat to privacy. I spoke to experts about why you might ditch your doorbell, and how to safeguard your video."
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-laser-printers/",
+        "title": "Best Laser Printers I've Tried (2026): Brother, HP, and More",
+        "link": "https://www.wired.com/gallery/best-laser-printers/",
+        "published": "Sun, 01 Mar 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Looking for fast printing at a relatively affordable cost? You probably want a laser printer."
+    },
+    {
+        "id": "https://www.zdnet.com/article/xiaomi-pad-8-pro-matte-glass-version-review/",
+        "title": "I tested Xiaomi's matte-glass tablet for a month, and it effectively replaced my iPad",
+        "link": "https://www.zdnet.com/article/xiaomi-pad-8-pro-matte-glass-version-review/",
+        "published": "Sun, 01 Mar 2026 11:15:44 GMT",
+        "source": "Latest news",
+        "summary": "The Xiaomi Pad 8 Pro Matte Glass variant has an anti-reflective screen, a flagship processor, and upgraded accessories to take on the iPads."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use/articleshow/128915226.cms",
+        "title": "What to know about the clash between the Pentagon and Anthropic over military's AI use",
+        "link": "https://economictimes.indiatimes.com/tech/technology/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use/articleshow/128915226.cms",
+        "published": "Sun, 01 Mar 2026 17:44:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "President Donald Trump and Hegseth accused rising AI star Anthropic of endangering national security after its CEO Dario Amodei refused to back down over concerns the company's products could be used for mass surveillance or autonomous armed drones."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pentagon-deal-has-stronger-guardrails-than-anthropics/articleshow/128915173.cms",
+        "title": "OpenAI: Pentagon deal has stronger guardrails than Anthropic's",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pentagon-deal-has-stronger-guardrails-than-anthropics/articleshow/128915173.cms",
+        "published": "Sun, 01 Mar 2026 17:41:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Open AI firm said \u200bthat the \u2060contract struck \u200con \u200bFriday \u200bto deploy \u2060technology in the U.S. Defense \u200bDepartment's classified network enforces \u200bthree red lines: no use of \u200cOpenAI technology on mass domestic \u200bsurveillance, no \u200bdirecting \u2060autonomous weapons systems and no high-stakes automated \u200bdecisions."
     }
 ]
