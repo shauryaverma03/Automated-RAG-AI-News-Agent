@@ -130742,5 +130742,37 @@
         "published": "Mon, 02 Mar 2026 20:25:00 GMT",
         "source": "Latest news",
         "summary": "At MWC 2026, Lenovo previewed a mix of new laptops and bold conceptual devices that push the boundaries of personal computing."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale",
+        "title": "Apple\u2019s cheapest AirPods have hit $89",
+        "link": "https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale",
+        "published": "2026-03-02T17:03:09-05:00",
+        "source": "The Verge",
+        "summary": "It\u2019s a good day for Apple fans on a budget. Not only did the company introduce a new budget phone, its entry-level AirPods 4 are also on sale. Right now, you can snag a pair of Apple\u2019s AirPods 4 starting at just $89 ($30 off) at Walmart. The model with active noise-cancellation are also down [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/",
+        "title": "Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads",
+        "link": "https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/",
+        "published": "Mon, 02 Mar 2026 21:34:36 +0000",
+        "source": "WIRED",
+        "summary": "Missile and drone attacks have disrupted daily life, but delivery drivers are still diligently navigating streets to drop off orders across the region."
+    },
+    {
+        "id": "https://www.engadget.com/ai/anthropic-brings-memory-to-claudes-free-plan-220729070.html?src=rss",
+        "title": "Anthropic brings memory to Claude's free plan",
+        "link": "https://www.engadget.com/ai/anthropic-brings-memory-to-claudes-free-plan-220729070.html?src=rss",
+        "published": "Mon, 02 Mar 2026 22:07:29 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Anthropic is bringing another paid feature to Claude's free tier. The next time you chat with Claude, you'll have the option to have it reference your previous conversation to inform its outputs. Anthropic first made its chatbot capable of remembering past interactions <a class=\"link\" href=\"https://www.engadget.com/ai/claude-can-now-reference-past-chats-if-you-want-it-to-211806343.html\" target=\"_blank\">last August</a>, before giving it the ability to compartmentalize memories <a class=\"link\" "
+    },
+    {
+        "id": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+        "title": "Welcome (back) to Macintosh",
+        "link": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+        "published": "Mon, 02 Mar 2026 21:09:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47224118\">Comments</a>"
     }
 ]
