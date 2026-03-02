@@ -130646,5 +130646,53 @@
         "published": "Mon, 02 Mar 2026 12:14:15 GMT",
         "source": "YourStory RSS Feed",
         "summary": "After failed ventures, Samyak Dhariwal launched Zero Dust Detailing Garage with CM UBA support to build a premium car care business in Moradabad."
+    },
+    {
+        "id": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+        "title": "Apple might use Google servers to store data for its upgraded AI Siri",
+        "link": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+        "published": "2026-03-02T15:22:33-05:00",
+        "source": "The Verge",
+        "summary": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/887791/mastodon-official-share-button-widget",
+        "title": "Mastodon now has a button for sharing content from other websites",
+        "link": "https://www.theverge.com/tech/887791/mastodon-official-share-button-widget",
+        "published": "2026-03-02T15:18:58-05:00",
+        "source": "The Verge",
+        "summary": "Sharing content to Mastodon is getting easier with the addition of a universal \"Share to Mastodon\" button for the decentralized social media platform. Announced on Monday, the widget allows users to share content on any Mastodon server by connecting your Mastodon account and redirecting you to the server that account is on. The blog post [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/iranian-ayatollah-khameneis-death-sparks-revolt-among-kalshi-customers/",
+        "title": "Iranian Ayatollah Khamenei\u2019s Death Sparks Revolt Among Kalshi Customers",
+        "link": "https://www.wired.com/story/iranian-ayatollah-khameneis-death-sparks-revolt-among-kalshi-customers/",
+        "published": "Mon, 02 Mar 2026 20:08:38 +0000",
+        "source": "WIRED",
+        "summary": "How Kalshi decided to settle a market tied to Iran\u2019s Supreme Leader prompted anger among traders who felt the rules weren\u2019t clear."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/",
+        "title": "Charter gets FCC permission to buy Cox and become largest ISP in the US",
+        "link": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/",
+        "published": "Mon, 02 Mar 2026 18:19:03 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "FCC rejects protests because Charter and Cox don't compete directly in most places."
+    },
+    {
+        "id": "https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886",
+        "title": "Show HN: uBlock filter list to blur all Instagram Reels",
+        "link": "https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886",
+        "published": "Mon, 02 Mar 2026 19:50:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47223147\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
+        "title": "Ditching ChatGPT for Claude AI just got much easier - how to import your memories",
+        "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
+        "published": "Mon, 02 Mar 2026 19:59:28 GMT",
+        "source": "Latest news",
+        "summary": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. Here's how you do it."
     }
 ]
