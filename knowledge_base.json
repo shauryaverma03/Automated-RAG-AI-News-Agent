@@ -132302,5 +132302,149 @@
         "published": "Tue, 03 Mar 2026 18:02:04 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47236218\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/",
+        "title": "Android users can now share tracker tag info with airlines to help locate lost luggage",
+        "link": "https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/",
+        "published": "Tue, 03 Mar 2026 19:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "More than 10 global airlines now accept Find Hub locations as part of their baggage recovery process."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage/",
+        "title": "The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.",
+        "link": "https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage/",
+        "published": "Tue, 03 Mar 2026 17:39:35 +0000",
+        "source": "TechCrunch",
+        "summary": "With the demands for more computers and data centers to power AI, the market is experiencing a shortage of RAM, causing memory prices to surge."
+    },
+    {
+        "id": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking",
+        "title": "Android\u2019s Find Hub adds iPhone-like luggage tracking links",
+        "link": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking",
+        "published": "2026-03-03T14:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Google is rolling out an Android update that includes the ability to share the location of your missing luggage with an airline. It's similar to the luggage-tracking feature Apple brought to the iPhone, allowing you to view the location of your Find Hub tag or accessory on a map, and provide your airline with a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
+        "title": "Google\u2019s latest Pixel drop allows Gemini to order groceries for you and more",
+        "link": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
+        "published": "2026-03-03T14:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to the Pixel 10, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode",
+        "title": "Google brings Android\u2019s desktop mode to Pixel devices",
+        "link": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode",
+        "published": "2026-03-03T14:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Google is bringing a new desktop mode to its Pixel phones and tablets. The feature comes as part of Google's March Pixel drop, allowing users with a Pixel 8 and newer to connect their device to an external monitor via USB-C for a \"desktop-like multi-window experience.\" You can use a mouse and keyboard with the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/888509/google-pixel-watch-update-express-pay",
+        "title": "The Pixel Watch now lets you tap to pay without opening the Wallet app",
+        "link": "https://www.theverge.com/tech/888509/google-pixel-watch-update-express-pay",
+        "published": "2026-03-03T14:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Google has a big update in store for the Pixel Watch, which will now allow you to make a range of payments by simply tapping your watch to a retail terminal without opening the Wallet app. The feature, called \"express pay,\" is coming to the Pixel Watch 2 and later. It's similar to \"express mode\" [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/888364/yahoo-engadget-sale-static-media",
+        "title": "Yahoo is selling Engadget to Static Media",
+        "link": "https://www.theverge.com/tech/888364/yahoo-engadget-sale-static-media",
+        "published": "2026-03-03T13:42:31-05:00",
+        "source": "The Verge",
+        "summary": "Engadget, the long-running tech news website, has a new owner. Yahoo sold the publication to Static Media in a deal that was signed in early February and is scheduled to close later this March. (Terms of the deal weren't disclosed.) The deal hasn't yet been publicly announced, but a source familiar with the publication says [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
+        "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals",
+        "link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
+        "published": "Tue, 03 Mar 2026 19:01:35 +0000",
+        "source": "WIRED",
+        "summary": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government."
+    },
+    {
+        "id": "https://www.wired.com/story/razer-blackshark-v3-pro-deal-226/",
+        "title": "Our Favorite Upgraded Gaming Headset Is $20 Off",
+        "link": "https://www.wired.com/story/razer-blackshark-v3-pro-deal-226/",
+        "published": "Tue, 03 Mar 2026 18:36:27 +0000",
+        "source": "WIRED",
+        "summary": "The Razer BlackShark V3 Pro has excellent noise-canceling and spatial audio for focused gamers."
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/google-introduces-find-hub-updates-and-more-ai-tools-in-the-march-pixel-drop-190000773.html?src=rss",
+        "title": "Google introduces Find Hub updates and more AI tools in the March Pixel Drop",
+        "link": "https://www.engadget.com/mobile/smartphones/google-introduces-find-hub-updates-and-more-ai-tools-in-the-march-pixel-drop-190000773.html?src=rss",
+        "published": "Tue, 03 Mar 2026 19:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google unveiled its new features coming both to the Pixel line of devices and to the broader Android ecosystem this spring. Two of the more exciting additions for all Android devices are coming through the Find Hub. This can now be used to share real-time locations within Google Messages conversations or to send tracking information to airlines in instances of lost luggage. </p><p>With both of those features, users can turn off their sharing any time. Specific to the luggage issue, Google has"
+    },
+    {
+        "id": "https://www.engadget.com/computing/laptops/macbook-air-m5-vs-macbook-air-m4-whats-changed-beyond-the-apple-silicon-185256565.html?src=rss",
+        "title": "MacBook Air M5 vs. MacBook Air M4: What's changed beyond the Apple silicon",
+        "link": "https://www.engadget.com/computing/laptops/macbook-air-m5-vs-macbook-air-m4-whats-changed-beyond-the-apple-silicon-185256565.html?src=rss",
+        "published": "Tue, 03 Mar 2026 18:52:56 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple unveiled a new MacBook Air today, and apart from the new M5 chip, things don\u2019t look remarkably different. Sure, it\u2019s getting a mild refresh, but maybe not in the way most people would want. Namely, it\u2019s more expensive \u2014 a $100 price bump across all models. In exchange, the <a class=\"link\" href=\"https://www.engadget.com/computing/laptops/the-macbook-air-m5-starts-at-1099-up-100-from-the-m4-141612909.html\" target=\"_blank\">MacBook Air M5</a> does get faster performance and double the stora"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/x-to-require-ai-labels-on-armed-conflict-videos-from-paid-creators-citing-times-of-war-183631400.html?src=rss",
+        "title": "X to require AI labels on armed conflict videos from paid creators, citing \u2018times of war\u2019",
+        "link": "https://www.engadget.com/social-media/x-to-require-ai-labels-on-armed-conflict-videos-from-paid-creators-citing-times-of-war-183631400.html?src=rss",
+        "published": "Tue, 03 Mar 2026 18:36:31 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>X <a href=\"https://x.com/nikitabier/status/2028873177028555201?s=46&amp;t=gXYStEnZYORiiqzJNInvHA\"><ins>will suspend</ins></a> creators from its revenue sharing program if they post AI-generated videos depicting armed conflicts without disclosing they were made with AI. Head of product Nikita Bier announced the policy change on March 3, saying first-time violators will be cut off for 90 days and repeat offenders would be permanently removed from the program.</p>\n<div id=\"cb73926048d447d29b70ae"
+    },
+    {
+        "id": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
+        "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+        "link": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
+        "published": "Tue, 03 Mar 2026 18:54:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47236958\">Comments</a>"
+    },
+    {
+        "id": "https://www.githubstatus.com/incidents/n07yy1bk6kc4",
+        "title": "GitHub Is Having Issues",
+        "link": "https://www.githubstatus.com/incidents/n07yy1bk6kc4",
+        "published": "Tue, 03 Mar 2026 19:02:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47237088\">Comments</a>"
+    },
+    {
+        "id": "https://openai.com/index/gpt-5-3-instant/",
+        "title": "GPT\u20115.3 Instant",
+        "link": "https://openai.com/index/gpt-5-3-instant/",
+        "published": "Tue, 03 Mar 2026 17:57:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47236169\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/march-pixel-drop-upgrades-android-devices-whats-new/",
+        "title": "The March Pixel Drop just landed with 8 big upgrades for your Android device - what's new",
+        "link": "https://www.zdnet.com/article/march-pixel-drop-upgrades-android-devices-whats-new/",
+        "published": "Tue, 03 Mar 2026 19:00:00 GMT",
+        "source": "Latest news",
+        "summary": "Not everything is exclusive to Pixel users. Some of the changes are coming to Android devices, too."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/x-suspends-revenue-sharing-for-undisclosed-ai-war-videos/articleshow/128987208.cms",
+        "title": "X suspends revenue sharing for undisclosed AI war videos",
+        "link": "https://economictimes.indiatimes.com/tech/technology/x-suspends-revenue-sharing-for-undisclosed-ai-war-videos/articleshow/128987208.cms",
+        "published": "Wed, 04 Mar 2026 00:10:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Social media platform X announced Tuesday it would suspend creators from its revenue sharing program for 90 days if they post AI-generated videos of armed conflicts without disclosing they were artificially made, the company said. Under the new rules, repeat offenders face permanent suspension from the Creator Revenue Sharing program, which pays eligible users a share of advertising revenue generated by their posts."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/iranian-strikes-on-amazon-data-centres-highlights-industrys-vulnerability-to-physical-disasters/articleshow/128987045.cms",
+        "title": "Iranian strikes on Amazon data centres highlights industry's vulnerability to physical disasters",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/iranian-strikes-on-amazon-data-centres-highlights-industrys-vulnerability-to-physical-disasters/articleshow/128987045.cms",
+        "published": "Wed, 04 Mar 2026 00:08:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The company's cloud computing division, Amazon Web Services, said late Monday that two data centres in the United Arab Emirates were \"directly struck\" and another facility in Bahrain was also damaged after a drone landed nearby."
     }
 ]
