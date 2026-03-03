@@ -131830,5 +131830,197 @@
         "published": "Tue, 03 Mar 2026 19:13:05 +0530",
         "source": "Tech-Economic Times",
         "summary": "Ayar Labs, supported by Nvidia, has secured $500 million in a new funding round. This brings their total funding to $870 million. The company develops chips that use light for data transmission. This technology aims to speed up AI computing by connecting chips with memory. Ayar Labs plans to use the funds to boost production and expand globally."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/",
+        "title": "Apple\u2019s new Studio displays come with Thunderbolt 5",
+        "link": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/",
+        "published": "Tue, 03 Mar 2026 14:49:03 +0000",
+        "source": "TechCrunch",
+        "summary": "The new displays come with better cameras, new sound systems, and Thunderbolt 5 ports."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/",
+        "title": "Apple unveils M5 Pro and M5 Max chips with new \u2018Fusion Architecture\u2019",
+        "link": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/",
+        "published": "Tue, 03 Mar 2026 14:44:34 +0000",
+        "source": "TechCrunch",
+        "summary": "The chips are engineered around Apple's new Fusion Architecture, an advanced design that merges two dies into a single, high-performance system on a chip (SoC)."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/fig-security-emerges-from-stealth-with-38m-to-help-security-teams-deal-with-change/",
+        "title": "Fig Security emerges from stealth with $38M to help security teams deal with change",
+        "link": "https://techcrunch.com/2026/03/03/fig-security-emerges-from-stealth-with-38m-to-help-security-teams-deal-with-change/",
+        "published": "Tue, 03 Mar 2026 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Fig traces data flows in the security stack and then alerts security teams when changes at any point affect detection or response capabilities."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/887836/kindle-paperwhite-colorsoft-kids-twelve-south-plugbug-charger-deal-sale",
+        "title": "All of Amazon\u2019s kid-friendly Kindles are on sale, including the color version",
+        "link": "https://www.theverge.com/gadgets/887836/kindle-paperwhite-colorsoft-kids-twelve-south-plugbug-charger-deal-sale",
+        "published": "2026-03-03T10:17:25-05:00",
+        "source": "The Verge",
+        "summary": "Let me let you in on a little secret: Amazon\u2019s kid-friendly e-readers are a better deal than the standard models. Each so-called \u201cKids\u201d device is identical to its non-Kids counterpart, except that it comes with a protective case, an extended two-year warranty against damage, and six months of Amazon Kids Plus. They also include optional [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/887838/pokemon-pokopia-ask-us-anything",
+        "title": "We played Pok\u00e9mon Pokopia, ask us anything",
+        "link": "https://www.theverge.com/games/887838/pokemon-pokopia-ask-us-anything",
+        "published": "2026-03-03T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Pok&#233;mon's 30th anniversary is here and Nintendo (and The Pok&#233;mon Company, Game Freak, and Omega Force) are kicking things off with a surprisingly excellent life simulation spinoff game. Pok&#233;mon Pokopia arrives on March 5th, and it's one of the first Pok&#233;mon titles that will debut exclusively on the Nintendo Switch 2. Equal parts Animal Crossing, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/887845/scott-pilgrim-ex-game-bryan-lee-omalley-interview",
+        "title": "Scott Pilgrim creator Bryan Lee O\u2019Malley on taking \u2018another run\u2019 with new game",
+        "link": "https://www.theverge.com/games/887845/scott-pilgrim-ex-game-bryan-lee-omalley-interview",
+        "published": "2026-03-03T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "It's been a busy few years for Scott Pilgrim. Following a live-action film and the conclusion of the comics in 2010, the series has slowly been coming back to life. First, in 2021 Scott Pilgrim vs. The World: The Game was rereleased on modern consoles after years of being inaccessible. Two years later came an [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/podcast/888089/mwc-2026-6g-foldable-robot-phones-vergecast",
+        "title": "The 6G, modular, robot phones of the future",
+        "link": "https://www.theverge.com/podcast/888089/mwc-2026-6g-foldable-robot-phones-vergecast",
+        "published": "2026-03-03T09:39:23-05:00",
+        "source": "The Verge",
+        "summary": "Year after year, we mostly know what to expect from our smartphone upgrades. Galaxy, iPhone, Pixel, or whatever else, everything seems to get slightly better (and occasionally more expensive) without many surprises in store. That's not to say there are no new ideas left in smartphones, though. You just have to know where to look. [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/",
+        "title": "Apple's New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices",
+        "link": "https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/",
+        "published": "Tue, 03 Mar 2026 14:45:03 +0000",
+        "source": "WIRED",
+        "summary": "Apple seems to be saving the entry-level MacBook for its event tomorrow, but instead, we have two new pricey Studio Display computer monitors."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
+        "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+        "link": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
+        "published": "Tue, 03 Mar 2026 15:19:43 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "New laptops come with more storage but also higher starting prices."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/this-is-why-our-electricity-bills-are-so-high-right-now/",
+        "title": "This is why our electricity bills are so high right now",
+        "link": "https://arstechnica.com/tech-policy/2026/03/this-is-why-our-electricity-bills-are-so-high-right-now/",
+        "published": "Tue, 03 Mar 2026 15:01:44 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "New data shows electricity rates rose 5 percent nationwide in 2025."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/",
+        "title": "As Moon interest heats up, two companies unveil plans for a lunar \"harvester\"",
+        "link": "https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/",
+        "published": "Tue, 03 Mar 2026 15:00:21 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Ultimately, we want to build a fleet of electric harvesters.\""
+    },
+    {
+        "id": "https://www.engadget.com/transportation/2027-audi-rs5-first-drive-big-thrills-with-a-big-battery-152057907.html?src=rss",
+        "title": "2027 Audi RS5 first drive: Big thrills with a big battery",
+        "link": "https://www.engadget.com/transportation/2027-audi-rs5-first-drive-big-thrills-with-a-big-battery-152057907.html?src=rss",
+        "published": "Tue, 03 Mar 2026 15:20:57 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>There's more waffling going on about the future of electric vehicles in America right now than you might expect at a Belgian breakfast buffet. Some brands like Hyundai are staying committed, some brands like <a class=\"link\" href=\"https://www.engadget.com/transportation/evs/honda-shows-off-three-new-evs-in-tokyo-but-its-us-plans-are-getting-more-tepid-150000775.html\" target=\"_blank\">Honda are dialing back</a>, and everyone else is simply doing their damndest to provide as many propulsion optio"
+    },
+    {
+        "id": "https://www.engadget.com/computing/laptops/everything-apple-announced-this-week-iphone-17e-new-macbooks-m4-ipad-air-and-more-155617625.html?src=rss",
+        "title": "Everything Apple announced this week: iPhone 17e, new MacBooks, M4 iPad Air and more",
+        "link": "https://www.engadget.com/computing/laptops/everything-apple-announced-this-week-iphone-17e-new-macbooks-m4-ipad-air-and-more-155617625.html?src=rss",
+        "published": "Tue, 03 Mar 2026 15:17:22 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple has<a class=\"link\" href=\"https://www.engadget.com/computing/laptops/tim-cook-confirms-a-week-of-apple-product-reveals-144758464.html\" target=\"_blank\"> promised</a> a \u201cbig week\u201d for the company, which includes an in-person event for press and creators on March 4. But it didn\u2019t exactly wait until Wednesday to get things started.&nbsp;</p><p>The news started on Monday with the announcements of the<a class=\"link\" href=\"https://www.engadget.com/mobile/smartphones/apple-introduces-the-599-iph"
+    },
+    {
+        "id": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
+        "title": "I'm reluctant to verify my identity or age for any online services",
+        "link": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
+        "published": "Tue, 03 Mar 2026 14:22:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47232768\">Comments</a>"
+    },
+    {
+        "id": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+        "title": "Apple introduces the new MacBook Air with M5",
+        "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+        "published": "Tue, 03 Mar 2026 14:04:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47232502\">Comments</a>"
+    },
+    {
+        "id": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
+        "title": "Don't Become an Engineering Manager",
+        "link": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
+        "published": "Tue, 03 Mar 2026 14:19:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47232727\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/apple-macbook-air-m5-price-features-release-date/",
+        "title": "The new MacBook Air M5 costs $100 more - here's what that gets you",
+        "link": "https://www.zdnet.com/article/apple-macbook-air-m5-price-features-release-date/",
+        "published": "Tue, 03 Mar 2026 15:32:00 GMT",
+        "source": "Latest news",
+        "summary": "Apple's thinnest, lightest laptop gets an update for 2026."
+    },
+    {
+        "id": "https://www.zdnet.com/article/mwc-03-03-26-live-blog/",
+        "title": "Best of MWC 2026: We found the biggest news from Lenovo, Xiaomi, Honor, more",
+        "link": "https://www.zdnet.com/article/mwc-03-03-26-live-blog/",
+        "published": "Tue, 03 Mar 2026 15:30:35 GMT",
+        "source": "Latest news",
+        "summary": "It's Mobile World Congress week, and we've got a full slate of announcements to go over, from phones to laptops to all the concepts."
+    },
+    {
+        "id": "https://www.zdnet.com/article/lexar-silver-plus-1tb-microsdxc-card-review/",
+        "title": "Need a microSD? I trust this 1TB card with all my footage - and that says a lot",
+        "link": "https://www.zdnet.com/article/lexar-silver-plus-1tb-microsdxc-card-review/",
+        "published": "Tue, 03 Mar 2026 14:35:49 GMT",
+        "source": "Latest news",
+        "summary": "This Lexar 1TB microSD card is fast, durable, and worth every cent. Here's why"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/eu-experts-to-start-work-on-social-media-ban-for-children-thursday/articleshow/128979087.cms",
+        "title": "EU experts to start work on social media ban for children Thursday",
+        "link": "https://economictimes.indiatimes.com/tech/technology/eu-experts-to-start-work-on-social-media-ban-for-children-thursday/articleshow/128979087.cms",
+        "published": "Tue, 03 Mar 2026 20:51:16 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "An EU expert group is to begin work this week on whether to ban social media for children with the aim of coming up with recommendations by the summer, Brussels said Tuesday. Brussels is considering setting a minimum age to access social media after Australia in December required TikTok, YouTube, Snapchat and other top sites to remove accounts held by under-16s, or face heavy fines."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ziff-davis-to-sell-ookla-and-downdetector-to-accenture-as-part-of-1-2-billion-deal/articleshow/128978362.cms",
+        "title": "Ziff Davis to sell Ookla and Downdetector to Accenture as part of $1.2 billion deal",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ziff-davis-to-sell-ookla-and-downdetector-to-accenture-as-part-of-1-2-billion-deal/articleshow/128978362.cms",
+        "published": "Tue, 03 Mar 2026 20:32:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ziff Davis is selling its Connectivity division, featuring Ookla's Speedtest and Downdetector, to Accenture for $1.2 billion. This move allows Ziff Davis to concentrate on its popular enthusiast websites and health and auto platforms. The sale is expected to close soon. Accenture sees value in the Ookla portfolio for network intelligence services."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/rapidos-food-delivery-app-ownly-launches-services-across-bengaluru/articleshow/128978087.cms",
+        "title": "Rapido\u2019s food delivery app Ownly launches services across Bengaluru",
+        "link": "https://economictimes.indiatimes.com/tech/technology/rapidos-food-delivery-app-ownly-launches-services-across-bengaluru/articleshow/128978087.cms",
+        "published": "Tue, 03 Mar 2026 20:23:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to the company, Ownly is a zero-commission platform, i.e., it doesn\u2019t charge any fee from restaurants. On the other hand, Zomato and Swiggy charge commissions ranging between 16-30%."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apple-launches-new-macbooks-with-m5-chips-bigger-base-storage/articleshow/128977601.cms",
+        "title": "Apple launches new MacBooks with M5 chips, bigger base storage",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apple-launches-new-macbooks-with-m5-chips-bigger-base-storage/articleshow/128977601.cms",
+        "published": "Tue, 03 Mar 2026 20:22:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Apple has launched new MacBook Air and MacBook Pro models. These feature the latest M5 chips and offer more storage as standard. This move aims to attract buyers in a challenging PC market. The company is also increasing storage on its affordable iPhone 17e model. This strategy focuses on enhanced performance and AI capabilities for users."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/singapore-expands-foreign-workforce-to-launch-new-pass-for-tech-talent/articleshow/128976900.cms",
+        "title": "Singapore expands foreign workforce, to launch new pass for tech talent",
+        "link": "https://economictimes.indiatimes.com/tech/technology/singapore-expands-foreign-workforce-to-launch-new-pass-for-tech-talent/articleshow/128976900.cms",
+        "published": "Tue, 03 Mar 2026 20:01:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Singapore is opening eight service sector jobs to workers from India and other countries starting September. A new work pass will be introduced in 2027 to attract global talent in emerging technologies. This move aims to help businesses hire more workers and retain skilled foreign talent."
     }
 ]
