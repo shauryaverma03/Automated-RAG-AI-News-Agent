@@ -132542,5 +132542,45 @@
         "published": "Tue, 03 Mar 2026 19:58:38 GMT",
         "source": "Latest news",
         "summary": "At Mobile World Congress, Motorola reveals plans to preinstall GrapheneOS, a privacy-focused Android fork, on smartphones starting next year."
+    },
+    {
+        "id": "https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026",
+        "title": "Another Oracle outage is messing up US TikTok",
+        "link": "https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026",
+        "published": "2026-03-03T15:26:21-05:00",
+        "source": "The Verge",
+        "summary": "The US version of TikTok is once again experiencing issues due to an Oracle outage, just a month after coming back online from a similar outage in February. The service disruption, impacting Oracle's Ashburn, Virginia data center, began early Tuesday afternoon, with Downdetector reports spiking around 1PM Eastern. TikTok USDS confirmed in a post on [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/",
+        "title": "Here\u2019s Why Trump Posted About Iran \u2018Stealing\u2019 the 2020 Election Hours After the US Attacked",
+        "link": "https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/",
+        "published": "Tue, 03 Mar 2026 21:13:02 +0000",
+        "source": "WIRED",
+        "summary": "Donald Trump\u2019s post on Truth Social about Iran echoed a conspiracy theory that has been circulating online for years."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/skateboarding-train-game-denshattack-is-out-on-june-17-210314631.html?src=rss",
+        "title": "Skateboarding train game Denshattack! is out on June 17",
+        "link": "https://www.engadget.com/gaming/skateboarding-train-game-denshattack-is-out-on-june-17-210314631.html?src=rss",
+        "published": "Tue, 03 Mar 2026 21:03:14 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div><p><a class=\"link\" href=\"https://www.engadget.com/gaming/denshattack-is-a-blend-of-tony-hawk-trains-and-shonen-anime-174106792.html\" target=\"_blank\"><em>Denshattack!</em></a>, the skateboarding game that manages to mix an anime-inspired narrative with <em>Tony Hawk Pro Skater</em>-style grinding and wall-riding, is coming out on June 17. The game's publisher Fireshine Games announced its launch date alongside <a class="
+    },
+    {
+        "id": "https://www.engadget.com/gaming/drinkbox-studios-blighted-will-be-out-for-switch-2-and-pc-this-fall-203638261.html?src=rss",
+        "title": "Drinkbox Studios' Blighted will be out for Switch 2 and PC this fall",
+        "link": "https://www.engadget.com/gaming/drinkbox-studios-blighted-will-be-out-for-switch-2-and-pc-this-fall-203638261.html?src=rss",
+        "published": "Tue, 03 Mar 2026 20:36:38 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>During today's <a class=\"link\" href=\"https://www.engadget.com/gaming/nintendo/nintendo-just-announced-an-indie-world-showcase-for-tomorrow-at-9am-et-164706666.html\" target=\"_blank\">Nintendo Indie World presentation</a>, we got a narrower time frame for when and where we'll be able to play the next project from Drinkbox Studios. The team announced that <em>Blighted</em> will be coming out in this fall for both the Nintendo Switch 2 and for PC.&nbsp;It\u2019ll arrive on the same date for both platfo"
+    },
+    {
+        "id": "https://www.zdnet.com/article/3-tiny-gadgets-protect-your-devices-from-surges-malware/",
+        "title": "3 tiny gadgets that quietly protect your devices from surges and snooping",
+        "link": "https://www.zdnet.com/article/3-tiny-gadgets-protect-your-devices-from-surges-malware/",
+        "published": "Tue, 03 Mar 2026 20:51:00 GMT",
+        "source": "Latest news",
+        "summary": "Looking for a simple way to protect your electronics from power surges and tracking software? These three tiny gadgets can help."
     }
 ]
