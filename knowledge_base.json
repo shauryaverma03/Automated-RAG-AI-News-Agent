@@ -132630,5 +132630,61 @@
         "published": "Tue, 03 Mar 2026 14:45:22 GMT",
         "source": "YourStory RSS Feed",
         "summary": "White-collar job market posted its strongest February performance in recent years, with the Naukri JobSpeak Index reaching 3,233 points - up 12% from 2,890 points in February 2025."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/",
+        "title": "Just three companies dominated the $189B in VC investments last month",
+        "link": "https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/",
+        "published": "Tue, 03 Mar 2026 22:38:58 +0000",
+        "source": "TechCrunch",
+        "summary": "Crunchbase data shows a record $189 billion of global venture capital flowed to startups last month, with AI startups nabbing 90% of the capital."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/",
+        "title": "TikTok down for some in US, thanks to second Oracle outage since sale",
+        "link": "https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/",
+        "published": "Tue, 03 Mar 2026 22:33:57 +0000",
+        "source": "TechCrunch",
+        "summary": "TikTok experienced a similar outage just days after ByteDance divested the app's U.S. operations."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/",
+        "title": "No fooling: NASA targets April 1 for Artemis II launch to the Moon",
+        "link": "https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/",
+        "published": "Tue, 03 Mar 2026 22:54:21 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Engineers are assessing what allowed the seal to become dislodged to prevent the issue from recurring.\""
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
+        "title": "Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",
+        "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
+        "published": "Tue, 03 Mar 2026 22:20:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Accenture plans to buy Ookla, which also includes RootMetrics and Ekahau."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-chair-paramount-warner-bros-merger-likely-to-get-quick-approval/",
+        "title": "FCC chair calls Paramount/WBD merger \"a lot cleaner\" than defunct Netflix deal",
+        "link": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-chair-paramount-warner-bros-merger-likely-to-get-quick-approval/",
+        "published": "Tue, 03 Mar 2026 22:05:36 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "FCC to review foreign debt, but Carr indicates it will be a formality."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/highguard-has-raided-its-last-fortress-will-shutdown-on-march-12-225531035.html?src=rss",
+        "title": "Highguard has raided its last fortress, will shutdown on March 12",
+        "link": "https://www.engadget.com/gaming/highguard-has-raided-its-last-fortress-will-shutdown-on-march-12-225531035.html?src=rss",
+        "published": "Tue, 03 Mar 2026 22:55:31 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><em>Highguard</em>, the live-service multiplayer shooter that was announced at the <a class=\"link\" href=\"https://www.engadget.com/gaming/everything-announced-and-all-the-winners-at-the-game-awards-2025-044101761.html\" target=\"_blank\">Game Awards 2025</a>, is shutting down on March 12. Developer Wildlight Studios shared that the game would be winding down alongside details of its final update, which include a new character, weapon and skill trees.</p><p>&quot;Today we\u2019re sharing difficult news"
+    },
+    {
+        "id": "https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/",
+        "title": "Don't Make Me Talk to Your Chatbot",
+        "link": "https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/",
+        "published": "Tue, 03 Mar 2026 22:24:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47239943\">Comments</a>"
     }
 ]
