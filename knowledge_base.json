@@ -130878,5 +130878,93 @@
         "published": "Mon, 02 Mar 2026 22:38:00 GMT",
         "source": "Latest news",
         "summary": "Lenovo's dual-screen modular laptop can take on multiple configurations, but the feature I'm most excited about is a little more low-key."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+        "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+        "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+        "published": "Tue, 03 Mar 2026 00:03:37 +0000",
+        "source": "TechCrunch",
+        "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+        "title": "Stripe wants to turn your AI costs into a profit center",
+        "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+        "published": "Mon, 02 Mar 2026 23:18:27 +0000",
+        "source": "TechCrunch",
+        "summary": "Stripe released a preview intended to allow AI companies to easily track, pass through, and make a profit on underlying AI model fees."
+    },
+    {
+        "id": "https://www.wired.com/story/jolla-phone-2026/",
+        "title": "The \u2018European\u2019 Jolla Phone Is an Anti-Big-Tech Smartphone",
+        "link": "https://www.wired.com/story/jolla-phone-2026/",
+        "published": "Tue, 03 Mar 2026 00:36:25 +0000",
+        "source": "WIRED",
+        "summary": "The Finnish company Jolla is back with the Linux-powered Jolla Phone. It's being positioned as an antidote to the US-dominated smartphone status quo of Android and iOS."
+    },
+    {
+        "id": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
+        "title": "This AI Agent Is Ready to Serve, Mid-Phone Call",
+        "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
+        "published": "Tue, 03 Mar 2026 00:25:44 +0000",
+        "source": "WIRED",
+        "summary": "Deutsche Telekom, the German cell provider\u2014which holds a majority stake in T-Mobile\u2014is partnering with ElevenLabs to enable an AI assistant on all of its network\u2019s calls in Germany. No app required."
+    },
+    {
+        "id": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
+        "title": "Seed of Might Color Correction Process (2023) [pdf]",
+        "link": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
+        "published": "Mon, 02 Mar 2026 22:49:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47225318\">Comments</a>"
+    },
+    {
+        "id": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
+        "title": "Closure of the Weatheradio Service in Canada",
+        "link": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
+        "published": "Mon, 02 Mar 2026 23:03:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47225505\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/et-graphics-between-promise-peril-the-ai-divide/articleshow/128952838.cms",
+        "title": "ET Graphics: Between promise &amp; peril: The AI divide",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/et-graphics-between-promise-peril-the-ai-divide/articleshow/128952838.cms",
+        "published": "Tue, 03 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "While the optimists are still looking at expansion of opportunities after a short period of painful transition. For now, neither C-suite, trade pundits, technocrats nor economists have a definitive answer."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-will-keep-its-date-with-ai-in-background/articleshow/128952771.cms",
+        "title": "AI will keep its date with AI (in background)",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-will-keep-its-date-with-ai-in-background/articleshow/128952771.cms",
+        "published": "Tue, 03 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Karina Ben Abdelmalek, CEO, Happn, tells Tanya Pandey that the global dating app is working to ensure technology supports human connections."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/maid-of-honour-ai-joins-the-entourage-of-the-big-fat-indian-wedding/articleshow/128952576.cms",
+        "title": "M(AI)d of honour: AI joins the entourage of the Big Fat Indian Wedding",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/maid-of-honour-ai-joins-the-entourage-of-the-big-fat-indian-wedding/articleshow/128952576.cms",
+        "published": "Tue, 03 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "From planning to execution and beyond, AI has formally joined the entourage of the Big Fat Indian Wedding and how! Tanya Pandey &amp; Dia Rekhi find out."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/pronto-raises-25-million-from-epiq-capital-existing-backers/articleshow/128950973.cms",
+        "title": "Pronto raises $25 million from Epiq Capital, existing backers",
+        "link": "https://economictimes.indiatimes.com/tech/funding/pronto-raises-25-million-from-epiq-capital-existing-backers/articleshow/128950973.cms",
+        "published": "Tue, 03 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Pronto has raised $25 million in a round led by Epiq Capital, with participation from existing investors Glade Brook Capital, General Catalyst, and Bain Capital Ventures, Anjali Sardana, the company\u2019s founder and CEO, told ET. With this, Pronto has a post-money valuation of $100 million."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/easy-kyc-for-foreigners-visiting-india-npci-seeking-rbi-nod-for-digital-onboarding/articleshow/128950333.cms",
+        "title": "Digital onboarding to ease KYC for foreigners using UPI for payments",
+        "link": "https://economictimes.indiatimes.com/tech/technology/easy-kyc-for-foreigners-visiting-india-npci-seeking-rbi-nod-for-digital-onboarding/articleshow/128950333.cms",
+        "published": "Tue, 03 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The National Payments Corporation of India (NPCI) is in the final leg of simplifying the KYC process for its UPI One World service, which is meant to enable UPI payments for foreigners visiting India, two people in the know said. The retail payment network has sought Reserve Bank of India\u2019s approval for this facility, after running a pilot successfully for visitors from 40 countries in the recently concluded India AI Impact Summit."
     }
 ]
