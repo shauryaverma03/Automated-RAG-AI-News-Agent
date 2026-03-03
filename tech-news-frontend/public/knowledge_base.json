@@ -132446,5 +132446,101 @@
         "published": "Wed, 04 Mar 2026 00:08:52 +0530",
         "source": "Tech-Economic Times",
         "summary": "The company's cloud computing division, Amazon Web Services, said late Monday that two data centres in the United Arab Emirates were \"directly struck\" and another facility in Bahrain was also damaged after a drone landed nearby."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+        "title": "ChatGPT\u2019s new GPT-5.3 Instant model will stop telling you to calm down",
+        "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+        "published": "Tue, 03 Mar 2026 20:20:56 +0000",
+        "source": "TechCrunch",
+        "summary": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+        "title": "Anduril aims at $60 billion valuation in new funding round",
+        "link": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+        "published": "Tue, 03 Mar 2026 20:06:45 +0000",
+        "source": "TechCrunch",
+        "summary": "The funding round would come less than a year after Anduril's Series G, which closed in June with $2.5 billion against a $30 billion valuation."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+        "title": "Claude Code rolls out a voice mode capability",
+        "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+        "published": "Tue, 03 Mar 2026 20:02:10 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code."
+    },
+    {
+        "id": "https://www.theverge.com/games/880206/highguard-shut-down",
+        "title": "Highguard is shutting down this month",
+        "link": "https://www.theverge.com/games/880206/highguard-shut-down",
+        "published": "2026-03-03T15:16:03-05:00",
+        "source": "The Verge",
+        "summary": "Another high-profile live-service game is shutting down soon after launch: this time it's the free-to-play squad shooter Highguard. Developer Wildlight Entertainment says that, even though Highguard reached 2 million players, the game will be shut down permanently on March 12th. That's less than two months after the game debuted on January 26th. \"Despite the passion [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/888179/shark-powerdetect-uv-reveal-robot-vacuum-review",
+        "title": "Shark\u2019s latest robot vacuum hunts stains with UV light",
+        "link": "https://www.theverge.com/tech/888179/shark-powerdetect-uv-reveal-robot-vacuum-review",
+        "published": "2026-03-03T15:07:38-05:00",
+        "source": "The Verge",
+        "summary": "The Shark PowerDetect UV Reveal is SharkNinja's latest robot vacuum and mop. A flagship model with a multifunctional dock that empties the dustbin and refills and washes its mop, the Reveal's signature feature is a UV light designed to \"find\" stains on your floors. It costs $1,299.99 and is available now. Combined with an RGB [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/03/there-are-plenty-of-great-choices-if-you-want-to-spend-less-than-15k-on-an-ev/",
+        "title": "There are plenty of great choices if you want to spend less than $15K on an EV",
+        "link": "https://arstechnica.com/cars/2026/03/there-are-plenty-of-great-choices-if-you-want-to-spend-less-than-15k-on-an-ev/",
+        "published": "Tue, 03 Mar 2026 19:58:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "There's a lot of good Hyundai and Kia EVs in this price bracket, plus the Bolt and i3."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
+        "title": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
+        "link": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
+        "published": "Tue, 03 Mar 2026 18:41:29 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Apple is using more chiplets and three types of CPU cores to make the M5 family."
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/downdetector-and-speedtest-have-been-sold-for-over-1-billion-201741894.html?src=rss",
+        "title": "Downdetector and Speedtest have been sold for over $1 billion",
+        "link": "https://www.engadget.com/cybersecurity/downdetector-and-speedtest-have-been-sold-for-over-1-billion-201741894.html?src=rss",
+        "published": "Tue, 03 Mar 2026 20:17:41 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The next time you check your internet speed or whether your favorite site is down, another company may be profiting. On Tuesday, Ziff Davis <a class=\"link\" href=\"https://investor.ziffdavis.com/news/news-details/2026/Ziff-Davis-Announces-Definitive-Agreement-to-Sell-Connectivity-Division-to-Accenture/default.aspx\" target=\"_blank\">announced</a> that it sold its Connectivity division, which includes Ookla's Speedtest and Downdetector, to Accenture. The deal is worth $1.2 billion in cash.</p><p>A"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/musical-adventure-game-mixtape-will-be-ready-to-rock-out-on-may-7-200500458.html?src=rss",
+        "title": "Musical adventure game Mixtape will be ready to rock out on May 7",
+        "link": "https://www.engadget.com/gaming/musical-adventure-game-mixtape-will-be-ready-to-rock-out-on-may-7-200500458.html?src=rss",
+        "published": "Tue, 03 Mar 2026 20:05:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div><p>Time to dust off your boomboxes and your walkmans: musical coming-of-age game <em>Mixtape</em> is due out this spring. At its <a class=\"link\" href=\"https://www.engadget.com/mixtape-brings-a-killer-80s-soundtrack-to-xbox-and-pc-in-2025-181740393.html\" target=\"_blank\">reveal</a>, this next title from game developer Beethoven and Dinosaur was targeting a 2025 release, but as happens to the best laid plans, the game's a"
+    },
+    {
+        "id": "https://www.engadget.com/computing/elgatos-stream-deck--xl-adds-a-touch-strip-and-dials-to-an-already-massive-array-of-buttons-195200129.html?src=rss",
+        "title": "Elgato's Stream Deck + XL adds a touch strip and dials to an already massive array of buttons",
+        "link": "https://www.engadget.com/computing/elgatos-stream-deck--xl-adds-a-touch-strip-and-dials-to-an-already-massive-array-of-buttons-195200129.html?src=rss",
+        "published": "Tue, 03 Mar 2026 19:52:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Elgato's Stream Deck helped popularize using a macro pad among aspiring livestreamers and regular desk jockeys, so it's only natural for the brand to continue to expand on its lineup. After announcing <a class=\"link\" href=\"https://www.engadget.com/computing/accessories/elgatos-stream-deck-breaks-free-from-the-companys-hardware-230052921.html\" target=\"_blank\">a suite of new Stream Deck devices</a> last year, Elgato is kicking off 2026 with the <a class=\"no-affiliate-link link\" href=\"https://ww"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/the-long-delayed-the-division-resurgence-hits-ios-and-android-on-march-31-193905948.html?src=rss",
+        "title": "The long-delayed The Division Resurgence hits iOS and Android on March 31",
+        "link": "https://www.engadget.com/gaming/the-long-delayed-the-division-resurgence-hits-ios-and-android-on-march-31-193905948.html?src=rss",
+        "published": "Tue, 03 Mar 2026 19:39:05 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Ubisoft is finally releasing <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=26352bd9-375a-410b-8a63-e15c0df22e93&amp;featureId=text-link&amp;linkText=The+Division+Resurgence+on+March+31&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL25ld3MudWJpc29mdC5jb20vZW4tdXMvYXJ0aWNsZS81cFZCTGQxdXBDeFN3aXJCMDFWUTltIiwiY29udGVudFV1aWQiOiIyNjM1MmJkOS0zNzVhLTQxMGItOGE2My1lMTVjMGRmMjJlOTM"
+    },
+    {
+        "id": "https://www.zdnet.com/article/motorola-to-preinstall-grapheneos-on-2027-phones/",
+        "title": "I can't wait for Motorola's GrapheneOS phones: Why they're a win for privacy and open source",
+        "link": "https://www.zdnet.com/article/motorola-to-preinstall-grapheneos-on-2027-phones/",
+        "published": "Tue, 03 Mar 2026 19:58:38 GMT",
+        "source": "Latest news",
+        "summary": "At Mobile World Congress, Motorola reveals plans to preinstall GrapheneOS, a privacy-focused Android fork, on smartphones starting next year."
     }
 ]
