@@ -132766,5 +132766,93 @@
         "published": "Wed, 04 Mar 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "India\u2019s beauty and personal care market is accelerating rapidly, thanks to rising personal care spending by young consumers. E-commerce and rapid delivery platforms are defining how beauty products are accessed."
+    },
+    {
+        "id": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+        "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+        "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+        "published": "Wed, 04 Mar 2026 00:58:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47241551\">Comments</a>"
+    },
+    {
+        "id": "https://develop--gpvm-website.netlify.app/resources/",
+        "title": "Graphics Programming Resources",
+        "link": "https://develop--gpvm-website.netlify.app/resources/",
+        "published": "Wed, 04 Mar 2026 02:23:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47242193\">Comments</a>"
+    },
+    {
+        "id": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
+        "title": "The largest acidic geyser has been putting on quite a show",
+        "link": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
+        "published": "Wed, 04 Mar 2026 01:27:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47241788\">Comments</a>"
+    },
+    {
+        "id": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+        "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+        "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+        "published": "Wed, 04 Mar 2026 01:31:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47241817\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-easily-check-whether-chats-or-messages-are-scams-on-android/",
+        "title": "Is that message spam or real? This Android trick helps you ID the scams",
+        "link": "https://www.zdnet.com/article/how-to-easily-check-whether-chats-or-messages-are-scams-on-android/",
+        "published": "Wed, 04 Mar 2026 03:00:41 GMT",
+        "source": "Latest news",
+        "summary": "Are your chats and DMs flooded with scams? If you have a Pixel or Galaxy phone, Circle to Search can come to the rescue. Here's how."
+    },
+    {
+        "id": "https://www.zdnet.com/article/bunsenlabs-carbon-lightweight-and-customizable-linux-distro/",
+        "title": "Love to customize your Linux desktop? This lightweight distro is great fun for newbies and experts",
+        "link": "https://www.zdnet.com/article/bunsenlabs-carbon-lightweight-and-customizable-linux-distro/",
+        "published": "Wed, 04 Mar 2026 02:00:40 GMT",
+        "source": "Latest news",
+        "summary": "See what makes the Debian-based BunsenLabs Carbon such a worthy successor to CrunchBang Linux."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/head-of-alibabas-qwen-ai-division-resigns/articleshow/129003988.cms",
+        "title": "Head of Alibaba's Qwen AI division resigns",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/head-of-alibabas-qwen-ai-division-resigns/articleshow/129003988.cms",
+        "published": "Wed, 04 Mar 2026 09:01:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The head of Alibaba Group\u2019s Qwen AI model division, Lin Junyang, said he would step down, days after updated products were released. In a post on X, he wrote \u201cBye my beloved Qwen\u201d without further explanation. The \u2060jump came after Chinese tech giants launched aggressive campaigns to draw more \u200busers to their apps during the Lunar New Year holidays."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-tells-staff-openai-has-no-say-over-pentagon-decisions/articleshow/129003768.cms",
+        "title": "Sam Altman tells staff OpenAI has no say over Pentagon decisions",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-tells-staff-openai-has-no-say-over-pentagon-decisions/articleshow/129003768.cms",
+        "published": "Wed, 04 Mar 2026 09:00:20 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI chief executive Sam Altman told employees the company does not get to decide how the Department of Defense (DoD) uses its artificial intelligence software. He said the Pentagon will hear OpenAI\u2019s expertise but will not allow it to make operational decisions, following tensions with Anthropic."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-contract-restrictions-could-threaten-military-missions-us-official/articleshow/129002069.cms",
+        "title": "AI contract restrictions could threaten military missions: US official",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-contract-restrictions-could-threaten-military-missions-us-official/articleshow/129002069.cms",
+        "published": "Wed, 04 Mar 2026 08:03:33 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A senior Pentagon official warned that broad operational limits in commercial AI contracts under the Biden administration could hinder real-time military planning and combat operations, with terms so restrictive that models might stop mid-mission. These concerns surfaced days after a row over the use of \u2060Anthropic\u2019s AI in sensitive military systems."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-nears-20-billion-revenue-run-rate-amid-pentagon-feud/articleshow/129001605.cms",
+        "title": "Anthropic nears $20 billion revenue run rate amid Pentagon feud",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-nears-20-billion-revenue-run-rate-amid-pentagon-feud/articleshow/129001605.cms",
+        "published": "Wed, 04 Mar 2026 07:49:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic is nearing $20 billion in annual run-rate revenue, up sharply from late 2025, driven by strong adoption of its AI models and Claude Code. Valued at $380 billion, the company shows rapid growth, though its clash with the Pentagon now casts doubt over business prospects."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/intel-board-chair-frank-yeary-to-depart-after-17-years/articleshow/129001066.cms",
+        "title": "Intel board chair Frank Yeary to depart after 17 years",
+        "link": "https://economictimes.indiatimes.com/tech/technology/intel-board-chair-frank-yeary-to-depart-after-17-years/articleshow/129001066.cms",
+        "published": "Wed, 04 Mar 2026 07:29:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Intel chair Frank Yeary will retire, with Craig Barratt set to succeed him. Yeary served on \u2060the board \u200csince 2009 and was chair since 2023. He has presided over four CEO transitions and has dealt with \u200bthe decline of Intel's \u200bmanufacturing and the rise of TSMC."
     }
 ]
