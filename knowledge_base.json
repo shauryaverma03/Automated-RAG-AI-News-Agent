@@ -132910,5 +132910,29 @@
         "published": "Wed, 04 Mar 2026 05:30:47 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/AI-Newsletter-Design-Brief-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />AI has made video creation faster, cheaper and more accessible than ever. But as traditional barriers of video creation fade,&#8230;"
+    },
+    {
+        "id": "https://github.com/vladich/pg_jitter",
+        "title": "Better JIT for Postgres",
+        "link": "https://github.com/vladich/pg_jitter",
+        "published": "Wed, 04 Mar 2026 06:17:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47243804\">Comments</a>"
+    },
+    {
+        "id": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+        "title": "Agentic Engineering Patterns",
+        "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+        "published": "Wed, 04 Mar 2026 05:00:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47243272\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/walmart-backed-phonepe-targets-up-to-10-5-billion-valuation-in-india-ipo/articleshow/129011169.cms",
+        "title": "Walmart-backed PhonePe targets up to $10.5 billion valuation in India IPO",
+        "link": "https://economictimes.indiatimes.com/tech/technology/walmart-backed-phonepe-targets-up-to-10-5-billion-valuation-in-india-ipo/articleshow/129011169.cms",
+        "published": "Wed, 04 Mar 2026 12:14:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "PhonePe is targeting a $9 billion to $10.5 billion valuation in its IPO, aiming to raise about $900 million to $1.05 billion. Backer Walmart will cut its stake, while Tiger Global and Microsoft plan to exit. The offering involves 50.7 million shares, with no new shares issued."
     }
 ]
