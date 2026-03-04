@@ -134134,5 +134134,61 @@
         "published": "Wed, 04 Mar 2026 21:02:00 GMT",
         "source": "Latest news",
         "summary": "Tecno's magnetic modular phone introduces some cool concepts, but the execution didn't wow me."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+        "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+        "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+        "published": "Wed, 04 Mar 2026 21:43:58 +0000",
+        "source": "TechCrunch",
+        "summary": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be."
+    },
+    {
+        "id": "https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps",
+        "title": "Epic and Google have signed a special deal for a new class of &#8216;metaverse&#8217; apps",
+        "link": "https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps",
+        "published": "2026-03-04T16:49:16-05:00",
+        "source": "The Verge",
+        "summary": "Epic Games and Google are burying the hatchet, but documents released today reveal that they aren't only aligned on how Google is shaking things up for app stores. The two companies have also agreed to terms about a new class of apps that they're calling \"metaverse browsers,\" according to a heavily redacted section of a [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
+        "title": "Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
+        "link": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
+        "published": "Wed, 04 Mar 2026 22:13:27 +0000",
+        "source": "WIRED",
+        "summary": "\u201cData centers \u2026 they need some PR help,\u201d said President Donald Trump at the event."
+    },
+    {
+        "id": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
+        "title": "What AI Models for War Actually Look Like",
+        "link": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
+        "published": "Wed, 04 Mar 2026 22:00:03 +0000",
+        "source": "WIRED",
+        "summary": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/google-and-epic-look-to-bury-the-hatchet-with-new-app-store-settlement/",
+        "title": "Google and Epic announce settlement to end app store antitrust case",
+        "link": "https://arstechnica.com/gadgets/2026/03/google-and-epic-look-to-bury-the-hatchet-with-new-app-store-settlement/",
+        "published": "Wed, 04 Mar 2026 20:48:16 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The era of the 30 percent app store cut has ended."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/",
+        "title": "Lawsuit: Google Gemini sent man on violent missions, set suicide \"countdown\"",
+        "link": "https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/",
+        "published": "Wed, 04 Mar 2026 20:29:14 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Gemini allegedly called man its \"husband,\" said they could be together in death."
+    },
+    {
+        "id": "https://bill.newgrounds.com/news/post/1607118",
+        "title": "Building a new flash",
+        "link": "https://bill.newgrounds.com/news/post/1607118",
+        "published": "Wed, 04 Mar 2026 20:16:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47253177\">Comments</a>"
     }
 ]
