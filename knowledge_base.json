@@ -132686,5 +132686,85 @@
         "published": "Tue, 03 Mar 2026 22:24:06 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47239943\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+        "title": "Why AI startups are selling the same equity at two different prices",
+        "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+        "published": "Wed, 04 Mar 2026 00:31:25 +0000",
+        "source": "TechCrunch",
+        "summary": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/",
+        "title": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals",
+        "link": "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/",
+        "published": "Tue, 03 Mar 2026 23:27:31 +0000",
+        "source": "TechCrunch",
+        "summary": "Security researchers say exploits used by governments to hack into iPhones have been found to be used by cybercriminals. They warned of an emerging market for \"secondhand\" exploits."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+        "title": "Alibaba\u2019s Qwen tech lead steps down after major AI push",
+        "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+        "published": "Tue, 03 Mar 2026 23:16:36 +0000",
+        "source": "TechCrunch",
+        "summary": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale",
+        "title": "Anker\u2019s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time",
+        "link": "https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale",
+        "published": "2026-03-03T18:29:06-05:00",
+        "source": "The Verge",
+        "summary": "Bad news: most Americans are about to lose an hour of sleep next week. Good news: if you have trouble falling (or staying asleep), Newegg is currently selling Anker\u2019s Soundcore Sleep A20 earbuds for $113.99 ($66 off) when you use coupon code MMSF88 at checkout, which drops them to just $6 shy of their lowest [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements",
+        "title": "Does Ticketmaster have a stranglehold on concert ticketing \u2014 or is it just \u2018bringing joy\u2019?",
+        "link": "https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements",
+        "published": "2026-03-03T18:27:59-05:00",
+        "source": "The Verge",
+        "summary": "In a downtown Manhattan courtroom on Monday, lawyers for the US Justice Department and 40 state and district attorneys general warned a jury that the concert industry was being squeezed by a monopolist: Live Nation-Tickemaster. After amassing dominance over ticketing and artists' use of large amphitheaters, lead DOJ counsel David Dahlquist alleged, Live Nation constructed [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/meta-signs-a-multimillion-dollar-ai-licensing-deal-with-news-corp-234157902.html?src=rss",
+        "title": "Meta signs a multimillion dollar AI licensing deal with News Corp",
+        "link": "https://www.engadget.com/ai/meta-signs-a-multimillion-dollar-ai-licensing-deal-with-news-corp-234157902.html?src=rss",
+        "published": "Tue, 03 Mar 2026 23:41:57 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Meta has signed an AI licensing deal with News Corp that will allow the Meta AI maker to use content from <em>The Wall Street Journal</em> and other brands in its chatbot responses and for training of its AI models. News Corp confirmed to Engadget that it had struck a deal with Meta, but didn't provide specifics on the terms of the arrangement. According to <a class=\"no-affiliate-link link\" href=\"https://www.wsj.com/business/media/news-corp-meta-in-ai-content-licensing-deal-worth-up-to-50-mil"
+    },
+    {
+        "id": "https://talos.wtf/",
+        "title": "Talos: Hardware accelerator for deep convolutional neural networks",
+        "link": "https://talos.wtf/",
+        "published": "Tue, 03 Mar 2026 23:11:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47240441\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/underused-gpus-raise-questions-about-indiaai-capacity-build-out/articleshow/128981840.cms",
+        "title": "Underused GPUs raise questions about IndiaAI capacity build-out",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/underused-gpus-raise-questions-about-indiaai-capacity-build-out/articleshow/128981840.cms",
+        "published": "Wed, 04 Mar 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The long deployment timeframe, slow allocation process and financial constraints of end-user companies have resulted in poor utilisation of GPUs (Graphics Processing Units) that are allocated under the IndiaAI Mission. Only a fifth of the GPUs, a critical piece of hardware powering artificial intelligence that are made available under IndiaAI Compute Portal, are being utilised."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/centre-will-stick-to-social-media-content-takedown-deadlines-say-officials/articleshow/128984411.cms",
+        "title": "Centre will stick to social media content takedown deadlines, say officials",
+        "link": "https://economictimes.indiatimes.com/tech/technology/centre-will-stick-to-social-media-content-takedown-deadlines-say-officials/articleshow/128984411.cms",
+        "published": "Wed, 04 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Officials say govt needs to protect citizens, cites ministry agreement that prior timelines too lax"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indias-beauty-and-personal-care-market-set-to-grow-to-39-billion-in-fy30-report/articleshow/128982139.cms",
+        "title": "India\u2019s beauty and personal care market set to grow to $39 billion in FY30: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indias-beauty-and-personal-care-market-set-to-grow-to-39-billion-in-fy30-report/articleshow/128982139.cms",
+        "published": "Wed, 04 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India\u2019s beauty and personal care market is accelerating rapidly, thanks to rising personal care spending by young consumers. E-commerce and rapid delivery platforms are defining how beauty products are accessed."
     }
 ]
