@@ -134070,5 +134070,69 @@
         "published": "Wed, 04 Mar 2026 19:48:07 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47252838\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+        "title": "Google Search rolls out Gemini\u2019s Canvas in AI Mode to all US users",
+        "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+        "published": "Wed, 04 Mar 2026 18:50:58 +0000",
+        "source": "TechCrunch",
+        "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
+        "title": "NotebookLM can now summarize research in \u2018cinematic\u2019 video overviews",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
+        "published": "2026-03-04T15:32:42-05:00",
+        "source": "The Verge",
+        "summary": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+        "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+        "link": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+        "published": "2026-03-04T15:23:41-05:00",
+        "source": "The Verge",
+        "summary": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13-inch M5-powered MacBook Air for $1,099 with a $50 gift [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/transportation/889145/lead-the-charge-supply-chain-leaderboard-toyota-tesla",
+        "title": "The world\u2019s biggest automaker has one of the dirtiest supply chains: report",
+        "link": "https://www.theverge.com/transportation/889145/lead-the-charge-supply-chain-leaderboard-toyota-tesla",
+        "published": "2026-03-04T15:22:27-05:00",
+        "source": "The Verge",
+        "summary": "Tesla, Ford, and Volvo occupy the top three spots in a new ranking of 18 global automakers based on their efforts to eliminate carbon emissions, environmental harms, and human rights violations from their supply chains. Toyota, meanwhile, lurks near the bottom of the list, underscoring the persistent difficulty in getting the world's largest car company [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/assassins-creed-unity-is-getting-a-free-60-fps-patch-tomorrow-210109721.html?src=rss",
+        "title": "Assassin's Creed Unity is getting a free 60 fps patch tomorrow",
+        "link": "https://www.engadget.com/gaming/assassins-creed-unity-is-getting-a-free-60-fps-patch-tomorrow-210109721.html?src=rss",
+        "published": "Wed, 04 Mar 2026 21:01:09 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Ubisoft shared its upcoming <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=cca828bc-bcd7-4319-b5fa-8cb88f52eae1&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=5347df8e-af59-4fc8-9eb7-759ee1a60868&amp;featureId=text-link&amp;merchantName=Ubisoft&amp;linkText=plans&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy51Ymlzb2Z0LmNvbS9lbi11cy9uZXdzL2lnbnQuNTg2MzAvYXNzYXNzaW4tcy1jcmVlZC1pbnRvLTIwMjYiLCJj"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/lg-reveals-pricing-for-its-2026-oled-tvs-203923873.html?src=rss",
+        "title": "LG reveals pricing for its 2026 OLED TVs",
+        "link": "https://www.engadget.com/entertainment/lg-reveals-pricing-for-its-2026-oled-tvs-203923873.html?src=rss",
+        "published": "Wed, 04 Mar 2026 20:39:23 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Now for the news you've been waiting with bated breath for: LG's 2026 TVs from CES finally have prices. (Well, some of them do, anyway.) Surprisingly, the evo G6 and C6 series OLED TVs aren't increasing in cost from <a class=\"link\" href=\"https://www.engadget.com/home/home-theater/lgs-oled-evo-tvs-for-2025-come-with-ai-and-a-165hz-refresh-rate-200037568.html\" target=\"_blank\">last year's models</a>. But the bad news is, they\u2019re still expensive as all get-out.</p><p>The flagship LG evo G6 series"
+    },
+    {
+        "id": "https://hannahritchie.github.io/energy-use-comparisons/",
+        "title": "Does that use a lot of energy?",
+        "link": "https://hannahritchie.github.io/energy-use-comparisons/",
+        "published": "Wed, 04 Mar 2026 20:30:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47253364\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/tecno-modular-phone-concept-mwc-2026/",
+        "title": "I tried Tecno's modular phone concept at MWC - and it quickly got weird",
+        "link": "https://www.zdnet.com/article/tecno-modular-phone-concept-mwc-2026/",
+        "published": "Wed, 04 Mar 2026 21:02:00 GMT",
+        "source": "Latest news",
+        "summary": "Tecno's magnetic modular phone introduces some cool concepts, but the execution didn't wow me."
     }
 ]
