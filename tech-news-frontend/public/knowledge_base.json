@@ -134518,5 +134518,61 @@
         "published": "Thu, 05 Mar 2026 05:07:33 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47257803\">Comments</a>"
+    },
+    {
+        "id": "https://zed.dev/terms",
+        "title": "Zed new terms required to be 18 years old",
+        "link": "https://zed.dev/terms",
+        "published": "Thu, 05 Mar 2026 05:59:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47258064\">Comments</a>"
+    },
+    {
+        "id": "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/",
+        "title": "You need to rewrite your CLI for AI agents",
+        "link": "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/",
+        "published": "Wed, 04 Mar 2026 19:20:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47252459\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/startups-led-by-women-receive-just-rs-4-out-of-every-rs-100-raised-by-founders-report/articleshow/129075330.cms",
+        "title": "Startups led by women receive just Rs 4 out of every Rs 100 raised by founders: Report",
+        "link": "https://economictimes.indiatimes.com/tech/startups/startups-led-by-women-receive-just-rs-4-out-of-every-rs-100-raised-by-founders-report/articleshow/129075330.cms",
+        "published": "Thu, 05 Mar 2026 12:34:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Women founders in India still struggle to secure venture funding, receiving only Rs 4 of every Rs 100 raised, according to a report by Kalaari Capital. Despite stronger revenue performance and growing participation in STEM education, structural funding biases persist. The firm\u2019s founder Vani Kola said this gap reflects market inefficiency, not merely diversity concerns."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/dario-amodei-says-anthropic-punished-for-not-offering-trump-dictator-style-praise/articleshow/129074495.cms",
+        "title": "Dario Amodei says Anthropic punished for not offering Trump dictator-style praise",
+        "link": "https://economictimes.indiatimes.com/tech/technology/dario-amodei-says-anthropic-punished-for-not-offering-trump-dictator-style-praise/articleshow/129074495.cms",
+        "published": "Thu, 05 Mar 2026 12:22:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tensions between Anthropic and OpenAI seem to be escalating over Pentagon AI deals. CEO Dario Amodei criticised OpenAI for \u201csafety theatre\u201d and \u201cstraight up lies,\u201d contrasting their ethical stance with OpenAI\u2019s willingness to give \u201cdictator-style\u201d praise  to Donald Trump. He pointed out that even the public favours Anthropic, referring to Claude topping the App Store."
+    },
+    {
+        "id": "https://yourstory.com/2026/02/tier2-startup-cities-india-goldmine",
+        "title": "How tier 2 cities are powering India\u2019s next startups",
+        "link": "https://yourstory.com/2026/02/tier2-startup-cities-india-goldmine",
+        "published": "Thu, 05 Mar 2026 07:17:50 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "India\u2019s startup ecosystem is shifting beyond metros as founders build companies in tier 2 cities, driven by lower costs, new markets, and rising talent."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/transforming-early-learning-in-india-captain-fresh-frime",
+        "title": "Transforming early learning in India; Captain Fresh acquires Frime",
+        "link": "https://yourstory.com/2026/03/transforming-early-learning-in-india-captain-fresh-frime",
+        "published": "Thu, 05 Mar 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Merlia Shaukath, raised in Chennai and educated in London and Oxford, founded the Madhi Foundation in 2016 to improve primary education in India. Bengaluru-based Captain Fresh has acquired Spain\u2019s sustainable tuna processor Frime, expanding its portfolio and European reach."
+    },
+    {
+        "id": "https://inc42.com/buzz/phonepe-eyes-10-5-bn-valuation-for-ipo-next-month-report/",
+        "title": "PhonePe Eyes $10.5 Bn Valuation For IPO Next Month: Report",
+        "link": "https://inc42.com/buzz/phonepe-eyes-10-5-bn-valuation-for-ipo-next-month-report/",
+        "published": "Thu, 05 Mar 2026 06:42:37 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"PhonePe Eyes $10.5 Bn Valuation For IPO Next Month: Report\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/01/PhonePes-Payments-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Fintech major PhonePe is planning to open its IPO by next month, contingent on how the currently tense geopolitical situation&#8230;"
     }
 ]
