@@ -134366,5 +134366,101 @@
         "published": "Thu, 05 Mar 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Analysts are divided in their opinion over the long-term viability of IT services firms, after Anthropic released artificial intelligence software plugins that will allow companies to automate several tasks, including in finance, research and human resources. While some forecast revenue impact and earnings downgrades, others maintain that AI would expand the market for service providers."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+        "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+        "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+        "published": "Thu, 05 Mar 2026 01:08:28 +0000",
+        "source": "TechCrunch",
+        "summary": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last \u2014 but his explanation may not tell the whole story."
+    },
+    {
+        "id": "https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats",
+        "title": "Did Live Nation punish a venue by taking Billie Eilish away?",
+        "link": "https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats",
+        "published": "2026-03-04T21:21:41-05:00",
+        "source": "The Verge",
+        "summary": "John Abbamondi had orders to let the CEO of Ticketmaster down easy. In April 2021, Abbamondi was the CEO of BSE Global, the company that ran Brooklyn arena the Barclays Center. BSE Global's existing Ticketmaster contract would expire at the end of September, and Abbamondi and his team had evaluated proposals from SeatGeek, AXS, and [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran",
+        "title": "A new video from the White House mixes Call of Duty footage with actual video of Iran strikes",
+        "link": "https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran",
+        "published": "2026-03-04T20:09:54-05:00",
+        "source": "The Verge",
+        "summary": "On Wednesday, the White House posted a video of actual military strikes on Iran in the style usually seen in Call of Duty highlight videos, and started the video with a clip from Call of Duty. The real-life footage of missiles and other munitions hitting targets in Iran shows clips seen in other Trump administration [&#8230;]"
+    },
+    {
+        "id": "https://github.com/googleworkspace/cli",
+        "title": "Google Workspace CLI",
+        "link": "https://github.com/googleworkspace/cli",
+        "published": "Thu, 05 Mar 2026 00:22:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47255881\">Comments</a>"
+    },
+    {
+        "id": "https://www.bbc.com/news/articles/c0q33nvj0qpo",
+        "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
+        "link": "https://www.bbc.com/news/articles/c0q33nvj0qpo",
+        "published": "Thu, 05 Mar 2026 03:08:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47257020\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/bluetooth-special-interest-group-lossless-spatial-audio-development/",
+        "title": "Bluetooth is working on wireless audio tech I once thought was impossible - what to know",
+        "link": "https://www.zdnet.com/article/bluetooth-special-interest-group-lossless-spatial-audio-development/",
+        "published": "Thu, 05 Mar 2026 02:00:33 GMT",
+        "source": "Latest news",
+        "summary": "The Bluetooth Special Interest Group says it's working on standard protocols for lossless and spatial audio."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-clean-up-your-digital-footprint/",
+        "title": "How to clean up your digital footprint - and why it matters more than you think",
+        "link": "https://www.zdnet.com/article/how-to-clean-up-your-digital-footprint/",
+        "published": "Thu, 05 Mar 2026 02:00:18 GMT",
+        "source": "Latest news",
+        "summary": "When someone Googles you, what will they find? Don't let embarrassing old social media posts define your online presence. Learn how to control the narrative."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-says-it-is-the-world-leader-in-rd-for-ai-vows-to-boost-tech-self-reliance/articleshow/129066431.cms",
+        "title": "China says it is the world leader in R&amp;D for AI, vows to boost tech self-reliance",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-says-it-is-the-world-leader-in-rd-for-ai-vows-to-boost-tech-self-reliance/articleshow/129066431.cms",
+        "published": "Thu, 05 Mar 2026 09:20:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "China declared on Thursday that it was now the world leader in research and development for artificial intelligence as well as other key fields such as quantum technology, and vowed to accelerate efforts to achieve greater tech self-reliance."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-to-open-german-centre-for-ai-development/articleshow/129066249.cms",
+        "title": "Google to open German centre for AI development",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-to-open-german-centre-for-ai-development/articleshow/129066249.cms",
+        "published": "Thu, 05 Mar 2026 09:17:17 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Google will open an AI centre in Berlin on Thursday, the latest sign of Europe's deepening reliance on US firms in cutting edge technologies despite the continent's stated aim to catch up with its rivals. The firm said at the time it would renovate its Berlin office to add three floors equipped with meeting rooms, a new conference room and a demo space but made no mention of an AI centre in the capital."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/china-touts-high-tech-push-as-rivalry-with-us-intensifies/articleshow/129066343.cms",
+        "title": "China touts high-tech push as rivalry with US intensifies",
+        "link": "https://economictimes.indiatimes.com/tech/technology/china-touts-high-tech-push-as-rivalry-with-us-intensifies/articleshow/129066343.cms",
+        "published": "Thu, 05 Mar 2026 09:16:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Beijing \u200cset its economic growth target \u2060for 2026 \u2060at 4.5%-5%, a slight downgrade from the 5% pace achieved last year, which leaves room for greater, albeit not decisive, efforts to curb industrial overcapacity and rebalance the economy. China's 15th five-year plan, as widely expected, pledged investments \u200bin innovation and industrial upgrading, as well as a \"notable\" - but unspecified - increase in household consumption as a share of economic output."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-sees-over-100-billion-in-ai-chip-sales-by-2027-on-robust-custom-chip-demand/articleshow/129066099.cms",
+        "title": "Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-sees-over-100-billion-in-ai-chip-sales-by-2027-on-robust-custom-chip-demand/articleshow/129066099.cms",
+        "published": "Thu, 05 Mar 2026 09:12:46 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Big Tech firms such as Alphabet, Microsoft , Amazon and Meta are expected to spend at least $630 \u200cbillion to build \u2060AI infrastructure \u2060this year, boosting demand for chips, servers, storage and networking equipment from companies like Broadcom."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-tops-25-billion-in-annualised-revenue-last-month-the-information-reports/articleshow/129066008.cms",
+        "title": "OpenAI tops $25 billion in annualised revenue last month, The Information reports",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-tops-25-billion-in-annualised-revenue-last-month-the-information-reports/articleshow/129066008.cms",
+        "published": "Thu, 05 Mar 2026 09:10:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\u200bOpenAI topped $25 \u200bbillion in annualised revenue \u200cas \u2060of \u2060the \u200bend of \u200blast month, \u200bThe \u2060Information reported on \u200cWednesday, \u200bciting \u200ba \u2060person familiar \u200bwith the \u200bfigure."
     }
 ]
