@@ -135366,5 +135366,253 @@
         "published": "Thu, 05 Mar 2026 13:24:38 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The proposed IPO comprises a fresh issue of equity shares worth Rs 1,500 crore and an offer for sale of up to 13.6 crore equity shares."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+        "title": "Cursor is rolling out a new kind of agentic coding tool",
+        "link": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+        "published": "Thu, 05 Mar 2026 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+        "title": "Meta sued over AI smart glasses\u2019 privacy concerns, after workers reviewed nudity, sex, and other footage",
+        "link": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+        "published": "Thu, 05 Mar 2026 16:50:20 +0000",
+        "source": "TechCrunch",
+        "summary": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+        "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+        "link": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+        "published": "Thu, 05 Mar 2026 16:45:51 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/05/oura-acquires-doublepoint-a-startup-that-specializes-in-gesture-recognition-technology/",
+        "title": "Oura acquires Doublepoint, a startup that specializes in gesture recognition technology",
+        "link": "https://techcrunch.com/2026/03/05/oura-acquires-doublepoint-a-startup-that-specializes-in-gesture-recognition-technology/",
+        "published": "Thu, 05 Mar 2026 16:41:50 +0000",
+        "source": "TechCrunch",
+        "summary": "The company believes its next phase of wearable AI will be powered by a combination of voice and gesture."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
+        "title": "Netflix buys Ben Affleck\u2019s AI filmmaking company InterPositive",
+        "link": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
+        "published": "Thu, 05 Mar 2026 16:19:57 +0000",
+        "source": "TechCrunch",
+        "summary": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production."
+    },
+    {
+        "id": "https://www.theverge.com/games/889954/roblox-ai-real-time-chat-rephrasing",
+        "title": "Roblox is censoring chats with AI",
+        "link": "https://www.theverge.com/games/889954/roblox-ai-real-time-chat-rephrasing",
+        "published": "2026-03-05T11:58:53-05:00",
+        "source": "The Verge",
+        "summary": "Roblox is using AI to alter the content of chat messages on its platform in real time using a new feature rolling out today. Real-time chat rephrasing goes beyond the current filtering for banned language, which replaces certain words and phrases with \"#\" symbols. Now, Roblox says those words and phrases can be \"translated into [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
+        "title": "Meta\u2019s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
+        "link": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
+        "published": "2026-03-05T11:37:52-05:00",
+        "source": "The Verge",
+        "summary": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and G&#246;teborgs-Posten. The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/column/889879/osmo-is-trying-to-crack-ar-edutainment-again",
+        "title": "Osmo is trying to crack AR edutainment (again)",
+        "link": "https://www.theverge.com/column/889879/osmo-is-trying-to-crack-ar-edutainment-again",
+        "published": "2026-03-05T11:30:00-05:00",
+        "source": "The Verge",
+        "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. I still remember the first time I tried the kids edutainment system Osmo back in 2014: I was sitting in front of an iPad, placed vertically on a white iPad [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/889878/ikea-bluetooth-speaker-kallsup-now-available-price",
+        "title": "You can now fill your home with Ikea\u2019s cheap and tiny new Bluetooth speaker",
+        "link": "https://www.theverge.com/tech/889878/ikea-bluetooth-speaker-kallsup-now-available-price",
+        "published": "2026-03-05T10:46:40-05:00",
+        "source": "The Verge",
+        "summary": "Alongside smart Lego bricks and lots of robots, one of the most anticipated gadgets announced at CES 2026 was a cheap Bluetooth speaker from the company best known for flat-packed furniture. Ikea is no stranger to electronics, but after ending its partnership with Sonos last year, its approach to Bluetooth speakers has been a focus [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/bytedance-apps-are-no-longer-available-in-us-app-stores/",
+        "title": "Apple Blocks US Users From Downloading ByteDance\u2019s Chinese Apps",
+        "link": "https://www.wired.com/story/bytedance-apps-are-no-longer-available-in-us-app-stores/",
+        "published": "Thu, 05 Mar 2026 17:03:59 +0000",
+        "source": "WIRED",
+        "summary": "In January, after TikTok announced a deal to transfer its US operations, Apple began blocking people in the US from downloading or updating ByteDance apps designed for the Chinese market."
+    },
+    {
+        "id": "https://www.wired.com/story/the-bargain-basement-macbook-neo-exposes-the-insane-price-of-another-key-apple-product/",
+        "title": "The Bargain-Basement MacBook Neo Exposes the Insane Price of Another Key Apple Product",
+        "link": "https://www.wired.com/story/the-bargain-basement-macbook-neo-exposes-the-insane-price-of-another-key-apple-product/",
+        "published": "Thu, 05 Mar 2026 17:00:16 +0000",
+        "source": "WIRED",
+        "summary": "Can it really be the case that the company can now make a laptop $200 cheaper than a watch?"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/the-national-videogame-museum-has-acquired-the-mythical-nintendo-playstation-173529085.html?src=rss",
+        "title": "The National Videogame Museum has acquired the mythical Nintendo Playstation",
+        "link": "https://www.engadget.com/gaming/the-national-videogame-museum-has-acquired-the-mythical-nintendo-playstation-173529085.html?src=rss",
+        "published": "Thu, 05 Mar 2026 17:35:29 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>It might sound like the stuff of daydreams now, but once upon a time it was briefly the very real intention of Sony and Nintendo to collaborate on a console. Nicknamed the Nintendo PlayStation, the idea was that a new CD-ROM format backed by Sony would be added to the cartridge-based Super NES, resulting in a hybrid console that could play both.</p>\n<p>The partnership didn\u2019t last long, though, with Nintendo backing out before it ever really got off the ground, announcing that it would instead"
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/google-begins-calling-out-battery-killing-android-apps-170650936.html?src=rss",
+        "title": "Google begins calling out battery-killing Android apps",
+        "link": "https://www.engadget.com/mobile/smartphones/google-begins-calling-out-battery-killing-android-apps-170650936.html?src=rss",
+        "published": "Thu, 05 Mar 2026 17:06:50 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google is living up to its word and posting warning labels for battery-killing apps. <em>9to5Google</em> <a class=\"link\" href=\"https://9to5google.com/2026/03/05/google-starts-calling-out-android-apps-that-drain-your-battery-before-you-download-them/\" target=\"_blank\">spotted</a> Google's rollout announcement, which the company previously <a class=\"link\" href=\"https://www.engadget.com/apps/google-is-clamping-down-on-android-apps-that-cause-excessive-battery-drain-194008031.html\" target=\"_blank\""
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/google-pledges-roughly-three-hours-of-its-annual-profit-to-fight-climate-change-164808010.html?src=rss",
+        "title": "Google pledges roughly three hours of its annual profit to fight climate change",
+        "link": "https://www.engadget.com/big-tech/google-pledges-roughly-three-hours-of-its-annual-profit-to-fight-climate-change-164808010.html?src=rss",
+        "published": "Thu, 05 Mar 2026 16:48:08 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google <a href=\"https://blog.google/company-news/outreach-and-initiatives/sustainability/pledge-to-fight-superpollutants-2030/\"><ins>has pledged</ins></a> &quot;at least&quot; $50 million through 2030 on &quot;projects designed to eliminate superpollutants.&quot; The company will be joined by a handful of other companies including Amazon and Salesforce in the newly formed <a href=\"https://www.prnewswire.com/in/news-releases/beyond-alliance-leading-companies-will-direct-100m-to-cut-superpollut"
+    },
+    {
+        "id": "https://www.engadget.com/ai/canadian-government-says-openai-will-take-further-steps-to-strengthen-safety-protocols-164151618.html?src=rss",
+        "title": "Canadian government says OpenAI will take further steps to strengthen safety protocols",
+        "link": "https://www.engadget.com/ai/canadian-government-says-openai-will-take-further-steps-to-strengthen-safety-protocols-164151618.html?src=rss",
+        "published": "Thu, 05 Mar 2026 16:41:51 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The Canadian government says that OpenAI CEO Sam Altman has agreed to take steps to immediately strengthen safety protocols, <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=2f007401-3eaa-4237-b69b-54ccbe125502&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=2fbc5adf-89ce-4b6e-bb3b-219ea7abb125&amp;featureId=text-link&amp;merchantName=The+Wall+Street+Journal&amp;linkText=according+to+a+report+by+Wall+Street+Journal&amp;custData=eyJzb3VyY2VOYW1lIjoiV"
+    },
+    {
+        "id": "https://www.engadget.com/wearables/oura-buys-gesture-navigation-startup-doublepoint-163758659.html?src=rss",
+        "title": "Oura buys gesture-navigation startup DoublePoint",
+        "link": "https://www.engadget.com/wearables/oura-buys-gesture-navigation-startup-doublepoint-163758659.html?src=rss",
+        "published": "Thu, 05 Mar 2026 16:37:58 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Smart ring maker <a href=\"https://www.engadget.com/wearables/ouras-new-app-brings-enhanced-health-insights-and-longer-fertility-window-predictions-171329174.html\">Oura</a> has acquired Doublepoint, a company that specializes in gesture recognition for wearables. The Finnish startup uses smartwatches and wristbands as examples of products that benefit from its technology, but Oura will clearly be looking to incorporate it into its rings, in theory allowing you to control your connected devices"
+    },
+    {
+        "id": "https://www.wikimediastatus.net",
+        "title": "Wikipedia in read-only mode following mass admin account compromise",
+        "link": "https://www.wikimediastatus.net",
+        "published": "Thu, 05 Mar 2026 16:04:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47263323\">Comments</a>"
+    },
+    {
+        "id": "https://jido.run/blog/jido-2-0-is-here",
+        "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+        "link": "https://jido.run/blog/jido-2-0-is-here",
+        "published": "Thu, 05 Mar 2026 15:48:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47263036\">Comments</a>"
+    },
+    {
+        "id": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+        "title": "Good software knows when to stop",
+        "link": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+        "published": "Thu, 05 Mar 2026 13:52:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47261561\">Comments</a>"
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=47264741",
+        "title": "Launch HN: Vela (YC W26) \u2013 AI for complex scheduling",
+        "link": "https://news.ycombinator.com/item?id=47264741",
+        "published": "Thu, 05 Mar 2026 17:43:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47264741\">Comments</a>"
+    },
+    {
+        "id": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+        "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+        "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+        "published": "Thu, 05 Mar 2026 16:22:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47263595\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/tax-scam-irs/",
+        "title": "The average tax scam victim loses $1,020 - and they're younger than you'd think",
+        "link": "https://www.zdnet.com/article/tax-scam-irs/",
+        "published": "Thu, 05 Mar 2026 17:45:19 GMT",
+        "source": "Latest news",
+        "summary": "Even savvy people can be victims of tax scams. Here are five ways to protect yourself before it's too late."
+    },
+    {
+        "id": "https://www.zdnet.com/article/roku-free-tv-search-button/",
+        "title": "How Roku's new button totally changes the way you watch free, live TV",
+        "link": "https://www.zdnet.com/article/roku-free-tv-search-button/",
+        "published": "Thu, 05 Mar 2026 17:18:46 GMT",
+        "source": "Latest news",
+        "summary": "It's now easier than ever to find something specific on Roku's free TV channels."
+    },
+    {
+        "id": "https://www.zdnet.com/article/verizon-iphone-17e-deal/",
+        "title": "Verizon will give you the new iPhone 17e for free - no trade-in required",
+        "link": "https://www.zdnet.com/article/verizon-iphone-17e-deal/",
+        "published": "Thu, 05 Mar 2026 15:47:21 GMT",
+        "source": "Latest news",
+        "summary": "Right now at Verizon, new and current customers can get the new iPhone 17e for free when you switch or add a new line to any Unlimited mobile plan. Here's what to know."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/openais-sam-altman-takes-swipe-at-anthropic-amid-tensions-over-trump-ties/articleshow/129104526.cms",
+        "title": "OpenAI\u2019s Sam Altman takes swipe at Anthropic amid tensions over Trump ties",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openais-sam-altman-takes-swipe-at-anthropic-amid-tensions-over-trump-ties/articleshow/129104526.cms",
+        "published": "Thu, 05 Mar 2026 22:54:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Speaking at the Morgan Stanley Technology, Media &amp; Telecom Conference, Altman said governments should ultimately hold more authority than private companies and warned against corporate decisions that undermine democratic processes."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-opens-whatsapp-business-api-to-ai-chatbots-in-europe-amid-eu-antitrust-scrutiny/articleshow/129104169.cms",
+        "title": "Meta opens WhatsApp Business API to AI chatbots in Europe amid EU antitrust scrutiny",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-opens-whatsapp-business-api-to-ai-chatbots-in-europe-amid-eu-antitrust-scrutiny/articleshow/129104169.cms",
+        "published": "Thu, 05 Mar 2026 22:38:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The move comes after the European Commission last month told Meta it was considering temporary measures to prevent the company from enforcing a policy blocking third-party AI chatbot providers from operating through the WhatsApp Business API. Meta\u2019s policy, which came into effect on January 15, drew complaints from several AI assistant providers who said blocking access to the API disrupted their businesses and raised competition concerns."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/mks-instruments-opens-vacuum-photonics-engineering-labs-at-bengaluru-gcc/articleshow/129102958.cms",
+        "title": "MKS Instruments opens vacuum, photonics engineering labs at Bengaluru GCC",
+        "link": "https://economictimes.indiatimes.com/tech/technology/mks-instruments-opens-vacuum-photonics-engineering-labs-at-bengaluru-gcc/articleshow/129102958.cms",
+        "published": "Thu, 05 Mar 2026 22:15:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The new labs will support product development and testing across semiconductor and optical technologies. The move will strengthen the company\u2019s engineering capabilities from its Bengaluru GCC."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-launches-ai-enabled-platform-to-automate-healthcare-administrative-tasks/articleshow/129102576.cms",
+        "title": "Amazon launches AI-enabled platform to automate healthcare administrative tasks",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-launches-ai-enabled-platform-to-automate-healthcare-administrative-tasks/articleshow/129102576.cms",
+        "published": "Thu, 05 Mar 2026 22:09:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Amazon's cloud unit, AWS, said \u200bon Thursday it \u200bhad launched an artificial intelligence-enabled platform that \u200baims to ease access to care for patients and cut administrative work for healthcare providers."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/netflix-acquires-ben-afflecks-ai-film-tech-firm/articleshow/129102445.cms",
+        "title": "Netflix acquires Ben Affleck's AI film-tech firm",
+        "link": "https://economictimes.indiatimes.com/tech/technology/netflix-acquires-ben-afflecks-ai-film-tech-firm/articleshow/129102445.cms",
+        "published": "Thu, 05 Mar 2026 22:05:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Netflix said on Thursday it has acquired \u200bInterPositive, a filmmaking technology company \u200bfounded by Academy Award winner Ben Affleck that \u200bproduces artificial intelligence-powered tools for movie production."
+    },
+    {
+        "id": "https://inc42.com/buzz/fractal-q3-profit-jumps-9-yoy-to-%e2%82%b9100-cr/",
+        "title": "Fractal Q3: Profit Jumps 9% YoY To \u20b9100 Cr",
+        "link": "https://inc42.com/buzz/fractal-q3-profit-jumps-9-yoy-to-%e2%82%b9100-cr/",
+        "published": "Thu, 05 Mar 2026 17:50:40 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Fractal-H1-FY26.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />In its first financial disclosure post listing, AI and advanced analytics startup Fractal reported a 8.5% jump in net profits&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/exclusive-streetwear-brand-bonkers-corner-to-raise-12-15-mn-to-deepen-offline-push/",
+        "title": "Exclusive: Streetwear Brand Bonkers Corner To Raise $12-15 Mn To Deepen Offline Push",
+        "link": "https://inc42.com/buzz/exclusive-streetwear-brand-bonkers-corner-to-raise-12-15-mn-to-deepen-offline-push/",
+        "published": "Thu, 05 Mar 2026 16:31:56 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Exclusive : Streetwear Brand Bonkers Corner To Raise $12-15 Mn To Deepen Offline Push\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Bonkers-founders-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Omnichannel streetwear brand Bonkers Corner is in advanced discussions to raise $12-15 Mn in its ongoing Series A funding round,&#8230;"
     }
 ]
