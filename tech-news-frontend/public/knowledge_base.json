@@ -134254,5 +134254,117 @@
         "published": "Wed, 04 Mar 2026 21:11:15 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47253892\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+        "title": "Seven tech giants signed Trump\u2019s pledge to keep electricity costs from spiking around data centers",
+        "link": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+        "published": "2026-03-04T19:17:37-05:00",
+        "source": "The Verge",
+        "summary": "Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech companies and the Trump administration rush to build out a new generation of AI data centers. \"[Tech [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032",
+        "title": "Tim Sweeney signed away his right to criticize Google until 2032",
+        "link": "https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032",
+        "published": "2026-03-04T18:52:21-05:00",
+        "source": "The Verge",
+        "summary": "Epic CEO Tim Sweeney might be one of the most outspoken people in the history of the world. He fought two of the world's most valuable and powerful companies almost all the way to the US Supreme Court, insulting them again and again: \"crooked,\" \"deceitful,\" \"insanely sneaky,\" calling Android a \"fake open platform,\" calling both [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/",
+        "title": "TerraPower gets OK to start construction of its first nuclear plant",
+        "link": "https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/",
+        "published": "Wed, 04 Mar 2026 22:54:40 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Plant won't be done until 2030 at the earliest, and it still needs an operating license."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/space-command-chief-throws-cold-water-on-the-question-of-uaps-in-space/",
+        "title": "Space Command chief throws cold water on the question of UAPs in space",
+        "link": "https://arstechnica.com/space/2026/03/space-command-chief-throws-cold-water-on-the-question-of-uaps-in-space/",
+        "published": "Wed, 04 Mar 2026 22:32:27 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"I am not aware of anything that is extraterrestrial, other than comets and things like that.\""
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/",
+        "title": "Large genome model: Open source AI trained on trillions of bases",
+        "link": "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/",
+        "published": "Wed, 04 Mar 2026 22:14:54 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "System can identify genes, regulatory sequences, splice sites, and more."
+    },
+    {
+        "id": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
+        "title": "Humans 40k yrs ago developed a system of conventional signs",
+        "link": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
+        "published": "Wed, 04 Mar 2026 16:20:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47249744\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/iphone-17e-vs-iphone-17/",
+        "title": "iPhone 17e vs. iPhone 17: I compared the two models to decide which has the better value",
+        "link": "https://www.zdnet.com/article/iphone-17e-vs-iphone-17/",
+        "published": "Thu, 05 Mar 2026 01:01:05 GMT",
+        "source": "Latest news",
+        "summary": "Apple's new iPhone 17e is shaping up to be a great midrange device, but how does it stack up against the base iPhone 17?"
+    },
+    {
+        "id": "https://www.zdnet.com/article/tcl-x11l-review/",
+        "title": "TCL X11L review: One of the best out-of-the-box TVs that's entered our testing lab",
+        "link": "https://www.zdnet.com/article/tcl-x11l-review/",
+        "published": "Thu, 05 Mar 2026 01:00:46 GMT",
+        "source": "Latest news",
+        "summary": "With a new SDQ-Mini LED panel, TCL's X11L produces a picture on-par with some of the best OLED models from Sony and LG."
+    },
+    {
+        "id": "https://www.zdnet.com/article/bmx-solidsafe-air-qi2-power-bank-review/",
+        "title": "I tested the thinnest Qi2 power bank on the market - and it's thanks to semi solid-state batteries",
+        "link": "https://www.zdnet.com/article/bmx-solidsafe-air-qi2-power-bank-review/",
+        "published": "Thu, 05 Mar 2026 00:57:00 GMT",
+        "source": "Latest news",
+        "summary": "The BMX SolidSafe Air is a safe semi-solid-state battery clad in a polymer and titanium shell and just over 0.25 inches thick."
+    },
+    {
+        "id": "https://www.zdnet.com/article/macbook-neo-saved-me-windows-pc-college-student/",
+        "title": "I wish the $500 MacBook Neo saved me from my Windows PC nightmare in college",
+        "link": "https://www.zdnet.com/article/macbook-neo-saved-me-windows-pc-college-student/",
+        "published": "Thu, 05 Mar 2026 00:41:00 GMT",
+        "source": "Latest news",
+        "summary": "You may not be able to afford a $1,000 laptop while in college, but you can't afford to complete your degree on an old, beat-up one either. Trust me."
+    },
+    {
+        "id": "https://www.zdnet.com/article/optimum-fiber-internet-deal/",
+        "title": "Optimum's latest fiber internet deal costs only $25 a month - here's who can qualify",
+        "link": "https://www.zdnet.com/article/optimum-fiber-internet-deal/",
+        "published": "Thu, 05 Mar 2026 00:25:00 GMT",
+        "source": "Latest news",
+        "summary": "Optimum's new '$25 for 5' offer locks in broadband internet at an affordable price. Here are the details."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/with-a-little-nudge-from-rbi-banks-tap-ai-for-bigger-tasks/articleshow/129042645.cms",
+        "title": "With a little nudge from RBI, banks tap AI for bigger tasks",
+        "link": "https://economictimes.indiatimes.com/tech/technology/with-a-little-nudge-from-rbi-banks-tap-ai-for-bigger-tasks/articleshow/129042645.cms",
+        "published": "Thu, 05 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "While automation of call centres saw the first wave of AI adoption in the highly regulated sector, more applications are getting powered by this technology now. The remit of AI applications widened after the Reserve Bank of India (RBI) listed down broad guidelines in August in the Free-AI regulatory document, detailing the adoption of AI in banks\u2019 internal workflow."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/human-still-in-drivers-seat-ford-chief-ai-officer-franziska-bell/articleshow/129041644.cms",
+        "title": "Human still in driver's seat: Ford chief AI officer Franziska Bell",
+        "link": "https://economictimes.indiatimes.com/tech/technology/human-still-in-drivers-seat-ford-chief-ai-officer-franziska-bell/articleshow/129041644.cms",
+        "published": "Thu, 05 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The use cases span design, engineering, quality assurance, customer support, data management, and software development, and most of these cutting-edge advancements are being through teams in Chennai and Bangalore."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/brokerages-split-on-future-of-it-as-ai-automates-nuts-and-bolts/articleshow/129039047.cms",
+        "title": "Brokerages split on future of IT as AI automates nuts and bolts",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/brokerages-split-on-future-of-it-as-ai-automates-nuts-and-bolts/articleshow/129039047.cms",
+        "published": "Thu, 05 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Analysts are divided in their opinion over the long-term viability of IT services firms, after Anthropic released artificial intelligence software plugins that will allow companies to automate several tasks, including in finance, research and human resources. While some forecast revenue impact and earnings downgrades, others maintain that AI would expand the market for service providers."
     }
 ]
