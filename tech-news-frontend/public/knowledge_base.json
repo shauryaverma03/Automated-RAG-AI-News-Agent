@@ -134462,5 +134462,45 @@
         "published": "Thu, 05 Mar 2026 09:10:27 +0530",
         "source": "Tech-Economic Times",
         "summary": "\u200bOpenAI topped $25 \u200bbillion in annualised revenue \u200cas \u2060of \u2060the \u200bend of \u200blast month, \u200bThe \u2060Information reported on \u200cWednesday, \u200bciting \u200ba \u2060person familiar \u200bwith the \u200bfigure."
+    },
+    {
+        "id": "https://poppy-connection-keeper.netlify.app/",
+        "title": "Show HN: Poppy \u2013 a simple app to stay intentional with relationships",
+        "link": "https://poppy-connection-keeper.netlify.app/",
+        "published": "Thu, 05 Mar 2026 03:56:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47257352\">Comments</a>"
+    },
+    {
+        "id": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+        "title": "What Python's asyncio primitives get wrong about shared state",
+        "link": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+        "published": "Thu, 05 Mar 2026 02:55:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47256923\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazon-layoffs-robotics-team-hit-in-latest-cuts/articleshow/129070612.cms",
+        "title": "Amazon layoffs: robotics team hit in latest cuts",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazon-layoffs-robotics-team-hit-in-latest-cuts/articleshow/129070612.cms",
+        "published": "Thu, 05 Mar 2026 10:54:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The division axed on Tuesday is responsible for \u200bdesigning robots and other conveyances for automation, primarily in warehouses. Starting \u200bwith a round of some 14,000 white-collar \u2060employees in October, Amazon has trimmed 30,000 corporate \u200bemployees, tying them to efficiency gains from \u200bartificial intelligence, as well as revising company culture."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-complicates-old-internet-privacy-risks/articleshow/129066733.cms",
+        "title": "AI complicates old internet privacy risks",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-complicates-old-internet-privacy-risks/articleshow/129066733.cms",
+        "published": "Thu, 05 Mar 2026 09:26:34 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Privacy concerns around generative AI are growing after cases involving Anthropic\u2019s Claude, OpenAI\u2019s ChatGPT and Ring. Experts say chatbot conversations stored on company servers may be accessible to employees, courts or authorities. As AI becomes common in daily tools, users are sharing far more personal information than before."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/south-korean-chip-industry-worried-iran-crisis-to-disrupt-raw-material-supply-boost-chip-prices/articleshow/129066580.cms",
+        "title": "South Korean chip industry worried Iran crisis to disrupt raw material supply, boost chip prices",
+        "link": "https://economictimes.indiatimes.com/tech/technology/south-korean-chip-industry-worried-iran-crisis-to-disrupt-raw-material-supply-boost-chip-prices/articleshow/129066580.cms",
+        "published": "Thu, 05 Mar 2026 09:25:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "South Korea's chip industry is concerned that a prolonged Iranian crisis will disrupt supplies of key materials from the Middle East and increase chip prices as a \u200cresult of \u2060a spike \u2060in energy costs, a ruling party lawmaker said on Thursday."
     }
 ]
