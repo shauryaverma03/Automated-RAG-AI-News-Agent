@@ -136006,5 +136006,77 @@
         "published": "Thu, 05 Mar 2026 20:40:09 GMT",
         "source": "Latest news",
         "summary": "The MacBook Neo and 13-inch Air seem similar on the surface, but there are differences if you look more closely. Here are the key reasons to buy one over the other."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+        "title": "AWS launches a new AI agent platform specifically for healthcare",
+        "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+        "published": "Thu, 05 Mar 2026 21:54:37 +0000",
+        "source": "TechCrunch",
+        "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/",
+        "title": "FBI investigating hack on its wiretap and surveillance systems: Report",
+        "link": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/",
+        "published": "Thu, 05 Mar 2026 21:33:24 +0000",
+        "source": "TechCrunch",
+        "summary": "Hackers allegedly broke into the FBI\u2019s networks, according to a report by CNN."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+        "title": "US\u00a0reportedly considering sweeping new chip export\u00a0controls",
+        "link": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+        "published": "Thu, 05 Mar 2026 21:24:50 +0000",
+        "source": "TechCrunch",
+        "summary": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from."
+    },
+    {
+        "id": "https://www.theverge.com/streaming/890312/roku-roklue-trivia-game",
+        "title": "Roku&#8217;s solution to streaming decision fatigue is a trivia game",
+        "link": "https://www.theverge.com/streaming/890312/roku-roklue-trivia-game",
+        "published": "2026-03-05T16:42:58-05:00",
+        "source": "The Verge",
+        "summary": "Roku users who struggle to figure out what they want to watch might have an answer in the form of \"Roklue,\" a new game coming to the streaming platform on March 7th. Announced on Thursday, Roklue is a pop culture trivia game that Roku says helps users discover new content and \"tests players on the [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+        "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+        "link": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+        "published": "Thu, 05 Mar 2026 22:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Sources allege the Defense Department experimented with Microsoft\u2019s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications."
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/coppa-20-passes-the-senate-again-unanimously-this-time-215044656.html?src=rss",
+        "title": "COPPA 2.0 passes the Senate again, unanimously this time",
+        "link": "https://www.engadget.com/big-tech/coppa-20-passes-the-senate-again-unanimously-this-time-215044656.html?src=rss",
+        "published": "Thu, 05 Mar 2026 21:50:44 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Today the US Senate unanimously passed proposed legislation known as COPPA 2.0. This measure, fully named the <a class=\"link\" href=\"https://www.congress.gov/bill/119th-congress/senate-bill/836/text\" target=\"_blank\">Children and Teens\u2019 Online Privacy Protection Act</a>, aims to create new protections for younger users online, such as blocking platforms from collecting their personal data without consent.&nbsp;</p><p>COPPA 2.0 is a modernized take on the Children\u2019s Online Privacy Protection Act"
+    },
+    {
+        "id": "https://www.zdnet.com/article/is-amazon-down/",
+        "title": "Is Amazon down? Why customers can't check out or add to cart - and Amazon's response",
+        "link": "https://www.zdnet.com/article/is-amazon-down/",
+        "published": "Thu, 05 Mar 2026 22:08:00 GMT",
+        "source": "Latest news",
+        "summary": "Reports indicate Amazon users are experiencing difficulties checking out and viewing product pages."
+    },
+    {
+        "id": "https://www.zdnet.com/article/disney-hulu-bundle-deal-5/",
+        "title": "Get Disney+ and Hulu bundled for just $5 a month right now - here's how",
+        "link": "https://www.zdnet.com/article/disney-hulu-bundle-deal-5/",
+        "published": "Thu, 05 Mar 2026 21:49:43 GMT",
+        "source": "Latest news",
+        "summary": "The price on a Hulu and Disney+ bundled just dropped from $13 to $5 a month for the first three months - the best price we've seen this year."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/siddharthnagar-mobile-repair-shop-small-business-story",
+        "title": "Siddharthnagar: A mobile repair shop built from persistence",
+        "link": "https://yourstory.com/2026/03/siddharthnagar-mobile-repair-shop-small-business-story",
+        "published": "Thu, 05 Mar 2026 09:42:33 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In Siddharthnagar, Jitendra turned mobile repair training into a small shop business, gradually building stability through local demand."
     }
 ]
