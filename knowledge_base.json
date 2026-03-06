@@ -137534,5 +137534,85 @@
         "published": "Fri, 06 Mar 2026 18:59:37 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/RBI-compensation-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Reserve Bank of India (RBI) yesterday released draft guidelines for a compensation scheme to protect consumers from digital fraud.\u00a0&#8230;"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/",
+        "title": "Bill Gates\u2019 TerraPower gets approval to build new nuclear reactor",
+        "link": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/",
+        "published": "Fri, 06 Mar 2026 19:47:40 +0000",
+        "source": "TechCrunch",
+        "summary": "It's the first permit to be issued by the Nuclear Regulatory Commission in nearly a decade."
+    },
+    {
+        "id": "https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues",
+        "title": "The Trump administration says it can\u2019t process tariff refunds because of computer problems",
+        "link": "https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues",
+        "published": "2026-03-06T15:17:08-05:00",
+        "source": "The Verge",
+        "summary": "The US Customs and Border Protection says it currently can't comply with an order to process billions of dollars in refunds stemming from tariffs imposed by President Donald Trump. In a filing on Friday, CBP executive director Brandon Lord says the agency's digital import processing system is \"not well suited to a task of this [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
+        "title": "The Future of Iran\u2019s Internet Is More Uncertain Than Ever",
+        "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
+        "published": "Fri, 06 Mar 2026 20:06:06 +0000",
+        "source": "WIRED",
+        "summary": "Iran\u2019s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
+        "title": "Google's new command line tool can plug OpenClaw into your Workspace data",
+        "link": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
+        "published": "Fri, 06 Mar 2026 19:56:20 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "This could make it easier to plug AI into Workspace APIs, but it's not yet an official Google product."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+        "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+        "link": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+        "published": "Fri, 06 Mar 2026 19:41:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The long, strange trip of a large assembly of advanced iOS exploits."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/nasas-dart-mission-shifted-the-orbits-of-two-asteroids/",
+        "title": "Asteroid defense mission shifted the orbit of more than its target",
+        "link": "https://arstechnica.com/science/2026/03/nasas-dart-mission-shifted-the-orbits-of-two-asteroids/",
+        "published": "Fri, 06 Mar 2026 19:00:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The binary asteroid's orbit around the Sun was affected by the impact."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/how-moss-helped-convict-grave-robbers-of-a-chicago-cemetery/",
+        "title": "How moss helped convict grave robbers of a Chicago cemetery",
+        "link": "https://arstechnica.com/science/2026/03/how-moss-helped-convict-grave-robbers-of-a-chicago-cemetery/",
+        "published": "Fri, 06 Mar 2026 18:33:34 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Burr Oak Cemetery is the final resting place of Emmett Till and blues singer Willie Dixon, among others."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+        "title": "Musk fails to block California data disclosure law he fears will ruin xAI",
+        "link": "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+        "published": "Fri, 06 Mar 2026 18:21:42 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Musk can't convince judge public doesn\u2019t care about where AI training data comes from."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+        "title": "Is the Pentagon allowed to surveil Americans with AI?",
+        "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+        "published": "Fri, 06 Mar 2026 19:21:22 +0000",
+        "source": "MIT Technology Review",
+        "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA\u2019s collection of bulk&#8230;"
+    },
+    {
+        "id": "https://www.anthropic.com/news/mozilla-firefox-security",
+        "title": "Hardening Firefox with Anthropic's Red Team",
+        "link": "https://www.anthropic.com/news/mozilla-firefox-security",
+        "published": "Fri, 06 Mar 2026 11:53:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47273854\">Comments</a>"
     }
 ]
