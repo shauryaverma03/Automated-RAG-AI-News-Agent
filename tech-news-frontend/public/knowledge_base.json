@@ -137614,5 +137614,45 @@
         "published": "Fri, 06 Mar 2026 11:53:18 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47273854\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/",
+        "title": "OSHA probing fatality at Rivian warehouse",
+        "link": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/",
+        "published": "Fri, 06 Mar 2026 20:23:08 +0000",
+        "source": "TechCrunch",
+        "summary": "A 61-year-old worker died on Thursday after reportedly getting stuck between a tractor trailer and a loading dock."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+        "title": "Grammarly is using our identities without permission",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+        "published": "2026-03-06T15:58:24-05:00",
+        "source": "The Verge",
+        "summary": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently-deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included comments [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy",
+        "title": "The best microSD Express card for the Switch 2 is the cheapest one you can find",
+        "link": "https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy",
+        "published": "2026-03-06T15:30:00-05:00",
+        "source": "The Verge",
+        "summary": "Unlike the original Switch, the Nintendo Switch 2 requires microSD Express cards for storing and playing games. While physically identical to microSD cards (aside from a small, easy-to-miss \u201cEX\u201d emblem etched onto the front of the card, as highlighted in the main image above), microSD Express cards are significantly faster. They advertise a 4.4x increase [&#8230;]"
+    },
+    {
+        "id": "https://www.adaic.org/ada-resources/standards/ada22/",
+        "title": "Ada 2022",
+        "link": "https://www.adaic.org/ada-resources/standards/ada22/",
+        "published": "Fri, 06 Mar 2026 20:03:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47280352\">Comments</a>"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop",
+        "title": "Why it takes you and an elephant the same amount of time to poop",
+        "link": "https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop",
+        "published": "Fri, 06 Mar 2026 20:19:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47280550\">Comments</a>"
     }
 ]
