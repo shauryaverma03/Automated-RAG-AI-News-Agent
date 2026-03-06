@@ -137286,5 +137286,53 @@
         "published": "Fri, 06 Mar 2026 12:08:24 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Presenting the State\u2019s Budget on Friday, Karnataka Chief Minister Siddaramaiah  noted that the ban is being proposed with the objective of preventing the adverse effects of increasing mobile usage on children."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale",
+        "title": "You can already save up to $50 on the new M4 iPad Air",
+        "link": "https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale",
+        "published": "2026-03-06T12:03:09-05:00",
+        "source": "The Verge",
+        "summary": "In case you missed it, Apple announced a host of new devices this week, including both a new phone and a cheaper laptop. It also unveiled the M4-powered iPad Air, which is already receiving a preorder discount ahead of its March 11th debut. Right now, the 128GB / Wi-Fi model is available at Amazon, Best [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/03/climate-change-sucks-but-at-least-it-wont-kill-your-ev-battery/",
+        "title": "Climate change sucks, but at least it won't kill your EV battery",
+        "link": "https://arstechnica.com/cars/2026/03/climate-change-sucks-but-at-least-it-wont-kill-your-ev-battery/",
+        "published": "Fri, 06 Mar 2026 16:37:24 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Older EVs, but not newer ones, may lose up to 30 percent range in a warming world."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/apple-users-in-the-us-can-no-longer-download-bytedances-chinese-apps/",
+        "title": "Apple users in the US can no longer download ByteDance's Chinese apps",
+        "link": "https://arstechnica.com/tech-policy/2026/03/apple-users-in-the-us-can-no-longer-download-bytedances-chinese-apps/",
+        "published": "Fri, 06 Mar 2026 16:22:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Move comes in the wake of TikTok's transfer of US operations."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+        "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+        "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+        "published": "Fri, 06 Mar 2026 15:41:23 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Announcements this week were mostly business as usual, but Apple isn't immune."
+    },
+    {
+        "id": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
+        "title": "Analytic Fog Rendering with Volumetric Primitives (2025)",
+        "link": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
+        "published": "Thu, 05 Mar 2026 16:12:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47263441\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsoft-backs-anthropic-despite-us-supply-chain-risk-label/articleshow/129166774.cms",
+        "title": "Microsoft backs Anthropic despite US 'supply-chain risk' label",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-backs-anthropic-despite-us-supply-chain-risk-label/articleshow/129166774.cms",
+        "published": "Fri, 06 Mar 2026 22:13:05 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft said it will continue to deploy Anthropic\u2019s AI models in its products. The need for the confirmation comes after the AI major\u2019s dispute with the Pentagon on how its AI models could be used in defence settings."
     }
 ]
