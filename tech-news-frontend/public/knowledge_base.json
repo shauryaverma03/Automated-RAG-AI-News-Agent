@@ -137934,5 +137934,29 @@
         "published": "Sat, 07 Mar 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we feature art exhibition highlights from New Delhi\u2019s popular Palette Gallery."
+    },
+    {
+        "id": "https://github.com/golang/go/issues/62026",
+        "title": "UUID package coming to Go standard library",
+        "link": "https://github.com/golang/go/issues/62026",
+        "published": "Sat, 07 Mar 2026 02:03:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47283665\">Comments</a>"
+    },
+    {
+        "id": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
+        "title": "Can a wealthy family change the course of a deadly brain disease?",
+        "link": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
+        "published": "Sat, 07 Mar 2026 03:06:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47284061\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/from-rozana-to-cent-indian-startups-raised-98-mn-this-week/",
+        "title": "From Rozana To Cent \u2014 Indian Startups Raised $98 Mn This Week",
+        "link": "https://inc42.com/buzz/from-rozana-to-cent-indian-startups-raised-98-mn-this-week/",
+        "published": "Sat, 07 Mar 2026 03:30:12 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"From Rozana To Cent \u2014 Indian Startups Raised $98 Mn This Week\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Funding-Galore-Mar-06-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />While February saw an escalating push in the funding activity, the first week of March saw muted responses from the&#8230;"
     }
 ]
