@@ -137766,5 +137766,85 @@
         "published": "Fri, 06 Mar 2026 14:32:28 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Venture capital funding saw a steep fall in the the first week of March largely due to lesser number of deals."
+    },
+    {
+        "id": "https://www.wired.com/story/deveillance-spectre-i/",
+        "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won\u2019t Work",
+        "link": "https://www.wired.com/story/deveillance-spectre-i/",
+        "published": "Fri, 06 Mar 2026 23:45:14 +0000",
+        "source": "WIRED",
+        "summary": "Deveillance\u2019s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
+        "title": "Ding-dong! The Exploration Upper Stage is dead",
+        "link": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
+        "published": "Fri, 06 Mar 2026 23:40:35 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The Exploration Upper Stage did not in any way get NASA closer to landing on the Moon."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/satellite-firm-pauses-imagery-after-revealing-irans-attacks-on-us-bases/",
+        "title": "Satellite firm pauses imagery after revealing Iran's attacks on US bases",
+        "link": "https://arstechnica.com/space/2026/03/satellite-firm-pauses-imagery-after-revealing-irans-attacks-on-us-bases/",
+        "published": "Fri, 06 Mar 2026 22:49:48 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Planet wants to prevent \"adversarial actors\" from using images for \"Battle Damage Assessment\" purposes."
+    },
+    {
+        "id": "https://plasma-bigscreen.org",
+        "title": "Plasma Bigscreen \u2013 10-foot interface for KDE plasma",
+        "link": "https://plasma-bigscreen.org",
+        "published": "Fri, 06 Mar 2026 23:59:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47282736\">Comments</a>"
+    },
+    {
+        "id": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+        "title": "C# strings silently kill your SQL Server indexes in Dapper",
+        "link": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+        "published": "Fri, 06 Mar 2026 22:55:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47282230\">Comments</a>"
+    },
+    {
+        "id": "https://thelydianstone.com/volume-2",
+        "title": "Show HN: The Roman Industrial Revolution that could have been (Vol 2)",
+        "link": "https://thelydianstone.com/volume-2",
+        "published": "Fri, 06 Mar 2026 23:17:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47282390\">Comments</a>"
+    },
+    {
+        "id": "https://mathnotepad.com",
+        "title": "Math Notepad",
+        "link": "https://mathnotepad.com",
+        "published": "Mon, 02 Mar 2026 07:01:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47214708\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/under-16-kids-in-karnataka-may-be-forced-to-log-out-of-social-media/articleshow/129171473.cms",
+        "title": "Under-16 kids in Karnataka may be forced to log out of social media",
+        "link": "https://economictimes.indiatimes.com/tech/technology/under-16-kids-in-karnataka-may-be-forced-to-log-out-of-social-media/articleshow/129171473.cms",
+        "published": "Sat, 07 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Chief minister Siddaramaiah made the announcement in the assembly during his budget speech, citing prevention of the \u201cadverse effects of increasing mobile usage on children\u201d as the objective. He did not specify a date for the implementation of the ban, which legal experts said could face constitutional challenges and practical enforcement hurdles."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/hyderabad-stealing-a-march-over-bengaluru-in-gcc-race/articleshow/129169948.cms",
+        "title": "Hyderabad stealing a march over Bengaluru in GCC race",
+        "link": "https://economictimes.indiatimes.com/tech/technology/hyderabad-stealing-a-march-over-bengaluru-in-gcc-race/articleshow/129169948.cms",
+        "published": "Sat, 07 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Southern city finding favour with global investors amid strong infrastructure, top tech talent, affordability and conducive ecosystem."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-firm-fractal-expects-strong-growth-on-increased-ai-adoption/articleshow/129169554.cms",
+        "title": "AI firm Fractal expects strong growth on increased AI adoption",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-firm-fractal-expects-strong-growth-on-increased-ai-adoption/articleshow/129169554.cms",
+        "published": "Sat, 07 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The newly listed firm crossed Rs 100 crore in net profit for the first time in the December quarter, on the back of year-on-year 21% revenue growth to Rs 854.4 crore."
     }
 ]
