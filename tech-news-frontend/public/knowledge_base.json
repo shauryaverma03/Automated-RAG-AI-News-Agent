@@ -138798,5 +138798,21 @@
         "published": "Sun, 08 Mar 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Microsoft\u2019s Phi-4-15B is a compact AI model processing text and images efficiently, proving that smarter, smaller systems can drive big impact. Similarly, Priya Agarwal Hebbar highlights that empowering women in metals and mining is key to India\u2019s industrial innovation and economic growth."
+    },
+    {
+        "id": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+        "title": "From RGB to L*a*b* color space (2024)",
+        "link": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+        "published": "Wed, 04 Mar 2026 09:24:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47245061\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sarvam-open-sources-30b-105b-reasoning-models-heres-what-it-means/articleshow/129259463.cms",
+        "title": "Sarvam open-sources 30B, 105B reasoning models; here\u2019s what it means",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sarvam-open-sources-30b-105b-reasoning-models-heres-what-it-means/articleshow/129259463.cms",
+        "published": "Sun, 08 Mar 2026 13:32:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Open-sourcing a model allows researchers, developers, and companies to access and use the model\u2019s weights and architecture, enabling greater transparency and collaboration, while lowering the barrier to entry for building AI applications. It speeds up innovation by allowing developers and researchers to experiment with, improve, and build new tools and applications on top of the model."
     }
 ]
