@@ -138686,5 +138686,29 @@
         "published": "Sun, 08 Mar 2026 02:15:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this episode of the Prime Venture Partners Podcast, we sit down with Harini Rajagopalan and Mahesh Muraleedharan, founders of Basil, to unpack what it really takes to build a premium kids' essentials brand in India."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/",
+        "title": "Push for $40 smartphones builds momentum, but still faces cost hurdles",
+        "link": "https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/",
+        "published": "Sun, 08 Mar 2026 05:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "A coalition of telecom operators and device makers is pushing $40 smartphones to bring up to 20 million people online, but rising component costs threaten the plan."
+    },
+    {
+        "id": "https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong",
+        "title": "They all said Hormuz closure would be brief. What if they were wrong?",
+        "link": "https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong",
+        "published": "Sun, 08 Mar 2026 01:46:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47293482\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/astral-sh/uv/pull/17643",
+        "title": "\"Warn about PyPy being unmaintained\"",
+        "link": "https://github.com/astral-sh/uv/pull/17643",
+        "published": "Sun, 08 Mar 2026 01:35:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47293415\">Comments</a>"
     }
 ]
