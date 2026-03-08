@@ -138918,5 +138918,45 @@
         "published": "Sun, 08 Mar 2026 11:01:03 GMT",
         "source": "Latest news",
         "summary": "The latest version of the popular digital calendar is perfect for large families. Here's how I use it effectively."
+    },
+    {
+        "id": "https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby",
+        "title": "The cute and cursed story of Furby",
+        "link": "https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby",
+        "published": "2026-03-08T08:17:40-04:00",
+        "source": "The Verge",
+        "summary": "The hottest toy of 1998 was sort of adorable, and sort of annoying. It couldn't do much - couldn't do anything, really - but it could look at you, it could say some nonsense phrases, and it seemed uncannily aware of the world around it. That's all Furby needed to pretty much take over the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/column/890135/truth-hybrid-vehicles",
+        "title": "The uncomfortable truth about hybrid vehicles",
+        "link": "https://www.theverge.com/column/890135/truth-hybrid-vehicles",
+        "published": "2026-03-08T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the EV struggle, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Apologies to the Toyota Prius, but the first hybrid vehicle [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/",
+        "title": "How to Run Ethernet Cables to Your Router and Keep Them Tidy",
+        "link": "https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/",
+        "published": "Sun, 08 Mar 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Boosting internet speeds around your home is easy with Ethernet cables, and these tips will help you keep things neat."
+    },
+    {
+        "id": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+        "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+        "link": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+        "published": "Wed, 04 Mar 2026 13:39:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47247248\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/apple-airpods-pro-3-review/",
+        "title": "Apple AirPods Pro 3 review: I didn't think earbuds could pull off immersive ANC like this",
+        "link": "https://www.zdnet.com/article/apple-airpods-pro-3-review/",
+        "published": "Sun, 08 Mar 2026 12:00:47 GMT",
+        "source": "Latest news",
+        "summary": "After testing AirPods Pro 3 for months, one feature stood out above all the upgrades."
     }
 ]
