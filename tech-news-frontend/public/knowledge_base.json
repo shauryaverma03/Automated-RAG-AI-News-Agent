@@ -138814,5 +138814,37 @@
         "published": "Sun, 08 Mar 2026 13:32:51 +0530",
         "source": "Tech-Economic Times",
         "summary": "Open-sourcing a model allows researchers, developers, and companies to access and use the model\u2019s weights and architecture, enabling greater transparency and collaboration, while lowering the barrier to entry for building AI applications. It speeds up innovation by allowing developers and researchers to experiment with, improve, and build new tools and applications on top of the model."
+    },
+    {
+        "id": "https://www.wired.com/story/left-handed-people-are-more-competitive-says-science/",
+        "title": "Left-Handed People Are More Competitive, Says Science",
+        "link": "https://www.wired.com/story/left-handed-people-are-more-competitive-says-science/",
+        "published": "Sun, 08 Mar 2026 09:00:00 +0000",
+        "source": "WIRED",
+        "summary": "A recent study suggests that left-handed people have an advantage in competitive contexts, while righties tend to cooperate better."
+    },
+    {
+        "id": "https://arxiv.org/abs/2603.03823",
+        "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+        "link": "https://arxiv.org/abs/2603.03823",
+        "published": "Sun, 08 Mar 2026 08:11:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47295537\">Comments</a>"
+    },
+    {
+        "id": "https://curiosity-telescope.vercel.app/",
+        "title": "Show HN: Curiosity \u2013 DIY 6\" Newtonian Reflector Telescope",
+        "link": "https://curiosity-telescope.vercel.app/",
+        "published": "Sun, 08 Mar 2026 07:16:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47295279\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/03/mau-textile-products-powerloom-saree-production-odop",
+        "title": "Mau\u2019s textile products: Powerloom weaving and finishing that connect local units to distant markets",
+        "link": "https://yourstory.com/2026/03/mau-textile-products-powerloom-saree-production-odop",
+        "published": "Sun, 08 Mar 2026 08:50:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Explore how Mau\u2019s powerloom textile units weave, embroider and finish sarees through interconnected workshops supplying retailers and markets across India."
     }
 ]
