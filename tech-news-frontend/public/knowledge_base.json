@@ -139158,5 +139158,37 @@
         "published": "Sun, 08 Mar 2026 09:22:22 GMT",
         "source": "YourStory RSS Feed",
         "summary": "India\u2019s food delivery giants Swiggy, magicpin, and Zomato bounced back to stronger growth in the December quarter, powered by festive demand, affordability-led offerings, and expanding user bases\u2014especially in smaller cities."
+    },
+    {
+        "id": "https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next",
+        "title": "Apple is going high-end with new \u2018Ultra\u2019 products next",
+        "link": "https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next",
+        "published": "2026-03-08T13:51:15-04:00",
+        "source": "The Verge",
+        "summary": "Fresh off launching the low-cost MacBook Neo, Apple is reportedly preparing at least three new products that will fit into its highest-end \"ultra\" lineup. According to Bloomberg's Mark Gruman, the next batch of releases may not bear the \"ultra\" name, like its Watch, but will all command price premiums over their mainline counterparts. There's the [&#8230;]"
+    },
+    {
+        "id": "https://mlumiste.com/general/openai-charter/",
+        "title": "Based on its own charter, OpenAI should surrender the race",
+        "link": "https://mlumiste.com/general/openai-charter/",
+        "published": "Sun, 08 Mar 2026 17:16:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47299009\">Comments</a>"
+    },
+    {
+        "id": "https://bryananthonio.com/blog/my-homelab-setup/",
+        "title": "My Homelab Setup",
+        "link": "https://bryananthonio.com/blog/my-homelab-setup/",
+        "published": "Sun, 08 Mar 2026 16:46:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47298743\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/a-guide-to-the-pentagons-dance-with-anthropic-and-openai/articleshow/129281135.cms",
+        "title": "A guide to the Pentagon's dance with Anthropic and OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/a-guide-to-the-pentagons-dance-with-anthropic-and-openai/articleshow/129281135.cms",
+        "published": "Sun, 08 Mar 2026 22:34:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "If Anthropic did not allow the Pentagon to deploy these technologies for \"all lawful uses,\" Hegseth said, he would sever ties with the San Francisco startup."
     }
 ]
