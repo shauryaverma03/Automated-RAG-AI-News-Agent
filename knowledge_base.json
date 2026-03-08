@@ -139222,5 +139222,45 @@
         "published": "Sun, 08 Mar 2026 15:07:28 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47297919\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+        "title": "Will the Pentagon\u2019s Anthropic controversy scare startups away from defense work?",
+        "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+        "published": "Sun, 08 Mar 2026 20:14:42 +0000",
+        "source": "TechCrunch",
+        "summary": "On the latest episode of TechCrunch\u2019s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government."
+    },
+    {
+        "id": "https://campedersen.com/noid",
+        "title": "Neural Boids",
+        "link": "https://campedersen.com/noid",
+        "published": "Sun, 08 Mar 2026 20:14:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47300934\">Comments</a>"
+    },
+    {
+        "id": "https://agent-safehouse.dev/",
+        "title": "Agent Safehouse \u2013 macOS-native sandboxing for local agents",
+        "link": "https://agent-safehouse.dev/",
+        "published": "Sun, 08 Mar 2026 20:30:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47301085\">Comments</a>"
+    },
+    {
+        "id": "https://www.vspvision.com/newsroom/eye-health-and-wellness/vision-care/new-research-from-vsp-vision-care-and-workplace-intelligence-finds-desk-workers-spend-nearly-100-hours-a-week-on-screens",
+        "title": "71% Desk Workers Say Screen-Related Visual Discomfort Is Reducing Productivity",
+        "link": "https://www.vspvision.com/newsroom/eye-health-and-wellness/vision-care/new-research-from-vsp-vision-care-and-workplace-intelligence-finds-desk-workers-spend-nearly-100-hours-a-week-on-screens",
+        "published": "Sun, 08 Mar 2026 20:46:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47301275\">Comments</a>"
+    },
+    {
+        "id": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+        "title": "Pushing and Pulling: Three reactivity algorithms",
+        "link": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+        "published": "Sun, 08 Mar 2026 00:57:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47293195\">Comments</a>"
     }
 ]
