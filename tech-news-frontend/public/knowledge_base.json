@@ -140414,5 +140414,61 @@
         "published": "Mon, 09 Mar 2026 11:56:06 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Furniture workshops in Maharajganj craft custom beds, sofas, and tables, supported by skilled carpenters and the ODOP programme."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/",
+        "title": "Periwinkle is making self-hosted social media on Bluesky\u2019s AT Protocol even easier",
+        "link": "https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/",
+        "published": "Mon, 09 Mar 2026 18:18:25 +0000",
+        "source": "TechCrunch",
+        "summary": "Periwinkle offers managed hosting for AT Protocol users who want social media accounts on their own domains, with backups, storage, and migration tools."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+        "title": "OpenAI acquires Promptfoo to secure its AI agents",
+        "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+        "published": "Mon, 09 Mar 2026 17:49:04 +0000",
+        "source": "TechCrunch",
+        "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/samsung-promises-120-games-will-be-playable-via-its-glasses-free-3d-monitor-tech-by-the-end-of-the-year-180102470.html?src=rss",
+        "title": "Samsung promises 120 games will be playable via its glasses-free 3D monitor tech by the end of the year",
+        "link": "https://www.engadget.com/gaming/samsung-promises-120-games-will-be-playable-via-its-glasses-free-3d-monitor-tech-by-the-end-of-the-year-180102470.html?src=rss",
+        "published": "Mon, 09 Mar 2026 18:01:02 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Samsung just announced that <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=11e9113d-5fb2-45d3-93ba-bb7d9b9c0100&amp;featureId=text-link&amp;linkText=120+games+will+be+playable&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL25ld3Muc2Ftc3VuZy5jb20vdXMvc2Ftc3VuZy1zaG93Y2FzZXMtZ2xhc3Nlcy1mcmVlLTNkLWhkcjEwLWdhbWluZy1hY2NsYWltZWQtZ2FtZS10aXRsZXMtZ2RjLTIwMjYiLCJjb250ZW50VXVpZCI6I"
+    },
+    {
+        "id": "https://fixfest.therestartproject.org/",
+        "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+        "link": "https://fixfest.therestartproject.org/",
+        "published": "Mon, 09 Mar 2026 17:34:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47312329\">Comments</a>"
+    },
+    {
+        "id": "https://bellard.org/jslinux/",
+        "title": "JSLinux Now Supports x86_64",
+        "link": "https://bellard.org/jslinux/",
+        "published": "Mon, 09 Mar 2026 16:43:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47311484\">Comments</a>"
+    },
+    {
+        "id": "https://moglang.org",
+        "title": "Show HN: The Mog Programming Language",
+        "link": "https://moglang.org",
+        "published": "Mon, 09 Mar 2026 17:57:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47312728\">Comments</a>"
+    },
+    {
+        "id": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
+        "title": "DARPA's new X-76 Experimental Plane",
+        "link": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
+        "published": "Mon, 09 Mar 2026 16:54:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47311669\">Comments</a>"
     }
 ]
