@@ -140294,5 +140294,125 @@
         "published": "Mon, 09 Mar 2026 05:45:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Discover seven powerful workplace habits that boost visibility, build trust, and open doors to new career opportunities and long-term professional growth."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/",
+        "title": "GM figured out how to navigate EV uncertainty with the Chevy Bolt",
+        "link": "https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/",
+        "published": "Mon, 09 Mar 2026 17:29:58 +0000",
+        "source": "TechCrunch",
+        "summary": "The 2027 Chevy Bolt might not be a groundbreaking new EV, but incremental improvements have made it better without inflating the price."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale",
+        "title": "Google\u2019s latest Pixel Watches have fallen to their lowest prices ever",
+        "link": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale",
+        "published": "2026-03-09T12:45:58-04:00",
+        "source": "The Verge",
+        "summary": "With longer days and warmer weather on the way, it\u2019s a good time to take your gym routine outside. Luckily, Google\u2019s Pixel Watch 4 can help you track all your outdoor fitness activities, and right now it\u2019s on sale at Amazon, Best Buy, and Target starting at $289.99 ($60 off), a new low price. The [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/casabrews-5700-espresso-machine-java-base/",
+        "title": "Your Espresso Machine Doesn\u2019t Have to Be Fancy to Make Good Coffee",
+        "link": "https://www.wired.com/story/casabrews-5700-espresso-machine-java-base/",
+        "published": "Mon, 09 Mar 2026 17:16:50 +0000",
+        "source": "WIRED",
+        "summary": "A former barista explains why your espresso machine doesn't have to be fancy to make quality coffee."
+    },
+    {
+        "id": "https://www.wired.com/story/sony-wh-1000xm6-deal-326/",
+        "title": "Our Favorite Wireless Headphones Are $60 Off",
+        "link": "https://www.wired.com/story/sony-wh-1000xm6-deal-326/",
+        "published": "Mon, 09 Mar 2026 16:50:35 +0000",
+        "source": "WIRED",
+        "summary": "The Sony WH-1000XM6 get a noticeable markdown for a limited time."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/03/dont-worry-valve-still-plans-to-launch-the-steam-machine-this-year/",
+        "title": "Don't worry, Valve still plans to launch the Steam Machine \"this year\"",
+        "link": "https://arstechnica.com/gaming/2026/03/dont-worry-valve-still-plans-to-launch-the-steam-machine-this-year/",
+        "published": "Mon, 09 Mar 2026 16:31:12 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "What part of \"this year,\" exactly, is still anyone's guess."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/ea-laid-off-staffers-across-battlefield-studios-to-better-align-its-teams-173617672.html?src=rss",
+        "title": "EA laid off staffers across Battlefield studios to 'better align' its teams",
+        "link": "https://www.engadget.com/gaming/ea-laid-off-staffers-across-battlefield-studios-to-better-align-its-teams-173617672.html?src=rss",
+        "published": "Mon, 09 Mar 2026 17:36:17 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>EA axed an undisclosed number of employees across the game studios behind the Battlefield franchise. As first reported by <a class=\"no-affiliate-link\" href=\"https://www.ign.com/articles/ea-lays-off-staff-across-all-battlefield-studios-following-record-breaking-battlefield-6-launch\"><em>IGN</em></a>, EA told affected employees that the layoffs were part of a \"realignment\" across the Battlefield studios, which include Dice, Criterion, Ripple Effect and Motive Studios. When asked about the repor"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/hyper-light-drifter-studio-workers-form-union-after-rounds-of-layoffs-165828565.html?src=rss",
+        "title": "Hyper Light Drifter studio workers form union after rounds of layoffs",
+        "link": "https://www.engadget.com/gaming/hyper-light-drifter-studio-workers-form-union-after-rounds-of-layoffs-165828565.html?src=rss",
+        "published": "Mon, 09 Mar 2026 16:58:28 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Workers at Heart Machine, the independent studio behind <em>Hyper Light Drifter</em> and <em>Solar Ash</em>, have <a href=\"https://cwa-union.org/news/releases/video-game-developers-heart-machine-secure-voluntary-union-recognition-cwa\"><ins>formed a union</ins></a> with Communications Workers of America (CWA) Local 9003. The wall-to-wall unit covers all <a href=\"https://www.gamedeveloper.com/business/-if-we-love-this-work-we-have-to-protect-it-heart-machine-workers-secure-voluntary-union-recog"
+    },
+    {
+        "id": "https://felixturner.github.io/hex-map-wfc/article/",
+        "title": "Building a Procedural Hex Map with Wave Function Collapse",
+        "link": "https://felixturner.github.io/hex-map-wfc/article/",
+        "published": "Mon, 09 Mar 2026 17:02:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47311815\">Comments</a>"
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=47311657",
+        "title": "Launch HN: Terminal Use (YC W26) \u2013 Vercel for filesystem-based agents",
+        "link": "https://news.ycombinator.com/item?id=47311657",
+        "published": "Mon, 09 Mar 2026 16:53:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47311657\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/save-money-on-youtube-tv-choose-from-12-cheaper-packages/",
+        "title": "How to save money on YouTube TV: Consider these 12 cheaper packages (including live sports)",
+        "link": "https://www.zdnet.com/article/save-money-on-youtube-tv-choose-from-12-cheaper-packages/",
+        "published": "Mon, 09 Mar 2026 16:52:26 GMT",
+        "source": "Latest news",
+        "summary": "The streaming service rolls out a dozen cheaper subscription plans - pick the one that fits your viewing habits."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/zoff-foods-raises-2-million-from-jm-financial-pe/articleshow/129346824.cms",
+        "title": "Zoff Foods raises $2 million from JM Financial PE",
+        "link": "https://economictimes.indiatimes.com/tech/funding/zoff-foods-raises-2-million-from-jm-financial-pe/articleshow/129346824.cms",
+        "published": "Mon, 09 Mar 2026 22:44:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "This is the second investment by JM Financial Private Equity in Asquare Foods and Beverages, which owns Zoff Foods. The private equity firm had invested Rs 40 crore in August 2024."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-partners-with-openais-rival-anthropic-what-is-copilot-cowork/articleshow/129345981.cms",
+        "title": "Microsoft partners with OpenAI\u2019s rival Anthropic: What is Copilot Cowork?",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-partners-with-openais-rival-anthropic-what-is-copilot-cowork/articleshow/129345981.cms",
+        "published": "Mon, 09 Mar 2026 22:26:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Rather than just generating responses, Copilot Cowork focusses on executing tasks assigned by the user across Microsoft 365 apps."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-9-2026",
+        "title": "Startup news and updates: Daily roundup (March 9, 2026)",
+        "link": "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-9-2026",
+        "published": "Mon, 09 Mar 2026 12:47:33 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, March 9, 2026.\n\n\n\nIt is apt that the momentum is sustained a day after International Women\u2019s Day on March 8 with more stories and YourStory brings you today\u2019s headlines with the la"
+    },
+    {
+        "id": "https://yourstory.com/2026/03/kaartech-raises-11m-in-series-b-round-led-by-playbook-partners",
+        "title": "KaarTech raises $11M in Series B round led by Playbook Partners",
+        "link": "https://yourstory.com/2026/03/kaartech-raises-11m-in-series-b-round-led-by-playbook-partners",
+        "published": "Mon, 09 Mar 2026 13:23:35 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The Chennai-headquartered technology services company plans to use the capital for strategic acquisitions and to expand market reach with its AI platforms."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/maharajganj-furniture-products-custom-workshops-odop",
+        "title": "Maharajganj\u2019s furniture products: Custom-built designs crafted through local workshops",
+        "link": "https://yourstory.com/2026/03/maharajganj-furniture-products-custom-workshops-odop",
+        "published": "Mon, 09 Mar 2026 11:56:06 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Furniture workshops in Maharajganj craft custom beds, sofas, and tables, supported by skilled carpenters and the ODOP programme."
     }
 ]
