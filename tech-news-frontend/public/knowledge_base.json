@@ -140710,5 +140710,29 @@
         "published": "Mon, 09 Mar 2026 20:32:45 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47315079\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+        "title": "The government shutdown is hitting airports \u2014 but not ICE",
+        "link": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+        "published": "2026-03-09T17:52:29-04:00",
+        "source": "The Verge",
+        "summary": "Chaos reigned at airports across the country last weekend, with thousands of travelers reportedly waiting in hours-long security lines thanks to staffing shortages. Transportation Security Administration (TSA) and Coast Guard workers have turned to food banks for assistance after weeks without pay. But amid a partial government shutdown aimed at curtailing the Department of Homeland [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/you-can-sort-of-block-grok-from-editing-your-uploaded-photos-215356117.html?src=rss",
+        "title": "You can (sort of) block Grok from editing your uploaded photos",
+        "link": "https://www.engadget.com/ai/you-can-sort-of-block-grok-from-editing-your-uploaded-photos-215356117.html?src=rss",
+        "published": "Mon, 09 Mar 2026 21:53:56 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>People can block the xAI's Grok chatbot from creating modifications of their uploaded images on social network X. Neither X or xAI, both Elon Musk-owned businesses, have made a public announcement about this feature, which users began <a class=\"link\" href=\"https://www.socialmediatoday.com/news/x-formerly-twitter-adds-option-to-restrict-grok-image-variations/814140/\" target=\"_blank\">noticing</a> on the iOS app within the image/video upload menu over the past few days.&nbsp;</p><p>This option i"
+    },
+    {
+        "id": "https://blog.engora.com/2026/03/rendezvous-with-rama.html",
+        "title": "Rendezvous with Rama",
+        "link": "https://blog.engora.com/2026/03/rendezvous-with-rama.html",
+        "published": "Mon, 09 Mar 2026 21:34:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47315869\">Comments</a>"
     }
 ]
