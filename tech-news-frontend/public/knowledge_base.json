@@ -139302,5 +139302,61 @@
         "published": "Sun, 08 Mar 2026 21:40:35 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47301808\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+        "title": "PCB devboard the size of a USB-C plug",
+        "link": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+        "published": "Sun, 08 Mar 2026 05:04:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47294582\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/playbook-partners-leads-a-11-million-round-in-enterprise-technology-firm-kaartech/articleshow/129284584.cms",
+        "title": "Playbook Partners leads a $11 million round in enterprise technology firm KaarTech",
+        "link": "https://economictimes.indiatimes.com/tech/funding/playbook-partners-leads-a-11-million-round-in-enterprise-technology-firm-kaartech/articleshow/129284584.cms",
+        "published": "Mon, 09 Mar 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Through this infusion, Playbook Partners joins existing investors like Mumbai-based A91 Partners, which currently owns around 30% in the firm. A91 Partners had invested $30 million into KaarTech in 2023. The round valued KaarTech at Rs 2,000 crore."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/aws-microsoft-azure-may-reroute-west-asia-data-centre-workload-to-india/articleshow/129286740.cms",
+        "title": "AWS, Microsoft Azure may reroute West Asia data centre workload to India",
+        "link": "https://economictimes.indiatimes.com/tech/technology/aws-microsoft-azure-may-reroute-west-asia-data-centre-workload-to-india/articleshow/129286740.cms",
+        "published": "Mon, 09 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "On March 2, two Amazon Web Services (AWS) data centres in the United Arab Emirates and one in Bahrain were struck by drones, hitting local banking apps, airport operations in Dubai and Kuwait, and the UAE stock market, which had to be closed due to tech outages."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-policy-changes-could-cut-h-1b-visa-applications-sharply-experts/articleshow/129285901.cms",
+        "title": "US policy changes could cut H-1B visa applications sharply: Experts",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-policy-changes-could-cut-h-1b-visa-applications-sharply-experts/articleshow/129285901.cms",
+        "published": "Mon, 09 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Say registrations may fall from 400k in FY25 to 250k-300k in FY26 amid higher fees, selection norms"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/t20-final-womens-day-drive-sales-for-qcomm-food-delivery-apps/articleshow/129284883.cms",
+        "title": "T20 final, Women\u2019s Day drive sales for quick commerce, food delivery apps",
+        "link": "https://economictimes.indiatimes.com/tech/technology/t20-final-womens-day-drive-sales-for-qcomm-food-delivery-apps/articleshow/129284883.cms",
+        "published": "Mon, 09 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Zomato started a three-day weekend offer for the match beginning on Friday, while Swiggy launched a 'Rs 75 cash back' offer and 'predict and win' games for Sunday. Quick commerce apps like Zepto, Amazon Now, Blinkit, Instamart, BigBasket and Flipkart Minutes ramped up with match corners featuring Team India jerseys, snacks, beverages, party essentials and more."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/easebuzz-in-hunt-for-rs-300-crore-valuation-may-cross-250-million/articleshow/129284364.cms",
+        "title": "Easebuzz in hunt for Rs 300 crore, valuation may cross $250 million",
+        "link": "https://economictimes.indiatimes.com/tech/startups/easebuzz-in-hunt-for-rs-300-crore-valuation-may-cross-250-million/articleshow/129284364.cms",
+        "published": "Mon, 09 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "This round comes within a year of the firm closing another Rs 250 crore fund infusion, which was led by Bessemer Venture Partners and some other investors."
+    },
+    {
+        "id": "https://inc42.com/features/travel-platforms-stranded-in-the-fog-of-war/",
+        "title": "Travel Platforms Stranded In The Fog Of War",
+        "link": "https://inc42.com/features/travel-platforms-stranded-in-the-fog-of-war/",
+        "published": "Mon, 09 Mar 2026 00:30:10 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Inc42-Markets-OTA-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Geopolitical tensions over the past year have increasingly become the new normal. From the Russia and Ukraine War to rising&#8230;"
     }
 ]
