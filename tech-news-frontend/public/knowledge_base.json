@@ -140782,5 +140782,61 @@
         "published": "Mon, 09 Mar 2026 22:55:09 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47316880\">Comments</a>"
+    },
+    {
+        "id": "https://scottaaronson.blog/?p=9615",
+        "title": "It looks like the \u201cJVG algorithm\u201d only wins on tiny numbers",
+        "link": "https://scottaaronson.blog/?p=9615",
+        "published": "Tue, 10 Mar 2026 00:35:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47317739\">Comments</a>"
+    },
+    {
+        "id": "https://realtuner.online/",
+        "title": "Show HN: Remotely use my guitar tuner",
+        "link": "https://realtuner.online/",
+        "published": "Fri, 06 Mar 2026 20:27:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47280654\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/govt-tracking-chip-supply-snags-as-units-come-alive/articleshow/129350562.cms",
+        "title": "Govt tracking chip supply snags as units come alive",
+        "link": "https://economictimes.indiatimes.com/tech/technology/govt-tracking-chip-supply-snags-as-units-come-alive/articleshow/129350562.cms",
+        "published": "Tue, 10 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "ICs including processors, controllers and memories, are now the 3rd largest single import item for India. In April-December of FY26, the value of imported chips rose to $12.62 billion, making it the largest concentrated cost within India's inbound trade after imported crude oil and gold, official figures show."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/anjali-sardana-a-23-year-old-who-built-a-100-million-house-help-upstart/articleshow/129347630.cms",
+        "title": "ETtech Profile | Anjali Sardana: the 23-year-old Pronto founder behind a $100 million house-help startup",
+        "link": "https://economictimes.indiatimes.com/tech/startups/anjali-sardana-a-23-year-old-who-built-a-100-million-house-help-upstart/articleshow/129347630.cms",
+        "published": "Tue, 10 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Investors in the segment compare Sardana\u2019s aggressive approach with Zepto\u2019s Palicha, who slugged it out with Zomato\u2019s Blinkit and Swiggy\u2019s Instamart in a highly competitive industry."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-ai-protects-your-investment-portfolio-during-volatility/articleshow/129346721.cms",
+        "title": "How AI protects your investment portfolio during volatility",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-ai-protects-your-investment-portfolio-during-volatility/articleshow/129346721.cms",
+        "published": "Tue, 10 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tips and tricks that will help propel you ahead in the AI race."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/now-searching-women-in-ai/articleshow/129346377.cms",
+        "title": "Now searching: Women in AI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/now-searching-women-in-ai/articleshow/129346377.cms",
+        "published": "Tue, 10 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Women leaders in AI are a tiny minority. ET found that only 10% of Indian AI startups are founded by women, and the chasm needs filling."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-new-airsenal/articleshow/129346180.cms",
+        "title": "The new A(I)rsenal",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-new-airsenal/articleshow/129346180.cms",
+        "published": "Tue, 10 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "As AI enters battlefields from Gaza to Iran, India must rethink defence strategy amid dependence on foreign tech, experts told ET."
     }
 ]
