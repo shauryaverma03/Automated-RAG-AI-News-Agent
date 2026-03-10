@@ -142334,5 +142334,85 @@
         "published": "Tue, 10 Mar 2026 09:28:24 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Farrukhabad\u2019s zari\u2013zardozi embroidery survives through skilled karigars and ODOP support, connecting traditional handwork to larger markets."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/892210/slay-the-spire-2-co-op-multiplayer",
+        "title": "Slay the Spire II is even better with a friend",
+        "link": "https://www.theverge.com/entertainment/892210/slay-the-spire-2-co-op-multiplayer",
+        "published": "2026-03-10T13:30:00-04:00",
+        "source": "The Verge",
+        "summary": "Slay the Spire II launched in early access last week, and it's already an excellent sequel to one of the best roguelikes of all time. In many ways, it's very similar to its predecessor. Like Hades II and Hollow Knight: Silksong, Slay the Spire II mostly iterates on an already superb foundation. But it does [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
+        "title": "Fake AI Content About the Iran War Is All Over X",
+        "link": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
+        "published": "Tue, 10 Mar 2026 16:45:47 +0000",
+        "source": "WIRED",
+        "summary": "X\u2019s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war."
+    },
+    {
+        "id": "https://www.engadget.com/ai/chatgpt-will-now-generate-interactive-visuals-to-help-you-with-math-and-science-concepts-170000520.html?src=rss",
+        "title": "ChatGPT will now generate interactive visuals to help you with math and science concepts",
+        "link": "https://www.engadget.com/ai/chatgpt-will-now-generate-interactive-visuals-to-help-you-with-math-and-science-concepts-170000520.html?src=rss",
+        "published": "Tue, 10 Mar 2026 17:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>OpenAI is rolling out new interactive responses in ChatGPT it says are designed to make the chatbot more useful for learners. Starting today, ChatGPT will generate dynamic visuals when you ask it to explain select scientific and mathematical concepts, including the Pythagorean theorem, Coulomb's law and lens equations. When ChatGPT responds with an interactive visual, you'll be able to tweak any variables and the equation itself, allowing you to see how those changes affect the solution.&nbsp"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/nintendo/yoshi-and-the-mysterious-book-will-be-released-for-switch-2-on-may-21-164753150.html?src=rss",
+        "title": "Yoshi and the Mysterious Book will be released for Switch 2 on May 21",
+        "link": "https://www.engadget.com/gaming/nintendo/yoshi-and-the-mysterious-book-will-be-released-for-switch-2-on-may-21-164753150.html?src=rss",
+        "published": "Tue, 10 Mar 2026 16:47:53 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Nintendo's next platform adventure, <em>Yoshi and the Mysterious Book</em>, will be released for Switch 2 on May 21. The company <a href=\"https://www.businesswire.com/news/home/20260309567268/en/Nintendo-Kicks-off-MAR10-Day-With-a-New-Look-at-The-Super-Mario-Galaxy-Movie\"><ins>announced the release date</ins></a> as part of its annual Mar10 Day celebration. This is a <a href=\"https://www.engadget.com/deals/mario-day-deals-include-a-switch-oled-that-comes-with-super-mario-bros-wonder-for-349-1"
+    },
+    {
+        "id": "https://github.com/RunanywhereAI/rcli",
+        "title": "Show HN: RunAnwhere \u2013 Faster AI Inference on Apple Silicon",
+        "link": "https://github.com/RunanywhereAI/rcli",
+        "published": "Tue, 10 Mar 2026 17:14:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47326101\">Comments</a>"
+    },
+    {
+        "id": "https://ankursethi.com/blog/programming-language-claude-code/",
+        "title": "I built a programming language using Claude Code",
+        "link": "https://ankursethi.com/blog/programming-language-claude-code/",
+        "published": "Tue, 10 Mar 2026 16:37:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47325595\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-turn-on-repair-mode-android-phone/",
+        "title": "How to turn on repair mode on your Android phone - and why it's critical to do so",
+        "link": "https://www.zdnet.com/article/how-to-turn-on-repair-mode-android-phone/",
+        "published": "Tue, 10 Mar 2026 16:46:00 GMT",
+        "source": "Latest news",
+        "summary": "Repair Mode lets technicians fix your Android phone without seeing your personal files or apps. Here's how to enable it."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indias-software-exports-touch-222-billion-in-2024-25-esc/articleshow/129409380.cms",
+        "title": "India's software exports touch $222 billion in 2024-25: ESC",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indias-software-exports-touch-222-billion-in-2024-25-esc/articleshow/129409380.cms",
+        "published": "Tue, 10 Mar 2026 22:44:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The export of computer software and services, including ITeS and BPO, increased by 11% on a year-over-year basis to $222 billion in 2024-25, the Electronics and Computer Software Export Promotion Council said on Tuesday."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/youtube-adds-tool-to-help-public-figures-report-fake-videos/articleshow/129408141.cms",
+        "title": "YouTube adds tool to help public figures report fake videos",
+        "link": "https://economictimes.indiatimes.com/tech/technology/youtube-adds-tool-to-help-public-figures-report-fake-videos/articleshow/129408141.cms",
+        "published": "Tue, 10 Mar 2026 22:15:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The pilot programme, announced Tuesday, is arriving as social media companies and a patchwork of new laws start to address the problem of these so-called deepfakes, which are spreading as AI video technology rapidly improves. But the companies have largely relied on users to report fake material."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/happiest-minds-upgrades-fy27-revenue-growth-guidance-to-13-on-strong-ai-demand/articleshow/129407750.cms",
+        "title": "Happiest Minds upgrades FY27 revenue growth guidance to 13% on strong AI demand",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/happiest-minds-upgrades-fy27-revenue-growth-guidance-to-13-on-strong-ai-demand/articleshow/129407750.cms",
+        "published": "Tue, 10 Mar 2026 22:09:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happiest Minds Technologies on Tuesday said it has revised its revenue growth expectation for the financial year 2026-27 to 12.5%, up from its earlier estimate of 10%, citing accelerating momentum from its artificial intelligence (AI) strategy and strong demand across sectors."
     }
 ]
