@@ -141150,5 +141150,37 @@
         "published": "Tue, 10 Mar 2026 07:26:24 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Maharashtra has taken fresh action against bike taxi platforms including Ola, Uber, and Rapido. The decision comes months after the state allowed such services.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-maharashtra-revokes-bike-taxi-licenses-ola-uber-rapido/\">Maharashtra revokes provisional bike taxi licenses for Ola, Uber, Rapido: Report</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://lapcatsoftware.com/articles/2026/3/1.html",
+        "title": "macOS Tahoe windows have different corner radiuses",
+        "link": "https://lapcatsoftware.com/articles/2026/3/1.html",
+        "published": "Fri, 06 Mar 2026 19:20:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47279761\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-code-review-new-tool-to-review-ai-generated-code/articleshow/129378095.cms",
+        "title": "Anthropic launches Code Review for bug detection",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-code-review-new-tool-to-review-ai-generated-code/articleshow/129378095.cms",
+        "published": "Tue, 10 Mar 2026 12:45:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic Code Review Tool: Anthropic has launched Code Review in Claude Code, an AI tool that checks code for bugs before changes merge. It focuses on logic errors, scales with PR size, and provides summary and in-line comments. Large PRs show more issues, and reviews cost $15\u201325, with admin controls available."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/are-we-ready-for-a-world-without-cash",
+        "title": "Are we ready for a world without cash?",
+        "link": "https://yourstory.com/2026/03/are-we-ready-for-a-world-without-cash",
+        "published": "Tue, 10 Mar 2026 07:54:28 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In December 2025, UPI registered 21.6 billion transactions worth Rs 28 lakh crore, a record high for any single month. In the entire calendar year, it handled 228.3 billion transactions, up from 172.2 billion transactions in 2024."
+    },
+    {
+        "id": "https://inc42.com/buzz/newtrace-raises-6-3-mn-to-commercialise-green-hydrogen-tech/",
+        "title": "Newtrace Raises $6.3 Mn To Commercialise Green Hydrogen Tech",
+        "link": "https://inc42.com/buzz/newtrace-raises-6-3-mn-to-commercialise-green-hydrogen-tech/",
+        "published": "Tue, 10 Mar 2026 07:38:56 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"newtrace funding\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Newtrace-Cofounders-Feature.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Bengaluru-based cleantech startup Newtrace has secured $6.3 Mn (\u20b956.93 Cr) in a Pre-Series A funding round led by HDFC Bank&#8230;"
     }
 ]
