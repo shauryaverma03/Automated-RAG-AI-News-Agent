@@ -142718,5 +142718,45 @@
         "published": "Tue, 10 Mar 2026 09:30:22 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Kannauj\u2019s attar and rose water industry continues its traditional distillation practices, supported by ODOP and growing domestic demand."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/",
+        "title": "Google and Tesla think we\u2019re managing the electrical grid all wrong",
+        "link": "https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/",
+        "published": "Tue, 10 Mar 2026 20:42:44 +0000",
+        "source": "TechCrunch",
+        "summary": "The duo have teamed up with other companies to launch Utilize, which seeks to change how the grid is used and regulated."
+    },
+    {
+        "id": "https://www.theverge.com/tech/892655/nosh-robotics-nosh-one-launch",
+        "title": "Nosh Robotics\u2019 $1,500 robot chef doesn&#8217;t need any help with dinner",
+        "link": "https://www.theverge.com/tech/892655/nosh-robotics-nosh-one-launch",
+        "published": "2026-03-10T17:20:26-04:00",
+        "source": "The Verge",
+        "summary": "Anyone who finds themselves wishing they could spend less time on meal prep might have a solution in the form of the recently-launched Nosh One from Nosh Robotics, an AI kitchen appliance that can autonomously cook for you. All users need to do is load their ingredients into the robot's tray then select a recipe. [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
+        "title": "AI can rewrite open source code\u2014but can it rewrite the license, too?",
+        "link": "https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
+        "published": "Tue, 10 Mar 2026 19:36:05 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Is it clean \"reverse engineering\" or just an LLM-filtered \"derivative work\"?"
+    },
+    {
+        "id": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+        "title": "RISC-V Is Sloooow",
+        "link": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+        "published": "Tue, 10 Mar 2026 20:11:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47328214\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/6789-dpiit-recognised-startups-have-shut-shop-mos-commerce/",
+        "title": "6,789 DPIIT-Recognised Startups Have Shut Shop: MoS Commerce",
+        "link": "https://inc42.com/buzz/6789-dpiit-recognised-startups-have-shut-shop-mos-commerce/",
+        "published": "Tue, 10 Mar 2026 20:29:12 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"6,789 DPIIT-Recognised Startups Have Shut Shop:MoS Commerce\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/parl-shut-startups-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Minister of state (MoS) for commerce Jitin Prasada yesterday informed the Parliament that more than 6,700 Department for Promotion of&#8230;"
     }
 ]
