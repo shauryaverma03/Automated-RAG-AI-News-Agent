@@ -141558,5 +141558,293 @@
         "published": "Tue, 10 Mar 2026 12:02:08 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Anthropic has sued the Pentagon over a controversial AI ban. Court filings reveal unusual details about how the decision was made.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-anthropic-lawsuit-pentagon-ai-ban-supply-chain-risk-designation/\">Anthropic Lawsuit Reveals US Pentagon Admitted &#8220;no evidence&#8221; For Supply Chain Designation</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+        "title": "Adobe is debuting an AI assistant for Photoshop",
+        "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+        "published": "Tue, 10 Mar 2026 13:06:51 +0000",
+        "source": "TechCrunch",
+        "summary": "Adobe is also adding new AI-powered image editing features to Firefly."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
+        "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+        "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
+        "published": "Tue, 10 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Zoom is also introducing a real-time deepfake detection tech for meetings"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+        "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+        "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+        "published": "Tue, 10 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/10/hyperscale-power-is-the-latest-startup-to-challenge-140-year-old-transformer-tech/",
+        "title": "Hyperscale Power is the latest startup to challenge 140-year-old transformer tech",
+        "link": "https://techcrunch.com/2026/03/10/hyperscale-power-is-the-latest-startup-to-challenge-140-year-old-transformer-tech/",
+        "published": "Tue, 10 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Startup Hyperscale Power is developing technology that promises to shrink power transformers, freeing up precious space within data centers."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/10/lux-aeterna-raises-10-million-for-reusable-satellite-mission/",
+        "title": "This SpaceX veteran says the next big thing in space is satellites that return to Earth",
+        "link": "https://techcrunch.com/2026/03/10/lux-aeterna-raises-10-million-for-reusable-satellite-mission/",
+        "published": "Tue, 10 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The company's first demonstration mission is expected in early 2027."
+    },
+    {
+        "id": "https://www.theverge.com/tech/891755/sonos-announces-play-era-100-sl-speakers",
+        "title": "Sonos just launched Play, a new $299 portable speaker",
+        "link": "https://www.theverge.com/tech/891755/sonos-announces-play-era-100-sl-speakers",
+        "published": "2026-03-10T09:30:00-04:00",
+        "source": "The Verge",
+        "summary": "Sonos is returning to focus on the system that made it a driving force in whole-home audio. And to support that system, it's releasing its first new consumer speakers since 2024, the Sonos Play and Era 100 SL, which join the Amp Multi that the company recently announced for custom installs. The $299 Play is [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/891985/irobot-roomba-mini-robot-robovac-vacuum-price-availability",
+        "title": "iRobot\u2019s Roomba Mini can clean where its larger robovacs can\u2019t reach",
+        "link": "https://www.theverge.com/tech/891985/irobot-roomba-mini-robot-robovac-vacuum-price-availability",
+        "published": "2026-03-10T09:20:58-04:00",
+        "source": "The Verge",
+        "summary": "iRobot has announced its first new robot since the company filed for bankruptcy last December and was later acquired by China's Picea Robotics. At just 9.5-inches in diameter, the new Roomba Mini is half the size of iRobot's entry-level 105 series robovacs that launched last March, allowing the vacuum to access and clean spaces that [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive",
+        "title": "Google\u2019s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
+        "link": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive",
+        "published": "2026-03-10T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Google is embedding its Gemini AI assistant even more deeply within its Workspace apps. The changes, which are rolling out to Google Workspace and AI plan subscribers, include a new Gemini chat window inside Google Docs, a way to generate entire spreadsheets with AI, and a new Gemini-powered search feature in Drive. While Google Docs [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/891741/apple-macbook-neo-a18-pro-review",
+        "title": "MacBook Neo review: the Mac for the masses",
+        "link": "https://www.theverge.com/tech/891741/apple-macbook-neo-a18-pro-review",
+        "published": "2026-03-10T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "The MacBook Neo is basically the M1 MacBook Air all over again. That laptop changed the game in 2020, and became the default option for just about anyone who wanted a great all-around thin-and-light laptop and could spend $1,000. The M1 Air was good enough that you could still buy a new one until last [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/891979/project-hail-mary-review-ryan-gosling",
+        "title": "Project Hail Mary is popcorn sci-fi at its best",
+        "link": "https://www.theverge.com/entertainment/891979/project-hail-mary-review-ryan-gosling",
+        "published": "2026-03-10T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Have you ever wondered what Arrival would be like if it was also a goofy buddy comedy? Me neither. And yet the strange combination somehow fits together in Project Hail Mary. The movie follows a scientist who travels to the far reaches of the universe to save humanity and is forced to work alongside an [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/review/apple-macbook-neo/",
+        "title": "Apple MacBook Neo Review: Delicious, Low-Hanging Fruit",
+        "link": "https://www.wired.com/review/apple-macbook-neo/",
+        "published": "Tue, 10 Mar 2026 13:00:00 +0000",
+        "source": "WIRED",
+        "summary": "At $599, the MacBook Neo is Apple\u2019s first budget laptop. For the most part, Apple cut corners in the right places and made a MacBook its intended buyers will adore."
+    },
+    {
+        "id": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
+        "title": "I Used Google\u2019s New Gemini-Powered \u2018Help Me Create\u2019 Tool in Docs. It\u2019s Great at Corporate-Speak",
+        "link": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
+        "published": "Tue, 10 Mar 2026 13:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl."
+    },
+    {
+        "id": "https://www.wired.com/gallery/iphone-buying-guide/",
+        "title": "What\u2019s the Best iPhone to Buy or Avoid Right Now? (2026)",
+        "link": "https://www.wired.com/gallery/iphone-buying-guide/",
+        "published": "Tue, 10 Mar 2026 12:30:00 +0000",
+        "source": "WIRED",
+        "summary": "The iPhone 17e is here. Here are all the details on Apple\u2019s smartphones to help you find the right model, whether that\u2019s the ultralight iPhone Air or the orange iPhone 17 Pro."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+        "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+        "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+        "published": "Tue, 10 Mar 2026 13:16:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "AWS has suffered at least two incidents linked to the use of AI coding assistants."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/apple-macbook-neo-review-can-a-mac-get-by-with-an-iphones-processor-inside/",
+        "title": "Apple MacBook Neo review: Can a Mac get by with an iPhone\u2019s processor inside?",
+        "link": "https://arstechnica.com/gadgets/2026/03/apple-macbook-neo-review-can-a-mac-get-by-with-an-iphones-processor-inside/",
+        "published": "Tue, 10 Mar 2026 13:00:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "8GB of RAM is a bummer, but this $599 laptop cuts most of the right corners."
+    },
+    {
+        "id": "https://www.engadget.com/audio/speakers/the-sonos-play-puts-the-best-parts-of-the-era-100-in-a-portable-speaker-133000129.html?src=rss",
+        "title": "The Sonos Play puts the best parts of the Era 100 in a portable speaker",
+        "link": "https://www.engadget.com/audio/speakers/the-sonos-play-puts-the-best-parts-of-the-era-100-in-a-portable-speaker-133000129.html?src=rss",
+        "published": "Tue, 10 Mar 2026 13:30:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p></p><p>Sonos has just announced its first new products since 2024, when the company\u2019s plans went sideways after a <a class=\"link\" href=\"https://www.engadget.com/audio/speakers/why-is-the-sonos-app-so-broken-140028060.html\" target=\"_blank\">disastrous update to its app</a>. First up is the Sonos Play, the company\u2019s latest portable speaker. Long-time Sonos watchers will recognize the name from the old Play:1, Play:3 and Play:5 speakers, but this new model has little to do with those products of "
+    },
+    {
+        "id": "https://www.engadget.com/computing/laptops/macbook-neo-review-apple-puts-every-600-windows-pc-to-shame-130000878.html?src=rss",
+        "title": "MacBook Neo review: Apple puts every $600 Windows PC to shame",
+        "link": "https://www.engadget.com/computing/laptops/macbook-neo-review-apple-puts-every-600-windows-pc-to-shame-130000878.html?src=rss",
+        "published": "Tue, 10 Mar 2026 13:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>I really don't know how Apple did it. The MacBook Neo is a $600 laptop that doesn't feel like an afterthought, which is a curse that has befallen so many cheap Windows notebooks. Sure, it has a slower A-series processor and it's limited to 8GB of RAM. But the MacBook Neo still feels as deeply considered as Apple's most premium hardware. Its screen, trackpad and overall usability is so far ahead of the competition, every Windows PC maker, <em>including </em>Microsoft, should be ashamed.&nbsp;<"
+    },
+    {
+        "id": "https://www.engadget.com/apps/x-says-it-suspended-800-million-accounts-in-2024-over-spam-and-manipulation-123000201.html?src=rss",
+        "title": "X says it suspended 800 million accounts in 2024 over spam and manipulation",
+        "link": "https://www.engadget.com/apps/x-says-it-suspended-800-million-accounts-in-2024-over-spam-and-manipulation-123000201.html?src=rss",
+        "published": "Tue, 10 Mar 2026 12:30:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link\" href=\"https://www.engadget.com/twitter-has-officially-moved-to-xcom-120028269.html\" target=\"_blank\">X</a> has told UK\u2019s MPs or Members of Parliament that it suspended 800 million accounts to combat state-backed campaigns on the website, according to <a class=\"link\" href=\"https://www.theguardian.com/technology/2026/mar/09/x-suspends-accounts-massive-scale-manipulation-attempts-russia\" target=\"_blank\"><em>The Guardian</em></a>. Wifredo Fern\u00e1ndez, X\u2019s head of global government af"
+    },
+    {
+        "id": "https://www.engadget.com/home/sharks-chillpill-puts-a-mister-fan-and-cold-plate-in-one-portable-package-123000848.html?src=rss",
+        "title": "Shark's ChillPill puts a mister, fan and cold-plate in one portable package",
+        "link": "https://www.engadget.com/home/sharks-chillpill-puts-a-mister-fan-and-cold-plate-in-one-portable-package-123000848.html?src=rss",
+        "published": "Tue, 10 Mar 2026 12:30:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Shark has been making some intriguing devices lately, and its newest offering is one I\u2019m personally very excited about. The company has just announced the ChillPill \u2014  a gadget it\u2019s describing as a \u201c3-in-1 personal cooling system.\u201d It\u2019s a modular system that offers a fan, mister and cold plate in one portable accessory, and is available today (March 10) for $150.  Just in time for the summer, I guess. I\u2019ve had a ChillPill to test for a few days and while I think it\u2019s a bit pricey, I\u2019m impress"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
+        "title": "Prioritizing energy intelligence for sustainable growth",
+        "link": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
+        "published": "Tue, 10 Mar 2026 13:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
+        "title": "The Download: AI\u2019s role in the Iran war, and an escalating legal fight",
+        "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
+        "published": "Tue, 10 Mar 2026 12:55:32 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How AI is turning the Iran conflict into&#160;theater&#160; Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to&#8230;"
+    },
+    {
+        "id": "https://www.freebsd.org/releases/14.4R/announce/",
+        "title": "FreeBSD 14.4-Release Announcement",
+        "link": "https://www.freebsd.org/releases/14.4R/announce/",
+        "published": "Tue, 10 Mar 2026 10:45:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47321499\">Comments</a>"
+    },
+    {
+        "id": "https://spectrum.ieee.org/fhe-intel",
+        "title": "Intel Demos Chip to Compute with Encrypted Data",
+        "link": "https://spectrum.ieee.org/fhe-intel",
+        "published": "Tue, 10 Mar 2026 13:10:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47322815\">Comments</a>"
+    },
+    {
+        "id": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+        "title": "Online age-verification tools for child safety are surveilling adults",
+        "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+        "published": "Tue, 10 Mar 2026 12:55:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47322635\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/blackview-mp20-mini-pc-review/",
+        "title": "Blackview MP20 review: A tiny but mighty Mac Mini alternative for Windows users",
+        "link": "https://www.zdnet.com/article/blackview-mp20-mini-pc-review/",
+        "published": "Tue, 10 Mar 2026 13:20:00 GMT",
+        "source": "Latest news",
+        "summary": "The palm-sized Blackview MP20 runs cool and quiet and handles everyday computing tasks - with a few caveats."
+    },
+    {
+        "id": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
+        "title": "I wrote off ChatGPT's voice mode, then found 7 ways it's genuinely useful",
+        "link": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
+        "published": "Tue, 10 Mar 2026 13:11:00 GMT",
+        "source": "Latest news",
+        "summary": "Voice Mode fabricated answers the last time I used it, but I tested it again to see if it's actually useful now. Spoiler: It is."
+    },
+    {
+        "id": "https://www.zdnet.com/article/zoom-meetings-ai-slides-spreadsheets/",
+        "title": "Your Zoom meetings can auto-generate slides and sheets for you now - no Google needed",
+        "link": "https://www.zdnet.com/article/zoom-meetings-ai-slides-spreadsheets/",
+        "published": "Tue, 10 Mar 2026 13:01:12 GMT",
+        "source": "Latest news",
+        "summary": "Zoom's AI Companion powers its new Google Workspace-like Slides and Sheets. More 'lifelike' avatars are coming, too."
+    },
+    {
+        "id": "https://www.zdnet.com/article/ai-job-paradox-same-roles-see-greatest-losses-and-greatest-gains/",
+        "title": "AI job paradox: Occupations seeing greatest losses also see greatest gains - here's why",
+        "link": "https://www.zdnet.com/article/ai-job-paradox-same-roles-see-greatest-losses-and-greatest-gains/",
+        "published": "Tue, 10 Mar 2026 13:00:57 GMT",
+        "source": "Latest news",
+        "summary": "New Snowflake survey illustrates how demand for tech jobs is evolving away from basic skills to high-level AI oversight."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-acquires-moltbook-report/articleshow/129399973.cms",
+        "title": "Meta acquires Moltbook: Report",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-acquires-moltbook-report/articleshow/129399973.cms",
+        "published": "Tue, 10 Mar 2026 19:17:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta has acquired Moltbook, according to a recent report."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/internet/amazon-targeting-37-billion-to-42-billion-in-bond-sale-report/articleshow/129399539.cms",
+        "title": "Amazon targeting $37 billion to $42 billion in bond sale: Report",
+        "link": "https://economictimes.indiatimes.com/tech/internet/amazon-targeting-37-billion-to-42-billion-in-bond-sale-report/articleshow/129399539.cms",
+        "published": "Tue, 10 Mar 2026 19:08:42 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Amazon is planning a massive bond sale, aiming for $37 billion to $42 billion. This significant fundraising effort is to support its extensive investments in artificial intelligence infrastructure. The company is offering bonds in both dollars and euros. This move follows similar large bond issuances by other major tech companies. Investors are showing strong interest in these high-grade corporate debts."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/food-deliverys-war-woes-apples-india-ramp-up/articleshow/129398123.cms",
+        "title": "Food delivery's war woes; Apple's India ramp up",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/food-deliverys-war-woes-apples-india-ramp-up/articleshow/129398123.cms",
+        "published": "Tue, 10 Mar 2026 19:06:12 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Iran crisis will hit food delivery in India as limited cooking gas supplies impact restaurants. This and more in today's ETtech Top 5."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/qualcomm-wayve-partner-to-accelerate-ai-powered-self-driving-system-rollout/articleshow/129398065.cms",
+        "title": "Qualcomm, Wayve partner to accelerate AI-powered self-driving system rollout",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/qualcomm-wayve-partner-to-accelerate-ai-powered-self-driving-system-rollout/articleshow/129398065.cms",
+        "published": "Tue, 10 Mar 2026 18:38:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Qualcomm and Wayve will together partner to build an integrated system, which will help carmakers quickly introduce driver assistance and automated driving features. It aims to simplify development and support various driving functions as regulations allow."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startup-thinking-machines-clinches-capital-and-a-major-chip-supply-deal-from-nvidia/articleshow/129397915.cms",
+        "title": "AI startup Thinking Machines clinches capital and a major chip supply deal from Nvidia",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startup-thinking-machines-clinches-capital-and-a-major-chip-supply-deal-from-nvidia/articleshow/129397915.cms",
+        "published": "Tue, 10 Mar 2026 18:34:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Thinking Machines Lab, a new AI startup, has secured a major partnership with Nvidia. This deal includes significant investment and access to Nvidia's advanced processors. The collaboration will power Thinking Machines' AI model training. This move highlights the intense competition and demand for computing power in the AI industry."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/funding-captain-fresh-impact-investor-blue-earth-capital",
+        "title": "Captain Fresh raises Rs 290 Cr from impact investor Blue Earth Capital",
+        "link": "https://yourstory.com/2026/03/funding-captain-fresh-impact-investor-blue-earth-capital",
+        "published": "Tue, 10 Mar 2026 10:35:27 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Captain Fresh said it will use the debt funding to expand its distribution capabilities in global markets."
+    },
+    {
+        "id": "https://www.medianama.com/2026/03/223-telangana-law-regulate-social-media-misinformation/",
+        "title": "Telangana Mulls Law to Regulate Social Media, Targets Online Misinformation",
+        "link": "https://www.medianama.com/2026/03/223-telangana-law-regulate-social-media-misinformation/",
+        "published": "Tue, 10 Mar 2026 13:03:34 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Speaking about the state's intention to regulate social media platforms, Telangana CM A Revanth Reddy said they \"will create a mechanism\" to \"report false news on social media\". </p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-telangana-law-regulate-social-media-misinformation/\">Telangana Mulls Law to Regulate Social Media, Targets Online Misinformation</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/03/223-grammarlys-ai-agent-suggests-edits-inspired-experts-without-consent/",
+        "title": "Grammarly\u2019s AI Agent Suggests Edits \u2018Inspired\u2019 by Experts Without Consent",
+        "link": "https://www.medianama.com/2026/03/223-grammarlys-ai-agent-suggests-edits-inspired-experts-without-consent/",
+        "published": "Tue, 10 Mar 2026 12:49:42 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Grammarly\u2019s \u201cExpert Review\u201d feature attributes writing suggestions to well-known experts without their awareness, raising concerns about personality rights, AI anthropomorphism, and misleading impressions of endorsement.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-grammarlys-ai-agent-suggests-edits-inspired-experts-without-consent/\">Grammarly\u2019s AI Agent Suggests Edits \u2018Inspired\u2019 by Experts Without Consent</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</"
     }
 ]
