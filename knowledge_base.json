@@ -142814,5 +142814,45 @@
         "published": "Tue, 10 Mar 2026 14:48:23 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Coreworks is building an AI platform that can automate presentations and reports for enterprises."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/",
+        "title": "In a vote of confidence for Meta\u2019s Threads, Kalshi adds sharing feature",
+        "link": "https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/",
+        "published": "Tue, 10 Mar 2026 23:01:47 +0000",
+        "source": "TechCrunch",
+        "summary": "Kalshi now offers a share option that will automatically embed the relevant prediction market chart into a Threads post."
+    },
+    {
+        "id": "https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity",
+        "title": "How the spiraling Iran conflict could affect data centers and electricity costs",
+        "link": "https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity",
+        "published": "2026-03-10T18:25:06-04:00",
+        "source": "The Verge",
+        "summary": "Soon after the Trump administration launched its war on Iran, I called up Reed Blakemore, director of research and programs at the Atlantic Council Global Energy Center, to talk about the consequences. While oil and gas prices were already on the rise, there was still more hope then that the impact of the conflict might [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/",
+        "title": "NASA approved a safety waiver for this week's reentry of Van Allen Probe",
+        "link": "https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/",
+        "published": "Tue, 10 Mar 2026 23:01:36 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Due to late-stage design changes, the potential risk of uncontrolled reentry increased.\""
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/fda-contradicts-trump-admin-declines-to-approve-generic-drug-for-autism/",
+        "title": "FDA contradicts Trump admin, declines to approve generic drug for autism",
+        "link": "https://arstechnica.com/health/2026/03/fda-contradicts-trump-admin-declines-to-approve-generic-drug-for-autism/",
+        "published": "Tue, 10 Mar 2026 22:12:35 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "In the end, the FDA only approved the drug for a rare genetic condition with clearer data."
+    },
+    {
+        "id": "https://ionathan.ch/2026/02/16/angzarr.html",
+        "title": "U+237C \u237c Is Azimuth",
+        "link": "https://ionathan.ch/2026/02/16/angzarr.html",
+        "published": "Tue, 10 Mar 2026 22:33:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47329605\">Comments</a>"
     }
 ]
