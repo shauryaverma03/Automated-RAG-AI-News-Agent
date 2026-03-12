@@ -146598,5 +146598,45 @@
         "published": "Thu, 12 Mar 2026 10:28:19 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Bihar is accelerating industrial and startup growth through new policies, infrastructure expansion, and funding programmes"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+        "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+        "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+        "published": "Thu, 12 Mar 2026 22:25:50 +0000",
+        "source": "TechCrunch",
+        "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+        "title": "The who, what, and why of the attack that has shut down Stryker's Windows network\"",
+        "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+        "published": "Thu, 12 Mar 2026 22:18:11 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Company says it doesn't know how long it will take to restore its Microsoft environment."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "title": "Defense official reveals how AI chatbots could be used for targeting decisions",
+        "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "published": "Thu, 12 Mar 2026 22:23:34 +0000",
+        "source": "MIT Technology Review",
+        "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations about which to strike first, which would then be vetted by humans, according to a Defense official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over&#8230;"
+    },
+    {
+        "id": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+        "title": "The AI coding divide: craft lovers vs. result chasers",
+        "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+        "published": "Thu, 12 Mar 2026 22:35:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47358206\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-use-android-safe-mode-fix-slow-phone/",
+        "title": "How to enter Safe Mode on your Android phone - and why it's critical to do so",
+        "link": "https://www.zdnet.com/article/how-to-use-android-safe-mode-fix-slow-phone/",
+        "published": "Thu, 12 Mar 2026 22:36:56 GMT",
+        "source": "Latest news",
+        "summary": "Safe mode helps you see if a buggy app is causing your Android phone to crash, freeze, or slow down. Here's how."
     }
 ]
