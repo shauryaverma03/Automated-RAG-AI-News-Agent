@@ -144998,5 +144998,53 @@
         "published": "Thu, 12 Mar 2026 08:52:42 +0530",
         "source": "Tech-Economic Times",
         "summary": "The recent conflict \u200bbetween the \u200bUS government and Anthropic \u2060temporarily affected discussions over the joint venture, but talks are ongoing, according to The Information report. If finalised, the partnership would adopt a Palantir-style model to \u200boffer consulting services to help \u2060companies integrate Anthropic's \u200cAI into their operations, the \u200breport said."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/google-play-will-let-you-try-a-game-before-you-buy-it-051854016.html?src=rss",
+        "title": "Google Play will let you try a game before you buy it",
+        "link": "https://www.engadget.com/gaming/google-play-will-let-you-try-a-game-before-you-buy-it-051854016.html?src=rss",
+        "published": "Thu, 12 Mar 2026 05:18:54 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link\" href=\"https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html\" target=\"_blank\">Google</a> Play has <a class=\"link\" href=\"https://blog.google/products-and-platforms/platforms/google-play/google-play-paid-games-updates/\" target=\"_blank\">introduced</a> a new feature called Game Trials, which will let you play a portion of paid games for free before you commit to buying them. It\u2019s now rolling out to select paid game"
+    },
+    {
+        "id": "https://www.proxylity.com/articles/wireguard-is-two-things.html",
+        "title": "WireGuard Is Two Things",
+        "link": "https://www.proxylity.com/articles/wireguard-is-two-things.html",
+        "published": "Thu, 12 Mar 2026 04:38:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47346511\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/replits-valuation-soars-to-9-billion-after-400-million-funding-round-just-six-months-after-hitting-3-billion/articleshow/129494173.cms",
+        "title": "Replit\u2019s valuation soars to $9 billion after $400 million funding round, just six months after hitting $3 billion",
+        "link": "https://economictimes.indiatimes.com/tech/funding/replits-valuation-soars-to-9-billion-after-400-million-funding-round-just-six-months-after-hitting-3-billion/articleshow/129494173.cms",
+        "published": "Thu, 12 Mar 2026 11:32:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Vibe coding startup Replit raised $400 million, lifting its valuation to $9 billion, led by Georgian Partners with support from Shaquille O\u2019Neal, Jared Leto, and others. The platform, used by 85% of the Fortune 500, helps users build software and AI apps, with annual recurring revenue soaring to $150 million."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/razorpay-taps-anthropics-claude-to-build-ai-agents-for-payments/articleshow/129493693.cms",
+        "title": "Razorpay taps Anthropic's Claude to build AI agents for payments",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/razorpay-taps-anthropics-claude-to-build-ai-agents-for-payments/articleshow/129493693.cms",
+        "published": "Thu, 12 Mar 2026 11:30:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Razorpay is building AI-powered payment agents using Anthropic\u2019s Claude chatbot to handle tasks like recovering abandoned carts, retrying failed subscriptions, resolving disputes, and forecasting cash flow. The fintech also launched an AI-native platform for businesses to create custom agents, integrate payments, and enable in-app commerce with platforms like Zomato and Shopify."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/iphone-india-prepares-smartphone-export-incentives-in-a-boost-for-apple/articleshow/129493879.cms",
+        "title": "India prepares smartphone export incentives in a boost for Apple",
+        "link": "https://economictimes.indiatimes.com/tech/technology/iphone-india-prepares-smartphone-export-incentives-in-a-boost-for-apple/articleshow/129493879.cms",
+        "published": "Thu, 12 Mar 2026 11:12:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is preparing a new round of incentives for smartphone manufacturing that will link government subsidies to exports and greater use of locally made components, replacing the current Production-Linked Incentive (PLI) scheme that ends on March 31."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/anthropic-seeks-court-stay-of-pentagon-supply-chain-risk-designation/articleshow/129493437.cms",
+        "title": "Anthropic seeks court stay of Pentagon supply-chain risk designation",
+        "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-seeks-court-stay-of-pentagon-supply-chain-risk-designation/articleshow/129493437.cms",
+        "published": "Thu, 12 Mar 2026 11:05:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic asked a US appeals court on Wednesday to pause the Pentagon\u2019s designation of the company as a supply-chain risk while the case is reviewed. In filings, Anthropic said the decision could cause \"irreparable harm\" and has also sued in California to block placement on a national security blacklist."
     }
 ]
