@@ -144774,5 +144774,69 @@
         "published": "Wed, 11 Mar 2026 18:22:21 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47339223\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+        "title": "AI \u2018actor\u2019 Tilly Norwood put out the worst song I\u2019ve ever heard",
+        "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+        "published": "Wed, 11 Mar 2026 23:35:03 +0000",
+        "source": "TechCrunch",
+        "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this."
+    },
+    {
+        "id": "https://github.com/manuelschipper/nah/",
+        "title": "Show HN: A context-aware permission guard for Claude Code",
+        "link": "https://github.com/manuelschipper/nah/",
+        "published": "Wed, 11 Mar 2026 23:26:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47343927\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tech-transfer-job-pledges-to-speed-up-fdi-and-help-electronics-sector/articleshow/129475387.cms",
+        "title": "Tech transfer, job pledges to speed up FDI and help electronics sector",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tech-transfer-job-pledges-to-speed-up-fdi-and-help-electronics-sector/articleshow/129475387.cms",
+        "published": "Thu, 12 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Officials say new rules to ease capital flows into sectors where Chinese cos dominate"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/rmg-ban-hit-dream-sports-rejigs-operations-as-over-100-executives-check-out/articleshow/129474986.cms",
+        "title": "RMG ban-hit Dream Sports rejigs operations as over 100 executives check out",
+        "link": "https://economictimes.indiatimes.com/tech/technology/rmg-ban-hit-dream-sports-rejigs-operations-as-over-100-executives-check-out/articleshow/129474986.cms",
+        "published": "Thu, 12 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "More than 100 executives have left Dream Sports, after the parent company of fantasy sports platform Dream11 reorganised its operations into multiple units following the regulatory ban on online real money gaming in India, according to people familiar with the matter."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-founders-must-move-fast-to-stay-on-top-of-tech-stacks-resolve-ai-ceo-spiros-xanthos/articleshow/129474791.cms",
+        "title": "AI founders must move fast to stay on top of tech stacks: Resolve AI CEO Spiros Xanthos",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-founders-must-move-fast-to-stay-on-top-of-tech-stacks-resolve-ai-ceo-spiros-xanthos/articleshow/129474791.cms",
+        "published": "Thu, 12 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "With artificial intelligence maturing rapidly and demand from customers increasing significantly, AI startups need to move fast and stay on top of every layer of the technology stack from hardware to user experience, said Spiros Xanthos, founder and chief executive of Resolve AI, an agentic AI platform for software troubleshooting."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/easing-china-fdi-norms-unlikely-to-unlock-fast-capital-for-startups/articleshow/129474289.cms",
+        "title": "Easing China FDI norms unlikely to unlock fast capital for startups",
+        "link": "https://economictimes.indiatimes.com/tech/technology/easing-china-fdi-norms-unlikely-to-unlock-fast-capital-for-startups/articleshow/129474289.cms",
+        "published": "Thu, 12 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The government's move is expected to speed up dealmaking for global venture funds with limited Chinese capital in their investor base. It could also make it easier for venture capital and private equity firms to raise money from Chinese limited partners (LPs) or fund sponsors."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/github-404-page-user-engagement",
+        "title": "How a 404 error page increased GitHub's user engagement",
+        "link": "https://yourstory.com/2026/03/github-404-page-user-engagement",
+        "published": "Wed, 11 Mar 2026 07:47:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "GitHub turned its 404 error page into an engaging experience with animation, humour and helpful links\u2014reducing bounce rates and keeping users exploring."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/third-party-cookies-end",
+        "title": "Third-party cookies are fading: How Indian SMBs can adapt",
+        "link": "https://yourstory.com/2026/03/third-party-cookies-end",
+        "published": "Wed, 11 Mar 2026 05:20:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Third-party cookies are disappearing. Here\u2019s how the shift to a privacy-first internet could impact digital advertising and small businesses in India."
     }
 ]
