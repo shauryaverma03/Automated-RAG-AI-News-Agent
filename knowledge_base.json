@@ -145046,5 +145046,29 @@
         "published": "Thu, 12 Mar 2026 11:05:51 +0530",
         "source": "Tech-Economic Times",
         "summary": "Anthropic asked a US appeals court on Wednesday to pause the Pentagon\u2019s designation of the company as a supply-chain risk while the case is reviewed. In filings, Anthropic said the decision could cause \"irreparable harm\" and has also sued in California to block placement on a national security blacklist."
+    },
+    {
+        "id": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+        "title": "Returning to Rails in 2026",
+        "link": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+        "published": "Thu, 12 Mar 2026 06:06:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47347064\">Comments</a>"
+    },
+    {
+        "id": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+        "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+        "link": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+        "published": "Thu, 12 Mar 2026 06:55:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47347362\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/induction-cooktops-sold-out-on-amazon-quick-commerce-apps-amid-lpg-cylinder-shortage/articleshow/129496345.cms",
+        "title": "Induction cooktops sold out on Amazon, quick commerce apps amid LPG cylinder shortage",
+        "link": "https://economictimes.indiatimes.com/tech/technology/induction-cooktops-sold-out-on-amazon-quick-commerce-apps-amid-lpg-cylinder-shortage/articleshow/129496345.cms",
+        "published": "Thu, 12 Mar 2026 12:37:03 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Induction cooktops are selling rapidly on ecommerce and quick commerce platforms after a shortage of commercial gas cylinders sparked panic buying. Products are now unavailable on Amazon, Zepto, Swiggy and Blinkit in major cities. The LPG supply pause has also forced restaurants and cloud kitchens to shut or scale down operations."
     }
 ]
