@@ -148166,5 +148166,45 @@
         "published": "Fri, 13 Mar 2026 20:40:37 GMT",
         "source": "Latest news",
         "summary": "Netflix ranges from $8/month to $25/month, but you should know which streaming tier works best for your household."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
+        "title": "Digg lays off staff and shuts down app as company retools",
+        "link": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
+        "published": "Fri, 13 Mar 2026 21:51:17 +0000",
+        "source": "TechCrunch",
+        "summary": "Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+        "title": "Nyne, founded by a father-son duo, gives AI agents the human context they\u2019re missing",
+        "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+        "published": "Fri, 13 Mar 2026 21:37:01 +0000",
+        "source": "TechCrunch",
+        "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons"
+    },
+    {
+        "id": "https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial",
+        "title": "States\u2019 anti-monopoly case against Live Nation continues Monday",
+        "link": "https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial",
+        "published": "2026-03-13T18:08:39-04:00",
+        "source": "The Verge",
+        "summary": "The Live Nation-Ticketmaster trial is back on. Dozens of states are expected to move forward with their claims against the company's alleged concert industry monopoly beginning on Monday, following a brief hearing on Friday. The Justice Department and a handful of states have accepted settlements with the company, but the majority of the 40 state [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/894753/spotify-taste-profile",
+        "title": "Spotify tests letting users directly customize their Taste Profile",
+        "link": "https://www.theverge.com/entertainment/894753/spotify-taste-profile",
+        "published": "2026-03-13T17:44:23-04:00",
+        "source": "The Verge",
+        "summary": "Spotify Premium users in New Zealand will be the first to experience the service's latest personalization feature. The company is letting users view and make changes to their Taste Profile directly. If your algorithm is serving up too much Bieber, you can politely tell the algorithm to ease up. Beta testers will be able to [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/meta-is-bringing-more-international-news-to-its-ai-213323713.html?src=rss",
+        "title": "Meta is bringing more international news to its AI",
+        "link": "https://www.engadget.com/social-media/meta-is-bringing-more-international-news-to-its-ai-213323713.html?src=rss",
+        "published": "Fri, 13 Mar 2026 21:33:23 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Meta AI should soon be better at surfacing international news content thanks to a set of new deals with publishers. The company announced <a class=\"link\" href=\"https://about.fb.com/news/2026/03/bringing-more-international-news-and-content-to-meta-ai/\" target=\"_blank\">new agreements</a> with international outlets and offered additional details on its recent deal with News Corp.&nbsp;</p><p>The latest deals bring French newspaper <em>Le Figaro</em>, Spanish media company Prisa and German newspa"
     }
 ]
