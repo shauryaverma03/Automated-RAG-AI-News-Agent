@@ -147966,5 +147966,133 @@
         "published": "Fri, 13 Mar 2026 08:55:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Discover five powerful self-help books that can transform your mindset, build better habits, and accelerate personal growth and long-term success."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+        "title": "Steven Spielberg says he\u2019s \u2018never used AI\u2019 in any of his films",
+        "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+        "published": "Fri, 13 Mar 2026 19:47:58 +0000",
+        "source": "TechCrunch",
+        "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+        "title": "The biggest AI stories of the year (so far)",
+        "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+        "published": "Fri, 13 Mar 2026 19:38:11 +0000",
+        "source": "TechCrunch",
+        "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/",
+        "title": "Travis Kalanick launches a new company called Atoms focused on robotics",
+        "link": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/",
+        "published": "Fri, 13 Mar 2026 19:28:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport."
+    },
+    {
+        "id": "https://www.theverge.com/tech/894752/instagram-end-to-end-encryption",
+        "title": "Instagram is getting rid of end-to-end encrypted DMs that \u2018very few\u2019 people used",
+        "link": "https://www.theverge.com/tech/894752/instagram-end-to-end-encryption",
+        "published": "2026-03-13T15:39:11-04:00",
+        "source": "The Verge",
+        "summary": "Instagram will no longer support end-to-end encrypted messages starting May 8th. In a statement to The Verge, Meta spokesperson Dina El-Kassaby Luce says the platform is discontinuing the feature because \"very few people\" were using E2EE in their DMs. Instagram has begun notifying impacted users about the change inside its app, and has also posted [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera",
+        "title": "Google Pixel 10A review: Just buy the 9A",
+        "link": "https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera",
+        "published": "2026-03-13T14:36:36-04:00",
+        "source": "The Verge",
+        "summary": "I'm not entirely sure why the Pixel 10A exists. Google hasn't upgraded the chipset, cameras, or battery in the new phone, and the tweaks it's made elsewhere are minimal at best. The flatter camera island is good, I guess! In one sense this isn't a big problem: The Pixel 9A is an excellent device, and [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/",
+        "title": "Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans",
+        "link": "https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/",
+        "published": "Fri, 13 Mar 2026 18:51:05 +0000",
+        "source": "WIRED",
+        "summary": "Dreo\u2019s spring sale offers a great deal on the Chefmaker combi cooker, plus discounts on WIRED\u2019s favorite bathroom heater and tower fan."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/",
+        "title": "Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty",
+        "link": "https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/",
+        "published": "Fri, 13 Mar 2026 18:47:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Adobe says it will also give customers who \"qualify\" free services but is vague on details."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/03/doubling-the-voltage-what-800-v-architecture-really-changes-in-evs/",
+        "title": "Doubling the voltage: What 800 V architecture really changes in EVs",
+        "link": "https://arstechnica.com/cars/2026/03/doubling-the-voltage-what-800-v-architecture-really-changes-in-evs/",
+        "published": "Fri, 13 Mar 2026 18:30:17 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Confused about electric vehicle voltages? You won't be after reading this."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/att-wrongly-charged-man-6196-reversed-bill-after-hearing-from-ars/",
+        "title": "Another AT&T FirstNet user gets shocking $6,200 bill, at $2 per megabyte",
+        "link": "https://arstechnica.com/tech-policy/2026/03/att-wrongly-charged-man-6196-reversed-bill-after-hearing-from-ars/",
+        "published": "Fri, 13 Mar 2026 17:49:44 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Bizarre FirstNet charge nearly identical to one that hit different user in 2024."
+    },
+    {
+        "id": "https://www.engadget.com/computing/laptops/the-macbook-neo-is-apples-most-repairable-laptop-200923202.html?src=rss",
+        "title": "The MacBook Neo is Apple's most repairable laptop",
+        "link": "https://www.engadget.com/computing/laptops/the-macbook-neo-is-apples-most-repairable-laptop-200923202.html?src=rss",
+        "published": "Fri, 13 Mar 2026 20:09:23 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple's cheapest laptop is also its most repairable. iFixit gave the new <a class=\"link\" href=\"https://www.engadget.com/computing/laptops/macbook-neo-review-apple-puts-every-600-windows-pc-to-shame-130000878.html\" target=\"_blank\">MacBook Neo</a> a 6/10 repairability score. Although that number would only be mediocre for, say, a game review or final exam grade, it's the MacBook line's highest iFixit score in about 14 years.</p><p>As always, iFixit <a class=\"link rapid-with-clickid\" href=\"https"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html?src=rss",
+        "title": "Meta is killing end-to-end encryption in Instagram DMs",
+        "link": "https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html?src=rss",
+        "published": "Fri, 13 Mar 2026 19:52:07 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Meta is killing end-to-end encryption in Instagram DMs. The feature will \"no longer be supported after May 8, 2026,\" the company wrote in <a class=\"link\" href=\"https://help.instagram.com/491565145294150/?helpref=uf_share\" target=\"_blank\">an update</a> on its support page. Unlike WhatsApp, Meta never made encryption available to all Instagram users and it was never a default setting. Instead, users in \"some areas\" had the ability <a class=\"link\" href=\"https://help.instagram.com/116583500722276"
+    },
+    {
+        "id": "https://github.com/Hammerspoon/hammerspoon",
+        "title": "Hammerspoon",
+        "link": "https://github.com/Hammerspoon/hammerspoon",
+        "published": "Fri, 13 Mar 2026 18:34:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47367932\">Comments</a>"
+    },
+    {
+        "id": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+        "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
+        "link": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+        "published": "Fri, 13 Mar 2026 19:15:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47368430\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/macbook-neo-best-buy-deal/",
+        "title": "Best Buy is already selling the MacBook Neo for less than retail - and yes, there's a catch",
+        "link": "https://www.zdnet.com/article/macbook-neo-best-buy-deal/",
+        "published": "Fri, 13 Mar 2026 20:16:00 GMT",
+        "source": "Latest news",
+        "summary": "Best Buy has open-box discounts on the brand-new MacBook Neo for anyone looking to save a few bucks."
+    },
+    {
+        "id": "https://www.zdnet.com/article/milwaukee-wrench-set-deal-home-depot/",
+        "title": "This bestselling 30-piece Milwaukee wrench set is 25% off at Home Depot",
+        "link": "https://www.zdnet.com/article/milwaukee-wrench-set-deal-home-depot/",
+        "published": "Fri, 13 Mar 2026 19:00:42 GMT",
+        "source": "Latest news",
+        "summary": "Looking to expand your toolbox this spring? The Home Depot is selling the 30-piece Milwaukee SAE/Metric combination wrench set for $130 off."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/europe-takes-first-step-to-banning-ai-generated-child-sexual-abuse-images/articleshow/129563039.cms",
+        "title": "Europe takes first step to banning AI-generated child sexual abuse images",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/europe-takes-first-step-to-banning-ai-generated-child-sexual-abuse-images/articleshow/129563039.cms",
+        "published": "Fri, 13 Mar 2026 23:58:40 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Governments and regulators \u200bfrom Europe to Asia are cracking down on sexually \u200bexplicit content generated by Elon Musk's xAI chatbot Grok on X as well as \u200bsexually intimate deepfakes produced by \u2060Grok."
     }
 ]
