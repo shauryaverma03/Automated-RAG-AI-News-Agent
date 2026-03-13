@@ -146694,5 +146694,61 @@
         "published": "Thu, 12 Mar 2026 10:47:24 GMT",
         "source": "YourStory RSS Feed",
         "summary": "India\u2019s innovation ecosystem received another boost as the Department for Promotion of Industry and Internal Trade (DPIIT) felicitated winners"
+    },
+    {
+        "id": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+        "title": "\u201cThis is not the computer for you\u201d",
+        "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+        "published": "Fri, 13 Mar 2026 01:45:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47359744\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-wsj-reports/articleshow/129535315.cms",
+        "title": "China's ByteDance gets access to top Nvidia AI chips, WSJ reports",
+        "link": "https://economictimes.indiatimes.com/tech/technology/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-wsj-reports/articleshow/129535315.cms",
+        "published": "Fri, 13 Mar 2026 09:00:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "ByteDance \u200bis \u2060working with \u200cSoutheast \u200bAsian \u200bfirm \u2060Aolani Cloud to deploy about \u200b500 Nvidia Blackwell \u200bcomputing systems in Malaysia, totalling roughly \u200c36,000 B200 chips, the \u200breport \u200bsaid."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/one-fifth-of-australian-teens-still-use-tiktok-snapchat-after-social-media-ban/articleshow/129535238.cms",
+        "title": "One-fifth of Australian teens still use TikTok, Snapchat after social media ban",
+        "link": "https://economictimes.indiatimes.com/tech/technology/one-fifth-of-australian-teens-still-use-tiktok-snapchat-after-social-media-ban/articleshow/129535238.cms",
+        "published": "Fri, 13 Mar 2026 08:57:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The number of 13-to-15-year-olds using TikTok and Snapchat, among the most popular social media \u200capps with Australian teenagers, \u2060fell from \u2060before the ban took effect in December to February, but still more than 20% used the apps, according to a report by parental \u200bcontrol software maker Qustodio."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/besi-attracts-takeover-interest-as-advanced-chip-packaging-demand-surges-sources-say/articleshow/129534542.cms",
+        "title": "BESI attracts takeover interest as advanced chip packaging demand surges",
+        "link": "https://economictimes.indiatimes.com/tech/technology/besi-attracts-takeover-interest-as-advanced-chip-packaging-demand-surges-sources-say/articleshow/129534542.cms",
+        "published": "Fri, 13 Mar 2026 08:46:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "BE Semiconductor Industries has been \u200bfielding takeover interest. The chip equipment maker which has a market value of 14 billion euros ($16.20 billion), has been working with investment bank Morgan Stanley to evaluate the approaches."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/musks-x-to-change-verification-system-in-europe-report/articleshow/129534438.cms",
+        "title": "Musk's X to change verification system in Europe: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/musks-x-to-change-verification-system-in-europe-report/articleshow/129534438.cms",
+        "published": "Fri, 13 Mar 2026 08:31:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Elon Musk's social media company X has \u200bagreed to change \u200bits verification mechanism in the European Union \u200bfollowing a fine of 120 million euros, Bloomberg News reported on Thursday, citing a European Commission spokesperson."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-invests-100-million-into-claude-ai-program/articleshow/129533940.cms",
+        "title": "Anthropic invests $100 million into Claude AI program",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-invests-100-million-into-claude-ai-program/articleshow/129533940.cms",
+        "published": "Fri, 13 Mar 2026 08:10:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic launched the Claude Partner Network to help enterprises adopt its Claude model. The AI lab plans an initial $100 million investment in 2026 for training, technical support and market development. Meanwhile, the firm faces a dispute with the United States Department of Defense over supply-chain risk concerns."
+    },
+    {
+        "id": "https://inc42.com/buzz/sarvams-litmus-test-more-fuel-for-blinkit-more/",
+        "title": "Sarvam\u2019s Litmus Test, More Fuel For Blinkit & More",
+        "link": "https://inc42.com/buzz/sarvams-litmus-test-more-fuel-for-blinkit-more/",
+        "published": "Fri, 13 Mar 2026 02:30:37 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Sarvam\u2019s Litmus Test, More Fuel For Blinkit &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/FTR-Daily-Brief-2026-03-13T005459.143.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Sarvam\u2019s Adoption Bottlenecks India has no dearth of large language models (LLMs). Yet, most AI models struggle with the country&#8230;"
     }
 ]
