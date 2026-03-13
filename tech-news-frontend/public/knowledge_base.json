@@ -146638,5 +146638,61 @@
         "published": "Thu, 12 Mar 2026 22:36:56 GMT",
         "source": "Latest news",
         "summary": "Safe mode helps you see if a buggy app is causing your Android phone to crash, freeze, or slow down. Here's how."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+        "title": "How to watch Jensen Huang\u2019s Nvidia GTC 2026 keynote",
+        "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+        "published": "Thu, 12 Mar 2026 23:25:39 +0000",
+        "source": "TechCrunch",
+        "summary": "Nvidia kicks off its GTC conference with Huang's keynote on Monday, which can be watched in person or via livestream."
+    },
+    {
+        "id": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
+        "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
+        "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
+        "published": "Fri, 13 Mar 2026 00:17:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47359136\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/nxtgen-gears-up-for-enterprise-play-with-its-rs-3600-crore-sovereign-ai-factory/articleshow/129520105.cms",
+        "title": "NxtGen gears up for enterprise play with its Rs 3,600 crore sovereign AI factory",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nxtgen-gears-up-for-enterprise-play-with-its-rs-3600-crore-sovereign-ai-factory/articleshow/129520105.cms",
+        "published": "Fri, 13 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Teams up with Dell, Nvidia, CommScope and Vertiv to back enterprise inference"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/iran-threat-raises-war-risks-for-30-billion-gulf-data-centre-boom/articleshow/129518989.cms",
+        "title": "Iran war: Billions of dollars at risk for US tech companies",
+        "link": "https://economictimes.indiatimes.com/tech/technology/iran-threat-raises-war-risks-for-30-billion-gulf-data-centre-boom/articleshow/129518989.cms",
+        "published": "Fri, 13 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Iran\u2019s threat against US technology companies in the Gulf region could expose billions of dollars in digital infrastructure to war risks, potentially disrupting the global technology economy, experts said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/chip-firms-tap-gujarat-govt-for-free-trade-zone-and-shared-warehouse/articleshow/129518459.cms",
+        "title": "Chip firms tap Gujarat govt for free trade zone and shared warehouse",
+        "link": "https://economictimes.indiatimes.com/tech/technology/chip-firms-tap-gujarat-govt-for-free-trade-zone-and-shared-warehouse/articleshow/129518459.cms",
+        "published": "Fri, 13 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Semiconductor equipment makers, memory storage suppliers and companies that specialise in chip packaging and testing have approached the Gujarat government, requesting setting up of an exclusive free trade zone and shared warehousing infrastructure for the sector, people in the know told ET."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/flipkart-amazon-expand-dark-stores-as-profit-check-slows-quick-commerce-majors/articleshow/129517458.cms",
+        "title": "Flipkart, Amazon expand dark stores as profit check slows quick commerce majors",
+        "link": "https://economictimes.indiatimes.com/tech/technology/flipkart-amazon-expand-dark-stores-as-profit-check-slows-quick-commerce-majors/articleshow/129517458.cms",
+        "published": "Fri, 13 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The quick-commerce foray of Flipkart and Amazon appears to have coincided with the profitability check at pioneers in this space -Swiggy and IPO-bound Zepto \u2013 and amid a broader debate over employment conditions in the last-mile, instant delivery revenue stream."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/national-startup-awards-2026-dpiit-honours-20-startups-india",
+        "title": "Meet the 20 Startups That Won India\u2019s National Startup Awards 2026",
+        "link": "https://yourstory.com/2026/03/national-startup-awards-2026-dpiit-honours-20-startups-india",
+        "published": "Thu, 12 Mar 2026 10:47:24 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "India\u2019s innovation ecosystem received another boost as the Department for Promotion of Industry and Internal Trade (DPIIT) felicitated winners"
     }
 ]
