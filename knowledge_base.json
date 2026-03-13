@@ -148206,5 +148206,21 @@
         "published": "Fri, 13 Mar 2026 21:33:23 +0000",
         "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
         "summary": "<p>Meta AI should soon be better at surfacing international news content thanks to a set of new deals with publishers. The company announced <a class=\"link\" href=\"https://about.fb.com/news/2026/03/bringing-more-international-news-and-content-to-meta-ai/\" target=\"_blank\">new agreements</a> with international outlets and offered additional details on its recent deal with News Corp.&nbsp;</p><p>The latest deals bring French newspaper <em>Le Figaro</em>, Spanish media company Prisa and German newspa"
+    },
+    {
+        "id": "https://www.engadget.com/apps/openai-reportedly-plans-to-add-sora-video-generation-to-chatgpt-222611439.html?src=rss",
+        "title": "OpenAI reportedly plans to add Sora video generation to ChatGPT",
+        "link": "https://www.engadget.com/apps/openai-reportedly-plans-to-add-sora-video-generation-to-chatgpt-222611439.html?src=rss",
+        "published": "Fri, 13 Mar 2026 22:26:11 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>OpenAI plans to add its Sora video generation model directly into ChatGPT, <a class=\"no-affiliate-link link\" href=\"https://www.theinformation.com/articles/openai-plans-launch-sora-video-ai-chatgpt-strategy-shift\" target=\"_blank\"><em>The Information </em>reports </a>. The standalone <a class=\"link\" href=\"https://www.engadget.com/ai/openais-sora-app-is-real-but-youll-need-an-invite-to-try-it-171849671.html\" target=\"_blank\">Sora app</a> was seen as a smash hit when it launched alongside Sora 2 i"
+    },
+    {
+        "id": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+        "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+        "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+        "published": "Fri, 13 Mar 2026 22:52:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47371064\">Comments</a>"
     }
 ]
