@@ -148446,5 +148446,29 @@
         "published": "Sat, 14 Mar 2026 12:04:08 +0530",
         "source": "Tech-Economic Times",
         "summary": "In the new role, Chaplot will work closely with Musk and the teams at both companies to build superintelligence. Earlier, Chaplot worked in academia, Big Tech, research, and AI startups, with a focus on robotics, embodied AI and LLMs. Part of the founding team at French tech company Mistral AI, Chaplot has contributed to models such as Mistral 7B and Mixtral. He has also worked at Thinking Machines Lab, which works on large-scale training infrastructure and tools for foundation models."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
+        "title": "Staff complain that xAI is flailing because of constant upheaval",
+        "link": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
+        "published": "Sat, 14 Mar 2026 07:14:53 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Staff complain that the constant upheaval is destroying morale."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/uber-founder-travis-kalanick-rebrands-existing-venture-to-atoms-with-focus-on-robotics/articleshow/129570949.cms",
+        "title": "Uber founder Travis Kalanick rebrands existing venture to Atoms with focus on robotics",
+        "link": "https://economictimes.indiatimes.com/tech/technology/uber-founder-travis-kalanick-rebrands-existing-venture-to-atoms-with-focus-on-robotics/articleshow/129570949.cms",
+        "published": "Sat, 14 Mar 2026 13:21:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Kalanick announced the move in an interview on the TBPN podcast. During these eight years, he raised hundreds of millions, including $400 million from Saudi Arabia\u2019s PIF, for CloudKitchens and worked on the idea of delivering prepared meals so efficiently that costs approach those of grocery shopping."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-ends-end-to-end-encryption-for-instagram-dms-what-this-means/articleshow/129570878.cms",
+        "title": "Meta ends end-to-end encryption for Instagram DMs: what this means",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-ends-end-to-end-encryption-for-instagram-dms-what-this-means/articleshow/129570878.cms",
+        "published": "Sat, 14 Mar 2026 13:10:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Instagram had introduced the optional end-to-end encryption in December 2023. Users had to enable it manually per chat, unlike the default encryption available on WhatsApp or Messenger. After May 8, these chats will revert to the unencrypted mode, giving Meta access to content for scanning and moderation. The move follows Instagram prioritising safety over secrecy, amid lawsuits over platform harms."
     }
 ]
