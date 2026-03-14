@@ -148222,5 +148222,77 @@
         "published": "Fri, 13 Mar 2026 22:52:05 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47371064\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+        "title": "\u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
+        "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+        "published": "Sat, 14 Mar 2026 00:12:22 +0000",
+        "source": "TechCrunch",
+        "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+        "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+        "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+        "published": "Sat, 14 Mar 2026 00:01:02 +0000",
+        "source": "TechCrunch",
+        "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards."
+    },
+    {
+        "id": "https://www.wired.com/story/in-transit-las-vegas/",
+        "title": "What to Do in Vegas If You\u2019re Here for Business (2026)",
+        "link": "https://www.wired.com/story/in-transit-las-vegas/",
+        "published": "Fri, 13 Mar 2026 23:37:36 +0000",
+        "source": "WIRED",
+        "summary": "Where to lock in, power down, and actually enjoy your business trip."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/",
+        "title": "Woman sneezes out maggots after fly larvae get trapped in her deviated septum",
+        "link": "https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/",
+        "published": "Fri, 13 Mar 2026 22:38:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "She made a full recovery, despite the maggots."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/",
+        "title": "Slay the Spire 2 is a bit too familiar for its own good",
+        "link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/",
+        "published": "Fri, 13 Mar 2026 22:26:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Early Access impressions: New characters shine, but it feels like we've done this before."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+        "title": "Figuring out why AIs get flummoxed by some games",
+        "link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+        "published": "Fri, 13 Mar 2026 21:47:34 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "When winning depends on intuiting a mathematical function, AIs come up short."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
+        "title": "Google Fiber will be sold to private equity firm and merge with cable company",
+        "link": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
+        "published": "Fri, 13 Mar 2026 20:57:54 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "GFiber and Astound to merge with Alphabet selling majority stake to Stonepeak."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+        "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+        "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+        "published": "Fri, 13 Mar 2026 20:18:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Unicode that's invisible to the human eye was largely abandoned\u2014until attackers took notice."
+    },
+    {
+        "id": "https://claude.com/blog/1m-context-ga",
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "link": "https://claude.com/blog/1m-context-ga",
+        "published": "Fri, 13 Mar 2026 17:19:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47367129\">Comments</a>"
     }
 ]
