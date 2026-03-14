@@ -148990,5 +148990,37 @@
         "published": "Sat, 14 Mar 2026 16:01:23 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47377998\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+        "title": "Meta is reportedly laying off up to 20 percent of its staff",
+        "link": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+        "published": "2026-03-14T14:48:56-04:00",
+        "source": "The Verge",
+        "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminating roughly 15,800 positions. That would be the largest series of layoffs at the company since [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/music/spotifys-new-taste-profile-feature-lets-users-fine-tune-their-algorithms-recommendations-191104626.html?src=rss",
+        "title": "Spotify\u2019s new Taste Profile feature lets users fine-tune their algorithm\u2019s recommendations",
+        "link": "https://www.engadget.com/entertainment/music/spotifys-new-taste-profile-feature-lets-users-fine-tune-their-algorithms-recommendations-191104626.html?src=rss",
+        "published": "Sat, 14 Mar 2026 19:11:04 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>You're responsible for your own Spotify algorithm now. On stage at SXSW, Spotify's co-CEO, Gustav S\u00f6derstr\u00f6m, announced the <a class=\"no-affiliate-link\" href=\"https://newsroom.spotify.com/2026-03-13/taste-profile-beta-announcement/\">Taste Profile</a> feature, which allows users to personally customize exactly what they want to listen to, whether it's music, audiobooks or podcasts. This AI-powered feature is still in beta, and it will be available to Premium users in New Zealand in the coming "
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/tamil-nadu-govt-invests-rs-25-crore-in-space-startup-agnikul-cosmos/articleshow/129579645.cms",
+        "title": "Tamil Nadu govt invests Rs 25 crore in space startup Agnikul Cosmos",
+        "link": "https://economictimes.indiatimes.com/tech/startups/tamil-nadu-govt-invests-rs-25-crore-in-space-startup-agnikul-cosmos/articleshow/129579645.cms",
+        "published": "Sat, 14 Mar 2026 23:53:11 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The latest investment would help accelerate Agnikul's operational readiness, supporting the scaling of its aerospace manufacturing capabilities, advancing its stage recovery program, and strengthening the development of its integrated space campus on the 300 acres allocated by the Tamil Nadu government near Kulasekharapatnam."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/when-your-apple-watch-becomes-an-office-taskmaster/articleshow/129579588.cms",
+        "title": "When your Apple watch becomes an office taskmaster",
+        "link": "https://economictimes.indiatimes.com/tech/technology/when-your-apple-watch-becomes-an-office-taskmaster/articleshow/129579588.cms",
+        "published": "Sat, 14 Mar 2026 23:48:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "White-collar workers increasingly track heart rate variability (HRV) with wearables to boost health and workplace performance. The trend has created HRV coaching and biohacking industries, though experts warn the obsession may be misleading, unhealthy, or anxiety-inducing."
     }
 ]
