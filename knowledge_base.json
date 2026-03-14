@@ -148910,5 +148910,29 @@
         "published": "Sat, 14 Mar 2026 14:53:24 GMT",
         "source": "YourStory RSS Feed",
         "summary": "At SheSparks 2026, one session stood out for its quiet power. Three women sat on stage and shared what it means to take control of not just vehicles but their lives as well."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+        "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+        "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+        "published": "Sat, 14 Mar 2026 16:28:42 +0000",
+        "source": "TechCrunch",
+        "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring."
+    },
+    {
+        "id": "https://nmap.org/movies/",
+        "title": "NMAP in the Movies",
+        "link": "https://nmap.org/movies/",
+        "published": "Sat, 14 Mar 2026 16:25:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47378268\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/bytedance-suspends-launch-of-video-ai-model-after-copyright-disputes-report/articleshow/129577766.cms",
+        "title": "ByteDance suspends launch of video AI model after copyright disputes: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/bytedance-suspends-launch-of-video-ai-model-after-copyright-disputes-report/articleshow/129577766.cms",
+        "published": "Sat, 14 Mar 2026 21:47:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "ByteDance \u200bhas put \u200bon hold the global launch \u200cof \u2060its \u2060latest \u200bvideo-generation model, Seedance 2.0, \u200bafter a series \u200bof \u2060copyright disputes \u200cwith \u200bmajor \u200bHollywood \u2060studios and streaming platforms, \u200bThe Information \u200breported on Saturday."
     }
 ]
