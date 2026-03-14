@@ -149022,5 +149022,37 @@
         "published": "Sat, 14 Mar 2026 23:48:28 +0530",
         "source": "Tech-Economic Times",
         "summary": "White-collar workers increasingly track heart rate variability (HRV) with wearables to boost health and workplace performance. The trend has created HRV coaching and biohacking industries, though experts warn the obsession may be misleading, unhealthy, or anxiety-inducing."
+    },
+    {
+        "id": "https://hostilevolume.com/",
+        "title": "Hostile Volume \u2013 A game about adjusting volume with intentionally bad UI",
+        "link": "https://hostilevolume.com/",
+        "published": "Sat, 14 Mar 2026 18:39:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47379712\">Comments</a>"
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=47379898",
+        "title": "Show HN: Ichinichi \u2013 One note per day, E2E encrypted, local-first",
+        "link": "https://news.ycombinator.com/item?id=47379898",
+        "published": "Sat, 14 Mar 2026 18:57:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47379898\">Comments</a>"
+    },
+    {
+        "id": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
+        "title": "2026 tech layoffs reach 45,000 in March",
+        "link": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
+        "published": "Sat, 14 Mar 2026 19:46:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47380405\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/liorwn/claudetop",
+        "title": "Claudetop \u2013 htop for Claude Code sessions (see your AI spend in real-time)",
+        "link": "https://github.com/liorwn/claudetop",
+        "published": "Sat, 14 Mar 2026 19:26:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47380203\">Comments</a>"
     }
 ]
