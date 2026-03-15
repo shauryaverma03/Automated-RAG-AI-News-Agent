@@ -149798,5 +149798,21 @@
         "published": "Wed, 11 Mar 2026 18:39:25 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47339463\">Comments</a>"
+    },
+    {
+        "id": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+        "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+        "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+        "published": "Sun, 15 Mar 2026 21:22:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47392084\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/lux-db/lux",
+        "title": "Show HN: Lux \u2013 Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image",
+        "link": "https://github.com/lux-db/lux",
+        "published": "Sun, 15 Mar 2026 21:12:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47391982\">Comments</a>"
     }
 ]
