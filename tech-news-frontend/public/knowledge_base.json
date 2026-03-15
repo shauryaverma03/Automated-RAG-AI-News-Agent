@@ -149750,5 +149750,29 @@
         "published": "Sun, 15 Mar 2026 15:46:19 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47388531\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+        "title": "Aether OS is computer in a browser built for the AT Protocol",
+        "link": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+        "published": "2026-03-15T15:35:57-04:00",
+        "source": "The Verge",
+        "summary": "Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol. That means it connects to your Bluesky account and other public records. It offers a pretty full suite of apps, 42 in total, covering text editing, task management, and social media. There's even a rudimentary tracker for making chiptunes, [&#8230;]"
+    },
+    {
+        "id": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+        "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+        "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+        "published": "Sun, 15 Mar 2026 19:12:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47390817\">Comments</a>"
+    },
+    {
+        "id": "https://sebastianraschka.com/llm-architecture-gallery/",
+        "title": "LLM Architecture Gallery",
+        "link": "https://sebastianraschka.com/llm-architecture-gallery/",
+        "published": "Sun, 15 Mar 2026 16:01:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47388676\">Comments</a>"
     }
 ]
