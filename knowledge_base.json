@@ -149294,5 +149294,45 @@
         "published": "Sun, 15 Mar 2026 02:15:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 223rd quiz. Ready?"
+    },
+    {
+        "id": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+        "title": "Why Mathematica does not simplify sinh(arccosh(x))",
+        "link": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+        "published": "Wed, 11 Mar 2026 13:30:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47335325\">Comments</a>"
+    },
+    {
+        "id": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+        "title": "How kernel anti-cheats work",
+        "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+        "published": "Sun, 15 Mar 2026 00:15:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47382791\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/internet/flipkart-calls-re-1-milk-offer-a-limited-promotion-after-bamul-moves-cci/articleshow/129586245.cms",
+        "title": "Flipkart calls Re 1 milk offer a limited promotion after Bamul moves CCI",
+        "link": "https://economictimes.indiatimes.com/tech/internet/flipkart-calls-re-1-milk-offer-a-limited-promotion-after-bamul-moves-cci/articleshow/129586245.cms",
+        "published": "Sun, 15 Mar 2026 12:55:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Walmart-backed ecommerce platform clarified that it runs promotional offers periodically on select products on its marketplace and remains committed to working with farmers, cooperatives and sellers across India to expand market access and support their growth. Bamul president DK Suresh, the younger brother of Karnataka\u2019s deputy chief minister DK Shivakumar, alleged that Flipkart was selling milk at Re 1 per litre through investor-funded discount campaigns, a practice that undermined the dig"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/lpg-shortage-drives-indianoil-one-past-chatgpt-on-google-play-store-hp-pay-hellobpcl-also-climb-charts/articleshow/129586117.cms",
+        "title": "LPG shortage drives IndianOil ONE past ChatGPT on Google Play Store; HP Pay, HelloBPCL also climb charts",
+        "link": "https://economictimes.indiatimes.com/tech/technology/lpg-shortage-drives-indianoil-one-past-chatgpt-on-google-play-store-hp-pay-hellobpcl-also-climb-charts/articleshow/129586117.cms",
+        "published": "Sun, 15 Mar 2026 12:43:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Due to the spike in downloads, the IndianOil ONE app is reportedly experiencing high traffic and has temporarily limited certain features, including new registrations. Meanwhile, households are relying on mobile platforms to book refills and track delivery status, rather than contacting distributors or visiting agencies in person."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dubai-based-solstice-data-signs-rs-52600-cr-mou-for-investment-in-kerala/articleshow/129585840.cms",
+        "title": "Dubai-based Solstice Data signs Rs 52,600 cr MoU for investment in Kerala",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dubai-based-solstice-data-signs-rs-52600-cr-mou-for-investment-in-kerala/articleshow/129585840.cms",
+        "published": "Sun, 15 Mar 2026 12:11:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Solstice Data, a global leader in AI-driven data centres, will invest Rs 52,600 crore in Kannur's KINFRA Industrial Park. The company secured 100 acres for its advanced facilities. This project aims to unlock significant digital opportunities in Kerala. The investment will be realized over five to seven years, marking a major industrial milestone for the region."
     }
 ]
