@@ -149518,5 +149518,53 @@
         "published": "Sun, 15 Mar 2026 11:15:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Zari-zardozi from Mainpuri is a home-grown craft built on women\u2019s stitching networks, shared learning and small-batch production rather"
+    },
+    {
+        "id": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
+        "title": "Samsung\u2019s Galaxy Buds 4 Pro are the choice \u2014 if you have a Galaxy phone",
+        "link": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
+        "published": "2026-03-15T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Samsung promised \"more than a design refresh\" for its new top-end Galaxy Buds - it added upgraded woofers for improved, dual-amped hi-fi sound, a new blade design, clearer call performance, and better noise cancellation. Ultimately, while the $249.99 Galaxy Buds 4 aren't a huge leap forward over the previous model, they keep what was good [&#8230;]"
+    },
+    {
+        "id": "https://tomclancy.info/harold-and-george.html",
+        "title": "A Theory of the World as run by large adult children",
+        "link": "https://tomclancy.info/harold-and-george.html",
+        "published": "Sun, 15 Mar 2026 12:48:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47386908\">Comments</a>"
+    },
+    {
+        "id": "https://signet.watch",
+        "title": "Show HN: Signet \u2013 Autonomous wildfire tracking from satellite and weather data",
+        "link": "https://signet.watch",
+        "published": "Sun, 15 Mar 2026 12:01:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47386581\">Comments</a>"
+    },
+    {
+        "id": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+        "title": "100 hour gap between a vibecoded prototype and a working product",
+        "link": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+        "published": "Sun, 15 Mar 2026 12:09:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47386636\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-revolution-unavoidable-will-impact-every-aspect-of-human-life-samsung-mobile-business-coo/articleshow/129590418.cms",
+        "title": "AI revolution unavoidable, will impact every aspect of human life: Samsung Mobile Business COO",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-revolution-unavoidable-will-impact-every-aspect-of-human-life-samsung-mobile-business-coo/articleshow/129590418.cms",
+        "published": "Sun, 15 Mar 2026 18:59:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Samsung Electronics Mobile Experience COO Won\u2011Joon Choi said the AI revolution is unavoidable and will transform fields like medical, law and HR. Companies must keep investing in research. Samsung plans AI on 800 million devices using hybrid AI, partnerships like Perplexity AI and Google Gemini, while prioritising privacy and local language support."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/palantir-uses-anthropics-claude-despite-pentagons-supply-chain-risk-tag-ceo-alex-karp/articleshow/129589759.cms",
+        "title": "Palantir uses Anthropic\u2019s Claude despite Pentagon's 'supply chain risk' tag: CEO Alex Karp",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/palantir-uses-anthropics-claude-despite-pentagons-supply-chain-risk-tag-ceo-alex-karp/articleshow/129589759.cms",
+        "published": "Sun, 15 Mar 2026 18:03:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Palantir CEO Alex Karp said the company still uses Anthropic\u2019s Claude AI models despite the Pentagon classifying the firm as a supply chain risk. The US government plans a phase-out within six months, though officials say replacing systems will take time because the technology is already deeply integrated with military infrastructure."
     }
 ]
