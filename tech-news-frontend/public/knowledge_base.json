@@ -149702,5 +149702,29 @@
         "published": "Sun, 15 Mar 2026 22:10:24 +0530",
         "source": "Tech-Economic Times",
         "summary": "The US Army has signed an agreement with defence tech startup Anduril Industries that could be worth up to $20 billion. The enterprise contract aims to streamline procurement and speed up access to software, hardware and infrastructure. Separately, Anduril is exploring a new funding round that could value the company at about $60 billion."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+        "title": "Unacademy to be acquired by upGrad in share-swap deal as India\u2019s edtech sector consolidates",
+        "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+        "published": "Sun, 15 Mar 2026 17:19:47 +0000",
+        "source": "TechCrunch",
+        "summary": "The deal comes after Unacademy\u2019s valuation plunged from $3.5B to under $500M, as India\u2019s once-booming edtech sector struggles."
+    },
+    {
+        "id": "https://isaacfreund.com/blog/river-window-management/",
+        "title": "Separating the Wayland Compositor and Window Manager",
+        "link": "https://isaacfreund.com/blog/river-window-management/",
+        "published": "Sun, 15 Mar 2026 15:09:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47388137\">Comments</a>"
+    },
+    {
+        "id": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
+        "title": "C++26: The Oxford Variadic Comma",
+        "link": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
+        "published": "Wed, 11 Mar 2026 07:27:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47332593\">Comments</a>"
     }
 ]
