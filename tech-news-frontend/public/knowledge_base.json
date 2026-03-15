@@ -149566,5 +149566,37 @@
         "published": "Sun, 15 Mar 2026 18:03:07 +0530",
         "source": "Tech-Economic Times",
         "summary": "Palantir CEO Alex Karp said the company still uses Anthropic\u2019s Claude AI models despite the Pentagon classifying the firm as a supply chain risk. The US government plans a phase-out within six months, though officials say replacing systems will take time because the technology is already deeply integrated with military infrastructure."
+    },
+    {
+        "id": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
+        "title": "AI Czar David Sacks wants Trump to \u2018get out\u2019 of Iran",
+        "link": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
+        "published": "2026-03-15T10:13:25-04:00",
+        "source": "The Verge",
+        "summary": "David Sacks, the White House's AI and crypto czar, has warned that a continued war in Iran could be catastrophic. On the All In podcast, Sacks said that \"we should try to find the off-ramp.\" He expressed concern that Iran could demolish oil and gas infrastructure across the Middle East, but more alarmingly, that it [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+        "title": "AI companies want to harvest improv actors\u2019 skills to train AI on human emotion",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+        "published": "2026-03-15T10:00:00-04:00",
+        "source": "The Verge",
+        "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents [&#8230;]"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/snabbit-raises-5060-million-led-by-mirae-asset-venture-investments/articleshow/129590783.cms",
+        "title": "Snabbit raises $50\u201360 million led by Mirae Asset Venture Investments",
+        "link": "https://economictimes.indiatimes.com/tech/funding/snabbit-raises-5060-million-led-by-mirae-asset-venture-investments/articleshow/129590783.cms",
+        "published": "Sun, 15 Mar 2026 19:38:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "On-demand home help Snabbit, founded by Aayush Agarwal, is raising $50-60 million led by Mirae Asset and BII, with new investor Susquehanna and Lightspeed joining. The startup, offering cleaning and laundry services in minutes, could reach a $350-400 million valuation amid rising orders and a booming $60 billion Indian home services market."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/travel-fintech-scapia-in-talks-with-general-catalyst-to-raise-50-60-million/articleshow/129590742.cms",
+        "title": "Travel fintech Scapia in talks with General Catalyst to raise $50-60 million",
+        "link": "https://economictimes.indiatimes.com/tech/funding/travel-fintech-scapia-in-talks-with-general-catalyst-to-raise-50-60-million/articleshow/129590742.cms",
+        "published": "Sun, 15 Mar 2026 19:31:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Scapia is in early talks to raise $50\u201360 million led by US VC General Catalyst, aiming to expand its co-branded credit cards and travel bookings. Founded by Anil Goteti, Scapia grew revenue 70% YoY to Rs 40.4 crore and cut losses, competing with Uni Cards, Niyo, and Jupiter."
     }
 ]
