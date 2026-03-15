@@ -149158,5 +149158,45 @@
         "published": "Sat, 14 Mar 2026 22:02:48 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47381731\">Comments</a>"
+    },
+    {
+        "id": "https://agelesslinux.org/",
+        "title": "Ageless Linux \u2013 Software for humans of indeterminate age",
+        "link": "https://agelesslinux.org/",
+        "published": "Sat, 14 Mar 2026 22:10:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47381791\">Comments</a>"
+    },
+    {
+        "id": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+        "title": "Airbus is preparing two uncrewed combat aircraft",
+        "link": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+        "published": "Sat, 14 Mar 2026 23:10:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47382277\">Comments</a>"
+    },
+    {
+        "id": "https://david.alvarezrosa.com/posts/deriving-type-erasure/",
+        "title": "Deriving Type Erasure",
+        "link": "https://david.alvarezrosa.com/posts/deriving-type-erasure/",
+        "published": "Tue, 10 Mar 2026 10:41:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47321469\">Comments</a>"
+    },
+    {
+        "id": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
+        "title": "Hazardous substances found in all headphones tested by ToxFREE project",
+        "link": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
+        "published": "Sat, 14 Mar 2026 23:00:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47382196\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-push-speeds-up-work-but-quietly-shrinks-breaks/articleshow/129579529.cms",
+        "title": "AI push speeds up work, but quietly shrinks breaks",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-push-speeds-up-work-but-quietly-shrinks-breaks/articleshow/129579529.cms",
+        "published": "Sun, 15 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "With AI's quick help, employees tempted to work through breaks between tasks. Top human resources executives and consultants said early signals of the shift are visible as generative AI tools move from experimentation to everyday work."
     }
 ]
