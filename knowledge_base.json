@@ -149774,5 +149774,29 @@
         "published": "Sun, 15 Mar 2026 16:01:09 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47388676\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+        "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+        "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+        "published": "Sun, 15 Mar 2026 21:01:51 +0000",
+        "source": "TechCrunch",
+        "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues."
+    },
+    {
+        "id": "https://thatshubham.com/blog/news-audit",
+        "title": "The 49MB Web Page",
+        "link": "https://thatshubham.com/blog/news-audit",
+        "published": "Sun, 15 Mar 2026 19:25:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47390945\">Comments</a>"
+    },
+    {
+        "id": "https://go.dev/blog/inliner",
+        "title": "//go:fix inline and the source-level inliner",
+        "link": "https://go.dev/blog/inliner",
+        "published": "Wed, 11 Mar 2026 18:39:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47339463\">Comments</a>"
     }
 ]
