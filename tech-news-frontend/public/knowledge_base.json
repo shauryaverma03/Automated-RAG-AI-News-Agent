@@ -150774,5 +150774,133 @@
         "published": "Mon, 16 Mar 2026 14:48:47 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Susquehanna Asia VC leads the round as the company scales internationally and builds AI-driven tools to simplify visa applications."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+        "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+        "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+        "published": "Mon, 16 Mar 2026 17:47:32 +0000",
+        "source": "TechCrunch",
+        "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it just raise $143 million."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+        "title": "Fuse raises $25M  to disrupt aging loan origination systems used by U.S. credit unions",
+        "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+        "published": "Mon, 16 Mar 2026 17:43:27 +0000",
+        "source": "TechCrunch",
+        "summary": "The startup also announced a $5M 'rescue fund' to help credit unions ditch legacy software for its AI-native platform."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/16/the-dictionary-sues-openai/",
+        "title": "The dictionary sues OpenAI",
+        "link": "https://techcrunch.com/2026/03/16/the-dictionary-sues-openai/",
+        "published": "Mon, 16 Mar 2026 17:38:34 +0000",
+        "source": "TechCrunch",
+        "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+        "title": "Encyclopedia Britannica is suing OpenAI for allegedly \u2018memorizing\u2019 its content with ChatGPT",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+        "published": "2026-03-16T13:04:06-04:00",
+        "source": "The Verge",
+        "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. According to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/895340/fire-tv-stick-4k-max-plus-amazon-early-big-spring-sale-deal-sale",
+        "title": "Amazon\u2019s Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off",
+        "link": "https://www.theverge.com/gadgets/895340/fire-tv-stick-4k-max-plus-amazon-early-big-spring-sale-deal-sale",
+        "published": "2026-03-16T13:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Since Amazon rolled out its redesigned Fire TV OS, Amazon\u2019s latest streaming sticks are even better than ever. And right now, both the Fire TV Stick 4K Max and Fire TV Stick 4K Plus are back at their best prices yet during Amazon\u2019s early Big Spring Sale event. You can buy the Fire TV Stick [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/wired-article-production-automation-page-only-for-qa-do-not-click-do-not-publish/",
+        "title": "WIRED Article Production automation page/Only for QA/Do not click/Do not publish",
+        "link": "https://www.wired.com/story/wired-article-production-automation-page-only-for-qa-do-not-click-do-not-publish/",
+        "published": "Mon, 16 Mar 2026 17:48:47 +0000",
+        "source": "WIRED",
+        "summary": "tee"
+    },
+    {
+        "id": "https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/",
+        "title": "JBL\u2019s Best Wireless Headphones Are $170 Off at Walmart",
+        "link": "https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/",
+        "published": "Mon, 16 Mar 2026 17:04:21 +0000",
+        "source": "WIRED",
+        "summary": "The Tour One M3 headphones offer flagship performance at midrange pricing, as long as color is negotiable for you."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/03/f1-in-china-ive-never-seen-so-many-people-in-those-grandstands/",
+        "title": "F1 in China: I've never seen so many people in those grandstands",
+        "link": "https://arstechnica.com/cars/2026/03/f1-in-china-ive-never-seen-so-many-people-in-those-grandstands/",
+        "published": "Mon, 16 Mar 2026 17:11:42 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Formula 1's new style of racing puts on an entertaining sprint weekend in Shanghai."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/",
+        "title": "Apple\u2019s AirPods Max 2 bring H2 chip, boosted ANC in April for $549",
+        "link": "https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/",
+        "published": "Mon, 16 Mar 2026 16:51:00 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Apple's over-head headphones gets an update after over five years."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/100-years-later-where-is-robert-goddards-first-liquid-fuel-rocket/",
+        "title": "100 years later, where is Robert Goddard's first liquid-fuel rocket?",
+        "link": "https://arstechnica.com/space/2026/03/100-years-later-where-is-robert-goddards-first-liquid-fuel-rocket/",
+        "published": "Mon, 16 Mar 2026 16:38:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"He didn't preserve it as a sacred object...\""
+    },
+    {
+        "id": "https://www.engadget.com/gaming/lego-batman-legacy-of-the-dark-knights-release-date-moves-up-a-week-174035977.html?src=rss",
+        "title": "Lego Batman: Legacy of the Dark Knight's release date moves up a week",
+        "link": "https://www.engadget.com/gaming/lego-batman-legacy-of-the-dark-knights-release-date-moves-up-a-week-174035977.html?src=rss",
+        "published": "Mon, 16 Mar 2026 17:40:35 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div><p><em>Lego Batman: Legacy of the Dark Knight</em> is a game that a whole bunch of people are looking forward to, and they might be pleased to learn Warner Bros. Games is making the wait a bit shorter. The publisher has moved up the game by a week from its <a class=\"link\" href=\"https://www.engadget.com/gaming/lego-batman-legacy-of-the-dark-knight-swoops-onto-pc-and-consoles-on-may-29-024729940.html\" target=\"_blank\">pre"
+    },
+    {
+        "id": "https://www.engadget.com/ai/encyclopedia-britannica-sues-openai-for-copyright-and-trademark-infringement-164747991.html?src=rss",
+        "title": "Encyclopedia Britannica sues OpenAI for copyright and trademark infringement",
+        "link": "https://www.engadget.com/ai/encyclopedia-britannica-sues-openai-for-copyright-and-trademark-infringement-164747991.html?src=rss",
+        "published": "Mon, 16 Mar 2026 16:47:47 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"no-affiliate-link\" href=\"https://www.engadget.com/ai/metadata-company-gracenote-is-the-latest-to-sue-openai-for-copyright-infringement-200347812.html\">OpenAI</a> has been hit with another lawsuit. This time, Encyclopedia Britannica took legal action against OpenAI, accusing the company of copyright and trademark infringements, as first reported by <a class=\"no-affiliate-link\" href=\"https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+        "title": "Where OpenAI\u2019s technology could show up in Iran",
+        "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+        "published": "Mon, 16 Mar 2026 17:06:21 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI\u2019s&#8230;"
+    },
+    {
+        "id": "https://arxiv.org/abs/2511.04427",
+        "title": "Speed at the Cost of Quality. Study of Use of Cursor AI in Open Source Projects",
+        "link": "https://arxiv.org/abs/2511.04427",
+        "published": "Mon, 16 Mar 2026 17:07:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47401734\">Comments</a>"
+    },
+    {
+        "id": "https://kevinboone.me/small_web_is_big.html",
+        "title": "Kevin Boone: The \"small web\" is bigger than you might think",
+        "link": "https://kevinboone.me/small_web_is_big.html",
+        "published": "Mon, 16 Mar 2026 17:17:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47401879\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apple-acquires-visual-effects-plugins-company-motionvfx/articleshow/129615166.cms",
+        "title": "Apple acquires visual effects plugins company MotionVFX",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apple-acquires-visual-effects-plugins-company-motionvfx/articleshow/129615166.cms",
+        "published": "Mon, 16 Mar 2026 22:28:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Warsaw-based startup develops high-quality plugins, transitions, motion graphics, and visual effects for professional video editors. It specialises in tools for Final Cut Pro and DaVinci Resolve and offers editable templates, including mReels, titles, and tracking tools, to create cinematic, professional-level graphics in minutes. Apple has over 50 third-party developers offering effects-related products within the Final Cut Pro ecosystem. As part of the acquisition, around 70 MotionVFX empl"
     }
 ]
