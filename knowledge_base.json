@@ -151206,5 +151206,85 @@
         "published": "Mon, 16 Mar 2026 20:28:00 GMT",
         "source": "Latest news",
         "summary": "The company sees OpenClaw as the future of personal AI, but gives it some much-needed privacy and security help."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+        "title": "Jensen Huang just put Nvidia\u2019s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+        "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+        "published": "Mon, 16 Mar 2026 21:41:37 +0000",
+        "source": "TechCrunch",
+        "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips."
+    },
+    {
+        "id": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+        "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+        "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+        "published": "2026-03-16T17:56:05-04:00",
+        "source": "The Verge",
+        "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted rendering with generative AI to deliver a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
+        "title": "Teens sue Elon Musk\u2019s xAI over Grok\u2019s AI-generated CSAM",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
+        "published": "2026-03-16T17:44:11-04:00",
+        "source": "The Verge",
+        "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing that Grok would produce AI-generated child sexual [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/",
+        "title": "RFK Jr's changes to CDC vaccine guidance, advisory board blocked by judge",
+        "link": "https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/",
+        "published": "Mon, 16 Mar 2026 20:46:39 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The move temporarily undoes significant damage Kennedy has done."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/national-academies-of-sciences-resisting-pressure-to-pull-climate-info/",
+        "title": "National Academies of Sciences says no to demands it remove climate info",
+        "link": "https://arstechnica.com/science/2026/03/national-academies-of-sciences-resisting-pressure-to-pull-climate-info/",
+        "published": "Mon, 16 Mar 2026 20:33:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "State attorneys general won't get climate chapter removed from a legal manual."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+        "title": "New \"vibe coded\" AI translation tool splits the video game preservation community",
+        "link": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+        "published": "Mon, 16 Mar 2026 20:06:56 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Creator apologizes after using Patreon funds for Gemini-powered magazine scan processor."
+    },
+    {
+        "id": "https://www.engadget.com/transportation/evs/nvidia-and-bolt-team-up-for-european-robotaxis-220100551.html?src=rss",
+        "title": "NVIDIA and Bolt team up for European robotaxis",
+        "link": "https://www.engadget.com/transportation/evs/nvidia-and-bolt-team-up-for-european-robotaxis-220100551.html?src=rss",
+        "published": "Mon, 16 Mar 2026 22:01:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>At GTC 2026, NVIDIA and Bolt announced what they hope will be a symbiotic partnership. Bolt gets NVIDIA technology that would be costly and impractical to build on its own. Meanwhile, NVIDIA not only gains a major customer but also access to the European rideshare company\u2019s driving data.</p><p>Bolt says its fleet data will build a \"learning engine\" for autonomous vehicles (AVs) using NVIDIA tech. The rideshare company will use <a class=\"link\" href=\"https://www.engadget.com/ai/nvidia-ceo-jense"
+    },
+    {
+        "id": "https://mistral.ai/news/leanstral",
+        "title": "Mistral Releases Leanstral",
+        "link": "https://mistral.ai/news/leanstral",
+        "published": "Mon, 16 Mar 2026 20:59:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47404796\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/htdt/godogen",
+        "title": "Show HN: Claude Code skills that build complete Godot games",
+        "link": "https://github.com/htdt/godogen",
+        "published": "Mon, 16 Mar 2026 16:07:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47400868\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/",
+        "title": "Nvidia's 'ChatGPT moment' for self-driving cars, and other key AI announcements at GTC 2026",
+        "link": "https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/",
+        "published": "Mon, 16 Mar 2026 21:52:49 GMT",
+        "source": "Latest news",
+        "summary": "These are the physical AI advancements Nvidia said it's making in robotics, autonomous vehicles, and more."
     }
 ]
