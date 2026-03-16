@@ -149894,5 +149894,85 @@
         "published": "Mon, 16 Mar 2026 00:30:30 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Market-Newsletter-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Geopolitical shocks rarely stay confined to the geopolitical theatre. They eventually seep into commodity markets, supply chains, consumer sentiment and&#8230;"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
+        "title": "Netflix\u2019s \u2018Frankenstein\u2019 wins three Oscars, \u2018KPop Demon Hunters\u2019 wins two",
+        "link": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
+        "published": "Mon, 16 Mar 2026 02:27:18 +0000",
+        "source": "TechCrunch",
+        "summary": "\u201cFrankenstein\u201d won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while \u201cKPop Demon Hunters\u201d won for Best Animated Feature and Best Original Song."
+    },
+    {
+        "id": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+        "title": "What is agentic engineering?",
+        "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+        "published": "Mon, 16 Mar 2026 01:07:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47393908\">Comments</a>"
+    },
+    {
+        "id": "https://robot-daycare.com/posts/actuation_series_1/",
+        "title": "Electric motor scaling laws and inertia in robot actuators",
+        "link": "https://robot-daycare.com/posts/actuation_series_1/",
+        "published": "Thu, 12 Mar 2026 13:04:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47350016\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/chinas-no-2-chipmaker-readies-7-nm-production-as-beijing-ramps-up-self-suffiency-drive/articleshow/129599934.cms",
+        "title": "China's No. 2 chipmaker readies 7 nm production as Beijing ramps up self-suffiency drive",
+        "link": "https://economictimes.indiatimes.com/tech/technology/chinas-no-2-chipmaker-readies-7-nm-production-as-beijing-ramps-up-self-suffiency-drive/articleshow/129599934.cms",
+        "published": "Mon, 16 Mar 2026 09:21:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The group's contract chipmaking business, Huali \u200bMicroelectronics, is readying a 7-nanometre (nm) chipmaking process at its plant in Shanghai, the people said, which would make it the second Chinese chipmaker with such advanced technologies. Hua Hong is China's second-largest chipmaker."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/trump-accuses-iran-of-using-ai-to-spread-disinformation/articleshow/129599802.cms",
+        "title": "Trump accuses Iran of using AI to spread disinformation",
+        "link": "https://economictimes.indiatimes.com/tech/technology/trump-accuses-iran-of-using-ai-to-spread-disinformation/articleshow/129599802.cms",
+        "published": "Mon, 16 Mar 2026 09:08:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\"AI can be very dangerous, \u200bwe have to be very careful with it,\" Trump said to reporters on Air Force One shortly after he made a post on his Truth Social platform where he accused Western media outlets \u200cwithout evidence of \"close \u2060coordination\" with \u2060Iran to spread AI-generated \"fake news.\""
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/micron-plans-second-chip-facility-at-newly-acquired-taiwan-site/articleshow/129599371.cms",
+        "title": "Micron plans second chip facility at newly acquired Taiwan site",
+        "link": "https://economictimes.indiatimes.com/tech/technology/micron-plans-second-chip-facility-at-newly-acquired-taiwan-site/articleshow/129599371.cms",
+        "published": "Mon, 16 Mar 2026 08:27:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The new facility will \u200bhelp it expand \u2060supply \u200cof leading-edge \u200bDRAM \u200bproducts including high-bandwidth \u2060memory (HBM) to support surging AI \u200bdemand, the company said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/peter-thiels-secretive-rome-conference-draws-church-attention/articleshow/129598654.cms",
+        "title": "Peter Thiel's secretive Rome conference draws Church attention",
+        "link": "https://economictimes.indiatimes.com/tech/technology/peter-thiels-secretive-rome-conference-draws-church-attention/articleshow/129598654.cms",
+        "published": "Mon, 16 Mar 2026 07:19:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The invitation-only conference, which runs until Wednesday, is not open to the press and its venue has not been publicly disclosed. Organisers quoted in the media say participants are drawn from academia, technology and religious circles."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/jd-com-launches-joybuy-in-europe-targeting-amazon/articleshow/129598659.cms",
+        "title": "JD.com launches Joybuy in Europe, targeting Amazon",
+        "link": "https://economictimes.indiatimes.com/tech/technology/jd-com-launches-joybuy-in-europe-targeting-amazon/articleshow/129598659.cms",
+        "published": "Mon, 16 Mar 2026 07:17:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "JD.com wants to internationalise its business and last year agreed to buy German electronics retailer \u200cCeconomy, owner \u2060of the \u2060MediaMarkt and Saturn brands, for 2.2 billion euros ($2.52 billion)."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/thailands-propak-asia-indian-manufacturers-packaging-automation-push",
+        "title": "Thailand\u2019s ProPak Asia courts Indian manufacturers amid packaging, automation push",
+        "link": "https://yourstory.com/2026/03/thailands-propak-asia-indian-manufacturers-packaging-automation-push",
+        "published": "Mon, 16 Mar 2026 03:55:17 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "As Indian manufacturers ramp up investments in automation, sustainability, and advanced packaging, a major Asian industry exhibition in Bangkok is positioning itself as a gateway to new technology and regional partnerships.\n\nProPak Asia 2026, one of the region\u2019s largest trade exhibitions for proces"
+    },
+    {
+        "id": "https://inc42.com/buzz/upgrad-acquires-unacademy-jio-ipo-buzz-more/",
+        "title": "upGrad Acquires Unacademy, Jio IPO Buzz & More",
+        "link": "https://inc42.com/buzz/upgrad-acquires-unacademy-jio-ipo-buzz-more/",
+        "published": "Mon, 16 Mar 2026 02:30:06 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"upGrad Acquires Unacademy, Jio IPO Buzz &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/FTR-Daily-Brief-2026-03-15T220412.142.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Unacademy Signs The upGrad Deal After months of talks and discussions, upGrad has finally signed a term sheet to acquire&#8230;"
     }
 ]
