@@ -151286,5 +151286,29 @@
         "published": "Mon, 16 Mar 2026 21:52:49 GMT",
         "source": "Latest news",
         "summary": "These are the physical AI advancements Nvidia said it's making in robotics, autonomous vehicles, and more."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+        "title": "Nvidia\u2019s version of OpenClaw could solve its biggest problem: Security",
+        "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+        "published": "Mon, 16 Mar 2026 22:45:51 +0000",
+        "source": "TechCrunch",
+        "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw."
+    },
+    {
+        "id": "https://www.engadget.com/mobile/android-tablets-and-foldables-are-getting-a-chrome-bookmark-bar-222533702.html?src=rss",
+        "title": "Android tablets and foldables are getting a Chrome bookmark bar",
+        "link": "https://www.engadget.com/mobile/android-tablets-and-foldables-are-getting-a-chrome-bookmark-bar-222533702.html?src=rss",
+        "published": "Mon, 16 Mar 2026 22:25:33 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Sometimes, it's the little details in a software update that make the biggest improvements. Google is rolling out a new feature for Chrome that will add a bookmark bar to the browser on Android foldables and tablets. Spotted by <a class=\"link\" href=\"https://9to5google.com/2026/03/16/chrome-bookmarks-bar-android/\" target=\"_blank\"><em>9to5Google</em></a>, this move will make the browsing experience on larger mobile devices more akin to that of laptops and desktops running Chrome. For those peop"
+    },
+    {
+        "id": "https://github.com/rexrodeo/american-healthcare-conundrum",
+        "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
+        "link": "https://github.com/rexrodeo/american-healthcare-conundrum",
+        "published": "Mon, 16 Mar 2026 17:13:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47401809\">Comments</a>"
     }
 ]
