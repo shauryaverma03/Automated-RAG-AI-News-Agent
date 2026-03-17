@@ -152814,5 +152814,37 @@
         "published": "Tue, 17 Mar 2026 10:31:36 GMT",
         "source": "YourStory RSS Feed",
         "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, March 17, 2026."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
+        "title": "Apple rolls out first \u2018background security\u2019 update for iPhones, iPads, and Macs to fix Safari bug",
+        "link": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
+        "published": "Tue, 17 Mar 2026 20:10:45 +0000",
+        "source": "TechCrunch",
+        "summary": "Apple's first-ever \"background security improvement\" fixes a vulnerability in its Safari browser running its latest software."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/",
+        "title": "Kagi brings its \u2018small web\u2019 of a human-only internet to mobile devices",
+        "link": "https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/",
+        "published": "Tue, 17 Mar 2026 20:03:26 +0000",
+        "source": "TechCrunch",
+        "summary": "Kagi's \"Small Web\" offers a handpicked collection of more than 30,000 non-commercial, human-authored websites, including personal blogs, webcomics, and independent videos."
+    },
+    {
+        "id": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+        "title": "Python 3.15's JIT is now back on track",
+        "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+        "published": "Tue, 17 Mar 2026 18:37:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47416486\">Comments</a>"
+    },
+    {
+        "id": "https://www.youtube.com/watch?v=3Ploi723hg4",
+        "title": "It Took Me 30 Years to Solve This VFX Problem \u2013 Green Screen Problem [video]",
+        "link": "https://www.youtube.com/watch?v=3Ploi723hg4",
+        "published": "Fri, 13 Mar 2026 19:14:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47368425\">Comments</a>"
     }
 ]
