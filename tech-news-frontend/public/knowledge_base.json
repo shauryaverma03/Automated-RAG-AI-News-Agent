@@ -151310,5 +151310,77 @@
         "published": "Mon, 16 Mar 2026 17:13:27 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47401809\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
+        "title": "SEC eyes shift to twice-yearly earnings reports",
+        "link": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
+        "published": "Tue, 17 Mar 2026 00:27:10 +0000",
+        "source": "TechCrunch",
+        "summary": "The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ."
+    },
+    {
+        "id": "https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues",
+        "title": "The Live Nation trial restarts with a &#8216;velvet hammer&#8217;",
+        "link": "https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues",
+        "published": "2026-03-16T20:08:31-04:00",
+        "source": "The Verge",
+        "summary": "After a chaotic week following the Justice Department's mid-trial settlement with Live Nation-Ticketmaster, the antitrust trial picked back up surprisingly smoothly on Monday - this time, with dozens of states leading the case. This isn't the outcome the states originally wanted. Out of concerns about being able to effectively take over the case and fear [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
+        "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
+        "link": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
+        "published": "Mon, 16 Mar 2026 21:51:16 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Discord user led cops to Grok-generated CSAM of real girls, lawsuit says."
+    },
+    {
+        "id": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+        "title": "US SEC preparing to scrap quarterly reporting requirement",
+        "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+        "published": "Tue, 17 Mar 2026 00:02:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47406779\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/centre-for-blanket-content-licensing-for-ai-training/articleshow/129615989.cms",
+        "title": "Centre for blanket content licensing for AI training",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/centre-for-blanket-content-licensing-for-ai-training/articleshow/129615989.cms",
+        "published": "Tue, 17 Mar 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A white paper published by the Office of the Principal Scientific Advisory (PSO) on Sunday threw its weight behind the Department for Promotion of Industry and Internal Trade's (DPIIT) recommendation that India adopt a hybrid model of intellectual property and copyright."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indian-insurers-quiz-firms-on-ai-usage-to-gauge-tech-risks/articleshow/129615257.cms",
+        "title": "Indian insurers quiz firms on AI usage to gauge tech risks",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indian-insurers-quiz-firms-on-ai-usage-to-gauge-tech-risks/articleshow/129615257.cms",
+        "published": "Tue, 17 Mar 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cyber insurers in India are asking companies detailed questions about their use of artificial intelligence as a condition for coverage, signalling a shift in how the industry evaluates technology risk. Underwriters now seek details on the types of AI companies deploy, how data flows through those systems, who can access AI models and whether firms have processes to detect and fix unusual outputs. Insurers are also examining deployment safeguards and how quickly companies can respond if an AI sys"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/code-architecture-scope-will-stay-in-human-hands-in-ai-age-coderabbit-founder/articleshow/129617538.cms",
+        "title": "Code architecture, scope will stay in human hands in AI age: CodeRabbit founder",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/code-architecture-scope-will-stay-in-human-hands-in-ai-age-coderabbit-founder/articleshow/129617538.cms",
+        "published": "Tue, 17 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "San Francisco-based CodeRabbit, founded by Harjot Gill, helps review AI-generated software code. The startup has doubled its revenue and gained over 10,000 customers after a recent funding round. With teams in Bengaluru and key markets in India, the company sees strong growth potential, with Gill opining that AI tools augment, not replace, developers."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indian-data-usage-balloons-on-5g-smartphone-sales-surge/articleshow/129617416.cms",
+        "title": "Indian data usage balloons on 5G smartphone sales surge",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indian-data-usage-balloons-on-5g-smartphone-sales-surge/articleshow/129617416.cms",
+        "published": "Tue, 17 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The rise of 5G smartphones is driving India\u2019s data consumption to record levels. Faster speeds, wider coverage, and affordable devices are boosting use, especially in rural areas. Users stream, game, and watch videos more intensely, while telecom operators explore monetising the surge, as the national average data per user climbs sharply."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/startup-mafia-3-0-razorpay-cred-meesho-help-spawn-200-founders/articleshow/129616890.cms",
+        "title": "Startup Mafia 3.0: Razorpay, Cred, Meesho help spawn 200+ founders",
+        "link": "https://economictimes.indiatimes.com/tech/technology/startup-mafia-3-0-razorpay-cred-meesho-help-spawn-200-founders/articleshow/129616890.cms",
+        "published": "Tue, 17 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India\u2019s new-generation startups are creating a fresh wave of founders, with executives from 111 firms launching over 200 new companies. Razorpay, Cred, Meesho and PhonePe lead in producing entrepreneurs. Wider investor support and Esops among others, are fuelling this \u2018startup mafia 3.0\u2019 ecosystem."
     }
 ]
