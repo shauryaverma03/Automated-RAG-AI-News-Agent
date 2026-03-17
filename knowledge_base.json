@@ -152846,5 +152846,77 @@
         "published": "Fri, 13 Mar 2026 19:14:46 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47368425\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+        "title": "Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise",
+        "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+        "published": "Tue, 17 Mar 2026 21:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+        "title": "Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate",
+        "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+        "published": "Tue, 17 Mar 2026 20:50:04 +0000",
+        "source": "TechCrunch",
+        "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on Github. And everyone has an opinion: even Claude, ChatGPT, and Gemini."
+    },
+    {
+        "id": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
+        "title": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+        "link": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
+        "published": "2026-03-17T16:47:35-04:00",
+        "source": "The Verge",
+        "summary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th - and I am delirious. I haven't had a coffee since I woke up at 5AM, because I'm not allowed to bring outside beverages into the Pentagon (the security screening cutoff was at 7AM for the 8AM), [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
+        "title": "The Beats Studio Pro are nearly $200 off ahead of Amazon\u2019s big spring sale",
+        "link": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
+        "published": "2026-03-17T16:38:08-04:00",
+        "source": "The Verge",
+        "summary": "Earlier this week, Apple unveiled the AirPods Max 2. The forthcoming over-ear headphones build on their predecessor with an H2 chip that powers a range of new features; however, they still don\u2019t offer the sort of cross-OS compatibility you\u2019ll get with a modern pair of Beats headphones \u2014 including the Beats Studio Pro, which are [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/doordash-reservations-exclusive-restaurants/",
+        "title": "DoorDash Reservations Scored America\u2019s Most Exclusive Restaurants",
+        "link": "https://www.wired.com/story/doordash-reservations-exclusive-restaurants/",
+        "published": "Tue, 17 Mar 2026 20:32:13 +0000",
+        "source": "WIRED",
+        "summary": "After the rise (and fall) of reservation scalping, DoorDash and a host of apps are fighting to book you a seat at the country\u2019s most exclusive restaurants."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/remedy-releases-its-final-content-update-for-fbc-firebreak-212000463.html?src=rss",
+        "title": "Remedy releases its final content update for FBC: Firebreak",
+        "link": "https://www.engadget.com/gaming/remedy-releases-its-final-content-update-for-fbc-firebreak-212000463.html?src=rss",
+        "published": "Tue, 17 Mar 2026 21:20:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>What a short, strange journey it's been for <em>FBC: Firebreak</em>; Remedy <a class=\"link\" href=\"https://store.steampowered.com/news/app/2272540/view/508481950670914554\" target=\"_blank\">announced</a> that the final update for the online multiplayer game is available today. But while this Open House update will be the end of new content, the studio said it plans to keep the game available.</p><p>&quot;<em>FBC: Firebreak</em> will stay online and continue to be playable for years to come,&quot"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/music/spotify-rolls-out-bit-perfect-playback-in-windows-app-211036176.html?src=rss",
+        "title": "Spotify rolls out 'bit-perfect' playback in Windows app",
+        "link": "https://www.engadget.com/entertainment/music/spotify-rolls-out-bit-perfect-playback-in-windows-app-211036176.html?src=rss",
+        "published": "Tue, 17 Mar 2026 21:10:36 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Spotify is introducing a way for subscribers to get bit-perfect playback of songs if they listen on Windows. The company's newly announced <a class=\"no-affiliate-link link\" href=\"https://community.spotify.com/t5/Community-Blog/Desktop-Exclusive-Mode-now-available/ba-p/7371590\" target=\"_blank\">\"Exclusive Mode\"</a> gives the music streaming app complete control of audio processing on your PC so you can listen to songs exactly as they were mastered.</p><p>\"Without Exclusive Mode turned on, your "
+    },
+    {
+        "id": "https://github.com/gsd-build/get-shit-done",
+        "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+        "link": "https://github.com/gsd-build/get-shit-done",
+        "published": "Tue, 17 Mar 2026 20:23:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47417804\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/18-lakh-evs-incentivised-under-pm-e-drive-scheme-so-far-govt/",
+        "title": "18 Lakh EVs Incentivised Under PM E-DRIVE Scheme So Far: Govt",
+        "link": "https://inc42.com/buzz/18-lakh-evs-incentivised-under-pm-e-drive-scheme-so-far-govt/",
+        "published": "Tue, 17 Mar 2026 21:01:57 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"18 Lakh EVs Incentivised Under PM E-DRIVE Scheme: Govt\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/PM-E-DRIVe-data-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Minister of state (MoS) for heavy industries, Bhupathiraju Srinivasa Varma, yesterday informed the Parliament that more than 18.01 Lakh electric&#8230;"
     }
 ]
