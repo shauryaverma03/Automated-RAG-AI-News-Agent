@@ -152982,5 +152982,45 @@
         "published": "Tue, 17 Mar 2026 21:40:52 +0000",
         "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
         "summary": "<p>Apple has started <a class=\"link\" href=\"https://support.apple.com/en-us/102657\" target=\"_blank\">providing</a> small security updates to iOS, iPadOS and macOS devices. These are dubbed Background Security Improvements that will offer minor system updates between the larger software updates. According to the company, these are meant to &quot;deliver lightweight security releases for components such as the Safari browser, WebKit framework stack, and other system libraries that benefit from small"
+    },
+    {
+        "id": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
+        "title": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
+        "link": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
+        "published": "Tue, 17 Mar 2026 22:24:51 +0000",
+        "source": "WIRED",
+        "summary": "Meta\u2019s flailing virtual reality social experience is being discontinued in June. It's part of Meta\u2019s broader moves to slim down the business that became its namesake."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+        "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+        "link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+        "published": "Tue, 17 Mar 2026 21:38:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\""
+    },
+    {
+        "id": "https://www.engadget.com/gaming/subnautica-2-might-finally-be-entering-early-access-in-may-223747369.html?src=rss",
+        "title": "Subnautica 2 might finally be entering early access in May",
+        "link": "https://www.engadget.com/gaming/subnautica-2-might-finally-be-entering-early-access-in-may-223747369.html?src=rss",
+        "published": "Tue, 17 Mar 2026 22:37:47 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><em>Subnautica 2</em> has weathered the storm and has rescheduled its early access release. <a class=\"link\" href=\"https://www.ign.com/articles/subnautica-2-will-finally-enter-early-access-in-may-following-year-of-delays-and-legal-drama\" target=\"_blank\"><em>IGN</em></a> reported today that the sequel to the underwater survival game will begin early access on PC and Xbox in May, although a more specific date was not provided.&nbsp;</p><p>The news comes a day after a judge <a class=\"link\" href=\""
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+        "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+        "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+        "published": "Tue, 17 Mar 2026 22:30:46 +0000",
+        "source": "MIT Technology Review",
+        "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic&#8217;s Claude are already used to answer questions in classified settings, including for analyzing targets in Iran. But allowing models to train on&#8230;"
+    },
+    {
+        "id": "https://nearzero.software/p/warranty-void-if-regenerated",
+        "title": "Warranty Void If Regenerated",
+        "link": "https://nearzero.software/p/warranty-void-if-regenerated",
+        "published": "Tue, 17 Mar 2026 20:39:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47417983\">Comments</a>"
     }
 ]
