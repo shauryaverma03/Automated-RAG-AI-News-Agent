@@ -154702,5 +154702,53 @@
         "published": "Wed, 18 Mar 2026 20:46:32 +0000",
         "source": "Ars Technica - All content",
         "summary": "Our view of Neanderthal life keeps getting more complex and vibrant."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+        "title": "Sam Altman\u2019s thank-you to coders draws the memes",
+        "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+        "published": "Wed, 18 Mar 2026 23:12:58 +0000",
+        "source": "TechCrunch",
+        "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
+        "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
+        "link": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
+        "published": "Wed, 18 Mar 2026 22:06:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Remember when it was fun to play around with LLMs?"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
+        "title": "Musk\u2019s tactic of blaming users for Grok sex images may be foiled by EU law",
+        "link": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
+        "published": "Wed, 18 Mar 2026 21:32:20 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Planned EU ban on nudify apps would likely force Musk to make Grok less \"spicy.\""
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/the-fbi-confirms-its-buying-americans-location-data-230835196.html?src=rss",
+        "title": "The FBI confirms it's buying Americans' location data",
+        "link": "https://www.engadget.com/big-tech/the-fbi-confirms-its-buying-americans-location-data-230835196.html?src=rss",
+        "published": "Wed, 18 Mar 2026 23:08:35 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>During a Senate hearing, FBI Director Kash Patel <a class=\"link\" href=\"https://www.politico.com/news/2026/03/18/fbi-buying-data-track-people-patel-00834080\" target=\"_blank\">confirmed</a> that his agency has bought information that could be used to track individuals' movement and location. \"We do purchase commercially available information that\u2019s consistent with the Constitution and the laws under the Electronic Communications Privacy Act, and it has led to some valuable intelligence for us,\" "
+    },
+    {
+        "id": "https://www.engadget.com/ai/a-meta-agentic-ai-sparked-a-security-incident-by-acting-without-permission-224013384.html?src=rss",
+        "title": "A Meta agentic AI sparked a security incident by acting without permission",
+        "link": "https://www.engadget.com/ai/a-meta-agentic-ai-sparked-a-security-incident-by-acting-without-permission-224013384.html?src=rss",
+        "published": "Wed, 18 Mar 2026 22:40:13 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=ba0a4cdc-cec8-416a-9e93-e11b8179129c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=7cccd3b0-9598-4f97-81d1-38ca7e7bd126&amp;featureId=text-link&amp;merchantName=The+Information&amp;linkText=The+Information&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy50aGVpbmZvcm1hdGlvbi5jb20vYXJ0aWNsZXMvaW5zaWRlLW1ldGEtcm9ndWUtYWktYWdlbnQtdHJpZ2dlcnMtc2VjdXJpdH"
+    },
+    {
+        "id": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+        "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "published": "Sun, 15 Mar 2026 15:59:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47388658\">Comments</a>"
     }
 ]
