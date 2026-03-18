@@ -154678,5 +154678,29 @@
         "published": "Wed, 18 Mar 2026 20:46:00 GMT",
         "source": "Latest news",
         "summary": "The Frame Pro TV improves on its predecessor by integrating entertainment and home d\u00e9cor. Right now, it's $500 off."
+    },
+    {
+        "id": "https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant",
+        "title": "The FBI is buying Americans\u2019 location data",
+        "link": "https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant",
+        "published": "2026-03-18T17:52:30-04:00",
+        "source": "The Verge",
+        "summary": "FBI director Kash Patel admitted that the agency is buying location data that can be used to track people's movements. Unlike information obtained from cell phone providers, this data can be accessed without a warrant - and used to track anyone. \"We do purchase commercially available information that's consistent with the Constitution and the laws [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/",
+        "title": "Coal plant forced to stay open due to emergency order isn't even running",
+        "link": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/",
+        "published": "Wed, 18 Mar 2026 21:10:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Department of Energy's attempts to prop up coal can look pretty pointless."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/never-mind-band-aids-neanderthals-had-antiseptic-birch-tar/",
+        "title": "Never mind Band-Aids, Neanderthals had antiseptic birch tar",
+        "link": "https://arstechnica.com/science/2026/03/never-mind-band-aids-neanderthals-had-antiseptic-birch-tar/",
+        "published": "Wed, 18 Mar 2026 20:46:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Our view of Neanderthal life keeps getting more complex and vibrant."
     }
 ]
