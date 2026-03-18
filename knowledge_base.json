@@ -154502,5 +154502,61 @@
         "published": "Wed, 18 Mar 2026 12:35:18 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Rampur\u2019s Zari Patchwork blends heritage embroidery with modern fashion, powered by skilled artisans and ODOP-driven growth in India."
+    },
+    {
+        "id": "https://www.engadget.com/science/space/hubble-catches-rare-view-of-a-comet-crumbling-185817544.html?src=rss",
+        "title": "Hubble catches rare view of a comet crumbling",
+        "link": "https://www.engadget.com/science/space/hubble-catches-rare-view-of-a-comet-crumbling-185817544.html?src=rss",
+        "published": "Wed, 18 Mar 2026 18:58:17 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>NASA and ESA have released <a class=\"link\" href=\"https://esahubble.org/news/heic2606/?lang\" target=\"_blank\">new images</a> from the Hubble Space Telescope of a comet breaking up as it exits the solar system, captured as part of study recently <a class=\"link\" href=\"https://www.sciencedirect.com/science/article/abs/pii/S001910352600062X?via%3Dihub\" target=\"_blank\">published in the journal <em>Icarus</em></a>. The images are notable not only because they offer a more detailed view of the inside "
+    },
+    {
+        "id": "https://openrocket.info/",
+        "title": "OpenRocket",
+        "link": "https://openrocket.info/",
+        "published": "Sun, 15 Mar 2026 12:20:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47386703\">Comments</a>"
+    },
+    {
+        "id": "https://awards.acm.org/about/2025-turing",
+        "title": "2025 Turing award given for quantum information science",
+        "link": "https://awards.acm.org/about/2025-turing",
+        "published": "Wed, 18 Mar 2026 10:10:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47423694\">Comments</a>"
+    },
+    {
+        "id": "https://huggingface.co/datasets/open-index/hacker-news",
+        "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+        "link": "https://huggingface.co/datasets/open-index/hacker-news",
+        "published": "Sat, 14 Mar 2026 17:12:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47378781\">Comments</a>"
+    },
+    {
+        "id": "https://susam.net/wander/",
+        "title": "Wanter \u2013 A tiny, decentralised tool to explore the small web",
+        "link": "https://susam.net/wander/",
+        "published": "Wed, 18 Mar 2026 07:43:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47422759\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-apple-deals/",
+        "title": "Best early Amazon Spring Sale Apple deals 2026",
+        "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-apple-deals/",
+        "published": "Wed, 18 Mar 2026 19:15:00 GMT",
+        "source": "Latest news",
+        "summary": "I've rounded up deals on some of the hottest tech from your favorite tech company."
+    },
+    {
+        "id": "https://www.zdnet.com/article/i-tested-android-desktop-mode-on-my-pixel-phone/",
+        "title": "How I turned my Pixel phone into a genuinely productive desktop computer - for free",
+        "link": "https://www.zdnet.com/article/i-tested-android-desktop-mode-on-my-pixel-phone/",
+        "published": "Wed, 18 Mar 2026 18:48:00 GMT",
+        "source": "Latest news",
+        "summary": "I just test drove the new Android desktop mode, and it wowed me. Here's how to try it for yourself."
     }
 ]
