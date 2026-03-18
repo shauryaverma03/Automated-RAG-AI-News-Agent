@@ -153134,5 +153134,45 @@
         "published": "Wed, 18 Mar 2026 02:30:36 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"War Hits Data Centres, IG Defence Bags $5 Mn &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/FTR-Daily-Brief-2026-03-18T015610.976.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The War Cloud Over Data Centres When we think about the casualties of modern warfare, data centres rarely come to&#8230;"
+    },
+    {
+        "id": "https://blog.exe.dev/ssh-host-header",
+        "title": "SSH has no Host header",
+        "link": "https://blog.exe.dev/ssh-host-header",
+        "published": "Wed, 18 Mar 2026 05:18:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47421828\">Comments</a>"
+    },
+    {
+        "id": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+        "title": "Have a Fucking Website",
+        "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+        "published": "Wed, 18 Mar 2026 03:53:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47421442\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-how-does-metas-decision-to-kill-end-to-end-encryption-on-instagram-affect-you/articleshow/129647892.cms",
+        "title": "ETtech Explainer: How does Meta\u2019s decision to kill end-to-end encryption on Instagram affect you?",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-how-does-metas-decision-to-kill-end-to-end-encryption-on-instagram-affect-you/articleshow/129647892.cms",
+        "published": "Wed, 18 Mar 2026 10:49:20 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "End-to-end encryption is a communications process that ensures that only the sender and recipient can access the contents of a message. The broader push for encryption within Meta dates back to 2016, when WhatsApp began rolling out end-to-end encryption across its services."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/tech-bytes/most-tech-companies-get-mas-wrong-palo-alto-networks-ceo-nikesh-arora/articleshow/129647550.cms",
+        "title": "Most tech companies get M&amp;As wrong: Palo Alto Networks CEO Nikesh Arora",
+        "link": "https://economictimes.indiatimes.com/tech/tech-bytes/most-tech-companies-get-mas-wrong-palo-alto-networks-ceo-nikesh-arora/articleshow/129647550.cms",
+        "published": "Wed, 18 Mar 2026 10:24:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "For Arora, the purchase price of a deal is merely an \u201cirrelevant artifact\u201d, and what matters more is what the acquirer can build from it. \u201cIf it's going to work, it's going to work phenomenally well, or you're going to screw it up. It's not what you paid; it's what you're able to do with it,\u201d he said, citing Facebook\u2019s Instagram and Google\u2019s YouTube as examples of expensive acquisitions that paid off in a huge way."
+    },
+    {
+        "id": "https://inc42.com/features/the-agentic-workspace-layer-unfolds/",
+        "title": "The Agentic Workspace Layer Unfolds",
+        "link": "https://inc42.com/features/the-agentic-workspace-layer-unfolds/",
+        "published": "Wed, 18 Mar 2026 05:30:52 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/AI-Newsletter-Design-brief-_11-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Enterprise AI is moving beyond assistive use cases, with agents increasingly expected to plan, coordinate, and carry out complex workflows&#8230;"
     }
 ]
