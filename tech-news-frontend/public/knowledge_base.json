@@ -154406,5 +154406,101 @@
         "published": "Wed, 18 Mar 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "According to UN Tourism, in 2024, 1.4 billion people travelled across international borders. The number for domestic travel within India alone was 2,900 million\u2014more than double the global figure, within a single country."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+        "title": "FBI is buying location data to track US citizens, director confirms",
+        "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+        "published": "Wed, 18 Mar 2026 18:32:32 +0000",
+        "source": "TechCrunch",
+        "summary": "FBI director Kash Patel told lawmakers that the agency is actively purchasing commercially available location data, which can track Americans without needing a warrant."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/",
+        "title": "Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes",
+        "link": "https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/",
+        "published": "Wed, 18 Mar 2026 17:58:28 +0000",
+        "source": "TechCrunch",
+        "summary": "He told the Wall Street Journal he thinks autonomous planes will be \"10 times harder than Nikola ever was.\""
+    },
+    {
+        "id": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+        "title": "Trump&#8217;s AI chief&#8217;s big Iran warning gets big time ignored",
+        "link": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+        "published": "2026-03-18T14:44:21-04:00",
+        "source": "The Verge",
+        "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/896989/robinhood-social-network-beta",
+        "title": "Robinhood is making a social network",
+        "link": "https://www.theverge.com/tech/896989/robinhood-social-network-beta",
+        "published": "2026-03-18T14:32:18-04:00",
+        "source": "The Verge",
+        "summary": "Robinhood is now beta testing a Twitter-like social media platform it calls Robinhood Social. The trading-focused platform was announced last September at the company's HOOD Summit, but it's rolling out to 1,000 people who attended the event and will expand to \"an additional 10,000 customers over the coming weeks,\" according to Robinhood. On Robinhood Social, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+        "title": "ChatGPT did not cure a dog\u2019s cancer",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+        "published": "2026-03-18T14:14:39-04:00",
+        "source": "The Verge",
+        "summary": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story couldn't help but spread. It's the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+        "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+        "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+        "published": "Wed, 18 Mar 2026 18:01:18 +0000",
+        "source": "WIRED",
+        "summary": "After OpenAI\u2019s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini."
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+        "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+        "link": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+        "published": "Wed, 18 Mar 2026 17:36:40 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "One Microsoft product was approved despite years of concerns about its security."
+    },
+    {
+        "id": "https://www.engadget.com/apps/perplexitys-comet-ai-browser-is-now-available-for-iphones-183947569.html?src=rss",
+        "title": "Perplexity's Comet AI browser is now available for iPhones",
+        "link": "https://www.engadget.com/apps/perplexitys-comet-ai-browser-is-now-available-for-iphones-183947569.html?src=rss",
+        "published": "Wed, 18 Mar 2026 18:39:48 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Perplexity's Comet AI browser <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=bd6f109f-be2d-4fe8-9bc4-b9ae2090673d&amp;featureId=text-link&amp;linkText=is+now+available+as+a+standalone+app&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL2FwcHMuYXBwbGUuY29tL3VzL2FwcC9jb21ldC1haS1icm93c2VyLWFzc2lzdGFudC9pZDY3NDg2MjI0NzEiLCJjb250ZW50VXVpZCI6ImJkNmYxMDlmLWJlMmQtNGZlOC05YmM0LWI5Y"
+    },
+    {
+        "id": "https://www.engadget.com/ai/uk-reverses-course-on-ai-copyright-position-after-backlash-175630732.html?src=rss",
+        "title": "UK reverses course on AI copyright position after backlash",
+        "link": "https://www.engadget.com/ai/uk-reverses-course-on-ai-copyright-position-after-backlash-175630732.html?src=rss",
+        "published": "Wed, 18 Mar 2026 17:56:30 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Chalk up a win for creative artists against AI companies. On Wednesday, the UK government <a class=\"link\" href=\"https://www.bbc.com/news/articles/cvg1gr5v333o\" target=\"_blank\">abandoned</a> its previous position on copyrighted works. It\u2019s currently working on a <a class=\"link\" href=\"https://www.engadget.com/big-tech/uk-parliament-opts-not-to-hold-ai-companies-accountable-over-copyright-material-180234550.html\" target=\"_blank\">data bill</a> that, if unaltered, would have allowed AI companies l"
+    },
+    {
+        "id": "https://notes.visaint.space/ai-coding-is-gambling/",
+        "title": "AI Coding Is Gambling",
+        "link": "https://notes.visaint.space/ai-coding-is-gambling/",
+        "published": "Wed, 18 Mar 2026 17:22:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47428541\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-robot-vacuum-deals/",
+        "title": "Best early Amazon Spring Sale robot vacuum deals 2026",
+        "link": "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-robot-vacuum-deals/",
+        "published": "Wed, 18 Mar 2026 18:00:41 GMT",
+        "source": "Latest news",
+        "summary": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals ahead of Amazon's Big Spring Sale."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/rampur-zari-patchwork-odop-artisan-network",
+        "title": "Rampur\u2019s Zari Patchwork: A Handcrafted Identity Built on Artisan Networks",
+        "link": "https://yourstory.com/2026/03/rampur-zari-patchwork-odop-artisan-network",
+        "published": "Wed, 18 Mar 2026 12:35:18 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Rampur\u2019s Zari Patchwork blends heritage embroidery with modern fashion, powered by skilled artisans and ODOP-driven growth in India."
     }
 ]
