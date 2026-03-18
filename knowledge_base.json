@@ -153022,5 +153022,61 @@
         "published": "Tue, 17 Mar 2026 20:39:19 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47417983\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+        "title": "Justice Department Says Anthropic Can\u2019t Be Trusted With Warfighting Systems",
+        "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+        "published": "Wed, 18 Mar 2026 00:51:14 +0000",
+        "source": "WIRED",
+        "summary": "In response to Anthropic\u2019s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military."
+    },
+    {
+        "id": "https://mistral.ai/news/forge",
+        "title": "Mistral AI Releases Forge",
+        "link": "https://mistral.ai/news/forge",
+        "published": "Tue, 17 Mar 2026 21:04:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47418295\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/over-100-indian-vcs-apply-for-rdi-as-deeptech-goes-mainstream/articleshow/129640087.cms",
+        "title": "Over 100 Indian VCs apply for RDI as deeptech goes mainstream",
+        "link": "https://economictimes.indiatimes.com/tech/technology/over-100-indian-vcs-apply-for-rdi-as-deeptech-goes-mainstream/articleshow/129640087.cms",
+        "published": "Wed, 18 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Over 100 Indian venture capital firms, including Mela Ventures, Blume and Ideaspring, have applied for the government\u2019s Rs 1 lakh crore RDI fund to boost deeptech startups. Managed by the DST, the fund offers loans, equity, or contributions to funds, aiming to expand India\u2019s tech ecosystem."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-udaan-to-kickstart-reverse-flip-to-india-in-weeks-ceo-vaibhav-gupta/articleshow/129639734.cms",
+        "title": "IPO-bound Udaan to kickstart reverse flip to India in weeks: CEO Vaibhav Gupta",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-udaan-to-kickstart-reverse-flip-to-india-in-weeks-ceo-vaibhav-gupta/articleshow/129639734.cms",
+        "published": "Wed, 18 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "B2B ecommerce firm Udaan plans to shift its headquarters from Singapore to India as part of a reverse merger, aiming for an IPO within 9\u201318 months. After scaling back operations to focus on essentials, groceries, and Horeca360, the company has cut losses and narrowed its footprint from 80 to 16 cities, serving 200,000 shops."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/parliamentary-panel-suggests-meity-seek-expert-views-on-gpu-plans/articleshow/129639183.cms",
+        "title": "Parliamentary panel suggests MeitY seek expert views on GPU plans",
+        "link": "https://economictimes.indiatimes.com/tech/technology/parliamentary-panel-suggests-meity-seek-expert-views-on-gpu-plans/articleshow/129639183.cms",
+        "published": "Wed, 18 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Parliamentary Standing Committee on Communications and Information Technology in its latest report suggested the Ministry of Electronics and IT to consult with all stakeholders, academicians and environmentalists on how to tackle the challenges."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/npci-counts-on-bharat-ne-to-accelerate-upi-adoption/articleshow/129638974.cms",
+        "title": "NPCI counts on Bharat, NE to accelerate UPI adoption",
+        "link": "https://economictimes.indiatimes.com/tech/technology/npci-counts-on-bharat-ne-to-accelerate-upi-adoption/articleshow/129638974.cms",
+        "published": "Wed, 18 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "As the National Payments Corporation of India (NPCI) grapples with a moderation in growth of the Unified Payments Interface, it is turning its focus to the Hindi heartland and northeastern states to drive the next phase of adoption. NPCI is nudging fintech firms to prioritise states such as Uttar Pradesh, Rajasthan and Madhya Pradesh, along with the northeastern region, where penetration remains relatively low."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/rising-component-cost-to-keep-hardware-prices-elevated-in-near-term-lenovo-executive-says/articleshow/129638561.cms",
+        "title": "Rising component cost to keep hardware prices elevated in near term, Lenovo executive says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/rising-component-cost-to-keep-hardware-prices-elevated-in-near-term-lenovo-executive-says/articleshow/129638561.cms",
+        "published": "Wed, 18 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Shortages of key components such as memory chips are pushing up costs across the artificial intelligence computing ecosystem globally and are likely to keep hardware prices elevated in the near term, a senior executive at Chinese technology company Lenovo said."
     }
 ]
