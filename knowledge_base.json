@@ -154750,5 +154750,77 @@
         "published": "Sun, 15 Mar 2026 15:59:09 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47388658\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+        "title": "Meta is having trouble with rogue AI agents",
+        "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+        "published": "Wed, 18 Mar 2026 23:42:46 +0000",
+        "source": "TechCrunch",
+        "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it."
+    },
+    {
+        "id": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+        "title": "Austin\u2019s surge of new housing construction drove down rents",
+        "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+        "published": "Thu, 19 Mar 2026 00:15:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47433058\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/alainnothere/llm-circuit-finder",
+        "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
+        "link": "https://github.com/alainnothere/llm-circuit-finder",
+        "published": "Wed, 18 Mar 2026 21:31:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47431671\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/glf-os-linux-distro-perfect-for-gamers-and-content-creators/",
+        "title": "I see why this Linux distro is the dream pick for gamers and content creators",
+        "link": "https://www.zdnet.com/article/glf-os-linux-distro-perfect-for-gamers-and-content-creators/",
+        "published": "Thu, 19 Mar 2026 01:01:07 GMT",
+        "source": "Latest news",
+        "summary": "Yes, it was a challenge to install. But then GLF OS took me by surprise - in the best possible way."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/semicon-ecosystem-players-seek-sops-to-meet-chip-goals/articleshow/129663049.cms",
+        "title": "Semicon ecosystem players seek sops to meet chip goals",
+        "link": "https://economictimes.indiatimes.com/tech/technology/semicon-ecosystem-players-seek-sops-to-meet-chip-goals/articleshow/129663049.cms",
+        "published": "Thu, 19 Mar 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Companies related to semiconductors have sought financial incentives, such as capital subsidies and rebates on power and taxes, to help achieve the stated goals of the second phase of the India Semiconductor Mission (ISM), underscoring the criticality of building a broader ecosystem beyond fabs."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/credit-card-startup-uni-eyes-fresh-funds-at-over-70-valuation-cut-amid-rbi-curbs/articleshow/129664713.cms",
+        "title": "Scoop: Credit card startup Uni eyes fresh funds at over 70% valuation cut amid RBI curbs",
+        "link": "https://economictimes.indiatimes.com/tech/startups/credit-card-startup-uni-eyes-fresh-funds-at-over-70-valuation-cut-amid-rbi-curbs/articleshow/129664713.cms",
+        "published": "Thu, 19 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Bengaluru-based Uniorbit Technologies, the parent company of Uni Cards, has so far raised $104 million across multiple rounds from investors. These included $70 million it raised in a Series A round led by General Catalyst during the 2021 go-go funding cycle."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boom-will-correct-but-strongest-companies-will-emerge-stronger-first-round-cofounder-howard-morgan/articleshow/129664235.cms",
+        "title": "Exclusive: AI boom due for correction, strongest firms will endure: First Round Capital cofounder Howard Morgan",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boom-will-correct-but-strongest-companies-will-emerge-stronger-first-round-cofounder-howard-morgan/articleshow/129664235.cms",
+        "published": "Thu, 19 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In venture investing there are two ways to make money\u2014buy low and sell high, or buy high and sell higher. In a bubble, everybody thinks buy high, sell higher works forever. But that only works inside the bubble. As soon as the bubble bursts, you go back to needing to buy low. That\u2019s why I push discipline at B Capital, Morgan told ET in an exclusive interview."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/enterprise-ai-firm-c5i-buys-uks-datavid-in-45-50-million-all-cash-deal/articleshow/129662637.cms",
+        "title": "Enterprise AI firm C5i buys UK\u2019s Datavid in $45-50 million all-cash deal",
+        "link": "https://economictimes.indiatimes.com/tech/technology/enterprise-ai-firm-c5i-buys-uks-datavid-in-45-50-million-all-cash-deal/articleshow/129662637.cms",
+        "published": "Thu, 19 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "C5i has acquired Datavid for an undisclosed sum, marking its third acquisition. Sources aware of the deal said the all-cash transaction was valued at $45-50 million. Industry sources indicated the company may consider an initial public offering by the end of the year, though Ashwin Mittal, executive chairman of C5i, did not confirm."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/key-ministries-may-soon-get-the-power-to-block-online-content/articleshow/129662146.cms",
+        "title": "Key Ministries may soon get the power to block online content",
+        "link": "https://economictimes.indiatimes.com/tech/technology/key-ministries-may-soon-get-the-power-to-block-online-content/articleshow/129662146.cms",
+        "published": "Thu, 19 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The government is considering expanding the remit of the Information Technology Act, 2000 to empower critical ministries such as defence, home affairs, external affairs and information and broadcasting to issue content blocking orders under Section 69(A) of the legislation, officials told ET."
     }
 ]
