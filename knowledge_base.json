@@ -156166,5 +156166,45 @@
         "published": "Fri, 20 Mar 2026 00:25:13 +0530",
         "source": "Tech-Economic Times",
         "summary": "Meta announced that it is rolling out Meta AI support assistant globally on Facebook and Instagram to provide 24/7 help with account issues such as password updates and profile settings."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/",
+        "title": "Polymarket continues its partnership spree with a Major League Baseball deal",
+        "link": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/",
+        "published": "Thu, 19 Mar 2026 19:46:30 +0000",
+        "source": "TechCrunch",
+        "summary": "MLB is only the latest in a string of recently announced partnerships involving the prediction market."
+    },
+    {
+        "id": "https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie",
+        "title": "Marc Andreessen is a philosophical zombie",
+        "link": "https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie",
+        "published": "2026-03-19T16:07:54-04:00",
+        "source": "The Verge",
+        "summary": "I admit, this is an innovation I did not see coming: Silicon Valley has invented the philosophical zombie from the classic thought experiment \"lol how crazy would it be if there were a philosophical zombie.\" Until recently, the philosophical zombie was a concept closely associated with Australian philosopher David Chalmers, who defines it as \"someone [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale",
+        "title": "The coolest game controller for your phone is $50 off",
+        "link": "https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale",
+        "published": "2026-03-19T15:47:45-04:00",
+        "source": "The Verge",
+        "summary": "The MCON is the closest to a Swiss army knife that a controller can be. No, it doesn\u2019t contain a can opener, but it makes up for it with a surprising array of features. Once you attach your MagSafe- or Pixelsnap-ready phone to the top plate, pressing a button along its top edge satisfyingly pops [&#8230;]"
+    },
+    {
+        "id": "https://github.com/anomalyco/opencode/pull/18186",
+        "title": "Anthropic takes legal action against OpenCode",
+        "link": "https://github.com/anomalyco/opencode/pull/18186",
+        "published": "Thu, 19 Mar 2026 19:37:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47444748\">Comments</a>"
+    },
+    {
+        "id": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+        "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+        "link": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+        "published": "Mon, 16 Mar 2026 22:56:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47406160\">Comments</a>"
     }
 ]
