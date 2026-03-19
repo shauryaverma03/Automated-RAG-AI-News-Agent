@@ -156286,5 +156286,53 @@
         "published": "Thu, 19 Mar 2026 21:03:00 GMT",
         "source": "Latest news",
         "summary": "I test drove the new Android Desktop Mode with my Pixel, and it genuinely wowed me."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+        "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+        "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+        "published": "Thu, 19 Mar 2026 22:09:24 +0000",
+        "source": "TechCrunch",
+        "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology."
+    },
+    {
+        "id": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+        "title": "\u2018Uncanny Valley\u2019: Nvidia\u2019s \u2018Super Bowl of AI,\u2019 Tesla Disappoints, and Meta\u2019s VR Metaverse \u2018Shutdown\u2019",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+        "published": "Thu, 19 Mar 2026 21:43:56 +0000",
+        "source": "WIRED",
+        "summary": "In this episode, we dive into Nvidia\u2019s annual developer conference and what CEO Jensen Huang is saying about the future of the company."
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+        "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+        "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+        "published": "Thu, 19 Mar 2026 21:29:53 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Broadcom says the group is misrepresenting market \"realities.\""
+    },
+    {
+        "id": "https://www.engadget.com/science/states-are-suing-the-epa-for-relinquishing-its-role-as-a-greenhouse-gas-emissions-regulator-221425064.html?src=rss",
+        "title": "States are suing the EPA for relinquishing its role as a greenhouse gas emissions regulator",
+        "link": "https://www.engadget.com/science/states-are-suing-the-epa-for-relinquishing-its-role-as-a-greenhouse-gas-emissions-regulator-221425064.html?src=rss",
+        "published": "Thu, 19 Mar 2026 22:14:25 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>California, Massachusetts, Connecticut and New York are leading a group of 20 other states in suing the US Environmental Protection Agency for renouncing its ability to regulate greenhouse gas emissions, <a class=\"no-affiliate-link link\" href=\"https://www.nytimes.com/2026/03/19/climate/epa-endangerment-states-lawsuit.html\" target=\"_blank\"><em>The New York Times </em>reports</a>. The lawsuit <a class=\"link\" href=\"https://static01.nyt.com/newsgraphics/documenttools/158b1f1c8d49362e/76ef57f7-ful"
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html?src=rss",
+        "title": "Amazon acquires autonomous robotics startup Rivr",
+        "link": "https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html?src=rss",
+        "published": "Thu, 19 Mar 2026 21:28:39 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Amazon has acquired Rivr, a startup focused on autonomous robotics. Rivr is based in Zurich and was valued at $110 million in a funding round from August 2024, which both Amazon and its CEO's Bezos Expeditions participated in. Financial details of the acquisition were not disclosed.&nbsp;</p><p>Rivr's robots have four legs and wheels that allow it to maneuver on stairs and other potentially uneven surfaces. The company just released its second generation of the robot. The purchase will likely"
+    },
+    {
+        "id": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+        "title": "How the Turner twins are mythbusting modern technical apparel",
+        "link": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+        "published": "Tue, 17 Mar 2026 19:19:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47416972\">Comments</a>"
     }
 ]
