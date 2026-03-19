@@ -156094,5 +156094,77 @@
         "published": "Thu, 19 Mar 2026 23:20:40 +0530",
         "source": "Tech-Economic Times",
         "summary": "\u200bLobbying group Cloud Infrastructure Services \u200bProviders in Europe on Thursday urged \u200bEU antitrust regulators to temporarily stop Broadcom from ending its VMware Cloud Service Provider programme in Europe, ramping up its fight against the \u200cUS tech \u2060company."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+        "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+        "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+        "published": "Thu, 19 Mar 2026 19:09:02 +0000",
+        "source": "TechCrunch",
+        "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/",
+        "title": "Bluesky announces $100M Series B after CEO transition",
+        "link": "https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/",
+        "published": "Thu, 19 Mar 2026 19:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The additional funds have been used to scale Bluesky's team, while the company continues to develop Bluesky's app and the underlying ATProto that powers it."
+    },
+    {
+        "id": "https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury",
+        "title": "Herm\u00e8s doesn\u2019t include a power adapter with its $5,150 charging case",
+        "link": "https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury",
+        "published": "2026-03-19T15:08:03-04:00",
+        "source": "The Verge",
+        "summary": "Over a decade after Apple first partnered with Herm&#232;s for a special Apple Watch collaboration, the French luxury goods maker has released a new collection of leather-wrapped charging accessories for Apple's mobile devices. The most expensive option is a multi-device wireless charger in a case made from the brand's signature gold-colored calfskin leather that will [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
+        "title": "OpenAI is acquiring open source Python tool-maker Astral",
+        "link": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
+        "published": "Thu, 19 Mar 2026 18:44:58 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Codex maker says it will \"continue to support these open source projects\" after deal closes."
+    },
+    {
+        "id": "https://www.engadget.com/apps/android-will-hide-app-sideloading-behind-a-new-one-time-security-process-184651171.html?src=rss",
+        "title": "Android will hide app sideloading behind a new one-time security process",
+        "link": "https://www.engadget.com/apps/android-will-hide-app-sideloading-behind-a-new-one-time-security-process-184651171.html?src=rss",
+        "published": "Thu, 19 Mar 2026 18:46:51 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google <a class=\"link\" href=\"https://android-developers.googleblog.com/2026/03/android-developer-verification.html\" target=\"_blank\">has detailed</a> how users will be able to sideload apps from unverified developers once it implements its <a class=\"link\" href=\"https://www.engadget.com/apps/google-will-block-sideloading-of-unverified-android-apps-124521174.html\" target=\"_blank\">more restrictive policy towards</a> downloading software on Android. The company originally planned to require all de"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/the-steam-spring-sale-is-here-with-discounts-on-arc-raiders-hades-2-and-much-more-184000691.html?src=rss",
+        "title": "The Steam Spring Sale is here with discounts on Arc Raiders, Hades 2 and much more",
+        "link": "https://www.engadget.com/gaming/the-steam-spring-sale-is-here-with-discounts-on-arc-raiders-hades-2-and-much-more-184000691.html?src=rss",
+        "published": "Thu, 19 Mar 2026 18:40:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The <a class=\"link\" href=\"https://store.steampowered.com\" target=\"_blank\">Steam Spring Sale</a> is underway and as usual, there's plenty of good stuff to add to your library. The seasonal discounts will run through Thursday, March 26 at 1PM ET. If there's anything you've been waiting to buy, it's worth checking to see if it's on sale now, because huge chunks of the Steam catalog are at least a little bit off.&nbsp;</p><p>Recent releases don't usually receive big price cuts during Steam sales,"
+    },
+    {
+        "id": "https://www.iroh.computer/blog/noq-announcement",
+        "title": "Noq: n0's new QUIC implementation in Rust",
+        "link": "https://www.iroh.computer/blog/noq-announcement",
+        "published": "Thu, 19 Mar 2026 18:17:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47443588\">Comments</a>"
+    },
+    {
+        "id": "https://qlabs.sh/10x",
+        "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+        "link": "https://qlabs.sh/10x",
+        "published": "Thu, 19 Mar 2026 18:51:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47444072\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-to-roll-out-meta-ai-support-assistant-globally-on-facebook-and-instagram/articleshow/129686450.cms",
+        "title": "Meta to roll out Meta AI support assistant globally on Facebook and Instagram",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-to-roll-out-meta-ai-support-assistant-globally-on-facebook-and-instagram/articleshow/129686450.cms",
+        "published": "Fri, 20 Mar 2026 00:25:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta announced that it is rolling out Meta AI support assistant globally on Facebook and Instagram to provide 24/7 help with account issues such as password updates and profile settings."
     }
 ]
