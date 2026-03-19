@@ -154822,5 +154822,85 @@
         "published": "Thu, 19 Mar 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "The government is considering expanding the remit of the Information Technology Act, 2000 to empower critical ministries such as defence, home affairs, external affairs and information and broadcasting to issue content blocking orders under Section 69(A) of the legislation, officials told ET."
+    },
+    {
+        "id": "https://rjcorwin.github.io/cook/",
+        "title": "Cook: A simple CLI for orchestrating Claude Code",
+        "link": "https://rjcorwin.github.io/cook/",
+        "published": "Thu, 19 Mar 2026 02:20:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47434024\">Comments</a>"
+    },
+    {
+        "id": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+        "title": "A sufficiently detailed spec is code",
+        "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+        "published": "Thu, 19 Mar 2026 02:23:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47434047\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/iliazintchenko/agent-sat",
+        "title": "Autoresearch for SAT Solvers",
+        "link": "https://github.com/iliazintchenko/agent-sat",
+        "published": "Thu, 19 Mar 2026 00:40:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47433265\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-turn-android-phone-into-wifi-extender-for-free/",
+        "title": "How to turn your old Android phone into a Wi-Fi extender - and fix dead spots at home",
+        "link": "https://www.zdnet.com/article/how-to-turn-android-phone-into-wifi-extender-for-free/",
+        "published": "Thu, 19 Mar 2026 02:00:43 GMT",
+        "source": "Latest news",
+        "summary": "It's free, easy to set up, and lets you avoid upgrading to a mesh system."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/musk-says-spacex-ai-tesla-will-keep-ordering-nvidia-chips-at-scale/articleshow/129670021.cms",
+        "title": "Elon Musk says SpaceX AI, Tesla will keep ordering Nvidia chips at scale",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/musk-says-spacex-ai-tesla-will-keep-ordering-nvidia-chips-at-scale/articleshow/129670021.cms",
+        "published": "Thu, 19 Mar 2026 09:14:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tesla is designing \u200cits \u2060fifth-generation AI \u2060chip to power its autonomous ambitions. The \u200bchips power Tesla's autonomous driving systems, including the Full \u200bSelf-Driving software."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/mystery-ai-model-suspected-to-be-deepseek-v4-is-revealed-to-be-from-xiaomi/articleshow/129669952.cms",
+        "title": "Mystery AI model suspected to be DeepSeek V4 is revealed to be from Xiaomi",
+        "link": "https://economictimes.indiatimes.com/tech/technology/mystery-ai-model-suspected-to-be-deepseek-v4-is-revealed-to-be-from-xiaomi/articleshow/129669952.cms",
+        "published": "Thu, 19 Mar 2026 09:13:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The release of DeepSeek's low-cost models DeepSeek-V3 and R1 triggered a global tech stock selloff last year, causing investors to question whether U.S. AI firms needed to spend billions of dollars on AI computing power. Since then, there has been a great deal of \u200cinterest in DeepSeek-V4, \u2060a next-generation model \u2060that has yet to be released."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/heavy-social-media-usage-erodes-young-peoples-wellbeing-report-finds/articleshow/129669190.cms",
+        "title": "Heavy social media usage erodes young people's wellbeing, report finds",
+        "link": "https://economictimes.indiatimes.com/tech/technology/heavy-social-media-usage-erodes-young-peoples-wellbeing-report-finds/articleshow/129669190.cms",
+        "published": "Thu, 19 Mar 2026 07:59:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Already, \u200ba number of countries across the world are working on plans to curb children's social media access after Australia in December became the world's first country to ban social media for children under 16."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-agency-asks-companies-to-secure-microsoft-tool-after-stryker-cyberattack/articleshow/129669151.cms",
+        "title": "US agency asks companies to secure Microsoft tool after Stryker cyberattack",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-agency-asks-companies-to-secure-microsoft-tool-after-stryker-cyberattack/articleshow/129669151.cms",
+        "published": "Thu, 19 Mar 2026 07:53:34 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The March 11 cyberattack hit Stryker's computer systems, causing widespread \u200cdisruption to \u2060its \u2060business, including its ability to process orders, make products \u200band ship them to customers. The company said it had \u200bexperienced a global disruption to its Microsoft environment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apples-china-smartphone-sales-jump-23-to-start-2026-bucking-industry-trend/articleshow/129669131.cms",
+        "title": "Apple's China smartphone sales jump 23% to start 2026, bucking industry trend",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apples-china-smartphone-sales-jump-23-to-start-2026-bucking-industry-trend/articleshow/129669131.cms",
+        "published": "Thu, 19 Mar 2026 07:52:09 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "China's overall smartphone market fell 4% year-on-year in the January-to-early-March period, with government subsidies \u200cintroduced at the \u2060start \u2060of the year doing little to revive sluggish consumer demand, data on Thursday from research \u200bfirm Counterpoint showed."
+    },
+    {
+        "id": "https://inc42.com/buzz/the-edtech-duopoly-nazaras-expansion-continues-more/",
+        "title": "The Edtech Duopoly, Nazara\u2019s Expansion Continues & More",
+        "link": "https://inc42.com/buzz/the-edtech-duopoly-nazaras-expansion-continues-more/",
+        "published": "Thu, 19 Mar 2026 02:30:28 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"The Edtech Duopoly, Nazara&#039;s Expansion Continues &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/FTR-Daily-Brief-2026-03-19T035534.403.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Inside India\u2019s Edtech Duopoly The Indian edtech sector is entering its consolidation era. Last week, upGrad signed a deal to&#8230;"
     }
 ]
