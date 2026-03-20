@@ -158014,5 +158014,61 @@
         "published": "Fri, 20 Mar 2026 22:06:51 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47461321\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/",
+        "title": "Jury finds Musk owes damages to Twitter investors for his tweets",
+        "link": "https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/",
+        "published": "Fri, 20 Mar 2026 22:27:42 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Verdict, while not a complete loss, could still cost him billions."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
+        "title": "You're likely already infected with a brain-eating virus you've never heard of",
+        "link": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
+        "published": "Fri, 20 Mar 2026 22:11:24 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Fatal brain infection was thought to be from profound immune suppression. Not anymore."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
+        "title": "Once again, ULA can't deliver when the US military needs a satellite in orbit",
+        "link": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
+        "published": "Fri, 20 Mar 2026 21:35:56 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "ULA's Vulcan launch vehicle is grounded after a solid rocket booster anomaly last month."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
+        "title": "Microsoft keeps insisting that it's deeply committed to the quality of Windows 11",
+        "link": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
+        "published": "Fri, 20 Mar 2026 21:26:50 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Reducing unnecessary Copilot entry points\" is one of Microsoft's action items."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+        "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
+        "link": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+        "published": "Fri, 20 Mar 2026 21:03:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "One of the first controversies of its kind."
+    },
+    {
+        "id": "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
+        "title": "Heart Attack and Stroke Risk Jumps When People Stop Taking GLP-1s",
+        "link": "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
+        "published": "Fri, 20 Mar 2026 21:42:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47461018\">Comments</a>"
+    },
+    {
+        "id": "https://www.openui.com/blog/rust-wasm-parser",
+        "title": "We rewrote our Rust WASM Parser in TypeScript \u2013 and it got 3x Faster",
+        "link": "https://www.openui.com/blog/rust-wasm-parser",
+        "published": "Fri, 20 Mar 2026 21:48:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47461094\">Comments</a>"
     }
 ]
