@@ -157366,5 +157366,173 @@
         "published": "Fri, 20 Mar 2026 08:57:49 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Barabanki\u2019s handloom industry is growing through design flexibility, custom production, and direct market access beyond local systems."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
+        "title": "Jeff Bezos\u2019 Blue Origin enters the space data center game",
+        "link": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
+        "published": "Fri, 20 Mar 2026 16:27:43 +0000",
+        "source": "TechCrunch",
+        "summary": "\"Project Sunrise\" would include more than 50,000 satellites performing high-energy compute on orbit."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/",
+        "title": "U.S. accuses Iran\u2019s government of operating hacktivist group that hacked Stryker",
+        "link": "https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/",
+        "published": "Fri, 20 Mar 2026 16:18:57 +0000",
+        "source": "TechCrunch",
+        "summary": "The U.S. Justice Department said an Iranian security ministry operates the fake activist persona known as Handala, which claimed responsibility for the destructive hack targeting medical tech giant Stryker."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+        "title": "Trump\u2019s AI framework targets state laws, shifts child safety burden to parents",
+        "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+        "published": "Fri, 20 Mar 2026 16:14:04 +0000",
+        "source": "TechCrunch",
+        "summary": "Trump\u2019s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+        "title": "AI startups are eating the venture industry and the returns, so far, are good",
+        "link": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+        "published": "Fri, 20 Mar 2026 15:41:21 +0000",
+        "source": "TechCrunch",
+        "summary": "AI startups\u00a0accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year \u2014 a record-high annual share."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal",
+        "title": "Google\u2019s battery-powered Nest Doorbell is $40 off right now",
+        "link": "https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal",
+        "published": "2026-03-20T11:35:15-04:00",
+        "source": "The Verge",
+        "summary": "Buying a video doorbell is worth it for several reasons. They\u2019re convenient if you get a lot of deliveries or visitors, as they let you glance at a phone alert to decide whether it\u2019s necessary to drop everything and go to the door. They can provide peace of mind, too, particularly if you\u2019re heading out [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/",
+        "title": "Iran War Puts Global Energy Markets on the Brink of a Worst-Case Scenario",
+        "link": "https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/",
+        "published": "Fri, 20 Mar 2026 16:20:52 +0000",
+        "source": "WIRED",
+        "summary": "\u201cThis will be so, so, so, so, so bad,\u201d one analyst says."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/",
+        "title": "Major SteamOS update adds support for Steam Machine, even more third-party hardware",
+        "link": "https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/",
+        "published": "Fri, 20 Mar 2026 15:36:57 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Both AMD- and Intel-based hardware is getting better support in SteamOS 3.8."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/",
+        "title": "Monte Verde site gets a new date, but the big picture doesn't change",
+        "link": "https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/",
+        "published": "Fri, 20 Mar 2026 15:01:15 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Stop trying to make \"Clovis First\" happen; it's not going to happen."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/",
+        "title": "Jeff Bezos just announced plans for a third megaconstellation\u2014this one for data centers",
+        "link": "https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/",
+        "published": "Fri, 20 Mar 2026 14:46:39 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Space-based data centers will be a complement to terrestrial infrastructure.\""
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/the-us-is-looking-at-a-year-of-chaotic-weather/",
+        "title": "The US is looking at a year of chaotic weather",
+        "link": "https://arstechnica.com/science/2026/03/the-us-is-looking-at-a-year-of-chaotic-weather/",
+        "published": "Fri, 20 Mar 2026 14:38:50 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Massive Western heat wave, potential El Ni\u00f1o raise concerns about unpredictable, extreme weather."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/03/theres-no-sudden-acceleration-problem-with-tesla-feds-say/",
+        "title": "Feds say no need to recall Tesla's one-pedal driving despite petition",
+        "link": "https://arstechnica.com/cars/2026/03/theres-no-sudden-acceleration-problem-with-tesla-feds-say/",
+        "published": "Fri, 20 Mar 2026 14:30:36 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "It's good news, but another federal Tesla defect probe deepened this week."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/tv-movies/project-hail-mary-could-teach-humanity-a-thing-or-two-154327806.html?src=rss",
+        "title": "Project Hail Mary could teach humanity a thing or two",
+        "link": "https://www.engadget.com/entertainment/tv-movies/project-hail-mary-could-teach-humanity-a-thing-or-two-154327806.html?src=rss",
+        "published": "Fri, 20 Mar 2026 15:43:27 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>It's hard not to find the premise of Andy Weir's <em>Project Hail Mary </em>instantly compelling: Something is slowly killing the sun and threatening life on Earth. That same mysterious force, dubbed the Astrophage, also destroyed every nearby star \u2014 except one. Our only hope is to visit that solar system and figure out what helped it survive. And there's just one middle school science teacher who can do it.&nbsp;</p><p>At its core is Weir's love of technical problem solving, along with a tre"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/pc/engadget-podcast-why-does-everyone-hate-nvidias-dlss-5-ai-upscaling-121335918.html?src=rss",
+        "title": "Engadget Podcast: Why does everyone hate NVIDIA's DLSS 5 AI upscaling?",
+        "link": "https://www.engadget.com/gaming/pc/engadget-podcast-why-does-everyone-hate-nvidias-dlss-5-ai-upscaling-121335918.html?src=rss",
+        "published": "Fri, 20 Mar 2026 12:13:35 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p></p><p>NVIDIA started an online firestorm this week when it <a class=\"link\" href=\"https://www.engadget.com/gaming/pc/nvidia-claims-dlss-5-will-deliver-photoreal-image-quality-with-ai-this-fall-193452088.html\" target=\"_blank\">announced DLSS 5</a> at its GTC conference. The company claims it's meant to deliver \"photorealistic\" lighting and materials in games by using neural processing. But it differs considerably from previous versions of DLSS, which were focused on using machine learning to up"
+    },
+    {
+        "id": "https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/",
+        "title": "Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'",
+        "link": "https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/",
+        "published": "Fri, 20 Mar 2026 15:39:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47456153\">Comments</a>"
+    },
+    {
+        "id": "https://zserge.com/posts/visicalc/",
+        "title": "VisiCalc Reconstructed",
+        "link": "https://zserge.com/posts/visicalc/",
+        "published": "Tue, 17 Mar 2026 10:39:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47410871\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/ettech-deals-digest-startups-raise-343-million-this-week-down-69-on-year/articleshow/129704583.cms",
+        "title": "ETtech Deals Digest: Startups raise $343 million this week, down 69% on-year",
+        "link": "https://economictimes.indiatimes.com/tech/funding/ettech-deals-digest-startups-raise-343-million-this-week-down-69-on-year/articleshow/129704583.cms",
+        "published": "Fri, 20 Mar 2026 21:34:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The number of deals during the week was down significantly at 29, compared to 44 in the corresponding week last year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tvs-capital-invests-rs-500-crore-in-neo-group-at-rs-10000-crore-valuation/articleshow/129704482.cms",
+        "title": "TVS Capital invests Rs 500 crore in Neo Group at Rs 10,000 crore valuation",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tvs-capital-invests-rs-500-crore-in-neo-group-at-rs-10000-crore-valuation/articleshow/129704482.cms",
+        "published": "Fri, 20 Mar 2026 21:30:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "This is TVS Capital\u2019s first bet in the wealth management space. The Mumbai-based wealth and asset management company will use the new funds to accelerate its growth and deliver specialised solutions to its clients. The company manages about Rs 1 lakh crore in client assets."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/xai-sends-engineers-to-client-sites-to-win-business-from-openai/articleshow/129704483.cms",
+        "title": "xAI sends engineers to client sites to win business from OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/technology/xai-sends-engineers-to-client-sites-to-win-business-from-openai/articleshow/129704483.cms",
+        "published": "Fri, 20 Mar 2026 21:20:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The hands-on approach helped xAI land payments company Shift4 Payments, which now plans to phase out OpenAI\u2019s ChatGPT in favor of xAI\u2019s Grok after the on-site work, Shift4 Chief Executive Officer Taylor Lauber said in an interview."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/xai-sends-engineers-to-client-sites-to-win-business-from-openai/articleshow/129704466.cms",
+        "title": "xAI sends engineers to client sites to win business from OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/xai-sends-engineers-to-client-sites-to-win-business-from-openai/articleshow/129704466.cms",
+        "published": "Fri, 20 Mar 2026 21:20:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The hands-on approach helped xAI land payments company Shift4 Payments, which now plans to phase out OpenAI\u2019s ChatGPT in favor of xAI\u2019s Grok after the on-site work, Shift4 Chief Executive Officer Taylor Lauber said in an interview."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/weekly-funding-roundup-march-14-20-venture-capital-indian-startups-sharp-rise",
+        "title": "[Weekly funding roundup March 14-20] Venture capital into Indian startups sees a sharp rise",
+        "link": "https://yourstory.com/2026/03/weekly-funding-roundup-march-14-20-venture-capital-indian-startups-sharp-rise",
+        "published": "Fri, 20 Mar 2026 14:31:16 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The $155 million Weaver Services deal helped boost overall VC inflows into Indian startups."
+    },
+    {
+        "id": "https://inc42.com/buzz/zomato-hikes-platform-fees-by-20-to-%e2%82%b914-9/",
+        "title": "Zomato Hikes Platform Fees By 20% To \u20b914.9",
+        "link": "https://inc42.com/buzz/zomato-hikes-platform-fees-by-20-to-%e2%82%b914-9/",
+        "published": "Fri, 20 Mar 2026 15:38:31 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Zomato Hikes Platform Fees By 20% To \u20b914.9\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/zomato-hike-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />As the shadow of LPG crunch looms over Zomato\u2019s top line, the food delivery giant has hiked its platform fees&#8230;"
     }
 ]
