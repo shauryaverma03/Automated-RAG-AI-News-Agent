@@ -157262,5 +157262,109 @@
         "published": "Fri, 20 Mar 2026 19:24:17 +0530",
         "source": "Tech-Economic Times",
         "summary": "Russia is set to introduce new rules for artificial intelligence. Foreign AI tools may face bans or restrictions if they fail to comply. These regulations aim to protect citizens and promote domestic AI development. The new regime will likely come into effect next year. Russian user data will need to be stored locally for compliance."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/",
+        "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US",
+        "link": "https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/",
+        "published": "Fri, 20 Mar 2026 15:01:39 +0000",
+        "source": "TechCrunch",
+        "summary": "A cyberattack on a U.S. car breathalyzer company has left drivers across the United States reportedly stranded and unable to start their vehicles."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/",
+        "title": "Amazon working on new smartphone with Alexa at its core, report says",
+        "link": "https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/",
+        "published": "Fri, 20 Mar 2026 14:51:30 +0000",
+        "source": "TechCrunch",
+        "summary": "The device is being developed by the company's Devices and Services division, and it would feature personalized features aimed at making it easier to use Amazon's suite of apps, including Amazon shopping, Prime Video, and Prime Music, according to Reuters."
+    },
+    {
+        "id": "https://www.theverge.com/tech/897947/xppen-artist-pro-27-drawing-display-tablet-launch-price",
+        "title": "The Artist Pro 27 is XP-Pen\u2019s latest 4K flagship display tablet",
+        "link": "https://www.theverge.com/tech/897947/xppen-artist-pro-27-drawing-display-tablet-launch-price",
+        "published": "2026-03-20T11:00:03-04:00",
+        "source": "The Verge",
+        "summary": "XP-Pen has launched a new 27-inch display drawing tablet that competes with the visual performance of Wacom's beloved Cintiq Pro series, but for a fraction of the cost. The Artist Pro 27 is available starting today for $1,899.99, providing a 4K resolution display with a 120Hz refresh rate and extreme color accuracy, according to XP-Pen's [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
+        "title": "At Palantir\u2019s Developer Conference, AI Is Built to Win Wars",
+        "link": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
+        "published": "Fri, 20 Mar 2026 15:00:00 +0000",
+        "source": "WIRED",
+        "summary": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage\u2014and attracting customers who agree."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/nintendo/belkin-charging-case-pro-for-switch-2-review-a-more-elegant-solution-144820809.html?src=rss",
+        "title": "Belkin Charging Case Pro for Switch 2 review: A more elegant solution",
+        "link": "https://www.engadget.com/gaming/nintendo/belkin-charging-case-pro-for-switch-2-review-a-more-elegant-solution-144820809.html?src=rss",
+        "published": "Fri, 20 Mar 2026 14:48:20 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Last year, Belkin released a couple of cases for the <a class=\"link\" href=\"https://www.engadget.com/gaming/nintendo/nintendo-switch-2-review-more-of-what-you-love-120048430.html\" target=\"_blank\">Nintendo Switch 2</a> just in time for launch, including <a class=\"link\" href=\"https://www.engadget.com/gaming/nintendo/belkin-charging-case-for-switch-2-review-simple-but-effective-140016952.html\" target=\"_blank\">one that came with a handy battery pack</a>. That one was simple and effective, but it f"
+    },
+    {
+        "id": "https://paulgraham.com/kids.html",
+        "title": "Having Kids (2019)",
+        "link": "https://paulgraham.com/kids.html",
+        "published": "Fri, 20 Mar 2026 14:56:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47455489\">Comments</a>"
+    },
+    {
+        "id": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+        "title": "The Los Angeles Aqueduct Is Wild",
+        "link": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+        "published": "Tue, 17 Mar 2026 18:43:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47416543\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/zetwerk-plans-to-confidentially-file-for-indian-ipo-targets-4-billion-valuation-report/articleshow/129703905.cms",
+        "title": "Zetwerk plans to confidentially file for Indian IPO, targets $4 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/startups/zetwerk-plans-to-confidentially-file-for-indian-ipo-targets-4-billion-valuation-report/articleshow/129703905.cms",
+        "published": "Fri, 20 Mar 2026 20:48:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian contract electronics manufacturer Zetwerk is gearing up for its initial public offering. The company plans to confidentially file draft papers within two weeks. Zetwerk aims to raise up to $550 million at a valuation of approximately $4 billion. The IPO includes fresh equity and an offer for sale. The company is targeting a listing later this year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/internet/microsoft-launches-mai-image-2-heres-all-you-need-to-know/articleshow/129703733.cms",
+        "title": "Microsoft launches MAI-Image-2: here's all you need to know",
+        "link": "https://economictimes.indiatimes.com/tech/internet/microsoft-launches-mai-image-2-heres-all-you-need-to-know/articleshow/129703733.cms",
+        "published": "Fri, 20 Mar 2026 20:36:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft has unveiled MAI-Image-2, its new text-to-image AI model. This tool aims to boost creative workflows with enhanced photorealism and accurate text generation.  It promises natural lighting and detailed scenes, reducing post-production needs.  MAI-Image-2 is now available for preview and will soon be integrated into Copilot and Bing Image Creator."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-releases-ai-policy-to-pre-empt-state-rules/articleshow/129703461.cms",
+        "title": "Trump releases AI policy to pre-empt state rules",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-releases-ai-policy-to-pre-empt-state-rules/articleshow/129703461.cms",
+        "published": "Fri, 20 Mar 2026 20:19:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The White House has unveiled a new artificial intelligence policy. This plan aims to create a single national framework for AI regulation. It seeks to prevent varied state laws and ensure consistent rules across the country. The policy also focuses on protecting children online and managing energy costs associated with AI."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/internet/germany-to-crack-down-on-sexualised-deepfakes/articleshow/129703423.cms",
+        "title": "Germany to crack down on sexualised deepfakes",
+        "link": "https://economictimes.indiatimes.com/tech/internet/germany-to-crack-down-on-sexualised-deepfakes/articleshow/129703423.cms",
+        "published": "Fri, 20 Mar 2026 20:15:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Germany is set to criminalise the creation and sharing of sexualised deepfakes. This move follows serious accusations by TV personality Collien Fernandes against her former husband. She alleges he spread AI-generated pornographic images of her online. Justice Minister Stefanie Hubig stated perpetrators will face prosecution. Police will gain enhanced powers to investigate."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-urges-congress-to-take-a-light-touch-on-ai-regulations-in-new-legislative-blueprint/articleshow/129703368.cms",
+        "title": "White House urges Congress to take a light touch on AI regulations in new legislative blueprint",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-urges-congress-to-take-a-light-touch-on-ai-regulations-in-new-legislative-blueprint/articleshow/129703368.cms",
+        "published": "Fri, 20 Mar 2026 20:11:42 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The White House is urging Congress to create federal AI regulations. This aims to prevent a confusing mix of state laws that could hinder technological progress. Key principles include protecting children, managing energy costs, respecting intellectual property, and preventing censorship. The administration believes a unified federal approach is crucial for America's leadership in AI development and deployment."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/barabanki-handloom-industry-flexibility-market-demand-odop",
+        "title": "Barabanki\u2019s Handloom Products: Where Loom-Based Flexibility Meets Market Demand",
+        "link": "https://yourstory.com/2026/03/barabanki-handloom-industry-flexibility-market-demand-odop",
+        "published": "Fri, 20 Mar 2026 08:57:49 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Barabanki\u2019s handloom industry is growing through design flexibility, custom production, and direct market access beyond local systems."
     }
 ]
