@@ -157974,5 +157974,45 @@
         "published": "Fri, 20 Mar 2026 18:06:20 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47458348\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026",
+        "title": "An automated moderation error left Tumblr users panicked",
+        "link": "https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026",
+        "published": "2026-03-20T18:00:34-04:00",
+        "source": "The Verge",
+        "summary": "Tumblr users were left scrambling on Wednesday after dozens of accounts were banned in the same afternoon by an automated system. Numerous users contacted The Verge about the incident, claiming that the wave of bans disproportionately seemed to impact accounts run by users who identify as trans women, many of whom were given no specific [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
+        "title": "There Aren't a Lot of Reasons to Get Excited About a New Amazon Smartphone",
+        "link": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
+        "published": "Fri, 20 Mar 2026 22:03:09 +0000",
+        "source": "WIRED",
+        "summary": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market."
+    },
+    {
+        "id": "https://www.engadget.com/social-media/pinterest-ceo-says-teens-under-16-should-be-banned-from-social-media-but-not-pinterest-211630443.html?src=rss",
+        "title": "Pinterest CEO says teens under 16 should be banned from social media (but not Pinterest)",
+        "link": "https://www.engadget.com/social-media/pinterest-ceo-says-teens-under-16-should-be-banned-from-social-media-but-not-pinterest-211630443.html?src=rss",
+        "published": "Fri, 20 Mar 2026 21:16:30 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Pinterest's CEO has thrown his support behind an Australia measure banning social media for younger teens and is calling for governments around the world to implement similar bans. \"Social media, as it\u2019s configured today, is not safe for young people under 16,\" Ready writes in a piece <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=7212db91-cd64-4c1b-ab0d-1d1c998f089e&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=7c165940-663c-4913-815d-fd67"
+    },
+    {
+        "id": "https://opencode.ai/",
+        "title": "OpenCode \u2013 The open source AI coding agent",
+        "link": "https://opencode.ai/",
+        "published": "Fri, 20 Mar 2026 21:03:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47460525\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/FormerLab/fortransky",
+        "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+        "link": "https://github.com/FormerLab/fortransky",
+        "published": "Fri, 20 Mar 2026 22:06:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47461321\">Comments</a>"
     }
 ]
