@@ -157910,5 +157910,69 @@
         "published": "Fri, 20 Mar 2026 19:39:03 GMT",
         "source": "Latest news",
         "summary": "Howdy gets you ad-free viewing for under $3 a month, but is it worth it?"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+        "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+        "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+        "published": "Fri, 20 Mar 2026 20:53:09 +0000",
+        "source": "TechCrunch",
+        "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
+    },
+    {
+        "id": "https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/",
+        "title": "\u2018A Rigged and Dangerous Product\u2019: The Wildest Week for Prediction Markets Yet",
+        "link": "https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/",
+        "published": "Fri, 20 Mar 2026 21:07:04 +0000",
+        "source": "WIRED",
+        "summary": "As the prediction market boom continues, backlash is growing, too, with Arizona filing criminal charges against Kalshi and public outcry after Polymarket traders threatened a journalist."
+    },
+    {
+        "id": "https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/",
+        "title": "A Top Democrat Is Urging Colleagues to Support Trump\u2019s Spy Machine",
+        "link": "https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/",
+        "published": "Fri, 20 Mar 2026 20:46:45 +0000",
+        "source": "WIRED",
+        "summary": "Congressman Jim Himes claims a sweeping surveillance authority should stay intact because he hasn't seen abuses by Kash Patel's FBI, according to internal messaging obtained by WIRED."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/",
+        "title": "NASA issues draft request for moving space shuttle Discovery\u2014or Orion capsule",
+        "link": "https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/",
+        "published": "Fri, 20 Mar 2026 20:30:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The request goes beyond a one-time move to transporting all types of vehicles."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-nexstar-buy-tegna-creating-trump-approved-broadcaster-reaching-80-of-us/",
+        "title": "Trump FCC lets Nexstar buy Tegna and blow way past 39% TV ownership cap",
+        "link": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-nexstar-buy-tegna-creating-trump-approved-broadcaster-reaching-80-of-us/",
+        "published": "Fri, 20 Mar 2026 20:08:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Brendan Carr lets Trump-favorite Nexstar exceed national station ownership limit."
+    },
+    {
+        "id": "https://www.engadget.com/computing/microsoft-will-yank-copilot-from-some-windows-apps-and-let-you-move-the-taskbar-again-202857203.html?src=rss",
+        "title": "Microsoft will yank Copilot from some Windows apps and let you move the taskbar again",
+        "link": "https://www.engadget.com/computing/microsoft-will-yank-copilot-from-some-windows-apps-and-let-you-move-the-taskbar-again-202857203.html?src=rss",
+        "published": "Fri, 20 Mar 2026 20:44:37 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>After one too many of you threatened to switch to Linux, Microsoft has published a long list of changes it plans to make to Windows 11. In a lengthy blog titled &quot;<a class=\"link\" href=\"https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/\" target=\"_blank\">Our commitment to Windows quality</a>,&quot; Pavan Davuluri, the executive vice president of Windows and Devices, said the company has spent a &quot;great deal&quot; of time in recent months reading feed"
+    },
+    {
+        "id": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+        "title": "Our commitment to Windows quality",
+        "link": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+        "published": "Fri, 20 Mar 2026 19:16:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47459296\">Comments</a>"
+    },
+    {
+        "id": "https://demo.define.app",
+        "title": "Show HN: I made an email app inspired by Arc browser",
+        "link": "https://demo.define.app",
+        "published": "Fri, 20 Mar 2026 18:06:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47458348\">Comments</a>"
     }
 ]
