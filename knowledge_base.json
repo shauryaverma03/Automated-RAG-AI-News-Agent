@@ -156358,5 +156358,101 @@
         "published": "Thu, 19 Mar 2026 23:06:00 GMT",
         "source": "Latest news",
         "summary": "For phones, laptops, and other mobile accessories, any color besides black is the new black."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+        "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+        "link": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+        "published": "Thu, 19 Mar 2026 23:28:37 +0000",
+        "source": "TechCrunch",
+        "summary": "Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery."
+    },
+    {
+        "id": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
+        "title": "Valve\u2019s huge SteamOS 3.8 update adds long-awaited features \u2014 and supports Steam Machine",
+        "link": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
+        "published": "2026-03-19T20:34:04-04:00",
+        "source": "The Verge",
+        "summary": "Valve has just released SteamOS 3.8.0 in preview, and it's a doozy. Not only is it the first release to support the upcoming Steam Machine living room gaming PC, it comes with long-awaited features for Valve's handhelds and more support for other companies' handhelds than we've seen to date - including Microsoft and Asus' Xbox [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+        "title": "OpenAI is planning a desktop \u2018superapp\u2019",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+        "published": "2026-03-19T20:09:38-04:00",
+        "source": "The Verge",
+        "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/",
+        "title": "US Takes Down Botnets Used in Record-Breaking Cyberattacks",
+        "link": "https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/",
+        "published": "Fri, 20 Mar 2026 00:07:30 +0000",
+        "source": "WIRED",
+        "summary": "The Aisuru, Kimwolf, JackSkid, and Mossad botnets had infected more than 3 million devices in total, many inside home networks, according to the US Justice Department."
+    },
+    {
+        "id": "https://code.claude.com/docs/en/channels",
+        "title": "Claude Code: Channels",
+        "link": "https://code.claude.com/docs/en/channels",
+        "published": "Fri, 20 Mar 2026 00:22:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>"
+    },
+    {
+        "id": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
+        "title": "Wayland set the Linux Desktop back by 10 years",
+        "link": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
+        "published": "Fri, 20 Mar 2026 00:01:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448328\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/",
+        "title": "AI will accelerate tech job growth - former Tesla president explains where and why",
+        "link": "https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/",
+        "published": "Fri, 20 Mar 2026 01:00:44 GMT",
+        "source": "Latest news",
+        "summary": "Venture capitalist Jon McNeill foresees growing demand for humans to sustain complex AI infrastructure and architecture."
+    },
+    {
+        "id": "https://www.zdnet.com/article/twelve-south-airfly-pro-2-review/",
+        "title": "This viral wireless dongle lets you share your audio on a flight - how it works",
+        "link": "https://www.zdnet.com/article/twelve-south-airfly-pro-2-review/",
+        "published": "Fri, 20 Mar 2026 00:20:40 GMT",
+        "source": "Latest news",
+        "summary": "The Twelve South AirFly Pro 2 improves audio quality, streamlines connectivity, and makes in-flight entertainment much easier to enjoy."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/whatsapp-to-introduce-usernames-by-mid-2026-allowing-messaging-without-phone-numbers/articleshow/129685847.cms",
+        "title": "WhatsApp to introduce usernames by mid-2026, allowing messaging without phone numbers",
+        "link": "https://economictimes.indiatimes.com/tech/technology/whatsapp-to-introduce-usernames-by-mid-2026-allowing-messaging-without-phone-numbers/articleshow/129685847.cms",
+        "published": "Fri, 20 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "WhatsApp is planning a major platform overhaul, introducing usernames and unique IDs instead of phone numbers, allowing users to send messages and make voice or video calls without sharing numbers. The optional privacy feature is expected to roll out globally by June 2026, with users and businesses able to reserve unique handles."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/gazette-notification-may-allow-more-ministries-to-block-content/articleshow/129685476.cms",
+        "title": "Gazette notification may allow more ministries to block content",
+        "link": "https://economictimes.indiatimes.com/tech/technology/gazette-notification-may-allow-more-ministries-to-block-content/articleshow/129685476.cms",
+        "published": "Fri, 20 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Sources told us that the government could use a gazette notification to give multiple ministries content-blocking powers under the Information Technology Act, 2000, avoiding the need for legal amendments. This would make Secretaries 'nodal officers' with authority to issue orders, expanding Section 69(A) without facing legal hurdles."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/eqt-partners-group-itc-info-eye-a-chunk-of-ashok-sootas-happiest-minds/articleshow/129684855.cms",
+        "title": "EQT, Partners Group &amp; ITC Info eye a chunk of Ashok Soota\u2019s Happiest Minds",
+        "link": "https://economictimes.indiatimes.com/tech/technology/eqt-partners-group-itc-info-eye-a-chunk-of-ashok-sootas-happiest-minds/articleshow/129684855.cms",
+        "published": "Fri, 20 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Private equity firms EQT and Partners Group, along with ITC Infotech, are exploring a controlling stake in Happiest Minds from founder Ashok Soota, who holds 44%. At a post-earnings press conference in February, when asked about stake sale plans, Soota said that the company was focused on its artificial intelligence project and that he remained \u201cvery much at the helm.\""
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/nimble-mid-tier-it-riding-large-deal-momentum-as-ai-rejigs-biz/articleshow/129684609.cms",
+        "title": "Nimble mid-tier IT riding large deal momentum as AI rejigs biz",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/nimble-mid-tier-it-riding-large-deal-momentum-as-ai-rejigs-biz/articleshow/129684609.cms",
+        "published": "Fri, 20 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Large deals are gaining momentum at mid-tier IT service providers in 2026, amid concerns over artificial intelligence (AI) tools disrupting traditional outsourcing models, as enterprises cast a wider net for large transformation projects."
     }
 ]
