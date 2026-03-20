@@ -156454,5 +156454,109 @@
         "published": "Fri, 20 Mar 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Large deals are gaining momentum at mid-tier IT service providers in 2026, amid concerns over artificial intelligence (AI) tools disrupting traditional outsourcing models, as enterprises cast a wider net for large transformation projects."
+    },
+    {
+        "id": "https://www.engadget.com/ai/openai-is-putting-chatgpt-its-browser-and-code-generator-into-one-desktop-app-025709839.html?src=rss",
+        "title": "OpenAI is putting ChatGPT, its browser and code generator into one desktop app",
+        "link": "https://www.engadget.com/ai/openai-is-putting-chatgpt-its-browser-and-code-generator-into-one-desktop-app-025709839.html?src=rss",
+        "published": "Fri, 20 Mar 2026 02:57:09 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link\" href=\"https://www.engadget.com/ai/gpt-54-mini-brings-some-of-the-smarts-of-openais-latest-model-to-chatgpt-free-and-go-users-170000585.html\" target=\"_blank\">OpenAI</a> is developing a \u201csuper app\u201d for desktop that unifies <a class=\"link\" href=\"https://www.engadget.com/ai/chatgpt-image-generation-is-now-faster-and-better-at-following-tweaks-180000750.html\" target=\"_blank\">ChatGPT</a>, its browser and its <a class=\"link\" href=\"https://www.engadget.com/ai/openai-brings-its-codex-c"
+    },
+    {
+        "id": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+        "title": "Drugwars for the TI-82/83/83 Calculators",
+        "link": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+        "published": "Fri, 20 Mar 2026 00:26:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448566\">Comments</a>"
+    },
+    {
+        "id": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "published": "Fri, 20 Mar 2026 01:09:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/endeavoros-titan-hands-on/",
+        "title": "EndeavorOS Titan is one of the most unique Arch-based Linux distros I've tried - here's why",
+        "link": "https://www.zdnet.com/article/endeavoros-titan-hands-on/",
+        "published": "Fri, 20 Mar 2026 02:30:39 GMT",
+        "source": "Latest news",
+        "summary": "EndeavorOS Titan is the newest release in this Arch-based distribution, and it is well worth the update, especially if you depend on proper GPU drivers."
+    },
+    {
+        "id": "https://www.zdnet.com/article/delete-me-review/",
+        "title": "My personal data has been leaked several times - this service helped clean it all up",
+        "link": "https://www.zdnet.com/article/delete-me-review/",
+        "published": "Fri, 20 Mar 2026 01:30:48 GMT",
+        "source": "Latest news",
+        "summary": "DeleteMe scans the internet for exposed personal information and works to remove it - with varying success."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/netflix-sees-more-prospects-for-live-events-in-south-korea/articleshow/129691287.cms",
+        "title": "Netflix sees more prospects for live events in South Korea",
+        "link": "https://economictimes.indiatimes.com/tech/technology/netflix-sees-more-prospects-for-live-events-in-south-korea/articleshow/129691287.cms",
+        "published": "Fri, 20 Mar 2026 08:49:54 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "At a press conference in \u200cSeoul, Brandon Riegg \u200badded that \u200bthe company's \u2060investment in Korea would continue to \u200bgrow."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/ai-startup-yotta-seeks-4-billion-valuation-ahead-of-planned-ipo/articleshow/129690945.cms",
+        "title": "AI startup Yotta seeks $4 billion valuation ahead of planned IPO",
+        "link": "https://economictimes.indiatimes.com/tech/startups/ai-startup-yotta-seeks-4-billion-valuation-ahead-of-planned-ipo/articleshow/129690945.cms",
+        "published": "Fri, 20 Mar 2026 08:16:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Mumbai-based company is aiming to secure roughly $500 million to $600 million in capital and then file its formal listing documents within weeks, according to people familiar with the matter. It plans to raise a similar amount in the public offering."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/hegseth-wants-pentagon-to-dump-anthropics-claude-but-military-users-say-its-not-so-easy/articleshow/129690813.cms",
+        "title": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy",
+        "link": "https://economictimes.indiatimes.com/tech/technology/hegseth-wants-pentagon-to-dump-anthropics-claude-but-military-users-say-its-not-so-easy/articleshow/129690813.cms",
+        "published": "Fri, 20 Mar 2026 08:06:46 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "After a dispute between Anthropic and the \u200bPentagon over guardrails for how the military could use its artificial intelligence tools, Defense Secretary Pete Hegseth designated the company a supply-chain risk \u200bon March 3, barring its use by the Pentagon and its contractors following a six-month phase-out."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/nvidia-to-sell-1-million-chips-to-amazon-by-end-of-2027-in-cloud-deal/articleshow/129690789.cms",
+        "title": "Nvidia to sell 1 million chips to Amazon by end of 2027 in cloud deal",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-to-sell-1-million-chips-to-amazon-by-end-of-2027-in-cloud-deal/articleshow/129690789.cms",
+        "published": "Fri, 20 Mar 2026 08:03:34 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Nvidia and Amazon Web Services said this week that AWS had reached a deal to buy \u200cits 1 \u2060million GPUs \u2060but had not disclosed the precise timing of the deal. Ian Buck, vice president \u200bof hyperscale and high-performance computing at Nvidia, told Reuters on Thursday that the sales would \u200bstart this year and extend through 2027."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/openai-plans-desktop-superapp-to-streamline-user-experience/articleshow/129690730.cms",
+        "title": "OpenAI plans desktop 'superapp' to streamline user experience",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openai-plans-desktop-superapp-to-streamline-user-experience/articleshow/129690730.cms",
+        "published": "Fri, 20 Mar 2026 07:59:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI President Greg Brockman will \u200btemporarily oversee the product overhaul and associated organisational changes, while Chief \u200bof Applications Fidji Simo will lead the sales team as the companyprepares to market \u200bthe new app, an \u2060OpenAI spokesperson said \u200cin a statement."
+    },
+    {
+        "id": "https://inc42.com/startups/how-timbuckdo-is-cashing-in-on-gen-zs-hustle-mindset/",
+        "title": "How TimBuckDo Is Cashing In On Gen Z\u2019s Hustle Mindset",
+        "link": "https://inc42.com/startups/how-timbuckdo-is-cashing-in-on-gen-zs-hustle-mindset/",
+        "published": "Fri, 20 Mar 2026 02:30:32 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"How TimBuckDo Is Cashing In On Gen Z\u2019s Hustle Economy\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Timbuckdo-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />GenZ this, GenZ that. The internet today is awash with memes and commentary about Gen Z breaking conventional workplace norms.&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/razorpays-ai-avatar-finsights-fintech-playbook-more/",
+        "title": "Razorpay\u2019s AI Avatar, FinSight\u2019s Fintech Playbook & More",
+        "link": "https://inc42.com/buzz/razorpays-ai-avatar-finsights-fintech-playbook-more/",
+        "published": "Fri, 20 Mar 2026 02:30:32 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Razorpay\u2019s AI Avatar, FinSight\u2019s Fintech Playbook &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/FTR-Daily-Brief-2026-03-19T233257.059.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Razorpay\u2019s Agentic AI Era Razorpay is moving beyond payments. Last week, the fintech major unveiled its Agentic AI Studio to&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/razorpays-biggest-bet-from-payments-to-becoming-the-ai-brain-for-indias-small-businesses/",
+        "title": "Razorpay\u2019s Biggest Bet: From Payments To Becoming The AI Brain For India\u2019s Small Businesses",
+        "link": "https://inc42.com/features/razorpays-biggest-bet-from-payments-to-becoming-the-ai-brain-for-indias-small-businesses/",
+        "published": "Fri, 20 Mar 2026 01:30:25 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Razorpay-Avatar-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Razorpay\u2019s CEO Harshil Mathur has AI agents walking him through his day\u2019s calendar, reading out the most important stories of&#8230;"
     }
 ]
