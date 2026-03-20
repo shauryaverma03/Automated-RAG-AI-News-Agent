@@ -157646,5 +157646,101 @@
         "published": "Fri, 20 Mar 2026 22:03:33 +0530",
         "source": "Tech-Economic Times",
         "summary": "Philippe Laffont\u2019s $70 billion Coatue Management is gearing up to launch a new fund to wager on public and private artificial intelligence and tech innovation companies, a sign the firm is rethinking its long-only investing strategy as more startups stay private for longer."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
+        "title": "Why scientists can\u2019t get a laugh",
+        "link": "https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/",
+        "published": "Fri, 20 Mar 2026 17:39:06 +0000",
+        "source": "TechCrunch",
+        "summary": "Humor is hard to pull off in front of a cold audience, full stop."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+        "title": "Trump takes another shot at dismantling state AI regulation",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+        "published": "2026-03-20T14:17:02-04:00",
+        "source": "The Verge",
+        "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet",
+        "title": "These electronic Polaroids are powered by your phone\u2019s NFC chip",
+        "link": "https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet",
+        "published": "2026-03-20T14:05:07-04:00",
+        "source": "The Verge",
+        "summary": "E Ink displays have expanded beyond e-readers. They're now used in digital photo frames, smartphones, and even the price tags found on grocery store shelves. VidaBay's Classic Plus NFC E-Ink Fridge Magnet - which looks like a Polaroid photo - features the same low power color E Ink screens used in those electronic price tags, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/898110/trump-phone-t1-release-certification",
+        "title": "Nine months later, the Trump phone still doesn\u2019t exist",
+        "link": "https://www.theverge.com/tech/898110/trump-phone-t1-release-certification",
+        "published": "2026-03-20T13:46:49-04:00",
+        "source": "The Verge",
+        "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. Once again, we're waiting for a response. It's been more than a month since two Trump Mobile executives showed me what they claimed was the T1 Phone, and in the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/897992/anker-maggo-power-bank-10k-amazon-big-spring-sale-2026-deal",
+        "title": "Anker\u2019s Qi2 MagGo Power Bank is down to its best price in months",
+        "link": "https://www.theverge.com/gadgets/897992/anker-maggo-power-bank-10k-amazon-big-spring-sale-2026-deal",
+        "published": "2026-03-20T13:38:30-04:00",
+        "source": "The Verge",
+        "summary": "Given how often most of us rely on our smartphones, it\u2019s a good idea to keep a power bank on hand in the event your phone dies while you\u2019re out and about. If you don\u2019t own one already, Anker\u2019s MagGo Power Bank (10K) is down to $71.99 (nearly $20 off) at Amazon in the lead-up [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/bose-smart-soundbar-deal-326/",
+        "title": "This Compact Bose Soundbar Is $80 Off",
+        "link": "https://www.wired.com/story/bose-smart-soundbar-deal-326/",
+        "published": "Fri, 20 Mar 2026 17:45:31 +0000",
+        "source": "WIRED",
+        "summary": "Bose might be known for its noise-canceling headphones, but the brand\u2019s soundbars are pretty solid too."
+    },
+    {
+        "id": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
+        "title": "Parallel Perl \u2013 autoparallelizing interpreter with JIT",
+        "link": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
+        "published": "Wed, 18 Mar 2026 11:59:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47424592\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/openai-superapp-merges-chatgpt-codex-atlas-together/",
+        "title": "OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT",
+        "link": "https://www.zdnet.com/article/openai-superapp-merges-chatgpt-codex-atlas-together/",
+        "published": "Fri, 20 Mar 2026 18:12:00 GMT",
+        "source": "Latest news",
+        "summary": "Commentary: OpenAI reportedly wants one app for everything, and I'm here for it."
+    },
+    {
+        "id": "https://www.zdnet.com/article/youtube-comment-alerts-gemini-vibe-code-guide/",
+        "title": "YouTube killed my comment alerts, so I vibe-coded a fix to get them back - in just 1 hour",
+        "link": "https://www.zdnet.com/article/youtube-comment-alerts-gemini-vibe-code-guide/",
+        "published": "Fri, 20 Mar 2026 18:03:16 GMT",
+        "source": "Latest news",
+        "summary": "With Gemini and a simple Python script, I rebuilt YouTube email alerts. Now I won't miss another comment. Here's how you can do the same."
+    },
+    {
+        "id": "https://www.zdnet.com/article/amazon-spring-sale-bluetooth-gadgets/",
+        "title": "6 useful Bluetooth gadgets that feel like life hacks (and won't break the bank)",
+        "link": "https://www.zdnet.com/article/amazon-spring-sale-bluetooth-gadgets/",
+        "published": "Fri, 20 Mar 2026 18:00:45 GMT",
+        "source": "Latest news",
+        "summary": "Bluetooth gadgets are among the most practical on the market. These are my favorites."
+    },
+    {
+        "id": "https://www.zdnet.com/article/new-amazon-fire-phone-2026-app-problem/",
+        "title": "For Amazon's Fire Phone to succeed, it'll need to fix its app store problem first",
+        "link": "https://www.zdnet.com/article/new-amazon-fire-phone-2026-app-problem/",
+        "published": "Fri, 20 Mar 2026 17:56:00 GMT",
+        "source": "Latest news",
+        "summary": "A new Fire Phone is reportedly being developed - and I sure hope Amazon doesn't make the same mistakes it did years ago."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/uk-aerospace-company-wins-lawsuit-against-ex-ceo-who-lobbied-against-chinese-investment-deal/articleshow/129706180.cms",
+        "title": "UK aerospace company wins lawsuit against ex-CEO who lobbied against Chinese investment deal",
+        "link": "https://economictimes.indiatimes.com/tech/technology/uk-aerospace-company-wins-lawsuit-against-ex-ceo-who-lobbied-against-chinese-investment-deal/articleshow/129706180.cms",
+        "published": "Fri, 20 Mar 2026 23:04:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Gardner said Upton contacted politicians \u200band encouraged them to pressure the British \u2060government to \"call in\" \u200cthe deal and impose onerous conditions, to try \u200band \u200bkeep his job under a different potential owner. But Judge Richard Smith ruled on Friday that Upton had breached his duties as \u200ca director of Gardner by taking steps that \"he knew would undermine the transaction,\" including sending emails to lawmakers \u200bto oppose \u200bthe deal."
     }
 ]
