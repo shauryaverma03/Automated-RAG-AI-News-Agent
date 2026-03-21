@@ -158254,5 +158254,45 @@
         "published": "Sat, 21 Mar 2026 05:10:17 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>At AdTech 2026, Google outlined AI-driven ads that blend into video, enable contextual chat promotions, and use agentic systems to optimize delivery, targeting users with timely, personalized experiences.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-google-demo-shows-experimental-ai-ad-rendering-videos-ai-capabilities-ad-tech/\">Google demo shows experimental AI ad rendering onto videos, other AI capabilities in ad tech</a> appeared first on <a href=\"https://www.medianama.com"
+    },
+    {
+        "id": "https://android-developers.googleblog.com/2025/08/elevating-android-security.html",
+        "title": "Google adds 24-hour wait and mandatory reboot to Android sideloading flow",
+        "link": "https://android-developers.googleblog.com/2025/08/elevating-android-security.html",
+        "published": "Sat, 21 Mar 2026 06:03:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47464394\">Comments</a>"
+    },
+    {
+        "id": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
+        "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
+        "link": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
+        "published": "Sat, 21 Mar 2026 05:06:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47464134\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/y-combinator-backed-startup-delve-faces-allegations-of-fabricated-compliance-certifications-for-its-clients/articleshow/129714666.cms",
+        "title": "Y-Combinator-backed startup Delve faces allegations of fabricated compliance certifications for its clients",
+        "link": "https://economictimes.indiatimes.com/tech/startups/y-combinator-backed-startup-delve-faces-allegations-of-fabricated-compliance-certifications-for-its-clients/articleshow/129714666.cms",
+        "published": "Sat, 21 Mar 2026 12:27:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Per a March 19 investigation published on Substack by DeepDelver, a leaked spreadsheet revealed hundreds of draft compliance reports that may not have undergone proper auditing. Founded in 2023 by Karun Kaushik and Selin Kocalar, the San Francisco-based startup, which uses AI agents to automate back-office functions such as security compliance, is part of the Y Combinator Winter 2024 batch. These certifications are critical for startups looking to win enterprise customers, as they indicate that "
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazon-acquires-swiss-robotics-company-rivr-to-test-robots-for-doorstep-delivery/articleshow/129714541.cms",
+        "title": "Amazon acquires Swiss robotics company Rivr to test robots for doorstep delivery",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazon-acquires-swiss-robotics-company-rivr-to-test-robots-for-doorstep-delivery/articleshow/129714541.cms",
+        "published": "Sat, 21 Mar 2026 12:18:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The acquisition of the Zurich-based autonomous robotics startup took place earlier this week, but the terms of the deal have not been disclosed. Earlier, Amazon had participated in Rivr\u2019s 2024 seed funding round. To date, Rivr has raised a total of $25 million and was last valued at around $100 million. Rivr has developed a four-legged robot mounted on wheels, which was described by cofounder and CEO Marko Bjelonic as a \u201cdog on roller skates.\""
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/who-is-jasjeet-sekhon-academic-trailblazer-who-joined-google-deepmind-as-chief-strategy-officer/articleshow/129714367.cms",
+        "title": "Who is Jasjeet Sekhon? Academic trailblazer who joined Google DeepMind as chief strategy officer",
+        "link": "https://economictimes.indiatimes.com/tech/technology/who-is-jasjeet-sekhon-academic-trailblazer-who-joined-google-deepmind-as-chief-strategy-officer/articleshow/129714367.cms",
+        "published": "Sat, 21 Mar 2026 12:08:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Bridgewater executive will be responsible for developing strategic initiatives spanning research, commercialisation, and policy at Google\u2019s AI research lab."
     }
 ]
