@@ -158862,5 +158862,21 @@
         "published": "Thu, 19 Mar 2026 04:35:51 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47434986\">Comments</a>"
+    },
+    {
+        "id": "https://tooscut.app/",
+        "title": "Professional video editing, right in the browser with WebGPU and WASM",
+        "link": "https://tooscut.app/",
+        "published": "Sat, 21 Mar 2026 21:27:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47471601\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/pagel-s/termcraft",
+        "title": "Show HN: Termcraft \u2013 terminal-first 2D sandbox survival in Rust",
+        "link": "https://github.com/pagel-s/termcraft",
+        "published": "Sat, 21 Mar 2026 18:42:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47469949\">Comments</a>"
     }
 ]
