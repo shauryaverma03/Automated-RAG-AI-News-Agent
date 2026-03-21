@@ -158518,5 +158518,61 @@
         "published": "Sat, 21 Mar 2026 07:22:02 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In Uttar Pradesh\u2019s Bahraich district, wheat processing forms a critical part of the local food economy, where grain sourced from nearby mandis"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/895435/oeuf-review",
+        "title": "Oeuf is a punishing platformer in a cozy shell",
+        "link": "https://www.theverge.com/entertainment/895435/oeuf-review",
+        "published": "2026-03-21T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "The funny shape of eggs is the curious lifeblood of Oeuf, the new physics platformer by prolific developer Increpare Games. In a gaming landscape saturated with complex systems dropped into simple games, that grapples with metaphor within straightforward narratives, and that is desperate to bring cinematic sensibilities into gaming, Oeuf only asks that you briefly [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal",
+        "title": "Dreame\u2019s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price",
+        "link": "https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal",
+        "published": "2026-03-21T08:30:00-04:00",
+        "source": "The Verge",
+        "summary": "Amazon\u2019s Big Spring Sale doesn\u2019t kick off until next week, but the retailer is already dropping a host of good deals, especially on robot vacuums. We recently saw Ecovacs\u2019 Deebot X8 and X9 Pro Omni drop to $599 ($501 off) and $679 ($621 off), respectively; however, if you\u2019re looking for a cheaper robot vacuum / [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/",
+        "title": "We keep finding the raw material of DNA in asteroids\u2014what's it telling us?",
+        "link": "https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/",
+        "published": "Sat, 21 Mar 2026 11:00:37 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "This week's result is just the latest in a growing collection of discoveries."
+    },
+    {
+        "id": "https://trigger.dev/blog/how-trql-works",
+        "title": "We give every user SQL access to a shared ClickHouse cluster",
+        "link": "https://trigger.dev/blog/how-trql-works",
+        "published": "Tue, 17 Mar 2026 15:50:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47414356\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gujarat-based-company-develops-ai-action-firewall-to-make-artificial-intelligence-systems-safer/articleshow/129719637.cms",
+        "title": "Gujarat-based company develops 'AI Action Firewall' to make artificial intelligence systems safer",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gujarat-based-company-develops-ai-action-firewall-to-make-artificial-intelligence-systems-safer/articleshow/129719637.cms",
+        "published": "Sat, 21 Mar 2026 18:42:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A firewall is a network security system for monitoring and controlling incoming and outgoing network traffic based on predetermined security rules. The firewall will function as a policy-based safety layer between AI systems and real-world operations, ensuring that actions are authorised, monitored and recorded, Saurabh Patel, founder and CEO of NeuroPause Lab Limited said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-nearly-double-workforce-to-8000-by-end-2026-ft/articleshow/129718951.cms",
+        "title": "OpenAI to nearly double workforce to 8,000 by end-2026: FT",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-nearly-double-workforce-to-8000-by-end-2026-ft/articleshow/129718951.cms",
+        "published": "Sat, 21 Mar 2026 18:07:48 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI plans to \u2060deploy most \u200cof the new hires \u200bacross \u200bproduct development, engineering, research and \u2060sales, the FT said. The ChatGPT-maker is \u200balso ramping up recruitment of specialists \u200bfocused on \"technical ambassadorship,\" aimed at helping businesses make better use of its tools, the report added."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/jeff-bezos-blue-origin-seeks-approval-for-space-based-data-centres-after-amazon-leo-challenged-spacex-proposal/articleshow/129718509.cms",
+        "title": "Jeff Bezos\u2019 Blue Origin seeks approval for space-based data centres after Amazon Leo challenged SpaceX proposal",
+        "link": "https://economictimes.indiatimes.com/tech/technology/jeff-bezos-blue-origin-seeks-approval-for-space-based-data-centres-after-amazon-leo-challenged-spacex-proposal/articleshow/129718509.cms",
+        "published": "Sat, 21 Mar 2026 17:49:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Per Blue Origin, the project aims to ease the rising pressure on existing infrastructure on earth. Space-based data centres could reduce costs by not relying on solar energy, avoiding land use, and not depending on local power grids, it said. However, the move comes after Amazon\u2019s satellite internet division, Amazon Leo, told the US Federal Communications Commission to reject SpaceX\u2019s plan to deploy up to one million satellites as orbiting data centres."
     }
 ]
