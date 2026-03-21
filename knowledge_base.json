@@ -158446,5 +158446,77 @@
         "published": "Sat, 21 Mar 2026 10:25:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "At SheSparks 2026, social activist and political scientist, Ranjana Kumari, spoke about the need to recognise all women\u2019s contribution to India\u2019s GDP."
+    },
+    {
+        "id": "https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review",
+        "title": "The new MacBook Pro is still fast as hell",
+        "link": "https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review",
+        "published": "2026-03-21T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Apple's flagship 16-inch MacBook Pro has reigned supreme in the world of creator-focused laptops since its M-series processor overhaul in 2021. Since then, we've mostly seen the same design with year-over-year chip bumps and small refinements. \"If it ain't broke,\" right? If you want to know everything about this machine, you can read our review [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer",
+        "title": "An early contender for movie of the year",
+        "link": "https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer",
+        "published": "2026-03-21T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Hi, friends! Welcome to Installer No. 120, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get ready for Pen Opinions, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Banksy and music apps and influencer agents, watching [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+        "title": "Gemini task automation is slow, clunky, and super impressive",
+        "link": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+        "published": "2026-03-21T07:30:00-04:00",
+        "source": "The Verge",
+        "summary": "I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subset right now - a handful of food delivery and rideshare services - and it's still in [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/best-podcasts/",
+        "title": "71 Best Podcasts (2026): True Crime, Culture, Science, Fiction",
+        "link": "https://www.wired.com/story/best-podcasts/",
+        "published": "Sat, 21 Mar 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Get your fix of tech, true crime, pop culture, or comedy with these audio adventures."
+    },
+    {
+        "id": "https://www.engadget.com/engadget-review-recap-lots-of-apple-devices-galaxy-s26-dell-xps-16-and-more-120000820.html?src=rss",
+        "title": "Engadget review recap: Lots of Apple devices, Galaxy S26, Dell XPS 16 and more",
+        "link": "https://www.engadget.com/engadget-review-recap-lots-of-apple-devices-galaxy-s26-dell-xps-16-and-more-120000820.html?src=rss",
+        "published": "Sat, 21 Mar 2026 12:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple already announced a lot of new devices in 2026 and we\u2019ve been busy reviewing them all. In this installment of our bi-weekly roundup, we revisit the MacBook Neo, iPhone 17e and more, in addition to the \u201cregular\u201d Galaxy S26 and Dell XPS 16. There\u2019s even more than those gadget to catch up on, so sit back, relax and cozy up to some fresh <a class=\"link\" href=\"https://www.engadget.com/reviews/\" target=\"_blank\">reviews</a>. </p>\n<h2 id=\"jump-link-apple-macbook-neo\">Apple MacBook Neo</h2>\n<p>\n"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/a-retro-starship-troopers-shooter-a-video-store-sim-and-other-new-indie-games-worth-checking-out-113000133.html?src=rss",
+        "title": "A retro Starship Troopers shooter, a video store sim and other new indie games worth checking out",
+        "link": "https://www.engadget.com/gaming/a-retro-starship-troopers-shooter-a-video-store-sim-and-other-new-indie-games-worth-checking-out-113000133.html?src=rss",
+        "published": "Sat, 21 Mar 2026 11:30:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Welcome to our latest roundup of what's going on in the indie game space. There are a whole bunch of neat new games out this week, as well as updates on some interesting upcoming projects. </p><p>In case you missed it, the <a class=\"link\" href=\"https://www.engadget.com/gaming/the-steam-spring-sale-is-here-with-discounts-on-arc-raiders-hades-2-and-much-more-184000691.html\" target=\"_blank\">Steam Spring Sale</a> is under way. There are lots of solid deals here, and my credit card is already scre"
+    },
+    {
+        "id": "https://blog.atuin.sh/atuin-v18-13/",
+        "title": "Atuin v18.13 \u2013 better search, a PTY proxy, and AI for your shell",
+        "link": "https://blog.atuin.sh/atuin-v18-13/",
+        "published": "Sat, 21 Mar 2026 10:35:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47465824\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cursor-clears-air-on-kimi-model-use-in-composer-2-heres-all-you-need-to-know/articleshow/129717767.cms",
+        "title": "Cursor founder clears air on Kimi model use in Composer 2: Here\u2019s all you need to know",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cursor-clears-air-on-kimi-model-use-in-composer-2-heres-all-you-need-to-know/articleshow/129717767.cms",
+        "published": "Sat, 21 Mar 2026 16:18:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Users had speculated that Composer 2, a new model designed to improve efficiency in software development workflows, was built on an external base model that was not disclosed at launch. In an X post, cofounder Aman Sanger acknowledged that they had indeed missed mentioning the Kimi base in their blog and added that the company will correct this in future releases."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/bahraich-wheat-processing-flour-mills-odop",
+        "title": "Bahraich\u2019s Wheat Processing: From Mandi Grain to Everyday Staples Under ODOP",
+        "link": "https://yourstory.com/2026/03/bahraich-wheat-processing-flour-mills-odop",
+        "published": "Sat, 21 Mar 2026 07:22:02 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In Uttar Pradesh\u2019s Bahraich district, wheat processing forms a critical part of the local food economy, where grain sourced from nearby mandis"
     }
 ]
