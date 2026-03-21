@@ -158646,5 +158646,45 @@
         "published": "Wed, 18 Mar 2026 05:00:18 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47421749\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/ai/openai-reportedly-plans-to-double-its-workforce-to-8000-employees-161028377.html?src=rss",
+        "title": "OpenAI reportedly plans to double its workforce to 8,000 employees",
+        "link": "https://www.engadget.com/ai/openai-reportedly-plans-to-double-its-workforce-to-8000-employees-161028377.html?src=rss",
+        "published": "Sat, 21 Mar 2026 16:10:28 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>While other tech companies have been <a class=\"no-affiliate-link\" href=\"https://www.wired.com/story/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions/\">laying off employees</a> year after year, OpenAI is doing the opposite. According to a report from the <a class=\"no-affiliate-link\" href=\"https://www.ft.com/content/7ffea5b4-e8bc-47cd-adb4-257f84c8028b\"><em>Financial Times</em></a>, the AI giant is looking to expand its workforce to 8,000 employees by the end of 2026,"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/pc/intel-says-crimson-desert-devs-ignored-offers-of-help-to-support-arc-gpus-155514896.html?src=rss",
+        "title": "Intel says Crimson Desert devs ignored offers of help to support Arc GPUs",
+        "link": "https://www.engadget.com/gaming/pc/intel-says-crimson-desert-devs-ignored-offers-of-help-to-support-arc-gpus-155514896.html?src=rss",
+        "published": "Sat, 21 Mar 2026 15:55:14 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>It doesn\u2019t sound like <em>Crimson Desert</em>, the recently released prequel to <em>Black Desert Online</em>, will support Intel Arc GPUs anytime soon, if at all. On the game\u2019s <a class=\"link\" href=\"https://crimsondesert.pearlabyss.com/en-us/News/Notice/Detail?_boardNo=63\" target=\"_blank\">FAQ page</a>, its developer Pearl Abyss advised players expecting Arc support to apply for a refund. \u201cIf you purchased the game expecting <a class=\"link\" href=\"https://www.engadget.com/intel-arc-graphics-car"
+    },
+    {
+        "id": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
+        "title": "404 Deno CEO not found",
+        "link": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
+        "published": "Sat, 21 Mar 2026 15:10:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47467746\">Comments</a>"
+    },
+    {
+        "id": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+        "title": "Some Things Just Take Time",
+        "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+        "published": "Sat, 21 Mar 2026 14:46:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47467537\">Comments</a>"
+    },
+    {
+        "id": "https://grafeo.dev/",
+        "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
+        "link": "https://grafeo.dev/",
+        "published": "Sat, 21 Mar 2026 14:50:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47467567\">Comments</a>"
     }
 ]
