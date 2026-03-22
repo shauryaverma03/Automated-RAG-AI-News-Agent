@@ -159470,5 +159470,29 @@
         "published": "Mon, 23 Mar 2026 03:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Founded in 2022 by Rahul Agarwal, Vivek Singhal, and Aditya Krishnakumar, Bidso operates as a contract manufacturing platform. The company manages the entire value chain from product design to final manufacturing."
+    },
+    {
+        "id": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+        "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+        "link": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+        "published": "Sun, 22 Mar 2026 21:14:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47482217\">Comments</a>"
+    },
+    {
+        "id": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
+        "title": "Rust Project Perspectives on AI",
+        "link": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
+        "published": "Sun, 22 Mar 2026 22:19:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47482825\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility-from-google-pixel-iphone/",
+        "title": "Samsung confirms latest Galaxy phones will support AirDrop compatibility - and I'm thrilled",
+        "link": "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility-from-google-pixel-iphone/",
+        "published": "Sun, 22 Mar 2026 23:00:49 GMT",
+        "source": "Latest news",
+        "summary": "A global rollout will allow the latest Samsung phones to Quick Share with various Apple devices."
     }
 ]
