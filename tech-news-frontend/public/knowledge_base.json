@@ -159014,5 +159014,37 @@
         "published": "Sun, 22 Mar 2026 12:31:24 +0530",
         "source": "Tech-Economic Times",
         "summary": "Elon Musk announced a bold plan to build a \"Terafab\" facility. This plant near Austin, Texas, will produce chips for artificial intelligence, robotics, and data centres. The ambitious project aims for one terawatt of computing power each year. Musk's Tesla and SpaceX will jointly run the venture."
+    },
+    {
+        "id": "https://pooladkhay.com/posts/first-kernel-patch/",
+        "title": "My first patch to the Linux kernel",
+        "link": "https://pooladkhay.com/posts/first-kernel-patch/",
+        "published": "Thu, 19 Mar 2026 19:51:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47444909\">Comments</a>"
+    },
+    {
+        "id": "https://zenodo.org/records/18976656",
+        "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+        "link": "https://zenodo.org/records/18976656",
+        "published": "Sun, 22 Mar 2026 07:07:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47475155\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/internet/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle/articleshow/129730190.cms",
+        "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle",
+        "link": "https://economictimes.indiatimes.com/tech/internet/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle/articleshow/129730190.cms",
+        "published": "Sun, 22 Mar 2026 13:28:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tencent has launched ClawBot, integrating its WeChat app with the OpenClaw AI agent. This move allows users to interact directly with AI through the popular messaging platform.  The integration signifies Tencent's growing focus on AI agents, a competitive area for Chinese tech giants.  Other companies like Alibaba and Baidu are also actively developing and launching their own AI agent solutions."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musks-tesla-spacex-launch-terafab-chips-project-heres-all-you-need-to-know/articleshow/129729676.cms",
+        "title": "Elon Musk's Tesla, SpaceX launch Terafab chips project; here's all you need to know",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musks-tesla-spacex-launch-terafab-chips-project-heres-all-you-need-to-know/articleshow/129729676.cms",
+        "published": "Sun, 22 Mar 2026 12:31:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The project envisages setting up space-based AI computing, enabled by solar-powered satellites that could host data centres in orbit. From 100 kilowatts initially, they are expected to scale to megawatt levels, using constant solar energy to reduce costs compared to earth-based systems. Two types of chips are planned \u2014 one for terrestrial applications, such as Tesla\u2019s vehicles and robotics, and another, called D3, tailored for space environments."
     }
 ]
