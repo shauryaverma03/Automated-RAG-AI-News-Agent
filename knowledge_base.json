@@ -159094,5 +159094,45 @@
         "published": "Sun, 22 Mar 2026 06:17:46 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In Uttar Pradesh\u2019s Shravasti district, Tharu embroidery and allied craft practices operate within a rhythm shaped by household needs"
+    },
+    {
+        "id": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+        "title": "The Best Subscription-Free Home Security Cameras I've Tried",
+        "link": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+        "published": "Sun, 22 Mar 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "You don\u2019t have to upload your video to the cloud or pay a monthly fee to secure your home. These security cameras record locally."
+    },
+    {
+        "id": "https://www.wired.com/story/switch-your-phone-to-another-keyboard-ios-android/",
+        "title": "Give Your Phone a Huge (and Free) Upgrade by Switching to Another Keyboard",
+        "link": "https://www.wired.com/story/switch-your-phone-to-another-keyboard-ios-android/",
+        "published": "Sun, 22 Mar 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Change up the default keyboard in Android and iOS and feel the benefit."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/03/mining-the-deep-ocean/",
+        "title": "Mining the deep ocean",
+        "link": "https://arstechnica.com/science/2026/03/mining-the-deep-ocean/",
+        "published": "Sun, 22 Mar 2026 11:00:58 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Policymakers debate if we even need deep ocean mining and if we can do it safely."
+    },
+    {
+        "id": "https://hormuz.pythonic.ninja/",
+        "title": "Hormuz Minesweeper \u2013 Are you tired of winning?",
+        "link": "https://hormuz.pythonic.ninja/",
+        "published": "Sun, 22 Mar 2026 09:00:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47475686\">Comments</a>"
+    },
+    {
+        "id": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+        "title": "25 Years of Eggs",
+        "link": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+        "published": "Wed, 18 Mar 2026 15:44:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47427224\">Comments</a>"
     }
 ]
