@@ -158878,5 +158878,29 @@
         "published": "Sat, 21 Mar 2026 18:42:38 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47469949\">Comments</a>"
+    },
+    {
+        "id": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
+        "title": "Profiling Hacker News users based on their comments",
+        "link": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
+        "published": "Sun, 22 Mar 2026 00:30:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47473086\">Comments</a>"
+    },
+    {
+        "id": "https://www.theboomloom.com",
+        "title": "Boomloom: Think with your hands",
+        "link": "https://www.theboomloom.com",
+        "published": "Fri, 20 Mar 2026 17:13:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47457570\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/large-manufacturing-units-mull-kitchen-revamp-amid-lpg-crisis/articleshow/129724513.cms",
+        "title": "Large manufacturing units mull kitchen revamp amid LPG crisis",
+        "link": "https://economictimes.indiatimes.com/tech/technology/large-manufacturing-units-mull-kitchen-revamp-amid-lpg-crisis/articleshow/129724513.cms",
+        "published": "Sun, 22 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "LPG shortages linked to the West Asia war are pushing Indian manufacturing firms to plan energy-resilient kitchens. Companies are sourcing cylinders, using firewood, and adjusting menus while avoiding disruptions. Facility managers are preparing contingency plans, including shifting to induction and alternative equipment, amid ongoing uncertainty over fuel availability and supply continuity."
     }
 ]
