@@ -159222,5 +159222,45 @@
         "published": "Sun, 22 Mar 2026 18:35:11 +0530",
         "source": "Tech-Economic Times",
         "summary": "Tech tycoon Elon Musk offered Saturday to pay security personnel at US airports during a political standoff over funding for the Department of Homeland Security (DHS). \"I would like to offer to pay the salaries of TSA personnel during this funding impasse that is negatively affecting the lives of so many Americans at airports throughout the country,\" Musk posted on X. The TSA, which operates under the authority of DHS, comprises about 65,000 employees, according to its website."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+        "title": "Musk says he\u2019s building Terafab chip plant in Austin, Texas",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+        "published": "2026-03-22T10:06:48-04:00",
+        "source": "The Verge",
+        "summary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have other executives, about the chip industry's ability [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history",
+        "title": "The secret story of the vocoder, the military tech that changed music forever",
+        "link": "https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history",
+        "published": "2026-03-22T09:45:45-04:00",
+        "source": "The Verge",
+        "summary": "The vocoder was never supposed to be a revolution in music. It wasn't supposed to be anything in music, really. Its development began a century ago, when an engineer at Bell Labs was looking for a simpler way to send phone calls across copper telephone lines. The engineer, Homer Dudley, built some pretty neat technology [&#8230;]"
+    },
+    {
+        "id": "https://emi-h.com/articles/a-case-against-currying.html",
+        "title": "A Case Against Currying",
+        "link": "https://emi-h.com/articles/a-case-against-currying.html",
+        "published": "Sun, 22 Mar 2026 13:03:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47477090\">Comments</a>"
+    },
+    {
+        "id": "https://www.projectnomad.us",
+        "title": "Project Nomad \u2013 Knowledge That Never Goes Offline",
+        "link": "https://www.projectnomad.us",
+        "published": "Sun, 22 Mar 2026 12:28:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47476821\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apple-ceo-praises-china-partners-as-beijing-applies-pressure/articleshow/129733725.cms",
+        "title": "Apple CEO praises China partners as Beijing applies pressure",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apple-ceo-praises-china-partners-as-beijing-applies-pressure/articleshow/129733725.cms",
+        "published": "Sun, 22 Mar 2026 19:08:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cook, speaking at the China Development Forum in Beijing on Sunday, praised the innovations of Chinese developers and the automation at the country\u2019s manufacturing facilities. He said Apple and China share common goals, including in green development and carbon neutrality."
     }
 ]
