@@ -159046,5 +159046,53 @@
         "published": "Sun, 22 Mar 2026 12:31:24 +0530",
         "source": "Tech-Economic Times",
         "summary": "The project envisages setting up space-based AI computing, enabled by solar-powered satellites that could host data centres in orbit. From 100 kilowatts initially, they are expected to scale to megawatt levels, using constant solar energy to reduce costs compared to earth-based systems. Two types of chips are planned \u2014 one for terrestrial applications, such as Tesla\u2019s vehicles and robotics, and another, called D3, tailored for space environments."
+    },
+    {
+        "id": "https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/",
+        "title": "Mexico City's 'Xoli' Chatbot Will Help World Cup Tourists Navigate the City",
+        "link": "https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/",
+        "published": "Sun, 22 Mar 2026 09:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The launch of \u201cXoli\u201d adds to the technological efforts promoted by the federal government to turn the 2026 World Cup into an engine of development for the entire country."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazon-sees-india-as-a-long-term-bet-with-significant-headroom-for-e-commerce-growth-says-india-vp/articleshow/129730863.cms",
+        "title": "Amazon sees India as a long-term bet with significant headroom for e-commerce growth, says India VP",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazon-sees-india-as-a-long-term-bet-with-significant-headroom-for-e-commerce-growth-says-india-vp/articleshow/129730863.cms",
+        "published": "Sun, 22 Mar 2026 14:30:11 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Amazon sees India as a key long-term investment. E-commerce is just beginning here, with significant room to grow. The company is investing billions more, focusing on AI, exports, and jobs. Amazon's network reaches all of India, ensuring speed and convenience. New air cargo routes are boosting services in the Northeast, benefiting customers and sellers alike."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-firms-lead-global-peers-in-ai-adoption-but-lag-in-expertise-deloitte/articleshow/129730843.cms",
+        "title": "Indian firms lead global peers in AI adoption, but lag in expertise: Deloitte",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-firms-lead-global-peers-in-ai-adoption-but-lag-in-expertise-deloitte/articleshow/129730843.cms",
+        "published": "Sun, 22 Mar 2026 14:25:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian companies are adopting Artificial Intelligence on a large scale, surpassing global rivals. Most organisations plan to increase AI spending next year. This rapid deployment contrasts with a shortage of AI expertise. Despite challenges, Indian firms expect significant productivity gains from AI. The focus is shifting from experimentation to embedding AI for value creation and competitive advantage."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/internet/tencent-integrates-openclaw-into-wechat-for-chinese-users/articleshow/129730190.cms",
+        "title": "Tencent integrates OpenClaw into WeChat for Chinese users",
+        "link": "https://economictimes.indiatimes.com/tech/internet/tencent-integrates-openclaw-into-wechat-for-chinese-users/articleshow/129730190.cms",
+        "published": "Sun, 22 Mar 2026 13:28:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "With this, users in China can now interact with WeixinClawBot as a built-in AI contact that can receive messages, respond, and possibly carry out tasks through chat. WeChat is known as Weixin in Chinese. Developed by Peter Steinberger, OpenClaw is an open-source AI assistant designed to function as a proactive personal agent, linking AI models with users\u2019 everyday applications. The tool has seen rapid global adoption, especially in China."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/mirzapur-brass-utensils-odop-industry-craft-production",
+        "title": "Mirzapur\u2019s Brass Utensils: Sustaining Tradition Through Skilled Metal Craftsmanship",
+        "link": "https://yourstory.com/2026/03/mirzapur-brass-utensils-odop-industry-craft-production",
+        "published": "Sun, 22 Mar 2026 07:15:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In Uttar Pradesh\u2019s Mirzapur district, brass utensils continue to hold relevance across both everyday use and ceremonial occasions."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/shravasti-tharu-embroidery-odop-women-led-traditional-craft",
+        "title": "Tribal Craft of Shravasti: Seasonal Craft Rooted in Home and Tradition",
+        "link": "https://yourstory.com/2026/03/shravasti-tharu-embroidery-odop-women-led-traditional-craft",
+        "published": "Sun, 22 Mar 2026 06:17:46 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In Uttar Pradesh\u2019s Shravasti district, Tharu embroidery and allied craft practices operate within a rhythm shaped by household needs"
     }
 ]
