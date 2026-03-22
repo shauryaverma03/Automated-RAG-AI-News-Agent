@@ -159366,5 +159366,29 @@
         "published": "Sun, 22 Mar 2026 17:17:06 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47479751\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+        "title": "Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
+        "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+        "published": "Sun, 22 Mar 2026 18:41:09 +0000",
+        "source": "TechCrunch",
+        "summary": "Building on top of a Chinese model feels particularly fraught right now."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/crimson-desert-developer-apologizes-and-promises-to-replace-ai-generated-art-183716439.html?src=rss",
+        "title": "Crimson Desert developer apologizes and promises to replace AI-generated art",
+        "link": "https://www.engadget.com/gaming/crimson-desert-developer-apologizes-and-promises-to-replace-ai-generated-art-183716439.html?src=rss",
+        "published": "Sun, 22 Mar 2026 18:37:16 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The developer behind the open-world RPG <a class=\"no-affiliate-link\" href=\"https://store.steampowered.com/app/3321460/Crimson_Desert/\">Crimson Desert</a> has issued an official apology after players discovered several instances of AI-generated art in the game. <a class=\"no-affiliate-link\" href=\"https://x.com/CrimsonDesert_/status/2035718975909470706?s=20\">Pearl Abyss</a> posted on X that it released the game with some 2D visual props that were made with \"experimental AI generative tools\" and "
+    },
+    {
+        "id": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
+        "title": "MAUI Is Coming to Linux",
+        "link": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
+        "published": "Sun, 22 Mar 2026 15:43:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47478687\">Comments</a>"
     }
 ]
