@@ -160390,5 +160390,61 @@
         "published": "Mon, 23 Mar 2026 16:21:46 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"Groww Closes $200 Mn Funding Round Ahead Of IPO\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/06/groww-NFO-featured.jpeg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Groww promoter group entities \u2014 Mufasa, Thousand Oaks Trust and Fortune First Trust \u2014 have each pledged 62.5 Lakh shares&#8230;"
+    },
+    {
+        "id": "https://www.wired.com/story/ice-invades-airports-across-the-us/",
+        "title": "ICE Invades Airports Across the US",
+        "link": "https://www.wired.com/story/ice-invades-airports-across-the-us/",
+        "published": "Mon, 23 Mar 2026 16:52:09 +0000",
+        "source": "WIRED",
+        "summary": "Agents from ICE are being deployed to over a dozen airports around the country, including New York, Atlanta, and Chicago."
+    },
+    {
+        "id": "https://www.wired.com/story/polymarket-wanted-a-coming-out-party-in-washington-it-was-a-disaster/",
+        "title": "Polymarket\u2019s Coming-Out Party in Washington Was a Disaster",
+        "link": "https://www.wired.com/story/polymarket-wanted-a-coming-out-party-in-washington-it-was-a-disaster/",
+        "published": "Mon, 23 Mar 2026 16:48:03 +0000",
+        "source": "WIRED",
+        "summary": "At the Polymarket pop-up in DC, attendees were supposed to be able to bet on geopolitical crises in real time with their friends. That didn\u2019t happen."
+    },
+    {
+        "id": "https://www.engadget.com/apps/apples-wwdc-2026-is-set-for-june-8-12-171359493.html?src=rss",
+        "title": "Apple's WWDC 2026 is set for June 8-12",
+        "link": "https://www.engadget.com/apps/apples-wwdc-2026-is-set-for-june-8-12-171359493.html?src=rss",
+        "published": "Mon, 23 Mar 2026 17:13:59 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple <a class=\"rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=110cde23-8ee3-4690-a71d-48d92b2efce0&amp;featureId=text-link&amp;merchantName=Apple&amp;linkText=announced&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vbmV3c3Jvb20vMjAyNi8wMy9hcHBsZXMtd29ybGR3aWRlLWRldmVsb3BlcnMtY29uZmVyZW5jZS1yZXR1cm5zLXRoZS13ZWVrL"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+        "title": "The hardest question to answer about AI-fueled delusions",
+        "link": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+        "published": "Mon, 23 Mar 2026 16:31:20 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. I was originally going to write this week\u2019s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on&#8230;"
+    },
+    {
+        "id": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+        "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+        "link": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+        "published": "Sun, 22 Mar 2026 09:45:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47475888\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/vivaldi-new-browser-feature/",
+        "title": "Vivaldi's new feature should have every other browser taking note",
+        "link": "https://www.zdnet.com/article/vivaldi-new-browser-feature/",
+        "published": "Mon, 23 Mar 2026 17:35:30 GMT",
+        "source": "Latest news",
+        "summary": "For those who are looking for a browser UI that can be everything or nothing, look no further than the latest release of Vivaldi."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openclaw-unveils-clawhub-marketplace-draws-more-than-331000-stars-on-github/articleshow/129758087.cms",
+        "title": "OpenClaw unveils ClawHub Marketplace; draws more than 331,000 stars on GitHub",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openclaw-unveils-clawhub-marketplace-draws-more-than-331000-stars-on-github/articleshow/129758087.cms",
+        "published": "Mon, 23 Mar 2026 22:24:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Peter Steinberger, OpenClaw\u2019s creator, released the update. The platform allows users to deploy AI agents that can reason, respond, and execute tasks inside apps, such as Telegram and Discord, all while remaining fully self-hosted."
     }
 ]
