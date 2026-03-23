@@ -160814,5 +160814,37 @@
         "published": "Mon, 23 Mar 2026 21:00:00 GMT",
         "source": "Latest news",
         "summary": "The latest TVs are pushing the boundaries of what screens can do, but how much is too much? I break it down."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/",
+        "title": "Trump's MAHA pick for surgeon general flounders amid GOP doubts",
+        "link": "https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/",
+        "published": "Mon, 23 Mar 2026 21:43:21 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "She stalled over MAHA woo-woo, anti-vaccine views, and lacking medical background."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
+        "title": "Nvidia CEO tries to explain why DLSS 5 isn\u2019t just \u201cAI slop\u201d",
+        "link": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
+        "published": "Mon, 23 Mar 2026 21:19:51 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "If game makers don\u2019t like it, \u201cthey could decide not to use it, you know?\""
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/",
+        "title": "After hackers hit an Iowa company, cars around the country failed to start",
+        "link": "https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/",
+        "published": "Mon, 23 Mar 2026 21:10:14 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "If you don't calibrate your interlock in time, your vehicle is dead."
+    },
+    {
+        "id": "https://github.com/dune3d/dune3d",
+        "title": "Dune3d: A parametric 3D CAD application",
+        "link": "https://github.com/dune3d/dune3d",
+        "published": "Sun, 22 Mar 2026 08:06:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47475417\">Comments</a>"
     }
 ]
