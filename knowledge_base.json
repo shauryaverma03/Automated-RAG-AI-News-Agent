@@ -162654,5 +162654,45 @@
         "published": "Wed, 25 Mar 2026 00:33:42 +0530",
         "source": "Tech-Economic Times",
         "summary": "OpenAI is nearing a deal to raise about $10 billion from venture investors, lifting its latest funding round to roughly $120 billion. Backers include MGX, Coatue Management, Thrive Capital, and Altimeter Capital. The deal would support its push for computing power and talent, marking its largest funding round yet."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+        "title": "Arm is releasing the\u00a0first in-house chip in its 35-year history",
+        "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+        "published": "Tue, 24 Mar 2026 19:48:54 +0000",
+        "source": "TechCrunch",
+        "summary": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer."
+    },
+    {
+        "id": "https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case",
+        "title": "The man who coined Metaverse now says Meta&#8217;s glasses are creepy",
+        "link": "https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case",
+        "published": "2026-03-24T16:08:14-04:00",
+        "source": "The Verge",
+        "summary": "Neal Stephenson didn't invent the virtual reality headset. But Meta certainly knows his name - in 1992, his seminal cyberpunk novel Snow Crash coined the phrase \"Metaverse\" to describe a virtual reality world experienced through VR goggles. It inspired many key VR developers - and in 2021, Facebook decided to rename its entire company to [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/apple-could-give-siri-a-standalone-app-and-an-ask-siri-button-in-ios-27-202802492.html?src=rss",
+        "title": "Apple could give Siri a standalone app and an 'Ask Siri' button in iOS 27",
+        "link": "https://www.engadget.com/ai/apple-could-give-siri-a-standalone-app-and-an-ask-siri-button-in-ios-27-202802492.html?src=rss",
+        "published": "Tue, 24 Mar 2026 20:28:02 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><em>Bloomberg</em>'s Mark Gurman has been sharing every incremental update about what Apple's long-awaited Siri overhaul will and won't include. His latest <a class=\"link\" href=\"https://www.bloomberg.com/news/articles/2026-03-24/ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button?srnd=homepage-americas\" target=\"_blank\">article</a> claims that the AI assistant will have a standalone app and will introduce an &quot;Ask Siri&quot; feature that could mark a decidedly diffe"
+    },
+    {
+        "id": "https://www.engadget.com/transportation/zoox-is-bringing-its-robotaxi-to-new-cities-and-expanding-coverage-in-las-vegas-and-san-francisco-195410391.html?src=rss",
+        "title": "Zoox is bringing its robotaxi to new cities and expanding coverage in Las Vegas and San Francisco",
+        "link": "https://www.engadget.com/transportation/zoox-is-bringing-its-robotaxi-to-new-cities-and-expanding-coverage-in-las-vegas-and-san-francisco-195410391.html?src=rss",
+        "published": "Tue, 24 Mar 2026 19:54:10 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Zoox <a class=\"link\" href=\"https://zoox.com/journal/zoox-service-updates-and-expansions/\" target=\"_blank\">has announced</a> plans to bring its robotaxi to Austin, Texas and Miami, Florida for the first time, along with offering expanded service in San Francisco and Las Vegas. The company <a class=\"link\" href=\"https://www.engadget.com/transportation/amazons-zoox-launches-its-autonomous-robotaxi-service-153750246.html\" target=\"_blank\">formally launched</a> its robotaxi service in September 2025"
+    },
+    {
+        "id": "https://www.zdnet.com/article/windows-11-local-account-microsoft-account/",
+        "title": "Microsoft may finally remove its frustrating Windows 11 setup requirement",
+        "link": "https://www.zdnet.com/article/windows-11-local-account-microsoft-account/",
+        "published": "Tue, 24 Mar 2026 19:47:59 GMT",
+        "source": "Latest news",
+        "summary": "A Microsoft VP just hinted at a change Windows 11 users have wanted for years."
     }
 ]
