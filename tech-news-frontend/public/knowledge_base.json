@@ -162694,5 +162694,133 @@
         "published": "Tue, 24 Mar 2026 19:47:59 GMT",
         "source": "Latest news",
         "summary": "A Microsoft VP just hinted at a change Windows 11 users have wanted for years."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+        "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+        "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+        "published": "Tue, 24 Mar 2026 21:00:30 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic\u2019s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+        "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+        "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+        "published": "Tue, 24 Mar 2026 20:56:25 +0000",
+        "source": "TechCrunch",
+        "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+        "title": "Databricks bought two startups to underpin its new AI security product",
+        "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+        "published": "Tue, 24 Mar 2026 20:40:56 +0000",
+        "source": "TechCrunch",
+        "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/crusoe-makes-big-battery-buys-for-its-data-centers/",
+        "title": "Crusoe makes big battery buys for its data centers",
+        "link": "https://techcrunch.com/2026/03/24/crusoe-makes-big-battery-buys-for-its-data-centers/",
+        "published": "Tue, 24 Mar 2026 20:40:10 +0000",
+        "source": "TechCrunch",
+        "summary": "Form Energy and Redwood Materials both received orders from the data center developer."
+    },
+    {
+        "id": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk",
+        "title": "What is ICE actually doing at the airport?",
+        "link": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk",
+        "published": "2026-03-24T17:17:28-04:00",
+        "source": "The Verge",
+        "summary": "I arrived at John F. Kennedy International Airport nearly five hours before my domestic flight. This is not my way - usually I roll up to the airport 30 minutes before boarding - but not even I have enough hubris to think that my good luck is more powerful than a partial government shutdown. Congress [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+        "title": "OpenAI just gave up Sora and its billion-dollar Disney deal",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+        "published": "2026-03-24T17:08:10-04:00",
+        "source": "The Verge",
+        "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+        "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI datacenters later this year",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+        "published": "2026-03-24T16:43:14-04:00",
+        "source": "The Verge",
+        "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app",
+        "title": "Apple is testing a standalone app for its overhauled Siri",
+        "link": "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app",
+        "published": "2026-03-24T16:41:24-04:00",
+        "source": "The Verge",
+        "summary": "Apple's efforts to rebuild its Apple Intelligence AI platform will make its debut at its Worldwide Developers Conference on June 8th. A new version of Siri that transforms the voice assistant into a \"systemwide AI agent with deep integration across applications\" will be announced at WWDC 2026, according to a new report from Bloomberg's Mark [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+        "title": "OpenAI plans to shut down Sora just 15 months after its launch",
+        "link": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+        "published": "Tue, 24 Mar 2026 21:19:50 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Move comes amid a reported plan to refocus on business and productivity use cases."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+        "title": "Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate",
+        "link": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+        "published": "Tue, 24 Mar 2026 21:00:49 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Public interest in government tech abuses is peaking. EFF's new leader plans to build on that."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-prohibits-import-and-sale-of-new-wi-fi-routers-made-outside-us/",
+        "title": "FCC imposes sweeping ban on foreign-made routers, affecting all new models",
+        "link": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-prohibits-import-and-sale-of-new-wi-fi-routers-made-outside-us/",
+        "published": "Tue, 24 Mar 2026 19:16:23 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Trump admin to decide which router makers get exemptions from FCC import ban."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/apple-releases-ios-ipados-macos-26-4-with-a-long-list-of-medium-size-tweaks/",
+        "title": "Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks",
+        "link": "https://arstechnica.com/gadgets/2026/03/apple-releases-ios-ipados-macos-26-4-with-a-long-list-of-medium-size-tweaks/",
+        "published": "Tue, 24 Mar 2026 19:06:03 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The 26.4 updates are more significant than the last few updates have been."
+    },
+    {
+        "id": "https://www.engadget.com/ai/openai-is-shutting-down-its-sora-video-generation-app-211023358.html?src=rss",
+        "title": "OpenAI is shutting down its Sora video generation app",
+        "link": "https://www.engadget.com/ai/openai-is-shutting-down-its-sora-video-generation-app-211023358.html?src=rss",
+        "published": "Tue, 24 Mar 2026 21:10:23 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>OpenAI is shutting down its Sora video generation app. &quot;We're saying goodbye to Sora,&quot; the company wrote in a <a class=\"link\" href=\"https://x.com/soraofficialapp/status/2036532795984715896\" target=\"_blank\">X post</a> published Tuesday afternoon. For now, OpenAI has yet to say when the app and its related API service would become unavailable. Instead, promising to share those details at a later date.&nbsp;&nbsp;&nbsp;</p><p>&quot;We've decided to discontinue Sora in the consumer app "
+    },
+    {
+        "id": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+        "title": "GitHub is once again down",
+        "link": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+        "published": "Tue, 24 Mar 2026 20:23:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47508608\">Comments</a>"
+    },
+    {
+        "id": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+        "title": "Is anybody else bored of talking about AI?",
+        "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+        "published": "Tue, 24 Mar 2026 20:31:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47508745\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/ge-cync-color-changing-smart-bulb-amazon-spring-sale-2026/",
+        "title": "This is the one smart home product everyone should have, and it's on sale",
+        "link": "https://www.zdnet.com/article/ge-cync-color-changing-smart-bulb-amazon-spring-sale-2026/",
+        "published": "Tue, 24 Mar 2026 21:23:27 GMT",
+        "source": "Latest news",
+        "summary": "Smart light bulbs easily add ambience to any home, and the GE Cync color-changing smart bulbs are discounted for Amazon's Big Spring Sale."
     }
 ]
