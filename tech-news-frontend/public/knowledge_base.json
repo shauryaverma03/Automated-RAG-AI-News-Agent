@@ -161694,5 +161694,245 @@
         "published": "Tue, 24 Mar 2026 12:06:12 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>A major music publisher has taken on an AI giant, what\u2019s at stake could reshape how models are trained.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-anthropic-claude-bmg-ai-copyright-case/\">Music rights group accuses Anthropic of copyright infringement to train Claude</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/",
+        "title": "TikTok ads are about to get a tad more disruptive",
+        "link": "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/",
+        "published": "Tue, 24 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "One new ad format displays another brand's logo alongside TikTok's on the launch page when users open the app."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+        "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+        "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+        "published": "Tue, 24 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF)."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/spotifys-songdna-feature-lets-you-explore-the-connections-behind-your-favorite-songs/",
+        "title": "Spotify\u2019s new SongDNA feature maps how your favorite songs are connected",
+        "link": "https://techcrunch.com/2026/03/24/spotifys-songdna-feature-lets-you-explore-the-connections-behind-your-favorite-songs/",
+        "published": "Tue, 24 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The new feature lets you explore samples, covers, and more about the people behind your favorite songs, says Spotify."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/",
+        "title": "Snapchat\u2019s new \u2018AI Clips\u2019 Lens format turns photos into five-second videos",
+        "link": "https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/",
+        "published": "Tue, 24 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Snapchat says both experienced and new developers can use the new \"AI Clips\" Lens format to turn a single prompt into a published Lens in minutes without the need for external tools."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/zoox-brings-its-robotaxis-to-austin-and-miami/",
+        "title": "Zoox brings its robotaxis to Austin and Miami",
+        "link": "https://techcrunch.com/2026/03/24/zoox-brings-its-robotaxis-to-austin-and-miami/",
+        "published": "Tue, 24 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "After nearly two years of testing in the two cities, the Amazon-owned company says it's getting closer to offering rides."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/899233/akai-mpc-sample-review",
+        "title": "The MPC Sample is my new favorite portable beat maker",
+        "link": "https://www.theverge.com/entertainment/899233/akai-mpc-sample-review",
+        "published": "2026-03-24T10:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Akai MPC is one of the most storied names in music history. But over the last decade, it's strayed pretty far from its roots as a humble sampler. The modern MPCs run virtual synthesizers, have complex arrangement tools, and sport large touchscreens. They have more in common with your computer running a DAW than they [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/streaming/899327/for-all-mankind-season-6-renewal-apple-tv",
+        "title": "For All Mankind will end with season 6",
+        "link": "https://www.theverge.com/streaming/899327/for-all-mankind-season-6-renewal-apple-tv",
+        "published": "2026-03-24T10:00:00-04:00",
+        "source": "The Verge",
+        "summary": "For All Mankind starts streaming again this week, with its fifth season set to premiere on March 27th. But Apple is also taking this moment to clarify the show's future - it's been renewed for a sixth season, which will also be its last. For All Mankind premiered in 2019 as part of Apple TV's [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+        "title": "Anthropic\u2019s Claude Code and Cowork can control your computer",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+        "published": "2026-03-24T09:32:23-04:00",
+        "source": "The Verge",
+        "summary": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement. [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/899357/ayaneo-windows-gaming-handheld-sustainable-ram",
+        "title": "Ayaneo says selling its Windows gaming handheld &#8216;is no longer sustainable&#8217;",
+        "link": "https://www.theverge.com/games/899357/ayaneo-windows-gaming-handheld-sustainable-ram",
+        "published": "2026-03-24T09:05:15-04:00",
+        "source": "The Verge",
+        "summary": "Ayaneo is suspending preorders for its $1,999 Next 2 gaming handheld due to the skyrocketing price of digital storage. In a post on Monday, Ayaneo says the overall cost to build its Windows handheld now nearly doubles the price it originally set, making it \"unsustainable\" to continue selling. \"Even before the launch of NEXT 2, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/899160/hisense-u7sg-tv-review",
+        "title": "The Hisense U7SG is a great midrange TV you shouldn\u2019t buy yet",
+        "link": "https://www.theverge.com/tech/899160/hisense-u7sg-tv-review",
+        "published": "2026-03-24T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "With all of the focus on RGB LED technology, it seemed like more affordable mini-LED TVs had been shooed to the side. But with the Hisense U7SG, we're getting our first great midrange general-use TV of 2026. It gets bright, comes in a wide range of sizes, supports every HDR mode you'll ever need, has [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/audio/akai-just-released-a-portable-and-relatively-budget-friendly-mpc-sampler-140047113.html?src=rss",
+        "title": "Akai just released a portable and relatively budget-friendly MPC sampler",
+        "link": "https://www.engadget.com/audio/akai-just-released-a-portable-and-relatively-budget-friendly-mpc-sampler-140047113.html?src=rss",
+        "published": "Tue, 24 Mar 2026 14:00:47 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Akai just revealed specs and other details about the MPC Sample after <a href=\"https://x.com/Akai_Pro/status/2032487693708628043\"><ins>teasing the gadget earlier this month</ins></a>. This is a portable sampler and groovebox that looks eerily similar to <a href=\"https://www.engadget.com/audio/teenage-engineering-made-a-reggae-inspired-sampler-complete-with-a-weird-microphone-for-vocals-173812774.html\"><ins>Teenage Engineering's EP series</ins></a>. It also resembles some legendary Akai gadget"
+    },
+    {
+        "id": "https://www.engadget.com/wearables/ultrahuman-opens-us-pre-orders-for-ring-pro-130043933.html?src=rss",
+        "title": "Ultrahuman opens US pre-orders for Ring Pro",
+        "link": "https://www.engadget.com/wearables/ultrahuman-opens-us-pre-orders-for-ring-pro-130043933.html?src=rss",
+        "published": "Tue, 24 Mar 2026 13:00:43 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>At the end of February, Ultrahuman announced its <a href=\"https://www.engadget.com/wearables/ultrahumans-new-pro-ring-comes-with-15-days-battery-life-120038820.html\">latest smart ring</a> which promises up to 15 days of battery life on a single charge. Sadly, if you were based in the US, you weren\u2019t able to pre-order the Ring Pro, as the company has been locked in a longstanding legal tussle with ring rivals Oura. Now, however, it appears the situation has been resolved, with the US Customs a"
+    },
+    {
+        "id": "https://www.engadget.com/apps/spotifys-songdna-can-tell-you-all-about-the-track-youre-listening-to-130000809.html?src=rss",
+        "title": "Spotify's SongDNA can tell you all about the track you're listening to",
+        "link": "https://www.engadget.com/apps/spotifys-songdna-can-tell-you-all-about-the-track-youre-listening-to-130000809.html?src=rss",
+        "published": "Tue, 24 Mar 2026 13:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link\" href=\"https://www.engadget.com/entertainment/music/spotify-rolls-out-bit-perfect-playback-in-windows-app-211036176.html\" target=\"_blank\">Spotify</a> has started rolling out a feature called <a class=\"link\" href=\"https://newsroom.spotify.com/2026-03-24/songdna-announcement-beta/\" target=\"_blank\">SongDNA</a> that can show you the people behind your favorite tracks and give you an insight on how they were created. You can access it by opening the Now Playing view while listening "
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+        "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+        "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+        "published": "Tue, 24 Mar 2026 12:28:27 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find out, Stanford researchers&#160;analyzed&#160;transcripts from chatbot users who experienced these spirals.&#160; Their findings suggest that&#8230;"
+    },
+    {
+        "id": "https://github.com/BerriAI/litellm/issues/24512",
+        "title": "LiteLLM Python package compromised by supply-chain attack",
+        "link": "https://github.com/BerriAI/litellm/issues/24512",
+        "published": "Tue, 24 Mar 2026 12:36:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47501729\">Comments</a>"
+    },
+    {
+        "id": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+        "title": "Missile Defense Is NP-Complete",
+        "link": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+        "published": "Tue, 24 Mar 2026 13:00:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47501950\">Comments</a>"
+    },
+    {
+        "id": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+        "title": "Debunking Zswap and Zram Myths",
+        "link": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+        "published": "Tue, 24 Mar 2026 10:39:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47500746\">Comments</a>"
+    },
+    {
+        "id": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+        "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
+        "link": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+        "published": "Tue, 24 Mar 2026 10:06:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47500522\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-must-strengthen-cyber-electronic-warfare-capabilities-to-counter-threats-arunachal-pradesh-governor/articleshow/129778931.cms",
+        "title": "India must strengthen cyber, electronic warfare capabilities to counter threats: Arunachal Pradesh Governor",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-must-strengthen-cyber-electronic-warfare-capabilities-to-counter-threats-arunachal-pradesh-governor/articleshow/129778931.cms",
+        "published": "Tue, 24 Mar 2026 19:32:17 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Arunachal Pradesh Governor KT Parnaik emphasised strengthening India's cyber, space, and electronic warfare capabilities. He highlighted the need for faster decision-making, unified command, and improved logistics for rapid force mobilisation. Parnaik stressed enhancing agencies like the Defence Cyber Agency and Defence Space Agency. He also noted China's significant investments in cyber and electronic warfare."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/uber-plans-to-acquire-germanys-premium-chauffeur-services-startup-blacklane/articleshow/129778658.cms",
+        "title": "Uber plans to acquire Germany's premium chauffeur services startup Blacklane",
+        "link": "https://economictimes.indiatimes.com/tech/technology/uber-plans-to-acquire-germanys-premium-chauffeur-services-startup-blacklane/articleshow/129778658.cms",
+        "published": "Tue, 24 Mar 2026 19:23:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Uber is set to acquire German premium chauffeur service Blacklane. Sources suggest the deal is nearing completion. Blacklane, founded in 2011, operates globally and has major investors. The acquisition could significantly expand Uber's premium offerings. Details of the valuation are still emerging. This move signals a strategic expansion for the ride-hailing giant."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/china-urges-samsung-to-boost-investment-vows-fair-environment/articleshow/129778555.cms",
+        "title": "China urges Samsung to boost investment, vows fair environment",
+        "link": "https://economictimes.indiatimes.com/tech/technology/china-urges-samsung-to-boost-investment-vows-fair-environment/articleshow/129778555.cms",
+        "published": "Tue, 24 Mar 2026 19:16:42 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "China has called on Samsung Electronics to increase its investments within the country. The head of the National Development and Reform Commission met with Samsung Chairman Jay Y."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-the-biggest-market-for-wispr-flow-by-both-usage-and-paying-subscribers-founder-tanay-kothari/articleshow/129778495.cms",
+        "title": "India the biggest market for Wispr Flow by both usage and paying subscribers: founder Tanay Kothari",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-the-biggest-market-for-wispr-flow-by-both-usage-and-paying-subscribers-founder-tanay-kothari/articleshow/129778495.cms",
+        "published": "Tue, 24 Mar 2026 19:14:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is now Wispr Flow\u2019s second-largest market, said  CEO Tanay Kothari, with users and paying subscribers growing as people spend when value is clear. Kothari said strong utility drives high conversions and more annual plans. The company is targeting early adopters and betting on focus, speed, and real product value to scale further."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/swiggy-hikes-platform-fee-wispr-flow-ceo-on-india-biz-ai-funding/articleshow/129777862.cms",
+        "title": "Swiggy hikes platform fee; Wispr Flow CEO on India biz, AI funding",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/swiggy-hikes-platform-fee-wispr-flow-ceo-on-india-biz-ai-funding/articleshow/129777862.cms",
+        "published": "Tue, 24 Mar 2026 19:03:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Swiggy has raised its per-order platform fee, days after rival Zomato\u2019s move. This and more in today's ETtech Top 5."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/platform-fee-creeps-up-again-zomato-swiggy-test-market-price-sensitivity",
+        "title": "Platform fee creeps up again as Zomato and Swiggy test the market's price sensitivity",
+        "link": "https://yourstory.com/2026/03/platform-fee-creeps-up-again-zomato-swiggy-test-market-price-sensitivity",
+        "published": "Tue, 24 Mar 2026 13:30:35 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Days after Zomato raised its platform fee by 19%, rival Swiggy followed with a 17% increase, taking its per-order charge to Rs 17.58 from Rs 14.99."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/books-history-lovers",
+        "title": "6 Must-read books every history lover should explore",
+        "link": "https://yourstory.com/2026/03/books-history-lovers",
+        "published": "Tue, 24 Mar 2026 10:55:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover six essential history books that offer deep insights into humanity, global events, and the forces that shape our world today."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/rbi-building-digital-payments-intelligence-platforms-to-empower-users",
+        "title": "RBI building more digital payments intelligence platforms to empower users",
+        "link": "https://yourstory.com/2026/03/rbi-building-digital-payments-intelligence-platforms-to-empower-users",
+        "published": "Tue, 24 Mar 2026 10:19:53 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "P Vasudevan, Executive Director of the Reserve Bank of India, stated that the central bank is considering deploying artificial intelligence to enhance customer journeys and automate grievance handling as digital transaction volumes continue to increase."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/meesho-launches-ai-shopping-assistant-vaani",
+        "title": "Meesho launches AI voice shopping assistant Vaani",
+        "link": "https://yourstory.com/2026/03/meesho-launches-ai-shopping-assistant-vaani",
+        "published": "Tue, 24 Mar 2026 09:27:07 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Vaani will enable shoppers to use natural language to discover products, ask follow-up questions, and complete purchases, mimicking an offline shopping experience."
+    },
+    {
+        "id": "https://inc42.com/buzz/delhi-ev-policy-2-0-govt-sets-aside-%e2%82%b9200-cr-for-public-ev-fleet-push/",
+        "title": "Delhi EV Policy 2.0: Govt Sets Aside \u20b9200 Cr For Public EV Fleet Push",
+        "link": "https://inc42.com/buzz/delhi-ev-policy-2-0-govt-sets-aside-%e2%82%b9200-cr-for-public-ev-fleet-push/",
+        "published": "Tue, 24 Mar 2026 13:49:03 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Delhi EV Policy 2.0: Govt Sets Aside \u20b9200 Cr For Public EV Fleet Push\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/EV-AVAS-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Delhi government has unveiled a new EV Policy to recalibrate its electric mobility strategy by moving away from broad&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/03/223-govt-content-takedown-timeline-social-media-1-hr-report/",
+        "title": "Govt may cut content takedown timeline for social media from 2-3 hrs to 1 hr: report",
+        "link": "https://www.medianama.com/2026/03/223-govt-content-takedown-timeline-social-media-1-hr-report/",
+        "published": "Tue, 24 Mar 2026 13:50:23 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>MeitY's amendments to the IT Rules, 2021, notified in February, highlight a 2-3 hr window for platforms to remove content instead of the previous 24-36 hrs, and now the govt is thinking of lowering it to 1 hr. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-govt-content-takedown-timeline-social-media-1-hr-report/\">Govt may cut content takedown timeline for social media from 2-3 hrs to 1 hr: report</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/03/223-uttarakhand-issues-diktat-samagra-shiksha-ngos-comply-dpdp-act-mou-cancelled/",
+        "title": "Uttarakhand issues diktat to Samagra Shiksha NGOs: Comply with DPDP Act, or MoU will be cancelled",
+        "link": "https://www.medianama.com/2026/03/223-uttarakhand-issues-diktat-samagra-shiksha-ngos-comply-dpdp-act-mou-cancelled/",
+        "published": "Tue, 24 Mar 2026 13:16:12 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Uttarakhand orders NGOs to submit affidavits in 15 days confirming DPDP Act compliance, warning of MoU termination and legal action for unauthorized sharing of student/teacher data with third parties.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-uttarakhand-issues-diktat-samagra-shiksha-ngos-comply-dpdp-act-mou-cancelled/\">Uttarakhand issues diktat to Samagra Shiksha NGOs: Comply with DPDP Act, or MoU will be cancelled</a> appeared first on <a href=\"https://www.medianama.com"
     }
 ]
