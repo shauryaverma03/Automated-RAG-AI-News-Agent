@@ -164830,5 +164830,69 @@
         "published": "Wed, 25 Mar 2026 11:06:05 GMT",
         "source": "YourStory RSS Feed",
         "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Wednesday, March 25, 2026."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/900856/nex-playground-price-hike",
+        "title": "The surprise hit Nex Playground is the latest console to get a price hike",
+        "link": "https://www.theverge.com/entertainment/900856/nex-playground-price-hike",
+        "published": "2026-03-25T16:25:10-04:00",
+        "source": "The Verge",
+        "summary": "Everything about video games is getting more expensive, and soon that will include a budget-friendly console. The Nex Playground - a Kinect-like device aimed at families that made headlines by outselling the Xbox over the holidays last year - will cost $299 starting on April 1st, a $50 bump. In a statement on the Nex [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+        "title": "Disney\u2019s big bets on the metaverse and AI slop aren\u2019t going so well",
+        "link": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+        "published": "2026-03-25T16:02:48-04:00",
+        "source": "The Verge",
+        "summary": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-generation program just months after Disney announced a $1 billion dollar collaboration to bake the tech into Disney Plus. [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/typhur-dome-2-air-fryer-deal-amazon-spring-sale/",
+        "title": "Amazon Spring Sale Deal: The Typhur Dome 2 Air Fryer Is 30% Off",
+        "link": "https://www.wired.com/story/typhur-dome-2-air-fryer-deal-amazon-spring-sale/",
+        "published": "Wed, 25 Mar 2026 19:59:02 +0000",
+        "source": "WIRED",
+        "summary": "I tested more than 30 air fryers this past year. The Typhur Dome 2 is the one I recommend, and it\u2019s uncommonly cheap right now."
+    },
+    {
+        "id": "https://lapcatsoftware.com/articles/2026/3/11.html",
+        "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+        "link": "https://lapcatsoftware.com/articles/2026/3/11.html",
+        "published": "Wed, 25 Mar 2026 19:14:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47521876\">Comments</a>"
+    },
+    {
+        "id": "https://arcprize.org/arc-agi/3",
+        "title": "ARC-AGI-3",
+        "link": "https://arcprize.org/arc-agi/3",
+        "published": "Wed, 25 Mar 2026 18:16:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47521150\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/dyson-v15-detect-deal-amazon-spring-sale-2026/",
+        "title": "Dyson's cordless vacuum can handle kid and pet messes - and it's nearly 30% off at Amazon",
+        "link": "https://www.zdnet.com/article/dyson-v15-detect-deal-amazon-spring-sale-2026/",
+        "published": "Wed, 25 Mar 2026 20:20:38 GMT",
+        "source": "Latest news",
+        "summary": "I love the Dyson V15 Detect Plus vacuum and how it moves easily between carpet and hardwood floors. It gets a 29% discount during Amazon's Big Spring Sale."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/swiggy-partners-with-sarvam-for-voice-led-multi-lingual-services",
+        "title": "Swiggy partners with Sarvam for voice led multi-lingual services",
+        "link": "https://yourstory.com/2026/03/swiggy-partners-with-sarvam-for-voice-led-multi-lingual-services",
+        "published": "Wed, 25 Mar 2026 12:57:29 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The collaboration between Swiggy and Sarvam will enable consumers to interact in 11 Indian languages"
+    },
+    {
+        "id": "https://yourstory.com/2026/03/rocketlane-raises-60-million-led-by-insight-partners",
+        "title": "Rocketlane raises $60M led by Insight Partners",
+        "link": "https://yourstory.com/2026/03/rocketlane-raises-60-million-led-by-insight-partners",
+        "published": "Wed, 25 Mar 2026 12:18:19 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Rocketlane said it will use this funding for product development of its agentic platform, marketing initiatives and expansion."
     }
 ]
