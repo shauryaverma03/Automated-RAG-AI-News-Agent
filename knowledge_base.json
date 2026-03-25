@@ -164630,5 +164630,109 @@
         "published": "Wed, 25 Mar 2026 13:33:27 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Burma Burma will use this capital for expansion into new cities and strengthen its presence in existing locations."
+    },
+    {
+        "id": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
+        "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
+        "link": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
+        "published": "2026-03-25T14:19:32-04:00",
+        "source": "The Verge",
+        "summary": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber, sign up here so you can get that pure, uncut Regulator every Wednesday, straight from the source (aka me). I was taking [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/899906/fcc-router-ban-march-2026-explainer",
+        "title": "The United States router ban, explained",
+        "link": "https://www.theverge.com/tech/899906/fcc-router-ban-march-2026-explainer",
+        "published": "2026-03-25T14:15:00-04:00",
+        "source": "The Verge",
+        "summary": "You've probably heard the US government has banned foreign-made consumer Wi-Fi routers over national security fears. You might be wondering: WTF is going on? Just another day in America under Donald Trump and FCC chairman Brendan Carr. You're probably fine for now, but if you want to know why there's so much chaos, read on. [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision",
+        "title": "Meta and YouTube found negligent in landmark social media addiction case",
+        "link": "https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision",
+        "published": "2026-03-25T14:08:14-04:00",
+        "source": "The Verge",
+        "summary": "The jury in a landmark trial testing claims about social media addiction against Meta's Instagram and Google's YouTube determined that the two companies failed to warn users about the risks of using their products. The jury found the companies' negligence was a substantial factor in harms like the mental health issues sustained by a now [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+        "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+        "link": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+        "published": "Wed, 25 Mar 2026 18:00:00 +0000",
+        "source": "WIRED",
+        "summary": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/supreme-court-rejects-sonys-attempt-to-kick-music-pirates-off-the-internet/",
+        "title": "Supreme Court rejects Sony's attempt to kick music pirates off the Internet",
+        "link": "https://arstechnica.com/tech-policy/2026/03/supreme-court-rejects-sonys-attempt-to-kick-music-pirates-off-the-internet/",
+        "published": "Wed, 25 Mar 2026 18:25:13 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Sony's 1984 Betamax win helps Cox beat Sony in important online piracy case."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+        "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
+        "link": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+        "published": "Wed, 25 Mar 2026 17:59:12 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "TurboQuant makes AI models more efficient but doesn't reduce output quality like other methods."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/antibiotic-resistance-among-germs-swells-during-droughts-study-suggests/",
+        "title": "Antibiotic resistance among germs swells during droughts, study suggests",
+        "link": "https://arstechnica.com/health/2026/03/antibiotic-resistance-among-germs-swells-during-droughts-study-suggests/",
+        "published": "Wed, 25 Mar 2026 17:49:03 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Study links two crises: Climate change and antibiotic-resistant infections."
+    },
+    {
+        "id": "https://www.engadget.com/social-media/youtube-is-bringing-affiliate-shopping-features-to-more-creators-183927027.html?src=rss",
+        "title": "YouTube is bringing affiliate shopping features to more creators",
+        "link": "https://www.engadget.com/social-media/youtube-is-bringing-affiliate-shopping-features-to-more-creators-183927027.html?src=rss",
+        "published": "Wed, 25 Mar 2026 18:39:27 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>YouTube creators can start making money earlier in their careers. On Wednesday, the company said it's <a class=\"link\" href=\"https://blog.youtube/creator-and-artist-stories/youtube-shopping-expansion-500-subscribers/\" target=\"_blank\">reducing</a> the Shopping affiliate program subscriber threshold from 1,000 to 500.</p><p>The affiliate program launched in 2022, <a class=\"link\" href=\"https://www.engadget.com/you-tube-is-bringing-affiliate-shopping-features-to-shorts-143016212.html\" target=\"_bla"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/jury-rules-against-meta-and-youtube-in-social-media-addiction-case-181344860.html?src=rss",
+        "title": "Jury rules against Meta and YouTube in social media addiction case",
+        "link": "https://www.engadget.com/social-media/jury-rules-against-meta-and-youtube-in-social-media-addiction-case-181344860.html?src=rss",
+        "published": "Wed, 25 Mar 2026 18:22:10 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>A jury in Los Angeles has found that Meta and YouTube <a class=\"link\" href=\"https://www.nbclosangeles.com/news/local/verdict-la-social-media-addiction-trial/3861059/\" target=\"_blank\">were negligent</a> in a closely-watched trial over social media addiction. The companies were ordered to pay $3 million in damages to the woman who said she was harmed by their addictive features as a child.</p><p>The case was brought by a 20-year-old woman, named in court documents as \u201cK.G.M,\u201d who sued Meta, You"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
+        "link": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+        "published": "Wed, 25 Mar 2026 17:29:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47520505\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/infosys-to-acquire-us-firms-optimum-healthcare-it-for-465-million-stratus-for-95-million/articleshow/129809363.cms",
+        "title": "Infosys to acquire US firms Optimum Healthcare IT for $465 million, Stratus for $95 million",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/infosys-to-acquire-us-firms-optimum-healthcare-it-for-465-million-stratus-for-95-million/articleshow/129809363.cms",
+        "published": "Wed, 25 Mar 2026 23:49:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Infosys has entered separate agreements to acquire US-based firms Optimum Healthcare IT and Stratus in all-cash deals. The company will purchase healthcare consulting firm Optimum for $465 million and insurance technology company Stratus for $95 million."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/jury-reaches-verdict-in-meta-google-trial-on-social-media-addiction/articleshow/129808855.cms",
+        "title": "Jury reaches verdict in Meta, Google trial on social media addiction",
+        "link": "https://economictimes.indiatimes.com/tech/technology/jury-reaches-verdict-in-meta-google-trial-on-social-media-addiction/articleshow/129808855.cms",
+        "published": "Wed, 25 Mar 2026 23:34:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A Los Angeles jury reached a verdict on Wednesday in \u200ba landmark social media addiction trial \u200bthat involves Meta's Instagram and Google's YouTube, according to spokespeople for the \u200bplaintiff and Meta."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apple-rolls-out-age-checks-for-uk-users/articleshow/129808707.cms",
+        "title": "Apple rolls out age checks for UK users",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apple-rolls-out-age-checks-for-uk-users/articleshow/129808707.cms",
+        "published": "Wed, 25 Mar 2026 23:27:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Apple began rolling out age verification requirements for UK users as part of a software update Wednesday, as the government increases pressure on tech giants to better protect children online."
     }
 ]
