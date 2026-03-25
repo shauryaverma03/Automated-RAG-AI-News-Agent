@@ -163070,5 +163070,117 @@
         "published": "Wed, 25 Mar 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Super Micro Computer is exploring setting up a server manufacturing unit in India and is in talks with several state governments for it, according to people aware of the matter."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
+        "title": "A former Thiel fellow\u2019s startup just launched a drone it says can replace police helicopters",
+        "link": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
+        "published": "Wed, 25 Mar 2026 02:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Brinc launched its newest 911 response drone this week, as the company seeks to expand its prominence in the public safety industry."
+    },
+    {
+        "id": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia",
+        "title": "The BB-777 is the ultimate in boombox nostalgia",
+        "link": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia",
+        "published": "2026-03-24T22:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Bumpboxx is fully embracing nostalgia with its latest boombox, the BB-777, which is modeled very closely on the legendary Sharp GF-777. A real deal GF-777 will set you back over $2,000 for one in working order. Plus, that vintage unit lacks modern amenities like Bluetooth or a rechargeable battery. Heck, it doesn't even have a [&#8230;]"
+    },
+    {
+        "id": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+        "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+        "link": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+        "published": "Wed, 25 Mar 2026 03:28:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47512891\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/if-ai-agents-are-workers-tasklet-is-a-miracle-worker/",
+        "title": "I built an app for work in 5 minutes with Tasklet - and watched my no-code dreams come true",
+        "link": "https://www.zdnet.com/article/if-ai-agents-are-workers-tasklet-is-a-miracle-worker/",
+        "published": "Wed, 25 Mar 2026 03:00:00 GMT",
+        "source": "Latest news",
+        "summary": "In my 30 years covering technology, I have never been so impressed. Here's why this agentic AI authoring and deployment tool changes everything."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-files-for-us-listing-that-source-says-could-raise-up-to-14-billion/articleshow/129790213.cms",
+        "title": "SK Hynix files for US listing that source says could raise up to $14 billion",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-files-for-us-listing-that-source-says-could-raise-up-to-14-billion/articleshow/129790213.cms",
+        "published": "Wed, 25 Mar 2026 08:26:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SK Hynix plans to list about 2% to 3% of its total shares and hopes to \u200cuse the funds to \u2060help \u2060finance its work in chip factories in South Korea's Yongin city and the U.S. state of Indiana, a person with direct knowledge of the discussions told Reuters."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/baltimore-sues-elon-musks-xai-over-grok-sexual-deepfakes/articleshow/129790168.cms",
+        "title": "Baltimore sues Elon Musk's xAI over Grok sexual 'deepfakes'",
+        "link": "https://economictimes.indiatimes.com/tech/technology/baltimore-sues-elon-musks-xai-over-grok-sexual-deepfakes/articleshow/129790168.cms",
+        "published": "Wed, 25 Mar 2026 08:20:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Musk launched Grok in 2023 and distributes it through his social media platform X, which like xAI is now part of \u200chis rocket and \u2060space exploration \u2060company SpaceX."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spacex-aims-to-file-for-ipo-as-soon-as-this-week-report/articleshow/129790081.cms",
+        "title": "SpaceX aims to file for IPO as soon as this week: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spacex-aims-to-file-for-ipo-as-soon-as-this-week-report/articleshow/129790081.cms",
+        "published": "Wed, 25 Mar 2026 08:14:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Advisers involved \u2060in the \u200cpreparation \u200bpredict \u200bthe company could try \u2060to raise more than $75 billion \u200bin the IPO, \u200bthe report said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-grants-senior-executives-stock-awards-to-retain-talent/articleshow/129790066.cms",
+        "title": "Meta grants senior executives stock awards to retain talent",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-grants-senior-executives-stock-awards-to-retain-talent/articleshow/129790066.cms",
+        "published": "Wed, 25 Mar 2026 08:09:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A Meta spokesperson said the \u200cpay packages represent a \"big bet\" and that \u200bthey \"will \u200bnot \u2060be realised unless Meta achieves massive future success, benefiting all \u200bof our shareholders\"."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-ordered-to-pay-375-million-in-new-mexico-trial-over-child-exploitation-user-safety-claims/articleshow/129789513.cms",
+        "title": "Meta ordered to pay $375 million in New Mexico trial over child exploitation, user safety claims",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-ordered-to-pay-375-million-in-new-mexico-trial-over-child-exploitation-user-safety-claims/articleshow/129789513.cms",
+        "published": "Wed, 25 Mar 2026 07:00:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In a landmark decision, a jury in New Mexico has convicted Meta, the tech giant behind Facebook, Instagram, and WhatsApp, of breaching state consumer protection laws. Now facing hefty civil fines totaling 375 million dollars, this ruling emerges after serious allegations that Meta misrepresented user safety and allowed channels for child exploitation."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/attox-research-lab-is-helping-doctors-fight-growing-threat-of-superbugs",
+        "title": "How Attox Research Lab is helping doctors fight the growing threat of superbugs",
+        "link": "https://yourstory.com/2026/03/attox-research-lab-is-helping-doctors-fight-growing-threat-of-superbugs",
+        "published": "Wed, 25 Mar 2026 01:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The Chennai-based healthtech startup has developed a rapid antibiotic sensitivity analysis device that can determine which antibiotic will effectively kill a specific bacteria in a patient\u2019s sample. With AI, it achieves that in just two hours as opposed to the traditional 24-78-hour window."
+    },
+    {
+        "id": "https://inc42.com/buzz/sarvam-eyes-unicorn-tag-euler-nets-47-mn-more/",
+        "title": "Sarvam Eyes Unicorn Tag, Euler Nets $47 Mn & More",
+        "link": "https://inc42.com/buzz/sarvam-eyes-unicorn-tag-euler-nets-47-mn-more/",
+        "published": "Wed, 25 Mar 2026 02:30:21 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Sarvam Eyes Unicorn Tag, Euler Nets $47 Mn &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/FTR-Daily-Brief-2026-03-25T011308.826.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Sarvam Eyes The Unicorn Tag Sarvam AI may soon become India\u2019s newest unicorn, and potentially one of the youngest ones&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/03/223-openai-shut-down-sora/",
+        "title": "Why OpenAI is shutting down Sora",
+        "link": "https://www.medianama.com/2026/03/223-openai-shut-down-sora/",
+        "published": "Wed, 25 Mar 2026 04:02:16 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>OpenAI\u2019s decision to shut down Sora may look sudden, but the reasons behind it point to a deeper shift in AI strategy.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-openai-shut-down-sora/\">Why OpenAI is shutting down Sora</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/03/223-razorpay-sarvam-ai-ai-agent-payments-indus-app/",
+        "title": "Razorpay explains how its AI voice agent pays for you and what happens when it goes wrong",
+        "link": "https://www.medianama.com/2026/03/223-razorpay-sarvam-ai-ai-agent-payments-indus-app/",
+        "published": "Wed, 25 Mar 2026 04:00:00 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The Razorpay voice-first AI agent, which completes payments without manual entry of PIN at checkout, has an upper spending limit capped at Rs 10,000, and the merchant bears liability if the AI agent orders wrong.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-razorpay-sarvam-ai-ai-agent-payments-indus-app/\">Razorpay explains how its AI voice agent pays for you and what happens when it goes wrong</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/03/223-ai-agents-privacy-new-frontiers/",
+        "title": "AI, Agents and the new frontiers of privacy",
+        "link": "https://www.medianama.com/2026/03/223-ai-agents-privacy-new-frontiers/",
+        "published": "Wed, 25 Mar 2026 03:04:35 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>AI is changing privacy in ways that are easy to miss, but hard to ignore once you see them.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-ai-agents-privacy-new-frontiers/\">AI, Agents and the new frontiers of privacy</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
