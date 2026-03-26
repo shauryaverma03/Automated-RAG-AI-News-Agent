@@ -166806,5 +166806,85 @@
         "published": "Thu, 26 Mar 2026 20:33:26 GMT",
         "source": "Latest news",
         "summary": "Several wireless chargers we've tested from brands like Anker, Twelve South, and more are marked down during Amazon's Big Spring Sale. Don't miss out on these savings."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+        "title": "Wikipedia cracks down on the use of AI in article writing",
+        "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+        "published": "Thu, 26 Mar 2026 21:50:10 +0000",
+        "source": "TechCrunch",
+        "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+        "title": "Google is making it easier to import another AI\u2019s memory into Gemini",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+        "published": "2026-03-26T17:44:37-04:00",
+        "source": "The Verge",
+        "summary": "Google is rolling out two new Gemini tools on Thursday which could attract users who are thinking about switching their preferred AI chatbot but don't want to \"retrain\" a new AI. Gemini's new \"Import Memory\" and \"Import Chat History\" features help users quickly copy over everything their current AI already knows about them with a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+        "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+        "link": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+        "published": "2026-03-26T17:31:27-04:00",
+        "source": "The Verge",
+        "summary": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, will be able to fetch replies for Siri - similar to how the [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/",
+        "title": "How Trump\u2019s Plot to Grab Iran's Nuclear Fuel Would Actually Work",
+        "link": "https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/",
+        "published": "Thu, 26 Mar 2026 21:42:52 +0000",
+        "source": "WIRED",
+        "summary": "Experts say that an American ground operation targeting nuclear sites in Iran would be incredibly complicated, put troops\u2019 lives at great risk\u2014and might still fail."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
+        "title": "Elon Musk loses big in court; X boycott perfectly legal",
+        "link": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
+        "published": "Thu, 26 Mar 2026 21:50:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "X admonished for \"fishing expedition\" as judge dismisses ad boycott lawsuit."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/",
+        "title": "Spotify seeks $300M from Anna's Archive, which ignores all court proceedings",
+        "link": "https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/",
+        "published": "Thu, 26 Mar 2026 21:27:16 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Even with court orders, music firms struggle to eliminate notorious shadow library."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/",
+        "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
+        "link": "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/",
+        "published": "Thu, 26 Mar 2026 21:04:31 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Ultra-sensitive data may have been hacked."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/as-rfk-jr-s-anti-vaccine-ways-turn-toxic-to-gop-cdc-director-is-hard-to-find/",
+        "title": "As RFK Jr.\u2019s anti-vaccine ways turn toxic to GOP, CDC director is hard to find",
+        "link": "https://arstechnica.com/health/2026/03/as-rfk-jr-s-anti-vaccine-ways-turn-toxic-to-gop-cdc-director-is-hard-to-find/",
+        "published": "Thu, 26 Mar 2026 20:46:09 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Wednesday was the deadline to nominate a new director."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
+        "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
+        "link": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
+        "published": "Thu, 26 Mar 2026 20:30:48 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Netflix last raised prices in January 2025."
+    },
+    {
+        "id": "https://deploytarot.com/setup",
+        "title": "Deploytarot.com \u2013 tarot card reading for deployments",
+        "link": "https://deploytarot.com/setup",
+        "published": "Thu, 26 Mar 2026 20:53:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47535586\">Comments</a>"
     }
 ]
