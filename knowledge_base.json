@@ -165118,5 +165118,109 @@
         "published": "Wed, 25 Mar 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Tagbin uses AI and immersive technology like AR, VR, and holograms to help governments create engaging experiences for museums, exhibitions, and public spaces. At SheSparks 2026, CashKaro\u2019s Swati Bhargava shared her journey of building a Rs 600-crore business while battling illness."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+        "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+        "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+        "published": "Thu, 26 Mar 2026 00:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+        "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
+        "link": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+        "published": "Thu, 26 Mar 2026 00:03:52 +0000",
+        "source": "TechCrunch",
+        "summary": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware."
+    },
+    {
+        "id": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
+        "title": "Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever",
+        "link": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
+        "published": "2026-03-25T20:33:07-04:00",
+        "source": "The Verge",
+        "summary": "One of the coolest laptops we saw at CES in January was the new Dell XPS 16, with a unique 1-120Hz variable refresh rate display that can sip power when you don't need the screen to stay speedy. Just how little power might it consume? Notebookcheck has tested a version of the laptop with that [&#8230;]"
+    },
+    {
+        "id": "https://www.zdnet.com/article/eero-7-wifi-system-amazon-spring-sale-2026/",
+        "title": "This discounted Wi-Fi 7 mesh system has me seriously considering an internet upgrade",
+        "link": "https://www.zdnet.com/article/eero-7-wifi-system-amazon-spring-sale-2026/",
+        "published": "Thu, 26 Mar 2026 00:43:00 GMT",
+        "source": "Latest news",
+        "summary": "During Amazon's Spring Sale, this Eero 7 mesh system has dropped to a new low price, making it a great time to upgrade your home Wi-Fi."
+    },
+    {
+        "id": "https://www.zdnet.com/article/tp-link-roam-7-review/",
+        "title": "I stopped stressing about public Wi-Fi after using this pocket router - why it works",
+        "link": "https://www.zdnet.com/article/tp-link-roam-7-review/",
+        "published": "Thu, 26 Mar 2026 00:36:53 GMT",
+        "source": "Latest news",
+        "summary": "Designed for travel, the TP-Link Roam 7 provides fast, private networks in public spaces."
+    },
+    {
+        "id": "https://www.zdnet.com/article/why-i-left-evernote-for-notion/",
+        "title": "Why I left Evernote for Notion after 14 years - and a 900% price creep",
+        "link": "https://www.zdnet.com/article/why-i-left-evernote-for-notion/",
+        "published": "Thu, 26 Mar 2026 00:00:55 GMT",
+        "source": "Latest news",
+        "summary": "Opinion: For over a decade, Evernote served as my digital brain. But its new $250 price floor for power users finally pushed me to Notion - and I'm glad."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/digital-payments-subsidy-shrinks-to-rs-8000-crore-over-four-years-despite-higher-budgetary-allocation/articleshow/129810265.cms",
+        "title": "Digital payments subsidy shrinks to Rs 8,000 crore over four years despite higher budgetary allocation",
+        "link": "https://economictimes.indiatimes.com/tech/technology/digital-payments-subsidy-shrinks-to-rs-8000-crore-over-four-years-despite-higher-budgetary-allocation/articleshow/129810265.cms",
+        "published": "Thu, 26 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The digital payments industry has received about Rs 8,000 crore in subsidy payments over four years for UPI and RuPay debit card payments, against a higher allocation. The government removed MDR on these payments, and the fintech industry is yet to receive FY26 payouts, amid concerns over costs, slowdown and future growth."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/centre-logs-into-chat-on-social-media-child-lock/articleshow/129808949.cms",
+        "title": "Centre logs into chat on social media child lock",
+        "link": "https://economictimes.indiatimes.com/tech/technology/centre-logs-into-chat-on-social-media-child-lock/articleshow/129808949.cms",
+        "published": "Thu, 26 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Centre is building its stance on banning or restricting social media usage for children, with consultations held to assess technical capabilities of platforms. With no age-based controls currently, there is growing concern over harm, misinformation and addiction. States are exploring curbs, and global moves are shaping India\u2019s evolving approach."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/deccan-ai-raises-25-million-from-a91-partners-sig-prosus-ventures-eyes-enterprise-customers/articleshow/129808398.cms",
+        "title": "Deccan AI raises $25 million from A91 Partners, SIG, Prosus Ventures, eyes enterprise customers",
+        "link": "https://economictimes.indiatimes.com/tech/funding/deccan-ai-raises-25-million-from-a91-partners-sig-prosus-ventures-eyes-enterprise-customers/articleshow/129808398.cms",
+        "published": "Thu, 26 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Deccan AI has raised $25 million in a round led by growth equity firm A91 Partners, with participation from Susquehanna International Group (SIG) and Prosus Ventures, as it doubles down on building high-accuracy AI systems for enterprises and frontier model labs, the company's founder Rukesh Reddy told ET."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/elmed-life-sciences-raises-2-7-million-from-nabard-backed-agrisure-fund/articleshow/129808178.cms",
+        "title": "Elmed Life Sciences raises $2.7 million from Nabard-backed Agrisure Fund",
+        "link": "https://economictimes.indiatimes.com/tech/funding/elmed-life-sciences-raises-2-7-million-from-nabard-backed-agrisure-fund/articleshow/129808178.cms",
+        "published": "Thu, 26 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Elmed Life Sciences has raised $2.7 million from Agrisure Fund, which is managed by Nabard-backed Nabventures. The company develops and manufactures probiotic and biological solutions for animal health, aquaculture, agriculture, and human health."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/west-asia-war-pushes-up-real-cost-of-indias-semiconductor-plans/articleshow/129807968.cms",
+        "title": "West Asia War pushes up real cost of India\u2019s semiconductor plans",
+        "link": "https://economictimes.indiatimes.com/tech/technology/west-asia-war-pushes-up-real-cost-of-indias-semiconductor-plans/articleshow/129807968.cms",
+        "published": "Thu, 26 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The ongoing West Asia conflict is beginning to cast a shadow on India\u2019s semiconductor ambitions. Rising crude-linked costs and supply chain disruptions are expected to disproportionately impact outsourced semiconductor assembly and test (OSAT) players, industry experts said."
+    },
+    {
+        "id": "https://inc42.com/startups/ai-wearables-neosapien-make-the-most-of-this-wave/",
+        "title": "AI Wearables Are Here To Stay; Can NeoSapien Make The Most Of This Wave?",
+        "link": "https://inc42.com/startups/ai-wearables-neosapien-make-the-most-of-this-wave/",
+        "published": "Thu, 26 Mar 2026 00:30:31 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"AI Wearables Are Here To Stay; Can NeoSapien Make The Most Of This Wave?\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/neosapien-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Dhananjay Yadav has a \u2018second brain\u2019, hanging from a chain around his neck. It listens to every conversation he makes&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/insurtech-startup-plum-nets-%e2%82%b9193-cr-to-expand-employee-health-benefits-platform/",
+        "title": "Insurtech Startup Plum Nets \u20b9193 Cr To Expand Employee Health Benefits Platform",
+        "link": "https://inc42.com/buzz/insurtech-startup-plum-nets-%e2%82%b9193-cr-to-expand-employee-health-benefits-platform/",
+        "published": "Thu, 26 Mar 2026 00:30:15 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2021/01/plum-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Insurtech startup Plum has raised \u20b9193 Cr ($20.6 Mn) in its Series B funding round led by existing investor Peak&#8230;"
     }
 ]
