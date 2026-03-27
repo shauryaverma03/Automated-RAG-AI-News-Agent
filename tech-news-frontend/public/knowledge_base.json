@@ -168294,5 +168294,69 @@
         "published": "Fri, 27 Mar 2026 18:46:04 GMT",
         "source": "Latest news",
         "summary": "The LG B5 is a more affordable OLED option, offering the same signature picture quality as its flagship sibling at a fraction of the price."
+    },
+    {
+        "id": "https://www.theverge.com/tech/902703/white-house-app-iphone-android",
+        "title": "The White House has an app now, and Trump wants you to report people to ICE on it",
+        "link": "https://www.theverge.com/tech/902703/white-house-app-iphone-android",
+        "published": "2026-03-27T15:59:53-04:00",
+        "source": "The Verge",
+        "summary": "A new official White House app on Android and iOS takes the content from the White House website and copies it into app format. A tweet announcing the app on Friday morning appeared alongside a video joking about missile launches that also appears to feature an iPhone, rather than the elusive Trump Phone. There's no [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/902399/trump-phone-mobile-t1-fcc-certification-authorization",
+        "title": "Wait, the Trump phone might actually exist",
+        "link": "https://www.theverge.com/tech/902399/trump-phone-mobile-t1-fcc-certification-authorization",
+        "published": "2026-03-27T15:44:05-04:00",
+        "source": "The Verge",
+        "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week I think I've found an FCC listing for the phone, showing it's received certification to launch in the US. Last week I issued a reminder that Trump Mobile's [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
+        "title": "Iranian Hackers Breached Kash Patel\u2019s Email\u2014but Not the FBI\u2019s",
+        "link": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
+        "published": "Fri, 27 Mar 2026 19:45:21 +0000",
+        "source": "WIRED",
+        "summary": "Plus: Apple makes big claims about the effectiveness of its Lockdown Mode anti-spyware feature, Russia moves to implement homegrown encryption for 5G, and more."
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/meta-will-fund-seven-new-natural-gas-plants-to-power-its-biggest-data-center-yet-201000045.html?src=rss",
+        "title": "Meta will fund seven new natural gas plants to power its biggest data center yet",
+        "link": "https://www.engadget.com/big-tech/meta-will-fund-seven-new-natural-gas-plants-to-power-its-biggest-data-center-yet-201000045.html?src=rss",
+        "published": "Fri, 27 Mar 2026 20:10:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Meta will essentially foot the power bill for the $27 billion mega data center it's building in Louisiana. On Friday, the <em>Wall Street Journal</em> <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=2f007401-3eaa-4237-b69b-54ccbe125502&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=9deb57ab-a95b-44b3-8c83-eb22e1d761ec&amp;featureId=text-link&amp;merchantName=The+Wall+Street+Journal&amp;linkText=reported&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLU"
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/european-commission-confirms-data-breach-200000982.html?src=rss",
+        "title": "European Commission confirms data breach",
+        "link": "https://www.engadget.com/cybersecurity/european-commission-confirms-data-breach-200000982.html?src=rss",
+        "published": "Fri, 27 Mar 2026 20:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The European Commission <a class=\"link\" href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_26_748\" target=\"_blank\">has announced</a> that it suffered a cyber attack that affected &quot;cloud infrastructure hosting the Commission's web presence on the Europea.eu platform.&quot; While the attack has been contained, <a class=\"link\" href=\"https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/\" target=\"_blank\"><em>Bleepi"
+    },
+    {
+        "id": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
+        "title": "Telnyx package compromised on PyPI",
+        "link": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
+        "published": "Fri, 27 Mar 2026 08:57:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47540388\">Comments</a>"
+    },
+    {
+        "id": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
+        "title": "Nashville library launches Memory Lab for digitizing home movies",
+        "link": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
+        "published": "Tue, 24 Mar 2026 04:22:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47498571\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/anker-nano-smart-display-amazon-spring-sale-2026/",
+        "title": "This iPhone charger from Anker comes with a nifty smart display - and it's on sale",
+        "link": "https://www.zdnet.com/article/anker-nano-smart-display-amazon-spring-sale-2026/",
+        "published": "Fri, 27 Mar 2026 19:42:18 GMT",
+        "source": "Latest news",
+        "summary": "Anker's Nano 45W Smart Display charger displays the device's battery status. During Amazon's Big Spring Sale, it's 30% off."
     }
 ]
