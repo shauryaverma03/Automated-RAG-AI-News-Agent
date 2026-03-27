@@ -166966,5 +166966,101 @@
         "published": "Thu, 26 Mar 2026 10:02:23 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Early stage VC fund Pentathlon Ventures plans to invest in around 16-20 B2B startups at the seed stage"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+        "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+        "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+        "published": "Thu, 26 Mar 2026 23:47:56 +0000",
+        "source": "TechCrunch",
+        "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+        "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+        "published": "2026-03-26T20:33:44-04:00",
+        "source": "The Verge",
+        "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat",
+        "title": "Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage",
+        "link": "https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat",
+        "published": "2026-03-26T19:53:16-04:00",
+        "source": "The Verge",
+        "summary": "Federal Communications Commission Chair Brendan Carr never meant to threaten broadcast licenses over their coverage of the war in Iran, he told reporters after an event hosted by FGS and Semafor. \"My comments weren't actually on the Iran war,\" Carr said in response to a question from The Verge about his statement regarding coverage of [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+        "title": "David Sacks is no longer the White House AI and Crypto Czar",
+        "link": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+        "published": "2026-03-26T19:40:22-04:00",
+        "source": "The Verge",
+        "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no longer President Donald Trump's Special Advisor on AI and Crypto. Sacks' [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+        "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+        "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+        "published": "Thu, 26 Mar 2026 23:33:05 +0000",
+        "source": "WIRED",
+        "summary": "A judge temporarily blocked the Trump administration\u2019s designation, clearing the way for Anthropic to keep doing business without the label starting next week."
+    },
+    {
+        "id": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+        "title": "Chicago artist creates tourism posters for city's neighborhoods",
+        "link": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+        "published": "Thu, 26 Mar 2026 23:18:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47537106\">Comments</a>"
+    },
+    {
+        "id": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+        "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+        "link": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+        "published": "Thu, 26 Mar 2026 23:33:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47537228\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/from-california-to-bengaluru-how-rightshoring-is-rewriting-tech-careers/articleshow/129833045.cms",
+        "title": "From California to Bengaluru: How rightshoring is rewriting tech careers",
+        "link": "https://economictimes.indiatimes.com/tech/technology/from-california-to-bengaluru-how-rightshoring-is-rewriting-tech-careers/articleshow/129833045.cms",
+        "published": "Fri, 27 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "While US tech firms cut thousands of jobs due to AI-led efficiency, hiring remains strong in India, the Philippines and Brazil, where lower costs give a commercial edge. Senior engineers in Bengaluru cost $52,000 versus $280,000 in California. Hiring in India is expected to grow further in 2026."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/stable-money-to-raise-15-million-from-existing-investors/articleshow/129832853.cms",
+        "title": "Stable Money to raise $15 million from existing investors",
+        "link": "https://economictimes.indiatimes.com/tech/funding/stable-money-to-raise-15-million-from-existing-investors/articleshow/129832853.cms",
+        "published": "Fri, 27 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The round will be led by Nandan Nilekani-founded Fundamentum, with participation from Peak XV Partners, Z47 (previously Matrix Partners India), and RTP Global. Earlier in February this year, it had raised $25 million in a round led by Peak XV Partners. Post-fundraise, the Bengaluru-based fixed-income investment startup will be valued at $275 million."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/it-firms-push-ma-deals-to-cover-ais-revenue-impact/articleshow/129832550.cms",
+        "title": "IT firms push M&amp;A deals to cover AI\u2019s revenue impact",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/it-firms-push-ma-deals-to-cover-ais-revenue-impact/articleshow/129832550.cms",
+        "published": "Fri, 27 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "While the capital deployment is aggressive, Karan Uppal, vice-president of Phillip Capital, highlighted that from a revenue contribution perspective, these acquisitions are still not large enough. The nearly $300 billion Indian tech services industry is expected to see a revenue deflation of 2-4% in the next two years, according to industry watchers, as enterprises accelerate AI adoption."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/ltts-to-divest-smart-world-unit-to-ami-paradigm-for-rs-452-crore/articleshow/129831848.cms",
+        "title": "LTTS to divest smart world unit to AMI Paradigm for Rs 452 crore",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/ltts-to-divest-smart-world-unit-to-ami-paradigm-for-rs-452-crore/articleshow/129831848.cms",
+        "published": "Fri, 27 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "L&amp;T Technology Services (LTTS) on Thursday said it will sell its Smart World and Communication (SWC) division to AMI Paradigm Solutions as part of its five-year strategy to refocus on AI-led digital and engineering capabilities. The transaction, valued at Rs 452 crore, will be executed on a slump sale basis, subject to adjustments for working capital, net debt and other conditions. It is expected to close on or before September 30, 2026."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/vcs-look-to-glam-up-portfolio-with-fashion-and-lifestyle-investments/articleshow/129831816.cms",
+        "title": "VCs look to glam up portfolio with fashion and lifestyle investments",
+        "link": "https://economictimes.indiatimes.com/tech/technology/vcs-look-to-glam-up-portfolio-with-fashion-and-lifestyle-investments/articleshow/129831816.cms",
+        "published": "Fri, 27 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The fashion and lifestyle segment is seeing renewed investor interest, with early-to-mid-stage brands like Zouk, Slikk and Klydo raising $10\u201335 million. Growth is driven by quick commerce, better inventory management, artificial intelligence and niche categories. India\u2019s $70\u202fbillion apparel market is set to expand, giving rise to fresh opportunities for fundraising and scaling."
     }
 ]
