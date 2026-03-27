@@ -167158,5 +167158,53 @@
         "published": "Thu, 26 Mar 2026 18:35:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Passion may spark a startup, but it cannot sustain it. Here is why founders must focus on product-market fit, feedback, and execution to succeed."
+    },
+    {
+        "id": "https://www.wired.com/story/layla-sleep-coupon/",
+        "title": "Layla Sleep Coupon: Save Up to $600 in March 2026",
+        "link": "https://www.wired.com/story/layla-sleep-coupon/",
+        "published": "Fri, 27 Mar 2026 05:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases during the Spring Sale."
+    },
+    {
+        "id": "https://code.claude.com/docs/en/web-scheduled-tasks",
+        "title": "Schedule tasks on the web",
+        "link": "https://code.claude.com/docs/en/web-scheduled-tasks",
+        "published": "Fri, 27 Mar 2026 04:47:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47539188\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots/articleshow/129839304.cms",
+        "title": "AI is giving bad advice to flatter its users, says new study on dangers of overly agreeable chatbots",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots/articleshow/129839304.cms",
+        "published": "Fri, 27 Mar 2026 10:50:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Sycophancy or behaviour that was overly agreeable and affirming is complicated. While few people are looking to AI for factually inaccurate information, they might appreciate - at least in the moment - a chatbot that makes them feel better about making the wrong choices."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-gemini-now-lets-users-import-memories-and-chats-from-rival-chatbots/articleshow/129839190.cms",
+        "title": "Google Gemini now lets users import memories and chats from rival chatbots",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-gemini-now-lets-users-import-memories-and-chats-from-rival-chatbots/articleshow/129839190.cms",
+        "published": "Fri, 27 Mar 2026 10:43:42 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Google launched \u201cswitching tools\u201d in Gemini, letting users import \u201cmemories\u201d and full chat histories from other AI apps. The feature quickly transfers preferences and context, making adoption easier. The move targets to attract users of rivals like OpenAI and Anthropic and make them switch to Gemini."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-used-to-make-fetishised-images-of-disabled-women/articleshow/129838434.cms",
+        "title": "AI used to make 'fetishised' images of disabled women",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-used-to-make-fetishised-images-of-disabled-women/articleshow/129838434.cms",
+        "published": "Fri, 27 Mar 2026 09:44:20 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Some account owners use artificial intelligence to manipulate real images of non-disabled women, making them appear to have Down syndrome, a genetic condition caused by an extra chromosome. \"This is a scam and is not only in bad taste but is potentially offensive and hurtful to people who have Down's syndrome,\" the charity said in comments sent to AFP."
+    },
+    {
+        "id": "https://www.medianama.com/2026/03/223-online-gaming-authority-india-website-live-incomplete-rules-pending/",
+        "title": "Online Gaming Authority of India website live, appears to be under construction, as rules still not notified",
+        "link": "https://www.medianama.com/2026/03/223-online-gaming-authority-india-website-live-incomplete-rules-pending/",
+        "published": "Fri, 27 Mar 2026 05:48:26 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>India\u2019s Online Gaming Authority is now live, but its website tells a different story.<br />\nEarly signs suggest gaps that raise bigger questions.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/03/223-online-gaming-authority-india-website-live-incomplete-rules-pending/\">Online Gaming Authority of India website live, appears to be under construction, as rules still not notified</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
