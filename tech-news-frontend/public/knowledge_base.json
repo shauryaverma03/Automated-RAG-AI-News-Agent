@@ -168510,5 +168510,37 @@
         "published": "Fri, 27 Mar 2026 21:56:00 GMT",
         "source": "Latest news",
         "summary": "The AI industry is driving up RAM and SSD prices, but we found a great deal on the WD Black SN850P right now."
+    },
+    {
+        "id": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
+        "title": "Sony temporarily suspends memory card sales due to shortages",
+        "link": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
+        "published": "2026-03-27T18:21:11-04:00",
+        "source": "The Verge",
+        "summary": "Sony has announced that as of March 27th, 2026, the company is no longer accepting orders for nearly all the products in its CFexpress and SD memory card lines. The list of affected memory products includes CFexpress Type A, Type B, and SDXC/SDHC cards, although a few models of Type B and low-end SF-UZ series [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
+        "title": "Playing Wolfenstein 3D with one hand in 2026",
+        "link": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
+        "published": "Fri, 27 Mar 2026 22:09:00 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Over three decades later, this historical curiosity has more than a few rough edges"
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+        "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+        "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+        "published": "Fri, 27 Mar 2026 21:53:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Things are moving fast, and competitors have offered something similar for a while."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/",
+        "title": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
+        "link": "https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/",
+        "published": "Fri, 27 Mar 2026 21:43:00 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Raw Farm denies link to illnesses while patients keep identifying its products."
     }
 ]
