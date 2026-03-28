@@ -169166,5 +169166,45 @@
         "published": "Sat, 28 Mar 2026 14:08:33 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47554773\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+        "title": "Elon Musk\u2019s last co-founder reportedly leaves xAI",
+        "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+        "published": "Sat, 28 Mar 2026 16:11:16 +0000",
+        "source": "TechCrunch",
+        "summary": "All but two of Musk's 11 xAI co-founders departed before this week."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+        "title": "These iPad apps will make you wish you had more free time",
+        "link": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+        "published": "Sat, 28 Mar 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "We\u2019ve compiled a list of some of the best iPad apps for creativity that are available on the App Store."
+    },
+    {
+        "id": "https://www.engadget.com/science/space/nasa-pauses-its-lunar-gateway-plan-a-comet-reverses-its-spin-and-more-science-news-160000163.html?src=rss",
+        "title": "NASA pauses its lunar Gateway plan, a comet reverses its spin and more science news",
+        "link": "https://www.engadget.com/science/space/nasa-pauses-its-lunar-gateway-plan-a-comet-reverses-its-spin-and-more-science-news-160000163.html?src=rss",
+        "published": "Sat, 28 Mar 2026 16:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The first crewed mission of NASA's Artemis moon program may take off in a matter of days, with a launch window that opens on April 1, and as preparations are underway for that, the space agency is refocusing its plan to establish a human presence on the moon. NASA announced major changes to its approach for moon landings that are expected to play out over the coming years, including axing its plan to build an orbiting station called Gateway. Read on to learn more about the agency\u2019s new vision"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/wanderstop-developer-ivy-road-is-shutting-down-153655278.html?src=rss",
+        "title": "Wanderstop developer Ivy Road is shutting down",
+        "link": "https://www.engadget.com/gaming/wanderstop-developer-ivy-road-is-shutting-down-153655278.html?src=rss",
+        "published": "Sat, 28 Mar 2026 15:36:55 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Ivy Road, the video game developer behind <a class=\"link\" href=\"https://www.engadget.com/gaming/how-to-watch-annapurnas-publisher-showcase-on-february-24-193539718.html\" target=\"_blank\">Annapurna-published</a> cozy game <em>Wanderstop</em>, is <a class=\"link\" href=\"https://www.ivyroad.fun/studioupdates/ivy-road-march-update\" target=\"_blank\">shutting down</a> on March 31. While <em>Wanderstop</em> was well-received and even critically acclaimed, it seems like it wasn\u2019t enough of a hit to susta"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/marc-andreessen-dismisses-ai-layoff-fears-elon-musk-says-work-will-be-optional-in-the-future/articleshow/129867491.cms",
+        "title": "Marc Andreessen dismisses AI layoff fears; Elon Musk says work will be optional in the future",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/marc-andreessen-dismisses-ai-layoff-fears-elon-musk-says-work-will-be-optional-in-the-future/articleshow/129867491.cms",
+        "published": "Sat, 28 Mar 2026 21:08:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI layoffs: Referencing the Lump of Labor Fallacy, Andreessen argued that fears of AI-driven job scarcity are rooted in a flawed assumption that the amount of work in an economy is fixed. In reality, he said, productivity gains from technologies have expanded economic output and led to job creation in other areas."
     }
 ]
