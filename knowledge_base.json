@@ -168678,5 +168678,21 @@
         "published": "Sat, 28 Mar 2026 01:30:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we feature highlights from the permanent exhibition at MAP in Bengaluru."
+    },
+    {
+        "id": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
+        "title": "The bee that everyone wants to save",
+        "link": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
+        "published": "Wed, 25 Mar 2026 17:35:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47520599\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/rbi-slaps-penalty-on-pine-labs-for-violating-ppi-guidelines/",
+        "title": "RBI Slaps Penalty On Pine Labs For Violating PPI Guidelines",
+        "link": "https://inc42.com/buzz/rbi-slaps-penalty-on-pine-labs-for-violating-ppi-guidelines/",
+        "published": "Sat, 28 Mar 2026 06:24:48 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"RBI Slaps Penalty On Pine Labs For Violating PPI Guidelines\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/11/Pine-Labs-IPO-Feature.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The RBI has imposed a penalty of \u20b93.1 Lakh on fintech major Pine Labs for failing to comply with guidelines&#8230;"
     }
 ]
