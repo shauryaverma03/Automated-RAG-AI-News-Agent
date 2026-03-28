@@ -168542,5 +168542,37 @@
         "published": "Fri, 27 Mar 2026 21:43:00 +0000",
         "source": "Ars Technica - All content",
         "summary": "Raw Farm denies link to illnesses while patients keep identifying its products."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+        "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+        "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+        "published": "Fri, 27 Mar 2026 23:59:40 +0000",
+        "source": "TechCrunch",
+        "summary": "The deal would effectively double the company's $5.6 billion valuation in just four months."
+    },
+    {
+        "id": "https://cursor.com/blog/real-time-rl-for-composer",
+        "title": "Improving Composer through real-time RL",
+        "link": "https://cursor.com/blog/real-time-rl-for-composer",
+        "published": "Thu, 26 Mar 2026 16:48:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47532770\">Comments</a>"
+    },
+    {
+        "id": "https://twitchroulette.net/",
+        "title": "Show HN: Twitch Roulette \u2013 Find live streamers who need views the most",
+        "link": "https://twitchroulette.net/",
+        "published": "Fri, 27 Mar 2026 22:22:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47549160\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/advanced-economies-drive-surge-in-india-remittances/articleshow/129851419.cms",
+        "title": "Advanced economies drive surge in India remittances",
+        "link": "https://economictimes.indiatimes.com/tech/technology/advanced-economies-drive-surge-in-india-remittances/articleshow/129851419.cms",
+        "published": "Sat, 28 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "This diversification has reduced dependence on any single region and enhanced financial resilience."
     }
 ]
