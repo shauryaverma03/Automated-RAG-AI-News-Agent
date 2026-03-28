@@ -169206,5 +169206,37 @@
         "published": "Sat, 28 Mar 2026 21:08:55 +0530",
         "source": "Tech-Economic Times",
         "summary": "AI layoffs: Referencing the Lump of Labor Fallacy, Andreessen argued that fears of AI-driven job scarcity are rooted in a flawed assumption that the amount of work in an economy is fixed. In reality, he said, productivity gains from technologies have expanded economic output and led to job creation in other areas."
+    },
+    {
+        "id": "https://www.engadget.com/wearables/metas-next-ai-glasses-are-reportedly-designed-with-prescription-lenses-in-mind-162730768.html?src=rss",
+        "title": "Meta's next AI glasses are reportedly designed with prescription lenses in mind",
+        "link": "https://www.engadget.com/wearables/metas-next-ai-glasses-are-reportedly-designed-with-prescription-lenses-in-mind-162730768.html?src=rss",
+        "published": "Sat, 28 Mar 2026 16:27:30 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Two new models of Meta Ray-Ban AI glasses are on the way, and they're going to be catered towards those who use prescription lenses, according to a <a class=\"no-affiliate-link\" href=\"https://www.bloomberg.com/news/articles/2026-03-27/meta-to-launch-new-ai-glasses-aimed-at-prescription-wearers\"><em>Bloomberg</em></a> report. While these are supposed to be announced next week, <em>Bloomberg</em> noted that these won't be a \"new generation\" of Meta's smart glasses.</p>\n<p>You can already add pre"
+    },
+    {
+        "id": "https://breezepdf.com/?v=2",
+        "title": "Show HN: Free, in-browser PDF editor",
+        "link": "https://breezepdf.com/?v=2",
+        "published": "Sat, 28 Mar 2026 15:44:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47555636\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/what-is-agent-smith-googles-internal-ai-tool-for-operations-that-helps-engineers-code/articleshow/129868907.cms",
+        "title": "What is Agent Smith? Google\u2019s internal AI tool for operations that helps engineers code",
+        "link": "https://economictimes.indiatimes.com/tech/technology/what-is-agent-smith-googles-internal-ai-tool-for-operations-that-helps-engineers-code/articleshow/129868907.cms",
+        "published": "Sat, 28 Mar 2026 22:29:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Agent Smith by Google: Unlike conventional AI coding assistants, the system is capable of planning and executing workflows autonomously, marking a shift toward more independent AI agents. Agent Smith can reference internal documents and access employee profiles to complete assigned tasks. It is built on Google\u2019s earlier platform, Antigravity, but offers significantly greater autonomy and workflow integration."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-is-agent-smith-googles-internal-ai-tool-for-operations-that-helps-engineers-code/articleshow/129868893.cms",
+        "title": "What is Agent Smith? Google\u2019s internal AI tool for operations that helps engineers code",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-is-agent-smith-googles-internal-ai-tool-for-operations-that-helps-engineers-code/articleshow/129868893.cms",
+        "published": "Sat, 28 Mar 2026 22:29:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Agent Smith by Google: Unlike conventional AI coding assistants, the system is capable of planning and executing workflows autonomously, marking a shift toward more independent AI agents. Agent Smith can reference internal documents and access employee profiles to complete assigned tasks. It is built on Google\u2019s earlier platform, Antigravity, but offers significantly greater autonomy and workflow integration."
     }
 ]
