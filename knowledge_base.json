@@ -169238,5 +169238,37 @@
         "published": "Sat, 28 Mar 2026 22:29:19 +0530",
         "source": "Tech-Economic Times",
         "summary": "Agent Smith by Google: Unlike conventional AI coding assistants, the system is capable of planning and executing workflows autonomously, marking a shift toward more independent AI agents. Agent Smith can reference internal documents and access employee profiles to complete assigned tasks. It is built on Google\u2019s earlier platform, Antigravity, but offers significantly greater autonomy and workflow integration."
+    },
+    {
+        "id": "https://www.engadget.com/apps/the-white-house-app-is-just-as-weird-and-unnecessary-as-youd-expect-175354004.html?src=rss",
+        "title": "The White House app is just as weird and unnecessary as you'd expect",
+        "link": "https://www.engadget.com/apps/the-white-house-app-is-just-as-weird-and-unnecessary-as-youd-expect-175354004.html?src=rss",
+        "published": "Sat, 28 Mar 2026 17:53:54 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>President Donald Trump may have a tendency to put his name on everything, but his administration decided to go with the more authoritative <a class=\"no-affiliate-link\" href=\"https://www.whitehouse.gov/releases/2026/03/new-white-house-app-delivers-unparalleled-access-to-the-trump-administration/\">The White House App</a> for his latest pursuit. Now available on the App Store and Google Play store, the official White House App claims to gives Americans \"a direct line to the White House.\"</p>\n<p>"
+    },
+    {
+        "id": "https://sytse.com/cancer/",
+        "title": "Founder of GitLab battles cancer by founding companies",
+        "link": "https://sytse.com/cancer/",
+        "published": "Sat, 28 Mar 2026 17:39:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47556729\">Comments</a>"
+    },
+    {
+        "id": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+        "title": "Linux is an interpreter",
+        "link": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+        "published": "Sat, 28 Mar 2026 16:59:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47556359\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/musks-xai-sees-exit-of-last-cofounder-ross-nordeen-report/articleshow/129869258.cms",
+        "title": "Musk\u2019s xAI sees exit of last cofounder Ross Nordeen: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/musks-xai-sees-exit-of-last-cofounder-ross-nordeen-report/articleshow/129869258.cms",
+        "published": "Sat, 28 Mar 2026 22:49:44 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Elon Musk\u2019s AI startup xAI has seen the departure of its remaining two cofounders, Manuel Kroiss and Ross Nordeen, according to a report by Business Insider on Friday. The exits follow the earlier departures of cofounders Zihang Dai and Guodong Zhang, who left the company earlier this month after a reported conflict with Musk. With the exit of the last remaining cofounder, Ross Nordeen, all eleven cofounders have now exited the company."
     }
 ]
