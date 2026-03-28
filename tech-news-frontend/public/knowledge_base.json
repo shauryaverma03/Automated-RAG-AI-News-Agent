@@ -169318,5 +169318,21 @@
         "published": "Sat, 28 Mar 2026 10:39:46 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Info Edge joins the growing list of investors who are keen to back deeptech startups in India."
+    },
+    {
+        "id": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+        "title": "I decompiled the White House's new app",
+        "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+        "published": "Sat, 28 Mar 2026 15:37:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47555556\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-27-2026",
+        "title": "Startup news and updates: Daily roundup (March 27, 2026)",
+        "link": "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-27-2026",
+        "published": "Fri, 27 Mar 2026 15:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, March 27, 2026."
     }
 ]
