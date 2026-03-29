@@ -169518,5 +169518,53 @@
         "published": "Sun, 29 Mar 2026 14:29:45 +0530",
         "source": "Tech-Economic Times",
         "summary": "The research has found that leading AI models like ChatGPT, Claude, Gemini, and DeepSeek often agree with users, even when they are wrong or endorsing harmful actions. Though this behaviour boosts trust and engagement from the users, it could erode accountability and weaken users\u2019 willingness to reconsider their actions."
+    },
+    {
+        "id": "https://www.wired.com/story/the-deceptively-tricky-art-of-designing-a-steering-wheel/",
+        "title": "The Deceptively Tricky Art of Designing a Steering Wheel",
+        "link": "https://www.wired.com/story/the-deceptively-tricky-art-of-designing-a-steering-wheel/",
+        "published": "Sun, 29 Mar 2026 10:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Veteran designers in the auto industry\u2014and Jony Ive\u2014tell us how hard it is to make a functional yet beautiful steering wheel."
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-heart-rate-monitors/",
+        "title": "Best Heart Rate Monitors (2026): Polar, Coros, Garmin",
+        "link": "https://www.wired.com/gallery/best-heart-rate-monitors/",
+        "published": "Sun, 29 Mar 2026 09:30:00 +0000",
+        "source": "WIRED",
+        "summary": "These chest straps and watches will help you keep your finger on your pulse\u2014and many other heart-related metrics."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-expects-initial-rollout-of-gpu-based-helios-platform-in-india-in-h2-2026/articleshow/129878247.cms",
+        "title": "AMD expects initial rollout of GPU-based Helios platform in India in H2 2026",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-expects-initial-rollout-of-gpu-based-helios-platform-in-india-in-h2-2026/articleshow/129878247.cms",
+        "published": "Sun, 29 Mar 2026 14:48:17 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AMD's new Helios GPU platform will start rolling out globally, including India, in the second half of 2026. This move aims to meet the growing demand for Artificial Intelligence and support the expansion of data centers. AMD is partnering with TCS to build AI-ready infrastructure."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/snabbit-clocks-1-million-orders-in-march-as-demand-for-instant-help-services-picks-up/articleshow/129878229.cms",
+        "title": "Snabbit clocks 1 million orders in March as demand for instant help services picks up",
+        "link": "https://economictimes.indiatimes.com/tech/technology/snabbit-clocks-1-million-orders-in-march-as-demand-for-instant-help-services-picks-up/articleshow/129878229.cms",
+        "published": "Sun, 29 Mar 2026 14:44:54 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In December, the Bengaluru-based on-demand home help startup reported 500,000 orders, which rose to 830,000 in February, driven by stronger demand in existing markets. This comes after Urban Company\u2019s quick service vertical, InstaHelp, surpassed one million monthly delivered bookings in March, and rival Pronto, in February, witnessed over 15,000 orders per day within 10 months of launch."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/a-home-for-vrindavans-forgotten-widows",
+        "title": "A home for Vrindavan's forgotten widows; Bellatrix Aerospace secures $20M",
+        "link": "https://yourstory.com/2026/03/a-home-for-vrindavans-forgotten-widows",
+        "published": "Sun, 29 Mar 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Winnie Singh, the co-founder and director of Maitri Ghar Vidhwa Ashram, has been working to restore dignity and stability to widows in Vrindavan."
+    },
+    {
+        "id": "https://inc42.com/features/the-control-layer-why-agentic-ai-frameworks-are-the-next-big-thing/",
+        "title": "The Control Layer Of AI: Why Agentic AI Stacks Are The Next Big Thing",
+        "link": "https://inc42.com/features/the-control-layer-why-agentic-ai-frameworks-are-the-next-big-thing/",
+        "published": "Sun, 29 Mar 2026 10:09:55 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"The Control Layer: Why Agentic AI Frameworks Are The Next Big Thing\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/ftr-7-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />During the recently concluded NVIDIA GTC 2026 event, the chip giant announced NeMoClaw. Built on OpenClaw, the blockbuster agentic AI&#8230;"
     }
 ]
