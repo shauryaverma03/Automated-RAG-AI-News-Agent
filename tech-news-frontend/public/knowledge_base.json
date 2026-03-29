@@ -169374,5 +169374,45 @@
         "published": "Sat, 28 Mar 2026 23:00:00 +0000",
         "source": "TechCrunch",
         "summary": "Bluesky\u2019s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto."
+    },
+    {
+        "id": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+        "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+        "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+        "published": "Sat, 28 Mar 2026 23:29:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47558997\">Comments</a>"
+    },
+    {
+        "id": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+        "title": "OpenBSD on Motorola 88000 Processors",
+        "link": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+        "published": "Fri, 27 Mar 2026 14:39:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47543186\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/5-reasons-you-should-be-more-tight-lipped-with-your-chatbot/",
+        "title": "5 reasons you should be more tight-lipped with your chatbot (and how to fix past mistakes)",
+        "link": "https://www.zdnet.com/article/5-reasons-you-should-be-more-tight-lipped-with-your-chatbot/",
+        "published": "Sun, 29 Mar 2026 01:00:37 GMT",
+        "source": "Latest news",
+        "summary": "Your casual conversations with AI chatbots could have some major privacy implications."
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-galaxy-buds-4-pro-vs-bose-quietcomfort-ultra-2/",
+        "title": "Samsung Galaxy Buds 4 Pro vs. Bose QuietComfort Ultra 2: I tested both, and here's the winner",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-buds-4-pro-vs-bose-quietcomfort-ultra-2/",
+        "published": "Sun, 29 Mar 2026 00:01:26 GMT",
+        "source": "Latest news",
+        "summary": "The new Samsung earbuds compete with the flagship Bose QuietComfort Ultra Earbuds 2. Here's how they stack up."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/fuel-volatility-accelerates-ev-leap-in-last-mile-delivery-for-ecommerce-logistics-firms/articleshow/129870499.cms",
+        "title": "Fuel volatility accelerates EV leap in last mile delivery for ecommerce, logistics firms",
+        "link": "https://economictimes.indiatimes.com/tech/technology/fuel-volatility-accelerates-ev-leap-in-last-mile-delivery-for-ecommerce-logistics-firms/articleshow/129870499.cms",
+        "published": "Sun, 29 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ecommerce and logistics companies are accelerating the shift to electric vehicles (EVs) for last-mile deliveries, driven not just by sustainability goals but also by rising costs and supply risks. While EV adoption was already gaining momentum at companies such as Flipkart, Delhivery and Porter, fuel price volatility linked to global conflicts is hastening the transition, executives at bigbasket, Zippee and Dealshare said."
     }
 ]
