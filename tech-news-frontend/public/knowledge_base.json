@@ -169982,5 +169982,21 @@
         "published": "Sun, 29 Mar 2026 20:00:02 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47566653\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+        "title": "The Pixel 10a doesn\u2019t have a camera bump, and it\u2019s great",
+        "link": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+        "published": "Sun, 29 Mar 2026 21:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+        "title": "Bluesky\u2019s new app is an AI for customizing your feed",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+        "published": "2026-03-29T17:44:41-04:00",
+        "source": "The Verge",
+        "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]"
     }
 ]
