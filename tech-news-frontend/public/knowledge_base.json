@@ -169614,5 +169614,53 @@
         "published": "Sun, 29 Mar 2026 11:00:37 GMT",
         "source": "Latest news",
         "summary": "If you're curious about bone conduction technology, the H2O Audio Tri Run is a solid entry-level pair."
+    },
+    {
+        "id": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
+        "title": "Apple\u2019s long, bitter App Store antitrust war",
+        "link": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
+        "published": "2026-03-29T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal travails of Big Tech, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The year was 1998, and reigning personal computer [&#8230;]"
+    },
+    {
+        "id": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+        "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+        "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+        "published": "Sun, 29 Mar 2026 09:46:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47561711\">Comments</a>"
+    },
+    {
+        "id": "https://sheetninja.io",
+        "title": "Show HN: Sheet Ninja \u2013 Google Sheets as a CRUD Back End for Vibe Coders",
+        "link": "https://sheetninja.io",
+        "published": "Sun, 29 Mar 2026 11:42:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47562288\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/austin-weeks/miasma",
+        "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+        "link": "https://github.com/austin-weeks/miasma",
+        "published": "Sun, 29 Mar 2026 10:10:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47561819\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/metas-longtime-content-policy-chief-bickert-leaving-to-teach-at-harvard/articleshow/129879769.cms",
+        "title": "Meta's longtime content policy chief Bickert leaving to teach at Harvard",
+        "link": "https://economictimes.indiatimes.com/tech/technology/metas-longtime-content-policy-chief-bickert-leaving-to-teach-at-harvard/articleshow/129879769.cms",
+        "published": "Sun, 29 Mar 2026 16:55:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Bickert will \u200bstay at Meta until August and work on a transition \u200bplan with Kevin Martin, who oversees Meta's global policy team, she wrote in an \u200binternal post viewed by Reuters \u2060on Friday, \u200cwhich said she had long \u200bbeen \u200binterested in teaching."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eli-lilly-to-sign-2-billion-deal-for-ai-drug-development-with-hong-kongs-insilico-medicine-report/articleshow/129879620.cms",
+        "title": "Eli Lilly to sign $2 billion deal for AI drug development with Hong Kong's Insilico Medicine: Report",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eli-lilly-to-sign-2-billion-deal-for-ai-drug-development-with-hong-kongs-insilico-medicine-report/articleshow/129879620.cms",
+        "published": "Sun, 29 Mar 2026 16:47:17 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Lilly \u200cwill \u200bacquire \u200bexclusive \u2060rights to sell a \u200bGLP-1 drug for diabetes \u200bfrom Insilico Medicine, the FT \u200creport said, citing sources familiar \u200bwith \u200bthe \u2060matter."
     }
 ]
