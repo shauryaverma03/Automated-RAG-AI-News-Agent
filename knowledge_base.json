@@ -169998,5 +169998,13 @@
         "published": "2026-03-29T17:44:41-04:00",
         "source": "The Verge",
         "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]"
+    },
+    {
+        "id": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+        "title": "Coding Agents Could Make Free Software Matter Again",
+        "link": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+        "published": "Sun, 29 Mar 2026 22:21:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47568028\">Comments</a>"
     }
 ]
