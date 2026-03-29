@@ -169782,5 +169782,45 @@
         "published": "Sun, 29 Mar 2026 14:33:01 GMT",
         "source": "Latest news",
         "summary": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals during Amazon's Big Spring Sale."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+        "title": "TechCrunch Mobility: When a robotaxi has to call 911",
+        "link": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+        "published": "Sun, 29 Mar 2026 16:05:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation."
+    },
+    {
+        "id": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
+        "title": "Say No to Palantir in Europe",
+        "link": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
+        "published": "Sun, 29 Mar 2026 14:51:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47563655\">Comments</a>"
+    },
+    {
+        "id": "https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/",
+        "title": "Stop Publishing Garbage Data, It's Embarrassing",
+        "link": "https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/",
+        "published": "Sun, 29 Mar 2026 15:54:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47564246\">Comments</a>"
+    },
+    {
+        "id": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+        "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+        "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+        "published": "Sun, 29 Mar 2026 14:20:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47563384\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sarvam-ais-new-vertical-chanakya-to-address-problems-of-national-consequence/articleshow/129882533.cms",
+        "title": "Sarvam AI's new vertical 'Chanakya' to address problems of 'national consequence'",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sarvam-ais-new-vertical-chanakya-to-address-problems-of-national-consequence/articleshow/129882533.cms",
+        "published": "Sun, 29 Mar 2026 20:24:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In a post on X, the company said it has spent the past year quietly building full-stack AI for `problems of national consequence and complex enterprises,' and is now expanding the effort into a dedicated vertical."
     }
 ]
