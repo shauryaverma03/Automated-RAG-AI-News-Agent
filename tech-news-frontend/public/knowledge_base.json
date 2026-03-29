@@ -169494,5 +169494,29 @@
         "published": "Sun, 29 Mar 2026 02:05:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 225th quiz. Ready?"
+    },
+    {
+        "id": "https://www.wired.com/story/the-amazon-spring-sale-2026-2/",
+        "title": "These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
+        "link": "https://www.wired.com/story/the-amazon-spring-sale-2026-2/",
+        "published": "Sun, 29 Mar 2026 09:03:00 +0000",
+        "source": "WIRED",
+        "summary": "This sale spans almost an entire week, and it\u2019s full of fake \u201cdeals.\u201d We hunted to find truly good prices on gear we\u2019ve tested."
+    },
+    {
+        "id": "https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really",
+        "title": "When Do We Become Adults, Really?",
+        "link": "https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really",
+        "published": "Thu, 26 Mar 2026 03:54:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47526471\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/stanford-study-flags-ai-chatbots-validating-users-harmful-actions/articleshow/129878080.cms",
+        "title": "Stanford study flags AI chatbots validating users\u2019 harmful actions",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/stanford-study-flags-ai-chatbots-validating-users-harmful-actions/articleshow/129878080.cms",
+        "published": "Sun, 29 Mar 2026 14:29:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The research has found that leading AI models like ChatGPT, Claude, Gemini, and DeepSeek often agree with users, even when they are wrong or endorsing harmful actions. Though this behaviour boosts trust and engagement from the users, it could erode accountability and weaken users\u2019 willingness to reconsider their actions."
     }
 ]
