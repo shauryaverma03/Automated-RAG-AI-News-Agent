@@ -169854,5 +169854,53 @@
         "published": "Sun, 29 Mar 2026 16:12:22 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47564421\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/the-avatar-fighting-game-will-release-on-july-2-for-pc-and-consoles-174614552.html?src=rss",
+        "title": "The Avatar fighting game will release on July 2 for PC and consoles",
+        "link": "https://www.engadget.com/gaming/the-avatar-fighting-game-will-release-on-july-2-for-pc-and-consoles-174614552.html?src=rss",
+        "published": "Sun, 29 Mar 2026 17:46:14 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The fighting game community is going to have their hands full this summer between the release of <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/gaming/marvel-tokon-fighting-souls-lands-on-ps5-and-pc-august-6-with-x-men-in-tow-095235773.html\"><em>Marvel T\u014dkon: Fighting Souls</em></a> and <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/gaming/an-avatar-fighting-game-is-coming-out-in-summer-2026-191008728.html\"><em>Avatar Legends: The Fighting Game</em></a>. The studio b"
+    },
+    {
+        "id": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
+        "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
+        "link": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
+        "published": "Thu, 26 Mar 2026 15:17:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47531576\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/chenglou/pretext",
+        "title": "Pretext: TypeScript library for multiline text measurement and layout",
+        "link": "https://github.com/chenglou/pretext",
+        "published": "Sat, 28 Mar 2026 16:52:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47556290\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/DavidHavoc/ayaFlow",
+        "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+        "link": "https://github.com/DavidHavoc/ayaFlow",
+        "published": "Sun, 29 Mar 2026 15:28:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47563978\">Comments</a>"
+    },
+    {
+        "id": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+        "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+        "link": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+        "published": "Sun, 29 Mar 2026 17:46:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47565365\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/wto-mc-members-intensify-talks-on-ecommerce-duty-moratorium-extension-at-yaounde/articleshow/129885946.cms",
+        "title": "WTO MC: Members intensify talks on ecommerce duty moratorium extension at Yaounde",
+        "link": "https://economictimes.indiatimes.com/tech/technology/wto-mc-members-intensify-talks-on-ecommerce-duty-moratorium-extension-at-yaounde/articleshow/129885946.cms",
+        "published": "Sun, 29 Mar 2026 23:51:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "While some countries oppose an extension or favour a two-year period, the US is pushing for a longer duration."
     }
 ]
