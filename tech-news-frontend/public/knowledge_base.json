@@ -171438,5 +171438,37 @@
         "published": "Mon, 30 Mar 2026 22:01:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Struggling with discipline? These four powerful books offer practical ways to build habits, stay consistent, and take control of your focus."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+        "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+        "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+        "published": "Mon, 30 Mar 2026 23:08:12 +0000",
+        "source": "TechCrunch",
+        "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/",
+        "title": "Water utility announces it's ditching fluoride\u2014then reveals it did so years ago",
+        "link": "https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/",
+        "published": "Mon, 30 Mar 2026 22:32:34 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The water utility highlighted unsubstantiated health concerns."
+    },
+    {
+        "id": "https://30u30.fyi",
+        "title": "Show HN: 30u30.fyi \u2013 Is your startup founder on Forbes' most fraudulent list?",
+        "link": "https://30u30.fyi",
+        "published": "Mon, 30 Mar 2026 22:10:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47580350\">Comments</a>"
+    },
+    {
+        "id": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+        "title": "Android Developer Verification",
+        "link": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+        "published": "Mon, 30 Mar 2026 22:05:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47580297\">Comments</a>"
     }
 ]
