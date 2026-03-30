@@ -170006,5 +170006,61 @@
         "published": "Sun, 29 Mar 2026 22:21:34 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47568028\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/anthropics/claude-code/issues/40710",
+        "title": "Claude Code runs Git reset \u2013hard origin/main against project repo every 10 mins",
+        "link": "https://github.com/anthropics/claude-code/issues/40710",
+        "published": "Sun, 29 Mar 2026 22:15:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47567969\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/dreddnafious/thereisnospoon",
+        "title": "There is No Spoon. A software engineers primer for demystified ML",
+        "link": "https://github.com/dreddnafious/thereisnospoon",
+        "published": "Sun, 29 Mar 2026 22:28:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47568080\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-galaxy-buds-4-pro-vs-galaxy-buds-3-pro/",
+        "title": "Samsung Galaxy Buds 4 Pro vs. Galaxy Buds 3 Pro: I tried both - here's who should upgrade",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-buds-4-pro-vs-galaxy-buds-3-pro/",
+        "published": "Mon, 30 Mar 2026 00:00:39 GMT",
+        "source": "Latest news",
+        "summary": "The Samsung Galaxy Buds 4 Pro are a solid upgrade over the Buds 3 Pro. But you should still know what you're getting before picking the newer pair."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-gaining-fast-from-china-plus-one-trend-prologis-executive/articleshow/129885037.cms",
+        "title": "India gaining fast from \u2018China plus one\u2019 trend: Prologis executive",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-gaining-fast-from-china-plus-one-trend-prologis-executive/articleshow/129885037.cms",
+        "published": "Mon, 30 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Global companies are diversifying supply chains, benefiting India, Vineet Sekhsaria, India head at Prologis, told ET. Manufacturing regions like Chennai are seeing rising demand for modern logistics infrastructure. Prologis is expanding its presence in Tamil Nadu, investing significantly in new logistics and industrial parks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/indian-startups-turn-to-small-languages-models-to-solve-for-efficiency-privacy-cost/articleshow/129884791.cms",
+        "title": "Indian startups turn to small languages models to solve for efficiency, privacy, cost",
+        "link": "https://economictimes.indiatimes.com/tech/startups/indian-startups-turn-to-small-languages-models-to-solve-for-efficiency-privacy-cost/articleshow/129884791.cms",
+        "published": "Mon, 30 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian startups are shifting to smaller AI models. This move addresses high cloud costs, patchy internet, and new data privacy laws. These compact models offer better sector-specific performance and data protection. Companies in fintech, healthtech, and legaltech are benefiting. This strategy ensures data stays local and costs remain manageable. It's a smart adaptation for India's unique digital landscape."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/b2b-firm-zetwerk-eyes-rs-500-crore-pre-ipo-round-at-3-billion-valuation/articleshow/129884720.cms",
+        "title": "B2B firm Zetwerk eyes Rs 500 crore pre-IPO round at $3 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/startups/b2b-firm-zetwerk-eyes-rs-500-crore-pre-ipo-round-at-3-billion-valuation/articleshow/129884720.cms",
+        "published": "Mon, 30 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Manufacturing marketplace Zetwerk is in discussions to raise approximately Rs 500 crore in pre-IPO funding from Bharat Value Fund and HNIs, valuing the company at Rs 25,000-26,000 crore. The company is also preparing to confidentially file draft IPO papers with Sebi for a public issue expected to be around Rs 5,000 crore."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/war-singes-ecommerce-quick-commerce-supply-chains-as-input-costs-rise/articleshow/129884533.cms",
+        "title": "War singes ecommerce, quick commerce supply chains as input costs rise",
+        "link": "https://economictimes.indiatimes.com/tech/technology/war-singes-ecommerce-quick-commerce-supply-chains-as-input-costs-rise/articleshow/129884533.cms",
+        "published": "Mon, 30 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The first signs of stress, according to industry executives, are visible in packaging costs and inventory movement and fulfilment cycles, particularly for quick commerce platforms that depend on high-frequency restocking. Demand-side pressures could emerge if fuel prices rise sharply, they said."
     }
 ]
