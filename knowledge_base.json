@@ -171470,5 +171470,101 @@
         "published": "Mon, 30 Mar 2026 22:05:21 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47580297\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+        "title": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
+        "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+        "published": "Mon, 30 Mar 2026 23:41:48 +0000",
+        "source": "TechCrunch",
+        "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules."
+    },
+    {
+        "id": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
+        "title": "150 million users later, Roblox competitor Rec Room is shutting down",
+        "link": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
+        "published": "2026-03-30T20:29:33-04:00",
+        "source": "The Verge",
+        "summary": "Rec Room, a Roblox-like social gaming platform that lets users create games and experiences for others to play, is shutting down on June 1st. Despite reaching more than 150 million players and creators and, at one point, being valued at $3.5 billion, the company says in a blog post that \"we never quite figured out [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals",
+        "title": "Here are our favorite spring cleaning deals from Amazon\u2019s Big Spring Sale",
+        "link": "https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals",
+        "published": "2026-03-30T19:28:48-04:00",
+        "source": "The Verge",
+        "summary": "Amazon\u2019s Big Spring Sale is underway, so naturally, a lot of the deals are geared toward the season, including plenty of gadgets to help with spring cleaning. We\u2019ve already rounded up a selection of great robot vacuum deals, but they\u2019re just one part of a much broader swath of Verge-approved tools that can make tidying [&#8230;]"
+    },
+    {
+        "id": "https://www.zdnet.com/article/desktop-pc-m2-slots-how-to-use-them-fully/",
+        "title": "Don't ignore your desktop PC's empty M.2 slots - they're more useful than you think",
+        "link": "https://www.zdnet.com/article/desktop-pc-m2-slots-how-to-use-them-fully/",
+        "published": "Tue, 31 Mar 2026 01:00:59 GMT",
+        "source": "Latest news",
+        "summary": "M.2 slots aren't just for storage; you can get more use out of your desktop with some initial investment."
+    },
+    {
+        "id": "https://www.zdnet.com/article/pok-audio-atrium-5-review/",
+        "title": "I replaced my outdoor Bluetooth speakers with a wired audio system, and don't regret it",
+        "link": "https://www.zdnet.com/article/pok-audio-atrium-5-review/",
+        "published": "Tue, 31 Mar 2026 00:17:00 GMT",
+        "source": "Latest news",
+        "summary": "Review: The Polk Audio Atrium 5 speakers pair a sleek, minimalist design with full weatherproofing, delivering crisp, dynamic sound."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/quick-commerce-restaurant-chains-firing-offers-to-cash-in-on-ipl/articleshow/129909551.cms",
+        "title": "Quick commerce, restaurant chains firing offers to cash in on IPL",
+        "link": "https://economictimes.indiatimes.com/tech/technology/quick-commerce-restaurant-chains-firing-offers-to-cash-in-on-ipl/articleshow/129909551.cms",
+        "published": "Tue, 31 Mar 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Amazon Now, Flipkart Minutes and Instamart this weekend launched \u2018match-ready\u2019 deals on food and beverages brands with discounts of over 40%, while cafes and chains have kick-started promotions to leverage the high-decibel tournament that started on Saturday."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dissenting-voices-against-ai-are-getting-louder/articleshow/129907947.cms",
+        "title": "Dissenting voices against AI are getting louder",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dissenting-voices-against-ai-are-getting-louder/articleshow/129907947.cms",
+        "published": "Tue, 31 Mar 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The call is to pause the development of AI systems since they pose significant risks, including existential threat. But Swathi Moorthy finds experts have a different take"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-burn-out-how-and-why-is-brain-fry-entering-the-lexicon-of-ai-coders/articleshow/129907832.cms",
+        "title": "The AI burn out: How and why is brain fry entering the lexicon of AI coders",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-burn-out-how-and-why-is-brain-fry-entering-the-lexicon-of-ai-coders/articleshow/129907832.cms",
+        "published": "Tue, 31 Mar 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Developers are experiencing burnout from intense AI coding sessions.  Tools like Claude Code and OpenAI's Codex are generating vast amounts of code, overwhelming even top engineers.  This 'brain fry' leads to mental fatigue and slower decision-making.  Some researchers have quit leading AI firms citing exhaustion.  Organizations are exploring strategies to mitigate this growing issue."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/early-stage-funding-value-ticks-up-46-but-numbers-decrease/articleshow/129907756.cms",
+        "title": "Early-stage funding value ticks up 46%, but numbers decrease",
+        "link": "https://economictimes.indiatimes.com/tech/funding/early-stage-funding-value-ticks-up-46-but-numbers-decrease/articleshow/129907756.cms",
+        "published": "Tue, 31 Mar 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Investments in startups across seed to series B stages have increased 46% in value terms in 2025-26, till March 27, compared to the previous financial year, despite a decrease in deals to 129 from 192 during this period, according to data sourced from business intelligence platform Tracxn."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/cyber-pirates-at-large-india-readies-moats/articleshow/129910291.cms",
+        "title": "Cyber pirates at large, India readies moats",
+        "link": "https://economictimes.indiatimes.com/tech/technology/cyber-pirates-at-large-india-readies-moats/articleshow/129910291.cms",
+        "published": "Tue, 31 Mar 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\u200b\u200bThe Indian Computer Emergency Response Team (CERT-In), Reserve Bank of India (RBI), Securities and Exchange Board of India (Sebi) and defence ministry have issued several advisories to energy utilities, telecom networks, banks and stock exchanges, telling them to strengthen protections against cyber espionage and hacktivist groups, said people with knowledge of the matter."
+    },
+    {
+        "id": "https://yourstory.com/2026/03/future-wealth-investments-launches-50m-vc-fund",
+        "title": "Future Wealth Investments launches $50M VC fund",
+        "link": "https://yourstory.com/2026/03/future-wealth-investments-launches-50m-vc-fund",
+        "published": "Tue, 31 Mar 2026 00:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The fund will focus on pre-seed to Series A investments with initial cheques ranging from $250,000 to $5 million. It also has a green shoe option of $10 million."
+    },
+    {
+        "id": "https://inc42.com/features/power-vacuum-kitchen-tech-startups-step-up-to-fill-indias-lpg-gap/",
+        "title": "Power Vacuum: \u2018Kitchen Tech\u2019 Startups Step Up To Fill India\u2019s LPG Gap",
+        "link": "https://inc42.com/features/power-vacuum-kitchen-tech-startups-step-up-to-fill-indias-lpg-gap/",
+        "published": "Tue, 31 Mar 2026 00:30:17 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Power Vacuum: &#039;Kitchen Tech&#039; Startups Step Up To Fill India\u2019s LPG Gap\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/ftr-18.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />India\u2019s kitchens rarely change overnight. For decades, the LPG cylinder has been more than just a utility, it has been&#8230;"
     }
 ]
