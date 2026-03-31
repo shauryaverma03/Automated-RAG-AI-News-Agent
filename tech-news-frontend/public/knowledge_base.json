@@ -173286,5 +173286,85 @@
         "published": "Tue, 31 Mar 2026 10:40:37 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Savings and wealth platform Bachatt will utilise this capital to expand its user base and come out with newer products."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+        "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+        "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+        "published": "Tue, 31 Mar 2026 21:25:04 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
+        "title": "It\u2019s not your imagination: AI seed startups are commanding higher valuations",
+        "link": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
+        "published": "Tue, 31 Mar 2026 21:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Among the most recent Y Combinator cohort, many startups were commanding $40 million valuations. But with more money comes higher expectations."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+        "title": "You can now use ChatGPT with Apple\u2019s CarPlay",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+        "published": "2026-03-31T17:03:18-04:00",
+        "source": "The Verge",
+        "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently-launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. When [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
+        "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
+        "link": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
+        "published": "Tue, 31 Mar 2026 21:25:12 +0000",
+        "source": "WIRED",
+        "summary": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran\u2019s Islamic Revolutionary Guard Corps."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
+        "title": "He-Man gets an origin story in Masters of the Universe trailer",
+        "link": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
+        "published": "Tue, 31 Mar 2026 20:26:39 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Skeletor took my family and he destroyed our world.\""
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/sweaty-glassy-eyed-tiger-woods-blames-cell-phone-use-for-his-car-crash/",
+        "title": "Sweaty, glassy-eyed Tiger Woods blames cell phone use for his car crash",
+        "link": "https://arstechnica.com/tech-policy/2026/03/sweaty-glassy-eyed-tiger-woods-blames-cell-phone-use-for-his-car-crash/",
+        "published": "Tue, 31 Mar 2026 20:00:20 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Cops arrest Woods after incident."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
+        "title": "It's a race against time to save Krypto in Supergirl trailer",
+        "link": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
+        "published": "Tue, 31 Mar 2026 19:50:50 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Have these villains not seen <em>John Wick</em>?"
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+        "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
+        "link": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+        "published": "Tue, 31 Mar 2026 19:09:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "512,000 lines of code that competitors and hobbyists will be studying for weeks."
+    },
+    {
+        "id": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "title": "OpenAI raises $122B",
+        "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "published": "Tue, 31 Mar 2026 20:07:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47592755\">Comments</a>"
+    },
+    {
+        "id": "https://ministack.org/",
+        "title": "Ministack (Replacement for LocalStack)",
+        "link": "https://ministack.org/",
+        "published": "Tue, 31 Mar 2026 20:48:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47593285\">Comments</a>"
     }
 ]
