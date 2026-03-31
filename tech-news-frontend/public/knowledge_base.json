@@ -173430,5 +173430,69 @@
         "published": "Tue, 31 Mar 2026 21:43:02 GMT",
         "source": "Latest news",
         "summary": "On the final day of Amazon's Spring Sale, grab the CMF by Nothing Watch Pro 3 for $69."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+        "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+        "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+        "published": "Tue, 31 Mar 2026 22:46:25 +0000",
+        "source": "TechCrunch",
+        "summary": "Slack just got a whole lot more useful."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals",
+        "title": "Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale",
+        "link": "https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals",
+        "published": "2026-03-31T19:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Amazon\u2019s Big Spring Sale may not have been as \u201cbig\u201d as Black Friday or even Prime Day, but depending on what you\u2019re after, the discounts are more appealing than you might think. Take charging accessories, for instance. Anker, Twelve South, Baseus, and others have sharply lowered the prices of some of our favorite add-ons, including [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+        "title": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+        "published": "2026-03-31T18:24:19-04:00",
+        "source": "The Verge",
+        "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/",
+        "title": "RFK Jr. wants Americans to use peptides that were banned over safety risks",
+        "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/",
+        "published": "Tue, 31 Mar 2026 21:51:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The FDA is reportedly planning to allow production of 14 previously banned peptides."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
+        "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
+        "link": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
+        "published": "Tue, 31 Mar 2026 21:28:15 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Satellite failure cause is unexplained after second \"fragment creation event.\""
+    },
+    {
+        "id": "https://scottlawsonbc.com/post/dot-system",
+        "title": "A dot a day keeps the clutter away",
+        "link": "https://scottlawsonbc.com/post/dot-system",
+        "published": "Tue, 31 Mar 2026 21:15:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47593556\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/kingston-fury-beast-ddr5-ram-deal-amazon-spring-sale-2026/",
+        "title": "This is the lowest price on a 64GB RAM kit I've seen in months",
+        "link": "https://www.zdnet.com/article/kingston-fury-beast-ddr5-ram-deal-amazon-spring-sale-2026/",
+        "published": "Tue, 31 Mar 2026 22:36:25 GMT",
+        "source": "Latest news",
+        "summary": "Gamers and PC builders have been feeling the squeeze as the RAM-pocalypse continues, but you can still save money during Amazon's Spring Sale, which ends tonight."
+    },
+    {
+        "id": "https://www.zdnet.com/article/shark-amazon-spring-sale-2026-deals-last-chance/",
+        "title": "These Shark Amazon Spring Sale deals are perfect for a spring refresh - but hurry",
+        "link": "https://www.zdnet.com/article/shark-amazon-spring-sale-2026-deals-last-chance/",
+        "published": "Tue, 31 Mar 2026 22:32:34 GMT",
+        "source": "Latest news",
+        "summary": "Amazon's Big Spring Sale ends today, but there's still plenty of savings from Shark (including hair tools, cleaning gear, and more) - but don't wait."
     }
 ]
