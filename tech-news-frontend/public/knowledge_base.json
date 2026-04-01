@@ -173494,5 +173494,85 @@
         "published": "Tue, 31 Mar 2026 22:32:34 GMT",
         "source": "Latest news",
         "summary": "Amazon's Big Spring Sale ends today, but there's still plenty of savings from Shark (including hair tools, cleaning gear, and more) - but don't wait."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
+        "title": "Toyota\u2019s Woven Capital appoints new CIO and COO in push for finding the \u2018future of mobility\u2019",
+        "link": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
+        "published": "Wed, 01 Apr 2026 01:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+        "title": "Anthropic is having a month",
+        "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+        "published": "Tue, 31 Mar 2026 23:58:26 +0000",
+        "source": "TechCrunch",
+        "summary": "A human really borks things at Anthropic for the second time this week."
+    },
+    {
+        "id": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
+        "title": "Apple Will Push Out Rare \u2018Backported\u2019 Patches to Protect iOS 18 Users From DarkSword Hacking Tool",
+        "link": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
+        "published": "Wed, 01 Apr 2026 00:49:08 +0000",
+        "source": "WIRED",
+        "summary": "As DarkSword spreads, Apple tells WIRED it will enable iOS 18-specific fixes for millions of iPhone owners who remain on that iOS version rather than force them to update to iOS 26."
+    },
+    {
+        "id": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
+        "title": "Running local models on Macs gets faster with Ollama's MLX support",
+        "link": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
+        "published": "Tue, 31 Mar 2026 23:00:23 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Apple Silicon Macs get a performance boost thanks to better unified memory usage."
+    },
+    {
+        "id": "https://arxiv.org/abs/2602.04118",
+        "title": "TinyLoRA \u2013 Learning to Reason in 13 Parameters",
+        "link": "https://arxiv.org/abs/2602.04118",
+        "published": "Fri, 27 Mar 2026 12:11:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47541733\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/h-1b-selection-rates-see-50-jump/articleshow/129934499.cms",
+        "title": "H-1B selection rates see 50% jump",
+        "link": "https://economictimes.indiatimes.com/tech/technology/h-1b-selection-rates-see-50-jump/articleshow/129934499.cms",
+        "published": "Wed, 01 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Companies, particularly in the technology sector, that seek to bring skilled foreign workers to the US filed fewer petitions for these non-immigrant visas this season due to high application fees and uncertainty amid an overhaul of the lottery system."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/iamai-sees-overreach-in-nhrcs-notice-to-ai-companies-on-dpdp-violations/articleshow/129934002.cms",
+        "title": "IAMAI sees \u2018overreach\u2019 in NHRC\u2019s notice to AI companies on DPDP violations",
+        "link": "https://economictimes.indiatimes.com/tech/technology/iamai-sees-overreach-in-nhrcs-notice-to-ai-companies-on-dpdp-violations/articleshow/129934002.cms",
+        "published": "Wed, 01 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Internet and Mobile Association of India (IAMAI) has written to the Ministry of Electronics and Information Technology (MeitY), voicing its concerns over the March 24 National Human Rights Commission (NHRC) notice that had alleged breaches of the Digital Personal Data Protection (DPDP) Act, 2023, by AI platforms."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ai-videos-whatsapp-networks-reshape-campaign-playbook-in-poll-bound-states/articleshow/129933839.cms",
+        "title": "AI videos, WhatsApp networks reshape campaign playbook in poll-bound states",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ai-videos-whatsapp-networks-reshape-campaign-playbook-in-poll-bound-states/articleshow/129933839.cms",
+        "published": "Wed, 01 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Political parties in India are increasingly using AI for election campaigns, generating digital humans and personalized content to reach voters. While AI accelerates content production and targeted outreach, its direct electoral impact is still considered limited, with human intelligence and traditional methods remaining crucial for strategy."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/cyber-resilience-turns-a-boardroom-priority-rubrik-cto-arvind-nithrakashyap/articleshow/129933696.cms",
+        "title": "Cyber resilience turns a boardroom priority: Rubrik CTO Arvind Nithrakashyap",
+        "link": "https://economictimes.indiatimes.com/tech/technology/cyber-resilience-turns-a-boardroom-priority-rubrik-cto-arvind-nithrakashyap/articleshow/129933696.cms",
+        "published": "Wed, 01 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Chennai-born Arvind Nithrakashyap believes Palo Alto-headquartered Rubrik is in the right spot to serve some of India\u2019s cybersecurity needs at a time of rapid digitisation. This means a lot of investments need to go into securing those networks and data sets, he noted."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/ai-looming-large-as-indian-startups-rack-up-10-billion-in-fy26/articleshow/129933418.cms",
+        "title": "AI looming large as Indian startups rack up $10 billion in FY26",
+        "link": "https://economictimes.indiatimes.com/tech/startups/ai-looming-large-as-indian-startups-rack-up-10-billion-in-fy26/articleshow/129933418.cms",
+        "published": "Wed, 01 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Artificial intelligence-led startups dominated investor interest, while consumer tech, fintech and healthcare continued to attract venture capital flows during the year. Experts said investments in AI would further accelerate over the next year. Data showed that the first quarter of FY26 saw investments of $2.4 billion across startups, which rose to about $2.6 billion each in the next two quarters."
     }
 ]
