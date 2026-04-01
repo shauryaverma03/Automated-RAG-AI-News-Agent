@@ -175182,5 +175182,29 @@
         "published": "Wed, 01 Apr 2026 17:34:16 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47603966\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "title": "Anthropic took down thousands of Github repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+        "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "published": "Wed, 01 Apr 2026 22:12:13 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices."
+    },
+    {
+        "id": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+        "title": "DRAM pricing is killing the hobbyist SBC market",
+        "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+        "published": "Wed, 01 Apr 2026 21:36:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47606840\">Comments</a>"
+    },
+    {
+        "id": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
+        "title": "Swappa.com for GrapheneOS compatible devices \u2013 Stay Away",
+        "link": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
+        "published": "Wed, 01 Apr 2026 21:59:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47607067\">Comments</a>"
     }
 ]
