@@ -173574,5 +173574,125 @@
         "published": "Wed, 01 Apr 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Artificial intelligence-led startups dominated investor interest, while consumer tech, fintech and healthcare continued to attract venture capital flows during the year. Experts said investments in AI would further accelerate over the next year. Data showed that the first quarter of FY26 saw investments of $2.4 billion across startups, which rose to about $2.6 billion each in the next two quarters."
+    },
+    {
+        "id": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+        "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+        "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+        "published": "Wed, 01 Apr 2026 01:42:59 +0000",
+        "source": "TechCrunch",
+        "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems."
+    },
+    {
+        "id": "https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/",
+        "title": "Robotaxi Outage in China Leaves Passengers Stranded on Highways",
+        "link": "https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/",
+        "published": "Wed, 01 Apr 2026 01:24:55 +0000",
+        "source": "WIRED",
+        "summary": "A suspected system failure froze Baidu\u2019s robotaxis across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
+        "title": "NASA is leading the way to the Moon, but the military won't be far behind",
+        "link": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
+        "published": "Wed, 01 Apr 2026 01:36:50 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"I just don't want to get caught flat-footed when we start to have to protect US interests out there.\""
+    },
+    {
+        "id": "https://neuberg.ai/",
+        "title": "I built a 516-panel financial terminal in 3 weeks using AI",
+        "link": "https://neuberg.ai/",
+        "published": "Wed, 01 Apr 2026 04:00:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47596654\">Comments</a>"
+    },
+    {
+        "id": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+        "title": "Neanderthals survived on a knife's edge for 350k years",
+        "link": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+        "published": "Wed, 01 Apr 2026 01:12:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47595572\">Comments</a>"
+    },
+    {
+        "id": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+        "title": "Analyzing Geekbench 6 under Intel's BOT",
+        "link": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+        "published": "Wed, 01 Apr 2026 03:27:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47596457\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/windows-reserved-storage-setting-turn-off-and-why/",
+        "title": "Windows might be hiding some of your PC's storage by default - here's how to reclaim it",
+        "link": "https://www.zdnet.com/article/windows-reserved-storage-setting-turn-off-and-why/",
+        "published": "Wed, 01 Apr 2026 03:02:21 GMT",
+        "source": "Latest news",
+        "summary": "A feature called Reserved Storage keeps a small amount of storage for updates - here's how to disable it (and if you should)."
+    },
+    {
+        "id": "https://www.zdnet.com/article/airpods-pro-3-vs-samsung-galaxy-buds-4-pro/",
+        "title": "AirPods Pro 3 vs. Samsung Galaxy Buds 4 Pro: Why I'm looking past brand ecosystems now",
+        "link": "https://www.zdnet.com/article/airpods-pro-3-vs-samsung-galaxy-buds-4-pro/",
+        "published": "Wed, 01 Apr 2026 02:30:53 GMT",
+        "source": "Latest news",
+        "summary": "Samsung's latest wireless earbuds close the gap in audio fidelity and ANC performance with Apple - here's how to choose the right pair."
+    },
+    {
+        "id": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+        "title": "How AI has suddenly become much more useful to open-source developers",
+        "link": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+        "published": "Wed, 01 Apr 2026 01:40:49 GMT",
+        "source": "Latest news",
+        "summary": "More open-source developers are finding that, when used properly, AI can actually help current and long-neglected programs. However, legal and quality issues loom."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tsmc-plans-3-nanometre-chip-production-launch-in-japan-in-2028/articleshow/129940385.cms",
+        "title": "TSMC plans 3-nanometre chip production launch in Japan in 2028",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tsmc-plans-3-nanometre-chip-production-launch-in-japan-in-2028/articleshow/129940385.cms",
+        "published": "Wed, 01 Apr 2026 08:46:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In \u2060February, \u2060TSMC CEO CC Wei said the company plans to \u200bmass-produce advanced 3-nanometre chips at its second fabrication plant in \u200bJapan, during a meeting with Japan's Prime Minister Sanae Takaichi. Under the revised plan, its second chip-making \u200bplant in Japan will have a \u2060monthly production \u200ccapacity of 15,000 12-inch wafers through advanced \u200b3-nanometre \u200bprocess technology, the filing said on Tuesday."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-accidentally-releases-source-code-for-claude-ai-agent/articleshow/129940277.cms",
+        "title": "Anthropic accidentally releases source code for Claude AI agent",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-accidentally-releases-source-code-for-claude-ai-agent/articleshow/129940277.cms",
+        "published": "Wed, 01 Apr 2026 08:39:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic said a Claude Code release accidentally included internal source code due to human error, not a breach. No customer data was exposed. The slip-up, following another recent issue, sparked developer interest and security concerns, as people examined details and clues about plans, including references to a powerful upcoming model."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sequoia-capital-names-veteran-doug-leone-as-chairman/articleshow/129939573.cms",
+        "title": "Sequoia Capital names veteran Doug Leone as chairman",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sequoia-capital-names-veteran-doug-leone-as-chairman/articleshow/129939573.cms",
+        "published": "Wed, 01 Apr 2026 07:59:54 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Founded by Don Valentine in 1972, Sequoia was an \u200bearly investor in many top tech \u2060names, including \u200cAlphabet's Google and YouTube, Apple, and Cisco, \u200band has established \u200bitself as one of the world's \u2060top venture capital firms. Leone took over the reins \u200bfrom Valentine in 1996 alongside venture capitalist Michael \u200bMoritz. Moritz stepped back from the management role in 2012 due to health reasons, and Leone became the firm's sole leader."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/north-korea-linked-hack-hits-largely-invisible-software-that-powers-online-services/articleshow/129939222.cms",
+        "title": "North Korea-linked hack hits largely invisible software that powers online services",
+        "link": "https://economictimes.indiatimes.com/tech/technology/north-korea-linked-hack-hits-largely-invisible-software-that-powers-online-services/articleshow/129939222.cms",
+        "published": "Wed, 01 Apr 2026 07:19:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The cyber researchers described the breach \u200bas a supply chain attack, in which the hack could enable \u200battacks on downstream entities. The malicious software, which has since been removed, could have given hackers access to a computer's data including access credentials, which can then be used to \u200bcarry out additional data theft or other kinds of attacks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-to-sign-deal-with-australia-on-ai-safety-and-economic-data-tracking/articleshow/129939176.cms",
+        "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-to-sign-deal-with-australia-on-ai-safety-and-economic-data-tracking/articleshow/129939176.cms",
+        "published": "Wed, 01 Apr 2026 07:13:46 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Australia currently has no specific AI legislation. The \u200ccentre-left Labour government has said it would rely on existing laws to manage emerging \u200bAI \u200brisks while introducing \u2060voluntary guidelines amid privacy and safety concerns. The deal mirrors similar agreements with safety institutes in the United States, Britain and Japan."
+    },
+    {
+        "id": "https://inc42.com/buzz/nodwins-pre-ipo-round-funding-tanks-in-q1-2026-more/",
+        "title": "NODWIN\u2019s Pre-IPO Round, Funding Tanks In Q1 2026 & More",
+        "link": "https://inc42.com/buzz/nodwins-pre-ipo-round-funding-tanks-in-q1-2026-more/",
+        "published": "Wed, 01 Apr 2026 02:30:28 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/FTR-Daily-Brief-2026-03-31T232948.988.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />NODWIN\u2019s Pre-IPO Funding Meal NODWIN Gaming is moving beyond gaming and esports. Emerging from the shadows of its former parent&#8230;"
     }
 ]
