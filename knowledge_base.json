@@ -175118,5 +175118,69 @@
         "published": "Wed, 01 Apr 2026 20:29:05 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"Meghalaya Signs MoU With Starlink To Pilot Satcom Services\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/starlink-Meghalaya-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Meghalaya government has signed a memorandum of understanding (MoU) with Elon Musk-led Starlink to pilot satellite communications (satcom) services&#8230;"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+        "title": "The reputation of troubled YC startup Delve has gotten even worse",
+        "link": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+        "published": "Wed, 01 Apr 2026 21:23:47 +0000",
+        "source": "TechCrunch",
+        "summary": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+        "title": "\u2018System failure\u2019 paralyzes Baidu robotaxis in China",
+        "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+        "published": "Wed, 01 Apr 2026 21:12:14 +0000",
+        "source": "TechCrunch",
+        "summary": "Passengers in Baidu's robotaxis were trapped for up to two hours."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/",
+        "title": "A new dating app, Sonder, has a deliberately annoying sign-up process (and it\u2019s working)",
+        "link": "https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/",
+        "published": "Wed, 01 Apr 2026 20:46:17 +0000",
+        "source": "TechCrunch",
+        "summary": "Sonder profiles are completely unstructured, encouraging users to build something that looks like a mood board or a digital collage. Think MySpace rather than LinkedIn."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+        "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+        "link": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+        "published": "Wed, 01 Apr 2026 20:46:48 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Microsoft, Intel are also working on their own solutions for the issue."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
+        "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
+        "link": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
+        "published": "Wed, 01 Apr 2026 20:04:04 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "A persistent agent, stealth \"Undercover\" mode, and... a virtual assistant named Buddy?"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/",
+        "title": "Research roundup: 7 cool science stories we almost missed",
+        "link": "https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/",
+        "published": "Wed, 01 Apr 2026 19:53:31 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Sperm gets lost in space; raccoons solve puzzles; the physics of folding a crepe; and more."
+    },
+    {
+        "id": "https://hamel.dev/blog/posts/revenge/",
+        "title": "The revenge of the data scientist",
+        "link": "https://hamel.dev/blog/posts/revenge/",
+        "published": "Sat, 28 Mar 2026 19:12:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47557385\">Comments</a>"
+    },
+    {
+        "id": "https://flight-viz.com",
+        "title": "Show HN: Flight-Viz \u2013 10K flights on a 3D globe in 3.5MB of Rust+WASM",
+        "link": "https://flight-viz.com",
+        "published": "Wed, 01 Apr 2026 17:34:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47603966\">Comments</a>"
     }
 ]
