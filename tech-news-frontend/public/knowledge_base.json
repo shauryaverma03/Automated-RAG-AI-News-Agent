@@ -176422,5 +176422,101 @@
         "published": "Thu, 02 Apr 2026 14:00:37 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Government tech overhaul leads the day, as education, retail, AI, and fintech players expand footprint."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
+        "title": "NASA astronauts prove that sending an email really is rocket science",
+        "link": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
+        "published": "Thu, 02 Apr 2026 18:19:39 +0000",
+        "source": "TechCrunch",
+        "summary": "NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden",
+        "title": "Five questions for the guys who made a compass that points to the Times Square Olive Garden",
+        "link": "https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden",
+        "published": "2026-04-02T14:24:29-04:00",
+        "source": "The Verge",
+        "summary": "Here's a question almost nobody is asking: how do you get to the Times Square Olive Garden? Well, these beautiful weirdos are answering it - the team that made the Times Square Olive Garden compass. If that's not clear enough, let me explain. They're making a compass that points you exclusively in the direction of [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+        "title": "Elon Musk is about to be a very busy boy!",
+        "link": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+        "published": "2026-04-02T14:15:00-04:00",
+        "source": "The Verge",
+        "summary": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+        "title": "OpenAI just bought TBPN",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+        "published": "2026-04-02T13:40:07-04:00",
+        "source": "The Verge",
+        "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/",
+        "title": "Your Art Can Go in This San Francisco Alley",
+        "link": "https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/",
+        "published": "Thu, 02 Apr 2026 18:27:45 +0000",
+        "source": "WIRED",
+        "summary": "A trio of tech pranksters have launched a website where you can submit artwork and vote on which pieces belong in the final design. Of course, AI will scan for dick pics."
+    },
+    {
+        "id": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
+        "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
+        "link": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
+        "published": "Thu, 02 Apr 2026 18:27:29 +0000",
+        "source": "WIRED",
+        "summary": "Documents show that one of Google\u2019s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year\u2014an increasingly common trend in the industry."
+    },
+    {
+        "id": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
+        "title": "Here's What Can Happen When the US Bombs Iran's Nuclear Sites",
+        "link": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
+        "published": "Thu, 02 Apr 2026 18:08:08 +0000",
+        "source": "WIRED",
+        "summary": "As strikes continue on Iran\u2019s nuclear facilities, the real danger isn\u2019t the explosion, but what happens if critical safety systems fail\u2014and how that risk could spread across the Gulf."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/streaming/psa-youtube-will-be-streaming-coachella-for-free-next-week-183033874.html?src=rss",
+        "title": "PSA: YouTube will be streaming Coachella for free next week",
+        "link": "https://www.engadget.com/entertainment/streaming/psa-youtube-will-be-streaming-coachella-for-free-next-week-183033874.html?src=rss",
+        "published": "Thu, 02 Apr 2026 18:30:33 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p></p><p>Coachella officially kicks off next Friday, April 10. But for anyone who doesn\u2019t want to fly out to the desert or fork over upwards of $650 for a ticket, YouTube is going to <a class=\"link\" href=\"https://blog.youtube/news-and-events/watch-coachella-live-on-youtube/\" target=\"_blank\">livestream the concert for free</a> so you can enjoy it on your own terms. Here\u2019s a quick overview of all the programming that will be available in just over a week.&nbsp;</p><p>With YouTube planning on prov"
+    },
+    {
+        "id": "https://openai.com/index/openai-acquires-tbpn/",
+        "title": "OpenAI Acquires TBPN",
+        "link": "https://openai.com/index/openai-acquires-tbpn/",
+        "published": "Thu, 02 Apr 2026 17:26:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47617376\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spacex-has-held-talks-with-saudi-fund-for-possible-5-billion-investment-in-ipo/articleshow/129987173.cms",
+        "title": "SpaceX has held talks with Saudi fund for possible $5 billion investment in IPO",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spacex-has-held-talks-with-saudi-fund-for-possible-5-billion-investment-in-ipo/articleshow/129987173.cms",
+        "published": "Thu, 02 Apr 2026 23:53:09 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Elon Musk's SpaceX has had discussions with Saudi Arabia's Public Investment Fund \u200cabout PIF potentially \u2060taking \u2060an anchor stake of around $5 billion in the space company's IPO, according to two people familiar \u200bwith the matter. The investment would partly prevent dilution of PIF's existing stake of just under \u200b1% in SpaceX."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-unveils-gemma-4-expands-lightweight-open-model-lineup-for-developers/articleshow/129986612.cms",
+        "title": "Google unveils Gemma 4, expands lightweight open model lineup for developers",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-unveils-gemma-4-expands-lightweight-open-model-lineup-for-developers/articleshow/129986612.cms",
+        "published": "Thu, 02 Apr 2026 23:41:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Gemma 4 model offers capabilities such as advanced reasoning, agentic workflows, coding, and support for over 140 languages. The models are also capable of solving complex mathematical problems and generating high-quality code, positioning them as potential local AI coding assistants."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/openai-acquires-tbpn/articleshow/129986132.cms",
+        "title": "OpenAI acquires tech talk show TBPN",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openai-acquires-tbpn/articleshow/129986132.cms",
+        "published": "Thu, 02 Apr 2026 23:10:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI said TBPN will stay editorially independent, retaining authority over its programming, guest lineup, editorial choices, and production schedule. The show will report to Chris Lehane, OpenAI\u2019s chief global affairs officer, and support the company\u2019s communications and marketing efforts beyond the broadcast, while maintaining its original format and autonomy."
     }
 ]
