@@ -175230,5 +175230,93 @@
         "published": "Wed, 01 Apr 2026 22:38:25 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47607447\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments",
+        "title": "Trump\u2019s birthright citizenship ban may fail \u2014 but the administration already got too far",
+        "link": "https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments",
+        "published": "2026-04-01T19:39:15-04:00",
+        "source": "The Verge",
+        "summary": "On Wednesday morning, the Supreme Court heard arguments in Trump v. Barbara, a case challenging President Donald Trump's 2025 executive order banning birthright citizenship. Justices seemed skeptical of the administration's argument, but by taking up birthright citizenship at all, they showed how much ground nativists have gained since Trump's first term. The 14th Amendment is [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/",
+        "title": "California Suspends Enforcement of Law Requiring VCs to Report Diversity Data",
+        "link": "https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/",
+        "published": "Wed, 01 Apr 2026 23:56:36 +0000",
+        "source": "WIRED",
+        "summary": "After investors appealed to the governor, California again delayed the deadline for venture firms to disclose the demographics of startup founders they back."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
+        "title": "Artemis II, NASA's most daring mission in generations, launches to the Moon",
+        "link": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
+        "published": "Thu, 02 Apr 2026 00:04:17 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Liftoff of Artemis II with four astronauts occurred at 6:35 pm EDT (22:35 UTC) on Wednesday."
+    },
+    {
+        "id": "https://github.com/ocaml/ocaml/pull/14701",
+        "title": "A new C++ back end for ocamlc",
+        "link": "https://github.com/ocaml/ocaml/pull/14701",
+        "published": "Wed, 01 Apr 2026 23:35:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47608058\">Comments</a>"
+    },
+    {
+        "id": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+        "title": "NASA\u2019s Artemis II Crew Launches to the Moon",
+        "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+        "published": "Wed, 01 Apr 2026 17:11:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47603657\">Comments</a>"
+    },
+    {
+        "id": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+        "title": "Fast and Gorgeous Erosion Filter",
+        "link": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+        "published": "Tue, 31 Mar 2026 08:41:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47584386\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/sahi-eyes-80-million-from-accel-growth-bessemer-others/articleshow/129959536.cms",
+        "title": "Sahi eyes $80 million from Accel Growth, Bessemer, others",
+        "link": "https://economictimes.indiatimes.com/tech/funding/sahi-eyes-80-million-from-accel-growth-bessemer-others/articleshow/129959536.cms",
+        "published": "Thu, 02 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "New-age stock trading platform Sahi, cofounded by Swiggy\u2019s former chief technology officer Dale Vaz, is in advanced talks to raise $60-80 million from Silicon Valley venture capital firm Accel\u2019s growth fund, Bessemer Venture Partners, Susquehanna International Group (SIG), among others, people aware of the talks told ET."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ecommerce-quick-commerce-chasing-ad-spends-with-profitability-in-focus/articleshow/129959468.cms",
+        "title": "Ecommerce, quick commerce chasing ad spends with profitability in focus",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ecommerce-quick-commerce-chasing-ad-spends-with-profitability-in-focus/articleshow/129959468.cms",
+        "published": "Thu, 02 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Online platforms like Amazon, Flipkart, Blinkit, Instamart, Zepto, Zomato, and Swiggy are set to earn substantial advertising revenue. This growth is fueled by integrated shopping experiences and advanced AI insights. Quick commerce is experiencing rapid expansion, with brands shifting ad spends for faster results."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/fintechs-go-easy-on-ipo-plans-as-war-rattles-stock-markets/articleshow/129959414.cms",
+        "title": "Fintechs go easy on IPO plans as war rattles stock markets",
+        "link": "https://economictimes.indiatimes.com/tech/technology/fintechs-go-easy-on-ipo-plans-as-war-rattles-stock-markets/articleshow/129959414.cms",
+        "published": "Thu, 02 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Public listing plans for new-age fintech companies have received a major blow as the crisis in West Asia has battered the Indian rupee and stock valuations in Mumbai, prompting the highest ever annual withdrawal by overseas funds from locally listed equities."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/oracles-ai-pivot-cuts-deep-lays-off-20-of-its-india-workforce/articleshow/129959312.cms",
+        "title": "Oracle\u2019s AI pivot cuts deep, lays off 20% of its India workforce",
+        "link": "https://economictimes.indiatimes.com/tech/technology/oracles-ai-pivot-cuts-deep-lays-off-20-of-its-india-workforce/articleshow/129959312.cms",
+        "published": "Thu, 02 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Oracle has cut around 10,000 jobs in India, sources told ET. This is part of a global restructuring affecting 30,000 employees. The company is reducing roles in its tech divisions. Oracle Financial Software Services also saw job losses. Employees are concerned about increased workloads. This follows similar tech industry layoffs this year."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/vc-funding-rises-28-yoy-in-the-first-quarter-of-2026",
+        "title": "VC funding rises 28% YoY in the first quarter of 2026",
+        "link": "https://yourstory.com/2026/04/vc-funding-rises-28-yoy-in-the-first-quarter-of-2026",
+        "published": "Wed, 01 Apr 2026 10:39:45 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The rise in venture capital funding in Indian startups for the first quarter of 2026 was largely due to the steady inflow of deals in the $30 million-90 million range."
     }
 ]
