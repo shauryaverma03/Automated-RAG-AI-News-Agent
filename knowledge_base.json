@@ -175318,5 +175318,93 @@
         "published": "Wed, 01 Apr 2026 10:39:45 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The rise in venture capital funding in Indian startups for the first quarter of 2026 was largely due to the steady inflow of deals in the $30 million-90 million range."
+    },
+    {
+        "id": "https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/",
+        "title": "Artemis II Mission Launches Successfully",
+        "link": "https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/",
+        "published": "Thu, 02 Apr 2026 01:55:18 +0000",
+        "source": "WIRED",
+        "summary": "The crew of Artemis II will not descend to the moon, but their capsule will fly over the far side of its surface."
+    },
+    {
+        "id": "https://www.engadget.com/science/space/the-artemis-ii-mission-has-started-its-10-day-journey-around-the-moon-033412865.html?src=rss",
+        "title": "The Artemis II mission has started its 10-day journey around the moon",
+        "link": "https://www.engadget.com/science/space/the-artemis-ii-mission-has-started-its-10-day-journey-around-the-moon-033412865.html?src=rss",
+        "published": "Thu, 02 Apr 2026 03:34:12 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The <a class=\"link\" href=\"https://www.engadget.com/science/space/watch-the-first-crewed-artemis-mission-take-flight-092800981.html\" target=\"_blank\">Artemis II mission</a> successfully launched into space on April 1, at 6:35pm Eastern time, from Launch Complex 39B at the Kennedy Space Center in Florida. It will take NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, as well as Canadian Space Agency astronaut Jeremy Hansen, on a 10-day trip around the moon. This mission is the first c"
+    },
+    {
+        "id": "https://scottaaronson.blog/?p=9665",
+        "title": "Quantum computing bombshells that are not April Fools",
+        "link": "https://scottaaronson.blog/?p=9665",
+        "published": "Thu, 02 Apr 2026 00:24:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47608495\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazon-eyes-9-billion-globalstar-deal-to-rival-spacexs-starlink-report/articleshow/129966715.cms",
+        "title": "Amazon eyes $9 billion Globalstar deal to rival SpaceX's Starlink: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazon-eyes-9-billion-globalstar-deal-to-rival-spacexs-starlink-report/articleshow/129966715.cms",
+        "published": "Thu, 02 Apr 2026 09:12:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Globalstar's shares, which have more than doubled in market value over the past \u200cyear, surged \u206024% to $85 \u2060in extended trading following the report. The company had a market cap of $8.81 \u200bbillion as of last close."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altmans-sister-amends-lawsuit-accusing-openai-ceo-of-sexual-abuse/articleshow/129966500.cms",
+        "title": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altmans-sister-amends-lawsuit-accusing-openai-ceo-of-sexual-abuse/articleshow/129966500.cms",
+        "published": "Thu, 02 Apr 2026 08:59:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Annie Altman has reignited her legal battle against her brother, Sam Altman, the CEO of OpenAI, accusing him of sexual abuse dating back more than two decades. Sam has categorically denied her allegations and is taking legal action against her for defamation, with the case now in the hands of a St. Louis federal court."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-machine-sorts-clothes-faster-than-humans-to-boost-textile-recycling-in-china/articleshow/129965991.cms",
+        "title": "AI machine sorts clothes faster than humans to boost textile recycling in China",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-machine-sorts-clothes-faster-than-humans-to-boost-textile-recycling-in-china/articleshow/129965991.cms",
+        "published": "Thu, 02 Apr 2026 08:26:03 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A new AI machine called Fastsort-Textile is revolutionising textile recycling in China. It rapidly sorts used clothes by fiber composition, significantly reducing waste sent for incineration. This technology offers a faster and more accurate alternative to manual sorting. Previously, up to 50% of textiles were unrecyclable. Now, this figure has dropped to 30%."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/intel-looks-to-put-millions-more-into-sambanova-startup-chaired-by-ceo-tan/articleshow/129965911.cms",
+        "title": "Intel looks to put millions more into SambaNova startup chaired by CEO Tan",
+        "link": "https://economictimes.indiatimes.com/tech/technology/intel-looks-to-put-millions-more-into-sambanova-startup-chaired-by-ceo-tan/articleshow/129965911.cms",
+        "published": "Thu, 02 Apr 2026 08:22:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The investment, subject to regulatory approval, would \u200bincrease Intel's ownership of SambaNova to 9%, the review showed. The backing follows another $35 million that Intel put into SambaNova in \u200bFebruary, which, along with other financing, had boosted Intel's stake in the startup to 8.2%, from 6.8% last year. The companies announced a \"strategic collaboration\" in February."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oracle-cuts-20-of-india-staff-war-jitters-stall-fintech-ipos/articleshow/129964415.cms",
+        "title": "Oracle cuts 20% of India staff; War jitters stall fintech IPOs",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oracle-cuts-20-of-india-staff-war-jitters-stall-fintech-ipos/articleshow/129964415.cms",
+        "published": "Thu, 02 Apr 2026 07:06:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Thursday! Oracle\u2019s global job cuts have impacted 10,000 employees in India. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/building-fintech-startups-beyond-upi-where-the-next-wave-of-innovation-will-come-from",
+        "title": "Building fintech startups beyond UPI: Where the next wave of innovation will come from",
+        "link": "https://yourstory.com/2026/04/building-fintech-startups-beyond-upi-where-the-next-wave-of-innovation-will-come-from",
+        "published": "Thu, 02 Apr 2026 01:45:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "With India\u2019s fintech infrastructure backed by government support, it has evolved into a sturdy and consistent ecosystem that enables easy digital transactions, security for users, and scalable innovations in its fintech community."
+    },
+    {
+        "id": "https://inc42.com/buzz/inside-dream11s-pivot-xpedize-cofounder-no-more-more/",
+        "title": "Inside Dream11\u2019s Pivot, Xpedize Cofounder No More & More",
+        "link": "https://inc42.com/buzz/inside-dream11s-pivot-xpedize-cofounder-no-more-more/",
+        "published": "Thu, 02 Apr 2026 02:30:46 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Inside Dream11\u2019s Pivot, Xpedize Cofounder No More &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/FTR-Daily-Brief-2026-04-02T005821.886.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Dream Sports\u2019 Post-RMG Era\u00a0 Eight months after the government dismantled the real-money gaming (RMG) sector overnight, Dream Sports is trying&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/04/223-last-call-understanding-india-deepfake-content-rules-april-3/",
+        "title": "Last Call: Understanding India\u2019s Deepfake Content Rules, April 3, #NAMA",
+        "link": "https://www.medianama.com/2026/04/223-last-call-understanding-india-deepfake-content-rules-april-3/",
+        "published": "Thu, 02 Apr 2026 04:00:00 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>To discuss the rules and their implications for platforms, free speech, and platform liability, MediaNama invites you to attend a briefing call on \"Understanding India's Deepfake Content Rules.\"</p>\n<p>The post <a href=\"https://www.medianama.com/2026/04/223-last-call-understanding-india-deepfake-content-rules-april-3/\">Last Call: Understanding India&#8217;s Deepfake Content Rules, April 3, #NAMA</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
