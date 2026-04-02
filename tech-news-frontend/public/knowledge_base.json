@@ -176310,5 +176310,117 @@
         "published": "Thu, 02 Apr 2026 11:21:02 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Zoho email migration shows how the government is evolving the digital infrastructure, moving towards cloud-based systems that support scale, security and integrated administration."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+        "title": "Microsoft takes on AI rivals with three new foundational models",
+        "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+        "published": "Thu, 02 Apr 2026 16:48:16 +0000",
+        "source": "TechCrunch",
+        "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago."
+    },
+    {
+        "id": "https://www.theverge.com/podcast/905524/vergecast-subscribers-movie-night",
+        "title": "Verge subscribers: Join us for a movie night in New York City, hosted by The Vergecast",
+        "link": "https://www.theverge.com/podcast/905524/vergecast-subscribers-movie-night",
+        "published": "2026-04-02T13:34:27-04:00",
+        "source": "The Verge",
+        "summary": "The Vergecast is hosting a special in-person screening of Sneakers in partnership with IFC in New York City, and we're opening presale tickets exclusively to Verge subscribers. Sneakers is a movie about what happens when technology becomes more powerful than our ability to control it. It's about privacy and hacking and who the \"good guys\" [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+        "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+        "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+        "published": "Thu, 02 Apr 2026 17:00:00 +0000",
+        "source": "WIRED",
+        "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
+        "title": "Google announces Gemma 4 open AI models, switches to Apache 2.0 license",
+        "link": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
+        "published": "Thu, 02 Apr 2026 16:01:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Gemma 4 brings the first major update to Google's open models in a year."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/04/a-production-ford-sets-third-fastest-time-ever-at-the-nurburgring/",
+        "title": "This Ford is the quickest production car at the N\u00fcrburgring, ever",
+        "link": "https://arstechnica.com/cars/2026/04/a-production-ford-sets-third-fastest-time-ever-at-the-nurburgring/",
+        "published": "Thu, 02 Apr 2026 16:00:11 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Only three race cars have ever gone quicker around this famous track."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
+        "title": "Anthropic says its leak-focused DMCA effort unintentionally hit legit GitHub forks",
+        "link": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
+        "published": "Thu, 02 Apr 2026 15:40:53 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "But the effort to stop the spread of leaked Claude Code client code is an uphill battle."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/",
+        "title": "Why is NASA bothering to go back to the Moon if we've already been there?",
+        "link": "https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/",
+        "published": "Thu, 02 Apr 2026 14:46:36 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "NASA has struggled to deal with the widespread sentiment that NASA has \u201cbeen there, done that.\""
+    },
+    {
+        "id": "https://www.engadget.com/gaming/pc/indie-pass-is-a-forthcoming-subscription-service-exclusively-for-indie-games-171304359.html?src=rss",
+        "title": "Indie Pass is a forthcoming subscription service exclusively for indie games",
+        "link": "https://www.engadget.com/gaming/pc/indie-pass-is-a-forthcoming-subscription-service-exclusively-for-indie-games-171304359.html?src=rss",
+        "published": "Thu, 02 Apr 2026 17:13:05 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Publisher and game management platform <a href=\"http://indie.io/\"><ins>indie.io</ins></a> just announced the pending launch of <a href=\"https://www.indiepass.com/\"><ins>something called Indie Pass</ins></a>. This is a subscription service, so it's sort of like Game Pass but for indie titles.</p>\n<p>It launches on April 13 and will offer over 70 games on that date, with more coming down the line. Not a single person on this planet wants another monthly subscription to manage, but this one cost"
+    },
+    {
+        "id": "https://futuresearch.ai/spacex-ipo-valuation/",
+        "title": "A $1.75T IPO Would Be Overpaying 30% for SpaceX",
+        "link": "https://futuresearch.ai/spacex-ipo-valuation/",
+        "published": "Thu, 02 Apr 2026 17:00:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47617027\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/android-emergency-alerts-adding-maps-view/",
+        "title": "Android's emergency alerts just got a major map upgrade - but change this setting first",
+        "link": "https://www.zdnet.com/article/android-emergency-alerts-adding-maps-view/",
+        "published": "Thu, 02 Apr 2026 17:00:19 GMT",
+        "source": "Latest news",
+        "summary": "The new map view shows your location relative to the affected area, which is especially crucial headed into the US storm season."
+    },
+    {
+        "id": "https://www.zdnet.com/article/high-gas-prices-mobile-apps-cheapest-stations/",
+        "title": "How I pay less for gas: 5 apps I use to find the cheapest stations nearby",
+        "link": "https://www.zdnet.com/article/high-gas-prices-mobile-apps-cheapest-stations/",
+        "published": "Thu, 02 Apr 2026 16:55:01 GMT",
+        "source": "Latest news",
+        "summary": "With gas prices climbing ever higher, these apps help me find the cheapest fuel based on my location."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/trump-administration-appeals-ruling-that-blocked-pentagon-action-against-anthropic-over-ai-dispute/articleshow/129985598.cms",
+        "title": "Trump administration appeals ruling that blocked Pentagon action against Anthropic over AI dispute",
+        "link": "https://economictimes.indiatimes.com/tech/technology/trump-administration-appeals-ruling-that-blocked-pentagon-action-against-anthropic-over-ai-dispute/articleshow/129985598.cms",
+        "published": "Thu, 02 Apr 2026 22:50:33 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Department of Justice attorneys filed a notice in San Francisco federal court on Thursday of their intention to appeal last week's ruling by US District Judge Rita Lin. Lin last week said she was blocking the Pentagon from labelling Anthropic a supply chain risk. She also said she was blocking enforcement of President Donald Trump's social media directive ordering all federal agencies to stop using Anthropic and its chatbot Claude."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/karnataka-showcases-student-innovators-deeptech-solutions-at-bengaluru-conclave/articleshow/129984958.cms",
+        "title": "Karnataka showcases student innovators, deeptech solutions at Bengaluru conclave",
+        "link": "https://economictimes.indiatimes.com/tech/technology/karnataka-showcases-student-innovators-deeptech-solutions-at-bengaluru-conclave/articleshow/129984958.cms",
+        "published": "Thu, 02 Apr 2026 22:20:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The event was held at the International Institute of Information Technology Bangalore (IIIT-B) Innovation Centre and is part of the government\u2019s New Age Innovation Network (NAIN), a flagship initiative aimed at fostering innovation and entrepreneurship among students across the state."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/startup-news-and-updates-daily-rroundup-april-2-2026",
+        "title": "Startup news and updates: Daily Rroundup (April 2, 2026)",
+        "link": "https://yourstory.com/2026/04/startup-news-and-updates-daily-rroundup-april-2-2026",
+        "published": "Thu, 02 Apr 2026 14:00:37 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Government tech overhaul leads the day, as education, retail, AI, and fintech players expand footprint."
     }
 ]
