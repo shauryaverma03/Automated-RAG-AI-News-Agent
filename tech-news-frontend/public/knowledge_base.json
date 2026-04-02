@@ -176782,5 +176782,37 @@
         "published": "Thu, 02 Apr 2026 02:37:12 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47609356\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+        "title": "Amazon hits sellers with \u2018fuel surcharge\u2019 as Iran war roils global energy markets",
+        "link": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
+        "published": "Thu, 02 Apr 2026 22:56:29 +0000",
+        "source": "TechCrunch",
+        "summary": "The e-commerce giant called the surcharge \"temporary\" but couldn't give a date for when the policy would be retired."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/look-outsides-april-1-update-that-let-you-kiss-enemies-is-now-a-permanent-smooch-mode-223746232.html?src=rss",
+        "title": "Look Outside's April 1 update that let you kiss enemies is now a permanent 'smooch mode'",
+        "link": "https://www.engadget.com/gaming/look-outsides-april-1-update-that-let-you-kiss-enemies-is-now-a-permanent-smooch-mode-223746232.html?src=rss",
+        "published": "Thu, 02 Apr 2026 22:37:46 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>For April Fools' Day, the developer of<em> </em><a class=\"link\" href=\"https://store.steampowered.com/app/3373660/Look_Outside/\" target=\"_blank\"><em>Look Outside</em></a> released an update that added a new option to your interactions with NPCs: kissing. Instead of just fighting or talking to enemies and surviving neighbors in the cursed apartment building, you could give 'em a smooch. Their dialogue and sprites were updated accordingly, too. Cue stammering eldritch horrors with bright red blu"
+    },
+    {
+        "id": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+        "title": "Decisions that eroded trust in Azure \u2013 by a former Azure Core engineer",
+        "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+        "published": "Thu, 02 Apr 2026 16:00:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47616242\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/privacybee-data-removal-review/",
+        "title": "I turned to PrivacyBee to clean up my data - here's how it made me disappear",
+        "link": "https://www.zdnet.com/article/privacybee-data-removal-review/",
+        "published": "Thu, 02 Apr 2026 23:20:50 GMT",
+        "source": "Latest news",
+        "summary": "PrivacyBee is one of the most comprehensive data removal services I've tested, with the ability to remove your personal information across hundreds of sites."
     }
 ]
