@@ -176814,5 +176814,61 @@
         "published": "Thu, 02 Apr 2026 23:20:50 GMT",
         "source": "Latest news",
         "summary": "PrivacyBee is one of the most comprehensive data removal services I've tested, with the ability to remove your personal information across hundreds of sites."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+        "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
+        "link": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+        "published": "Thu, 02 Apr 2026 20:54:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue."
+    },
+    {
+        "id": "https://www.zdnet.com/article/bloom-card-review/",
+        "title": "Brick vs. Bloom Card: I tested both for my screen addiction, and the winner depends on you",
+        "link": "https://www.zdnet.com/article/bloom-card-review/",
+        "published": "Fri, 03 Apr 2026 00:16:35 GMT",
+        "source": "Latest news",
+        "summary": "This cheaper Brick alternative blocks distracting apps and adds its own unique features. There's just one catch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/product-design-startup-noon-emerges-from-stealth-mode-with-44-million-funding/articleshow/129992002.cms",
+        "title": "Product design startup Noon emerges from stealth mode with $44 million funding",
+        "link": "https://economictimes.indiatimes.com/tech/funding/product-design-startup-noon-emerges-from-stealth-mode-with-44-million-funding/articleshow/129992002.cms",
+        "published": "Fri, 03 Apr 2026 06:27:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "San Francisco-headquartered startup Noon has emerged from stealth mode with $44 million in funding from Chemistry, First Round Capital, Scribble Ventures, Elevation Capital, and Afore Capital, along with individual investors from the technology and design industries."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/crisis-contractor-for-openai-anthropic-eyes-a-move-to-combat-extremism/articleshow/129991939.cms",
+        "title": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/crisis-contractor-for-openai-anthropic-eyes-a-move-to-combat-extremism/articleshow/129991939.cms",
+        "published": "Fri, 03 Apr 2026 06:20:40 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "People who show violent extremist tendencies on ChatGPT will be directed to human and chatbot\u2011based deradicalisation support through a new tool in development \u200bin New Zealand, the people behind it said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/powerus-backed-by-trump-sons-looks-to-sell-drone-interceptors-to-gulf-states-being-attacked-by-iran/articleshow/129991936.cms",
+        "title": "Powerus backed by Trump sons looks to sell drone interceptors to Gulf states being attacked by Iran",
+        "link": "https://economictimes.indiatimes.com/tech/technology/powerus-backed-by-trump-sons-looks-to-sell-drone-interceptors-to-gulf-states-being-attacked-by-iran/articleshow/129991936.cms",
+        "published": "Fri, 03 Apr 2026 06:19:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Powerus cofounder Brett Velicovich told The Associated Press that the company is making sales pitches that include drone demonstrations in several Gulf countries to show how its defensive drone interceptors could help them ward off Iranian attacks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/broadcom-taps-alphabet-executive-amie-thuener-as-next-cfo/articleshow/129991942.cms",
+        "title": "Broadcom taps Alphabet executive Amie Thuener as next CFO",
+        "link": "https://economictimes.indiatimes.com/tech/technology/broadcom-taps-alphabet-executive-amie-thuener-as-next-cfo/articleshow/129991942.cms",
+        "published": "Fri, 03 Apr 2026 06:14:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US \u200bchip designer Broadcom on \u200bThursday named Alphabet executive Amie Thuener \u200bas its next finance chief, effective June 12, when incumbent Kirsten Spears retires. Thuener is currently Alphabet's vice president, corporate controller and \u200cchief \u2060accounting officer."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/small-cities-like-mangalore-bhopal-aurangabad-enter-gcc-race/articleshow/129988377.cms",
+        "title": "Small cities like Mangalore, Bhopal, Aurangabad join GCC race",
+        "link": "https://economictimes.indiatimes.com/tech/technology/small-cities-like-mangalore-bhopal-aurangabad-enter-gcc-race/articleshow/129988377.cms",
+        "published": "Fri, 03 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tier-2 cities now make up 30-32% of all new job postings, according to Sachin Alug, CEO of talent solutions firm NLB Services. \u201cHiring demand for tech and GCC roles in cities like Mangalore, Ahmedabad, and Nagpur has picked up noticeably, driven by the rise of nano-GCCs,\u201d he said."
     }
 ]
