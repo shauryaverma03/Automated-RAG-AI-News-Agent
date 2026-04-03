@@ -177350,5 +177350,61 @@
         "published": "Fri, 03 Apr 2026 12:41:59 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>The Hyderabad police has ordered an AI tool called Blura Saga, which \"analyses and interprets social media activity in real time\", just days after the Telangana Hate Speech Bill was introduced</p>\n<p>The post <a href=\"https://www.medianama.com/2026/04/223-hate-speech-bill-hyderabad-police-social-media-monitoring-ai-tool/\">Days after Hate Speech Bill, Hyderabad Police orders social media monitoring AI tool</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+        "title": "The Facebook insider building content moderation for the AI era",
+        "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+        "published": "Fri, 03 Apr 2026 14:00:15 +0000",
+        "source": "TechCrunch",
+        "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior."
+    },
+    {
+        "id": "https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april",
+        "title": "Waiting for Trump Phone",
+        "link": "https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april",
+        "published": "2026-04-03T10:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. Crickets. Despite recent signs of life, another week has come and gone without the Trump T1 Phone. We're now over nine months since its announcement in June of last year, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/column/906391/apple-watch-optimizer-apple-50-health-tech-wearables",
+        "title": "How the Apple Watch defined modern health tech",
+        "link": "https://www.theverge.com/column/906391/apple-watch-optimizer-apple-50-health-tech-wearables",
+        "published": "2026-04-03T10:00:00-04:00",
+        "source": "The Verge",
+        "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. You can trace the state of health tech today to a single gadget: the Apple Watch Series 4. [&#8230;]"
+    },
+    {
+        "id": "https://www.hanshq.net/big-endian-qemu.html",
+        "title": "Big-Endian Testing with QEMU",
+        "link": "https://www.hanshq.net/big-endian-qemu.html",
+        "published": "Fri, 03 Apr 2026 13:28:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47626462\">Comments</a>"
+    },
+    {
+        "id": "https://ctx.rs",
+        "title": "Show HN: ctx \u2013 an Agentic Development Environment (ADE)",
+        "link": "https://ctx.rs",
+        "published": "Fri, 03 Apr 2026 13:45:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47626598\">Comments</a>"
+    },
+    {
+        "id": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
+        "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+        "link": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
+        "published": "Sun, 29 Mar 2026 20:55:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47567222\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-flipboard-surf-merges-social-feeds-youtube-rss/",
+        "title": "How Flipboard's new Surf app lets you merge social feeds, YouTube, and RSS to escape the algorithm - finally",
+        "link": "https://www.zdnet.com/article/how-flipboard-surf-merges-social-feeds-youtube-rss/",
+        "published": "Fri, 03 Apr 2026 14:24:01 GMT",
+        "source": "Latest news",
+        "summary": "At last, I can use one app to find my favorite podcasts, channels, publications, and more."
     }
 ]
