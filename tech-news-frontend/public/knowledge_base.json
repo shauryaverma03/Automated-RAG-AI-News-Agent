@@ -177558,5 +177558,69 @@
         "published": "Fri, 03 Apr 2026 16:27:00 GMT",
         "source": "Latest news",
         "summary": "MSI's Pro MP243W 24-inch monitor pairs well with other budget laptops for an affordable home workstation."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/",
+        "title": "Netflix must refund customers for years of price hikes, Italian court rules",
+        "link": "https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/",
+        "published": "Fri, 03 Apr 2026 17:41:51 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Consumer group says it will sue if Netflix doesn't reduce current prices."
+    },
+    {
+        "id": "https://www.inaturalist.org/",
+        "title": "iNaturalist",
+        "link": "https://www.inaturalist.org/",
+        "published": "Fri, 03 Apr 2026 17:22:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47629433\">Comments</a>"
+    },
+    {
+        "id": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
+        "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+        "link": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
+        "published": "Fri, 03 Apr 2026 17:29:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47629505\">Comments</a>"
+    },
+    {
+        "id": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+        "title": "Why the heck are we still using Markdown?",
+        "link": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+        "published": "Fri, 03 Apr 2026 18:03:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47629903\">Comments</a>"
+    },
+    {
+        "id": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+        "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+        "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+        "published": "Thu, 02 Apr 2026 18:24:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47618223\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/china-moves-to-regulate-digital-humans-bans-addictive-services-for-children/articleshow/130007441.cms",
+        "title": "China moves to regulate digital humans, bans addictive services for children",
+        "link": "https://economictimes.indiatimes.com/tech/technology/china-moves-to-regulate-digital-humans-bans-addictive-services-for-children/articleshow/130007441.cms",
+        "published": "Fri, 03 Apr 2026 23:43:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The draft regulations would \u200balso ban the use of other people's personal information to create digital humans without \u200bconsent, or using virtual humans to bypass identity verification systems, reflecting Beijing's efforts to maintain control in the face of advances in artificial intelligence."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spacex-delays-next-starship-test-launch-by-a-month-musk-says/articleshow/130006389.cms",
+        "title": "SpaceX delays next Starship test launch by a month, Musk says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spacex-delays-next-starship-test-launch-by-a-month-musk-says/articleshow/130006389.cms",
+        "published": "Fri, 03 Apr 2026 22:58:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Musk posted on social media platform \u200cX that \u2060the \u2060next flight of Starship's V3 vehicle was four \u200bto six weeks away, or in the first two \u200bweeks of May. Earlier, he said the first flight would take place in \u200bApril."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/karnataka-pralhad-joshi-fears-taxes-on-evs-will-derail-indias-emission-targets/articleshow/130006161.cms",
+        "title": "Karnataka: Pralhad Joshi fears taxes on EVs will derail India\u2019s emission targets",
+        "link": "https://economictimes.indiatimes.com/tech/technology/karnataka-pralhad-joshi-fears-taxes-on-evs-will-derail-indias-emission-targets/articleshow/130006161.cms",
+        "published": "Fri, 03 Apr 2026 22:46:11 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Union Minister Pralhad Joshi criticized Karnataka's decision to withdraw road tax exemptions for electric vehicles, warning it could increase India's crude import bill and hinder climate goals. He argued the move, aimed at raising Rs 250 crore, is fiscally shortsighted and contradicts global clean mobility incentives."
     }
 ]
