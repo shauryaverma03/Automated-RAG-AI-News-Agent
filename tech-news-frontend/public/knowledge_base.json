@@ -177406,5 +177406,61 @@
         "published": "Fri, 03 Apr 2026 14:24:01 GMT",
         "source": "Latest news",
         "summary": "At last, I can use one app to find my favorite podcasts, channels, publications, and more."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale",
+        "title": "Anker&#8217;s small, five-port travel adapter is down to its best price yet",
+        "link": "https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale",
+        "published": "2026-04-03T11:10:31-04:00",
+        "source": "The Verge",
+        "summary": "Few things kill the vibe of your relaxing spring break abroad faster than realizing you forgot a way to keep things charged. Anker\u2019s Nano Travel Adapter makes it easy to charge your phone, camera, e-readers, and other devices anywhere you travel. Right now, you can buy it at its all-time low of $19.99 ($6 off) [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad",
+        "title": "I saved a doomed Windows laptop by embracing Linux",
+        "link": "https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad",
+        "published": "2026-04-03T11:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Two weeks ago I set aside my M4 MacBook Air and picked up a nine-year-old ThinkPad. It's one of an estimated 200 to 400 million Windows 10 PCs that don't meet Microsoft's requirements for Windows 11. When Microsoft officially ended support for Windows 10 in October, it became \"obsolete.\" The solution, according to Microsoft, is [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/jfk-jr-john-perry-barlow-friendship-love-story/",
+        "title": "John Perry Barlow, JFK Jr., and a Night of Grief I Can\u2019t Forget",
+        "link": "https://www.wired.com/story/jfk-jr-john-perry-barlow-friendship-love-story/",
+        "published": "Fri, 03 Apr 2026 15:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Watching Love Story brought back a surreal evening in 1994."
+    },
+    {
+        "id": "https://nworbmot.org/blog/solar-battery-world.html",
+        "title": "Solar and batteries can power the world",
+        "link": "https://nworbmot.org/blog/solar-battery-world.html",
+        "published": "Fri, 03 Apr 2026 14:29:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47627061\">Comments</a>"
+    },
+    {
+        "id": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
+        "title": "Marc Andreessen is wrong about introspection",
+        "link": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
+        "published": "Fri, 03 Apr 2026 14:29:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47627056\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/turkey-launches-investigation-into-google-over-advertising-billing-practices/articleshow/130003714.cms",
+        "title": "Turkey launches investigation into Google over advertising, billing practices",
+        "link": "https://economictimes.indiatimes.com/tech/technology/turkey-launches-investigation-into-google-over-advertising-billing-practices/articleshow/130003714.cms",
+        "published": "Fri, 03 Apr 2026 20:26:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The \u200cinvestigation \u200baims \u200bto determine \u2060whether Google's billing practices \u200band commercial practices \u200brelated to its online advertising services to advertisers \u200cand advertising agency clients \u200bviolate \u200bTurkish \u2060law, the board said in a statement."
+    },
+    {
+        "id": "https://inc42.com/features/top-anchor-investors-powering-indian-new-age-tech-ipos/",
+        "title": "Top Anchor Investors Powering Indian New-Age Tech IPOs",
+        "link": "https://inc42.com/features/top-anchor-investors-powering-indian-new-age-tech-ipos/",
+        "published": "Fri, 03 Apr 2026 15:24:18 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Top Anchor Investors Powering Indian New-Age Tech IPOs\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1080\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/Your-paragraph-text-11.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Startup IPOs, which were once a rather uncommon phenomenon, have been driving the narrative in the world\u2019s third largest startup&#8230;"
     }
 ]
