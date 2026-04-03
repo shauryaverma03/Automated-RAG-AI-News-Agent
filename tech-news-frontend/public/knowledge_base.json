@@ -177822,5 +177822,69 @@
         "published": "Fri, 03 Apr 2026 16:57:09 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47629116\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+        "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+        "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+        "published": "Fri, 03 Apr 2026 21:28:14 +0000",
+        "source": "WIRED",
+        "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models."
+    },
+    {
+        "id": "https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/",
+        "title": "Scientists Have Made a French Fry Breakthrough",
+        "link": "https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/",
+        "published": "Fri, 03 Apr 2026 21:23:33 +0000",
+        "source": "WIRED",
+        "summary": "Researchers have developed a method of making french fries that results in a healthier bite without sacrificing crispiness."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+        "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
+        "link": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+        "published": "Fri, 03 Apr 2026 21:17:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Some banks \"agreed to spend tens of millions on the chatbot,\" NYT reports."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+        "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+        "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+        "published": "Fri, 03 Apr 2026 21:06:15 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Experiments show large majorities uncritically accepting \"faulty\" AI answers."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
+        "title": "Trump ignores biggest reasons his AI data center buildout is failing",
+        "link": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
+        "published": "Fri, 03 Apr 2026 20:43:14 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Nearly 50% of data center projects delayed as China holds key to power infrastructure."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+        "title": "OpenClaw gives users yet another reason to be freaked out about security",
+        "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+        "published": "Fri, 03 Apr 2026 20:30:15 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+    },
+    {
+        "id": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+        "title": "What changes when you turn a Linux box into a router",
+        "link": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+        "published": "Tue, 31 Mar 2026 13:13:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47586885\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/cmc-labo/tinyos-rtos",
+        "title": "Show HN: TinyOS \u2013 A minimalist RTOS for Cortex-M written in C",
+        "link": "https://github.com/cmc-labo/tinyos-rtos",
+        "published": "Fri, 03 Apr 2026 21:46:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47632750\">Comments</a>"
     }
 ]
