@@ -177766,5 +177766,61 @@
         "published": "Sat, 04 Apr 2026 00:48:51 +0530",
         "source": "Tech-Economic Times",
         "summary": "Some banks \u200bhave agreed to spend tens of millions of dollars a \u200byear on the chatbot and have begun integrating it into their IT systems, the \u200breport said."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/",
+        "title": "Tesla\u2019s Texas factory workforce reportedly shrunk 22% in 2025",
+        "link": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/",
+        "published": "Fri, 03 Apr 2026 20:43:25 +0000",
+        "source": "TechCrunch",
+        "summary": "Tesla's headcount fell from 21,191 workers to 16,506 workers in 2025, according to a report, as it grappled with its second straight year of declining sales."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+        "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
+        "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+        "published": "Fri, 03 Apr 2026 20:35:34 +0000",
+        "source": "TechCrunch",
+        "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+        "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+        "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+        "published": "Fri, 03 Apr 2026 20:28:40 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
+    },
+    {
+        "id": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
+        "title": "NASA did eventually solve Artemis II&#8217;s Outlook glitch",
+        "link": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
+        "published": "2026-04-03T16:53:48-04:00",
+        "source": "The Verge",
+        "summary": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman reported to Mission Control: \"I also see that I have two Microsoft [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/ai-animation-studio-toonstar-will-turn-books-into-digital-shows-for-harpercollins-211419155.html?src=rss",
+        "title": "AI animation studio Toonstar will turn books into digital shows for HarperCollins",
+        "link": "https://www.engadget.com/ai/ai-animation-studio-toonstar-will-turn-books-into-digital-shows-for-harpercollins-211419155.html?src=rss",
+        "published": "Fri, 03 Apr 2026 21:14:19 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>HarperCollins is tapping into AI to bring some of its book franchises to life. Specifically, the publisher is teaming up with <a class=\"link\" href=\"https://www.toonstar.com/\" target=\"_blank\">Toonstar</a>, an AI animation studio, to turn them into digital shows. The first project will be an adaptation of Lisa Greenwald\u2019s \u201cFriendship List\u201d series, which will also be joined by a graphic novel. </p><p>You\u2019d be forgiven for being unaware of Toonstar, a studio that <a class=\"link rapid-with-clickid"
+    },
+    {
+        "id": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+        "title": "Artemis II crew take 'spectacular' image of Earth",
+        "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+        "published": "Fri, 03 Apr 2026 19:35:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47631118\">Comments</a>"
+    },
+    {
+        "id": "https://tinygo.org/",
+        "title": "Go on Embedded Systems and WebAssembly",
+        "link": "https://tinygo.org/",
+        "published": "Fri, 03 Apr 2026 16:57:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47629116\">Comments</a>"
     }
 ]
