@@ -178190,5 +178190,37 @@
         "published": "Sat, 04 Apr 2026 09:58:14 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>India backs 12 AI firms under the IndiaAI Mission to build sovereign models. BharatGen gets the highest funding, while Sarvam AI and BharatGen launch models on AIKosh at the Impact Summit 2026.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/04/223-centre-funds-12-ai-projects-sovereign-models-bharatgen-4x-next-highest-allocation-rs-1000-crore/\">Centre funds 12 AI projects for sovereign models; BharatGen gets 4x the next highest allocation at over Rs 1000 crore</a> appeared first on <a"
+    },
+    {
+        "id": "https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/",
+        "title": "Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven",
+        "link": "https://www.wired.com/review/aiper-irrisense-2-smart-irrigation-system/",
+        "published": "Sat, 04 Apr 2026 11:01:00 +0000",
+        "source": "WIRED",
+        "summary": "This hose-attached smart sprinkler maps your yard, rotates on command, and measures water use. Despite these clever features, the results are a little uneven."
+    },
+    {
+        "id": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+        "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+        "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+        "published": "Sat, 04 Apr 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/super-meat-boy-3d-coin-pushing-chaos-and-other-new-indie-games-worth-checking-out-110000960.html?src=rss",
+        "title": "Super Meat Boy 3D, coin-pushing chaos and other new indie games worth checking out",
+        "link": "https://www.engadget.com/gaming/super-meat-boy-3d-coin-pushing-chaos-and-other-new-indie-games-worth-checking-out-110000960.html?src=rss",
+        "published": "Sat, 04 Apr 2026 11:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Welcome to our latest roundup of what's going on in the indie game space. As ever, we've got a whole bunch of new games for you to dive into this weekend, along with announcements and updates on several others that are coming down the pike.</p><p>I love how spoiled we are for game showcases these days, and I'm really looking forward to the latest installment of the indie-focused <a class=\"link\" href=\"https://www.youtube.com/watch?v=ShrDsKDQjtc\" target=\"_blank\">Triple-i Initiative</a> at noon "
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ai-recruiting-startup-mercor-hit-by-cyberattack-meta-halts-collaboration/articleshow/130017880.cms",
+        "title": "AI recruiting startup Mercor hit by cyberattack; Meta halts collaboration",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ai-recruiting-startup-mercor-hit-by-cyberattack-meta-halts-collaboration/articleshow/130017880.cms",
+        "published": "Sat, 04 Apr 2026 16:36:34 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "As per media reports, Mercor was among thousands of firms affected by the compromise of LiteLLM. Even as Mercor has claimed that the malicious code was detected and removed, the breach drew attention because LiteLLM is widely used. LiteLLM has since strengthened its compliance measures, switching from the controversy-hit compliance startup Delve to Vanta for certifications."
     }
 ]
