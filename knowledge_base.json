@@ -178438,5 +178438,45 @@
         "published": "Sat, 04 Apr 2026 20:45:57 +0530",
         "source": "Tech-Economic Times",
         "summary": "According to the high court's AI policy, unveiled on Saturday at a conference of district judiciary judges in Gujarat, AI should be used to improve the speed and quality of justice delivery, rather than as a replacement for judicial reasoning."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+        "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+        "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+        "published": "Sat, 04 Apr 2026 16:32:22 +0000",
+        "source": "TechCrunch",
+        "summary": "It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic\u2019s coding assistant with OpenClaw and other third-party tools."
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/apple-ios-265-public-beta-is-now-available-170103425.html?src=rss",
+        "title": "Apple iOS 26.5 public beta is now available",
+        "link": "https://www.engadget.com/mobile/smartphones/apple-ios-265-public-beta-is-now-available-170103425.html?src=rss",
+        "published": "Sat, 04 Apr 2026 17:01:03 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple has <a class=\"link\" href=\"https://9to5mac.com/2026/04/03/apple-releases-first-ios-26-5-public-beta/\" target=\"_blank\">released</a> the first public beta for iOS 26.5, just a few days after the beta for developers came out. One of the biggest changes the new operating system brings is the \u201c<a class=\"link\" href=\"https://www.engadget.com/apps/apple-confirms-ads-are-coming-to-apple-maps-175613751.html\" target=\"_blank\">Suggested Places</a>\u201d feature in Apple Maps. It will show you trending pla"
+    },
+    {
+        "id": "https://jaso1024.com/mvidia/",
+        "title": "Show HN: A game where you build a GPU",
+        "link": "https://jaso1024.com/mvidia/",
+        "published": "Sat, 04 Apr 2026 16:45:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47640728\">Comments</a>"
+    },
+    {
+        "id": "https://sllm.cloud",
+        "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
+        "link": "https://sllm.cloud",
+        "published": "Sat, 04 Apr 2026 15:18:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47639779\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/telegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns/articleshow/130022990.cms",
+        "title": "Telegram's Durov says Russia triggered payment system problem by blocking VPNs",
+        "link": "https://economictimes.indiatimes.com/tech/technology/telegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns/articleshow/130022990.cms",
+        "published": "Sat, 04 Apr 2026 21:44:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Telegram's billionaire founder, Pavel Durov, said on Saturday that Russia's attempt to block Virtual Private Networks (VPN) triggered a problem with a domestic payment \u200csystem, adding \u2060that tens \u2060of millions of Russians were resisting digital controls."
     }
 ]
