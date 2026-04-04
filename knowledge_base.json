@@ -178222,5 +178222,93 @@
         "published": "Sat, 04 Apr 2026 16:36:34 +0530",
         "source": "Tech-Economic Times",
         "summary": "As per media reports, Mercor was among thousands of firms affected by the compromise of LiteLLM. Even as Mercor has claimed that the malicious code was detected and removed, the breach drew attention because LiteLLM is widely used. LiteLLM has since strengthened its compliance measures, switching from the controversy-hit compliance startup Delve to Vanta for certifications."
+    },
+    {
+        "id": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
+        "title": "Super Meat Boy 3D makes suffering fun",
+        "link": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
+        "published": "2026-04-04T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "The original Super Meat Boy is one of the best-known indie games of all time. Released in 2010, it's a brutally difficult 2D platformer, but so fun to play: The short levels almost feel like speedrunning puzzles, and even though they're filled with traps and buzzsaws, dying isn't so bad because you revive nearly instantly. [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+        "title": "The app for tracking TV, movies, podcasts, and everything",
+        "link": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+        "published": "2026-04-04T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Hi, friends! Welcome to Installer No. 122, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, go 'Zona, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about early Apple employees and weather apps and one-page productivity systems, watching [&#8230;]"
+    },
+    {
+        "id": "https://arxiv.org/abs/2604.01193",
+        "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+        "link": "https://arxiv.org/abs/2604.01193",
+        "published": "Sat, 04 Apr 2026 10:26:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47637757\">Comments</a>"
+    },
+    {
+        "id": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+        "title": "The CMS is dead. Long live the CMS",
+        "link": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+        "published": "Sat, 04 Apr 2026 11:24:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47638075\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/job-scam-3-warning-signs-and-what-to-do/",
+        "title": "FTC reports a surge in $220M job fraud - here's how to vet listings, according to recruiters",
+        "link": "https://www.zdnet.com/article/job-scam-3-warning-signs-and-what-to-do/",
+        "published": "Sat, 04 Apr 2026 12:01:11 GMT",
+        "source": "Latest news",
+        "summary": "In a tough job market, having a recruiter offer you a job might seem like a blessing - but make sure it's legit first."
+    },
+    {
+        "id": "https://www.zdnet.com/article/lg-g6-vs-lg-g5-oled-tv/",
+        "title": "LG G6 vs. LG G5: I compared the flagship OLED TVs, and there's a surprise winner",
+        "link": "https://www.zdnet.com/article/lg-g6-vs-lg-g5-oled-tv/",
+        "published": "Sat, 04 Apr 2026 12:00:51 GMT",
+        "source": "Latest news",
+        "summary": "Between the new LG G6 OLED and last year's G5 OLED, here are the key differences to consider before upgrading."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/delve-row-explained-what-led-to-its-split-from-y-combinator/articleshow/130019248.cms",
+        "title": "Delve row explained: What led to its split from Y Combinator",
+        "link": "https://economictimes.indiatimes.com/tech/startups/delve-row-explained-what-led-to-its-split-from-y-combinator/articleshow/130019248.cms",
+        "published": "Sat, 04 Apr 2026 17:50:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Delve parts ways from YC: The controversy surrounding compliance startup Delve escalated rapidly over the past two weeks. Here\u2019s a look at how the events unfolded."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/who-are-delve-founders-karun-kaushik-and-selin-kocalar/articleshow/130018720.cms",
+        "title": "Who are Delve founders Karun Kaushik and Selin Kocalar?",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/who-are-delve-founders-karun-kaushik-and-selin-kocalar/articleshow/130018720.cms",
+        "published": "Sat, 04 Apr 2026 17:15:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Both founders, Karun Kaushik and Selin Kocalar, hold a bachelor\u2019s degree in artificial intelligence from the Massachusetts Institute of Technology and have also pursued scientific research projects. The two are now battling allegations of issuing hundreds of fabricated compliance certifications to Delve\u2019s clients. This has resulted in their backer, Y Combinator, removing Delve\u2019s profile from its startup directory."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/who-are-delve-founders-karun-kaushik-and-selin-kocalar/articleshow/130018693.cms",
+        "title": "Who are Delve founders Karun Kaushik and Selin Kocalar?",
+        "link": "https://economictimes.indiatimes.com/tech/startups/who-are-delve-founders-karun-kaushik-and-selin-kocalar/articleshow/130018693.cms",
+        "published": "Sat, 04 Apr 2026 17:15:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Both founders, Karun Kaushik and Selin Kocalar, hold a bachelor\u2019s degree in artificial intelligence from the Massachusetts Institute of Technology and have also pursued scientific research projects. The two are now battling allegations of issuing hundreds of fabricated compliance certifications to Delve\u2019s clients. This has resulted in their backer, Y Combinator, removing Delve\u2019s profile from its startup directory."
+    },
+    {
+        "id": "https://www.medianama.com/2026/04/223-indiaai-mission-400-crore-over-rs-10000-crore-5-year-outlay-released/",
+        "title": "IndiaAI mission: Only 400 crore of the over Rs 10,000 crore 5-year outlay has been released",
+        "link": "https://www.medianama.com/2026/04/223-indiaai-mission-400-crore-over-rs-10000-crore-5-year-outlay-released/",
+        "published": "Sat, 04 Apr 2026 12:16:27 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>IndiaAI Mission lags on fund disbursal despite large allocations, even as Amazon and Microsoft ramp up massive AI investments in India</p>\n<p>The post <a href=\"https://www.medianama.com/2026/04/223-indiaai-mission-400-crore-over-rs-10000-crore-5-year-outlay-released/\">IndiaAI mission: Only 400 crore of the over Rs 10,000 crore 5-year outlay has been released</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/04/223-mozilla-ai-search-future-revenue-diversification-mark-surman/",
+        "title": "Mozilla President Mark Surman on AI Disrupting Search and the Future of Browser Revenue",
+        "link": "https://www.medianama.com/2026/04/223-mozilla-ai-search-future-revenue-diversification-mark-surman/",
+        "published": "Sat, 04 Apr 2026 12:03:09 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>As AI reshapes search, Mozilla is rethinking its business model beyond Google deals.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/04/223-mozilla-ai-search-future-revenue-diversification-mark-surman/\">Mozilla President Mark Surman on AI Disrupting Search and the Future of Browser Revenue</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
