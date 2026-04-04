@@ -177910,5 +177910,53 @@
         "published": "Fri, 03 Apr 2026 22:20:19 +0000",
         "source": "Ars Technica - All content",
         "summary": "The cabin was colder on Thursday, but the crew has been able to adjust the temperature."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
+        "title": "Lucid blames dip in Q1 sales on seat supplier issue",
+        "link": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
+        "published": "Sat, 04 Apr 2026 01:03:13 +0000",
+        "source": "TechCrunch",
+        "summary": "Lucid said it has resolved the problem and is not changing its guidance for 2026."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+        "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+        "published": "2026-04-03T19:52:49-04:00",
+        "source": "The Verge",
+        "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
+        "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
+        "link": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
+        "published": "Fri, 03 Apr 2026 23:19:36 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Congress will likely reject the White House's NASA cuts, just as it did last year."
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=47633396",
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "link": "https://news.ycombinator.com/item?id=47633396",
+        "published": "Fri, 03 Apr 2026 22:55:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47633396\">Comments</a>"
+    },
+    {
+        "id": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+        "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+        "link": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+        "published": "Fri, 03 Apr 2026 23:26:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47633676\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/valuations-do-a-quick-jump-at-select-startups/articleshow/130007750.cms",
+        "title": "Valuations do a quick jump at select startups",
+        "link": "https://economictimes.indiatimes.com/tech/startups/valuations-do-a-quick-jump-at-select-startups/articleshow/130007750.cms",
+        "published": "Sat, 04 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian mid-stage startups are seeing significant valuation surges despite a broader funding slowdown, indicating a concentrated pool of high-growth opportunities. Investors are increasingly focusing on companies demonstrating exceptional growth, particularly in emerging sectors like AI, to achieve venture-style returns in a selective market."
     }
 ]
