@@ -178390,5 +178390,53 @@
         "published": "Sat, 04 Apr 2026 14:48:26 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47639524\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/ai/its-no-longer-free-to-use-claude-through-third-party-tools-like-openclaw-160912082.html?src=rss",
+        "title": "It's no longer free to use Claude through third-party tools like OpenClaw",
+        "link": "https://www.engadget.com/ai/its-no-longer-free-to-use-claude-through-third-party-tools-like-openclaw-160912082.html?src=rss",
+        "published": "Sat, 04 Apr 2026 16:09:12 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"no-affiliate-link\" href=\"https://www.engadget.com/ai/anthropic-brings-memory-to-claudes-free-plan-220729070.html\">Anthropic</a> is no longer offering a free ride for third-party apps using its Claude AI. Boris Cherny, Anthropic's creator and head of Claude Code, <a class=\"no-affiliate-link\" href=\"https://x.com/bcherny/status/2040206440556826908?s=20\">posted on X</a> that Claude subscriptions will no longer cover using the AI agent for third-party tools, like OpenClaw, for free. As o"
+    },
+    {
+        "id": "https://www.engadget.com/science/space/the-latest-on-the-artemis-ii-mission-to-the-moon-and-more-science-stories-160000539.html?src=rss",
+        "title": "The latest on the Artemis II mission to the moon, and more science stories",
+        "link": "https://www.engadget.com/science/space/the-latest-on-the-artemis-ii-mission-to-the-moon-and-more-science-stories-160000539.html?src=rss",
+        "published": "Sat, 04 Apr 2026 16:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>We got to share in a rare moment of collective awe this week as four <a class=\"link\" href=\"https://www.engadget.com/science/space/the-artemis-ii-mission-has-started-its-10-day-journey-around-the-moon-033412865.html\" target=\"_blank\">astronauts blasted off toward the moon</a>, beginning a 10-day journey that will take them farther from Earth than any humans have traveled in the last 50 years. It'll still be a little while before they reach their destination \u2014 the Orion spacecraft is expected to"
+    },
+    {
+        "id": "https://github.com/teamchong/turboquant-wasm",
+        "title": "Show HN: TurboQuant-WASM \u2013 Google's vector quantization in the browser",
+        "link": "https://github.com/teamchong/turboquant-wasm",
+        "published": "Sat, 04 Apr 2026 14:53:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47639567\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/strategic-blunder-or-genius-y-combinators-garry-tan-reacts-on-anthropics-openclaw-move/articleshow/130022846.cms",
+        "title": "Strategic blunder or genius?: Y Combinator\u2019s Garry Tan reacts on Anthropic\u2019s OpenClaw move",
+        "link": "https://economictimes.indiatimes.com/tech/technology/strategic-blunder-or-genius-y-combinators-garry-tan-reacts-on-anthropics-openclaw-move/articleshow/130022846.cms",
+        "published": "Sat, 04 Apr 2026 21:30:48 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic announced that users will no longer be able to use their Claude subscription limits with third-party tools such as OpenClaw. Users will instead have to switch to a separate pay-as-you-go option to access OpenClaw with Claude."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/strategic-blunder-or-genius-y-combinators-garry-tan-reacts-on-anthropics-openclaw-move/articleshow/130022823.cms",
+        "title": "Strategic blunder or genius?: Y Combinator\u2019s Garry Tan reacts on Anthropic\u2019s OpenClaw move",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/strategic-blunder-or-genius-y-combinators-garry-tan-reacts-on-anthropics-openclaw-move/articleshow/130022823.cms",
+        "published": "Sat, 04 Apr 2026 21:30:48 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic announced that users will no longer be able to use their Claude subscription limits with third-party tools such as OpenClaw. Users will instead have to switch to a separate pay-as-you-go option to access OpenClaw with Claude."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gujarat-hc-bars-ai-use-in-decision-making-judgment-drafting/articleshow/130022289.cms",
+        "title": "Gujarat HC bars AI use in decision-making, judgment drafting",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gujarat-hc-bars-ai-use-in-decision-making-judgment-drafting/articleshow/130022289.cms",
+        "published": "Sat, 04 Apr 2026 20:45:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to the high court's AI policy, unveiled on Saturday at a conference of district judiciary judges in Gujarat, AI should be used to improve the speed and quality of justice delivery, rather than as a replacement for judicial reasoning."
     }
 ]
