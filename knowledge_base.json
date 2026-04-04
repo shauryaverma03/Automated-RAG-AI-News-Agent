@@ -178078,5 +178078,13 @@
         "published": "Sat, 04 Apr 2026 04:23:05 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>A detailed overview of Telangana\u2019s Hate Speech and Hate Crimes (Prevention) Bill, 2026</p>\n<p>The post <a href=\"https://www.medianama.com/2026/04/223-telangana-hate-speech-law-2026/\">Telangana&#8217;s Hate Speech and Hate Crimes (Prevention) Bill, 2026: The Lowdown</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+        "title": "OpenClaw privilege escalation vulnerability",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+        "published": "Fri, 03 Apr 2026 16:21:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47628608\">Comments</a>"
     }
 ]
