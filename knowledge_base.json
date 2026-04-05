@@ -178870,5 +178870,37 @@
         "published": "Sun, 05 Apr 2026 11:04:00 +0000",
         "source": "WIRED",
         "summary": "Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up."
+    },
+    {
+        "id": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
+        "title": "How the Amazon Echo learned to talk \u2014 and listen",
+        "link": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
+        "published": "2026-04-05T08:24:45-04:00",
+        "source": "The Verge",
+        "summary": "Jeff Bezos badly wanted a voice computer. He had been saying so publicly since the very early days of Amazon, telling anyone who would listen about why voice might make it easier and more natural to interact with technology. (And to buy stuff from Jeff Bezos.) But when a team at Amazon set out to [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+        "title": "Grammarly\u2019s sloppelganger saga",
+        "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+        "published": "2026-04-05T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/best-apple-watch-bands/",
+        "title": "Best Apple Watch Bands of 2026: Nike, Herm\u00e9s, and More",
+        "link": "https://www.wired.com/story/best-apple-watch-bands/",
+        "published": "Sun, 05 Apr 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "We've actually been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I've rounded up the best for every occasion."
+    },
+    {
+        "id": "https://ergosphere.blog/posts/the-machines-are-fine/",
+        "title": "The threat is comfortable drift toward not understanding what you're doing",
+        "link": "https://ergosphere.blog/posts/the-machines-are-fine/",
+        "published": "Sun, 05 Apr 2026 09:57:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47647788\">Comments</a>"
     }
 ]
