@@ -178614,5 +178614,37 @@
         "published": "Sat, 04 Apr 2026 16:57:45 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47640875\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+        "title": "Artemis II is going so well that we're left to talk about frozen urine",
+        "link": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+        "published": "Sun, 05 Apr 2026 00:12:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"I think the fixation on the toilet is kind of human nature.\""
+    },
+    {
+        "id": "https://scottlawsonbc.com/post/shooting-down-ideas",
+        "title": "Shooting down ideas is not a skill",
+        "link": "https://scottlawsonbc.com/post/shooting-down-ideas",
+        "published": "Sun, 05 Apr 2026 00:42:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47645037\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/siddharthvaddem/openscreen",
+        "title": "OpenScreen is an open-source alternative to Screen Studio",
+        "link": "https://github.com/siddharthvaddem/openscreen",
+        "published": "Wed, 01 Apr 2026 01:31:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47595695\">Comments</a>"
+    },
+    {
+        "id": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+        "title": "AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",
+        "link": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+        "published": "Sun, 05 Apr 2026 00:13:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47644864\">Comments</a>"
     }
 ]
