@@ -178790,5 +178790,37 @@
         "published": "Sun, 05 Apr 2026 13:14:07 +0530",
         "source": "Tech-Economic Times",
         "summary": "Taiwan's Foxconn, a major electronics maker and Nvidia's top server supplier, announced a significant revenue increase. First-quarter earnings saw a 29.7% rise compared to last year. This growth was driven by robust demand for AI-related products. The company's revenue for January to March reached T$2.13 trillion. This performance exceeded analyst expectations, highlighting strong market interest."
+    },
+    {
+        "id": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
+        "title": "The Hack That Exposed Syria\u2019s Sweeping Security Failures",
+        "link": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
+        "published": "Sun, 05 Apr 2026 09:00:00 +0000",
+        "source": "WIRED",
+        "summary": "When Syrian government accounts were hijacked in March, the breach looked chaotic. But it revealed something more troubling: a state struggling with the most basic layer of cybersecurity."
+    },
+    {
+        "id": "https://lisette.run/",
+        "title": "Lisette a little language inspired by Rust that compiles to Go",
+        "link": "https://lisette.run/",
+        "published": "Sun, 05 Apr 2026 06:57:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47646843\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-should-you-create-personal-knowledge-bases-for-quicker-responses-to-queries-andrej-karpathy-explains/articleshow/130036489.cms",
+        "title": "Why should you create personal knowledge bases for quicker responses to queries? Andrej Karpathy explains",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-should-you-create-personal-knowledge-bases-for-quicker-responses-to-queries-andrej-karpathy-explains/articleshow/130036489.cms",
+        "published": "Sun, 05 Apr 2026 14:25:31 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Karpathy, a co-founder of OpenAI and a former director of AI at Elon Musk\u2019s Tesla, has proposed that users can deploy this strategy to track personal goals, health, or learning by organising journals, articles, and notes into a structured system."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/startups-that-solved-ai-mapping-problem-generated-1-9x-higher-revenue-study-finds/articleshow/130036394.cms",
+        "title": "Startups that solved AI mapping problem generated 1.9x higher revenue, study finds",
+        "link": "https://economictimes.indiatimes.com/tech/startups/startups-that-solved-ai-mapping-problem-generated-1-9x-higher-revenue-study-finds/articleshow/130036394.cms",
+        "published": "Sun, 05 Apr 2026 14:18:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The findings suggest that enabling firms to explore use cases and rethink workflows is critical to realising AI\u2019s economic potential."
     }
 ]
