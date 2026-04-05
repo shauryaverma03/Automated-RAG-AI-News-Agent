@@ -178902,5 +178902,37 @@
         "published": "Sun, 05 Apr 2026 09:57:25 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47647788\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
+        "title": "Is the Slate Truck too minimal for its own good?",
+        "link": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
+        "published": "2026-04-05T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "The first thing you notice about the Slate Truck is its size. It's small, surprisingly so. In a country where trucks often come with their own zip code, Slate's pickup is refreshingly puny, measuring 174.6 inches long, 70.6 inches wide, and 69.3 inches tall, with a curb weight of approximately 3,602 pounds (1,634kg). As a [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+        "title": "CBP facility codes sure seem to have leaked via online flashcards",
+        "link": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+        "published": "Sun, 05 Apr 2026 11:07:27 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Quizlet flashcards seem to include sensitive information about gate security at CBP locations."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/devils-on-the-moon-brings-the-score-chasing-of-pinball-to-the-playdate-130000414.html?src=rss",
+        "title": "Devils on the Moon brings the score-chasing of pinball to the Playdate",
+        "link": "https://www.engadget.com/gaming/devils-on-the-moon-brings-the-score-chasing-of-pinball-to-the-playdate-130000414.html?src=rss",
+        "published": "Sun, 05 Apr 2026 13:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Pinball video games have been around for years \u2014 I cut my teeth on <em>Space Cadet 3D Pinball</em>, which was pre-loaded on Windows 95. They range from realistic recreations of pinball tables you\u2019ll find at arcades to games that could never exist in real life like 2019\u2019s <em>Demon\u2019s Tilt</em> or older ones like <em>Metroid Prime Pinball</em> for the Nintendo DS or <em>Pok\u00e9mon Pinball</em> for the Game Boy Color. </p><p>I didn\u2019t expect to find a detailed pinball game for the humble and delight"
+    },
+    {
+        "id": "http://iguanaworks.net/products/usb-ir-transceiver.html",
+        "title": "Iguanaworks has closed down. USB Infrared hardware open source maker",
+        "link": "http://iguanaworks.net/products/usb-ir-transceiver.html",
+        "published": "Sun, 05 Apr 2026 13:18:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47649148\">Comments</a>"
     }
 ]
