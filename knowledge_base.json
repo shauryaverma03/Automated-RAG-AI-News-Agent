@@ -179006,5 +179006,45 @@
         "published": "Sun, 05 Apr 2026 14:18:12 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47649721\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/samsung-will-discontinue-its-messages-app-in-july-and-replace-it-with-googles-162204307.html?src=rss",
+        "title": "Samsung will discontinue its Messages app in July and replace it with Google's",
+        "link": "https://www.engadget.com/mobile/smartphones/samsung-will-discontinue-its-messages-app-in-july-and-replace-it-with-googles-162204307.html?src=rss",
+        "published": "Sun, 05 Apr 2026 16:22:04 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Samsung is putting the final nail in the coffin for its own messaging app. The smartphone maker posted an \"End of Service Announcement\" on <a class=\"no-affiliate-link\" href=\"https://www.samsung.com/us/apps/samsung-messages/\">its website</a>, revealing that the Samsung Messages app will no longer be available by July of this year. Samsung also recommended that anyone still using Samsung Messages switch over to Google Messages as the default messaging app.</p>\n<p>For Samsung Messages users in t"
+    },
+    {
+        "id": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+        "title": "Codex is switching to API pricing based usage for all users",
+        "link": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+        "published": "Sun, 05 Apr 2026 15:58:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47650726\">Comments</a>"
+    },
+    {
+        "id": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+        "title": "A tail-call interpreter in (nightly) Rust",
+        "link": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+        "published": "Sun, 05 Apr 2026 15:18:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47650312\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/trump-administration-proposes-expanding-chinese-tech-gear-crackdown/articleshow/130043666.cms",
+        "title": "Trump administration proposes expanding Chinese tech gear crackdown",
+        "link": "https://economictimes.indiatimes.com/tech/technology/trump-administration-proposes-expanding-chinese-tech-gear-crackdown/articleshow/130043666.cms",
+        "published": "Sun, 05 Apr 2026 22:49:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The FCC had in 2021 added telecommunications and video surveillance equipment made by Huawei, ZTE, Hytera, Hikvision and Dahua to its so-called \"Covered List\" of \u200ccompanies posing \u2060U.S. national \u2060security risks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/kremlins-drive-for-a-state-backed-messaging-app-touches-a-nerve-for-some/articleshow/130043561.cms",
+        "title": "Kremlin's drive for a state-backed messaging app touches a nerve for some",
+        "link": "https://economictimes.indiatimes.com/tech/technology/kremlins-drive-for-a-state-backed-messaging-app-touches-a-nerve-for-some/articleshow/130043561.cms",
+        "published": "Sun, 05 Apr 2026 22:47:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In \u200bwhat has been cast by diplomats as Russia's \"great crackdown\", Russia has repeatedly blocked mobile internet and \u200bgranted sweeping powers to cut off mass communications while jamming messaging services and virtual private networks."
     }
 ]
