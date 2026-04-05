@@ -178694,5 +178694,61 @@
         "published": "Sun, 05 Apr 2026 02:15:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we showcase a range of artworks from the Museum of Goa, and curator insights."
+    },
+    {
+        "id": "https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/",
+        "title": "What if the browser built the UI for you?",
+        "link": "https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/",
+        "published": "Sun, 05 Apr 2026 04:18:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47646065\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/satellite-imaging-firm-planet-labs-to-indefinitely-withhold-iran-war-images/articleshow/130034473.cms",
+        "title": "Satellite imaging firm Planet Labs to indefinitely withhold Iran war images",
+        "link": "https://economictimes.indiatimes.com/tech/technology/satellite-imaging-firm-planet-labs-to-indefinitely-withhold-iran-war-images/articleshow/130034473.cms",
+        "published": "Sun, 05 Apr 2026 11:37:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Satellite firm Planet Labs will stop sharing images of Iran and the Middle East conflict zone. This decision follows a US government request. The company is restricting visuals dating back to March 9. This policy aims to prevent adversaries from using the imagery. The restriction is expected to last until the conflict concludes. Other providers are also implementing controls."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-mistral-ai-discuss-cooperation-in-ai-memory-sector/articleshow/130034001.cms",
+        "title": "Samsung, Mistral AI discuss cooperation in AI memory sector",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-mistral-ai-discuss-cooperation-in-ai-memory-sector/articleshow/130034001.cms",
+        "published": "Sun, 05 Apr 2026 10:37:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Samsung Electronics and French AI startup Mistral AI explored cooperation in AI memory. Mistral AI CEO Arthur Mensch met Samsung's head of device solutions. This follows French President Emmanuel Macron's visit to Seoul. Mistral AI seeks stable semiconductor supply for its AI models. The discussions aim to ensure reliable chip supply amid tight market conditions."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-is-project-maven-pentagons-flagship-ai-program-powering-us-strikes-on-iran/articleshow/130033752.cms",
+        "title": "What is Project Maven? Pentagon\u2019s flagship AI program powering US strikes on Iran",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-is-project-maven-pentagons-flagship-ai-program-powering-us-strikes-on-iran/articleshow/130033752.cms",
+        "published": "Sun, 05 Apr 2026 10:10:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Project Maven, a Pentagon AI program, is now central to US strikes against Iran. This artificial intelligence system accelerates the process of identifying and striking targets.  Initially a drone footage analysis tool, it has evolved into a battlefield management system.  Companies like Palantir are now key contractors.  The program's speed is reportedly enabling a high pace of strikes."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/britain-woos-expansion-effort-by-anthropic-after-us-defence-clash-report/articleshow/130033754.cms",
+        "title": "Britain woos expansion effort by Anthropic after US defence clash: Report",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/britain-woos-expansion-effort-by-anthropic-after-us-defence-clash-report/articleshow/130033754.cms",
+        "published": "Sun, 05 Apr 2026 10:04:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Britain woos expansion effort by Anthropic after US defence clash, FT says"
+    },
+    {
+        "id": "https://inc42.com/features/why-makemytrip-became-a-short-seller-target/",
+        "title": "Why MakeMyTrip Became A Short-Seller Target",
+        "link": "https://inc42.com/features/why-makemytrip-became-a-short-seller-target/",
+        "published": "Sun, 05 Apr 2026 05:30:34 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Why MakeMyTrip Became A Short-Seller Target\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/MMT-Inc42-Markets.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />A short-seller report sent MakeMyTrip\u2019s stock to its lowest point in a year. The question at the centre of the&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/blinkit-checks-in-at-mumbai-airport/",
+        "title": "Blinkit Checks In At Mumbai Airport",
+        "link": "https://inc42.com/features/blinkit-checks-in-at-mumbai-airport/",
+        "published": "Sun, 05 Apr 2026 05:30:30 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/Blinkit-Outline-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Most frequent travellers will relate to this: you get your boarding pass, clear security checks at the airport, and finally&#8230;"
     }
 ]
