@@ -179102,5 +179102,37 @@
         "published": "Sun, 05 Apr 2026 17:13:51 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47651540\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+        "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
+        "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+        "published": "Sun, 05 Apr 2026 19:36:03 +0000",
+        "source": "TechCrunch",
+        "summary": "A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S. would confirm the rescue of Air Force service members shot down over Iran."
+    },
+    {
+        "id": "https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength",
+        "title": "Bacteria found in the human intestine capable of improving muscle strength",
+        "link": "https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength",
+        "published": "Sun, 05 Apr 2026 19:01:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47652726\">Comments</a>"
+    },
+    {
+        "id": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+        "title": "Gemma 4 on iPhone",
+        "link": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+        "published": "Sun, 05 Apr 2026 18:45:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47652561\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/love2d/love",
+        "title": "L\u00d6VE: 2D Game Framework for Lua",
+        "link": "https://github.com/love2d/love",
+        "published": "Sat, 04 Apr 2026 09:20:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47637377\">Comments</a>"
     }
 ]
