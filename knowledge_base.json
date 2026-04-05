@@ -178646,5 +178646,53 @@
         "published": "Sun, 05 Apr 2026 00:13:55 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47644864\">Comments</a>"
+    },
+    {
+        "id": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+        "title": "Writing Lisp Is AI Resistant and I'm Sad",
+        "link": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+        "published": "Sun, 05 Apr 2026 02:01:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47645468\">Comments</a>"
+    },
+    {
+        "id": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+        "title": "Introduction to Computer Music [pdf]",
+        "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+        "published": "Sun, 05 Apr 2026 01:54:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47645432\">Comments</a>"
+    },
+    {
+        "id": "https://isseven.app/",
+        "title": "Isseven",
+        "link": "https://isseven.app/",
+        "published": "Sun, 05 Apr 2026 01:05:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47645168\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/leafypod-smart-planter-review/",
+        "title": "I let a smart planter maintain itself while I was away for 2 months - here's the result",
+        "link": "https://www.zdnet.com/article/leafypod-smart-planter-review/",
+        "published": "Sun, 05 Apr 2026 01:16:48 GMT",
+        "source": "Latest news",
+        "summary": "The LeafyPod smart planter will turn even the worst plant killer into a green thumb."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/steep-decline-in-vc-inflow-tech-job-openings-in-april",
+        "title": "Steep decline in VC inflow; Tech job openings in April",
+        "link": "https://yourstory.com/2026/04/steep-decline-in-vc-inflow-tech-job-openings-in-april",
+        "published": "Sun, 05 Apr 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Venture capital funding in Indian startups saw a sharp decline in the first week of April due to the clear absence of high-value deals. In other news, job openings for technology professionals in India are 8% lower in April, compared to March."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/museum-of-goa-art-creativity-photography",
+        "title": "Professionals, beginners, children: Museum of Goa inspires generations with art",
+        "link": "https://yourstory.com/2026/04/museum-of-goa-art-creativity-photography",
+        "published": "Sun, 05 Apr 2026 02:15:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In this photo essay, we showcase a range of artworks from the Museum of Goa, and curator insights."
     }
 ]
