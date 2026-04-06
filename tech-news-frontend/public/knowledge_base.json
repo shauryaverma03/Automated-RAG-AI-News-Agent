@@ -179142,5 +179142,45 @@
         "published": "Sun, 05 Apr 2026 21:19:19 +0000",
         "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
         "summary": "<p>The Artemis II crew is <a class=\"link\" href=\"https://www.engadget.com/science/space/the-latest-on-the-artemis-ii-mission-to-the-moon-and-more-science-stories-160000539.html\" target=\"_blank\">almost at the moon</a>, and the astronauts spent this weekend carrying out preparations for their lunar flyby on Monday. That included manual piloting demonstrations, reviewing their science objectives for the six-hour observation period and evaluating their space suits, which are there for life support in"
+    },
+    {
+        "id": "https://playlists.at/youtube/search/",
+        "title": "Show HN: YouTube search barely works, I made a search form with advanced filters",
+        "link": "https://playlists.at/youtube/search/",
+        "published": "Mon, 06 Apr 2026 00:18:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47655392\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/semicon-mission-2-0-set-to-prioritise-memory-chips/articleshow/130045533.cms",
+        "title": "Semicon Mission 2.0 set to prioritise memory chips",
+        "link": "https://economictimes.indiatimes.com/tech/technology/semicon-mission-2-0-set-to-prioritise-memory-chips/articleshow/130045533.cms",
+        "published": "Mon, 06 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's semiconductor mission is shifting focus to advanced memory packaging. High Bandwidth Memory, crucial for AI data centers, will be prioritized. This move aims to integrate India into the global manufacturing value chain for this critical technology. Officials confirm that applications for HBM production will receive precedence under the new mission phase."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ettech-explainer-agentic-harness-the-software-that-makes-ai-tick/articleshow/130044887.cms",
+        "title": "ETtech Explainer: Agentic harness, the software that makes AI tick",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ettech-explainer-agentic-harness-the-software-that-makes-ai-tick/articleshow/130044887.cms",
+        "published": "Mon, 06 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian enterprises are increasingly adopting AI agents for complex business workflows, but the crucial 'agentic harness' is emerging as the key differentiator. This software framework enables AI models to act autonomously and safely, managing memory, tools, and human oversight, becoming the most contested layer in the AI value chain."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/indian-it-companies-likely-to-dodge-west-asia-war-volleys-in-q4/articleshow/130044613.cms",
+        "title": "Indian IT companies likely to dodge West Asia war volleys in Q4",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/indian-it-companies-likely-to-dodge-west-asia-war-volleys-in-q4/articleshow/130044613.cms",
+        "published": "Mon, 06 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian IT firms face moderate short-term risks from the West Asia war, particularly those with energy and utility clients. Geopolitical uncertainty may delay discretionary spending and new projects, impacting growth guidance despite currency tailwinds. Specific companies like Tech Mahindra and Coforge are noted to have direct exposure to regional impacts."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/platforms-brace-for-impact-as-gig-workforce-returns-home/articleshow/130044277.cms",
+        "title": "Platforms brace for impact as gig workforce returns home",
+        "link": "https://economictimes.indiatimes.com/tech/startups/platforms-brace-for-impact-as-gig-workforce-returns-home/articleshow/130044277.cms",
+        "published": "Mon, 06 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to industry executives, the daily active gig workers on quick commerce platforms are currently running 10-12% below early-2026 levels. The timing is particularly damaging. Typically, quick commerce as well as food delivery platforms see an uptick in demand during this period due to Indian Premier League (IPL) matches."
     }
 ]
