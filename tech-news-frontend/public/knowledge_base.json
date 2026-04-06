@@ -180086,5 +180086,45 @@
         "published": "Mon, 06 Apr 2026 17:55:44 GMT",
         "source": "Latest news",
         "summary": "I didn't see much benefit for Google's AI - until now. Here are my favorite ways to use the new Gemini integration in my car."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+        "title": "Google quietly launched an AI dictation app that works offline",
+        "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+        "published": "Mon, 06 Apr 2026 18:54:33 +0000",
+        "source": "TechCrunch",
+        "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/",
+        "title": "NASA's Moon ship and rocket seem to be working well, so what about the landers?",
+        "link": "https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/",
+        "published": "Mon, 06 Apr 2026 18:19:07 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Lori Glaze: \"We have seen real commitment to try and do that... from both Blue and from SpaceX.\""
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
+        "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
+        "link": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
+        "published": "Mon, 06 Apr 2026 17:39:07 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "LG almost released a rollable smartphone in 2021, and this is what it looked like inside."
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/apple-will-again-appeal-to-the-supreme-court-in-battle-with-epic-games-193551758.html?src=rss",
+        "title": "Apple will again appeal to the Supreme Court in battle with Epic Games",
+        "link": "https://www.engadget.com/big-tech/apple-will-again-appeal-to-the-supreme-court-in-battle-with-epic-games-193551758.html?src=rss",
+        "published": "Mon, 06 Apr 2026 19:35:51 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The legal battle between Epic Games and Apple is escalating once again. For a second time, the warring factions are going straight to the top of the judicial system. Apple is <a class=\"link\" href=\"https://www.courtlistener.com/docket/70190916/187/epic-games-inc-v-apple-inc/\" target=\"_blank\">asking</a> for the Supreme Court to review when and how it can charge commissions on mobile purchases made via third-party payment systems. The business has requested a motion to stay on a <a class=\"link\" "
+    },
+    {
+        "id": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+        "title": "The Cult of Vibe Coding Is Insane",
+        "link": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+        "published": "Mon, 06 Apr 2026 18:31:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47664912\">Comments</a>"
     }
 ]
