@@ -180126,5 +180126,21 @@
         "published": "Mon, 06 Apr 2026 18:31:03 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47664912\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/",
+        "title": "A Single Strike Won\u2019t Shut Off the Gulf\u2019s Desalination System",
+        "link": "https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/",
+        "published": "Mon, 06 Apr 2026 20:23:04 +0000",
+        "source": "WIRED",
+        "summary": "The Gulf\u2019s water system is built with layers of backup, but it relies on continuous operation to hold."
+    },
+    {
+        "id": "https://github.com/matthartman/ghost-pepper",
+        "title": "Show HN: Ghost Pepper \u2013 100% local hold-to-talk speech-to-text for macOS",
+        "link": "https://github.com/matthartman/ghost-pepper",
+        "published": "Mon, 06 Apr 2026 19:50:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47666024\">Comments</a>"
     }
 ]
