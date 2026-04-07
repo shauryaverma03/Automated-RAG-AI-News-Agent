@@ -181774,5 +181774,45 @@
         "published": "Tue, 07 Apr 2026 19:37:05 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47680309\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+        "title": "I can\u2019t help rooting for tiny open source AI model maker Arcee",
+        "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+        "published": "Tue, 07 Apr 2026 21:35:02 +0000",
+        "source": "TechCrunch",
+        "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale",
+        "title": "Nothing\u2019s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today",
+        "link": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale",
+        "published": "2026-04-07T18:16:21-04:00",
+        "source": "The Verge",
+        "summary": "It\u2019s not every day you find a decent pair of wireless earbuds with active noise cancellation, a transparency mode, and app support for less than $20, which is why the current lighting deal on the CMF Buds 2A stands out. Now through 11:15PM ET today, April 7th, Nothing\u2019s budget earbuds are available on Amazon in [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
+        "title": "Amazon is ending support for older Kindles and Kindle Fires",
+        "link": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
+        "published": "2026-04-07T17:44:20-04:00",
+        "source": "The Verge",
+        "summary": "Amazon has announced that starting on May 20th, 2026, Kindle e-readers and Kindle Fire devices released in 2012 and earlier will \"no longer be able to purchase, borrow, or download new content via the Kindle Store,\" Amazon spokesperson Jackie Burke wrote in an email to The Verge. Users will still be able to read books [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/anthropic-launches-project-glasswing-an-effort-to-prevent-ai-cyberattacks-with-ai-214939773.html?src=rss",
+        "title": "Anthropic launches Project Glasswing, an effort to prevent AI cyberattacks with AI",
+        "link": "https://www.engadget.com/ai/anthropic-launches-project-glasswing-an-effort-to-prevent-ai-cyberattacks-with-ai-214939773.html?src=rss",
+        "published": "Tue, 07 Apr 2026 21:49:39 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>We see a lot of doom and gloom about the potential negative impacts of artificial intelligence, particularly centered on how it could create new problems in cybersecurity. Anthropic has <a class=\"link\" href=\"https://www.anthropic.com/glasswing\" target=\"_blank\">announced</a> a new initiative called Project Glasswing to help address those concerns by working &quot;to secure the world\u2019s most critical software&quot; against AI-powered attacks. The endeavor includes Amazon Web Services, Apple, Bro"
+    },
+    {
+        "id": "https://www.nasa.gov/gallery/lunar-flyby/",
+        "title": "Lunar Flyby",
+        "link": "https://www.nasa.gov/gallery/lunar-flyby/",
+        "published": "Tue, 07 Apr 2026 15:03:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47676509\">Comments</a>"
     }
 ]
