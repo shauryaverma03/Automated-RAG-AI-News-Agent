@@ -180350,5 +180350,101 @@
         "published": "Tue, 07 Apr 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Talking Point Firms are pausing AI projects amid rising fears around data exposure, governance gaps, geopolitical tensions &amp; dependence on global providers, ET writes."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
+        "title": "AI design platform Picsart launches a creator monetization program",
+        "link": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
+        "published": "Tue, 07 Apr 2026 04:01:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages."
+    },
+    {
+        "id": "https://github.com/solod-dev/solod",
+        "title": "Solod \u2013 A Subset of Go That Translates to C",
+        "link": "https://github.com/solod-dev/solod",
+        "published": "Tue, 07 Apr 2026 00:48:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47669337\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/Netflix/void-model",
+        "title": "VOID: Video Object and Interaction Deletion",
+        "link": "https://github.com/Netflix/void-model",
+        "published": "Fri, 03 Apr 2026 15:38:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47627998\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/lg-g6-vs-samsung-s95h/",
+        "title": "LG G6 vs. Samsung S95H: I compared the best OLED TVs of 2026 and made a tough choice",
+        "link": "https://www.zdnet.com/article/lg-g6-vs-samsung-s95h/",
+        "published": "Tue, 07 Apr 2026 01:30:57 GMT",
+        "source": "Latest news",
+        "summary": "The LG G6 and Samsung S95H are two premium-grade OLED TVs with excellent picture and sound, but which is the better buy?"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/china-targets-taiwans-chip-prowess-to-evade-global-containment-taipei-government-says/articleshow/130075380.cms",
+        "title": "China targets Taiwan's chip prowess to evade global 'containment', Taipei government says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/china-targets-taiwans-chip-prowess-to-evade-global-containment-taipei-government-says/articleshow/130075380.cms",
+        "published": "Tue, 07 Apr 2026 09:17:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Taiwan, which China claims as its own territory, frequently reports busting networks \u200cof Chinese firms \u2060illegally trying \u2060to poach semiconductor and high-tech talent, and has strict laws to prevent the most advanced technologies from going to China. In \u200ba report to lawmakers, Taiwan's National Security Bureau said that China is attempting to \"lure\" Taiwan's high-tech industries, including \u200bAI and semiconductors, to establish or retain operations in China."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apples-foldable-iphone-faces-engineering-snags-potential-shipment-delays-nikkei-asia/articleshow/130075227.cms",
+        "title": "Apple's foldable iPhone faces engineering snags, potential shipment delays: Nikkei Asia",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apples-foldable-iphone-faces-engineering-snags-potential-shipment-delays-nikkei-asia/articleshow/130075227.cms",
+        "published": "Tue, 07 Apr 2026 09:03:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Apple has been facing technical challenges while testing its first foldable iPhone, which may delay production and release. Early engineering issues mean more time is needed for fixes. The foldable model was expected around late 2026, alongside other upgraded iPhones, but timelines could slip."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-generated-artists-break-through-in-country-music/articleshow/130074895.cms",
+        "title": "AI-generated artists break through in country music",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-generated-artists-break-through-in-country-music/articleshow/130074895.cms",
+        "published": "Tue, 07 Apr 2026 08:39:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI-generated country singers are gaining popularity by mimicking modern, formulaic sounds. These songs are easy to produce and often lack deep storytelling, worrying human songwriters. While some listeners don\u2019t mind, others value authenticity. Experts believe emotional, traditional styles may help human artists remain unique and harder for AI to replicate."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/australias-firmus-raises-505-million-to-expand-ai-infrastructure-across-asia-pacific/articleshow/130074841.cms",
+        "title": "Australia's Firmus raises $505 million to expand AI infrastructure across Asia-Pacific",
+        "link": "https://economictimes.indiatimes.com/tech/funding/australias-firmus-raises-505-million-to-expand-ai-infrastructure-across-asia-pacific/articleshow/130074841.cms",
+        "published": "Tue, 07 Apr 2026 08:35:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The company plans to use the funds to \u200bscale its AI infrastructure platform across the \u200bAsia-Pacific region. It will also \u2060support its Project Southgate initiative, which \u200baims to build a \u200bnetwork of AI factories across Australia. The project, developed in collaboration with Nvidia and CDC Data Centres, is expected \u200cto reach a capacity of up to \u200b1.6 gigawatts \u200bover the \u2060next three years."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spacex-lays-out-ipo-details-targets-early-june-roadshow/articleshow/130074203.cms",
+        "title": "SpaceX lays out IPO details, targets early June roadshow",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spacex-lays-out-ipo-details-targets-early-june-roadshow/articleshow/130074203.cms",
+        "published": "Tue, 07 Apr 2026 07:56:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SpaceX outlined details of its highly anticipated IPO at a meeting with its team of bankers Monday night, telling them it plans to earmark a large portion of shares for retail investors and will host 1,500 of them at an event in June following the IPO \u200croadshow launch."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/books-build-writing-skills",
+        "title": "Want to write better? 3 books to improve writing skills",
+        "link": "https://yourstory.com/2026/04/books-build-writing-skills",
+        "published": "Tue, 07 Apr 2026 02:15:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover 3 best books to build strong and clear writing skills, helping you improve clarity, creativity, and communication in your writing journey."
+    },
+    {
+        "id": "https://inc42.com/buzz/tech-jobs-on-the-gallows-gosats-bags-5-mn-more/",
+        "title": "Tech Jobs On The Gallows, GoSats Bags $5 Mn & More",
+        "link": "https://inc42.com/buzz/tech-jobs-on-the-gallows-gosats-bags-5-mn-more/",
+        "published": "Tue, 07 Apr 2026 02:30:00 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Tech Jobs On The Gallows, GoSats Bags $5 Mn &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/FTR-Daily-Brief-2026-04-07T020051.918.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The AI Cover Story For Layoffs As AI adoption soars, an unsettling reality is unravelling. Global tech giants are slashing&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/ai-new-cover-for-big-tech-layoffs/",
+        "title": "The AI Effect Or Just A Cover: What\u2019s Behind Big Tech Layoffs This Year?",
+        "link": "https://inc42.com/features/ai-new-cover-for-big-tech-layoffs/",
+        "published": "Tue, 07 Apr 2026 01:30:36 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"The AI Effect Or Just A Cover: What&#039;s Behind Big Tech Layoffs This Year?\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/ftr-9-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />AI was supposed to change how we work, boosting efficiency and giving a fillip to human expertise. Instead, something unsettling&#8230;"
     }
 ]
