@@ -180262,5 +180262,93 @@
         "published": "Mon, 06 Apr 2026 10:36:57 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47659135\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
+        "title": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
+        "link": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
+        "published": "Mon, 06 Apr 2026 22:34:11 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The charter renewal gives Kennedy broad authority to pick anyone for the panel."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+        "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
+        "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+        "published": "Mon, 06 Apr 2026 22:18:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "New model can respond to disruptions and figure out moves it wasn't trained for."
+    },
+    {
+        "id": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+        "title": "After 20 years I turned off Google Adsense for my websites",
+        "link": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+        "published": "Mon, 06 Apr 2026 23:23:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47668727\">Comments</a>"
+    },
+    {
+        "id": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+        "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "published": "Mon, 06 Apr 2026 21:52:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47667717\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/android-auto-custom-assistant-shortcuts-feature-tips/",
+        "title": "I found Android Auto's hidden shortcut that automates any task in your car - and it's brilliant",
+        "link": "https://www.zdnet.com/article/android-auto-custom-assistant-shortcuts-feature-tips/",
+        "published": "Tue, 07 Apr 2026 01:00:38 GMT",
+        "source": "Latest news",
+        "summary": "Android Auto's best feature is one you probably haven't discovered yet - and Custom Assistant takes only a minute to set up."
+    },
+    {
+        "id": "https://www.zdnet.com/article/samsung-rolls-out-google-cast-to-older-tvs/",
+        "title": "Samsung's latest TV firmware update fixes the Chromecast issue for older models - finally",
+        "link": "https://www.zdnet.com/article/samsung-rolls-out-google-cast-to-older-tvs/",
+        "published": "Tue, 07 Apr 2026 00:00:40 GMT",
+        "source": "Latest news",
+        "summary": "Samsung's 2026 TV lineup will feature built-in support for Google Cast, but with the latest firmware, models as far back as 2024 will also get an update."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/netflix-debuts-new-playground-gaming-app-for-kids/articleshow/130073533.cms",
+        "title": "Netflix debuts new Playground gaming app for kids",
+        "link": "https://economictimes.indiatimes.com/tech/technology/netflix-debuts-new-playground-gaming-app-for-kids/articleshow/130073533.cms",
+        "published": "Tue, 07 Apr 2026 06:33:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Netflix doubled down on its gaming \u200befforts on Monday, launching \u200ba new app called \"Netflix Playground\" that would feature games \u200bbuilt around popular children's characters such as Peppa Pig and Sesame Street."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/indias-tech-talent-chill-polymarkets-ipl-moment/articleshow/130073372.cms",
+        "title": "India's tech talent chill; Polymarket's IPL moment",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/indias-tech-talent-chill-polymarkets-ipl-moment/articleshow/130073372.cms",
+        "published": "Tue, 07 Apr 2026 06:24:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Tuesday! The tech sector is seeing a slowdown in hiring driven by internal cost controls. This and more in today's ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-you-can-get-started-with-ai-agents-and-get-your-life-back/articleshow/130068021.cms",
+        "title": "How you can get started with AI agents\u2026 and get your life back",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-you-can-get-started-with-ai-agents-and-get-your-life-back/articleshow/130068021.cms",
+        "published": "Tue, 07 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Personal productivity systems are now accessible to everyone. Agents, not just for coders, manage tasks like industry news and meeting follow-ups. These systems act autonomously, unlike simple chatbots. Setting up an agent involves clear instructions for specific tasks. As more agents are added, they compound, freeing up personal time. This technology is transforming how individuals manage their daily lives."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/et-graphics-future-of-search-is-on-fast-track/articleshow/130067614.cms",
+        "title": "ET Graphics: Future of search is on fast track",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/et-graphics-future-of-search-is-on-fast-track/articleshow/130067614.cms",
+        "published": "Tue, 07 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\u200b\u200bA new realm is now developing alongside it. Generative engine optimisation (GEO) is about being the source that AI tools like ChatGPT, Perplexity and Google\u2019s AI Overviews draw from when they answer a question. Not a link in a list, the answer itself."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ais-defence-push-raises-alarm-bells-at-top-enterprises/articleshow/130067575.cms",
+        "title": "AI\u2019s defence push raises alarm bells at top enterprises",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ais-defence-push-raises-alarm-bells-at-top-enterprises/articleshow/130067575.cms",
+        "published": "Tue, 07 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Talking Point Firms are pausing AI projects amid rising fears around data exposure, governance gaps, geopolitical tensions &amp; dependence on global providers, ET writes."
     }
 ]
