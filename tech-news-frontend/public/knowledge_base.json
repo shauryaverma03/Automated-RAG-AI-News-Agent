@@ -181686,5 +181686,61 @@
         "published": "Wed, 08 Apr 2026 00:12:09 +0530",
         "source": "Tech-Economic Times",
         "summary": "Under its \"Project Glasswing\", select organizations will be allowed to use the startup's unreleased and general-purpose AI model, \"Claude Mythos Preview\", for defensive \u200ccybersecurity work, Anthropic \u2060said. \u2060Other partners include CrowdStrike, Palo Alto Networks, Google and Nvidia."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
+        "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn",
+        "link": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/",
+        "published": "Tue, 07 Apr 2026 19:59:06 +0000",
+        "source": "TechCrunch",
+        "summary": "A joint FBI, NSA, and CISA advisory warns that Iranian hackers have 'escalated' their tactics in response to the ongoing U.S.-Israel war with Iran."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+        "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
+        "link": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+        "published": "2026-04-07T16:13:23-04:00",
+        "source": "The Verge",
+        "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta feature in December, but previously only worked for music. You can use the feature to effectively generate customized Discover [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/",
+        "title": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure",
+        "link": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/",
+        "published": "Tue, 07 Apr 2026 20:13:51 +0000",
+        "source": "WIRED",
+        "summary": "As Trump threatens Iranian infrastructure, the US government warns that Iran has carried out its own digital attacks against US critical infrastructure."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+        "title": "What the heck is wrong with our AI overlords?",
+        "link": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+        "published": "Tue, 07 Apr 2026 20:02:25 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "New profile of Sam Altman shines a light on a whole industry."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+        "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+        "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+        "published": "Tue, 07 Apr 2026 19:09:44 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Use of AI coding tools has become a convenient boogeyman for any tech issues."
+    },
+    {
+        "id": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+        "title": "S3 Files and the changing face of S3",
+        "link": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+        "published": "Tue, 07 Apr 2026 19:44:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47680404\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/airpod-cleaner-tool-testimonial/",
+        "title": "Your AirPods are gross. This $6 tool will keep them sparkling clean",
+        "link": "https://www.zdnet.com/article/airpod-cleaner-tool-testimonial/",
+        "published": "Tue, 07 Apr 2026 20:07:20 GMT",
+        "source": "Latest news",
+        "summary": "Yes, you should be cleaning your earbuds regularly. This cheap little tool makes it easy - and it costs about the same as a coffee."
     }
 ]
