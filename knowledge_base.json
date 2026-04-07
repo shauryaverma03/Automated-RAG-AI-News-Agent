@@ -181742,5 +181742,37 @@
         "published": "Tue, 07 Apr 2026 20:07:20 GMT",
         "source": "Latest news",
         "summary": "Yes, you should be cleaning your earbuds regularly. This cheap little tool makes it easy - and it costs about the same as a coffee."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+        "title": "VC Eclipse has a new $1.3B to back \u2014 and build \u2014 \u2018physical AI\u2019 startups",
+        "link": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
+        "published": "Tue, 07 Apr 2026 21:24:54 +0000",
+        "source": "TechCrunch",
+        "summary": "Eclipse will put some of that money towards incubating, or building startups."
+    },
+    {
+        "id": "https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/",
+        "title": "The iPhone Gets a D- for Repairability",
+        "link": "https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/",
+        "published": "Tue, 07 Apr 2026 20:59:10 +0000",
+        "source": "WIRED",
+        "summary": "It\u2019s a better rating than the company has gotten from repairability experts before, at least. Samsung is second worst with a D."
+    },
+    {
+        "id": "https://www.engadget.com/apps/x-has-a-slightly-more-functional-photo-editor-now-210825833.html?src=rss",
+        "title": "X has a slightly more functional photo editor now",
+        "link": "https://www.engadget.com/apps/x-has-a-slightly-more-functional-photo-editor-now-210825833.html?src=rss",
+        "published": "Tue, 07 Apr 2026 21:08:25 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>X is <a class=\"link\" href=\"https://x.com/nikitabier/status/2041594683072413883?s=20\" target=\"_blank\">rolling out an update</a> to its in-app photo editor that gives users the ability to edit photos with xAI's Grok, blur faces and overlay text on images. The new editing features, in particular the addition of text-based edits via an AI assistant, bring it much closer in capabilities to dedicated photo apps like Google Photos. </p><p>As part of the update, users are able to prompt Grok to make "
+    },
+    {
+        "id": "https://github.com/mattmireles/gemma-tuner-multimodal",
+        "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+        "link": "https://github.com/mattmireles/gemma-tuner-multimodal",
+        "published": "Tue, 07 Apr 2026 19:37:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47680309\">Comments</a>"
     }
 ]
