@@ -181606,5 +181606,85 @@
         "published": "Tue, 07 Apr 2026 12:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Tangled, founded by Akshay and Anirudh Oppiliappan, is reimagining developer collaboration for a future in which AI agents will increasingly write and review code."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+        "title": "Firmus, the \u2018Southgate\u2019 AI data center builder backed by Nvidia, hits $5.5B valuation",
+        "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+        "published": "Tue, 07 Apr 2026 18:46:55 +0000",
+        "source": "TechCrunch",
+        "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months."
+    },
+    {
+        "id": "https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d",
+        "title": "You can now turn 2D apps into 3D while using the Galaxy XR headset",
+        "link": "https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d",
+        "published": "2026-04-07T15:07:12-04:00",
+        "source": "The Verge",
+        "summary": "Android XR is getting a new feature that turns 2D apps, websites, images, and videos into \"3D experiences.\" The feature, which Google calls \"auto-spatialization,\" was initially announced last year, and it's launching on Tuesday as an experimental feature for Samsung Galaxy XR headsets. Here's a video from Google that gives you an idea about how [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on",
+        "title": "I wish this selfie phone case was better for selfies",
+        "link": "https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on",
+        "published": "2026-04-07T15:05:00-04:00",
+        "source": "The Verge",
+        "summary": "The Selfix phone case is a classic example of a great idea in theory that falls apart in practice. It's a case for the iPhone 17 Pro with a circular screen on the back. It mirrors the middle of your main phone screen, making it easier to frame up selfies using your phone's higher-quality rear [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+        "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+        "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+        "published": "Tue, 07 Apr 2026 18:49:50 +0000",
+        "source": "WIRED",
+        "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
+        "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet",
+        "link": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
+        "published": "Tue, 07 Apr 2026 18:00:20 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Supreme Court's precedent-setting Cox ruling helps Grande beat music piracy claims."
+    },
+    {
+        "id": "https://www.engadget.com/mobile/smartphones/apples-foldable-iphone-may-be-delayed-due-to-engineering-snags-073813890.html?src=rss",
+        "title": "Apple's foldable iPhone is reportedly at risk of delay",
+        "link": "https://www.engadget.com/mobile/smartphones/apples-foldable-iphone-may-be-delayed-due-to-engineering-snags-073813890.html?src=rss",
+        "published": "Tue, 07 Apr 2026 19:25:33 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple has run into &quot;more issues than expected&quot; with its foldable iPhone that may set back its release, according to <a href=\"https://asia.nikkei.com/spotlight/supply-chain/foldable-iphone-hits-engineering-snags-shipment-delays-possible-sources\"><em>Nikkei</em></a>. The engineering problems reportedly cropped up during the device's early test production phase and may delay first shipments by months, according to multiple sources briefed on the matter. However, a separate report in <e"
+    },
+    {
+        "id": "https://www.engadget.com/apps/movie-tracking-app-binge-uses-apples-live-activities-to-warn-about-jump-scares-184840127.html?src=rss",
+        "title": "Movie tracking app Binge uses Apple's Live Activities to warn about jump scares",
+        "link": "https://www.engadget.com/apps/movie-tracking-app-binge-uses-apples-live-activities-to-warn-about-jump-scares-184840127.html?src=rss",
+        "published": "Tue, 07 Apr 2026 18:48:40 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>There's a new movie tracking app in town, with a twist for squeamish horror fans. Binge <a href=\"https://binge.movie/\"><ins>leverages Apple's Live Activities feature</ins></a> to warn viewers about jump scares in horror movies.</p>\n<p>This seems to work rather simply. Users open the app when starting a movie and Apple devices will display warnings on the lock screen ahead of frightening scenes. The settings can be adjusted to only warn about major jump scares and the like, leaving viewers vul"
+    },
+    {
+        "id": "https://red.anthropic.com/2026/mythos-preview/",
+        "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+        "link": "https://red.anthropic.com/2026/mythos-preview/",
+        "published": "Tue, 07 Apr 2026 18:11:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47679155\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/lg-c6-vs-lg-c5/",
+        "title": "LG C6 vs. LG C5: I compared two generations of OLED TVs, and it was pretty darn close",
+        "link": "https://www.zdnet.com/article/lg-c6-vs-lg-c5/",
+        "published": "Tue, 07 Apr 2026 18:55:00 GMT",
+        "source": "Latest news",
+        "summary": "The LG C6 is a refreshed version of the brand's flagship OLED TV, but is it worth upgrading over the C5?"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners/articleshow/130095433.cms",
+        "title": "Anthropic touts AI cybersecurity project with Big Tech partners",
+        "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners/articleshow/130095433.cms",
+        "published": "Wed, 08 Apr 2026 00:12:09 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Under its \"Project Glasswing\", select organizations will be allowed to use the startup's unreleased and general-purpose AI model, \"Claude Mythos Preview\", for defensive \u200ccybersecurity work, Anthropic \u2060said. \u2060Other partners include CrowdStrike, Palo Alto Networks, Google and Nvidia."
     }
 ]
