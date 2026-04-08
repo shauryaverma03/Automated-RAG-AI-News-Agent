@@ -183222,5 +183222,69 @@
         "published": "Wed, 08 Apr 2026 19:24:00 GMT",
         "source": "Latest news",
         "summary": "I added new books to an ancient Kindle DX. Here's how you can breathe new life into your outdated e-reader."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+        "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+        "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+        "published": "Wed, 08 Apr 2026 21:19:07 +0000",
+        "source": "TechCrunch",
+        "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+        "title": "Poke makes AI agents as easy as sending a text",
+        "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+        "published": "Wed, 08 Apr 2026 21:05:13 +0000",
+        "source": "TechCrunch",
+        "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+        "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+        "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+        "published": "Wed, 08 Apr 2026 21:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+        "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
+        "link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+        "published": "Wed, 08 Apr 2026 21:08:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "LinkedIn says claims fabricated by extension maker suspended for scraping data."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+        "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+        "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+        "published": "Wed, 08 Apr 2026 20:49:11 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+        "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+        "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+        "published": "Wed, 08 Apr 2026 19:59:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Meta touts strong benchmarks but admits \"performance gaps\" in agentic and coding systems."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
+        "title": "How our digital devices are putting our right to privacy at risk",
+        "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
+        "published": "Wed, 08 Apr 2026 19:17:30 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Law professor Andrew Guthrie Ferguson chats with Ars about his new book, <em>Your Data Will Be Used Against You</em>."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-send-articles-and-files-kindle/",
+        "title": "You can read PDFs and articles on your Kindle: How to send all kinds of files to your device",
+        "link": "https://www.zdnet.com/article/how-to-send-articles-and-files-kindle/",
+        "published": "Wed, 08 Apr 2026 21:06:00 GMT",
+        "source": "Latest news",
+        "summary": "Ever wish you could read that long article or a PDF on your Kindle? Here's how you can do that in seconds."
     }
 ]
