@@ -183286,5 +183286,13 @@
         "published": "Wed, 08 Apr 2026 21:06:00 GMT",
         "source": "Latest news",
         "summary": "Ever wish you could read that long article or a PDF on your Kindle? Here's how you can do that in seconds."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+        "title": "WireGuard VPN developer can\u2019t ship software updates after Microsoft locks account",
+        "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+        "published": "Wed, 08 Apr 2026 21:50:41 +0000",
+        "source": "TechCrunch",
+        "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and are blocking their ability to send software updates to users."
     }
 ]
