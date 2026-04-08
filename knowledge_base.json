@@ -183110,5 +183110,117 @@
         "published": "Wed, 08 Apr 2026 12:15:53 GMT",
         "source": "YourStory RSS Feed",
         "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Wednesday, April 8, 2026."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/08/a-self-driving-car-in-austin-killed-a-mother-duck-sparking-neighborhood-outrage/",
+        "title": "A self-driving car in Austin killed a mother duck, sparking neighborhood outrage",
+        "link": "https://techcrunch.com/2026/04/08/a-self-driving-car-in-austin-killed-a-mother-duck-sparking-neighborhood-outrage/",
+        "published": "Wed, 08 Apr 2026 20:11:05 +0000",
+        "source": "TechCrunch",
+        "summary": "This incident has brought negative attention to the new technology."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+        "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+        "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+        "published": "Wed, 08 Apr 2026 20:09:14 +0000",
+        "source": "TechCrunch",
+        "summary": "AWS has an ingrained culture of handling coopetition, he explained, because the cloud giant also competes with its partners."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
+        "title": "Amazon to end support for older Kindle devices",
+        "link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
+        "published": "Wed, 08 Apr 2026 19:56:16 +0000",
+        "source": "TechCrunch",
+        "summary": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content."
+    },
+    {
+        "id": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+        "title": "OpenAI made economic proposals \u2014 here\u2019s what DC thinks of them",
+        "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+        "published": "2026-04-08T16:14:00-04:00",
+        "source": "The Verge",
+        "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
+        "title": "I finally get the iPhone Air",
+        "link": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
+        "published": "2026-04-08T15:45:00-04:00",
+        "source": "The Verge",
+        "summary": "I saw a lot of weird phones at Mobile World Congress last month: robot phones, cameras disguised as phones, phones for dogs. But the one that caught me most off guard was the one my friend (and Verge alum) Sam Byford brought to dinner: an iPhone Air. \"Ha!\" I said. \"You actually use that thing?\" [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases",
+        "title": "The AI RAM shortage is also driving up SSD prices",
+        "link": "https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases",
+        "published": "2026-04-08T15:32:49-04:00",
+        "source": "The Verge",
+        "summary": "I thought the WD Black SN850X 2TB SSD in my gaming PC was pricey when I bought it for $173 in 2024, but now that same SSD costs $649, more than what I paid for most of the parts in my PC combined. The price on my WD Black drive nearly quadrupled since November 2025, [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/",
+        "title": "As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover",
+        "link": "https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/",
+        "published": "Wed, 08 Apr 2026 19:33:57 +0000",
+        "source": "WIRED",
+        "summary": "After weeks of disruption, a ceasefire is easing pressure on the Strait of Hormuz. But backlogs, infrastructure damage, and delayed supply mean the system won\u2019t return to normal overnight."
+    },
+    {
+        "id": "https://www.engadget.com/transportation/doordash-and-wing-are-expanding-their-drone-delivery-partnership-to-atlanta-201133191.html?src=rss",
+        "title": "DoorDash and Wing are expanding their drone delivery partnership to Atlanta",
+        "link": "https://www.engadget.com/transportation/doordash-and-wing-are-expanding-their-drone-delivery-partnership-to-atlanta-201133191.html?src=rss",
+        "published": "Wed, 08 Apr 2026 20:11:33 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>DoorDash and Wing <a class=\"link\" href=\"https://about.doordash.com/en-us/news/doordash-wing-expand-to-atlanta\" target=\"_blank\">have announced</a> a new partnership that will allow users in metro Atlanta to have food delivered by drone. Besides working with DoorDash in select regions of Virginia, North Carolina and Texas, Wing, Alphabet's drone delivery subsidiary, also recently expanded its agreement <a class=\"link\" href=\"https://www.engadget.com/transportation/wings-drone-deliveries-are-comi"
+    },
+    {
+        "id": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+        "title": "I've been waiting over a month for Anthropic support to respond",
+        "link": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+        "published": "Wed, 08 Apr 2026 17:44:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47693679\">Comments</a>"
+    },
+    {
+        "id": "https://werwolv.net/posts/usb_for_sw_devs/",
+        "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+        "link": "https://werwolv.net/posts/usb_for_sw_devs/",
+        "published": "Wed, 08 Apr 2026 19:23:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47695012\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-convert-epub-files-to-kindle-format/",
+        "title": "How to quickly convert EPUB files to Kindle format - and why it matters",
+        "link": "https://www.zdnet.com/article/how-to-convert-epub-files-to-kindle-format/",
+        "published": "Wed, 08 Apr 2026 19:29:00 GMT",
+        "source": "Latest news",
+        "summary": "Think you're stuck using only Amazon's Kindle format? Think again. Here's how to convert e-book formats, giving you more control over your digital library."
+    },
+    {
+        "id": "https://www.zdnet.com/article/your-kindles-not-obsolete-it-needs-a-jailbreak-ill-show-you-how-its-done/",
+        "title": "Your Kindle's not obsolete, it just needs a jailbreak - and I'll show you how it's done",
+        "link": "https://www.zdnet.com/article/your-kindles-not-obsolete-it-needs-a-jailbreak-ill-show-you-how-its-done/",
+        "published": "Wed, 08 Apr 2026 19:24:00 GMT",
+        "source": "Latest news",
+        "summary": "You can transform your old Kindle - even a bricked device - into the ultimate open-source reader. Here's how."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-add-epub-mobi-and-pdf-files-to-your-kindle-no-converting-required/",
+        "title": "How to add EPUB, MOBI, and PDF files to your Kindle - follow my easy step-by-step",
+        "link": "https://www.zdnet.com/article/how-to-add-epub-mobi-and-pdf-files-to-your-kindle-no-converting-required/",
+        "published": "Wed, 08 Apr 2026 19:24:00 GMT",
+        "source": "Latest news",
+        "summary": "Struggling to transfer ebooks to your Kindle? Here's the step-by-step process for moving EPUB, MOBI, and PDF files to both new and old Kindle devices via both USB and Amazon's cloud."
+    },
+    {
+        "id": "https://www.zdnet.com/article/old-kindle-how-to-resurrect-your-e-reader-with-new-books/",
+        "title": "Got an old Kindle? How to resurrect your e-reader with new books",
+        "link": "https://www.zdnet.com/article/old-kindle-how-to-resurrect-your-e-reader-with-new-books/",
+        "published": "Wed, 08 Apr 2026 19:24:00 GMT",
+        "source": "Latest news",
+        "summary": "I added new books to an ancient Kindle DX. Here's how you can breathe new life into your outdated e-reader."
     }
 ]
