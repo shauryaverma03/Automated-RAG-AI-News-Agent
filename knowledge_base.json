@@ -184854,5 +184854,93 @@
         "published": "Fri, 10 Apr 2026 00:31:14 +0530",
         "source": "Tech-Economic Times",
         "summary": "Anthony Armstrong, xAI's Chief Financial Officer, has left the company. This departure is part of a larger trend of senior staff exits. Armstrong was instrumental in guiding X's finances back to stability. Meanwhile, SpaceX is preparing for a significant initial public offering. The space company aims to raise a substantial amount of capital."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+        "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+        "published": "Thu, 09 Apr 2026 20:11:55 +0000",
+        "source": "TechCrunch",
+        "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
+        "title": "StubHub to pay $10M to settle FTC allegations over \u2018deceptive\u2019 ticket pricing",
+        "link": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
+        "published": "Thu, 09 Apr 2026 20:04:12 +0000",
+        "source": "TechCrunch",
+        "summary": "The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by \"deceptively\" advertising ticket prices on its website without clearly disclosing upfront what the total cost would be, including all mandatory fees."
+    },
+    {
+        "id": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing",
+        "title": "NASA\u2019s Artemis II mission to fly around the far side of the Moon",
+        "link": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing",
+        "published": "2026-04-09T16:10:56-04:00",
+        "source": "The Verge",
+        "summary": "Humans haven\u2019t set foot on the Moon since NASA\u2019s Apollo 17 mission in 1972. Now, the space agency is racing to get back to the lunar surface under the umbrella of its Artemis program \u2014 a nod to the Greek goddess and twin sister of Apollo, whose name was given to NASA\u2019s first program to [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/",
+        "title": "Clinical trial shows gene editing works for \u03b2-Thalassaemia, too",
+        "link": "https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/",
+        "published": "Thu, 09 Apr 2026 20:28:48 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Improved gene editing process reactivates the fetal version of a hemoglobin gene."
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+        "title": "\u201cNegative\u201d views of Broadcom driving thousands of VMware migrations, rival says",
+        "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+        "published": "Thu, 09 Apr 2026 19:44:31 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Western Union exec says there were \"challenges\" working with Broadcom."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/",
+        "title": "Ugandan chimps split into two factions, then killed rivals",
+        "link": "https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/",
+        "published": "Thu, 09 Apr 2026 19:21:59 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Rare event suggests relational dynamics may play a role in collective violence, along with cultural markers."
+    },
+    {
+        "id": "https://www.engadget.com/computing/a-maverick-hacker-got-mac-os-x-running-on-a-wii-200800027.html?src=rss",
+        "title": "A maverick hacker got Mac OS X running on a Wii",
+        "link": "https://www.engadget.com/computing/a-maverick-hacker-got-mac-os-x-running-on-a-wii-200800027.html?src=rss",
+        "published": "Thu, 09 Apr 2026 20:08:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>You may already know that emulators can run <a class=\"link\" href=\"https://www.engadget.com/dolphin-is-releasing-its-gamecube-and-wii-emulator-on-steam-193356400.html\" target=\"_blank\">Wii games on a Mac</a>. But one developer has flipped the script. Bryan Keller now has an ancient version of the Mac's operating system <a class=\"link\" href=\"https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html\" target=\"_blank\">running</a> on Nintendo's 2006 game console (via <a class=\"link"
+    },
+    {
+        "id": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
+        "title": "Maine Is About to Become the First State to Ban Major New Data Centers",
+        "link": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
+        "published": "Thu, 09 Apr 2026 19:48:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47708817\">Comments</a>"
+    },
+    {
+        "id": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/",
+        "title": "Netflix Prices Went Up Again \u2013 I Bought a DVD Player Instead",
+        "link": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/",
+        "published": "Thu, 09 Apr 2026 20:17:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47709251\">Comments</a>"
+    },
+    {
+        "id": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+        "title": "Native Instant Space Switching on macOS",
+        "link": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+        "published": "Thu, 09 Apr 2026 19:48:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47708818\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/tocco-platform-for-home-chefs-agritech-post-boom-correction",
+        "title": "A platform for home chefs; Agritech\u2019s post-boom correction",
+        "link": "https://yourstory.com/2026/04/tocco-platform-for-home-chefs-agritech-post-boom-correction",
+        "published": "Thu, 09 Apr 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Tocco helps home chefs, especially women, turn their cooking into income. Meanwhile, in the world of agritech there's a structural correction in how investors understand the segment."
     }
 ]
