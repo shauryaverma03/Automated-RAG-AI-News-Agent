@@ -184942,5 +184942,69 @@
         "published": "Thu, 09 Apr 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Tocco helps home chefs, especially women, turn their cooking into income. Meanwhile, in the world of agritech there's a structural correction in how investors understand the segment."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+        "title": "ChatGPT finally offers $100/month Pro plan",
+        "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+        "published": "Thu, 09 Apr 2026 21:29:11 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
+        "title": "EFF is the latest organization to leave X",
+        "link": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
+        "published": "Thu, 09 Apr 2026 21:26:18 +0000",
+        "source": "TechCrunch",
+        "summary": "The EFF follows the departure of various news organizations and others, who no longer find X a viable source of traffic."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
+        "title": "What founders can learn from Anjuna\u2019s layoffs and recovery",
+        "link": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
+        "published": "Thu, 09 Apr 2026 21:17:30 +0000",
+        "source": "TechCrunch",
+        "summary": "In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hypergrowth. Then 2022 hit."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
+        "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
+        "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
+        "published": "Thu, 09 Apr 2026 21:01:36 +0000",
+        "source": "TechCrunch",
+        "summary": "All resources at its U.S. factory are aimed at the upcoming Atlas SUV."
+    },
+    {
+        "id": "https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers",
+        "title": "John Deere will pay farmers $99 million over right-to-repair lawsuit",
+        "link": "https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers",
+        "published": "2026-04-09T17:21:22-04:00",
+        "source": "The Verge",
+        "summary": "John Deere has agreed to pay farmers $99 million to resolve a class action lawsuit that accused the agricultural giant of preventing farmers and mechanics from accessing the materials needed to repair equipment, as reported earlier by Reuters. As part of the proposed settlement, John Deere says it will make repair resources available for a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/909502/samsung-galaxy-watch-8-classic-deal-sale",
+        "title": "Samsung\u2019s Galaxy Watch 8 is easier to recommend now it starts at $260",
+        "link": "https://www.theverge.com/gadgets/909502/samsung-galaxy-watch-8-classic-deal-sale",
+        "published": "2026-04-09T17:10:47-04:00",
+        "source": "The Verge",
+        "summary": "Samsung\u2019s Galaxy Watch 8 is one of the best Android smartwatches you can buy right now, especially if you\u2019re already using a Samsung phone. Right now the 40mm, Bluetooth-enabled version\u2019s on sale for $289.99 ($60 off) at Amazon, Best Buy, and Samsung, which is its second-best price this year and only $50 shy of its [&#8230;]"
+    },
+    {
+        "id": "https://github.com/aloshdenny/reverse-SynthID",
+        "title": "Reverse engineering Gemini's SynthID detection",
+        "link": "https://github.com/aloshdenny/reverse-SynthID",
+        "published": "Thu, 09 Apr 2026 20:10:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47709130\">Comments</a>"
+    },
+    {
+        "id": "https://charcuterie.elastiq.ch/",
+        "title": "Charcuterie \u2013 Visual similarity Unicode explorer",
+        "link": "https://charcuterie.elastiq.ch/",
+        "published": "Thu, 09 Apr 2026 20:12:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47709158\">Comments</a>"
     }
 ]
