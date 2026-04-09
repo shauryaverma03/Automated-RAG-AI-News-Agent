@@ -183318,5 +183318,101 @@
         "published": "Wed, 08 Apr 2026 09:51:24 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The report by Stride Ventures highlighted the growing adoption of venture debt by Indian startups."
+    },
+    {
+        "id": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+        "title": "Gemini gets notebooks to help you organize projects",
+        "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+        "published": "2026-04-08T20:06:12-04:00",
+        "source": "The Verge",
+        "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
+        "title": "Dyson made a handheld version of its iconic fans",
+        "link": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
+        "published": "2026-04-08T20:01:00-04:00",
+        "source": "The Verge",
+        "summary": "Nearly 17 years after Dyson first announced its Air Multiplier fans - one of its first big consumer products after vacuums - the company has miniaturized their design to create a handheld personal cooler called the HushJet Mini Cool. Like Dyson's larger Air Multipliers, humidifiers, air purifiers, and heaters, the HushJet Mini Cool doesn't have [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
+        "title": "Trump admin makes sweeping request for medical records of federal workers",
+        "link": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
+        "published": "Wed, 08 Apr 2026 22:00:11 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The unprecedented proposal would give the Trump admin access to doctors' notes."
+    },
+    {
+        "id": "https://www.engadget.com/home/dyson-just-announced-its-first-ever-handheld-fan-with-a-motor-that-spins-up-to-65000-rpm-000135028.html?src=rss",
+        "title": "Dyson just announced its first-ever handheld fan, with a motor that spins up to 65,000 RPM",
+        "link": "https://www.engadget.com/home/dyson-just-announced-its-first-ever-handheld-fan-with-a-motor-that-spins-up-to-65000-rpm-000135028.html?src=rss",
+        "published": "Thu, 09 Apr 2026 00:01:35 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Dyson just announced its first-ever handheld fan, the HushJet Mini Cool. As the name suggests, it uses the company's proprietary HushJet air projection system. This tech first showed up on an air purifier that <a href=\"https://www.engadget.com/home/smart-home/best-air-purifier-120040002.html\"><ins>we found to be exceptionally quiet</ins></a>.</p>\n<p>Dyson promises the fan can deliver focused airflow of up to 25m/s, which works out to 55mph. The brushless motor spins up to 65,000 RPM. This thi"
+    },
+    {
+        "id": "https://obdev.at/products/littlesnitch-linux/index.html",
+        "title": "LittleSnitch for Linux",
+        "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+        "published": "Thu, 09 Apr 2026 00:26:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47697870\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/sleep-vs-hibernate-does-modern-standby-save-battery-on-windows/",
+        "title": "Why I stopped using 'Modern Standby' on my Windows laptop to save battery overnight",
+        "link": "https://www.zdnet.com/article/sleep-vs-hibernate-does-modern-standby-save-battery-on-windows/",
+        "published": "Thu, 09 Apr 2026 01:00:47 GMT",
+        "source": "Latest news",
+        "summary": "Putting your computer to sleep might not be the best way to preserve its battery. Here's why."
+    },
+    {
+        "id": "https://www.zdnet.com/article/kde-linux-distribution-review/",
+        "title": "KDE Linux is the purest form of Plasma I've tested - but the install isn't for the meek",
+        "link": "https://www.zdnet.com/article/kde-linux-distribution-review/",
+        "published": "Thu, 09 Apr 2026 00:17:47 GMT",
+        "source": "Latest news",
+        "summary": "Linux distros present KDE Plasma with a version customized for that particular OS. KDE Linux offers the purest version."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-based-data-centre-firm-equinix-invests-95-million-in-mumbai-data-centre-eyes-further-india-expansion/articleshow/130120458.cms",
+        "title": "US-based data centre firm Equinix invests $95 million in Mumbai data centre, eyes further India expansion",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-based-data-centre-firm-equinix-invests-95-million-in-mumbai-data-centre-eyes-further-india-expansion/articleshow/130120458.cms",
+        "published": "Thu, 09 Apr 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "With this, Equinix\u2019s India investment has touched a total of $365 million. Per Cyrus Adaggra, president for Asia-Pacific at Equinix, APAC is being seen as a safer and more reliable investment destination."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/ai-drives-indian-it-companies-to-cut-us-jobs/articleshow/130122798.cms",
+        "title": "AI drives Indian IT companies to cut US jobs",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/ai-drives-indian-it-companies-to-cut-us-jobs/articleshow/130122798.cms",
+        "published": "Thu, 09 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian IT firms are increasing job cuts in the US, with layoffs expected to accelerate due to AI's growing influence and slowing deal-making. Companies are restructuring, impacting onsite employees, especially those tied to large transformation deals. Regulatory filings reveal a significant rise in layoffs in early 2026 compared to the previous year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/tr-capital-to-deploy-1-billion-in-india-secondaries-appoints-umang-agarwal-as-md/articleshow/130121115.cms",
+        "title": "TR Capital to deploy $1 billion in India secondaries; appoints Umang Agarwal as MD",
+        "link": "https://economictimes.indiatimes.com/tech/funding/tr-capital-to-deploy-1-billion-in-india-secondaries-appoints-umang-agarwal-as-md/articleshow/130121115.cms",
+        "published": "Thu, 09 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "TR Capital will deploy $1 billion in India over the next five years, across consumer, financial services, and healthcare, while selectively evaluating opportunities at the intersection of software and artificial intelligence (AI), managing partner Frederic Azemard told ET today."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/nine-companies-clear-indiaai-gpu-tender-4-tech-stage-amid-costs-woes/articleshow/130120580.cms",
+        "title": "Nine companies clear IndiaAI GPU tender-4 tech stage amid costs woes",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nine-companies-clear-indiaai-gpu-tender-4-tech-stage-amid-costs-woes/articleshow/130120580.cms",
+        "published": "Thu, 09 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to Government e-Marketplace (GeM) tender status data, the qualified bidders include Paradigmit Technology Services, Tata Communications, RackBank Datacenters, Netmagic IT Services, E2E Networks, Yotta Data Services, Cyfuture India, Sify Digital Services and UrsaCompute."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/ai-startup-nava-raises-22-million-in-round-led-by-greenoaks-capital/articleshow/130120363.cms",
+        "title": "AI startup Nava raises $22 million in round led by Greenoaks Capital",
+        "link": "https://economictimes.indiatimes.com/tech/funding/ai-startup-nava-raises-22-million-in-round-led-by-greenoaks-capital/articleshow/130120363.cms",
+        "published": "Thu, 09 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "RTP Global and Unicorn India Ventures participated in the round. The company will use the fresh capital to expand its GPU compute and AI data centre capabilities and hire talent. Nava, which is expanding beyond its earlier software-led GPU cloud offering to a vertically integrated model, aims to target enterprises building AI models and applications, offering infrastructure through models such as GPU-as-a-service and bare-metal compute."
     }
 ]
