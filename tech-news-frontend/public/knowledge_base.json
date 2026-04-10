@@ -186430,5 +186430,53 @@
         "published": "Fri, 10 Apr 2026 19:50:00 GMT",
         "source": "Latest news",
         "summary": "Tackle small home repairs, DIY projects, and crafts with the Fanttik S1 Pro electric screwdriver."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+        "title": "How to watch NASA\u2019s Artemis II splash back down to Earth",
+        "link": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+        "published": "Fri, 10 Apr 2026 21:18:09 +0000",
+        "source": "TechCrunch",
+        "summary": "NASA's Artemis II mission has traveled farther from Earth than any mission before. Here's how to watch the crew's return landing in the Pacific Ocean."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+        "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
+        "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+        "published": "Fri, 10 Apr 2026 20:27:52 +0000",
+        "source": "TechCrunch",
+        "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week."
+    },
+    {
+        "id": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
+        "title": "Now the FAA says gamers are the answer to its air traffic controller shortage",
+        "link": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
+        "published": "2026-04-10T16:50:51-04:00",
+        "source": "The Verge",
+        "summary": "The Federal Aviation Administration (FAA) has struggled for years to have enough air traffic controllers to address shortages, with the US Government Accountability Office (GAO) saying in January that the number of people in the job in the US has declined by around 6 percent \"in the last decade.\" Now the Trump administration is rolling [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/",
+        "title": "New paper argues history, not mantle plume, powers Yellowstone",
+        "link": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/",
+        "published": "Fri, 10 Apr 2026 20:06:39 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "A now-vanished plate under North America may open the crust below Yellowstone."
+    },
+    {
+        "id": "https://www.engadget.com/ai/a-man-allegedly-threw-a-molotov-cocktail-at-sam-altmans-house-210444731.html?src=rss",
+        "title": "A man allegedly threw a Molotov cocktail at Sam Altman's house",
+        "link": "https://www.engadget.com/ai/a-man-allegedly-threw-a-molotov-cocktail-at-sam-altmans-house-210444731.html?src=rss",
+        "published": "Fri, 10 Apr 2026 21:04:44 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>A 20-year-old man was arrested by the San Francisco Police Department after allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's house, <a class=\"no-affiliate-link link\" href=\"https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html?smid=nytcore-ios-share\" target=\"_blank\"><em>The New York Times </em>reports</a>.</p><p><a class=\"link\" href=\"https://x.com/SFPD/status/2042651827905380461?s=20\" target=\"_blank\">In a statement shared on X</a>, SFPD wrote that it re"
+    },
+    {
+        "id": "https://github.com/callumlocke/json-formatter",
+        "title": "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
+        "link": "https://github.com/callumlocke/json-formatter",
+        "published": "Fri, 10 Apr 2026 18:34:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47721946\">Comments</a>"
     }
 ]
