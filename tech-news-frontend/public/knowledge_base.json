@@ -185070,5 +185070,69 @@
         "published": "Thu, 09 Apr 2026 22:10:10 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47710907\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+        "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+        "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+        "published": "Fri, 10 Apr 2026 00:19:53 +0000",
+        "source": "WIRED",
+        "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable\u2014even in cases where their products cause \u201ccritical harm.\u201d"
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/",
+        "title": "RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks",
+        "link": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/",
+        "published": "Thu, 09 Apr 2026 22:32:37 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "ACIP's charter now full of anti-vaccine terms and welcomes fringe groups to CDC."
+    },
+    {
+        "id": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+        "title": "How NASA Built Artemis II\u2019s Fault-Tolerant Computer",
+        "link": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+        "published": "Thu, 09 Apr 2026 15:12:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47704804\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/vibhor-jain-appointed-ceo-of-ondc/articleshow/130152124.cms",
+        "title": "Vibhor Jain appointed CEO of ONDC",
+        "link": "https://economictimes.indiatimes.com/tech/technology/vibhor-jain-appointed-ceo-of-ondc/articleshow/130152124.cms",
+        "published": "Fri, 10 Apr 2026 06:11:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Vibhor Jain has been appointed as the new MD and CEO of ONDC, effective April 7, after serving as acting CEO. He aims to deepen the value ONDC creates for various stakeholders, including farmers, artisans, and small businesses. The government-backed open ecommerce network also reported a significant revenue surge and welcomed new key leadership appointments."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tcs-q4-profit-up-12-revenue-rises-9-6-amidst-ai-growth-and-deal-wins/articleshow/130151669.cms",
+        "title": "TCS Q4 profit up 12%, revenue rises 9.6% amidst AI growth and deal wins",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tcs-q4-profit-up-12-revenue-rises-9-6-amidst-ai-growth-and-deal-wins/articleshow/130151669.cms",
+        "published": "Fri, 10 Apr 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tata Consultancy Services reported a 12% rise in net profit to Rs 13,718 crore for the March quarter, exceeding analyst expectations. Despite a 2.4% annual revenue decline in constant currency for FY26, the company saw strong AI services revenue growth and secured significant deal wins, signaling a potential turnaround."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/ola-alumnis-manav-robotics-in-talks-to-raise-15-20-million-from-blume-qualcomm-ventures/articleshow/130150594.cms",
+        "title": "Ola alumni\u2019s Manav Robotics in talks to raise $15-20 million from Blume, Qualcomm Ventures",
+        "link": "https://economictimes.indiatimes.com/tech/funding/ola-alumnis-manav-robotics-in-talks-to-raise-15-20-million-from-blume-qualcomm-ventures/articleshow/130150594.cms",
+        "published": "Fri, 10 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Manav Robotics, a startup founded by former senior Ola executives Suvonil Chatterjee and Slokarth Dash, is in discussions with early-stage investor Blume Ventures and US-based Qualcomm Ventures to raise its maiden funding of around $15-20 million. The funding round could also see participation from a clutch of Indian founders."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/local-payment-companies-eye-cross-border-pay-prize/articleshow/130150434.cms",
+        "title": "Local payment companies eye cross-border pay prize",
+        "link": "https://economictimes.indiatimes.com/tech/startups/local-payment-companies-eye-cross-border-pay-prize/articleshow/130150434.cms",
+        "published": "Fri, 10 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Major payment aggregators like Razorpay, PayU, and Cashfree are aggressively expanding into cross-border payments, posing a threat to early-stage startups focused solely on this niche. This strategic shift aims to capture market share from banks, driven by the growing trend of Indian businesses exporting goods and services globally."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tcs-and-five-other-firms-empanelled-to-build-run-ai-for-govt-departments/articleshow/130149934.cms",
+        "title": "TCS and five other firms empanelled to build &amp; run AI for govt departments",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tcs-and-five-other-firms-empanelled-to-build-run-ai-for-govt-departments/articleshow/130149934.cms",
+        "published": "Fri, 10 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Centre has empanelled six partner firms, including Tata Consultancy Services (TCS), to develop and deploy AI solutions across government departments. More than 80 companies had submitted bids for the request for empanelment (RFE), which closed last week, with firms such as KPMG, Deloitte, PwC, EY, Fractal Analytics, Gnani AI and Jio Haptik missing the final shortlist on February 27."
     }
 ]
