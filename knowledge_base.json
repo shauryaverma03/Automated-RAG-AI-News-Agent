@@ -186182,5 +186182,141 @@
         "published": "Fri, 10 Apr 2026 22:10:33 +0530",
         "source": "Tech-Economic Times",
         "summary": "The number of deals during the week was down to 22 transactions, compared to 42 in the corresponding week last year."
+    },
+    {
+        "id": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
+        "title": "Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool",
+        "link": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
+        "published": "2026-04-10T14:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Microsoft is finally allowing Windows 11 testers to get access to experimental features without having to download a third-party app like ViVeTool. The changes are part of making the Windows Insider Program (WIP) less confusing, with Dev and Canary testing rings simplified into a new Experimental Channel alongside a refresh of the existing Beta Channel. [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale",
+        "title": "My go-to electric screwdriver is on sale for over 50 percent off today",
+        "link": "https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale",
+        "published": "2026-04-10T13:43:17-04:00",
+        "source": "The Verge",
+        "summary": "Fanttik, like Hoto, is quickly becoming a household name. The tool brand\u2019s cordless wares are quiet, capable, and certainly more stylish than anything you\u2019d find at your local Ace Hardware or neighborhood tool library. The S1 Pro electric screwdriver is a great example of the company\u2019s penchant for attractive design, one you can currently grab [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/motorola-razr-ultra-deal-426/",
+        "title": "Motorola\u2019s Souped-Up Folding Phone Is Almost Half Off",
+        "link": "https://www.wired.com/story/motorola-razr-ultra-deal-426/",
+        "published": "Fri, 10 Apr 2026 18:14:38 +0000",
+        "source": "WIRED",
+        "summary": "Amazon has the Razr Ultra marked down by $600 for a limited time."
+    },
+    {
+        "id": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+        "title": "Anthropic\u2019s Mythos Will Force a Cybersecurity Reckoning\u2014Just Not the One You Think",
+        "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+        "published": "Fri, 10 Apr 2026 18:08:37 +0000",
+        "source": "WIRED",
+        "summary": "The new AI model is being heralded\u2014and feared\u2014as a hacker\u2019s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought."
+    },
+    {
+        "id": "https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/",
+        "title": "The Future of the Artemis Program Is Riding on Reentry",
+        "link": "https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/",
+        "published": "Fri, 10 Apr 2026 18:07:45 +0000",
+        "source": "WIRED",
+        "summary": "Entire space programs have been canceled after a failure in the reentry phase. In the final test for Artemis II, astronauts will travel at 32 times the speed of sound as they return from the moon."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
+        "title": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program",
+        "link": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
+        "published": "Fri, 10 Apr 2026 18:00:44 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Windows Insider builds remain confusing, but they should be more predictable."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises/",
+        "title": "\"Oobleck\" still holds some surprises",
+        "link": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises/",
+        "published": "Fri, 10 Apr 2026 17:57:21 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Dense drops of oobleck with high shear rates spread out like a liquid before stiffening into a solid."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/",
+        "title": "YouTube increases Premium price again, says 90-second unskippable ads are a bug",
+        "link": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/",
+        "published": "Fri, 10 Apr 2026 17:08:58 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "An individual plan now cost $15.99 per month, and the free tier comes with buggy ads."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus/",
+        "title": "Oldest octopus fossil found to not be an octopus",
+        "link": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus/",
+        "published": "Fri, 10 Apr 2026 16:54:42 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Supposed \u201cfirst octopus\u201d was something else entirely."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
+        "title": "What leaked \"SteamGPT\" files could mean for the PC gaming platform's use of AI",
+        "link": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
+        "published": "Fri, 10 Apr 2026 16:32:25 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "AI tools could help moderators sift through mountains of suspicious incidents"
+    },
+    {
+        "id": "https://www.zdnet.com/article/ecoflow-delta-pro-ultra-x-review/",
+        "title": "I used this EcoFlow battery to run my 3,000-sq-ft home in a blackout - here's how it kept my AC on",
+        "link": "https://www.zdnet.com/article/ecoflow-delta-pro-ultra-x-review/",
+        "published": "Fri, 10 Apr 2026 18:30:43 GMT",
+        "source": "Latest news",
+        "summary": "Many backup systems keep essentials online, but the EcoFlow Delta Pro Ulta X can run your house like normal without interruption."
+    },
+    {
+        "id": "https://www.zdnet.com/article/microsoft-windows-insider-program-simplified/",
+        "title": "Microsoft's Windows Insider Program is no longer a confusing mess",
+        "link": "https://www.zdnet.com/article/microsoft-windows-insider-program-simplified/",
+        "published": "Fri, 10 Apr 2026 18:00:03 GMT",
+        "source": "Latest news",
+        "summary": "Did Microsoft finally fix its preview program for Windows 11? Here's what's changing - including one upgrade I didn't see coming."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/accenture-invests-in-replit-to-advance-ai-driven-software-development-for-enterprises/articleshow/130176424.cms",
+        "title": "Accenture invests in Replit to advance AI-driven software development for enterprises",
+        "link": "https://economictimes.indiatimes.com/tech/technology/accenture-invests-in-replit-to-advance-ai-driven-software-development-for-enterprises/articleshow/130176424.cms",
+        "published": "Fri, 10 Apr 2026 23:40:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Global professional services giant Accenture has strategically invested in AI software development platform Replit. This collaboration aims to accelerate AI-driven software creation for businesses worldwide. Accenture will integrate Replit's technology internally to boost productivity and assist clients in adopting AI tools for their development processes, signaling a significant shift in how software is built."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-africa-unveils-draft-ai-policy-proposes-new-institutions-and-incentives/articleshow/130177561.cms",
+        "title": "South Africa unveils draft AI policy, proposes new institutions and incentives",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-africa-unveils-draft-ai-policy-proposes-new-institutions-and-incentives/articleshow/130177561.cms",
+        "published": "Fri, 10 Apr 2026 23:28:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The AI policy, published by the Department of Communications and Digital Technologies, aims to position \u200cSouth Africa \u2060as \u2060a continental leader in AI innovation while addressing ethical, social \u200band economic challenges."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/commvault-explores-sale-after-takeover-interest/articleshow/130176635.cms",
+        "title": "Commvault explores sale after takeover interest",
+        "link": "https://economictimes.indiatimes.com/tech/technology/commvault-explores-sale-after-takeover-interest/articleshow/130176635.cms",
+        "published": "Fri, 10 Apr 2026 23:04:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Commvault, which has a market capitalisation of about $3.5 billion, is working with Goldman Sachs on its options after fielding inquiries \u200cfrom both \u2060private equity \u2060firms and strategic buyers."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/karnataka-government-ignores-protests-notifies-lifetime-tax-on-evs-spares-two-wheelers/articleshow/130176149.cms",
+        "title": "Karnataka government ignores protests, notifies lifetime tax on EVs, spares two-wheelers",
+        "link": "https://economictimes.indiatimes.com/tech/technology/karnataka-government-ignores-protests-notifies-lifetime-tax-on-evs-spares-two-wheelers/articleshow/130176149.cms",
+        "published": "Fri, 10 Apr 2026 22:33:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Karnataka has introduced a new lifetime road tax for electric cars, jeeps, and buses, excluding two-wheelers. This move aims to generate an additional Rs 250 crore for the state government. The decision has drawn criticism from Union Minister Pralhad Joshi and the EV industry, who fear it could increase crude oil imports and hinder climate goals."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/swiggy-co-founder-nandan-reddy-steps-down-from-board",
+        "title": "Swiggy co-founder Nandan Reddy steps down from board",
+        "link": "https://yourstory.com/2026/04/swiggy-co-founder-nandan-reddy-steps-down-from-board",
+        "published": "Fri, 10 Apr 2026 13:16:22 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Reddy's exit, disclosed in a regulatory filing on Friday, comes as Swiggy undertakes a broader reshuffle of its board, elevating internal executives."
     }
 ]
