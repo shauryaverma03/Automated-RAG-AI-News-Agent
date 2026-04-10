@@ -185134,5 +185134,109 @@
         "published": "Fri, 10 Apr 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "The Centre has empanelled six partner firms, including Tata Consultancy Services (TCS), to develop and deploy AI solutions across government departments. More than 80 companies had submitted bids for the request for empanelment (RFE), which closed last week, with firms such as KPMG, Deloitte, PwC, EY, Fractal Analytics, Gnani AI and Jio Haptik missing the final shortlist on February 27."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+        "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+        "link": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+        "published": "Fri, 10 Apr 2026 00:55:51 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "After leaks on Artemis I and II, Orion's next flight to the Moon will need new valves."
+    },
+    {
+        "id": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+        "title": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
+        "link": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+        "published": "Fri, 10 Apr 2026 00:50:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47712222\">Comments</a>"
+    },
+    {
+        "id": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+        "title": "Generative art over the years",
+        "link": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+        "published": "Tue, 07 Apr 2026 14:25:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47675906\">Comments</a>"
+    },
+    {
+        "id": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+        "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+        "link": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+        "published": "Tue, 07 Apr 2026 19:14:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47680005\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/lenovo-yoga-7a-2-in-1-review/",
+        "title": "Surprise: Not every Lenovo laptop is worth recommending in 2026 - the Yoga 7i is proof",
+        "link": "https://www.zdnet.com/article/lenovo-yoga-7a-2-in-1-review/",
+        "published": "Fri, 10 Apr 2026 02:00:50 GMT",
+        "source": "Latest news",
+        "summary": "Lenovo's Yoga 7a 2-in-1 is a versatile and well-built PC, though its mid-tier hardware makes it hard to recommend over rivals."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/openai-stargate-executive-peter-hoeschele-exits-report/articleshow/130158462.cms",
+        "title": "OpenAI 'Stargate' executive Peter Hoeschele exits: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openai-stargate-executive-peter-hoeschele-exits-report/articleshow/130158462.cms",
+        "published": "Fri, 10 Apr 2026 09:12:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI 'Stargate' executive Peter Hoeschele exits, per a report by The Information on Friday."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-transfers-top-engineers-into-new-ai-tooling-team/articleshow/130157541.cms",
+        "title": "Meta transfers top engineers into new AI tooling team",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-transfers-top-engineers-into-new-ai-tooling-team/articleshow/130157541.cms",
+        "published": "Fri, 10 Apr 2026 08:08:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The reorganisation \u2060comes as Meta plans sweeping layoffs that could eliminate tens of \u200bthousands of jobs at the company, as it seeks to offset costly \u200bartificial intelligence infrastructure bets and prepare for greater efficiency brought about by AI-assisted workers."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bessent-powell-warned-bank-ceos-about-anthropic-model-risks/articleshow/130157300.cms",
+        "title": "Bessent, Powell warned bank CEOs about Anthropic model risks",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bessent-powell-warned-bank-ceos-about-anthropic-model-risks/articleshow/130157300.cms",
+        "published": "Fri, 10 Apr 2026 07:57:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The meeting, held at the Treasury Department \u200bin Washington on Tuesday, was aimed at \u2060ensuring banks \u200care aware of the potential risks posed \u200bby Mythos \u200band similar models, and are taking steps \u2060to defend their systems. Access to Mythos will be limited to about 40 technology companies, including Microsoft and Google, and Anthropic has been in ongoing talks with the \u200cUS government about the model's capabilities, the startup has said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-weighs-building-it-own-ai-chips/articleshow/130156871.cms",
+        "title": "Anthropic weighs building its own AI chips",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-weighs-building-it-own-ai-chips/articleshow/130156871.cms",
+        "published": "Fri, 10 Apr 2026 07:18:22 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Demand for its AI model Claude has \u2060accelerated in 2026, with the startup's run-rate revenue now \u200bsurpassing $30 billion, up from about $9 billion at the \u200bend of 2025, Anthropic said earlier this week. Anthropic uses a range of chips, including tensor processing units (TPUs) designed by Alphabet's Google and Amazon's chips to develop and run its AI software and chatbot Claude."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/fintechs-clash-in-cross-border-payments-tcs-closes-fy26-strong/articleshow/130156548.cms",
+        "title": "Fintechs clash in cross-border payments; TCS closes FY26 strong",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/fintechs-clash-in-cross-border-payments-tcs-closes-fy26-strong/articleshow/130156548.cms",
+        "published": "Fri, 10 Apr 2026 07:06:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Friday! Large companies are fighting early-stage startups in the cross-border payments battleground. This and more in today's ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/race-to-control-compute-deeptech-startup-kluisz-growth-plan",
+        "title": "The race to control compute; Deeptech startup Kluisz\u2019s growth plan",
+        "link": "https://yourstory.com/2026/04/race-to-control-compute-deeptech-startup-kluisz-growth-plan",
+        "published": "Fri, 10 Apr 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Intel is joining Elon Musk\u2019s chipmaking plan with SpaceX, Tesla and xAI. Its role would help speed up a project aimed at producing vast volumes of advanced compute for AI and robotics. Meanwhile, Deeptech startup Kluisz.ai, rebranded as Nava, has raised $22 million in Series A funding."
+    },
+    {
+        "id": "https://inc42.com/buzz/ola-electric-redemption-arc-libas-next-frontier-more/",
+        "title": "Ola Electric Redemption Arc, Libas\u2019 Next Frontier & More",
+        "link": "https://inc42.com/buzz/ola-electric-redemption-arc-libas-next-frontier-more/",
+        "published": "Fri, 10 Apr 2026 02:30:06 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Ola Electric Redemption Arc, Libas\u2019 Next Frontier &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/FTR-Daily-Brief-2026-04-09T221702.813.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Ola Electric On Recovery Path Ola Electric appears to be on its redemption arc. After months of sliding market share&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/ai-is-indias-hottest-bet-but-why-are-investors-holding-back/",
+        "title": "AI Is India\u2019s Hottest Bet, But Why Are Investors Holding Back?",
+        "link": "https://inc42.com/features/ai-is-indias-hottest-bet-but-why-are-investors-holding-back/",
+        "published": "Fri, 10 Apr 2026 01:30:39 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/ftr-ai.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />From a futuristic idea to crafting narratives now, AI has come a long way in a very short span of&#8230;"
     }
 ]
