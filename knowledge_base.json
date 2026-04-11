@@ -186558,5 +186558,77 @@
         "published": "Sat, 11 Apr 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Venture-backed startups are testing quick-commerce for fashion, promising under-hour delivery in metro cities. Despite significant cash burn and heavy discounting to attract customers, investors are betting on this segment's potential. However, challenges like high inventory costs and evolving fashion trends question the model's long-term scalability."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+        "title": "Four astronauts are back home after a daring ride around the Moon",
+        "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+        "published": "Sat, 11 Apr 2026 01:21:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"I can't imagine a better crew that just completed a perfect mission right now.\""
+    },
+    {
+        "id": "https://www.engadget.com/science/space/the-artemis-ii-astronauts-are-back-after-a-10-day-journey-around-the-moon-033800654.html?src=rss",
+        "title": "The Artemis II astronauts are back after a 10-day journey around the moon",
+        "link": "https://www.engadget.com/science/space/the-artemis-ii-astronauts-are-back-after-a-10-day-journey-around-the-moon-033800654.html?src=rss",
+        "published": "Sat, 11 Apr 2026 03:38:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The Orion capsule carrying the <a class=\"link\" href=\"https://www.engadget.com/science/space/nasas-artemis-ii-mission-has-left-earths-orbit-104219933.html\" target=\"_blank\">Artemis II</a> astronauts has successfully <a class=\"link\" href=\"https://www.engadget.com/science/space/how-to-watch-the-artemis-ii-landing-145344873.html\" target=\"_blank\">splashed down</a> off the coast of San Diego at 8:07PM Eastern time on April 10. It signals the conclusion of  Artemis II\u2019s 10-day journey around the moon"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-not-accessed/articleshow/130183696.cms",
+        "title": "OpenAI identifies security issue involving third-party tool, says user data was not accessed",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-not-accessed/articleshow/130183696.cms",
+        "published": "Sat, 11 Apr 2026 08:41:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI said on Friday it had identified a \u200bsecurity issue involving a \u200bthird-party developer tool called Axios and is \u200btaking steps to protect the process that certifies its macOS applications are legitimate OpenAI apps."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/jd-vance-bessent-questions-tech-giants-on-ai-security-before-anthropics-mythos-release/articleshow/130182990.cms",
+        "title": "JD Vance, Bessent questions tech giants on AI security before Anthropic's Mythos release",
+        "link": "https://economictimes.indiatimes.com/tech/technology/jd-vance-bessent-questions-tech-giants-on-ai-security-before-anthropics-mythos-release/articleshow/130182990.cms",
+        "published": "Sat, 11 Apr 2026 07:28:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic's Dario \u200bAmodei, Alphabet's Sundar Pichai, OpenAI's Sam Altman, Microsoft's Satya Nadella and the heads of \u200bPalo Alto Networks and CrowdStrike were \u2060on \u200cthe call, according to \u200bthe \u200breport."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jd-vance-bessent-questions-tech-giants-on-ai-security-before-anthropics-mythos-release/articleshow/130182975.cms",
+        "title": "JD Vance, Bessent question tech giants on AI security before Anthropic's Mythos release",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jd-vance-bessent-questions-tech-giants-on-ai-security-before-anthropics-mythos-release/articleshow/130182975.cms",
+        "published": "Sat, 11 Apr 2026 07:28:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic's Dario \u200bAmodei, Alphabet's Sundar Pichai, OpenAI's Sam Altman, Microsoft's Satya Nadella and the heads of \u200bPalo Alto Networks and CrowdStrike were \u2060on \u200cthe call, according to \u200bthe \u200breport."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home/articleshow/130182837.cms",
+        "title": "Suspect arrested after Molotov cocktail attack at OpenAI CEO Sam Altman's home",
+        "link": "https://economictimes.indiatimes.com/tech/technology/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home/articleshow/130182837.cms",
+        "published": "Sat, 11 Apr 2026 07:16:01 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "San \u200bFrancisco police arrested a person \u200bfor allegedly throwing a Molotov cocktail at OpenAI \u200bCEO Sam Altman's home and for making threats outside the artificial intelligence startup's headquarters, the company said on Friday."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ibm-to-pay-17-million-to-settle-us-government-probe-over-dei/articleshow/130182827.cms",
+        "title": "IBM to pay $17 million to settle US government probe over DEI",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ibm-to-pay-17-million-to-settle-us-government-probe-over-dei/articleshow/130182827.cms",
+        "published": "Sat, 11 Apr 2026 07:13:44 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\u200bIBM has agreed to pay $17 \u200bmillion to settle a US government \u200bprobe over the firm's diversity, equity and inclusion practices, which President Donald Trump's administration has cracked down on during his second term \u200cin office."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/whitefield-art-collective-photography",
+        "title": "Whitefield Art Collective celebrates ninth edition of its annual festival",
+        "link": "https://yourstory.com/2026/04/whitefield-art-collective-photography",
+        "published": "Sat, 11 Apr 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In this photo essay, we feature WAC 2026 highlights from VR Bengaluru."
+    },
+    {
+        "id": "https://inc42.com/buzz/from-kreditbee-to-nava-indian-startups-raised-362-mn-this-week/",
+        "title": "From KreditBee To Nava\u2014 Indian Startups Raised $362 Mn This Week",
+        "link": "https://inc42.com/buzz/from-kreditbee-to-nava-indian-startups-raised-362-mn-this-week/",
+        "published": "Sat, 11 Apr 2026 03:30:20 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"From KreditBee To Nava\u2014 Indian Startups Raised $362 Mn This Week\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/Ftr-100-15.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />After a drought of mega deals in the first quarter of 2026, April began with lending tech startup KreditBee entering&#8230;"
     }
 ]
