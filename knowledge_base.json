@@ -187038,5 +187038,37 @@
         "published": "Sat, 11 Apr 2026 13:27:16 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47730407\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/big-tech/ibm-settles-its-dei-lawsuit-with-the-doj-for-17-million-153749285.html?src=rss",
+        "title": "IBM settles its DEI lawsuit with the DOJ for $17 million",
+        "link": "https://www.engadget.com/big-tech/ibm-settles-its-dei-lawsuit-with-the-doj-for-17-million-153749285.html?src=rss",
+        "published": "Sat, 11 Apr 2026 15:37:49 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"no-affiliate-link\" href=\"https://www.engadget.com/science/ibm-announces-nighthawk-and-loon-quantum-chips-213603769.html\">IBM</a> has agreed to settle the US Department of Justice's accusations that the company violated civil rights laws with its <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/big-tech/state-department-calibri-font-was-a-dei-hire-190454957.html\">DEI practices</a>. According to a <a class=\"no-affiliate-link\" href=\"https://www.justice.gov/opa/pr/ibm-pays-17"
+    },
+    {
+        "id": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+        "title": "The Future of Everything Is Lies, I Guess: Annoyances",
+        "link": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+        "published": "Sat, 11 Apr 2026 14:32:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47730981\">Comments</a>"
+    },
+    {
+        "id": "https://notes.brooklynzelenka.com/Blog/Surelock",
+        "title": "Surelock: Deadlock-Free Mutexes for Rust",
+        "link": "https://notes.brooklynzelenka.com/Blog/Surelock",
+        "published": "Wed, 08 Apr 2026 17:36:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47693559\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-state-media-turns-to-social-media-ai-to-tell-its-story-often-mock-us/articleshow/130194595.cms",
+        "title": "China's state media turns to social media, AI to tell its story - often mock US",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-state-media-turns-to-social-media-ai-to-tell-its-story-often-mock-us/articleshow/130194595.cms",
+        "published": "Sat, 11 Apr 2026 20:45:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In a five-minute AI-generated animation modelled after classic martial arts movies, China's state media frames an allegory for the war in Iran. A white eagle in regal attire representing the US unleashes an evil laugh before his army attacks a group of Persian cats draped in black cloaks standing in for Iranians, who vow to fight after losing their leader and close off a crucial trading route."
     }
 ]
