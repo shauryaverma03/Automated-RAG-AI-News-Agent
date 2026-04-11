@@ -187206,5 +187206,13 @@
         "published": "Sat, 11 Apr 2026 20:08:46 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47733561\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+        "title": "The Netherlands is the first European country to approve Tesla\u2019s supervised Full Self-Driving",
+        "link": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+        "published": "2026-04-11T19:22:15-04:00",
+        "source": "The Verge",
+        "summary": "Dutch regulators, the RDW, announced that after over a year and a half of testing, it has officially approved Tesla's Full-Self Driving (FSD) Supervised. This makes the Netherlands the first European country to authorize the use of FSD on its roads. This could open the door to wider adoption throughout the EU. Tesla's European headquarters [&#8230;]"
     }
 ]
