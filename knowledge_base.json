@@ -187142,5 +187142,29 @@
         "published": "Wed, 08 Apr 2026 18:10:52 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47694064\">Comments</a>"
+    },
+    {
+        "id": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "published": "Sat, 11 Apr 2026 19:15:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47733217\">Comments</a>"
+    },
+    {
+        "id": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+        "title": "How to build a `Git diff` driver",
+        "link": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+        "published": "Sat, 11 Apr 2026 18:07:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47732697\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/weekly-funding-roundup-april-4-10-vc-inflow-4x-rise-due-large-deals-kreditbee",
+        "title": "[Weekly funding roundup April 4-10] VC inflow sees a 4X rise due to large deals",
+        "link": "https://yourstory.com/2026/04/weekly-funding-roundup-april-4-10-vc-inflow-4x-rise-due-large-deals-kreditbee",
+        "published": "Fri, 10 Apr 2026 14:12:53 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The steep increase in VC funding for the second week of April was primarily due to two $100 million plus deals."
     }
 ]
