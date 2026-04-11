@@ -186518,5 +186518,45 @@
         "published": "Fri, 10 Apr 2026 23:05:48 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47724921\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+        "title": "NASA Artemis II splashes down in Pacific Ocean in \u2018perfect\u2019 landing for Moon mission",
+        "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+        "published": "Sat, 11 Apr 2026 00:44:17 +0000",
+        "source": "TechCrunch",
+        "summary": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time."
+    },
+    {
+        "id": "https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/",
+        "title": "Artemis II Returns From Historic Flight Around the Moon",
+        "link": "https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/",
+        "published": "Sat, 11 Apr 2026 00:08:17 +0000",
+        "source": "WIRED",
+        "summary": "After traveling a greater distance from Earth than any humans before them, the astronauts of Artemis II have safely returned home."
+    },
+    {
+        "id": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+        "title": "Artemis II safely splashes down",
+        "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+        "published": "Sat, 11 Apr 2026 00:10:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47725583\">Comments</a>"
+    },
+    {
+        "id": "https://jack.cab/blog/every-firefox-extension",
+        "title": "Installing Every* Firefox Extension",
+        "link": "https://jack.cab/blog/every-firefox-extension",
+        "published": "Fri, 10 Apr 2026 21:56:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47724118\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/rapid-fashion-companies-dress-to-kill-how-fit-is-the-model/articleshow/130178429.cms",
+        "title": "Rapid fashion companies dress to kill...how fit is the model?",
+        "link": "https://economictimes.indiatimes.com/tech/startups/rapid-fashion-companies-dress-to-kill-how-fit-is-the-model/articleshow/130178429.cms",
+        "published": "Sat, 11 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Venture-backed startups are testing quick-commerce for fashion, promising under-hour delivery in metro cities. Despite significant cash burn and heavy discounting to attract customers, investors are betting on this segment's potential. However, challenges like high inventory costs and evolving fashion trends question the model's long-term scalability."
     }
 ]
