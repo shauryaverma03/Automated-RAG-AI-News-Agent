@@ -187166,5 +187166,37 @@
         "published": "Fri, 10 Apr 2026 14:12:53 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The steep increase in VC funding for the second week of April was primarily due to two $100 million plus deals."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+        "title": "Kalshi wins temporary pause in Arizona criminal case",
+        "link": "https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/",
+        "published": "Sat, 11 Apr 2026 21:20:24 +0000",
+        "source": "TechCrunch",
+        "summary": "The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+        "title": "AMC will stream \u2018The Audacity\u2019 premiere in 21 parts on TikTok",
+        "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+        "published": "Sat, 11 Apr 2026 20:32:23 +0000",
+        "source": "TechCrunch",
+        "summary": "Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?"
+    },
+    {
+        "id": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+        "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit",
+        "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+        "published": "Sat, 11 Apr 2026 20:58:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47733971\">Comments</a>"
+    },
+    {
+        "id": "https://darkcastle.co.uk/",
+        "title": "Dark Castle",
+        "link": "https://darkcastle.co.uk/",
+        "published": "Sat, 11 Apr 2026 20:01:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47733521\">Comments</a>"
     }
 ]
