@@ -187134,5 +187134,13 @@
         "published": "Wed, 08 Apr 2026 13:34:09 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The investment will enable SILA, which focuses on the real estate sector, to expand its operations and strengthen its technology capabilities."
+    },
+    {
+        "id": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
+        "title": "Every plane you see in the sky \u2013 you can now follow it from the cockpit in 3D",
+        "link": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
+        "published": "Wed, 08 Apr 2026 18:10:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47694064\">Comments</a>"
     }
 ]
