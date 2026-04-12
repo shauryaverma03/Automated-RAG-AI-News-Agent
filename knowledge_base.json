@@ -187726,5 +187726,45 @@
         "published": "Sun, 12 Apr 2026 12:28:57 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47738883\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+        "title": "X says it\u2019s reducing payments to clickbait accounts",
+        "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+        "published": "Sun, 12 Apr 2026 17:02:20 +0000",
+        "source": "TechCrunch",
+        "summary": "X is cutting back on payments to accounts that are \u201cflooding the timeline\u201d with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier"
+    },
+    {
+        "id": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
+        "title": "Rockstar Games says hack will have \u2018no impact\u2019",
+        "link": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
+        "published": "2026-04-12T13:02:00-04:00",
+        "source": "The Verge",
+        "summary": "Rockstar confirmed on Saturday that some of its data was compromised in a breach of a third-party provider. The group ShinyHunters claimed responsibility, saying it had gained access to the company's Snowflake instances (a cloud-hosting provider popular with enterprise customers) via Anodot, a cost-monitoring and analytics service. The group is demanding a ransom by April [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/openai-says-elon-musk-is-orchestrating-a-last-minute-legal-ambush-before-trial-163248345.html?src=rss",
+        "title": "OpenAI says Elon Musk is orchestrating a last-minute 'legal ambush' before trial",
+        "link": "https://www.engadget.com/ai/openai-says-elon-musk-is-orchestrating-a-last-minute-legal-ambush-before-trial-163248345.html?src=rss",
+        "published": "Sun, 12 Apr 2026 16:32:48 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/openai-says-elon-musks-lawsuit-allegations-are-incoherent-070056403.html\">feud</a> between Elon Musk and OpenAI is getting even more contentious as the two sides get ready for trial later this month. The latest development in the legal back-and-forth saw OpenAI accuse Elon Musk and his latest proposals as a \"legal ambush,\" as first reported by <a class=\"no-affiliate-link\" href=\"https://www.bloomberg.com/news/articles/2026-04-11/o"
+    },
+    {
+        "id": "https://eualternative.eu/guides/building-saas-eu-stack/",
+        "title": "Building a SaaS in 2026 Using Only EU Infrastructure",
+        "link": "https://eualternative.eu/guides/building-saas-eu-stack/",
+        "published": "Sun, 12 Apr 2026 16:33:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47741634\">Comments</a>"
+    },
+    {
+        "id": "https://www.trainjazz.com/",
+        "title": "I gave every train in New York an instrument",
+        "link": "https://www.trainjazz.com/",
+        "published": "Fri, 10 Apr 2026 15:21:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47719490\">Comments</a>"
     }
 ]
