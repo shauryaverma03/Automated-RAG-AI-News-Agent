@@ -187638,5 +187638,61 @@
         "published": "Sun, 12 Apr 2026 02:10:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we feature a visual tour of the Digital Empowerment Foundation\u2019s Museum of Digital Society, along with founder insights."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "title": "From LLMs to hallucinations, here\u2019s a simple guide to common AI terms",
+        "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "published": "Sun, 12 Apr 2026 15:07:08 +0000",
+        "source": "TechCrunch",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+        "title": "At the HumanX conference, everyone was talking about Claude",
+        "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+        "published": "Sun, 12 Apr 2026 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference."
+    },
+    {
+        "id": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "title": "Bring Back Idiomatic Design",
+        "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "published": "Sun, 12 Apr 2026 12:21:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47738827\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+        "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+        "link": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+        "published": "Sun, 12 Apr 2026 13:06:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47739174\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-judge-blocks-arizona-criminal-case-against-kalshi-at-cftcs-request/articleshow/130210286.cms",
+        "title": "US judge blocks Arizona criminal case against Kalshi at CFTC's request",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-judge-blocks-arizona-criminal-case-against-kalshi-at-cftcs-request/articleshow/130210286.cms",
+        "published": "Sun, 12 Apr 2026 20:42:48 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In a notable turn of events, Arizona's criminal case against the innovative prediction market, Kalshi, has been suspended by a federal judge. The CFTC has stepped in, launching a lawsuit aimed at shielding the prediction market landscape from state regulation. The temporary restraining order issued by the court effectively freezes Arizona's attempts to levy criminal charges against CFTC-governed entities."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-ai-to-everything-how-anthropic-is-taking-on-techs-old-guard/articleshow/130210267.cms",
+        "title": "From AI to everything: How Anthropic is taking on tech\u2019s old guard",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-ai-to-everything-how-anthropic-is-taking-on-techs-old-guard/articleshow/130210267.cms",
+        "published": "Sun, 12 Apr 2026 20:38:05 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI firm Anthropic is disrupting the software market. It launched tools for legal, financial, and HR tasks, impacting partner companies.  Anthropic also introduced a cybersecurity tool that scans code for vulnerabilities. This move challenges existing security vendors.  Anthropic's strategy focuses on areas where its AI reasoning excels, driving enterprise productivity."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/japan-approves-additional-4-billion-for-chipmaker-rapidus/articleshow/130209634.cms",
+        "title": "Japan approves additional $4 billion for chipmaker Rapidus",
+        "link": "https://economictimes.indiatimes.com/tech/technology/japan-approves-additional-4-billion-for-chipmaker-rapidus/articleshow/130209634.cms",
+        "published": "Sun, 12 Apr 2026 19:59:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Japan's government is injecting more funds into chipmaker Rapidus. This significant financial boost aims to accelerate the development of advanced semiconductors. The support is crucial for strengthening Japan's chip supply chains. Rapidus is working on next-generation chips with mass production planned for 2027. This move signals Japan's commitment to leading in semiconductor technology."
     }
 ]
