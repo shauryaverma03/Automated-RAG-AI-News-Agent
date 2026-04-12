@@ -187278,5 +187278,37 @@
         "published": "Sun, 12 Apr 2026 01:55:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 227th quiz. Ready?"
+    },
+    {
+        "id": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+        "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+        "link": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+        "published": "Sun, 12 Apr 2026 05:08:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47736298\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/daily-capsule-faster-breast-cancer-detection-tekion-ai-pivot",
+        "title": "Faster breast cancer detection; Tekion\u2019s AI-native pivot",
+        "link": "https://yourstory.com/2026/04/daily-capsule-faster-breast-cancer-detection-tekion-ai-pivot",
+        "published": "Sun, 12 Apr 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "UE LifeSciences is rethinking breast cancer screening with iBreastExam, and Tekion\u2019s bold shift to becoming an AI-native organisation."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/how-women-are-changing-the-rules-of-investing",
+        "title": "How women are changing the rules of investing",
+        "link": "https://yourstory.com/2026/04/how-women-are-changing-the-rules-of-investing",
+        "published": "Sun, 12 Apr 2026 02:10:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "From long-term thinking to mindful consumption, a quiet shift is reshaping how money is managed across India."
+    },
+    {
+        "id": "https://inc42.com/features/the-making-of-a-lending-tech-unicorn/",
+        "title": "The Making Of A Lending Tech Unicorn",
+        "link": "https://inc42.com/features/the-making-of-a-lending-tech-unicorn/",
+        "published": "Sun, 12 Apr 2026 05:30:56 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"The Making Of A Lending Tech Unicorn\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/KreditBee-Outline-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Last week, India got its 128th unicorn, as KreditBee entered the coveted club. The fintech startup raised $280 Mn in&#8230;"
     }
 ]
