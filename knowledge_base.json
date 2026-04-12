@@ -187542,5 +187542,61 @@
         "published": "Sun, 12 Apr 2026 17:57:59 +0530",
         "source": "Tech-Economic Times",
         "summary": "UK \u200bfinancial regulators \u200bare holding urgent talks \u200cwith \u2060the \u2060government's \u200bcyber security agency \u200band major banks \u200bto \u2060assess risks \u200cposed \u200bby \u200bthe \u2060new artificial intelligence \u200bmodel from Anthropic, \u200bthe Financial Times \u200creported on Sunday."
+    },
+    {
+        "id": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review",
+        "title": "The Hisense UR9 is a great first shot against OLED\u2019s bow",
+        "link": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review",
+        "published": "2026-04-12T09:30:00-04:00",
+        "source": "The Verge",
+        "summary": "RGB LED TVs have been the talk of the TV world this year, with models coming from all the manufacturers, and the first one of 2026 is here - the Hisense UR9. It's the first look at the viability of the new backlight technology outside of demo rooms, and it's a step above the traditional [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/podcast/910725/western-electric-500-att-version-history",
+        "title": "How AT&#038;T created the most iconic phone ever",
+        "link": "https://www.theverge.com/podcast/910725/western-electric-500-att-version-history",
+        "published": "2026-04-12T09:28:46-04:00",
+        "source": "The Verge",
+        "summary": "For years, even decades, virtually everyone in the United States had the same phone. Nobody really thought about it, it didn't even matter what it was called - it was just The Phone. Well, The Phone was called the Western Electric 500, and when landline phones ruled the world, the Western Electric 500 ruled the [&#8230;]"
+    },
+    {
+        "id": "https://github.com/anthropics/claude-code/issues/45756",
+        "title": "Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage",
+        "link": "https://github.com/anthropics/claude-code/issues/45756",
+        "published": "Sun, 12 Apr 2026 13:15:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47739260\">Comments</a>"
+    },
+    {
+        "id": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+        "title": "We have a 99% email reputation. Gmail disagrees",
+        "link": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+        "published": "Sun, 12 Apr 2026 12:42:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47738978\">Comments</a>"
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=47739305",
+        "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
+        "link": "https://news.ycombinator.com/item?id=47739305",
+        "published": "Sun, 12 Apr 2026 13:20:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47739305\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-juggernaut-rumbles-on-even-as-markets-whipsaw/articleshow/130208277.cms",
+        "title": "AI juggernaut rumbles on even as markets whipsaw",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-juggernaut-rumbles-on-even-as-markets-whipsaw/articleshow/130208277.cms",
+        "published": "Sun, 12 Apr 2026 18:24:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The artificial intelligence sector continues its strong financial growth. Despite global tensions, significant funding is flowing into AI initiatives. Major companies are raising billions through debt sales. This trend is attracting investors seeking stable opportunities. The demand for AI infrastructure is driving substantial investment in the market."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ai-digital-tools-must-not-be-allowed-to-override-judicial-reasoning-sc-judge/articleshow/130207963.cms",
+        "title": "AI, digital tools must not be allowed to override judicial reasoning: SC judge",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ai-digital-tools-must-not-be-allowed-to-override-judicial-reasoning-sc-judge/articleshow/130207963.cms",
+        "published": "Sun, 12 Apr 2026 17:55:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Supreme Court judge Justice Rajesh Bindal stressed that artificial intelligence and digital tools should only support, not replace, judicial reasoning. He also voiced concerns about data confidentiality risks with open-source platforms. These remarks were made at a national conference on judicial process re-engineering and digital transformation."
     }
 ]
