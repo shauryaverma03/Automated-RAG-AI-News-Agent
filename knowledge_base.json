@@ -187310,5 +187310,45 @@
         "published": "Sun, 12 Apr 2026 05:30:56 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"The Making Of A Lending Tech Unicorn\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/KreditBee-Outline-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Last week, India got its 128th unicorn, as KreditBee entered the coveted club. The fintech startup raised $280 Mn in&#8230;"
+    },
+    {
+        "id": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+        "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+        "link": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+        "published": "Sun, 12 Apr 2026 06:00:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47736555\">Comments</a>"
+    },
+    {
+        "id": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+        "title": "Tofolli gates are all you need",
+        "link": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+        "published": "Tue, 07 Apr 2026 09:40:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47672718\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/demis-hassabis-ai-was-meant-to-cure-cancer-now-its-a-commercial-race/articleshow/130204487.cms",
+        "title": "Demis Hassabis: AI was meant to cure cancer, now it\u2019s a commercial race",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/demis-hassabis-ai-was-meant-to-cure-cancer-now-its-a-commercial-race/articleshow/130204487.cms",
+        "published": "Sun, 12 Apr 2026 13:21:32 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Talking to YouTuber Cleo Abram in a recent interview, the Google DeepMind CEO said his original motivation for entering AI was to harness the world\u2019s data to tackle fundamental questions\u2014about the nature of reality and consciousness, among others. But that long-term vision shifted dramatically with the arrival of ChatGPT in November 2022, the viral success of which reset the industry and accelerated the pace at which everyone now operates. Compounding the issue are the risks of AI that are still"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tcs-makes-only-25k-fresher-offers-this-fiscal-more-hires-dependent-on-demand-scenario-official/articleshow/130204229.cms",
+        "title": "TCS makes only 25k fresher offers this fiscal, more hires dependent on demand scenario: Official",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tcs-makes-only-25k-fresher-offers-this-fiscal-more-hires-dependent-on-demand-scenario-official/articleshow/130204229.cms",
+        "published": "Sun, 12 Apr 2026 12:58:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "TCS has extended 25,000 offers to freshers this fiscal year. Future hiring of college graduates hinges on demand clarity. The company is investing in acquisitions, partnerships, and its staff for future growth. Business needs will shape hiring strategies. The company sees stable project pipelines and signs of improvement in discretionary demand."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-accounts-for-15-of-githubs-global-user-base-with-27-million-developers-on-the-platform/articleshow/130203859.cms",
+        "title": "India accounts for 15% of GitHub\u2019s global user base, with 27 million developers on the platform",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-accounts-for-15-of-githubs-global-user-base-with-27-million-developers-on-the-platform/articleshow/130203859.cms",
+        "published": "Sun, 12 Apr 2026 12:20:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Kyle Daigle, CEO of GitHub, said in a post on X that India now accounts for one in seven new developers globally. India now makes up over 15% of GitHub\u2019s global user base of over 180 million developers."
     }
 ]
