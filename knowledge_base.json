@@ -187766,5 +187766,37 @@
         "published": "Fri, 10 Apr 2026 15:21:07 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47719490\">Comments</a>"
+    },
+    {
+        "id": "https://boringbar.app/",
+        "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
+        "link": "https://boringbar.app/",
+        "published": "Sun, 12 Apr 2026 17:25:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47742200\">Comments</a>"
+    },
+    {
+        "id": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+        "title": "Most people can't juggle one ball",
+        "link": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+        "published": "Thu, 09 Apr 2026 12:35:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47702887\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/yc-startup-school-seed-stage-capital-in-ai-not-enough-large-companies-amassing-disproportionate-funding-says-general-partner-ankit-gupta/articleshow/130215319.cms",
+        "title": "YC Startup School: Seed-stage capital in AI not enough, large companies amassing disproportionate funding, says general partner Ankit Gupta",
+        "link": "https://economictimes.indiatimes.com/tech/startups/yc-startup-school-seed-stage-capital-in-ai-not-enough-large-companies-amassing-disproportionate-funding-says-general-partner-ankit-gupta/articleshow/130215319.cms",
+        "published": "Sun, 12 Apr 2026 23:35:44 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India\u2019s talent pool across colleges and universities are key for building next-gen startups, which is what YC is looking to tap into. It wants to target entrepreneurs building for global markets, focussed on fintech, consumer, B2B, and ecommerce, among others."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/israeli-firm-black-cube-confirms-cyprus-sting-to-expose-corruption/articleshow/130212836.cms",
+        "title": "Israeli firm Black Cube confirms Cyprus sting to 'expose corruption'",
+        "link": "https://economictimes.indiatimes.com/tech/technology/israeli-firm-black-cube-confirms-cyprus-sting-to-expose-corruption/articleshow/130212836.cms",
+        "published": "Sun, 12 Apr 2026 23:06:31 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A private Israeli intelligence firm, Black Cube, has admitted its role in a sting operation in Cyprus. The operation targeted state officials and private interests. Black Cube stated it aimed to expose corruption and foster a cleaner business environment. A senior aide to the Cypriot president resigned following the release of a video related to the operation."
     }
 ]
