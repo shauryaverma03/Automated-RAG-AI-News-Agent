@@ -187222,5 +187222,61 @@
         "published": "Sun, 12 Apr 2026 00:00:00 GMT",
         "source": "Latest news",
         "summary": "Walmart's next streaming device might be exactly what Chromecast fans have been longing for. Here's what's expected."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+        "title": "Walmart-owned Flipkart, Amazon are squeezing India\u2019s quick commerce startups",
+        "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+        "published": "Sun, 12 Apr 2026 03:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say."
+    },
+    {
+        "id": "https://brennan.day/the-end-of-eleventy/",
+        "title": "The End of Eleventy",
+        "link": "https://brennan.day/the-end-of-eleventy/",
+        "published": "Sun, 12 Apr 2026 01:55:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47735535\">Comments</a>"
+    },
+    {
+        "id": "https://philodev.one/posts/2026-04-code-complexity/",
+        "title": "How Complex is my Code?",
+        "link": "https://philodev.one/posts/2026-04-code-complexity/",
+        "published": "Tue, 07 Apr 2026 10:44:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47673171\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/stop-hiring-humans-silicon-valley-confronts-ai-job-panic/articleshow/130202371.cms",
+        "title": "'Stop hiring humans'? Silicon Valley confronts AI job panic",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/stop-hiring-humans-silicon-valley-confronts-ai-job-panic/articleshow/130202371.cms",
+        "published": "Sun, 12 Apr 2026 09:46:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI experts at HumanX conference advise workers to code smarter and embrace human skills. Companies are increasingly citing AI for job cuts, sparking anxiety. While some dismiss AI as a pretext for layoffs, others foresee widespread disruption. Experts highlight critical thinking and judgment as key human differentiators. Concerns arise about a generation lacking fundamental writing skills."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-sets-up-company-in-japan-to-develop-ai-domestically-report/articleshow/130202374.cms",
+        "title": "SoftBank sets up company in Japan to develop AI domestically: Report",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-sets-up-company-in-japan-to-develop-ai-domestically-report/articleshow/130202374.cms",
+        "published": "Sun, 12 Apr 2026 09:43:34 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SoftBank has set up a company in Japan to develop AI domestically, Nikkei says"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/inside-dark-stores-blinkit-zepto-how-10-minute-delivery-works",
+        "title": "The dark stores behind Blinkit and Zepto: How 10 minute delivery works",
+        "link": "https://yourstory.com/2026/04/inside-dark-stores-blinkit-zepto-how-10-minute-delivery-works",
+        "published": "Sun, 12 Apr 2026 02:15:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In this Prime Venture Partners Podcast episode, we sit down with C Sumit Anand and Rupesh Thakare, Co-founders of Inamo, the company powering India\u2019s 10-minute delivery magic. They break down the complex systems behind quick commerce and how it works at scale."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/technology-trends-traction-business-creativity-entrepreneur-quiz",
+        "title": "Technology, trends, traction: test your business creativity with Edition 227 of our weekly quiz!",
+        "link": "https://yourstory.com/2026/04/technology-trends-traction-business-creativity-entrepreneur-quiz",
+        "published": "Sun, 12 Apr 2026 01:55:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 227th quiz. Ready?"
     }
 ]
