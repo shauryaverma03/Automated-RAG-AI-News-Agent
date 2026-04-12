@@ -187366,5 +187366,37 @@
         "published": "Sun, 12 Apr 2026 13:32:13 +0530",
         "source": "Tech-Economic Times",
         "summary": "As the world grapples with the challenges of a perfect storm - war, energy crisis, and the upcoming AI crisis - India emerges as a bright spot in an otherwise gloomy global landscape. Frank-Jurgen Richter, former Director of the World Economic Forum and Chairman of Horasis, believes that India has the momentum to become a global leader in AI and manufacturing."
+    },
+    {
+        "id": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+        "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+        "published": "Sun, 12 Apr 2026 09:16:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47737563\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/anthropics/claude-code/issues/46829",
+        "title": "Anthropic silently downgraded cache TTL from 1h \u2192 5M on March 6th",
+        "link": "https://github.com/anthropics/claude-code/issues/46829",
+        "published": "Sun, 12 Apr 2026 05:45:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47736476\">Comments</a>"
+    },
+    {
+        "id": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
+        "title": "An Interview with Pat Gelsinger",
+        "link": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
+        "published": "Thu, 09 Apr 2026 17:19:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47706423\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-use-email-aliases/",
+        "title": "Here's my favorite email trick for cleaning up inbox clutter - automatically",
+        "link": "https://www.zdnet.com/article/how-to-use-email-aliases/",
+        "published": "Sun, 12 Apr 2026 09:00:00 GMT",
+        "source": "Latest news",
+        "summary": "Is your inbox overflowing with ads, newsletters, and social media updates? This one feature that's built into most email solutions will fix that for you."
     }
 ]
