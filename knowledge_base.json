@@ -187398,5 +187398,37 @@
         "published": "Sun, 12 Apr 2026 09:00:00 GMT",
         "source": "Latest news",
         "summary": "Is your inbox overflowing with ads, newsletters, and social media updates? This one feature that's built into most email solutions will fix that for you."
+    },
+    {
+        "id": "https://www.wired.com/review/mammotion-spino-e1-pool-robot/",
+        "title": "Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short",
+        "link": "https://www.wired.com/review/mammotion-spino-e1-pool-robot/",
+        "published": "Sun, 12 Apr 2026 10:05:00 +0000",
+        "source": "WIRED",
+        "summary": "This compact pool robot keeps its price down, but its performance doesn\u2019t match that of more capable cleaners."
+    },
+    {
+        "id": "https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/",
+        "title": "The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?",
+        "link": "https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/",
+        "published": "Sun, 12 Apr 2026 09:36:00 +0000",
+        "source": "WIRED",
+        "summary": "The first rule of coffee is that it must stay hot. After weeks or even years of testing, these are the three coffee warmers that will best keep it that way."
+    },
+    {
+        "id": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+        "title": "Apple update looks like Czech mate for locked-out iPhone user",
+        "link": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+        "published": "Sun, 12 Apr 2026 08:38:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47737383\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/zero-tolerance-for-harassment-staff-accused-in-nashik-harassment-case-suspended-tcs/articleshow/130205383.cms",
+        "title": "Zero tolerance for harassment; staff accused in Nashik harassment case suspended: TCS",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/zero-tolerance-for-harassment-staff-accused-in-nashik-harassment-case-suspended-tcs/articleshow/130205383.cms",
+        "published": "Sun, 12 Apr 2026 14:53:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tata Consultancy Services has suspended employees following allegations of sexual harassment and forced religious conversion at its Nashik office. The IT giant has a zero-tolerance policy for such misconduct. Police have formed a special investigation team and arrested seven individuals, including an HR manager. TCS is cooperating with the authorities and awaiting investigation results."
     }
 ]
