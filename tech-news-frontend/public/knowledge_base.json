@@ -188150,5 +188150,117 @@
         "published": "Mon, 13 Apr 2026 08:37:03 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Zoho\u2019s FY25 numbers show strong revenue growth, but a closer look reveals a surprising twist in its profitability story. What\u2019s driving the shift?</p>\n<p>The post <a href=\"https://www.medianama.com/2026/04/223-zoho-revenue-crosses-rs-12000-crore-fy25-profit-slips/\">Zoho revenue crosses Rs 12,000 crore in FY25, but profit slips 3%</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
+        "title": "Did Neuralink make the wrong bet?",
+        "link": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
+        "published": "2026-04-13T07:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Elon Musk promised Neuralink would bring superhuman abilities and minds merged with AI. Then he fueled a runaway hype train for his brain implant technology, which ended up with a grisly record for implants in monkeys and some success with human subjects. But for all of the hype, he's still further away than Mars from [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds",
+        "title": "Microsoft&#8217;s new Xbox Gamepad Cursor adds a virtual mouse to handhelds",
+        "link": "https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds",
+        "published": "2026-04-13T06:29:17-04:00",
+        "source": "The Verge",
+        "summary": "Microsoft has started testing its own virtual mouse cursor inside its Xbox mode for Windows-based handhelds. The new Gamepad Cursor option provides a quick way to turn the left stick of a handheld like the Xbox Ally X into a virtual mouse. While Asus has its own cursor as part of Armory Crate, Microsoft's Gamepad [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+        "title": "Sam Altman reportedly targeted in second attack",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+        "published": "2026-04-13T05:25:57-04:00",
+        "source": "The Verge",
+        "summary": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, citing surveillance footage that appears to show a vehicle [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
+        "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+        "link": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
+        "published": "Mon, 13 Apr 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive\u2019s vast collection of web pages."
+    },
+    {
+        "id": "https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons/",
+        "title": "The Dumbest Hack of the Year Exposed a Very Real Problem",
+        "link": "https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons/",
+        "published": "Mon, 13 Apr 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Last April, a hacker hijacked crosswalk announcements to mimic Mark Zuckerberg and Elon Musk. Records obtained by WIRED reveal how unprepared local authorities were."
+    },
+    {
+        "id": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+        "title": "AI Agents Are Coming for Your Dating Life",
+        "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+        "published": "Mon, 13 Apr 2026 10:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+        "title": "Job titles of the future: Wildlife first responder",
+        "link": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+        "published": "Mon, 13 Apr 2026 10:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.&#160; For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Species Act, and the humans, who are sprawling into once-wild&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+        "title": "You have no choice in reading this article\u2014maybe",
+        "link": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+        "published": "Mon, 13 Apr 2026 10:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.&#160; Then his professor asked him to deliver an undergrad lecture. Maoz assumed his&#8230;"
+    },
+    {
+        "id": "https://github.com/brightbeanxyz/brightbean-studio",
+        "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+        "link": "https://github.com/brightbeanxyz/brightbean-studio",
+        "published": "Mon, 13 Apr 2026 09:26:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47749674\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tcs-nashik-case-nites-approaches-labour-ministry-seeks-posh-compliance-audit-in-tech-firm/articleshow/130234062.cms",
+        "title": "TCS Nashik case: NITES approaches labour ministry, seeks POSH compliance audit in tech firm",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tcs-nashik-case-nites-approaches-labour-ministry-seeks-posh-compliance-audit-in-tech-firm/articleshow/130234062.cms",
+        "published": "Mon, 13 Apr 2026 16:11:10 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "An IT employees' body has urged the Labour Ministry to audit Tata Consultancy Services for sexual harassment compliance. This follows allegations from eight female employees at a Nashik office. The organization also called for a broader state-level audit of IT firms in Maharashtra. TCS has suspended employees involved and stated a zero-tolerance policy. Police are investigating the complaints."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/gym-operator-basic-fit-data-breach-exposes-details-of-a-million-gym-members/articleshow/130233928.cms",
+        "title": "Gym operator Basic-Fit data breach exposes details of a million gym members",
+        "link": "https://economictimes.indiatimes.com/tech/technology/gym-operator-basic-fit-data-breach-exposes-details-of-a-million-gym-members/articleshow/130233928.cms",
+        "published": "Mon, 13 Apr 2026 16:05:44 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Gym operator Basic-Fit has experienced a significant data breach. Around one million members' personal information, including bank account details, has been compromised. The company detected the unauthorized access swiftly and has informed affected individuals. Basic-Fit assures that identification documents and passwords were not accessed. The primary concern for members is the potential for phishing attacks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-without-safeguards-can-amplify-existing-weaknesses-in-financial-sector-rbi-dg/articleshow/130233792.cms",
+        "title": "AI without safeguards can amplify existing weaknesses in financial sector: RBI DG",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-without-safeguards-can-amplify-existing-weaknesses-in-financial-sector-rbi-dg/articleshow/130233792.cms",
+        "published": "Mon, 13 Apr 2026 15:58:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In a recent conference, Reserve Bank Deputy Governor Swaminathan J raised a red flag regarding the integration of AI in finance. He emphasized that, if left unchecked, AI could not only amplify existing challenges but also introduce unforeseen complications. On one hand, AI can transform customer interactions and enhance access to credit; on the other hand, it harbors potential pitfalls."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/cashfree-appoints-ex-visa-finance-head-sameer-gandhi-as-its-new-cfo/articleshow/130233534.cms",
+        "title": "Cashfree appoints ex-Visa finance head Sameer Gandhi as its new CFO",
+        "link": "https://economictimes.indiatimes.com/tech/startups/cashfree-appoints-ex-visa-finance-head-sameer-gandhi-as-its-new-cfo/articleshow/130233534.cms",
+        "published": "Mon, 13 Apr 2026 15:46:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Bengaluru payments processor Cashfree has appointed Sameer Gandhi as its new Chief Financial Officer. Gandhi previously led finance at Visa India. He will now guide Cashfree's financial strategy and enhance commercial operations. This move supports the company's aim for accelerated growth and profitability in the coming quarters. Cashfree processes over $80 billion in transactions annually."
+    },
+    {
+        "id": "https://inc42.com/buzz/cashfree-payments-appoints-ex-visa-exec-sameer-gandhi-as-cfo/",
+        "title": "Cashfree Payments Appoints Ex-Visa Exec Sameer Gandhi As CFO",
+        "link": "https://inc42.com/buzz/cashfree-payments-appoints-ex-visa-exec-sameer-gandhi-as-cfo/",
+        "published": "Mon, 13 Apr 2026 09:52:28 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"RBI Fines Cashfree For Flouting Payment Aggregator Norms\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Cashfree-Native-Article-1.1-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Fintech startup Cashfree Payments has roped in ex-Visa finance head Sameer Gandhi as its new chief financial officer. In a&#8230;"
     }
 ]
