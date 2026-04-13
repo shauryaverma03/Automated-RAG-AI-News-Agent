@@ -188910,5 +188910,85 @@
         "published": "Mon, 13 Apr 2026 18:21:36 GMT",
         "source": "Latest news",
         "summary": "iDealOS is an MXLinux-based distribution that gives the normal Linux security a bit of a boost via DNS."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/",
+        "title": "IBM pays $17M fine to end DOJ suit over DEI programs",
+        "link": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/",
+        "published": "Mon, 13 Apr 2026 19:11:27 +0000",
+        "source": "TechCrunch",
+        "summary": "IBM entered\u00a0into a $17 million settlement agreement on Friday with the U.S. DOJ over allegations that it engaged in \u201cillegal DEI practices.\u201d"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+        "title": "Microsoft is working on yet another OpenClaw-like agent",
+        "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+        "published": "Mon, 13 Apr 2026 19:05:19 +0000",
+        "source": "TechCrunch",
+        "summary": "The company has also previously introduced agents that are able to complete tasks, Cowork and Copilot Tasks."
+    },
+    {
+        "id": "https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement",
+        "title": "NZXT to pay $3.45 million settlement over Flex PC rentals",
+        "link": "https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement",
+        "published": "2026-04-13T16:00:58-04:00",
+        "source": "The Verge",
+        "summary": "NZXT and its business partner Fragile have agreed to pay $3.45 million to settle a class-action lawsuit that accused the companies of attempting to \"scam\" consumers through their Flex PC rental service. The preliminary settlement was filed in a California District Court on April 7th to close a civil RICO case against the Flex program [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+        "title": "AI influencers are \u2018everywhere\u2019 at Coachella",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+        "published": "2026-04-13T15:53:46-04:00",
+        "source": "The Verge",
+        "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell/",
+        "title": "Sunrise on the Reaping teaser brings us a Second Quarter Quell",
+        "link": "https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell/",
+        "published": "Mon, 13 Apr 2026 18:15:59 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"You have no idea what's in store for you. Twice the number of tributes, twice the glory.\""
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/ibm-folds-to-trump-anti-dei-push-admits-no-misconduct-but-pays-17m-penalty/",
+        "title": "IBM folds to Trump anti-DEI push, admits no misconduct but pays $17M penalty",
+        "link": "https://arstechnica.com/tech-policy/2026/04/ibm-folds-to-trump-anti-dei-push-admits-no-misconduct-but-pays-17m-penalty/",
+        "published": "Mon, 13 Apr 2026 17:53:46 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "IBM is first firm to pay penalty under Trump's \"Civil Rights Fraud Initiative.\""
+    },
+    {
+        "id": "https://www.engadget.com/gaming/xbox/xbox-ceo-called-game-pass-too-expensive-for-players-in-a-leaked-memo-194749597.html?src=rss",
+        "title": "Xbox CEO called Game Pass 'too expensive for players' in a leaked memo",
+        "link": "https://www.engadget.com/gaming/xbox/xbox-ceo-called-game-pass-too-expensive-for-players-in-a-leaked-memo-194749597.html?src=rss",
+        "published": "Mon, 13 Apr 2026 19:47:49 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Xbox's new chief exec, Asha Sharma, has only been in charge for <a class=\"link\" href=\"https://www.engadget.com/gaming/xbox/xbox-head-phil-spencer-is-leaving-microsoft-212838419.html\" target=\"_blank\">a few months</a> but things already seem like they might be changing for the better. Or at the very least, they might be getting cheaper. <a class=\"link\" href=\"https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo\" target=\"_blank\"><em>The Verge</em></a> reported t"
+    },
+    {
+        "id": "https://www.ithihasas.in",
+        "title": "Show HN: Ithih\u0101sas \u2013 a character explorer for Hindu epics, built in a few hours",
+        "link": "https://www.ithihasas.in",
+        "published": "Mon, 13 Apr 2026 19:10:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47756569\">Comments</a>"
+    },
+    {
+        "id": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+        "title": "How to make Firefox builds 17% faster",
+        "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+        "published": "Mon, 13 Apr 2026 18:50:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47756321\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/flipkart-elevates-sharon-pais-to-the-role-of-myntra-head/",
+        "title": "Flipkart Elevates Sharon Pais To The Role Of Myntra Head",
+        "link": "https://inc42.com/buzz/flipkart-elevates-sharon-pais-to-the-role-of-myntra-head/",
+        "published": "Mon, 13 Apr 2026 19:41:06 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Flipkart Elevates Sharon Pais To The Role Of Myntra Head\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/myntra-ceo-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Ecommerce major Flipkart has elevated Sharon Pais to the role of the head of its fashion marketplace arm Myntra. She&#8230;"
     }
 ]
