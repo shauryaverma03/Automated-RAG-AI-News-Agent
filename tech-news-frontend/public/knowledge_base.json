@@ -189078,5 +189078,37 @@
         "published": "Mon, 13 Apr 2026 20:36:49 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47757495\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027",
+        "title": "The Mercedes EQS returns with massive range and charging gains",
+        "link": "https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027",
+        "published": "2026-04-13T18:01:00-04:00",
+        "source": "The Verge",
+        "summary": "A year ago, Mercedes-Benz did the prudent thing and paused its EQ lineup of electric vehicles in the US. With customer demand drying up for luxury EVs, and federal incentives getting axed by vengeful Republicans, Mercedes put its first-generation EVs on ice. But then, in January, Mercedes quietly reintroduced the EQS brand in the US, [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/",
+        "title": "Retro Rewind re-creates the glorious drudgery of working a '90s video store",
+        "link": "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/",
+        "published": "Mon, 13 Apr 2026 21:58:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "What the nostalgic throwback lacks in complexity it makes up for in repetitive charm."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate/",
+        "title": "Measles takes a plane to Idaho, which has worst vaccination rate in US",
+        "link": "https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate/",
+        "published": "Mon, 13 Apr 2026 21:32:48 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "In the 2024-2025 school year, only 78.5% of kindergartners had measles vaccination."
+    },
+    {
+        "id": "https://www.zdnet.com/article/linus-torvalds-and-maintainers-finalize-ai-policy-for-linux-kernel-developers/",
+        "title": "The new rules for AI-assisted code in the Linux kernel: What every dev needs to know",
+        "link": "https://www.zdnet.com/article/linus-torvalds-and-maintainers-finalize-ai-policy-for-linux-kernel-developers/",
+        "published": "Mon, 13 Apr 2026 22:27:24 GMT",
+        "source": "Latest news",
+        "summary": "Linus Torvalds and maintainers just finalized the Linux kernel's new AI policy - but it might not address the biggest challenge with AI-generated code. Here's why."
     }
 ]
