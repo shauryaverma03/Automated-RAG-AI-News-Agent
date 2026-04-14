@@ -190606,5 +190606,21 @@
         "published": "Tue, 14 Apr 2026 20:07:20 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47770770\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
+        "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
+        "link": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
+        "published": "Tue, 14 Apr 2026 22:00:31 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Some 2023 and 2024 models are also affected."
+    },
+    {
+        "id": "https://www.engadget.com/apps/googles-new-windows-app-is-yet-another-way-to-access-gemini-214000564.html?src=rss",
+        "title": "Google's new Windows app is yet another way to access Gemini",
+        "link": "https://www.engadget.com/apps/googles-new-windows-app-is-yet-another-way-to-access-gemini-214000564.html?src=rss",
+        "published": "Tue, 14 Apr 2026 21:40:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Google has <a class=\"link\" href=\"https://search.google/google-app/desktop/\" target=\"_blank\">introduced</a> a new app for Windows desktops and, unsurprisingly, it puts AI front at center. If you aren't a big fan of Google's Gemini chatbot, then skip on past this download. For those of you who are heavy Gemini users, though, this could mean a simpler and more integrated experience on Windows machines.&nbsp;</p><p>Once installed, you can pull up the app's search bar with the Alt + Space shortcut"
     }
 ]
