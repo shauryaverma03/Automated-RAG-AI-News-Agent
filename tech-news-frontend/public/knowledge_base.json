@@ -189118,5 +189118,101 @@
         "published": "Mon, 13 Apr 2026 21:02:21 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47757775\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+        "title": "An Amazon warehouse worker died on the job at Oregon facility",
+        "link": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+        "published": "Tue, 14 Apr 2026 00:26:18 +0000",
+        "source": "TechCrunch",
+        "summary": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+        "title": "OpenAI has bought AI personal finance startup Hiro",
+        "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+        "published": "Tue, 14 Apr 2026 00:23:33 +0000",
+        "source": "TechCrunch",
+        "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+        "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI\u2019s HQ",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+        "published": "2026-04-13T20:02:38-04:00",
+        "source": "The Verge",
+        "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+        "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+        "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+        "published": "Mon, 13 Apr 2026 23:37:38 +0000",
+        "source": "WIRED",
+        "summary": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open."
+    },
+    {
+        "id": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+        "title": "Lean proved this program correct; then I found a bug",
+        "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+        "published": "Tue, 14 Apr 2026 00:25:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47759709\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/fabienmillet/WiiFin",
+        "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
+        "link": "https://github.com/fabienmillet/WiiFin",
+        "published": "Mon, 13 Apr 2026 23:33:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47759341\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
+        "title": "I followed the 'Plus 5' rule for wireless charging, and it fixed my iPhone's charge speeds",
+        "link": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
+        "published": "Tue, 14 Apr 2026 01:00:41 GMT",
+        "source": "Latest news",
+        "summary": "Wireless charging is a helpful feature, but you may be getting the top speed with your accessories. Here's what to check for."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises/articleshow/130241365.cms",
+        "title": "Anthropic\u2019s Mythos AI raises cybersecurity alarms for Indian enterprises",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises/articleshow/130241365.cms",
+        "published": "Tue, 14 Apr 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian enterprises could be facing a structural cybersecurity risk after the release of the advanced AI model Mythos by Anthropic. As Mythos begins finding software vulnerabilities in hours, far faster than companies can fix them, experts said this could leave systems exposed, especially in sectors like banking and telecom that rely on older systems."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises/articleshow/130241342.cms",
+        "title": "India Inc stares at a reckoning as Mythos rewires cybersecurity",
+        "link": "https://economictimes.indiatimes.com/tech/technology/anthropics-mythos-ai-raises-cybersecurity-alarms-for-indian-enterprises/articleshow/130241342.cms",
+        "published": "Tue, 14 Apr 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian enterprises could be facing a structural cybersecurity risk after the release of the advanced AI model Mythos by Anthropic. As Mythos begins finding software vulnerabilities in hours, far faster than companies can fix them, experts said this could leave systems exposed, especially in sectors like banking and telecom that rely on older systems."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/rockwell-expands-its-india-workforce-to-4000/articleshow/130244373.cms",
+        "title": "Rockwell expands its India workforce to 4,000",
+        "link": "https://economictimes.indiatimes.com/tech/technology/rockwell-expands-its-india-workforce-to-4000/articleshow/130244373.cms",
+        "published": "Tue, 14 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "About a decade ago, the industrial automation and digital transformation company had around 700 employees in India."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-i-use-ai-to-run-a-firm-without-drowning-in-details/articleshow/130244362.cms",
+        "title": "How I use AI to run a firm without drowning in details",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-i-use-ai-to-run-a-firm-without-drowning-in-details/articleshow/130244362.cms",
+        "published": "Tue, 14 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Founders often struggle with scattered work, not just workload. AI acts as a virtual operator, transforming scattered inputs into actionable insights. By providing structured summaries and clear next steps, AI reduces friction, offering founders greater control and more time for compounding work."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tcs-pledges-strict-action-on-nashik-harassment-case-coo-subramanian-leads-investigation/articleshow/130244248.cms",
+        "title": "TCS pledges strict action on Nashik harassment case; COO Subramanian leads investigation",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tcs-pledges-strict-action-on-nashik-harassment-case-coo-subramanian-leads-investigation/articleshow/130244248.cms",
+        "published": "Tue, 14 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tata Consultancy Services COO Aarthi Subramanian will head an investigation into a sexual harassment case at its Nashik unit. Eight employees alleged mental and sexual harassment by senior colleagues and inaction by HR. Police have arrested seven individuals, including an HR manager. This incident raises questions about IT companies managing operations in smaller cities."
     }
 ]
