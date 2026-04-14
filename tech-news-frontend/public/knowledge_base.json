@@ -190078,5 +190078,173 @@
         "published": "Tue, 14 Apr 2026 20:08:35 +0530",
         "source": "Tech-Economic Times",
         "summary": "Amazon Web Services has launched Amazon Bio Discovery, an AI tool to accelerate drug discovery.  Scientists can now generate and evaluate potential drug molecules without coding.  This innovation drastically reduces the time to create drug candidates from months to weeks.  Early adopters include Bayer and the Broad Institute.  AWS aims to augment, not replace, researchers with this powerful new platform."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+        "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+        "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+        "published": "Tue, 14 Apr 2026 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Google is adding \u201cSkills\u201d to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini\u2019s browser integration."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/",
+        "title": "How the rewards app Freecash scammed its way to the top of the app stores",
+        "link": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/",
+        "published": "Tue, 14 Apr 2026 16:43:09 +0000",
+        "source": "TechCrunch",
+        "summary": "Freecash was removed from Apple's App Store after TechCrunch reached out for comment."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
+        "title": "Financial risk management platform Pillar raises $20M seed in round led by a16z",
+        "link": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
+        "published": "Tue, 14 Apr 2026 16:05:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Pillar hopes to offer sophisticated, institutional-grade tools to small and medium-sized enterprises. \"Our goal is to make hedging as accessible and ubiquitous as payments or accounting software,\" he said."
+    },
+    {
+        "id": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+        "title": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
+        "link": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+        "published": "2026-04-14T13:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop browser, letting you instantly run them across any tabs you select. \"Until now, repeating an AI task - like asking for ingredient [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax",
+        "title": "The world\u2019s oldest art, now in 6K IMAX",
+        "link": "https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax",
+        "published": "2026-04-14T12:15:00-04:00",
+        "source": "The Verge",
+        "summary": "The earliest paintings were made over 32,000 years ago - the very first forms of art and culture. They weren't discovered until 1994, when cave explorers in France stumbled into the Chauvet Cave. More than a decade later, filmmaker Werner Herzog was allowed rare access to the highly guarded prehistoric site to shoot what would [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/907924/sony-inzone-m10s-ii-oled-tandem-gaming-monitor-specs-price-features",
+        "title": "Sony\u2019s new 1440p OLED gaming monitor seems a lot better than its first",
+        "link": "https://www.theverge.com/news/907924/sony-inzone-m10s-ii-oled-tandem-gaming-monitor-specs-price-features",
+        "published": "2026-04-14T12:00:00-04:00",
+        "source": "The Verge",
+        "summary": "The original InZone M10S OLED gaming monitor stood out for a mix of reasons when I reviewed it for Polygon back in late 2024 - some good (impressively small stand, high 480Hz refresh rate) and some bad (high price, low on features versus the competition). The company is launching its follow-up model, the InZone M10S [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/908132/sony-inzone-h6-air-open-back-gaming-headset-hands-on",
+        "title": "Sony\u2019s latest gaming headset offers great open-back audio",
+        "link": "https://www.theverge.com/tech/908132/sony-inzone-h6-air-open-back-gaming-headset-hands-on",
+        "published": "2026-04-14T12:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Sony's PC-focused InZone brand is covering a lot of ground, now adding open-back headsets to its growing catalog of gaming accessories. The $199.99 H6 Air borrows the comfortable, easy-to-adjust design of the flagship $350 H9 II wireless headset, makes it wired, and pokes a bunch of holes in the ear cups, resulting in an open-back [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
+        "title": "How to Use Google Chrome\u2019s New AI-Powered \u2018Skills\u2019",
+        "link": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
+        "published": "Tue, 14 Apr 2026 17:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The premade Skills available through the Gemini sidebar in Chrome include ways to maximize protein in recipes or summarize YouTube videos."
+    },
+    {
+        "id": "https://www.wired.com/story/gopro-mission-1-cameras/",
+        "title": "GoPro\u2019s New Mission 1 Cameras Have 8K Video and Interchangeable Lenses",
+        "link": "https://www.wired.com/story/gopro-mission-1-cameras/",
+        "published": "Tue, 14 Apr 2026 16:17:24 +0000",
+        "source": "WIRED",
+        "summary": "GoPro announced a new cinema-focused series of action cameras with 8K video, better low-light performance, and the ability to use Micro Four Thirds lenses."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/",
+        "title": "Rockets and spaceships are cool, but the humanity of Artemis II resonated most",
+        "link": "https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/",
+        "published": "Tue, 14 Apr 2026 16:10:17 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"It\u2019s a special thing to be human, and it\u2019s a special thing to be on planet Earth.\""
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
+        "title": "Google will begin punishing sites for back button hijacking in June",
+        "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
+        "published": "Tue, 14 Apr 2026 15:48:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Google says it could penalize back button hijacking by demoting websites in search ranking."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/04/circle-k-partners-with-ionna-to-upgrade-its-ev-charging-experience/",
+        "title": "IONNA Rechargeries are coming to more than 350 Circle K stations",
+        "link": "https://arstechnica.com/cars/2026/04/circle-k-partners-with-ionna-to-upgrade-its-ev-charging-experience/",
+        "published": "Tue, 14 Apr 2026 15:37:00 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The OEM-backed charging network offers 400 kW NACS and CCS DC fast chargers."
+    },
+    {
+        "id": "https://www.engadget.com/ai/chrome-skills-let-you-save-your-favorite-gemini-prompts-for-easy-access-170000683.html?src=rss",
+        "title": "Chrome Skills let you save your favorite Gemini prompts for easy access",
+        "link": "https://www.engadget.com/ai/chrome-skills-let-you-save-your-favorite-gemini-prompts-for-easy-access-170000683.html?src=rss",
+        "published": "Tue, 14 Apr 2026 17:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link\" href=\"https://www.engadget.com/ai/google-brings-its-nano-banana-image-generator-to-chrome-180000104.html\" target=\"_blank\">Gemini in Chrome</a> is about to get a small but handy upgrade. Starting today, Google is rolling out a feature it calls Skills to Chrome on desktop. Skills allow you to save your favorite Gemini in Chrome prompts for quick access, thereby making it easier and faster to repeat certain tasks. For instance, Google suggests you could use one saved prompt to ge"
+    },
+    {
+        "id": "https://www.engadget.com/gaming/pc/sony-inzones-latest-monitor-boasts-a-blazing-720hz-panel-for-competitive-gamers-165008263.html?src=rss",
+        "title": "Sony Inzone's latest monitor boasts a blazing 720Hz panel for competitive gamers",
+        "link": "https://www.engadget.com/gaming/pc/sony-inzones-latest-monitor-boasts-a-blazing-720hz-panel-for-competitive-gamers-165008263.html?src=rss",
+        "published": "Tue, 14 Apr 2026 16:50:08 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p></p><p>Super fast gaming displays have grown in popularity recently following the release of <a class=\"link\" href=\"https://www.engadget.com/computing/accessories/the-gaming-monitors-that-caught-our-eye-at-ces-2026-130000433.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAF28k3xfmfRkWfn8bQMnUSxfDPZY9wL8OsZ7JT-dWUzdrdgmAvzix3Bz3u6VkPZFCE0LP3gq1x8bv-Ois4rQxn9jJdajrBk-pRU-tJh5ICn4rDEGc7J7lXg9sC3_g3vcz420K9rZFclmfNd5kKGq6qWMWRPoJzUOUar40FYE7jxk\" targe"
+    },
+    {
+        "id": "https://kb.databasedesignbook.com/posts/5nf/",
+        "title": "5NF and Database Design",
+        "link": "https://kb.databasedesignbook.com/posts/5nf/",
+        "published": "Tue, 14 Apr 2026 16:22:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47767676\">Comments</a>"
+    },
+    {
+        "id": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
+        "title": "Let's Talk Space Toilets",
+        "link": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
+        "published": "Mon, 13 Apr 2026 22:41:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47758870\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/google-chrome-save-reuse-ai-prompts-skills/",
+        "title": "Chrome's new 'Skills' update lets you save AI prompts now - for one-click reuse",
+        "link": "https://www.zdnet.com/article/google-chrome-save-reuse-ai-prompts-skills/",
+        "published": "Tue, 14 Apr 2026 17:00:03 GMT",
+        "source": "Latest news",
+        "summary": "Google is launching the feature with a library of Skills for common tasks and everyday topics. Here's how it all works."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-share-audio-from-android-phone-to-multiple-earbuds/",
+        "title": "How to share audio from your Android phone to multiple earbuds (and why it's genius)",
+        "link": "https://www.zdnet.com/article/how-to-share-audio-from-android-phone-to-multiple-earbuds/",
+        "published": "Tue, 14 Apr 2026 16:32:00 GMT",
+        "source": "Latest news",
+        "summary": "Android's Audio sharing lets two people listen on separate earbuds, if your devices support it."
+    },
+    {
+        "id": "https://www.zdnet.com/article/google-messages-finally-has-a-trash-feature-and-its-about-time/",
+        "title": "How to use Google Messages' new Trash feature to recover texts you accidentally deleted",
+        "link": "https://www.zdnet.com/article/google-messages-finally-has-a-trash-feature-and-its-about-time/",
+        "published": "Tue, 14 Apr 2026 16:00:00 GMT",
+        "source": "Latest news",
+        "summary": "Here's why I treasure Google Messages' new Trash - and how it works."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/acquisition-count-rises-inside-openais-major-deals-in-2026/articleshow/130264484.cms",
+        "title": "Acquisition count rises: Inside OpenAI's major deals in 2026",
+        "link": "https://economictimes.indiatimes.com/tech/technology/acquisition-count-rises-inside-openais-major-deals-in-2026/articleshow/130264484.cms",
+        "published": "Tue, 14 Apr 2026 22:25:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The AI major\u2019s half a dozen deals in the first quarter underscore its push to strengthen its position across enterprise software, developer tools, and consumer AI applications."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-brings-personal-intelligence-to-gemini-users-in-india-four-months-after-beta-launch-in-us/articleshow/130263967.cms",
+        "title": "Google brings Personal Intelligence to Gemini users in India, four months after beta launch in US",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-brings-personal-intelligence-to-gemini-users-in-india-four-months-after-beta-launch-in-us/articleshow/130263967.cms",
+        "published": "Tue, 14 Apr 2026 21:58:01 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "With Personal Intelligence, Google aims to make its AI assistant Gemini more personalised by using data across apps like Gmail, Photos, YouTube and Search, enabling more context-aware responses and a seamless, integrated experience."
     }
 ]
