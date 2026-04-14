@@ -190558,5 +190558,53 @@
         "published": "Tue, 14 Apr 2026 13:51:08 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The expanded scope of Rs 10,000 crore Fund of Funds will see focus on areas such as deeptech and manufacturing startups."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+        "title": "AI datacenter startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+        "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+        "published": "Tue, 14 Apr 2026 21:33:38 +0000",
+        "source": "TechCrunch",
+        "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic."
+    },
+    {
+        "id": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
+        "title": "The FCC just saved Netgear from its router ban for no obvious reason",
+        "link": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
+        "published": "2026-04-14T16:57:07-04:00",
+        "source": "The Verge",
+        "summary": "The United States' foreign router ban didn't make a whole lot of sense, and today may not change that. The FCC has just granted Netgear a conditional approval to import its future consumer routers, cable modems, and cable gateways into the US through October 1st, 2027 - even though the company builds those devices in [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/naacp-sues-xai-over-data-center-pollution-213511352.html?src=rss",
+        "title": "NAACP sues xAI over data center pollution",
+        "link": "https://www.engadget.com/ai/naacp-sues-xai-over-data-center-pollution-213511352.html?src=rss",
+        "published": "Tue, 14 Apr 2026 21:35:11 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The NAACP <a class=\"link\" href=\"https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center/\" target=\"_blank\">is suing</a> xAI and a subsidiary called MZX Tech for allegedly operating unpermitted methane gas turbines to power its Colossus 2 data center in South Memphis. The association is asking the federal district court of the Northern District of Mississippi to declare that the company has violated the Clean Air Act, force it to stop using its unpermitted turbines a"
+    },
+    {
+        "id": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+        "title": "The Dangers of California's Legislation to Censor 3D Printing",
+        "link": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+        "published": "Mon, 13 Apr 2026 23:44:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47759420\">Comments</a>"
+    },
+    {
+        "id": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+        "title": "The Orange Pi 6 Plus",
+        "link": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+        "published": "Sat, 11 Apr 2026 17:48:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47732535\">Comments</a>"
+    },
+    {
+        "id": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
+        "title": "Trusted access for the next era of cyber defense",
+        "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
+        "published": "Tue, 14 Apr 2026 20:07:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47770770\">Comments</a>"
     }
 ]
