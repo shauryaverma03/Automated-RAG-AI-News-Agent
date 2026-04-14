@@ -189214,5 +189214,93 @@
         "published": "Tue, 14 Apr 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Tata Consultancy Services COO Aarthi Subramanian will head an investigation into a sexual harassment case at its Nashik unit. Eight employees alleged mental and sexual harassment by senior colleagues and inaction by HR. Police have arrested seven individuals, including an HR manager. This incident raises questions about IT companies managing operations in smaller cities."
+    },
+    {
+        "id": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+        "title": "DaVinci Resolve releases Photo Editor",
+        "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+        "published": "Tue, 14 Apr 2026 02:25:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47760529\">Comments</a>"
+    },
+    {
+        "id": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+        "title": "A new spam policy for \"back button hijacking\"",
+        "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+        "published": "Tue, 14 Apr 2026 03:06:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47760764\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/",
+        "title": "I tested ChatGPT Plus vs. Gemini Pro to see which is better - and if it's worth switching",
+        "link": "https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/",
+        "published": "Tue, 14 Apr 2026 02:00:00 GMT",
+        "source": "Latest news",
+        "summary": "Considering ditching ChatGPT Plus for Gemini Pro? I tested both on the same 10 tasks. Here's which came out on top."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/bloom-energy-to-supply-up-to-2-8-gw-of-fuel-cells-under-expanded-oracle-deal/articleshow/130249950.cms",
+        "title": "Bloom Energy to supply up to 2.8 GW of fuel cells under expanded Oracle deal",
+        "link": "https://economictimes.indiatimes.com/tech/technology/bloom-energy-to-supply-up-to-2-8-gw-of-fuel-cells-under-expanded-oracle-deal/articleshow/130249950.cms",
+        "published": "Tue, 14 Apr 2026 08:27:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "An \u2060initial \u20601.2 GW of capacity has been contracted under \u200bthe agreement, with deployment already underway and set \u200bto continue into the next year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-for-banks/articleshow/130249883.cms",
+        "title": "AI-boosted hacks with Anthropic's Mythos could have dire consequences for banks",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-for-banks/articleshow/130249883.cms",
+        "published": "Tue, 14 Apr 2026 08:25:16 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The model, announced April 7, is the company's \"most capable yet for coding and agentic tasks,\" the company said in a blog post, referring to the model's ability to act autonomously. Its capabilities to code at a high level have given it a potentially unprecedented ability to identify cybersecurity vulnerabilities and devise ways to exploit them, \u200cexperts said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-poised-to-surpass-google-in-digital-ad-revenue-for-first-time-report-says/articleshow/130249865.cms",
+        "title": "Meta poised to surpass Google in digital ad revenue for first time, report says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-poised-to-surpass-google-in-digital-ad-revenue-for-first-time-report-says/articleshow/130249865.cms",
+        "published": "Tue, 14 Apr 2026 08:17:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Instagram-owner's global net ad revenues are expected to reach $243.46 billion in 2026, ahead of Google's projected $239.54 \u200cbillion, the \u2060market \u2060research firm said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-talking-to-the-trump-administration-about-its-next-ai-model-co-founder-says/articleshow/130249447.cms",
+        "title": "Anthropic talking to the Trump administration about its next AI model, cofounder says",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-talking-to-the-trump-administration-about-its-next-ai-model-co-founder-says/articleshow/130249447.cms",
+        "published": "Tue, 14 Apr 2026 07:19:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI firm Anthropic is engaging with the Trump administration about its advanced AI model, Mythos. This comes even after the Pentagon halted business with Anthropic due to a contract dispute over AI tool usage. Anthropic emphasizes its commitment to national security. The company is sharing details about Mythos, an AI capable of autonomous actions and high-level coding."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/man-accused-in-molotov-cocktail-attack-of-openai-ceos-home-opposed-ai-court-documents-say/articleshow/130249395.cms",
+        "title": "Man accused in Molotov cocktail attack of OpenAI CEO's home opposed AI, court documents say",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/man-accused-in-molotov-cocktail-attack-of-openai-ceos-home-opposed-ai-court-documents-say/articleshow/130249395.cms",
+        "published": "Tue, 14 Apr 2026 07:12:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Authorities allege Daniel Moreno-Gama threw the incendiary device about 4 a.m. Friday, setting an exterior gate at Altman's home alight before fleeing on foot, police said. Less than an hour later, Moreno-Gama allegedly went to OpenAI's headquarters and reportedly threatened to burn down the building."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/khetibuddy-farm-management-saas-agribusiness-india",
+        "title": "KhetiBuddy is turning fragmented farm data into business intelligence",
+        "link": "https://yourstory.com/2026/04/khetibuddy-farm-management-saas-agribusiness-india",
+        "published": "Tue, 14 Apr 2026 01:45:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Pune-based SaaS startup KhetiBuddy helps agribusinesses track crops, supply chains, and sustainability from a single platform."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/ai-will-automate-work-indias-next-startup-wave-will-sell-experiences",
+        "title": "AI will automate work. India\u2019s next startup wave will sell experiences",
+        "link": "https://yourstory.com/2026/04/ai-will-automate-work-indias-next-startup-wave-will-sell-experiences",
+        "published": "Tue, 14 Apr 2026 01:40:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Last year, I watched a traveller spend forty minutes talking to a street food vendor in Mumbai. Not because the food was extraordinary, but because the man behind the cart had a story she had never heard before. No app recommended that conversation. No algorithm made it happen. It just did, because"
+    },
+    {
+        "id": "https://inc42.com/buzz/another-reshuffle-at-bharatpe-justdials-q4-show-more/",
+        "title": "Another Reshuffle At BharatPe, Justdial\u2019s Q4 Show & More",
+        "link": "https://inc42.com/buzz/another-reshuffle-at-bharatpe-justdials-q4-show-more/",
+        "published": "Tue, 14 Apr 2026 02:30:31 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Another Reshuffle At BharatPe, Justdial\u2019s Q4 Show &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/FTR-Daily-Brief-2026-04-14T012103.812.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />BharatPe Cofounder Steps Down BharatPe\u2019s cofounder and COO, Shashvat Nakrani, has stepped down from its executive role to \u201cexplore\u201d new&#8230;"
     }
 ]
