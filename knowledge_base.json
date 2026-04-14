@@ -190622,5 +190622,53 @@
         "published": "Tue, 14 Apr 2026 21:40:00 +0000",
         "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
         "summary": "<p>Google has <a class=\"link\" href=\"https://search.google/google-app/desktop/\" target=\"_blank\">introduced</a> a new app for Windows desktops and, unsurprisingly, it puts AI front at center. If you aren't a big fan of Google's Gemini chatbot, then skip on past this download. For those of you who are heavy Gemini users, though, this could mean a simpler and more integrated experience on Windows machines.&nbsp;</p><p>Once installed, you can pull up the app's search bar with the Alt + Space shortcut"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
+        "title": "Godzilla Minus Zero stomps through New York in first teaser trailer",
+        "link": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
+        "published": "2026-04-14T19:05:09-04:00",
+        "source": "The Verge",
+        "summary": "*insert Godzilla screeching sound* Here's the very first look at the next big kaiju feature. Godzilla Minus Zero will continue the story of 2023's Godzilla Minus One, which returned the franchise to the more grounded tone established in the original film, and while the new teaser trailer doesn't show a whole lot, it suggests some [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
+        "title": "Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays",
+        "link": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
+        "published": "2026-04-14T18:56:52-04:00",
+        "source": "The Verge",
+        "summary": "Microsoft is reportedly ending production of its Surface Hub 3 collaborative office display and canceling plans for a Surface Hub 4, according to Windows Central. The extra-large digital whiteboard that included its own built-in PC was originally announced in 2015 ahead of the launch of Windows 10 and came in two sizes, 50 inches and [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/hp-omnibook-5-deal-0426-1/",
+        "title": "The Surprising MacBook Neo Competitor You've Never Heard Of",
+        "link": "https://www.wired.com/story/hp-omnibook-5-deal-0426-1/",
+        "published": "Tue, 14 Apr 2026 23:04:16 +0000",
+        "source": "WIRED",
+        "summary": "In many ways, the HP OmniBook 5 is a better budget laptop than the MacBook Neo, especially when the discounts are strong."
+    },
+    {
+        "id": "https://www.engadget.com/home/home-theater/sony-is-nerfing-its-bravia-tvs-program-guide-225640797.html?src=rss",
+        "title": "Sony is nerfing its Bravia TVs' program guide",
+        "link": "https://www.engadget.com/home/home-theater/sony-is-nerfing-its-bravia-tvs-program-guide-225640797.html?src=rss",
+        "published": "Tue, 14 Apr 2026 22:56:40 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Sony is removing some features from its TV guide and program guide displays for channels received by an over the air TV antenna on select models of Bravia televisions from 2023-2025. <a class=\"link\" href=\"https://cordcuttersnews.com/sony-is-removing-many-popular-features-from-its-free-ota-tv-options-impacting-abc-cbs-fox-nbc/\" target=\"_blank\"><em>Cord Cutters News</em></a> reported on the changes, which will take effect in late May.</p><p>Channel logos and thumbnail images in program descript"
+    },
+    {
+        "id": "https://www.engadget.com/cybersecurity/fcc-just-handed-netgear-a-de-facto-router-monopoly-in-the-us-223712324.html?src=rss",
+        "title": "FCC just handed Netgear a de facto router monopoly in the US",
+        "link": "https://www.engadget.com/cybersecurity/fcc-just-handed-netgear-a-de-facto-router-monopoly-in-the-us-223712324.html?src=rss",
+        "published": "Tue, 14 Apr 2026 22:37:12 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The Federal Communications Commission <a class=\"link\" href=\"https://docs.fcc.gov/public/attachments/DA-26-351A1.pdf\" target=\"_blank\">has announced</a> that Netgear has been given conditional approval that effectively exempts it from <a class=\"link\" href=\"https://www.engadget.com/big-tech/the-us-bans-all-new-foreign-made-network-routers-223622966.html\" target=\"_blank\">a previous ban on foreign-made networking routers</a>. The conditional approval gives the company a de facto \u2014 though potential"
+    },
+    {
+        "id": "https://ascii.textfiles.com/archives/1717",
+        "title": "Fuck the cloud (2009)",
+        "link": "https://ascii.textfiles.com/archives/1717",
+        "published": "Tue, 14 Apr 2026 22:00:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47772048\">Comments</a>"
     }
 ]
