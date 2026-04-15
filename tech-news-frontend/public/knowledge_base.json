@@ -192270,5 +192270,93 @@
         "published": "Sun, 12 Apr 2026 10:27:08 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47738081\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+        "title": "Wait, could they still actually break up Live Nation?",
+        "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+        "published": "Wed, 15 Apr 2026 21:38:09 +0000",
+        "source": "TechCrunch",
+        "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/",
+        "title": "Monarch Tractor\u2019s collapse ends with an acquisition by Caterpillar",
+        "link": "https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/",
+        "published": "Wed, 15 Apr 2026 21:05:21 +0000",
+        "source": "TechCrunch",
+        "summary": "The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
+        "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
+        "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
+        "published": "Wed, 15 Apr 2026 20:36:28 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"The vault is solid. The delivery truck is not.\""
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+        "title": "Google releases new apps for Windows and MacOS",
+        "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+        "published": "Wed, 15 Apr 2026 19:46:43 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Google mostly creates products for the web, but it has some new desktop apps today."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+        "title": "Boston Dynamics\u2019 robot dog now reads gauges and thermometers with Google's AI",
+        "link": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+        "published": "Wed, 15 Apr 2026 19:34:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
+        "title": "Prime Video shows \u201ctechnical difficulties\u201d sign instead of NBA game in overtime",
+        "link": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
+        "published": "Wed, 15 Apr 2026 19:16:43 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Am I trippin??\" asks LeBron James."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/04/new-teaser-gives-us-first-look-at-godzilla-minus-zero/",
+        "title": "New teaser gives us first look at Godzilla Minus Zero",
+        "link": "https://arstechnica.com/culture/2026/04/new-teaser-gives-us-first-look-at-godzilla-minus-zero/",
+        "published": "Wed, 15 Apr 2026 18:50:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Director Takashi Yamazaki told Cinemacon attendees that sequel is first Japanese film shot for IMAX."
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/music/federal-jury-finds-concert-business-live-nation-is-a-monopoly-203924011.html?src=rss",
+        "title": "Federal jury finds concert business Live Nation is a monopoly",
+        "link": "https://www.engadget.com/entertainment/music/federal-jury-finds-concert-business-live-nation-is-a-monopoly-203924011.html?src=rss",
+        "published": "Wed, 15 Apr 2026 20:39:24 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Live Nation, which operates the Ticketmaster platform, has been determined to be a <a class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=c813ae39-7d58-41cb-ac66-ad830606ceef&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=33909111-8207-4b5a-b3ac-6a299e2e7ad7&amp;featureId=text-link&amp;merchantName=The+New+York+Times&amp;linkText=monopoly&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8"
+    },
+    {
+        "id": "https://github.com/gastownhall/gastown/issues/3649",
+        "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+        "link": "https://github.com/gastownhall/gastown/issues/3649",
+        "published": "Wed, 15 Apr 2026 20:49:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47785053\">Comments</a>"
+    },
+    {
+        "id": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+        "title": "Cybersecurity looks like proof of work now",
+        "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+        "published": "Tue, 14 Apr 2026 18:08:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47769089\">Comments</a>"
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=47783940",
+        "title": "Ask HN: Who is using OpenClaw?",
+        "link": "https://news.ycombinator.com/item?id=47783940",
+        "published": "Wed, 15 Apr 2026 19:22:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47783940\">Comments</a>"
     }
 ]
