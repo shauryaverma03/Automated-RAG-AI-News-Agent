@@ -192430,5 +192430,77 @@
         "published": "Wed, 15 Apr 2026 00:30:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "GobbleCube will use this funding for product development, hiring, and market expansion activities."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/",
+        "title": "Florida surgeon charged with killing man after removing liver instead of spleen",
+        "link": "https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/",
+        "published": "Wed, 15 Apr 2026 22:25:30 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "It wasn't the first time the surgeon cut out the wrong organ."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/jury-finds-live-nation-ticketmaster-is-illegal-monopoly-that-overcharged-fans/",
+        "title": "Jury finds Live Nation/Ticketmaster is illegal monopoly that overcharged fans",
+        "link": "https://arstechnica.com/tech-policy/2026/04/jury-finds-live-nation-ticketmaster-is-illegal-monopoly-that-overcharged-fans/",
+        "published": "Wed, 15 Apr 2026 22:06:23 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Trump administration dropped out of the trial, but 33 states kept fighting."
+    },
+    {
+        "id": "https://www.bbc.com/news/technology-39576394",
+        "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
+        "link": "https://www.bbc.com/news/technology-39576394",
+        "published": "Wed, 15 Apr 2026 22:05:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47785948\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/macbook-neo-versus-microsoft-surface/",
+        "title": "The same Microsoft Surface I bought 4 months ago is 69% more expensive now - here's why",
+        "link": "https://www.zdnet.com/article/macbook-neo-versus-microsoft-surface/",
+        "published": "Thu, 16 Apr 2026 00:20:26 GMT",
+        "source": "Latest news",
+        "summary": "High memory and storage prices are crushing the PC business, and Microsoft's Surface is suffering most of all. So why is the MacBook Neo immune?"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/wipro-bags-alpha-net-client-contracts-in-71-million-deal/articleshow/130291518.cms",
+        "title": "Wipro bags Alpha Net client contracts in $71-million deal",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/wipro-bags-alpha-net-client-contracts-in-71-million-deal/articleshow/130291518.cms",
+        "published": "Thu, 16 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The acquisition will give Wipro access to a set of key clients, customer contracts and related employees from Alpha Net Group. The deal also includes deferred earnout-linked payments tied to performance conditions and is expected to close by June 30, 2026."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/olas-ai-smart-assistant-kruti-goes-dark-across-app-platforms/articleshow/130291452.cms",
+        "title": "Ola's AI smart assistant 'Kruti' goes dark across app platforms",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/olas-ai-smart-assistant-kruti-goes-dark-across-app-platforms/articleshow/130291452.cms",
+        "published": "Thu, 16 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "While 'Kruti' was not accessible via its direct website, kruti.ai, which showed a \"site not found\" error, users accessing it through Olakrutrim.com/kruti saw a message stating the site was under maintenance and would be back shortly."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/industrial-ai-startup-intellithink-raises-rs-17-crore-in-round-led-by-pentathlon-ventures/articleshow/130291125.cms",
+        "title": "Industrial AI startup Intellithink raises Rs 17 crore in round led by Pentathlon Ventures",
+        "link": "https://economictimes.indiatimes.com/tech/funding/industrial-ai-startup-intellithink-raises-rs-17-crore-in-round-led-by-pentathlon-ventures/articleshow/130291125.cms",
+        "published": "Thu, 16 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anicut Capital and Veltis Capital participated in the round. The Bengaluru-based industrial AI startup serves over 50 enterprises, including Jindal Steel, Jindal Stainless, JSW Steel, ArcelorMittal Nippon Steel, Adani, Ultratech, Dalmia, Ducab, and L&amp;T, and is expanding in international markets. The fresh funds will primarily be used to expand its footprint across India and the GCC."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/fintechs-leverage-ai-to-boost-creditworthiness-and-reduce-rejections/articleshow/130291060.cms",
+        "title": "Fintechs leverage AI to boost creditworthiness and reduce rejections",
+        "link": "https://economictimes.indiatimes.com/tech/technology/fintechs-leverage-ai-to-boost-creditworthiness-and-reduce-rejections/articleshow/130291060.cms",
+        "published": "Thu, 16 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Fintech startups are leveraging AI to help borrowers improve their creditworthiness and reduce loan application rejections. Companies like BankSathi, GoodScore, and Credgenics are offering AI-led advisory services, addressing a significant demand, especially from smaller cities. While AI automates much of the process, manual intervention remains crucial for resolving defaults with lenders."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/ai-firms-scout-for-startup-buyouts-to-boost-full-stack-tech-capabilities/articleshow/130290889.cms",
+        "title": "AI firms scout for startup buyouts to boost full-stack tech capabilities",
+        "link": "https://economictimes.indiatimes.com/tech/startups/ai-firms-scout-for-startup-buyouts-to-boost-full-stack-tech-capabilities/articleshow/130290889.cms",
+        "published": "Thu, 16 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI firms are actively acquiring startups to build full-stack capabilities as enterprises move towards large-scale AI deployment. This consolidation is driven by the need for complementary product capabilities and intellectual property in a rapidly evolving market."
     }
 ]
