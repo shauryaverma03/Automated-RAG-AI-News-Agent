@@ -194230,5 +194230,29 @@
         "published": "Thu, 16 Apr 2026 18:39:59 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47797665\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+        "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+        "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+        "published": "Thu, 16 Apr 2026 22:55:30 +0000",
+        "source": "TechCrunch",
+        "summary": "The three-year-old startup raised $150 million led by Khosla Ventures."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
+        "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
+        "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
+        "published": "Thu, 16 Apr 2026 21:33:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "For the first time in a while, the benefits of new Intel tech will trickle down."
+    },
+    {
+        "id": "https://clojure.org/about/documentary",
+        "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+        "link": "https://clojure.org/about/documentary",
+        "published": "Thu, 16 Apr 2026 19:32:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47798345\">Comments</a>"
     }
 ]
