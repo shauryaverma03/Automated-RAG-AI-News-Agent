@@ -192502,5 +192502,77 @@
         "published": "Thu, 16 Apr 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "AI firms are actively acquiring startups to build full-stack capabilities as enterprises move towards large-scale AI deployment. This consolidation is driven by the need for complementary product capabilities and intellectual property in a rapidly evolving market."
+    },
+    {
+        "id": "https://jsomers.net/blog/the-paper-computer",
+        "title": "The paper computer",
+        "link": "https://jsomers.net/blog/the-paper-computer",
+        "published": "Mon, 13 Apr 2026 04:57:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47747770\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/SethPyle376/hiraeth",
+        "title": "Show HN: Hiraeth \u2013 AWS Emulator",
+        "link": "https://github.com/SethPyle376/hiraeth",
+        "published": "Thu, 16 Apr 2026 02:28:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47787947\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/roll-back-buggy-google-services-updates-on-android/",
+        "title": "I found a way to roll back buggy Google Services updates on Android - in just a few clicks",
+        "link": "https://www.zdnet.com/article/roll-back-buggy-google-services-updates-on-android/",
+        "published": "Thu, 16 Apr 2026 03:00:30 GMT",
+        "source": "Latest news",
+        "summary": "If Google Services update on your Android is giving you problems, there's an easy fix - no factory reset needed."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tcs-nashik-case-male-accused-acted-like-organised-gang-to-target-female-colleagues/articleshow/130296859.cms",
+        "title": "TCS Nashik case: Male accused acted like organised gang to target female colleagues",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tcs-nashik-case-male-accused-acted-like-organised-gang-to-target-female-colleagues/articleshow/130296859.cms",
+        "published": "Thu, 16 Apr 2026 08:47:12 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The investigation into alleged religious conversion and sexual harassment at a Nashik branch of an IT giant suggests that seven male accused operated like an organised gang to target female employees, a senior officer has said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tsmc-set-to-post-50-quarterly-profit-jump-extend-record-earnings-on-insatiable-ai-demand/articleshow/130296497.cms",
+        "title": "TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tsmc-set-to-post-50-quarterly-profit-jump-extend-record-earnings-on-insatiable-ai-demand/articleshow/130296497.cms",
+        "published": "Thu, 16 Apr 2026 08:30:40 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand. Demand for Taiwan Semiconductor Manufacturing Co's 3-nanometre technology to produce AI chips and its advanced packaging technology continues \u200cto outstrip \u2060the firm's \u2060current production capacity, according to analysts."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/musks-staff-reaches-out-to-suppliers-for-terafab-project-report/articleshow/130296488.cms",
+        "title": "Musk's staff reaches out to suppliers for Terafab project: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/musks-staff-reaches-out-to-suppliers-for-terafab-project-report/articleshow/130296488.cms",
+        "published": "Thu, 16 Apr 2026 08:27:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Elon \u200bMusk's staff \u200bhave reached out to \u200cchip \u2060industry \u2060suppliers \u200bincluding Applied Materials, Tokyo \u200bElectron and \u200bLam Research \u2060for \u200chis \u200bTerafab \u200bAI \u2060chip complex project with \u200bSpaceX and \u200bTesla."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/openai-ceo-sam-altman-seeks-dismissal-of-sisters-punitive-damages-claims-in-sexual-abuse-lawsuit/articleshow/130296113.cms",
+        "title": "OpenAI CEO Sam Altman seeks dismissal of sister's punitive damages claims in sexual abuse lawsuit",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openai-ceo-sam-altman-seeks-dismissal-of-sisters-punitive-damages-claims-in-sexual-abuse-lawsuit/articleshow/130296113.cms",
+        "published": "Thu, 16 Apr 2026 07:57:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Annie Altman accused her brother of \u2060sexually abusing and \u200craping her between 1997 and 2006 at the family \u200bhome in \u200bsuburban Clayton, Missouri, starting when she was three and \u2060he was 12. She said the \"last acts of sexual \u200babuse and rape\" occurred when Sam Altman was an \u200badult. He is now 40."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ai-rewrites-credit-scores-consolidation-bug-hits-ai-firms/articleshow/130295630.cms",
+        "title": "Can AI fix your credit score? Krutrim shuts down assistant Kruti",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ai-rewrites-credit-scores-consolidation-bug-hits-ai-firms/articleshow/130295630.cms",
+        "published": "Thu, 16 Apr 2026 07:08:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Thursday! Fintechs are building AI solutions to help boost the creditworthiness of borrowers. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://inc42.com/buzz/domestic-funds-to-the-rescue-gobblecube-nets-15-mn-more/",
+        "title": "Domestic Funds To The Rescue, GobbleCube Nets $15 Mn & More",
+        "link": "https://inc42.com/buzz/domestic-funds-to-the-rescue-gobblecube-nets-15-mn-more/",
+        "published": "Thu, 16 Apr 2026 02:30:20 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Domestic Funds To The Rescue, GobbleCube Nets $15 Mn &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/FTR-Daily-Brief-2026-04-15T234633.456.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Domestic Funds Double Down On Indian Startups Indian mutual funds and AIFs have stepped in to back Indian startups as&#8230;"
     }
 ]
