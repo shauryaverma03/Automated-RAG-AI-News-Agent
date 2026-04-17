@@ -195590,5 +195590,61 @@
         "published": "Fri, 17 Apr 2026 17:18:58 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47808268\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+        "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
+        "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+        "published": "Fri, 17 Apr 2026 20:38:17 +0000",
+        "source": "TechCrunch",
+        "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+        "title": "OpenAI\u2019s former Sora boss is leaving",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+        "published": "2026-04-17T17:13:25-04:00",
+        "source": "The Verge",
+        "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+        "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+        "published": "2026-04-17T16:42:47-04:00",
+        "source": "The Verge",
+        "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/",
+        "title": "Man with @ihackedthegovernment Instagram account tells judge, \u201cI made a mistake\"",
+        "link": "https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/",
+        "published": "Fri, 17 Apr 2026 19:31:48 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Probation for man who used stolen logins and posted private info on social media."
+    },
+    {
+        "id": "https://www.engadget.com/science/the-pbs-artemis-ii-documentary-is-streaming-on-youtube-210347406.html?src=rss",
+        "title": "The PBS Artemis II documentary is streaming on YouTube",
+        "link": "https://www.engadget.com/science/the-pbs-artemis-ii-documentary-is-streaming-on-youtube-210347406.html?src=rss",
+        "published": "Fri, 17 Apr 2026 21:03:47 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div><p>The crew of NASA's Artemis II mission have <a class=\"link\" href=\"https://www.engadget.com/science/space/the-artemis-ii-astronauts-are-back-after-a-10-day-journey-around-the-moon-033800654.html\" target=\"_blank\">safely returned to Earth</a>, but if your Moon fever has yet to break, or you're curious to get a big picture view of how the second of a planned five Moon missions was pulled off, PBS has a new documentary<em"
+    },
+    {
+        "id": "https://miguelconner.substack.com/p/im-coding-by-hand",
+        "title": "I'm spending 3 months coding the old way",
+        "link": "https://miguelconner.substack.com/p/im-coding-by-hand",
+        "published": "Fri, 17 Apr 2026 16:19:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47807583\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/apple-airtag-gen-1-deal/",
+        "title": "Apple's original AirTag still tracks effectively, and you can get a 4-pack for its best price ever",
+        "link": "https://www.zdnet.com/article/apple-airtag-gen-1-deal/",
+        "published": "Fri, 17 Apr 2026 21:00:42 GMT",
+        "source": "Latest news",
+        "summary": "The AirTag Gen 1 isn't the latest and greatest anymore, but it still offers reliable Bluetooth tracking at almost half the cost of the newer Gen 2 model."
     }
 ]
