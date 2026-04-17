@@ -194342,5 +194342,109 @@
         "published": "Fri, 17 Apr 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Legal and policy experts are urging Indian regulators to move beyond broad AI principles and begin addressing the unique risks posed by autonomous AI agents. India currently has no dedicated law to govern AI agents that can act on their own and interact with other systems, leading to a yawning gap as companies rapidly deploy such tools across payments, banking and supply chains, they said."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
+        "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
+        "link": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
+        "published": "Fri, 17 Apr 2026 02:55:06 +0000",
+        "source": "TechCrunch",
+        "summary": "The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
+        "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
+        "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
+        "published": "Fri, 17 Apr 2026 03:15:54 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy."
+    },
+    {
+        "id": "https://cadquery.github.io/",
+        "title": "CadQuery is an open-source Python library for building 3D CAD models",
+        "link": "https://cadquery.github.io/",
+        "published": "Tue, 14 Apr 2026 23:20:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47772725\">Comments</a>"
+    },
+    {
+        "id": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+        "title": "Show HN: Spice simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+        "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+        "published": "Fri, 17 Apr 2026 00:37:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47801255\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/denon-home-400-review/",
+        "title": "I traded my Sonos Era 300 for Denon's new home speaker - and see no reason to go back",
+        "link": "https://www.zdnet.com/article/denon-home-400-review/",
+        "published": "Fri, 17 Apr 2026 01:31:36 GMT",
+        "source": "Latest news",
+        "summary": "The Denon Home 400 is a worthy competitor to Sonos' Era 300, with upgraded hardware, software, and a fresh look."
+    },
+    {
+        "id": "https://www.zdnet.com/article/ai-website-builders-your-best-option/",
+        "title": "AI-powered website builders have come a long way - here's your best option in 2026",
+        "link": "https://www.zdnet.com/article/ai-website-builders-your-best-option/",
+        "published": "Fri, 17 Apr 2026 01:30:00 GMT",
+        "source": "Latest news",
+        "summary": "Last year, the best we could say about AI website builders is they had potential. This year, we found some that can actually do the job."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-on-spacex/articleshow/130322552.cms",
+        "title": "Starlink outage hit drone tests, exposing Pentagon's growing reliance on SpaceX",
+        "link": "https://economictimes.indiatimes.com/tech/technology/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-on-spacex/articleshow/130322552.cms",
+        "published": "Fri, 17 Apr 2026 09:44:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US Navy tests of unmanned vessels were disrupted by Starlink outages, highlighting the military's growing reliance on Elon Musk's satellite network. Despite its crucial role in programs like drone operations and missile tracking, these incidents reveal potential vulnerabilities in national security capabilities due to dependence on a single provider."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/australian-tycoon-battles-meta-over-fake-ads/articleshow/130322230.cms",
+        "title": "Australian tycoon battles Meta over fake ads",
+        "link": "https://economictimes.indiatimes.com/tech/technology/australian-tycoon-battles-meta-over-fake-ads/articleshow/130322230.cms",
+        "published": "Fri, 17 Apr 2026 09:17:20 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Australian mining magnate Andrew Forrest is suing Meta in a US court. He claims Meta should be responsible for scam advertisements featuring his image. Forrest's legal team is challenging Meta's protection under Section 230 of the Communications Decency Act. This legal battle could set a precedent for social media accountability. A judge's ruling is expected soon."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-a-gold-mine-for-spammers-and-scammers-but-google-is-using-it-as-a-tool-to-fight-back/articleshow/130321728.cms",
+        "title": "AI is a gold mine for spammers and scammers, but Google is using it as a tool to fight back",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-a-gold-mine-for-spammers-and-scammers-but-google-is-using-it-as-a-tool-to-fight-back/articleshow/130321728.cms",
+        "published": "Fri, 17 Apr 2026 08:36:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Generative AI is supercharging online spam and scams, with the FBI reporting over $893 million in losses last year. Tech giants like Google are deploying advanced AI systems, such as Gemini, to combat this deluge. Gemini successfully blocked over 99% of policy-violating ads before they reached audiences, demonstrating AI's crucial role in defence."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/german-banks-examine-risks-of-anthropics-mythos-with-authorities/articleshow/130321672.cms",
+        "title": "German banks examine risks of Anthropic's Mythos with authorities",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/german-banks-examine-risks-of-anthropics-mythos-with-authorities/articleshow/130321672.cms",
+        "published": "Fri, 17 Apr 2026 08:32:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "German banks and authorities are scrutinizing Anthropic's new AI model, Mythos. Experts warn it could boost cyberattacks, posing challenges to banking systems. Regulators in Britain and the United States are also concerned. Anthropic is working with tech firms and banks to prepare defenses for future vulnerabilities. Updates are expected soon."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-spend-more-than-20-billion-on-cerebras-chips-receive-equity-stake-the-information/articleshow/130321482.cms",
+        "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive equity stake: The Information",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-spend-more-than-20-billion-on-cerebras-chips-receive-equity-stake-the-information/articleshow/130321482.cms",
+        "published": "Fri, 17 Apr 2026 08:21:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI has reportedly agreed to a significant deal with chip startup Cerebras, potentially worth over $20 billion across three years. This agreement, which could include an equity stake for OpenAI, aims to secure substantial computing power for AI model inference and development. Cerebras could disclose parts of its previously undisclosed arrangement \u200cwith OpenAI as soon as Friday, the report said."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/green-or-gimmick-the-truth-behind-sustainable-travel-claims",
+        "title": "Green or gimmick? The truth behind sustainable travel claims",
+        "link": "https://yourstory.com/2026/04/green-or-gimmick-the-truth-behind-sustainable-travel-claims",
+        "published": "Fri, 17 Apr 2026 01:50:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "When hotels publish their energy efficiency/energy savings, provide waste reduction measures, and share their overall impact on the local communities, they have far more credibility than hotels that only use buzzwords or other marketing words."
+    },
+    {
+        "id": "https://inc42.com/buzz/startups-in-dpdp-maze-flipkart-eyes-2-5-bn-more/",
+        "title": "Startups In DPDP Maze, Flipkart Eyes $2.5 Bn & More",
+        "link": "https://inc42.com/buzz/startups-in-dpdp-maze-flipkart-eyes-2-5-bn-more/",
+        "published": "Fri, 17 Apr 2026 02:30:43 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Startups In DPDP Maze, Flipkart Eyes $2.5 Bn &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/FTR-Daily-Brief-2026-04-16T234432.420.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Can Startups Solve The DPDP Puzzle? A regulatory scramble has ignited a \u20b910,000 Cr compliance market. With a year left&#8230;"
     }
 ]
