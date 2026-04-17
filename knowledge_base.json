@@ -195550,5 +195550,45 @@
         "published": "Fri, 17 Apr 2026 11:49:46 GMT",
         "source": "YourStory RSS Feed",
         "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, April 17, 2026."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+        "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+        "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+        "published": "Fri, 17 Apr 2026 20:16:13 +0000",
+        "source": "TechCrunch",
+        "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+        "title": "Anthropic\u2019s new cybersecurity model could get it back in the government\u2019s good graces",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+        "published": "2026-04-17T16:14:21-04:00",
+        "source": "The Verge",
+        "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview. [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+        "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+        "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+        "published": "Fri, 17 Apr 2026 19:56:42 +0000",
+        "source": "WIRED",
+        "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex."
+    },
+    {
+        "id": "https://www.engadget.com/computing/a-lot-of-you-panic-bought-pcs-to-avoid-ramaggedon-2026-200237204.html?src=rss",
+        "title": "A lot of you panic-bought PCs to avoid RAMaggedon 2026",
+        "link": "https://www.engadget.com/computing/a-lot-of-you-panic-bought-pcs-to-avoid-ramaggedon-2026-200237204.html?src=rss",
+        "published": "Fri, 17 Apr 2026 20:02:37 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>The specter of <a class=\"link\" href=\"https://www.engadget.com/ai/samsung-says-ram-costs-will-likely-lead-to-price-hikes-soon-170653524.html\" target=\"_blank\">price hikes</a> caused by the current AI-driven demand for memory and storage appears to have convinced a fair share of people to buy a new computer. According to data <a class=\"link\" href=\"https://counterpointresearch.com/en/insights/global-pc-shipments-q1-2026\" target=\"_blank\">analyzed by Counterpoint Research</a>, global PC shipments g"
+    },
+    {
+        "id": "https://github.com/smol-machines/smolvm",
+        "title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines",
+        "link": "https://github.com/smol-machines/smolvm",
+        "published": "Fri, 17 Apr 2026 17:18:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47808268\">Comments</a>"
     }
 ]
