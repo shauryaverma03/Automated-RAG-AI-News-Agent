@@ -194254,5 +194254,93 @@
         "published": "Thu, 16 Apr 2026 19:32:18 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47798345\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
+        "title": "YouTube\u2019s mobile app finally lets you share timestamped videos",
+        "link": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
+        "published": "2026-04-16T19:32:16-04:00",
+        "source": "The Verge",
+        "summary": "YouTube is making some changes that might affect how you share videos from the mobile app. From the app, you can finally share videos from a specific timestamp, which will make it easier to point someone to a part of a video you might want them to see while you're on your phone. However, this [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/",
+        "title": "Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon",
+        "link": "https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/",
+        "published": "Thu, 16 Apr 2026 23:20:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"The old protect the young, and then the young protect the old.\""
+    },
+    {
+        "id": "https://www.engadget.com/social-media/bluesky-blames-ddos-attack-for-server-outages-150515882.html?src=rss",
+        "title": "Bluesky blames DDoS attack for server outages",
+        "link": "https://www.engadget.com/social-media/bluesky-blames-ddos-attack-for-server-outages-150515882.html?src=rss",
+        "published": "Fri, 17 Apr 2026 00:02:44 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p><a class=\"link\" href=\"https://www.engadget.com/ai/blueskys-next-product-is-an-ai-assistant-that-helps-build-custom-social-media-feeds-163140902.html\" target=\"_blank\">Bluesky</a> is once again having a wobble. The platform said some of its systems are down and that it\u2019s \u201cinvestigating an incident with service in one of our reginos\u201d (that\u2019s Bluesky\u2019s typo, not mine). The issue appears to have started at 1:42AM ET and was still persisting as of 11AM when this story was originally published. Sinc"
+    },
+    {
+        "id": "https://www.zdnet.com/article/apps-slowing-my-pc-how-to-kill-memory-hogs/",
+        "title": "I found the apps slowing down my PC - how to kill the biggest memory hogs",
+        "link": "https://www.zdnet.com/article/apps-slowing-my-pc-how-to-kill-memory-hogs/",
+        "published": "Fri, 17 Apr 2026 01:00:51 GMT",
+        "source": "Latest news",
+        "summary": "'SysMain' was draining my computer's background memory. Here's how to find the biggest culprits behind your sluggish PC."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-companies-are-upskilling-workers-for-ai/",
+        "title": "These companies are actually upskilling their workers for AI - here's how they do it",
+        "link": "https://www.zdnet.com/article/how-companies-are-upskilling-workers-for-ai/",
+        "published": "Fri, 17 Apr 2026 01:00:38 GMT",
+        "source": "Latest news",
+        "summary": "Business leaders explain why they're still hiring for entry-level jobs, how they're investing in employees, and what's working so far."
+    },
+    {
+        "id": "https://www.zdnet.com/article/meta-ray-bans-smart-glasses-verizon-deal/",
+        "title": "Get a free pair of Meta Ray-Bans with this Verizon Fios Home internet deal - how to redeem it",
+        "link": "https://www.zdnet.com/article/meta-ray-bans-smart-glasses-verizon-deal/",
+        "published": "Fri, 17 Apr 2026 00:30:37 GMT",
+        "source": "Latest news",
+        "summary": "When you sign up for - or switch to - one of these Verizon Fios home internet plans, you'll get a pair of Meta Ray-Ban smart glasses absolutely free."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/netflix-cofounder-reed-hastings-to-exit-in-june/articleshow/130320423.cms",
+        "title": "Netflix cofounder Reed Hastings to exit in June",
+        "link": "https://economictimes.indiatimes.com/tech/technology/netflix-cofounder-reed-hastings-to-exit-in-june/articleshow/130320423.cms",
+        "published": "Fri, 17 Apr 2026 06:32:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Netflix cofounder Reed Hastings is stepping down as chairman after 29 years, shifting focus to philanthropy. The streaming giant's stock dipped following the announcement. As Netflix enters a new era, the company plans to significantly expand its advertising business, aiming for $3 billion in revenue by 2026."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/wipro-q4-net-profit-dips-1-9-to-rs-3502-crore-revenue-rises-8/articleshow/130316743.cms",
+        "title": "Wipro Q4 net profit dips 1.9% to Rs 3,502 crore, revenue rises 8%",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/wipro-q4-net-profit-dips-1-9-to-rs-3502-crore-revenue-rises-8/articleshow/130316743.cms",
+        "published": "Fri, 17 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Wipro reported a 1.6% decline in annual revenue in fiscal year 2026 in constant currency terms, in line with its larger rival, Tata Consultancy Services, as geopolitical uncertainties, AI-led disruptions and slow deal ramp-ups weigh on its performance"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/india-eyes-us-led-pax-silica-seed-fund/articleshow/130316363.cms",
+        "title": "India eyes US-led Pax Silica seed fund",
+        "link": "https://economictimes.indiatimes.com/tech/technology/india-eyes-us-led-pax-silica-seed-fund/articleshow/130316363.cms",
+        "published": "Fri, 17 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is keen on getting access to the US State Department's new $250 million Pax Silica seed fund designed to secure global supply chains for artificial intelligence, semiconductors and critical minerals, people in the know said. This was discussed among steps to operationalise the multilateral initiative during foreign secretary Vikram Misri's three-day visit to Washington DC last week, they said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/quick-commerce-turning-to-reset-lane-as-profit-push-tempers-growth-metrics/articleshow/130315966.cms",
+        "title": "Quick commerce turning to reset lane as profit push tempers growth metrics",
+        "link": "https://economictimes.indiatimes.com/tech/startups/quick-commerce-turning-to-reset-lane-as-profit-push-tempers-growth-metrics/articleshow/130315966.cms",
+        "published": "Fri, 17 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "After several quarters of breakneck expansion, quick commerce majors Blinkit and Instamart are expected to report moderation in growth in the January-March quarter, as they sharpen focus on margin improvement and profitability, analysts and industry executives said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/legal-checkpoints-for-ai-agents-now-mission-critical-say-experts/articleshow/130315620.cms",
+        "title": "Legal checkpoints for AI agents now mission critical, say experts",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/legal-checkpoints-for-ai-agents-now-mission-critical-say-experts/articleshow/130315620.cms",
+        "published": "Fri, 17 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Legal and policy experts are urging Indian regulators to move beyond broad AI principles and begin addressing the unique risks posed by autonomous AI agents. India currently has no dedicated law to govern AI agents that can act on their own and interact with other systems, leading to a yawning gap as companies rapidly deploy such tools across payments, banking and supply chains, they said."
     }
 ]
