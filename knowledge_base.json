@@ -196326,5 +196326,29 @@
         "published": "Sat, 18 Apr 2026 19:00:00 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47818485\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+        "title": "Tesla brings its robotaxi service to Dallas and Houston",
+        "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+        "published": "Sat, 18 Apr 2026 21:37:15 +0000",
+        "source": "TechCrunch",
+        "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that \u201cRobotaxi is now rolling out in Dallas &#38; Houston \ud83e\udd20\u201d and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The company now [&#8230;]"
+    },
+    {
+        "id": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+        "title": "Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers",
+        "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+        "published": "Sat, 18 Apr 2026 20:54:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47819453\">Comments</a>"
+    },
+    {
+        "id": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+        "title": "Optimizing Ruby Path Methods",
+        "link": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+        "published": "Sat, 18 Apr 2026 20:42:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47819369\">Comments</a>"
     }
 ]
