@@ -196158,5 +196158,29 @@
         "published": "Sat, 18 Apr 2026 12:29:06 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47815395\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+        "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
+        "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+        "published": "Sat, 18 Apr 2026 14:56:48 +0000",
+        "source": "TechCrunch",
+        "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/govt-sets-up-committee-for-expert-advisory-support-to-indias-ai-governance-architecture/articleshow/130356655.cms",
+        "title": "Govt sets up committee for expert advisory support to India's AI governance architecture",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/govt-sets-up-committee-for-expert-advisory-support-to-indias-ai-governance-architecture/articleshow/130356655.cms",
+        "published": "Sat, 18 Apr 2026 20:23:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's Ministry of Electronics and Information Technology has formed a new expert committee. This Technology and Policy Expert Committee will guide the AI Governance and Economic Group. The committee brings together academics and industry leaders. Their role is to offer technical and policy advice. This ensures informed decisions on AI regulations and global engagements."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/regulations-slow-growth-but-reward-patient-founders-razorpays-harshil-mathur-at-yc-startup-school/articleshow/130356187.cms",
+        "title": "Regulations slow growth but reward patient founders: Razorpay\u2019s Harshil Mathur at YC Startup School",
+        "link": "https://economictimes.indiatimes.com/tech/startups/regulations-slow-growth-but-reward-patient-founders-razorpays-harshil-mathur-at-yc-startup-school/articleshow/130356187.cms",
+        "published": "Sat, 18 Apr 2026 19:57:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Razorpay CEO Harshil Mathur highlighted the advantages of operating in regulated spaces, noting the company's explosive growth in India's payments market, now exceeding $180 billion in volume. He shared early challenges, including a bank pulling support, but emphasized how adaptability, like embracing UPI, fueled their success, especially during the pandemic's D2C boom."
     }
 ]
