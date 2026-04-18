@@ -195694,5 +195694,29 @@
         "published": "Fri, 17 Apr 2026 22:30:28 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47811283\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-use-an-old-tablet-as-a-smart-home-control-panel/",
+        "title": "Your old iPad or Android tablet can be your new smart home panel - here's how",
+        "link": "https://www.zdnet.com/article/how-to-use-an-old-tablet-as-a-smart-home-control-panel/",
+        "published": "Sat, 18 Apr 2026 01:00:38 GMT",
+        "source": "Latest news",
+        "summary": "Do you have an old tablet tucked away in a drawer somewhere? It's easy to turn it into a control panel for your smart home devices."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/ai-pushing-it-companies-to-lower-service-costs-analysts/articleshow/130340778.cms",
+        "title": "AI pushing IT companies to lower service costs: Analysts",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/ai-pushing-it-companies-to-lower-service-costs-analysts/articleshow/130340778.cms",
+        "published": "Sat, 18 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Decline in annual revenue runs at even the biggest in Indian IT, such as Tata Consultancy Services (TCS) and Wipro, despite healthy deal pipelines suggests persistence of both slow revenue conversion and discounts spawned by competition from AI, analysts said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/nimble-companies-are-succeeding-in-the-ai-era-ycs-jared-friedman/articleshow/130340575.cms",
+        "title": "Nimble companies are succeeding in the AI era: YC's Jared Friedman",
+        "link": "https://economictimes.indiatimes.com/tech/startups/nimble-companies-are-succeeding-in-the-ai-era-ycs-jared-friedman/articleshow/130340575.cms",
+        "published": "Sat, 18 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI startup founders are pivoting faster and more often in the era of AI, and strong engineering talent in India gives them an edge, said Jared Friedman, managing partner, Y Combinator."
     }
 ]
