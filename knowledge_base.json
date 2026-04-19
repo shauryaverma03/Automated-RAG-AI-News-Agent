@@ -196838,5 +196838,13 @@
         "published": "Sun, 19 Apr 2026 11:48:17 GMT",
         "source": "YourStory RSS Feed",
         "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 228th quiz. Ready?"
+    },
+    {
+        "id": "https://mxmap.ch/",
+        "title": "2,100 Swiss municipalities showing which provider handles their official email",
+        "link": "https://mxmap.ch/",
+        "published": "Sun, 19 Apr 2026 22:55:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47828420\">Comments</a>"
     }
 ]
