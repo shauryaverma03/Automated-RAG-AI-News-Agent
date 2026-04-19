@@ -196606,5 +196606,37 @@
         "published": "Sun, 19 Apr 2026 13:13:09 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47824068\">Comments</a>"
+    },
+    {
+        "id": "https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene",
+        "title": "Notes from the SF Peptide Scene",
+        "link": "https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene",
+        "published": "Sun, 19 Apr 2026 14:43:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47824681\">Comments</a>"
+    },
+    {
+        "id": "https://nanopass.org/",
+        "title": "Nanopass Framework: Clean Compiler Creation Language",
+        "link": "https://nanopass.org/",
+        "published": "Wed, 15 Apr 2026 11:38:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47777715\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/cursor-may-raise-2-billion-at-50-billion-valuation/articleshow/130372452.cms",
+        "title": "Cursor may raise $2 billion at $50 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/funding/cursor-may-raise-2-billion-at-50-billion-valuation/articleshow/130372452.cms",
+        "published": "Sun, 19 Apr 2026 20:48:01 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI coding startup Cursor is close to securing over $2 billion in new funding. This investment could value the company at $50 billion. Returning investors like Thrive and Andreessen Horowitz are expected to lead the round. Nvidia may also participate."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/y-combinators-first-startup-school-event-in-india-helps-techies-land-jobs-gigs-but/articleshow/130372140.cms",
+        "title": "Y Combinator comes to India with Startup School, draws a crowd, faces some teething trouble",
+        "link": "https://economictimes.indiatimes.com/tech/technology/y-combinators-first-startup-school-event-in-india-helps-techies-land-jobs-gigs-but/articleshow/130372140.cms",
+        "published": "Sun, 19 Apr 2026 20:04:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Y Combinator's inaugural Startup School in India drew over 2,000 aspiring founders, eager to learn from established entrepreneurs like Zepto's Aadit Palicha and Emergent\u2019s Mukund Jha. The event highlighted the burgeoning AI-native startup scene in India, with YC encouraging builders to focus on cutting-edge ideas for global impact."
     }
 ]
