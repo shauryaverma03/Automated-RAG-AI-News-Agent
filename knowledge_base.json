@@ -196358,5 +196358,13 @@
         "published": "Sat, 18 Apr 2026 22:24:47 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47820046\">Comments</a>"
+    },
+    {
+        "id": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+        "title": "Modern Common Lisp with FSet",
+        "link": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+        "published": "Wed, 15 Apr 2026 14:38:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47779659\">Comments</a>"
     }
 ]
