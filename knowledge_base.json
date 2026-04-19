@@ -196790,5 +196790,45 @@
         "published": "Thu, 16 Apr 2026 07:59:34 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47790041\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+        "title": "OpenAI\u2019s existential questions",
+        "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+        "published": "Sun, 19 Apr 2026 21:24:06 +0000",
+        "source": "TechCrunch",
+        "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
+    },
+    {
+        "id": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+        "title": "Blue Origin successfully reused its New Glenn rocket",
+        "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+        "published": "2026-04-19T16:28:52-04:00",
+        "source": "The Verge",
+        "summary": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a reusable launch vehicle. Unfortunately for AST SpaceMobile, [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/the-nsa-is-reportedly-using-anthropics-new-model-mythos-211502787.html?src=rss",
+        "title": "The NSA is reportedly using Anthropic's new model Mythos",
+        "link": "https://www.engadget.com/ai/the-nsa-is-reportedly-using-anthropics-new-model-mythos-211502787.html?src=rss",
+        "published": "Sun, 19 Apr 2026 21:15:02 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Despite the months-long feud between Anthropic and the Pentagon, the National Security Agency is using the AI company's new Mythos Preview, according to <a class=\"link\" href=\"https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon\" target=\"_blank\"><em>Axios</em></a>, which spoke to two sources with knowledge of the matter. Anthropic <a class=\"link\" href=\"https://www.engadget.com/ai/anthropic-launches-project-glasswing-an-effort-to-prevent-ai-cyberattacks-with-ai-214939773.html\" target="
+    },
+    {
+        "id": "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/",
+        "title": "A. J. Ayer \u2013 \u2018What I Saw When I Was Dead\u2019 (1988)",
+        "link": "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/",
+        "published": "Sun, 19 Apr 2026 20:04:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47827215\">Comments</a>"
+    },
+    {
+        "id": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+        "title": "Swiss authorities want to reduce dependency on Microsoft",
+        "link": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+        "published": "Sun, 19 Apr 2026 20:25:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47827383\">Comments</a>"
     }
 ]
