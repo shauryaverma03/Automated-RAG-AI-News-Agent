@@ -196758,5 +196758,37 @@
         "published": "Wed, 15 Apr 2026 22:32:22 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47786211\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/914723/vercel-hacked",
+        "title": "Cloud development platform Vercel was hacked",
+        "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+        "published": "2026-04-19T15:54:52-04:00",
+        "source": "The Verge",
+        "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]"
+    },
+    {
+        "id": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "title": "Vercel April 2026 security incident",
+        "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "published": "Sun, 19 Apr 2026 14:14:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47824463\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/navid-m/chip8emu",
+        "title": "I wrote a CHIP-8 emulator in my own programming language",
+        "link": "https://github.com/navid-m/chip8emu",
+        "published": "Sun, 19 Apr 2026 19:21:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47826852\">Comments</a>"
+    },
+    {
+        "id": "https://darkounity.com/blog/how-i-learned-unity-the-wrong-way",
+        "title": "I learned Unity the wrong way",
+        "link": "https://darkounity.com/blog/how-i-learned-unity-the-wrong-way",
+        "published": "Thu, 16 Apr 2026 07:59:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47790041\">Comments</a>"
     }
 ]
