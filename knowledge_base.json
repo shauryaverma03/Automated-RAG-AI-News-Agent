@@ -196430,5 +196430,37 @@
         "published": "Sun, 19 Apr 2026 01:35:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we feature a visual tour of the Bangkok Art and Culture Centre and its art exhibitions."
+    },
+    {
+        "id": "https://www.wired.com/story/the-best-fans-2026/",
+        "title": "The 11 Best Fans to Buy Before It Gets Hot Again (2026)",
+        "link": "https://www.wired.com/story/the-best-fans-2026/",
+        "published": "Sun, 19 Apr 2026 10:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room."
+    },
+    {
+        "id": "https://www.wired.com/story/apple-watch-series-11-deal-april-2026/",
+        "title": "Our Favorite Apple Watch Has Never Been Less Expensive",
+        "link": "https://www.wired.com/story/apple-watch-series-11-deal-april-2026/",
+        "published": "Sun, 19 Apr 2026 09:39:00 +0000",
+        "source": "WIRED",
+        "summary": "Our top Apple Watch recommendation fluctuates in price. If you're in the market, now's a good time to buy."
+    },
+    {
+        "id": "https://www.zdnet.com/article/the-best-phones-you-can-buy-in-2026-are-from-2025/",
+        "title": "Why I'm recommending last year's phones over 2026 models - with one exception",
+        "link": "https://www.zdnet.com/article/the-best-phones-you-can-buy-in-2026-are-from-2025/",
+        "published": "Sun, 19 Apr 2026 10:00:58 GMT",
+        "source": "Latest news",
+        "summary": "Older models, like the Google Pixel 10 and Samsung Galaxy S25 Plus, are now more appealing than ever. Here's why."
+    },
+    {
+        "id": "https://www.zdnet.com/article/gemini-personal-intelligence-hands-on/",
+        "title": "This powerful Gemini setting made my AI results way more personal and accurate",
+        "link": "https://www.zdnet.com/article/gemini-personal-intelligence-hands-on/",
+        "published": "Sun, 19 Apr 2026 10:00:41 GMT",
+        "source": "Latest news",
+        "summary": "I enabled Personal Intelligence, connected my Google apps, and now Gemini guesses what I want without me saying it."
     }
 ]
