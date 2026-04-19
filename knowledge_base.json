@@ -196406,5 +196406,29 @@
         "published": "Thu, 16 Apr 2026 14:05:10 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47793161\">Comments</a>"
+    },
+    {
+        "id": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+        "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf]",
+        "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+        "published": "Sun, 19 Apr 2026 08:45:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47822805\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/anthropics-claude-opus-47-explained",
+        "title": "Anthropic\u2019s Claude Opus 4.7, explained; Steep decline in VC funding",
+        "link": "https://yourstory.com/2026/04/anthropics-claude-opus-47-explained",
+        "published": "Sun, 19 Apr 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Within the Anthropic ecosystem, Opus 4.7 occupies the top tier of the generally available models, sitting above the Sonnet and Haiku variants."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/bangkok-art-and-culture-centre-creativity-photography",
+        "title": "Bangkok Art and Culture Centre: a unique highlight of Thailand\u2019s creative edge",
+        "link": "https://yourstory.com/2026/04/bangkok-art-and-culture-centre-creativity-photography",
+        "published": "Sun, 19 Apr 2026 01:35:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In this photo essay, we feature a visual tour of the Bangkok Art and Culture Centre and its art exhibitions."
     }
 ]
