@@ -196702,5 +196702,61 @@
         "published": "Sun, 19 Apr 2026 17:44:44 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47826104\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+        "title": "The 12-month window",
+        "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+        "published": "Sun, 19 Apr 2026 19:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
+        "title": "Blue Origin\u2019s New Glenn put a customer satellite in the wrong orbit during its third launch",
+        "link": "https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/",
+        "published": "Sun, 19 Apr 2026 19:02:09 +0000",
+        "source": "TechCrunch",
+        "summary": "The first major failure of Blue Origin's new heavy-launch system could create delays to its ambition to help NASA and the Trump administration return to the Moon."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+        "title": "Robots beat human records at Beijing half-marathon",
+        "link": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+        "published": "Sun, 19 Apr 2026 18:44:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The winning time is a massive improvement over last year\u2019s race, when the fastest robot finished in two hours and 40 minutes."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
+        "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
+        "link": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
+        "published": "Sun, 19 Apr 2026 18:19:19 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Blue Origin's reused first stage hit its targets, but New Glenn's upper stage did not."
+    },
+    {
+        "id": "https://www.engadget.com/ai/beijings-robot-half-marathon-is-back-for-its-second-year-with-far-less-embarassing-results-191308396.html?src=rss",
+        "title": "Beijing's robot half-marathon is back for its second year with far less embarassing results",
+        "link": "https://www.engadget.com/ai/beijings-robot-half-marathon-is-back-for-its-second-year-with-far-less-embarassing-results-191308396.html?src=rss",
+        "published": "Sun, 19 Apr 2026 19:13:08 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>To make up for an incredibly laughable <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/ai/a-bunch-of-robots-ran-a-half-marathon-alongside-humans-and-it-was-incredibly-goofy-215134524.html\">inaugural event</a>, Beijing is running back its humanoid robot half-marathon. Fortunately, the event that pits humanoid robots made by Chinese companies against each other across 13 miles went a lot smoother this year.</p>\n<p>This year's half-marathon hosted more than 100 competitors, with firs"
+    },
+    {
+        "id": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+        "title": "The Bromine Chokepoint: How Strife Could Halt Production of World\u2019s Memory Chips",
+        "link": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+        "published": "Sun, 19 Apr 2026 17:44:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47826100\">Comments</a>"
+    },
+    {
+        "id": "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05590",
+        "title": "KTaO3-Based Supercurrent Diode",
+        "link": "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05590",
+        "published": "Wed, 15 Apr 2026 22:32:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47786211\">Comments</a>"
     }
 ]
