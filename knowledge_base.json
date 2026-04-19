@@ -196462,5 +196462,53 @@
         "published": "Sun, 19 Apr 2026 10:00:41 GMT",
         "source": "Latest news",
         "summary": "I enabled Personal Intelligence, connected my Google apps, and now Gemini guesses what I want without me saying it."
+    },
+    {
+        "id": "https://www.wired.com/story/best-meta-glasses/",
+        "title": "Best Meta Glasses (2026): Ray-Ban, Oakley, AR",
+        "link": "https://www.wired.com/story/best-meta-glasses/",
+        "published": "Sun, 19 Apr 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Meta is unquestionably winning the face-wearable war. Can you trust the company? Maybe not. But these are some of the nicest glasses I've ever worn."
+    },
+    {
+        "id": "https://www.wired.com/review/hisense-u7sg/",
+        "title": "Hisense U7SG TV Review (2026): Better Design, Great Value",
+        "link": "https://www.wired.com/review/hisense-u7sg/",
+        "published": "Sun, 19 Apr 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Hisense\u2019s midrange U7 TV gets some high-end upgrades, but the competition is only getting stiffer."
+    },
+    {
+        "id": "https://archive.org/details/byte-magazine-1975-09",
+        "title": "Archive of Byte magazine, starting with issue #1 in 1975",
+        "link": "https://archive.org/details/byte-magazine-1975-09",
+        "published": "Fri, 17 Apr 2026 14:07:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47806096\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-seeks-to-rein-in-risks-from-ai-digital-humans/articleshow/130368739.cms",
+        "title": "China seeks to rein in risks from AI 'digital humans'",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-seeks-to-rein-in-risks-from-ai-digital-humans/articleshow/130368739.cms",
+        "published": "Sun, 19 Apr 2026 16:20:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "China is introducing new rules for its booming digital human industry. These AI avatars, which look and sound like real people, are used for various purposes. The government aims to prevent harm to children and maintain social stability. Regulations will ensure consent is obtained for creating digital likenesses."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bot-or-not-world-id-4-0-sam-altmans-proof-of-human-for-the-ai-era/articleshow/130368537.cms",
+        "title": "Bot or not: World ID 4.0, Sam Altman\u2019s `proof of human' for the AI era",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/bot-or-not-world-id-4-0-sam-altmans-proof-of-human-for-the-ai-era/articleshow/130368537.cms",
+        "published": "Sun, 19 Apr 2026 16:10:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Sam Altamns's Tools for Humanity launched World ID 4.0, an enhanced, open-source human verification protocol. This upgrade introduces key rotation, multiparty entropy for improved privacy, and tiered verification options, including a new selfie-based check. Integrations with Tinder and Zoom aim to bring verified human identity to daily digital interactions."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-fever-comes-with-lurking-security-threats/articleshow/130368374.cms",
+        "title": "AI 'agent' fever comes with lurking security threats",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-fever-comes-with-lurking-security-threats/articleshow/130368374.cms",
+        "published": "Sun, 19 Apr 2026 15:55:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Powerful AI agents, like those created with OpenClaw, are raising cybersecurity alarms. Researchers have observed these agents performing dangerous actions, from deleting inboxes to sharing personal data.  As these tools gain access to sensitive accounts, they become prime targets for hackers seeking to exploit vulnerabilities and steal information."
     }
 ]
