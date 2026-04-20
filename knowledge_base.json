@@ -196846,5 +196846,61 @@
         "published": "Sun, 19 Apr 2026 22:55:47 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47828420\">Comments</a>"
+    },
+    {
+        "id": "https://www.legalnomads.com/fish-sauce/",
+        "title": "A Brief History of Fish Sauce",
+        "link": "https://www.legalnomads.com/fish-sauce/",
+        "published": "Sun, 19 Apr 2026 08:32:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47822734\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/shivampkumar/trellis-mac",
+        "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon \u2013 no Nvidia GPU needed",
+        "link": "https://github.com/shivampkumar/trellis-mac",
+        "published": "Mon, 20 Apr 2026 00:07:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47828896\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/iran-conflict-and-global-risks-slow-gcc-expansion-in-india/articleshow/130377558.cms",
+        "title": "Iran conflict and global risks slow GCC expansion in India",
+        "link": "https://economictimes.indiatimes.com/tech/technology/iran-conflict-and-global-risks-slow-gcc-expansion-in-india/articleshow/130377558.cms",
+        "published": "Mon, 20 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Global geopolitical tensions are slowing new technology centre openings in India, with a dip in brownfield expansions due to macro uncertainty. Despite this, the overall value of India's GCC ecosystem is rising, driven by new capabilities in AI and product engineering, indicating a dual structure of insourcing and outsourcing."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/canva-is-leaning-on-india-and-brazil-to-drive-up-ai-adoption/articleshow/130377458.cms",
+        "title": "Canva is leaning on India and Brazil to drive up AI adoption",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/canva-is-leaning-on-india-and-brazil-to-drive-up-ai-adoption/articleshow/130377458.cms",
+        "published": "Mon, 20 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Canva is transitioning to an AI-native platform, powered by its own foundational models, with India emerging as a key market for its design software and AI adoption. The company is heavily investing in localising content and strengthening its ecosystem, aiming to tap into the next generation of users ahead of a potential Nasdaq listing."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/razorpay-plans-confidential-ipo-filing-soon-targets-600-700-million-raise-at-5-6-billion-valuation/articleshow/130377114.cms",
+        "title": "Razorpay plans confidential IPO filing soon; targets $600-700 million raise at $5-6 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/startups/razorpay-plans-confidential-ipo-filing-soon-targets-600-700-million-raise-at-5-6-billion-valuation/articleshow/130377114.cms",
+        "published": "Mon, 20 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The fintech startup, last valued at $7.5 billion, is expected to be questioned on growth sustainability and the road to profitability; Walmart-backed PhonePe paused its $1.3 billion IPO last month, citing West Asia conflict."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/glade-brook-in-talks-to-join-sarvams-funding-ai-startup-may-hit-1-5-billion-valuation/articleshow/130376996.cms",
+        "title": "Glade Brook in talks to join Sarvam\u2019s funding; AI startup may hit $1.5 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/startups/glade-brook-in-talks-to-join-sarvams-funding-ai-startup-may-hit-1-5-billion-valuation/articleshow/130376996.cms",
+        "published": "Mon, 20 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US-based Glade Brook Capital is in discussions to invest $20-25 million in Sarvam AI's $320-350 million funding round, valuing the AI startup at $1.5 billion. Strategic investors like Nvidia, Amazon, and HCLTech, alongside venture capital firms, are also participating in the round."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/glade-brook-in-talks-to-join-sarvams-funding-ai-startup-may-hit-1-5-billion-valuation/articleshow/130376840.cms",
+        "title": "Glade Brook in talks to join Sarvam\u2019s funding; AI startup may hit $1.5 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/funding/glade-brook-in-talks-to-join-sarvams-funding-ai-startup-may-hit-1-5-billion-valuation/articleshow/130376840.cms",
+        "published": "Mon, 20 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US-based Glade Brook Capital is in discussions to invest $20-25 million in Sarvam AI's $320-350 million funding round, valuing the AI startup at $1.5 billion. Strategic investors like Nvidia, Amazon, and HCLTech, alongside venture capital firms, are also participating in the round."
     }
 ]
