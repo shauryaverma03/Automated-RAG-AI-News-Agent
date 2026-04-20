@@ -198238,5 +198238,37 @@
         "published": "Mon, 20 Apr 2026 21:32:10 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47841129\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+        "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+        "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+        "published": "Mon, 20 Apr 2026 23:10:27 +0000",
+        "source": "TechCrunch",
+        "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return."
+    },
+    {
+        "id": "https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon",
+        "title": "The Lenovo Legion Go S is RAMageddon\u2019s latest victim",
+        "link": "https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon",
+        "published": "2026-04-20T18:49:42-04:00",
+        "source": "The Verge",
+        "summary": "You can still find the Asus Xbox Ally X and the MSI Claw 8 AI Plus for $999 and $1,049 respectively, but Lenovo's Legion Go S has seemingly given up the fight. The best version of Lenovo's 8-inch handheld now costs nearly double what it did at launch - originally $829.99 last summer, the SteamOS [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+        "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+        "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+        "published": "Mon, 20 Apr 2026 22:33:27 +0000",
+        "source": "WIRED",
+        "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes."
+    },
+    {
+        "id": "https://www.engadget.com/ai/amazon-will-invest-up-to-25-billion-in-anthropic-in-a-broad-deal-225239302.html?src=rss",
+        "title": "Amazon will invest up to $25 billion in Anthropic in a broad deal",
+        "link": "https://www.engadget.com/ai/amazon-will-invest-up-to-25-billion-in-anthropic-in-a-broad-deal-225239302.html?src=rss",
+        "published": "Mon, 20 Apr 2026 22:52:39 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Amazon and Anthropic are strengthening their ties once again, with steep financial commitments made on both sides. Today, Amazon <a class=\"link\" href=\"https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai\" target=\"_blank\">announced</a> that it will invest $5 billion in the AI company, along with as much as $20 billion in additional payments if certain milestones are met. This news follows the initial $4 billion investment Amazon made in Anthropic <a cl"
     }
 ]
