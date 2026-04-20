@@ -197934,5 +197934,85 @@
         "published": "Mon, 20 Apr 2026 23:05:19 +0530",
         "source": "Tech-Economic Times",
         "summary": "Lovable data breach: Stockholm-based AI app-building platform Lovable said it did not suffer a data breach after concerns surfaced over the visibility of chat messages and code in projects set to public."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+        "title": "It\u2019s not just one thing \u2014 it\u2019s another thing",
+        "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+        "published": "Mon, 20 Apr 2026 19:37:07 +0000",
+        "source": "TechCrunch",
+        "summary": "This sentence construction (\"It's not just this \u2014 it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic \u2014 it's almost a guarantee."
+    },
+    {
+        "id": "https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes",
+        "title": "Google Photos adds subtle touch-up tools for faces",
+        "link": "https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes",
+        "published": "2026-04-20T15:33:17-04:00",
+        "source": "The Verge",
+        "summary": "Google has announced a new collection of touch-up tools for Google Photos' image editor designed to apply subtle enhancements, refinements, or fixes to faces in photos. The tools are gradually being rolled out on the Google Photos app globally starting today, but only on devices running Android 9.0 and up with at least 4GB of [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser",
+        "title": "Insta360 is putting screens on its next wireless mics to show logos or images",
+        "link": "https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser",
+        "published": "2026-04-20T15:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Insta360's first wireless microphone kit debuted in June with small, lightweight AirTag-sized mics that were easier to wear hidden away. The new Insta360 Mic Pro, which the company is teasing during the 2026 NAB Show in Las Vegas, is instead designed to be prominently displayed. On the front of each transmitter is a round E [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/",
+        "title": "A Hot-Air Balloon Landed in a California Backyard. The Owner Says It's a 'Very Rare' Event",
+        "link": "https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/",
+        "published": "Mon, 20 Apr 2026 18:54:44 +0000",
+        "source": "WIRED",
+        "summary": "Denni Barrett, CEO of Magical Adventures Balloon Rides, says the weekend backyard mishap is a \u201cvery rare\u201d occurrence."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/",
+        "title": "Here's how F1 is tweaking its hybrid systems to try to save the show",
+        "link": "https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/",
+        "published": "Mon, 20 Apr 2026 18:15:50 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Energy management and speed differentials are the problems of the day."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
+        "title": "Robot runner handily beats humans in half-marathon, setting new record",
+        "link": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
+        "published": "Mon, 20 Apr 2026 17:56:27 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "A humanoid robot's record half-marathon run shows China's speed in robotics."
+    },
+    {
+        "id": "https://www.engadget.com/gaming/playstation/sony-will-require-age-checks-in-the-uk-and-ireland-to-access-playstation-communication-features-194916442.html?src=rss",
+        "title": "Sony will require age checks in the UK and Ireland to access PlayStation communication features",
+        "link": "https://www.engadget.com/gaming/playstation/sony-will-require-age-checks-in-the-uk-and-ireland-to-access-playstation-communication-features-194916442.html?src=rss",
+        "published": "Mon, 20 Apr 2026 19:49:16 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Sony is adopting new age verification <a class=\"link\" href=\"https://www.playstation.com/en-gb/support/account/age-verification-faq/\" target=\"_blank\">policies</a> for PlayStation users in the UK and Ireland. The company isn't making this a blanket requirement, but steps to confirm age will be needed to access &quot;communication, broadcasting, and certain in-game features&quot; beginning in June 2026. That includes essentials for online and social gamers, such as joining a party, voice chattin"
+    },
+    {
+        "id": "https://sr.ht/~jprotopopov/kefir/",
+        "title": "Kefir C17/C23 Compiler",
+        "link": "https://sr.ht/~jprotopopov/kefir/",
+        "published": "Fri, 17 Apr 2026 22:12:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47811154\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-easily-encrypt-files-on-android-with-openkeychain/",
+        "title": "How to easily encrypt files on an Android phone - and the free app I use to do it",
+        "link": "https://www.zdnet.com/article/how-to-easily-encrypt-files-on-android-with-openkeychain/",
+        "published": "Mon, 20 Apr 2026 19:21:00 GMT",
+        "source": "Latest news",
+        "summary": "If you need to encrypt a file on your Android device so it can be safely shared with other users, this handy app gets the job done."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/tier-ii-iii-cities-power-india-d2c-driving-66-new-orders-fy26",
+        "title": "Tier II and III cities power India\u2019s D2C, driving 66% of new orders in FY26",
+        "link": "https://yourstory.com/2026/04/tier-ii-iii-cities-power-india-d2c-driving-66-new-orders-fy26",
+        "published": "Mon, 20 Apr 2026 13:36:07 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The report found that 66% of new D2C orders in FY2026 originated from Tier II and Tier III cities, underscoring a significant shift away from metro-dominated ecommerce demand."
     }
 ]
