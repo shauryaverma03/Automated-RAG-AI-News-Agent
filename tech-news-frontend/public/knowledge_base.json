@@ -198174,5 +198174,69 @@
         "published": "Mon, 20 Apr 2026 20:19:13 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47839951\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+        "title": "Google rolls out Gemini in Chrome in seven new countries",
+        "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+        "published": "Mon, 20 Apr 2026 22:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam."
+    },
+    {
+        "id": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+        "title": "John Ternus is taking over from Tim Cook as Apple&#8217;s CEO",
+        "link": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+        "published": "2026-04-20T17:44:15-04:00",
+        "source": "The Verge",
+        "summary": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Cook&#8217;s legacy, and what will Apple look like [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community",
+        "title": "Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO",
+        "link": "https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community",
+        "published": "2026-04-20T17:42:36-04:00",
+        "source": "The Verge",
+        "summary": "Apple CEO Tim Cook has written a letter to the community as he prepares to step down from his role in September. \"This is not goodbye. But at this moment of transition, I wanted to take the opportunity to say thank you,\" Cook writes. As part of the shift, John Ternus, Apple's senior vice president [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
+        "title": "John Ternus will replace Tim Cook as Apple CEO",
+        "link": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
+        "published": "Mon, 20 Apr 2026 21:05:35 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Cook will be executive chairman, but will no longer run the company day to day."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/04/absurdly-bad-study-spurs-headlines-linking-healthy-diet-to-lung-cancer/",
+        "title": "Absurd study suggests eating fruits and vegetables leads to cancer",
+        "link": "https://arstechnica.com/health/2026/04/absurdly-bad-study-spurs-headlines-linking-healthy-diet-to-lung-cancer/",
+        "published": "Mon, 20 Apr 2026 20:53:04 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Experts point out a series of flaws, including small size and no control group."
+    },
+    {
+        "id": "https://www.engadget.com/ai/google-brings-gemini-in-chrome-to-users-in-australia-japan-singapore-and-south-korea-220000474.html?src=rss",
+        "title": "Google brings Gemini in Chrome to users in Australia, Japan, Singapore and South Korea",
+        "link": "https://www.engadget.com/ai/google-brings-gemini-in-chrome-to-users-in-australia-japan-singapore-and-south-korea-220000474.html?src=rss",
+        "published": "Mon, 20 Apr 2026 22:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>After debuting in the US, Gemini in Chrome is making its way to more markets. Starting today, Google is rolling out Chrome's built-in chatbot to users in countries in East Asia and the Pacific, including Australia, Indonesia, Japan, the Philippines, Singapore, South Korea and Vietnam. The expansion comes after Google earlier this year made Gemini in Chrome available to people in <a class=\"link\" href=\"https://www.engadget.com/ai/google-starts-rolling-out-gemini-in-chrome-to-users-in-canada-ind"
+    },
+    {
+        "id": "https://github.com/gizmo64k/soulplayer-c64",
+        "title": "Soul Player C64 \u2013 A real transformer running on a 1 MHz Commodore 64",
+        "link": "https://github.com/gizmo64k/soulplayer-c64",
+        "published": "Mon, 20 Apr 2026 19:51:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47839645\">Comments</a>"
+    },
+    {
+        "id": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+        "title": "Jujutsu megamerges for fun and profit",
+        "link": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+        "published": "Mon, 20 Apr 2026 21:32:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47841129\">Comments</a>"
     }
 ]
