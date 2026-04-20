@@ -198014,5 +198014,85 @@
         "published": "Mon, 20 Apr 2026 13:36:07 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The report found that 66% of new D2C orders in FY2026 originated from Tier II and Tier III cities, underscoring a significant shift away from metro-dominated ecommerce demand."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
+        "title": "Google Photos adds new touch-up tools for \u2018quick\u2019 fixes",
+        "link": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
+        "published": "Mon, 20 Apr 2026 20:20:29 +0000",
+        "source": "TechCrunch",
+        "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos."
+    },
+    {
+        "id": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+        "title": "Silicon Valley has forgotten what normal people want",
+        "link": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+        "published": "2026-04-20T16:30:00-04:00",
+        "source": "The Verge",
+        "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription",
+        "title": "WhatsApp tests &#8216;Plus&#8217; subscription that adds stickers and more for a few bucks a month",
+        "link": "https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription",
+        "published": "2026-04-20T16:12:23-04:00",
+        "source": "The Verge",
+        "summary": "WhatsApp users are getting some new customization features - for a price. According to WABetaInfo, Meta is rolling out a WhatsApp Plus subscription to \"a limited number of users,\" offering several cosmetic and quality of life perks, including exclusive stickers, different app themes, custom app icons, premium ringtones, the ability to pin up to 20 [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten",
+        "title": "Japanese man sentenced to prison for posting spoilers",
+        "link": "https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten",
+        "published": "2026-04-20T16:02:58-04:00",
+        "source": "The Verge",
+        "summary": "Though it's very common for entertainment writers to describe some narrative elements of the films and shows that they're covering, a Japanese court has determined that the practice can sometimes be tantamount to copyright infringement. Last Thursday, the Tokyo District Court ruled that 39-year-old Wataru Takeuchi was guilty of violating Japanese law that prohibits the [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/",
+        "title": "US opens refund portal to start paying back Trump's illegal tariffs",
+        "link": "https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/",
+        "published": "Mon, 20 Apr 2026 18:53:21 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Importers can now request refunds, two months after Trump's Supreme Court loss."
+    },
+    {
+        "id": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+        "title": "F-35 is a masterpiece built for the wrong war",
+        "link": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+        "published": "Mon, 20 Apr 2026 20:07:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47839835\">Comments</a>"
+    },
+    {
+        "id": "https://www.kimi.com/blog/kimi-vendor-verifier",
+        "title": "Kimi vendor verifier \u2013 verify accuracy of inference providers",
+        "link": "https://www.kimi.com/blog/kimi-vendor-verifier",
+        "published": "Mon, 20 Apr 2026 18:39:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47838703\">Comments</a>"
+    },
+    {
+        "id": "https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/",
+        "title": "NASA had to train Apollo 11's astronauts to not use profanity",
+        "link": "https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/",
+        "published": "Mon, 20 Apr 2026 19:47:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47839606\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/Luce-Org/lucebox-hub",
+        "title": "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
+        "link": "https://github.com/Luce-Org/lucebox-hub",
+        "published": "Mon, 20 Apr 2026 18:46:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47838788\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/",
+        "title": "I speed-tested Surfshark's new 'heavenly' Dausos VPN protocol - how it compares to WireGuard",
+        "link": "https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/",
+        "published": "Mon, 20 Apr 2026 20:18:10 GMT",
+        "source": "Latest news",
+        "summary": "The new protocol was built for 'better security and barrier-breaking speeds.' I tested whether it can compete with WireGuard during its early phase."
     }
 ]
