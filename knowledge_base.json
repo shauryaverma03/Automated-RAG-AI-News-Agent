@@ -198094,5 +198094,85 @@
         "published": "Mon, 20 Apr 2026 20:18:10 GMT",
         "source": "Latest news",
         "summary": "The new protocol was built for 'better security and barrier-breaking speeds.' I tested whether it can compete with WireGuard during its early phase."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
+        "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
+        "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
+        "published": "Mon, 20 Apr 2026 20:42:01 +0000",
+        "source": "TechCrunch",
+        "summary": "Senior Vice President of Hardware Engineering John Ternus will take over as CEO at the start of September."
+    },
+    {
+        "id": "https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook",
+        "title": "Apple names Johny Srouji as chief hardware officer",
+        "link": "https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook",
+        "published": "2026-04-20T17:05:59-04:00",
+        "source": "The Verge",
+        "summary": "Apple has appointed Johny Srouji as its new chief hardware officer, \"effective immediately,\" according to an announcement on Monday. He is stepping into the shoes of current hardware engineering head John Ternus, who will replace Tim Cook as CEO in September, while Cook becomes the chairman of the board. Last December, Srouji reassured his team [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus",
+        "title": "Apple CEO Tim Cook is stepping down",
+        "link": "https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus",
+        "published": "2026-04-20T16:42:59-04:00",
+        "source": "The Verge",
+        "summary": "Apple CEO Tim Cook is stepping down and will be succeeded by John Ternus, currently Apple's senior vice president of hardware engineering. Ternus will take over as CEO and join Apple's board of directors on September 1st, 2026. Cook, who joined Apple in 1998 and took over as CEO from Steve Jobs in 2011, will [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/915209/amazon-price-fixing-california-lawsuit",
+        "title": "Here&#8217;s how Amazon&#8217;s price fixing allegedly drove up prices everywhere",
+        "link": "https://www.theverge.com/policy/915209/amazon-price-fixing-california-lawsuit",
+        "published": "2026-04-20T16:39:51-04:00",
+        "source": "The Verge",
+        "summary": "On Monday, California Attorney General Rob Bonta revealed the evidence of alleged price-fixing by Amazon. The state filed a request to the Supreme Court in February for a preliminary injunction to stop Amazon's behavior while the lawsuit it originally filed in 2022 proceeds, and is now making that 16-page document available, \"largely unredacted.\" It lays [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/",
+        "title": "Apple CEO Tim Cook Is Stepping Down",
+        "link": "https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/",
+        "published": "Mon, 20 Apr 2026 21:02:18 +0000",
+        "source": "WIRED",
+        "summary": "John Ternus, the company\u2019s senior vice president of hardware engineering, will replace Cook as CEO on September 1. Cook will stay on as executive chairman."
+    },
+    {
+        "id": "https://www.wired.com/story/wired-at-night-event-ben-mckenzie-reads-mean-tweets/",
+        "title": "Ben McKenzie Says Crypto Has a Secret Ingredient: Male Loneliness",
+        "link": "https://www.wired.com/story/wired-at-night-event-ben-mckenzie-reads-mean-tweets/",
+        "published": "Mon, 20 Apr 2026 20:52:22 +0000",
+        "source": "WIRED",
+        "summary": "The actor-director discussed his least favorite currency and read a series of mean tweets\u2014about us!\u2014at our inaugural WIRED@Night event."
+    },
+    {
+        "id": "https://www.engadget.com/computing/tim-cook-will-step-down-as-204959434.html?src=rss",
+        "title": "John Ternus will be CEO of Apple when Tim Cook steps down this fall",
+        "link": "https://www.engadget.com/computing/tim-cook-will-step-down-as-204959434.html?src=rss",
+        "published": "Mon, 20 Apr 2026 20:59:57 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Apple CEO Tim Cook is officially stepping down from his role on September 1, the <a class=\"link\" href=\"https://www.businesswire.com/news/home/20260420318241/en/Tim-Cook-to-become-Apple-Executive-Chairman-John-Ternus-to-become-Apple-CEO\" target=\"_blank\">company announced today</a>, while current SVP of hardware engineering John Ternus will take over as the new CEO. Cook will transition to a new role as executive chairman of Apple\u2019s Board of Directors. The company says the move was \u201capproved un"
+    },
+    {
+        "id": "https://www.engadget.com/social-media/mastodon-was-hit-by-a-major-ddos-attack-that-briefly-took-down-parts-of-the-service-204823221.html?src=rss",
+        "title": "Mastodon was hit by a 'major' DDoS attack that briefly took down parts of the service",
+        "link": "https://www.engadget.com/social-media/mastodon-was-hit-by-a-major-ddos-attack-that-briefly-took-down-parts-of-the-service-204823221.html?src=rss",
+        "published": "Mon, 20 Apr 2026 20:48:23 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Mastodon seems to be recovering after a Distributed Denial of Service (DDoS) attack that took down its primary mastodon.social instance. As <em>TechCrunch </em><a class=\"link\" href=\"https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/\" target=\"_blank\">notes</a>, the platform began <a class=\"link\" href=\"https://status.mastodon.social/cmo730jrm05ailojla22drifc\" target=\"_blank\">reporting issues</a> early Monday morning as much of the Mastodon-operated ser"
+    },
+    {
+        "id": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "title": "Tim Cook to become Apple Executive Chairman. John Ternus to become CEO",
+        "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "published": "Mon, 20 Apr 2026 20:39:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47840219\">Comments</a>"
+    },
+    {
+        "id": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+        "title": "AI Resistance Is Growing",
+        "link": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+        "published": "Mon, 20 Apr 2026 20:19:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47839951\">Comments</a>"
     }
 ]
