@@ -200078,5 +200078,37 @@
         "published": "Sat, 18 Apr 2026 10:53:42 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47814874\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
+        "title": "Pentagon wants $54B for drones, more than most nations\u2019 military budgets",
+        "link": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
+        "published": "Tue, 21 Apr 2026 21:57:54 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The proposed Pentagon drone investment rivals Ukraine\u2019s entire military budget."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+        "title": "Mozilla: Anthropic's Mythos found 271 zero-day vulnerabilities in Firefox 150",
+        "link": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+        "published": "Tue, 21 Apr 2026 21:40:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "CTO says new AI model is \"every bit as capable\" as world's best security researchers."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/",
+        "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
+        "link": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/",
+        "published": "Tue, 21 Apr 2026 21:28:27 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "FCC tells Supreme Court its fines are nonbinding unless a jury upholds penalty."
+    },
+    {
+        "id": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+        "title": "ChatGPT Images 2.0",
+        "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+        "published": "Tue, 21 Apr 2026 18:50:00 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47852835\">Comments</a>"
     }
 ]
