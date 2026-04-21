@@ -200110,5 +200110,61 @@
         "published": "Tue, 21 Apr 2026 18:50:00 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47852835\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+        "title": "Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims",
+        "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+        "published": "Tue, 21 Apr 2026 23:26:45 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+        "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+        "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+        "published": "Tue, 21 Apr 2026 22:58:22 +0000",
+        "source": "TechCrunch",
+        "summary": "Only Elon would do this before an IPO."
+    },
+    {
+        "id": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+        "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+        "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+        "published": "2026-04-21T18:45:37-04:00",
+        "source": "The Verge",
+        "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/ai/spacex-and-cursor-strike-partnership-that-might-end-in-a-60-billion-acquisition-232131487.html?src=rss",
+        "title": "SpaceX and Cursor strike partnership that might end in a $60 billion acquisition",
+        "link": "https://www.engadget.com/ai/spacex-and-cursor-strike-partnership-that-might-end-in-a-60-billion-acquisition-232131487.html?src=rss",
+        "published": "Tue, 21 Apr 2026 23:21:31 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>SpaceX and AI company Cursor have struck a new partnership that could see the owner of X buy the AI company for $60 billion later this year. \"SpaceXAI and&nbsp; @cursor_ai&nbsp; are now working closely together to create the world\u2019s best coding and knowledge work AI,\" SpaceX wrote in <a class=\"link\" href=\"https://x.com/SpaceX/status/2046713419978453374\" target=\"_blank\">a post</a> on X.&nbsp; </p><div><blockquote class=\"twitter-tweet\" style=\"width: 640px; height: 413px;\"><p dir=\"ltr\" lang=\"en\""
+    },
+    {
+        "id": "https://www.engadget.com/ai/mozilla-says-it-patched-271-firefox-vulnerabilities-thanks-to-anthropics-claude-mythos-224330023.html?src=rss",
+        "title": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos",
+        "link": "https://www.engadget.com/ai/mozilla-says-it-patched-271-firefox-vulnerabilities-thanks-to-anthropics-claude-mythos-224330023.html?src=rss",
+        "published": "Tue, 21 Apr 2026 22:43:30 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Anthropic's buzzy <a class=\"link\" href=\"https://www.engadget.com/ai/anthropic-launches-project-glasswing-an-effort-to-prevent-ai-cyberattacks-with-ai-214939773.html\" target=\"_blank\">announcement</a> about using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozilla <a class=\"link\" href=\"https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/\" target=\"_blank\">shared</a> some details that support use of the company's special Claude M"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+        "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+        "link": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+        "published": "Tue, 21 Apr 2026 22:09:25 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review\u2019s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know about&#8230;"
+    },
+    {
+        "id": "https://www.brex.com/crabtrap",
+        "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+        "link": "https://www.brex.com/crabtrap",
+        "published": "Tue, 21 Apr 2026 15:29:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47850212\">Comments</a>"
     }
 ]
