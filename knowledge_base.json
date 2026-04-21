@@ -199966,5 +199966,117 @@
         "published": "Tue, 21 Apr 2026 12:10:53 GMT",
         "source": "YourStory RSS Feed",
         "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here\u2019s the roundup for Tuesday, April 21, 2026"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+        "title": "Tim Cook is stepping down as CEO of Apple. Here\u2019s a look at his 15-year legacy, from new products and services to China expansion.",
+        "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+        "published": "Tue, 21 Apr 2026 21:09:09 +0000",
+        "source": "TechCrunch",
+        "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse."
+    },
+    {
+        "id": "https://www.theverge.com/policy/915237/palantir-manifesto",
+        "title": "We translated the Palantir manifesto for actual human beings",
+        "link": "https://www.theverge.com/policy/915237/palantir-manifesto",
+        "published": "2026-04-21T17:06:21-04:00",
+        "source": "The Verge",
+        "summary": "Palantir CEO Alex Karp is a man in charge of one of the most important and frightening companies in the world. Karp's new book, co-written with Nicholas Zamiska, is called \"The Technological Republic.\" After claiming \"because we get asked a lot\", Palantir posted a 22-point summary of the book that reads like a corporate manifesto. [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/",
+        "title": "Silo S3 teaser turns back the clock to a greener past",
+        "link": "https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/",
+        "published": "Tue, 21 Apr 2026 20:53:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Before we can know how it will all end, we need to understand how it all began.\""
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+        "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+        "link": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+        "published": "Tue, 21 Apr 2026 20:22:20 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"We actually have slightly more Linux users than Windows users.\""
+    },
+    {
+        "id": "https://www.engadget.com/apps/cash-app-now-supports-accounts-for-kids-6-12-210651025.html?src=rss",
+        "title": "Cash App now supports accounts for kids 6-12",
+        "link": "https://www.engadget.com/apps/cash-app-now-supports-accounts-for-kids-6-12-210651025.html?src=rss",
+        "published": "Tue, 21 Apr 2026 21:06:51 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Cash App, the banking and payments app run by Block, has <a class=\"no-affiliate-link link\" href=\"https://cash.app/press/managed-accounts-families\" target=\"_blank\">added support for parent-managed kids accounts</a>. The new accounts include key benefits from the service's normal account, with an eye towards teaching financial literacy to younger users ages 6 to 12. Cash App first allowed <a class=\"link\" href=\"https://www.engadget.com/square-cash-app-teenagers-bitcoin-195033391.html\" target=\"_b"
+    },
+    {
+        "id": "https://www.engadget.com/entertainment/youtube/youtube-is-muting-push-notifications-from-channels-you-dont-watch-205119228.html?src=rss",
+        "title": "YouTube is muting push notifications from channels you don't watch",
+        "link": "https://www.engadget.com/entertainment/youtube/youtube-is-muting-push-notifications-from-channels-you-dont-watch-205119228.html?src=rss",
+        "published": "Tue, 21 Apr 2026 20:51:19 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p></p><p>YouTube notifications can get messy fast, particularly if you\u2019re subscribed to a lot of different channels. To address that, today the company will begin muting push notifications from creators that you haven\u2019t engaged with in the last month.</p><p>The change to YouTube notifications began as a <a class=\"link\" href=\"https://support.google.com/youtube/thread/18138167?hl=en&amp;msgid=409337144\" target=\"_blank\">small trial the company tested out</a> earlier this year. The idea behind it i"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+        "title": "The new word in home construction could be \u201cplastics\u201d",
+        "link": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+        "published": "Tue, 21 Apr 2026 21:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engineering professor David Hardt, SM&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+        "title": "A natural protein may protect the GI tract from infection",
+        "link": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+        "published": "Tue, 21 Apr 2026 21:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Embedded in the body\u2019s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract.&#160; Intelectin-2 binds to a sugar&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+        "title": "This tool could show how consciousness works",
+        "link": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+        "published": "Tue, 21 Apr 2026 21:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It\u2019s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
+        "title": "Early life may have breathed oxygen earlier than believed",
+        "link": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
+        "published": "Tue, 21 Apr 2026 21:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years before that. By mapping enzyme sequences from&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/",
+        "title": "Analog computing from waste heat",
+        "link": "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/",
+        "published": "Tue, 21 Apr 2026 21:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Heat generated by electronic devices is usually a problem, but a team led by Giuseppe Romano, a research scientist at MIT\u2019s Institute for Soldier Nanotechnologies, has found a way to use it for data processing that doesn\u2019t rely on electricity. In this analog computing method, input data is encoded not as binary 1s and 0s&#8230;"
+    },
+    {
+        "id": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+        "title": "I don't want your PRs anymore",
+        "link": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+        "published": "Tue, 21 Apr 2026 20:21:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47854051\">Comments</a>"
+    },
+    {
+        "id": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
+        "title": "California has more money than projected after admin miscalculated state budget",
+        "link": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
+        "published": "Tue, 21 Apr 2026 20:28:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47854125\">Comments</a>"
+    },
+    {
+        "id": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+        "title": "10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+        "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+        "published": "Sat, 18 Apr 2026 10:53:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47814874\">Comments</a>"
     }
 ]
