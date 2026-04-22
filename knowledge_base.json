@@ -201662,5 +201662,93 @@
         "published": "Wed, 22 Apr 2026 16:07:47 GMT",
         "source": "YourStory RSS Feed",
         "summary": "From a Delhi slum to the UN: How Devendra Kumar's Ladli Foundation is changing 30 lakh lives\nNot many people can say they learned to survive"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+        "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+        "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+        "published": "Wed, 22 Apr 2026 19:51:51 +0000",
+        "source": "TechCrunch",
+        "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+        "title": "France confirms data breach at government agency that manages citizens\u2019 IDs",
+        "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+        "published": "Wed, 22 Apr 2026 19:34:41 +0000",
+        "source": "TechCrunch",
+        "summary": "The French government agency that issues and manages national IDs, passports, and other documents, announced that hackers stole the personal information of an unspecified number of citizens."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+        "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+        "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+        "published": "Wed, 22 Apr 2026 19:13:02 +0000",
+        "source": "TechCrunch",
+        "summary": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/",
+        "title": "You want your Moon landings in HDTV? So does NASA\u2014here's how it's happening.",
+        "link": "https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/",
+        "published": "Wed, 22 Apr 2026 19:42:13 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"You just push this button, and in three hours, you're counting photons.\""
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+        "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+        "link": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+        "published": "Wed, 22 Apr 2026 19:32:56 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "When authentication fails, things can go very, very wrong."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+        "title": "Anthropic tested removing Claude Code from the Pro plan",
+        "link": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+        "published": "Wed, 22 Apr 2026 18:34:16 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Untenable demand has Anthropic exploring new approaches to rationing its service."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/04/coyote-vs-acme-is-finally-getting-released-with-a-killer-trailer/",
+        "title": "Coyote vs. Acme is finally getting released\u2014with a killer trailer",
+        "link": "https://arstechnica.com/culture/2026/04/coyote-vs-acme-is-finally-getting-released-with-a-killer-trailer/",
+        "published": "Wed, 22 Apr 2026 17:55:09 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "What was Warner Bros. even thinking, shelving this film for so many years?"
+    },
+    {
+        "id": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+        "title": "Scores decline again for 13-year-old students in reading and mathematics",
+        "link": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+        "published": "Wed, 22 Apr 2026 18:57:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47867755\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tsmc-plans-to-open-chip-packaging-plant-in-arizona-by-2029-executive-says/articleshow/130450997.cms",
+        "title": "TSMC plans to open chip packaging plant in Arizona by 2029, executive says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tsmc-plans-to-open-chip-packaging-plant-in-arizona-by-2029-executive-says/articleshow/130450997.cms",
+        "published": "Thu, 23 Apr 2026 00:39:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Modern artificial intelligence chips, such as those made by Nvidia, are not single chips but several chips glued together with advanced packaging technologies, a step that has become a supply \u200cbottleneck for Nvidia \u2060and others. \u2060In a January earnings call, TSMC said it was applying for permits to begin construction \u200bof its first advanced packaging plant in an existing Arizona facility, but did not give \u200ba timeline for when it will come online."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sundar-pichai-reaffirms-185-billion-capex-spending-by-google-in-2026/articleshow/130450916.cms",
+        "title": "Sundar Pichai reaffirms $185 billion capex spending by Google in 2026",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sundar-pichai-reaffirms-185-billion-capex-spending-by-google-in-2026/articleshow/130450916.cms",
+        "published": "Thu, 23 Apr 2026 00:33:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Google plans a massive $185 billion investment in artificial intelligence infrastructure this year. CEO Sundar Pichai highlighted AI's growing role in software development and security. New platforms like Gemini Enterprise Agent and advanced chips like TPU 8t and TPU 8i are being introduced. This significant spending signals Google's strong focus on enterprise AI solutions and future growth."
+    },
+    {
+        "id": "https://inc42.com/buzz/rbi-floats-new-draft-rules-to-govern-prepaid-payment-instruments/",
+        "title": "RBI Floats New Draft Rules To Govern Prepaid Payment Instruments",
+        "link": "https://inc42.com/buzz/rbi-floats-new-draft-rules-to-govern-prepaid-payment-instruments/",
+        "published": "Wed, 22 Apr 2026 19:25:05 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/0205_MPC-RBI_Feature.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Reserve Bank of India (RBI) yesterday issued the draft framework to regulate prepaid payment instruments (PPIs). Called the draft&#8230;"
     }
 ]
