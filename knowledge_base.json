@@ -200166,5 +200166,85 @@
         "published": "Tue, 21 Apr 2026 15:29:16 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47850212\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+        "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+        "link": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+        "published": "Wed, 22 Apr 2026 00:37:33 +0000",
+        "source": "TechCrunch",
+        "summary": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+        "title": "Meta will record employees\u2019 keystrokes and use it to train its AI models",
+        "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+        "published": "Tue, 21 Apr 2026 23:45:21 +0000",
+        "source": "TechCrunch",
+        "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
+    },
+    {
+        "id": "https://twitter.com/spacex/status/2046713419978453374",
+        "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+        "link": "https://twitter.com/spacex/status/2046713419978453374",
+        "published": "Tue, 21 Apr 2026 22:13:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47855293\">Comments</a>"
+    },
+    {
+        "id": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+        "title": "Windows Server 2025 Runs Better on ARM",
+        "link": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+        "published": "Sun, 19 Apr 2026 04:28:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47821801\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/motorola-is-beating-samsung-at-making-flip-phones-heres-why/",
+        "title": "I'm putting Motorola above Samsung when it comes to flip phones - and won't think twice",
+        "link": "https://www.zdnet.com/article/motorola-is-beating-samsung-at-making-flip-phones-heres-why/",
+        "published": "Wed, 22 Apr 2026 00:00:49 GMT",
+        "source": "Latest news",
+        "summary": "Here's why Motorola owns half the US foldable market, despite competition from Samsung and Google."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/persistents-q4-net-profit-up-34-to-rs-529-crore/articleshow/130425322.cms",
+        "title": "Persistent\u2019s Q4 net profit up 34% to Rs 529 crore",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/persistents-q4-net-profit-up-34-to-rs-529-crore/articleshow/130425322.cms",
+        "published": "Wed, 22 Apr 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Revenue increased 25.1% year-on-year and 7.4% quarter-on-quarter to Rs 4,055.9 crore, supported by a 24.3% year-on-year growth in the banking, financial services and insurance (BFSI) segment, and 11.2% year-on-year growth in the software, hi-tech and emerging industries verticals. The company\u2019s healthcare and life sciences vertical clocked a 14.1% growth, after lagging in the previous quarter, its filings showed."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/management-change-being-closely-watched/articleshow/130426527.cms",
+        "title": "Infosys set to discuss CEO transition after Salil Parekh",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/management-change-being-closely-watched/articleshow/130426527.cms",
+        "published": "Wed, 22 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Infosys board members are set to discuss leadership changes. Current CEO Salil Parekh's term concludes soon. A two-year extension is anticipated to manage succession planning. This transition is crucial for maintaining stability amid industry disruptions. Investors are closely monitoring the situation for future leadership."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/art-of-ai-war-sarvam-to-boost-defence-prowess/articleshow/130426430.cms",
+        "title": "Art of AI war: Sarvam to boost defence prowess",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/art-of-ai-war-sarvam-to-boost-defence-prowess/articleshow/130426430.cms",
+        "published": "Wed, 22 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is boosting its defence capabilities with a new Rs 300 crore Centre of Excellence for artificial intelligence. Homegrown labs like Sarvam are in talks with the defence ministry. This initiative aims to develop AI systems tailored for India's unique operational needs. The goal is to reduce reliance on foreign technology and enhance national security."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/immigrants-in-a-spot-as-us-looks-to-vet-old-green-card-approvals/articleshow/130425410.cms",
+        "title": "Immigrants in a spot as US looks to vet old green card approvals",
+        "link": "https://economictimes.indiatimes.com/tech/technology/immigrants-in-a-spot-as-us-looks-to-vet-old-green-card-approvals/articleshow/130425410.cms",
+        "published": "Wed, 22 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "USCIS director Joseph B Edlow this weekend said the agency will reopen old cases to vet Biden-era green cards for fraud. This comes amid tighter scrutiny of issuance of green cards and a rise in denial rates."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-q4-net-profit-up-4-2-yoy-to-rs-4488-crore/articleshow/130425353.cms",
+        "title": "HCLTech Q4 net profit up 4.2% YoY to Rs 4,488 crore",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-q4-net-profit-up-4-2-yoy-to-rs-4488-crore/articleshow/130425353.cms",
+        "published": "Wed, 22 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The HCLTech management attributed the subdued quarterly performance to macro-uncertainties clouding the tech investment landscape and said AI-led automation could impact FY27 revenues by 2-4% though the company is seeking to offset it through more projects."
     }
 ]
