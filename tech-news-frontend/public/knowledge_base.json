@@ -203454,5 +203454,61 @@
         "published": "Thu, 23 Apr 2026 14:38:37 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The planned investment comes as part of the company\u2019s broader commitment to invest over $35 billion in India by 2030, with a focus on AI-led digitisation, export growth, and job creation."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+        "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+        "published": "2026-04-23T18:27:11-04:00",
+        "source": "The Verge",
+        "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran\u2019s Nuclear Program\u2014and Predates Stuxnet",
+        "link": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "published": "Thu, 23 Apr 2026 22:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005\u2014and likely deployed by the US or an ally."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
+        "title": "US accuses China of \u201cindustrial-scale\u201d AI theft. China says it\u2019s \u201cslander.\u201d",
+        "link": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
+        "published": "Thu, 23 Apr 2026 21:45:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Trump-Xi summit may be rocked by US mulling huge sanctions."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
+        "title": "Carbon nanotube wiring gets closer to competing with copper",
+        "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
+        "published": "Thu, 23 Apr 2026 21:22:09 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "While this material degrades over time, it could point to better ones."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+        "title": "We still don't have a more precise value for \"Big G\"",
+        "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+        "published": "Thu, 23 Apr 2026 20:57:35 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Such experiments bring \"order to the universe, whether or not the number agrees with the expected value.\u201d"
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+        "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+        "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+        "published": "Thu, 23 Apr 2026 20:41:23 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?"
+    },
+    {
+        "id": "https://github.com/refactoringhq/tolaria",
+        "title": "Show HN: Tolaria \u2013 open-source macOS app to manage Markdown knowledge bases",
+        "link": "https://github.com/refactoringhq/tolaria",
+        "published": "Thu, 23 Apr 2026 22:01:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47882697\">Comments</a>"
     }
 ]
