@@ -203790,5 +203790,77 @@
         "published": "Fri, 24 Apr 2026 09:26:52 +0530",
         "source": "Tech-Economic Times",
         "summary": "OpenAI unveils GPT-5.5, its most advanced model for research, capable of handling complex tasks with minimal guidance. This new AI can plan, use tools, and self-correct, marking a significant step towards machines accelerating AI research and potentially AGI. It's now available to Plus, Pro, Business, and Enterprise users."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/917462/saros-review-ps5",
+        "title": "Saros is pure action nirvana",
+        "link": "https://www.theverge.com/entertainment/917462/saros-review-ps5",
+        "published": "2026-04-24T03:00:00-04:00",
+        "source": "The Verge",
+        "summary": "The alien world of Saros feels like it has been touched by King Midas. The sky is golden after another impossibly frequent solar eclipse; rocks, specifically those of the precious resource Lucenite, radiate a shimmering amber. Even the body of our gruff hero Arjun Devraj (played by Rahul Kohli) is liable to turn deep, opulent [&#8230;]"
+    },
+    {
+        "id": "https://www.cambra.dev/blog/announcement/",
+        "title": "Composition Shouldn't be this Hard",
+        "link": "https://www.cambra.dev/blog/announcement/",
+        "published": "Fri, 24 Apr 2026 07:22:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47886773\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/government-adoption-of-ai-agents-may-outpace-the-private-sector/",
+        "title": "Government adoption of AI agents could outpace the private sector",
+        "link": "https://www.zdnet.com/article/government-adoption-of-ai-agents-may-outpace-the-private-sector/",
+        "published": "Fri, 24 Apr 2026 07:00:36 GMT",
+        "source": "Latest news",
+        "summary": "According to a new survey, most government leaders expect that AI will surpass the internet, PCs, and even smartphones in its impact on the workforce."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/tech-investor-lachy-groom-in-talks-to-back-pronto-valuation-to-double/articleshow/130488246.cms",
+        "title": "Tech investor Lachy Groom in talks to back Pronto; valuation to double",
+        "link": "https://economictimes.indiatimes.com/tech/funding/tech-investor-lachy-groom-in-talks-to-back-pronto-valuation-to-double/articleshow/130488246.cms",
+        "published": "Fri, 24 Apr 2026 13:58:48 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US investor Lachy Groom is in talks to invest $15-20 million in Pronto. This funding round values the instant househelp startup at $200 million. Pronto's valuation has doubled since its last raise in March. The sector is attracting significant investment due to rapid growth."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/youtube-offers-deepfake-detection-to-hollywood/articleshow/130487642.cms",
+        "title": "YouTube offers deepfake detection to Hollywood",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/youtube-offers-deepfake-detection-to-hollywood/articleshow/130487642.cms",
+        "published": "Fri, 24 Apr 2026 13:24:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "YouTube is now offering Hollywood celebrities and entertainers a free deepfake detection tool to combat AI-driven impersonations. This expansion of their likeness protection technology aims to help artists identify and request removal of manipulated content, safeguarding their careers and public image in the face of advancing AI."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/norway-plans-to-ban-social-media-use-by-children-under-16/articleshow/130487521.cms",
+        "title": "Norway plans to ban social media use by children under 16",
+        "link": "https://economictimes.indiatimes.com/tech/technology/norway-plans-to-ban-social-media-use-by-children-under-16/articleshow/130487521.cms",
+        "published": "Fri, 24 Apr 2026 13:18:52 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Norway plans to ban children under 16 from social media. A bill will be presented to parliament by year-end. Technology companies will be responsible for age verification. This move aims to protect children's digital lives and ensure they experience a normal childhood. Other European nations are also considering similar measures."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/startup-news-and-updates-daily-roundup-april-24-2026",
+        "title": "Startup news and updates: daily roundup (April 24, 2026)",
+        "link": "https://yourstory.com/2026/04/startup-news-and-updates-daily-roundup-april-24-2026",
+        "published": "Fri, 24 Apr 2026 08:37:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here is the roundup for Friday,  April 24,  2026."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/swiggy-opens-ai-commerce-stack-to-external-developers-with-builders-club",
+        "title": "Swiggy opens AI commerce stack to external developers with Builders Club",
+        "link": "https://yourstory.com/2026/04/swiggy-opens-ai-commerce-stack-to-external-developers-with-builders-club",
+        "published": "Fri, 24 Apr 2026 08:33:50 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The new initiative is aimed at expanding the AI ecosystem of Swiggy with the opportunity for outsiders to build new applications with real life use cases."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/advancing-womens-reproductive-rights",
+        "title": "Advancing women\u2019s reproductive rights; CENT opens flagship centre in Bengaluru",
+        "link": "https://yourstory.com/2026/04/advancing-womens-reproductive-rights",
+        "published": "Fri, 24 Apr 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Founded in 2009 as an NGO, FRHS India is an affiliate of the global not-for-profit MSI Reproductive Choices, which operates in 37 countries."
     }
 ]
