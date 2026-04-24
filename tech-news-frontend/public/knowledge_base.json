@@ -204982,5 +204982,53 @@
         "published": "Fri, 24 Apr 2026 13:26:50 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Venture capital funding into Indian startups continues to remain below the $100 million level and this is largely due to the absence of large value deals."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+        "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+        "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+        "published": "Fri, 24 Apr 2026 21:53:44 +0000",
+        "source": "TechCrunch",
+        "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
+        "title": "Europe\u2014not US\u2014first to authorize Moderna's combo mRNA flu-COVID vaccine",
+        "link": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
+        "published": "Fri, 24 Apr 2026 21:11:43 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Amid RFK Jr.'s anti-vaccine agenda, Moderna withdrew its FDA application last year."
+    },
+    {
+        "id": "https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss",
+        "title": "XChat, the standalone app for messaging on X, is available on iOS now",
+        "link": "https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss",
+        "published": "Fri, 24 Apr 2026 21:48:26 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>XChat, the standalone app for accessing X's messaging feature, is available to download now <a class=\"no-affiliate-link link\" href=\"https://apps.apple.com/us/app/xchat/id6760873038\" target=\"_blank\">for iOS</a>. X first suggested it would be <a class=\"link\" href=\"https://www.engadget.com/social-media/x-may-soon-replace-dms-with-its-upcoming-chat-platform-171006540.html\" target=\"_blank\">stripping direct messaging from X in 2025</a>, but at least for now, XChat is available in the original X app"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+        "title": "Three reasons why DeepSeek\u2019s new model V4 matters",
+        "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+        "published": "Fri, 24 Apr 2026 21:40:58 +0000",
+        "source": "MIT Technology Review",
+        "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek\u2019s previous models, V4 is open source, meaning it is available&#8230;"
+    },
+    {
+        "id": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+        "title": "Google Plans to Invest Up to $40B in Anthropic",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+        "published": "Fri, 24 Apr 2026 16:04:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47892074\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/oolka-raises-rs-130-cr-in-series-a-funding-round-led-by-accel",
+        "title": "Oolka raises Rs 130 Cr in Series A funding round led by Accel",
+        "link": "https://yourstory.com/2026/04/oolka-raises-rs-130-cr-in-series-a-funding-round-led-by-accel",
+        "published": "Fri, 24 Apr 2026 13:08:07 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The funding round also saw participation from existing investors Lightspeed and Z47 (formerly Matrix Partners India)."
     }
 ]
