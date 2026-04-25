@@ -205534,5 +205534,37 @@
         "published": "Sat, 25 Apr 2026 20:30:19 +0530",
         "source": "Tech-Economic Times",
         "summary": "Salesforce CEO Marc Benioff announced plans to hire 1,000 graduates and interns to support expanding AI products, countering concerns about AI eliminating entry-level jobs. This hiring initiative follows news of fewer than 1,000 job cuts in February, impacting roles like marketing and product management."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+        "title": "Why Cohere is merging with Aleph Alpha",
+        "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+        "published": "Sat, 25 Apr 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players."
+    },
+    {
+        "id": "https://www.engadget.com/science/nasas-initial-takeaways-from-the-artemis-ii-mission-and-more-science-stories-160000808.html?src=rss",
+        "title": "NASA's initial takeaways from the Artemis II mission, and more science stories",
+        "link": "https://www.engadget.com/science/nasas-initial-takeaways-from-the-artemis-ii-mission-and-more-science-stories-160000808.html?src=rss",
+        "published": "Sat, 25 Apr 2026 16:00:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Now that <a class=\"link\" href=\"https://www.engadget.com/science/space/the-artemis-ii-astronauts-are-back-after-a-10-day-journey-around-the-moon-033800654.html\" target=\"_blank\">Artemis II is all wrapped up</a>, NASA has begun its post-game performance analyses of all the systems that worked together to get four astronauts safely to the moon and back earlier this month. In addition to taking humans farther than ever before, Artemis II served as a crucial test flight for upcoming crewed missions"
+    },
+    {
+        "id": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+        "title": "GPT 5.5 biosafety bounty",
+        "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+        "published": "Sat, 25 Apr 2026 14:17:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47901734\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/pine-labs-acquires-d2c-saas-startup-shopflo-for-rs-88-cr",
+        "title": "Pine Labs acquires D2C SaaS startup Shopflo for Rs 88 Cr",
+        "link": "https://yourstory.com/2026/04/pine-labs-acquires-d2c-saas-startup-shopflo-for-rs-88-cr",
+        "published": "Sat, 25 Apr 2026 14:09:18 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The acquisition will help Pine Labs offer an end-to-end platform for D2C merchants, spanning in-store payments, online checkout and conversion optimisation, growth tools, and consumer engagement and retention capabilities."
     }
 ]
