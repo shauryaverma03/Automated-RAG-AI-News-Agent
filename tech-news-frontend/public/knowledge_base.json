@@ -205078,5 +205078,85 @@
         "published": "Sat, 25 Apr 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "AI firm Anthropic is in talks with governments worldwide, including India, about safeguarding critical infrastructure. This is ahead of the public release of its powerful Claude Mythos AI model. The model could expose significant vulnerabilities. Indian tech industry body Nasscom and the Indian government are seeking early access to the model to enhance cybersecurity."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+        "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+        "link": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+        "published": "Sat, 25 Apr 2026 03:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
+        "title": "This is who's developing Golden Dome's orbital interceptors\u2014if they're ever built",
+        "link": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
+        "published": "Sat, 25 Apr 2026 02:52:37 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"If boost-phase intercept from space is not affordable and scalable, we will not produce it.\""
+    },
+    {
+        "id": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+        "title": "Paraloid B-72",
+        "link": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+        "published": "Wed, 22 Apr 2026 04:17:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47858939\">Comments</a>"
+    },
+    {
+        "id": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+        "title": "Humpback whales are forming super-groups",
+        "link": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+        "published": "Wed, 22 Apr 2026 02:55:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47858294\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/under-blackout-threat-wikimedia-reaches-compromise-with-indonesia/articleshow/130507231.cms",
+        "title": "Under blackout threat, Wikimedia reaches compromise with Indonesia",
+        "link": "https://economictimes.indiatimes.com/tech/technology/under-blackout-threat-wikimedia-reaches-compromise-with-indonesia/articleshow/130507231.cms",
+        "published": "Sat, 25 Apr 2026 08:34:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Wikimedia Foundation reached a compromise with the Indonesian government, averting a potential Wikipedia block. The foundation secured assurances against unlawful content takedowns and data disclosure, resolving concerns over invasive domestic registration rules. This agreement allows Wikimedia to proceed with administrative steps."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/related-digital-secures-financing-for-16-billion-oracle-data-centre-in-michigan/articleshow/130507065.cms",
+        "title": "Related Digital secures financing for $16 billion Oracle data centre in Michigan",
+        "link": "https://economictimes.indiatimes.com/tech/funding/related-digital-secures-financing-for-16-billion-oracle-data-centre-in-michigan/articleshow/130507065.cms",
+        "published": "Sat, 25 Apr 2026 08:19:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Related Digital has secured $16 billion in financing for its Michigan data centre campus, a project for Oracle. The funding includes equity from Related Digital and Blackstone, alongside long-term debt financing anchored by PIMCO-managed funds. This development is part of a broader push by tech giants to expand U.S."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/cftc-sues-new-york-to-block-oversight-of-prediction-markets/articleshow/130506616.cms",
+        "title": "CFTC sues New York to block oversight of prediction markets",
+        "link": "https://economictimes.indiatimes.com/tech/technology/cftc-sues-new-york-to-block-oversight-of-prediction-markets/articleshow/130506616.cms",
+        "published": "Sat, 25 Apr 2026 07:06:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The CFTC sued New York, alleging the state's lawsuits against prediction market operators like Coinbase and Gemini infringe on federal regulatory authority. New York's Attorney General argued these markets are gambling and violate state consumer protection laws, a stance criticized by the CFTC as overreach."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms/articleshow/130506577.cms",
+        "title": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms/articleshow/130506577.cms",
+        "published": "Sat, 25 Apr 2026 06:57:34 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The US State Department is urging global attention to Chinese firms, including DeepSeek, accused of stealing AI intellectual property. A diplomatic cable details concerns over \"adversaries' extraction and distillation of U.S. A.I. models,\" aiming to counter low-cost replication of advanced AI. China denies these allegations."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/creativity-sustainability-fashion-whitefield-art-collective-photography",
+        "title": "Creativity, sustainability, fashion: Whitefield Art Collective wraps up its 9th festival",
+        "link": "https://yourstory.com/2026/04/creativity-sustainability-fashion-whitefield-art-collective-photography",
+        "published": "Sat, 25 Apr 2026 02:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In this photo essay, we feature highlights from WAC 2026 at VR Bengaluru."
+    },
+    {
+        "id": "https://inc42.com/buzz/from-lightfury-games-to-stch-indian-startups-raised-39-mn-this-week/",
+        "title": "From LightFury Games To STCH \u2014 Indian Startups Raised $39 Mn This Week",
+        "link": "https://inc42.com/buzz/from-lightfury-games-to-stch-indian-startups-raised-39-mn-this-week/",
+        "published": "Sat, 25 Apr 2026 03:30:18 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"From LightFury Games To STCH \u2014 Indian Startups Raised $39 Mn This Week\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/zunroof-funding-featured-2.jpeg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Funding trends continued to remain subdued for the world&#8217;s third largest startup ecosystem this week. Between April 20 and 24,&#8230;"
     }
 ]
