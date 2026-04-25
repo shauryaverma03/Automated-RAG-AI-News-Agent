@@ -205190,5 +205190,37 @@
         "published": "Sat, 25 Apr 2026 09:57:19 +0530",
         "source": "Tech-Economic Times",
         "summary": "Elon Musk and Sam Altman, co-founders of OpenAI, are set to face off in court over a clash of visions regarding artificial intelligence. Their initial collaboration, driven by a shared concern for AI's future, has fractured due to differing approaches to its development and commercialization."
+    },
+    {
+        "id": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+        "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+        "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+        "published": "Sat, 25 Apr 2026 05:56:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47899053\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-apologises-after-openai-failed-to-alert-police-before-tumbler-ridge-killings/articleshow/130510511.cms",
+        "title": "Sam Altman apologises after OpenAI failed to alert police before Tumbler Ridge killings",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-apologises-after-openai-failed-to-alert-police-before-tumbler-ridge-killings/articleshow/130510511.cms",
+        "published": "Sat, 25 Apr 2026 13:01:06 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI CEO Sam Altman apologised for not alerting law enforcement about an account banned in June, which was later linked to a mass shooting in Tumbler Ridge, British Columbia. The company had identified the account's \"furtherance of violent activities\" but deemed it below the threshold for referral."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/top-five-it-firms-cut-nearly-7000-jobs-in-fy26/articleshow/130510007.cms",
+        "title": "India's top five IT firms cut nearly 7,000 jobs in FY26",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/top-five-it-firms-cut-nearly-7000-jobs-in-fy26/articleshow/130510007.cms",
+        "published": "Sat, 25 Apr 2026 12:30:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's top IT firms saw a hiring pullback in FY26, with the five major players reducing staff by nearly 7,000. This shift from expansion to efficiency, driven by AI and uncertain demand, sees a move towards specialised skills. Despite this, overall industry employment saw marginal growth, largely from global capability centres."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-judge-dismisses-elon-musks-fraud-claims-in-openai-case-at-his-request-plans-to-proceed-to-trial/articleshow/130509943.cms",
+        "title": "US judge dismisses Elon Musk's fraud claims in OpenAI case at his request, plans to proceed to trial",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-judge-dismisses-elon-musks-fraud-claims-in-openai-case-at-his-request-plans-to-proceed-to-trial/articleshow/130509943.cms",
+        "published": "Sat, 25 Apr 2026 12:16:54 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A US judge has dismissed Elon Musk's fraud claims against OpenAI and Sam Altman. However, the case will proceed to trial on Musk's claims of breach of charitable trust and unjust enrichment. Jury selection begins Monday, with opening arguments Tuesday. Musk seeks $150 billion in damages for OpenAI's charitable arm."
     }
 ]
