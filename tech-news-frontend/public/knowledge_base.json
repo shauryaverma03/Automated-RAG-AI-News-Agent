@@ -205038,5 +205038,45 @@
         "published": "Fri, 24 Apr 2026 21:01:50 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47895765\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+        "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: \u2018I was duped and feel silly\u2019",
+        "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+        "published": "Fri, 24 Apr 2026 23:32:11 +0000",
+        "source": "TechCrunch",
+        "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+        "title": "Google will invest as much as $40 billion in Anthropic",
+        "link": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+        "published": "Fri, 24 Apr 2026 22:05:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "This follows a similar, but smaller, investment by Amazon just days ago."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/googles-15-billion-data-centre-in-vizag-to-host-5-gw-capacity/articleshow/130502692.cms",
+        "title": "Google's $15 billion data centre in Vizag to host 5-GW capacity",
+        "link": "https://economictimes.indiatimes.com/tech/technology/googles-15-billion-data-centre-in-vizag-to-host-5-gw-capacity/articleshow/130502692.cms",
+        "published": "Sat, 25 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Google Cloud is building a massive AI-ready data centre in Vishakhapatnam. It will have a capacity of 5 gigawatts. This investment is Google's largest in India. The project will be completed over five years. The new campus will be part of Google's global network. It will enhance data transfer capabilities."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/spacetech-startups-spot-promise-in-defence-apps-its-road-of-tough-choices/articleshow/130502587.cms",
+        "title": "Spacetech startups spot promise in defence apps; it's road of tough choices",
+        "link": "https://economictimes.indiatimes.com/tech/startups/spacetech-startups-spot-promise-in-defence-apps-its-road-of-tough-choices/articleshow/130502587.cms",
+        "published": "Sat, 25 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In response to escalating geopolitical strains, Indian spacetech startups are making a bold pivot from commercial focuses to military applications. Slower adoption rates in the enterprise sector have spurred founders to focus on securing government contracts, offering more predictable budgets and expedited revenue streams."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/before-mythos-goes-public-indian-it-also-wants-access/articleshow/130502490.cms",
+        "title": "Before Mythos goes public, Indian IT also wants access",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/before-mythos-goes-public-indian-it-also-wants-access/articleshow/130502490.cms",
+        "published": "Sat, 25 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI firm Anthropic is in talks with governments worldwide, including India, about safeguarding critical infrastructure. This is ahead of the public release of its powerful Claude Mythos AI model. The model could expose significant vulnerabilities. Indian tech industry body Nasscom and the Indian government are seeking early access to the model to enhance cybersecurity."
     }
 ]
