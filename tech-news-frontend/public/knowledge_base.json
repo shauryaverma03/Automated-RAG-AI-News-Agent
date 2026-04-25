@@ -205398,5 +205398,53 @@
         "published": "Sat, 25 Apr 2026 12:15:41 GMT",
         "source": "Latest news",
         "summary": "The Terramaster D1 SSD enclosure is built for speed, but it can also survive anything you (or Mother Nature) throw at it."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+        "title": "The Govee smart lamp brightened up my room, and then my life",
+        "link": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+        "published": "2026-04-25T09:30:00-04:00",
+        "source": "The Verge",
+        "summary": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
+        "title": "Xbox\u2019s weirdest studio is on a roll",
+        "link": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
+        "published": "2026-04-25T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "For a while there, it seemed like Double Fine might be struggling under the Microsoft corporate umbrella. The game studio led by Tim Schafer is beloved for offbeat titles like Br&#252;tal Legend and Broken Age, but after being acquired by Microsoft in 2019, its only new release for years was a long-awaited sequel to Psychonauts. [&#8230;]"
+    },
+    {
+        "id": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+        "title": "1-Bit Hokusai's \"The Great Wave\"",
+        "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+        "published": "Wed, 22 Apr 2026 13:46:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47863570\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/MartinGalway/C64_music",
+        "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+        "link": "https://github.com/MartinGalway/C64_music",
+        "published": "Sat, 25 Apr 2026 10:46:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47900398\">Comments</a>"
+    },
+    {
+        "id": "https://victortaelin.github.io/lambench/",
+        "title": "Lambda Calculus Benchmark for AI",
+        "link": "https://victortaelin.github.io/lambench/",
+        "published": "Sat, 25 Apr 2026 11:16:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47900506\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/groww-bluestone-surge-amid-a-mixed-week-for-new-age-tech-stocks/",
+        "title": "Groww, BlueStone Surge Amid A Mixed Week For New-Age Tech Stocks",
+        "link": "https://inc42.com/buzz/groww-bluestone-surge-amid-a-mixed-week-for-new-age-tech-stocks/",
+        "published": "Sat, 25 Apr 2026 13:01:18 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Groww, BlueStone Surge Amid A Mixed Week For New-Age Tech Stocks\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1021\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/Feature-100-16.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1361\" />New-age tech stocks saw a mixed week amid uneasy ceasefire in West Asia, Q4 earnings season, and continued selling by&#8230;"
     }
 ]
