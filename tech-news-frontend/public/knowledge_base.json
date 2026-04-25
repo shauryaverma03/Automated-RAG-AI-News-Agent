@@ -205222,5 +205222,13 @@
         "published": "Sat, 25 Apr 2026 12:16:54 +0530",
         "source": "Tech-Economic Times",
         "summary": "A US judge has dismissed Elon Musk's fraud claims against OpenAI and Sam Altman. However, the case will proceed to trial on Musk's claims of breach of charitable trust and unjust enrichment. Jury selection begins Monday, with opening arguments Tuesday. Musk seeks $150 billion in damages for OpenAI's charitable arm."
+    },
+    {
+        "id": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
+        "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
+        "link": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
+        "published": "Sat, 25 Apr 2026 10:00:00 GMT",
+        "source": "Latest news",
+        "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed."
     }
 ]
