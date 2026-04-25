@@ -205566,5 +205566,29 @@
         "published": "Sat, 25 Apr 2026 14:09:18 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The acquisition will help Pine Labs offer an end-to-end platform for D2C merchants, spanning in-store payments, online checkout and conversion optimisation, growth tools, and consumer engagement and retention capabilities."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+        "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+        "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+        "published": "Sat, 25 Apr 2026 17:17:56 +0000",
+        "source": "TechCrunch",
+        "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+        "title": "The climate tech IPO window could finally be cracking open",
+        "link": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+        "published": "Sat, 25 Apr 2026 16:33:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?"
+    },
+    {
+        "id": "https://github.com/niri-wm/niri/releases/tag/v26.04",
+        "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
+        "link": "https://github.com/niri-wm/niri/releases/tag/v26.04",
+        "published": "Sat, 25 Apr 2026 15:59:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47902416\">Comments</a>"
     }
 ]
