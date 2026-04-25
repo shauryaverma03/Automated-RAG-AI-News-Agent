@@ -205230,5 +205230,45 @@
         "published": "Sat, 25 Apr 2026 10:00:00 GMT",
         "source": "Latest news",
         "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed."
+    },
+    {
+        "id": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+        "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+        "link": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+        "published": "Sat, 25 Apr 2026 09:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players."
+    },
+    {
+        "id": "https://github.com/nex-crm/wuphf",
+        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+        "link": "https://github.com/nex-crm/wuphf",
+        "published": "Sat, 25 Apr 2026 08:53:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47899844\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/pine-labs-acquires-100-stake-in-ecommerce-enabler-shopflo-for-rs-88-crore/articleshow/130511770.cms",
+        "title": "Pine Labs acquires 100% stake in ecommerce enabler Shopflo for Rs 88 crore",
+        "link": "https://economictimes.indiatimes.com/tech/technology/pine-labs-acquires-100-stake-in-ecommerce-enabler-shopflo-for-rs-88-crore/articleshow/130511770.cms",
+        "published": "Sat, 25 Apr 2026 14:53:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Digital payments major Pine Labs has acquired ecommerce enabler Shopflo Technologies for Rs 88 crore, aiming to strengthen its online merchant offerings. This strategic move allows Pine Labs to expand its reach into the mid-market and small business segments, intensifying competition with rivals like Razorpay and PayU."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-why-nvidia-hit-5-trillion-market-cap-intel-and-amd-rally/articleshow/130511620.cms",
+        "title": "ETtech Explainer: Why Nvidia hit $5 trillion market cap; Intel and AMD rally",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-why-nvidia-hit-5-trillion-market-cap-intel-and-amd-rally/articleshow/130511620.cms",
+        "published": "Sat, 25 Apr 2026 14:45:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Chipmaker Nvidia's market value crossed $5 trillion as demand for its AI chips surged. Other chipmakers like AMD and Intel also saw significant stock increases. The rally is driven by rapid AI infrastructure buildout, outpacing chip supply. Read on to find out more."
+    },
+    {
+        "id": "https://inc42.com/buzz/pine-labs-acquires-ecommerce-focused-saas-startup-shopflo-for-%e2%82%b988-cr/",
+        "title": "Pine Labs Acquires Ecommerce-Focused SaaS Startup Shopflo For \u20b988 Cr",
+        "link": "https://inc42.com/buzz/pine-labs-acquires-ecommerce-focused-saas-startup-shopflo-for-%e2%82%b988-cr/",
+        "published": "Sat, 25 Apr 2026 09:41:22 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Pine Labs Acquires Ecommerce-Focused SaaS Startup Shopflo For \u20b988 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/PineLabs-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Fintech major Pine Labs has acquired ecommerce-focused SaaS startup ShopFlo in an all-cash deal worth \u20b988 Cr (about $9.3 Mn).&#8230;"
     }
 ]
