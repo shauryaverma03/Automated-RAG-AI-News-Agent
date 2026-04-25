@@ -205654,5 +205654,29 @@
         "published": "Sat, 25 Apr 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Deeptech startup Bettrlabs is digitising product development for consumer brands, helping them move from idea to formulation faster without investing heavily in physical labs; Bengaluru tops the list in AI hiring followed by Hyderabad and there has been emergence of Tier II cities for such talent."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+        "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+        "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+        "published": "Sat, 25 Apr 2026 21:43:37 +0000",
+        "source": "TechCrunch",
+        "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
+    },
+    {
+        "id": "https://www.engadget.com/ai/openais-sam-altman-apologizes-for-not-reporting-chatgpt-account-of-tumbler-ridge-suspect-to-police-221400813.html?src=rss",
+        "title": "OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police",
+        "link": "https://www.engadget.com/ai/openais-sam-altman-apologizes-for-not-reporting-chatgpt-account-of-tumbler-ridge-suspect-to-police-221400813.html?src=rss",
+        "published": "Sat, 25 Apr 2026 22:14:00 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>Two months following the deadly shooting in Tumbler Ridge, British Columbia, OpenAI's Sam Altman has <a class=\"no-affiliate-link\" href=\"https://tumblerridgelines.com/wp-content/uploads/2026/04/altmanletter.pdf\">formally apologized</a> for not informing police of the alarming ChatGPT conversations seen with the suspect's account. Before the incident, OpenAI banned the account belonging to the alleged shooter, Jesse Van Rootselaar, for violating its usage policy due to potential for real-world "
+    },
+    {
+        "id": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
+        "title": "Can you stop beans from making you gassy?",
+        "link": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
+        "published": "Sat, 25 Apr 2026 20:17:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47904224\">Comments</a>"
     }
 ]
