@@ -205790,5 +205790,53 @@
         "published": "Sun, 26 Apr 2026 03:51:01 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we showcase a range of craftworks from an exhibition by the Hundred Hands collective."
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=47906253",
+        "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+        "link": "https://news.ycombinator.com/item?id=47906253",
+        "published": "Sun, 26 Apr 2026 00:50:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47906253\">Comments</a>"
+    },
+    {
+        "id": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+        "title": "GnuPG \u2013 post-quantum crypto landing in mainline",
+        "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+        "published": "Sun, 26 Apr 2026 03:25:02 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47907018\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/what-is-signal-and-is-it-secure/articleshow/130526697.cms",
+        "title": "What is Signal and is it secure?",
+        "link": "https://economictimes.indiatimes.com/tech/technology/what-is-signal-and-is-it-secure/articleshow/130526697.cms",
+        "published": "Sun, 26 Apr 2026 11:21:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Russia-linked hackers are targeting Signal users.  These attacks exploit user trust through phishing.  They trick people into revealing account details.  This allows hackers access to messages and chats.  Signal's encryption remains strong, but user vigilance is crucial.  The app's non-profit status and privacy focus are highlighted."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/education-ai-efficiency-business-creativity-entrepreneur-quiz",
+        "title": "Education, AI, efficiency: Test your business creativity with Edition 229 of our weekly quiz!",
+        "link": "https://yourstory.com/2026/04/education-ai-efficiency-business-creativity-entrepreneur-quiz",
+        "published": "Sun, 26 Apr 2026 02:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 229th quiz. Ready?"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/mumbai-local-train-app-yatri-sourcing-talent-beyond-bengaluru",
+        "title": "Mumbai\u2019s local train app Yatri; Sourcing talent beyond Bengaluru",
+        "link": "https://yourstory.com/2026/04/mumbai-local-train-app-yatri-sourcing-talent-beyond-bengaluru",
+        "published": "Sun, 26 Apr 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Yatri offers real-time train tracking using source-verified GPS data, with live updates on locations, delays, platform changes, and disruptions. The Karnataka government has signed an MoU with job portal Naukri to assist GCCS to source talent."
+    },
+    {
+        "id": "https://inc42.com/features/dhan-bets-beyond-brokerage/",
+        "title": "Dhan Bets Beyond Brokerage",
+        "link": "https://inc42.com/features/dhan-bets-beyond-brokerage/",
+        "published": "Sun, 26 Apr 2026 05:30:34 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Dhan Bets Beyond Brokerage\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/Outline-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Having assembled a capital markets stack, spanning APIs, AI-led tools, content, education and algorithmic investing, over the past five years,&#8230;"
     }
 ]
