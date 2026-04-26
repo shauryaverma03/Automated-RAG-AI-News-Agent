@@ -206230,5 +206230,37 @@
         "published": "Sun, 26 Apr 2026 16:27:29 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47911524\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+        "title": "What Tim Cook built",
+        "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+        "published": "Sun, 26 Apr 2026 20:22:51 +0000",
+        "source": "TechCrunch",
+        "summary": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing."
+    },
+    {
+        "id": "https://www.engadget.com/computing/forced-windows-updates-can-now-be-paused-forever-200338487.html?src=rss",
+        "title": "Forced Windows updates can now be paused forever",
+        "link": "https://www.engadget.com/computing/forced-windows-updates-can-now-be-paused-forever-200338487.html?src=rss",
+        "published": "Sun, 26 Apr 2026 20:03:39 +0000",
+        "source": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+        "summary": "<p>No more getting caught by a forced <a class=\"no-affiliate-link\" href=\"https://www.engadget.com/ai/microsoft-starts-removing-unnecessary-copilot-buttons-in-windows-11-120346728.html\">Windows 11</a> update while you're in the middle of a meeting or a match. Microsoft announced some major changes coming to Windows Update on <a class=\"no-affiliate-link\" href=\"https://blogs.windows.com/windows-insider/2026/04/24/your-windows-update-experience-just-got-updated/\">its blog</a>, including the ability "
+    },
+    {
+        "id": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+        "title": "A.I. is creating engineers who can't think without it",
+        "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+        "published": "Sun, 26 Apr 2026 20:03:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47913650\">Comments</a>"
+    },
+    {
+        "id": "https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/",
+        "title": "If You Stop Hiring Juniors, Your Senior Engineers Own You",
+        "link": "https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/",
+        "published": "Sun, 26 Apr 2026 20:01:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47913641\">Comments</a>"
     }
 ]
