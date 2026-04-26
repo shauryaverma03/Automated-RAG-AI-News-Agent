@@ -206070,5 +206070,53 @@
         "published": "Fri, 24 Apr 2026 12:40:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Explore 5 powerful quotes from Zero to One that reveal unique insights on startups, innovation, and building something truly original."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+        "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
+        "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+        "published": "Sun, 26 Apr 2026 15:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
+        "title": "SpeakOn\u2019s dictation device is a good idea marred by platform limitations",
+        "link": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
+        "published": "Sun, 26 Apr 2026 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps"
+    },
+    {
+        "id": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
+        "title": "\u2018STAGED\u2019: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting",
+        "link": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
+        "published": "Sun, 26 Apr 2026 14:43:47 +0000",
+        "source": "WIRED",
+        "summary": "The word \u201cstaged\u201d exploded on social media following the attack, as both right and left-wing influencers and anonymous accounts spread unfounded conspiracy theories."
+    },
+    {
+        "id": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+        "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+        "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+        "published": "Sun, 26 Apr 2026 13:58:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47910388\">Comments</a>"
+    },
+    {
+        "id": "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch",
+        "title": "The Nintendo Switch Switch (2019)",
+        "link": "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch",
+        "published": "Fri, 24 Apr 2026 18:33:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47894124\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/7-quotes-shiv-khera-success",
+        "title": "You Can Win by Shiv Khera: 7 quotes for lasting success",
+        "link": "https://yourstory.com/2026/04/7-quotes-shiv-khera-success",
+        "published": "Fri, 24 Apr 2026 05:10:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover 7 inspiring quotes from You Can Win by Shiv Khera that highlight success, discipline, positive thinking, and winning mindset."
     }
 ]
