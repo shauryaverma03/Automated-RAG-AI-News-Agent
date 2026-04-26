@@ -205894,5 +205894,45 @@
         "published": "Sun, 26 Apr 2026 14:36:16 +0530",
         "source": "Tech-Economic Times",
         "summary": "India's IT sector faces a critical juncture as AI reshapes the industry, necessitating rapid workforce upskilling. Salesforce India CEO Arundhati Bhattacharya highlighted that while job disruption is unavoidable, new roles will emerge.  She emphasized India's young, adaptable talent pool as a key advantage for continued global relevance, urging a proactive embrace of these transformative changes."
+    },
+    {
+        "id": "https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/",
+        "title": "Ikea's New Blow-Up Chair Was Tested by Cats",
+        "link": "https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/",
+        "published": "Sun, 26 Apr 2026 10:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Part of the new PS 2026 collection, it's taken the Swedish company 26 years to finally nail inflatable furniture."
+    },
+    {
+        "id": "https://statecharts.dev/",
+        "title": "Statecharts: hierarchical state machines",
+        "link": "https://statecharts.dev/",
+        "published": "Sun, 26 Apr 2026 09:32:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47908833\">Comments</a>"
+    },
+    {
+        "id": "https://www.npmjs.com/package/ooko",
+        "title": "I spent 6 years building my Kanban as I hated how managers run the boards",
+        "link": "https://www.npmjs.com/package/ooko",
+        "published": "Thu, 23 Apr 2026 15:53:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47877277\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/chatgpt-privacy-settings-guide/",
+        "title": "How to audit what ChatGPT knows about you - and reclaim your data privacy",
+        "link": "https://www.zdnet.com/article/chatgpt-privacy-settings-guide/",
+        "published": "Sun, 26 Apr 2026 10:00:44 GMT",
+        "source": "Latest news",
+        "summary": "If you're looking to limit the amount of personal information you give ChatGPT, these are the main settings you should know about."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/amaravati-to-be-developed-as-worlds-quantum-valley-chandrababu-naidu/articleshow/130529376.cms",
+        "title": "Amaravati to be developed as \u2018world\u2019s quantum valley\u2019: Chandrababu Naidu",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/amaravati-to-be-developed-as-worlds-quantum-valley-chandrababu-naidu/articleshow/130529376.cms",
+        "published": "Sun, 26 Apr 2026 15:08:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Andhra Pradesh aims to become a global 'quantum valley' for AI and data centres, attracting significant FDI. Chief Minister Naidu announced plans for a digital, knowledge-driven ecosystem, emphasising a '4P' partnership model. The state is also a leader in clean energy, contributing substantially to India's green energy goals and attracting major investments in data infrastructure."
     }
 ]
