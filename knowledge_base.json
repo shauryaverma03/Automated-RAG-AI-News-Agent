@@ -206358,5 +206358,85 @@
         "published": "Sun, 26 Apr 2026 23:01:43 GMT",
         "source": "Latest news",
         "summary": "Research suggests security specialists around the globe are unhappy, but there is hope."
+    },
+    {
+        "id": "https://interblah.net/self-updating-screenshots",
+        "title": "Self-updating screenshots",
+        "link": "https://interblah.net/self-updating-screenshots",
+        "published": "Sun, 26 Apr 2026 07:00:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47908051\">Comments</a>"
+    },
+    {
+        "id": "https://jordanlord.co.uk/blog/3-constraints/",
+        "title": "Three constraints before I build anything",
+        "link": "https://jordanlord.co.uk/blog/3-constraints/",
+        "published": "Sat, 25 Apr 2026 18:41:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47903541\">Comments</a>"
+    },
+    {
+        "id": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+        "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+        "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+        "published": "Mon, 27 Apr 2026 00:34:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47916410\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/cost-pressures-part-of-normal-market-evolution-says-ltm-ceo/articleshow/130537042.cms",
+        "title": "Cost pressures part of normal market evolution, says LTM CEO",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/cost-pressures-part-of-normal-market-evolution-says-ltm-ceo/articleshow/130537042.cms",
+        "published": "Mon, 27 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "LTM CEO Venu Lambu downplayed AI-led deflation concerns, framing pricing pressures as normal market evolution requiring adaptation. He emphasized execution as the key challenge amidst a generational technology shift, with LTM restructuring into three service lines, including a new business AI unit, to drive growth and double revenue."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tepid-fy27-revenue-growth-awaits-top-5-it-services-companies/articleshow/130536880.cms",
+        "title": "Tepid FY27 revenue growth awaits top 5 IT services companies",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tepid-fy27-revenue-growth-awaits-top-5-it-services-companies/articleshow/130536880.cms",
+        "published": "Mon, 27 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's leading IT companies expect modest revenue growth in FY27. Geopolitical issues and economic challenges are impacting client spending. AI is also causing price pressures. Despite these headwinds, companies are maintaining stable margins. Analysts are watching for benefits from new AI services. The focus will be on cost management and capability expansion."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/et-awards-for-corporate-excellence-rategain-travel-technologies-wins-emerging-company-of-the-year-aided-by-ai-powered-growth/articleshow/130535827.cms",
+        "title": "ET Awards for Corporate Excellence: RateGain Travel Technologies wins Emerging Company of the Year aided by AI-powered growth",
+        "link": "https://economictimes.indiatimes.com/tech/startups/et-awards-for-corporate-excellence-rategain-travel-technologies-wins-emerging-company-of-the-year-aided-by-ai-powered-growth/articleshow/130535827.cms",
+        "published": "Mon, 27 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "RateGain Travel Technologies has emerged as a leader in digital solutions for the rebounding global travel sector. The Noida-based firm, leveraging AI and real-time data from over 1,100 sources, has achieved significant revenue growth and profitability. Its ability to scale rapidly post-pandemic and maintain strong client retention earned it the Emerging Company of the Year award."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/lalit-keshre-wins-entrepreneur-of-the-year-for-taking-groww-to-a-rs-1-36-lakh-crore-publicly-traded-fintech-in-a-decade/articleshow/130535751.cms",
+        "title": "Lalit Keshre wins Entrepreneur of the Year for taking Groww to a Rs 1.36 lakh crore publicly traded fintech in a decade",
+        "link": "https://economictimes.indiatimes.com/tech/startups/lalit-keshre-wins-entrepreneur-of-the-year-for-taking-groww-to-a-rs-1-36-lakh-crore-publicly-traded-fintech-in-a-decade/articleshow/130535751.cms",
+        "published": "Mon, 27 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Lalit Keshre, cofounder and CEO of Groww, has built India's largest stockbroking platform in under a decade, achieving a successful IPO and significant market capitalization growth.  Leveraging digital infrastructure, Groww aims to expand into wealth management by building a full-stack platform and identifying gaps in financial services."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/hcl-foxconn-selects-ctci-as-epc-partner-for-uttar-pradesh-semiconductor-facility/articleshow/130535718.cms",
+        "title": "HCL-Foxconn selects CTCI as EPC partner for Uttar Pradesh semiconductor facility",
+        "link": "https://economictimes.indiatimes.com/tech/technology/hcl-foxconn-selects-ctci-as-epc-partner-for-uttar-pradesh-semiconductor-facility/articleshow/130535718.cms",
+        "published": "Mon, 27 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The HCL-Foxconn joint venture has appointed Taiwanese firm CTCI as the EPC partner for its upcoming semiconductor assembly and testing facility in Uttar Pradesh. This Rs 3,706 crore OSAT plant will manufacture display driver chips, marking CTCI's entry into India's semiconductor sector. CTCI's existing relationship with Foxconn was a key factor in securing the deal."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/backpacker-hostel-chain-the-hosteller-founder-pranav-dangi-interview",
+        "title": "In five years, backpacker hostels will be the first choice for India\u2019s young travellers: The Hosteller founder",
+        "link": "https://yourstory.com/2026/04/backpacker-hostel-chain-the-hosteller-founder-pranav-dangi-interview",
+        "published": "Mon, 27 Apr 2026 01:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Backpacker hostel chain The Hosteller is standardising operations and facilities across its properties to become \u201ca no-stress choice\u201d for travellers, says Founder and CEO Pranav Dangi. It recently raised Rs 150 crore to expand across India."
+    },
+    {
+        "id": "https://inc42.com/features/the-missing-spark-in-jio-financials-playbook/",
+        "title": "Jio Financial\u2019s Missing Edge",
+        "link": "https://inc42.com/features/the-missing-spark-in-jio-financials-playbook/",
+        "published": "Mon, 27 Apr 2026 00:30:55 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/JFS-Markets-Newsletter.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Whenever Reliance Industries Limited (RIL) enters a new sector, its script is almost pre-written: scale aggressively and disrupt eventually. However,&#8230;"
     }
 ]
