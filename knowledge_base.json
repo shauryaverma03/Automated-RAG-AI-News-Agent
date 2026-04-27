@@ -207790,5 +207790,21 @@
         "published": "Sun, 26 Apr 2026 03:52:43 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47907175\">Comments</a>"
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+        "title": "Open source package with 1 million monthly downloads stole user credentials",
+        "link": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+        "published": "Mon, 27 Apr 2026 21:04:03 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "If you're one of millions using element-data, it's time to check for compromise."
+    },
+    {
+        "id": "https://status.npmjs.org",
+        "title": "NPM Website Is Down",
+        "link": "https://status.npmjs.org",
+        "published": "Mon, 27 Apr 2026 21:26:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47927526\">Comments</a>"
     }
 ]
