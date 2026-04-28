@@ -207822,5 +207822,101 @@
         "published": "Mon, 27 Apr 2026 23:14:26 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47928554\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+        "title": "Google is testing AI chatbot search for YouTube",
+        "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+        "published": "2026-04-27T20:01:54-04:00",
+        "source": "The Verge",
+        "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+        "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+        "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+        "published": "Tue, 28 Apr 2026 00:39:30 +0000",
+        "source": "WIRED",
+        "summary": "Musk\u2019s lawsuit challenges OpenAI\u2019s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+        "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+        "link": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+        "published": "Tue, 28 Apr 2026 00:14:09 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027."
+    },
+    {
+        "id": "https://talkie-lm.com/introducing-talkie",
+        "title": "Talkie: a 13B vintage language model from 1930",
+        "link": "https://talkie-lm.com/introducing-talkie",
+        "published": "Mon, 27 Apr 2026 21:55:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47927903\">Comments</a>"
+    },
+    {
+        "id": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+        "title": "Generative AI Vegetarianism",
+        "link": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+        "published": "Tue, 28 Apr 2026 00:07:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47928885\">Comments</a>"
+    },
+    {
+        "id": "https://www.mooreds.com/wordpress/archives/3734",
+        "title": "Meetings are forcing functions",
+        "link": "https://www.mooreds.com/wordpress/archives/3734",
+        "published": "Sun, 26 Apr 2026 03:12:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47906942\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/it-managers-say-ai-agents-are-out-of-control/",
+        "title": "77% of IT managers say their AI agents are out of control - 5 ways to rein in yours",
+        "link": "https://www.zdnet.com/article/it-managers-say-ai-agents-are-out-of-control/",
+        "published": "Tue, 28 Apr 2026 01:00:47 GMT",
+        "source": "Latest news",
+        "summary": "The unchecked proliferation of AI agents is leading to a large volume of unsanctioned AI applications."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/dfs-is-seeking-lender-data-on-war-hit-smes/articleshow/130562503.cms",
+        "title": "DFS is seeking lender data on war-hit SMEs",
+        "link": "https://economictimes.indiatimes.com/tech/technology/dfs-is-seeking-lender-data-on-war-hit-smes/articleshow/130562503.cms",
+        "published": "Tue, 28 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "People familiar with the matter told ET that banks have been asked to provide details on sectors affected, like the Morbi-based ceramics industry or the restaurant industry hit due to non-availability of LPG."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/et-graphics-ai-chips-are-the-new-flex-of-tech-realm/articleshow/130561624.cms",
+        "title": "ET Graphics: AI chips are the new flex of tech realm",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/et-graphics-ai-chips-are-the-new-flex-of-tech-realm/articleshow/130561624.cms",
+        "published": "Tue, 28 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Nvidia CEO Jensen Huang fiercely defended the company's China sales amidst a rapidly fragmenting AI chip market.  Hyperscalers and AI labs are increasingly developing custom in-house chips, challenging Nvidia's once dominant position.  Emerging contenders are now vying for the top spot in the AI chip industry."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/digital-lenders-put-small-business-on-watch-list/articleshow/130561033.cms",
+        "title": "Digital lenders put small business on watch list",
+        "link": "https://economictimes.indiatimes.com/tech/technology/digital-lenders-put-small-business-on-watch-list/articleshow/130561033.cms",
+        "published": "Tue, 28 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Digital lenders are becoming cautious about loans to small businesses like restaurants and petrol pumps. This move follows disruptions in West Asia that have increased costs for several sectors. Lenders are taking pre-emptive steps, especially for unsecured loans. Early signs of stress are visible, and while repayments have held up, future stress is a concern."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/nvidia-b200-gpu-prices-fall-10-in-indiaai-tender/articleshow/130560510.cms",
+        "title": "Nvidia B200 GPU prices fall 10% in IndiaAI tender",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-b200-gpu-prices-fall-10-in-indiaai-tender/articleshow/130560510.cms",
+        "published": "Tue, 28 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Nvidia's B200 GPU prices have seen a 10% drop in IndiaAI Mission tenders due to aggressive bidding by compute service providers. While this makes advanced compute more affordable domestically, some executives express concerns about long-term viability given rising global costs and a weakening rupee."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-mythos-shrinks-vulnerability-exploit-window-indian-companies-at-risk/articleshow/130560443.cms",
+        "title": "Anthropic Mythos shrinks vulnerability exploit window, Indian companies at risk",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-mythos-shrinks-vulnerability-exploit-window-indian-companies-at-risk/articleshow/130560443.cms",
+        "published": "Tue, 28 Apr 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A new AI model, Mythos, drastically shrinks the time between discovering and exploiting software vulnerabilities, creating a critical \"kill zone\" for companies. Indian firms, with slow patching cycles, face significant risk as AI-driven attacks become faster and more accessible, necessitating a shift to continuous, machine-speed security."
     }
 ]
