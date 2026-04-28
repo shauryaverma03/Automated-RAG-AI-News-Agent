@@ -209246,5 +209246,45 @@
         "published": "Tue, 28 Apr 2026 11:02:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "YourStory presents the daily news roundup for Tuesday, April 28, 2026."
+    },
+    {
+        "id": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
+        "title": "It\u2019s primetime for conspiracy theorist video creators",
+        "link": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
+        "published": "2026-04-28T19:31:53-04:00",
+        "source": "The Verge",
+        "summary": "In the days since this year's White House Correspondents' Dinner was cut short when shots were fired at the event, there has been a boom of conspiracy theory videos created by people who insist that the entire situation was a false flag operation. These kinds of theories are nothing new, but the way they're spreading [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+        "title": "Elon Musk appeared more petty than prepared",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+        "published": "2026-04-28T19:17:12-04:00",
+        "source": "The Verge",
+        "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/",
+        "title": "Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors",
+        "link": "https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/",
+        "published": "Tue, 28 Apr 2026 23:08:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The clown car is all gassed up."
+    },
+    {
+        "id": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+        "title": "Carrot Disclosure: Forgejo",
+        "link": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+        "published": "Tue, 28 Apr 2026 22:14:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47941590\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/04/funding-hyugalife-rs-100-crore-series-a-ivycap-ventures",
+        "title": "HyugaLife raises Rs 100 Cr in Series A led by IvyCap Ventures",
+        "link": "https://yourstory.com/2026/04/funding-hyugalife-rs-100-crore-series-a-ivycap-ventures",
+        "published": "Tue, 28 Apr 2026 10:19:34 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "HyugaLife said it will use this funding to strengthen its AI-led personalisation technology, expansion of its dark store network, and setting up offline retail presence."
     }
 ]
