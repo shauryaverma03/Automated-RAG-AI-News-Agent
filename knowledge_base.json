@@ -210782,5 +210782,29 @@
         "published": "Wed, 29 Apr 2026 21:55:00 GMT",
         "source": "Latest news",
         "summary": "A cellular backup device that connects to your Eero mesh Wi-Fi system, Eero Signal provides backup internet when your primary wired connection goes down, saving you time and money."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+        "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+        "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+        "published": "Wed, 29 Apr 2026 23:02:23 +0000",
+        "source": "TechCrunch",
+        "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing."
+    },
+    {
+        "id": "https://www.engadget.com/2160792/mark-zuckerberg-says-meta-is-working-on-ai-agents-for-personal-and-business-use/",
+        "title": "Mark Zuckerberg says Meta is working on AI agents for personal and business use",
+        "link": "https://www.engadget.com/2160792/mark-zuckerberg-says-meta-is-working-on-ai-agents-for-personal-and-business-use/",
+        "published": "Wed, 29 Apr 2026 23:00:36 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The CEO wants to make an agent so easy even his mom can use it."
+    },
+    {
+        "id": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+        "title": "Germany has become the largest ammunition producer in the world",
+        "link": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+        "published": "Wed, 29 Apr 2026 21:58:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47955297\">Comments</a>"
     }
 ]
