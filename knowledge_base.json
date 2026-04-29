@@ -210726,5 +210726,37 @@
         "published": "Thu, 30 Apr 2026 00:22:02 +0530",
         "source": "Tech-Economic Times",
         "summary": "Elon Musk is in court accusing OpenAI's lawyer of trying to trick him. The trial centers on Musk's lawsuit claiming OpenAI abandoned its mission to benefit the public. He alleges co-founder Sam Altman and others created a for-profit entity for personal gain. OpenAI argues Musk wants to control the company."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+        "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+        "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+        "published": "Wed, 29 Apr 2026 20:59:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
+        "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
+        "link": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
+        "published": "Wed, 29 Apr 2026 20:53:56 +0000",
+        "source": "TechCrunch",
+        "summary": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
+        "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
+        "link": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
+        "published": "2026-04-29T17:19:39-04:00",
+        "source": "The Verge",
+        "summary": "Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Raiders, for instance, is available for preorder ahead of its July 23rd release for $49.99 digitally or $59.99 for the physical edition. However, Walmart is the exception in [&#8230;]"
+    },
+    {
+        "id": "https://opentrafficmap.org/",
+        "title": "OpenTrafficMap",
+        "link": "https://opentrafficmap.org/",
+        "published": "Wed, 29 Apr 2026 19:49:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47953541\">Comments</a>"
     }
 ]
