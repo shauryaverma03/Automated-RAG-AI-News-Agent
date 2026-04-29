@@ -209286,5 +209286,93 @@
         "published": "Tue, 28 Apr 2026 10:19:34 GMT",
         "source": "YourStory RSS Feed",
         "summary": "HyugaLife said it will use this funding to strengthen its AI-led personalisation technology, expansion of its dark store network, and setting up offline retail presence."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+        "title": "At his OpenAI trial, Musk relitigates an old friendship",
+        "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+        "published": "Wed, 29 Apr 2026 00:40:16 +0000",
+        "source": "TechCrunch",
+        "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath."
+    },
+    {
+        "id": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+        "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
+        "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+        "published": "Tue, 28 Apr 2026 23:45:05 +0000",
+        "source": "WIRED",
+        "summary": "\u201cNever talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,\u201d reads OpenAI\u2019s coding agent instructions."
+    },
+    {
+        "id": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+        "title": "ChatGPT serves ads. Here's the full attribution loop",
+        "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+        "published": "Tue, 28 Apr 2026 23:54:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47942437\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/anthropics/claude-code/issues/49363",
+        "title": "Claude system prompt bug wastes user money and bricks managed agents",
+        "link": "https://github.com/anthropics/claude-code/issues/49363",
+        "published": "Tue, 28 Apr 2026 23:59:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47942492\">Comments</a>"
+    },
+    {
+        "id": "https://www.mendral.com/blog/frontier-model-lower-costs",
+        "title": "We decreased our LLM costs with Opus",
+        "link": "https://www.mendral.com/blog/frontier-model-lower-costs",
+        "published": "Wed, 29 Apr 2026 00:57:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47942903\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/india-seeks-mythos-access-eternals-strong-q4/articleshow/130593257.cms",
+        "title": "India seeks Mythos access; Eternal's strong Q4",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/india-seeks-mythos-access-eternals-strong-q4/articleshow/130593257.cms",
+        "published": "Wed, 29 Apr 2026 06:51:40 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Wednesday! India is in talks with Anthropic and the US government to give homegrown companies access to Mythos. This and more in today's ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dont-loot-a-charity-musk-takes-stand-against-openai/articleshow/130593167.cms",
+        "title": "Don't loot a charity: Musk takes stand against OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/dont-loot-a-charity-musk-takes-stand-against-openai/articleshow/130593167.cms",
+        "published": "Wed, 29 Apr 2026 06:20:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Billionaire Elon Musk took the stand Tuesday to accuse OpenAI and its boss Sam Altman of betraying the AI company's altruistic origins, in a trial that could have far-reaching consequences for the industry and oblige the ChatGPT maker to profoundly revamp its business. At the heart of the case is Musk's accusation that Altman drove OpenAI to become a profit-seeking juggernaut looking to dethrone the likes of Google, Apple and Microsoft, and betraying its nonprofit mission."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/elon-musk-says-openai-was-his-idea-before-executives-looted-it/articleshow/130593149.cms",
+        "title": "Elon Musk says OpenAI was his idea, before executives looted it",
+        "link": "https://economictimes.indiatimes.com/tech/technology/elon-musk-says-openai-was-his-idea-before-executives-looted-it/articleshow/130593149.cms",
+        "published": "Wed, 29 Apr 2026 06:15:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In a high-stakes courtroom drama, Elon Musk has launched a lawsuit against OpenAI and its executives, alleging that they've strayed from the altruistic vision that inspired the company's creation. Musk maintains that he established OpenAI as a nonprofit venture aimed at uplifting humanity."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/eu-countries-lawmakers-fail-to-reach-deal-on-watered-down-ai-rules/articleshow/130593132.cms",
+        "title": "EU countries, lawmakers fail to reach deal on watered-down AI rules",
+        "link": "https://economictimes.indiatimes.com/tech/technology/eu-countries-lawmakers-fail-to-reach-deal-on-watered-down-ai-rules/articleshow/130593132.cms",
+        "published": "Wed, 29 Apr 2026 06:12:40 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "European Union nations and Parliament members could not agree on updated artificial intelligence rules. Talks stalled after 12 hours. Negotiations will restart next month. Some countries wanted exemptions for industries already under regulation. This failure could benefit Big Tech. European companies focused on safety now face uncertainty. The AI Act is considered the world's strictest."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-how-a-suspect-in-the-killing-of-two-florida-students-used-chatgpt/articleshow/130593133.cms",
+        "title": "What to know about how a suspect in the killing of two Florida students used ChatGPT",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-how-a-suspect-in-the-killing-of-two-florida-students-used-chatgpt/articleshow/130593133.cms",
+        "published": "Wed, 29 Apr 2026 06:10:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In a disturbing twist to a double homicide investigation, prosecutors disclosed that the suspect sought advice from ChatGPT on disposing of bodies and weaponry. This revelation prompts critical discussions about the implications of AI technology in aiding criminal behavior. Authorities are now scrutinizing the ethical responsibilities of tech companies, underscoring a concerning trend of AI involvement in crime-related inquiries."
+    },
+    {
+        "id": "https://inc42.com/features/from-brain-drain-to-base-camp-how-bharat1-is-trying-to-anchor-ai-in-india/",
+        "title": "From Brain Drain To Base Camp: How Bharat1 Is Trying To Anchor AI In India",
+        "link": "https://inc42.com/features/from-brain-drain-to-base-camp-how-bharat1-is-trying-to-anchor-ai-in-india/",
+        "published": "Wed, 29 Apr 2026 01:30:47 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/ftr-12-3.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />From Perplexity cofounder Aravind Srinivas and Anthropic CTO Rahul Patil to big tech giants such as Google\u2019s Sundar Pichai and&#8230;"
     }
 ]
