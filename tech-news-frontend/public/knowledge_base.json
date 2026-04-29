@@ -210758,5 +210758,29 @@
         "published": "Wed, 29 Apr 2026 19:49:30 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47953541\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+        "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+        "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+        "published": "Wed, 29 Apr 2026 22:20:48 +0000",
+        "source": "TechCrunch",
+        "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster."
+    },
+    {
+        "id": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
+        "title": "Grindr \u2014 yes, Grindr \u2014 won the WHCD party circuit",
+        "link": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
+        "published": "2026-04-29T18:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about technology, politics, and technology learning how to politick. If you're not a subscriber but would like to support our work, please subscribe here. I promise that your money will not go toward paying for a drone-proof ballroom for The Verge staff, no matter how [&#8230;]"
+    },
+    {
+        "id": "https://www.zdnet.com/article/eero-signal-keeps-your-business-online-during-internet-outages/",
+        "title": "Eero Signal keeps your business online during internet outages",
+        "link": "https://www.zdnet.com/article/eero-signal-keeps-your-business-online-during-internet-outages/",
+        "published": "Wed, 29 Apr 2026 21:55:00 GMT",
+        "source": "Latest news",
+        "summary": "A cellular backup device that connects to your Eero mesh Wi-Fi system, Eero Signal provides backup internet when your primary wired connection goes down, saving you time and money."
     }
 ]
