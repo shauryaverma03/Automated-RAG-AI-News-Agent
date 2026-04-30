@@ -210910,5 +210910,109 @@
         "published": "Thu, 30 Apr 2026 06:31:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Microsoft anticipates robust sales for its Azure cloud services. The tech giant is planning substantial capital expenditure for 2026. This comes as the race for AI dominance intensifies. Investors are watching closely for growth. Microsoft is also seeing a steady increase in users for its Copilot AI assistant. The company is investing heavily in AI infrastructure."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+        "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
+        "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+        "published": "Thu, 30 Apr 2026 03:58:22 +0000",
+        "source": "TechCrunch",
+        "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure."
+    },
+    {
+        "id": "https://openai.com/index/where-the-goblins-came-from/",
+        "title": "Where the goblins came from",
+        "link": "https://openai.com/index/where-the-goblins-came-from/",
+        "published": "Thu, 30 Apr 2026 03:21:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47957688\">Comments</a>"
+    },
+    {
+        "id": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+        "title": "Craig Venter has died",
+        "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+        "published": "Thu, 30 Apr 2026 01:44:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47957101\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+        "title": "Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
+        "link": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+        "published": "Thu, 30 Apr 2026 03:11:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47957627\">Comments</a>"
+    },
+    {
+        "id": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+        "title": "Functional Programmers need to take a look at Zig",
+        "link": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+        "published": "Thu, 30 Apr 2026 03:11:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47957624\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/proton-ceo-andy-yen-interview-ai-privacy-security-semafor/",
+        "title": "Privacy in the AI era is possible, says Proton's CEO, but one thing keeps him up at night",
+        "link": "https://www.zdnet.com/article/proton-ceo-andy-yen-interview-ai-privacy-security-semafor/",
+        "published": "Thu, 30 Apr 2026 02:00:35 GMT",
+        "source": "Latest news",
+        "summary": "At Semafor World Economy, I spoke with Andy Yen about mass surveillance, protecting children, local AI, and the one thing Proton can't save users from."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-countries-lawmakers-fail-to-reach-deal-on-watered-down-ai-rules/articleshow/130623064.cms",
+        "title": "EU countries, lawmakers fail to reach deal on watered-down AI rules",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-countries-lawmakers-fail-to-reach-deal-on-watered-down-ai-rules/articleshow/130623064.cms",
+        "published": "Thu, 30 Apr 2026 09:57:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "European Union nations and Parliament members could not agree on AI regulations. Talks stalled after 12 hours. Discussions will restart in two weeks. Some nations wanted exemptions for industries with existing rules. This failure may benefit Big Tech. European companies focused on safety now face uncertainty. The AI Act aims to regulate high-risk technology."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-schedules-private-gpt-5-5-event-in-san-francisco/articleshow/130622068.cms",
+        "title": "OpenAI schedules private GPT-5.5 event in San Francisco",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-schedules-private-gpt-5-5-event-in-san-francisco/articleshow/130622068.cms",
+        "published": "Thu, 30 Apr 2026 08:48:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI is hosting an exclusive, invite-only event in San Francisco on May 5, coinciding with the launch of GPT-5.5. The \"GPT-5.5 on 5/5\" gathering aims to bring together developers and OpenAI team members for a \"low-key meetup.\" This event follows the recent rollout of GPT-5.5, described as a \"new class of intelligence for real work and powering agents.\""
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/australian-banks-warned-frontier-ai-could-create-larger-faster-cyber-attacks/articleshow/130621679.cms",
+        "title": "Australian banks warned frontier AI could create larger, faster cyber attacks",
+        "link": "https://economictimes.indiatimes.com/tech/technology/australian-banks-warned-frontier-ai-could-create-larger-faster-cyber-attacks/articleshow/130621679.cms",
+        "published": "Thu, 30 Apr 2026 08:21:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Australia's banking regulators, APRA, are sounding the alarm over escalating cyber threats. Advanced AI tools like Anthropic's Claude Mythos may equip hackers with unprecedented capabilities. Current cybersecurity measures within banks are trailing behind the swift evolution of AI, heightening the vulnerability of the country\u2019s financial systems. It is crucial for board members to enhance their grasp of AI-related risks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/qualcomm-rises-on-smartphone-rebound-hopes-data-center-chip-push/articleshow/130621633.cms",
+        "title": "Qualcomm rises on smartphone rebound hopes, data-center chip push",
+        "link": "https://economictimes.indiatimes.com/tech/technology/qualcomm-rises-on-smartphone-rebound-hopes-data-center-chip-push/articleshow/130621633.cms",
+        "published": "Thu, 30 Apr 2026 08:20:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Qualcomm anticipates lower third-quarter earnings but sees a smartphone market rebound. The chip giant is also entering the data center market with new products.  CEO Cristiano Amon is confident about future growth.  This strategic shift aims to offset challenges in consumer electronics.  Qualcomm's stock saw a significant rise on the news."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/mutual-funds-buy-new-age-dip-infy-ceo-interview/articleshow/130620776.cms",
+        "title": "Mutual funds buy new-age dip; Infy CEO interview",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/mutual-funds-buy-new-age-dip-infy-ceo-interview/articleshow/130620776.cms",
+        "published": "Thu, 30 Apr 2026 07:05:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Thursday! Mutual fund inflows into listed new-age companies rose due to valuation adjustments and FPI selloff. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://yourstory.com/2026/04/alphabet-investment-strong-quarter-cloud-surges-on-ai-demand",
+        "title": "Alphabet plans to ramp up investment after strong quarter driven by AI demand",
+        "link": "https://yourstory.com/2026/04/alphabet-investment-strong-quarter-cloud-surges-on-ai-demand",
+        "published": "Thu, 30 Apr 2026 03:55:59 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Alphabet reported a Q1 net profit of $62.6 billion, up 81% YoY, including a $36.9 billion gain on equity securities, while revenue rose 22% YoY to $109.9 billion, marking its 11th straight quarter of double-digit growth."
+    },
+    {
+        "id": "https://inc42.com/buzz/exfinity-ventures-clocks-13x-return-from-cloudsek-partial-exit/",
+        "title": "Exfinity Ventures Clocks 13X Return From CloudSEK Partial Exit",
+        "link": "https://inc42.com/buzz/exfinity-ventures-clocks-13x-return-from-cloudsek-partial-exit/",
+        "published": "Thu, 30 Apr 2026 03:30:39 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Exfinity Ventures Clocks 13X Return From CloudSEK Partial Exit\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/exfinity-cloudsek-exit-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Deeptech-focused venture capital (VC) firm Exfinity Venture Partners claims to have partially exited cybersecurity startup CloudSEK, with a 13X multiple&#8230;"
     }
 ]
