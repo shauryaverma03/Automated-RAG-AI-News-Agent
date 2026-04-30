@@ -210806,5 +210806,109 @@
         "published": "Wed, 29 Apr 2026 21:58:46 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47955297\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
+        "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+        "link": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
+        "published": "Thu, 30 Apr 2026 01:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+        "title": "Amazon\u2019s cloud business is surging \u2014 and so is its capital spending",
+        "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+        "published": "Thu, 30 Apr 2026 00:14:23 +0000",
+        "source": "TechCrunch",
+        "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+        "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+        "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+        "published": "Thu, 30 Apr 2026 00:07:15 +0000",
+        "source": "TechCrunch",
+        "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+        "title": "On the stand, Elon Musk can\u2019t escape his own tweets",
+        "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+        "published": "Wed, 29 Apr 2026 23:58:36 +0000",
+        "source": "TechCrunch",
+        "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+        "title": "Meta is still burning money on AR/VR",
+        "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+        "published": "Wed, 29 Apr 2026 23:58:26 +0000",
+        "source": "TechCrunch",
+        "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending."
+    },
+    {
+        "id": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+        "title": "Elon Musk\u2019s worst enemy in court is Elon Musk",
+        "link": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+        "published": "2026-04-29T20:01:24-04:00",
+        "source": "The Verge",
+        "summary": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+        "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me\u2019",
+        "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+        "published": "Wed, 29 Apr 2026 23:41:51 +0000",
+        "source": "WIRED",
+        "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI\u2019s lawyers cross-examined Musk."
+    },
+    {
+        "id": "https://neal.fun/cursor-camp/",
+        "title": "Cursor Camp",
+        "link": "https://neal.fun/cursor-camp/",
+        "published": "Wed, 29 Apr 2026 15:39:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47949939\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/oolka-raises-14-million-led-by-accel/articleshow/130620781.cms",
+        "title": "Oolka raises $14 million led by Accel",
+        "link": "https://economictimes.indiatimes.com/tech/funding/oolka-raises-14-million-led-by-accel/articleshow/130620781.cms",
+        "published": "Thu, 30 Apr 2026 06:51:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Bengaluru's Oolka, a fintech startup, secured $14 million led by Accel, with Lightspeed and Z47 also participating.  The funds will bolster AI-driven creditworthiness solutions and expand bank partnerships.  Oolka aims to offer comprehensive personal finance management, including savings tools, to its six million users. This marks their second significant funding round."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/linkedins-ai-hiring-agents-on-track-for-450-million-in-yearly-revenue/articleshow/130620735.cms",
+        "title": "LinkedIn's AI hiring agents on track for $450 million in yearly revenue",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/linkedins-ai-hiring-agents-on-track-for-450-million-in-yearly-revenue/articleshow/130620735.cms",
+        "published": "Thu, 30 Apr 2026 06:42:01 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "LinkedIn's new AI tools for recruiters are set to bring in a massive $450 million next year. These smart systems help find the best job candidates faster.  Recruiters can now focus on important tasks, saving valuable time. This innovation highlights LinkedIn's commitment to solving real-world problems for its users. The company is making significant strides in AI-powered professional services."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/softbank-plans-to-list-ai-and-robotics-firm-roze-in-us-ft-reports/articleshow/130620655.cms",
+        "title": "SoftBank plans to list AI and robotics firm Roze in US, FT reports",
+        "link": "https://economictimes.indiatimes.com/tech/technology/softbank-plans-to-list-ai-and-robotics-firm-roze-in-us-ft-reports/articleshow/130620655.cms",
+        "published": "Thu, 30 Apr 2026 06:34:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SoftBank Group is set to make waves in the U.S. technology landscape with its groundbreaking AI and robotics initiative, Roze. With an eye on reaching a staggering $100 billion valuation, the company plans to potentially go public this year. This ambitious strategy, helmed by CEO Masayoshi Son, aims to balance hefty investments, including commitments to OpenAI."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-posts-record-quarterly-profit-on-ai-boom/articleshow/130620652.cms",
+        "title": "Samsung Electronics posts record quarterly profit on AI boom",
+        "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-posts-record-quarterly-profit-on-ai-boom/articleshow/130620652.cms",
+        "published": "Thu, 30 Apr 2026 06:32:54 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Samsung Electronics posted a record quarterly profit on Thursday, driven by strong sales of chips crucial for artificial intelligence. South Korea's benchmark Kospi stock index opened at a fresh high of over 6,700 on Thursday following strong earnings figures from Samsung and US technology giants."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsoft-expects-strong-cloud-business-growth-plans-record-capital-spending/articleshow/130620681.cms",
+        "title": "Microsoft expects strong cloud business growth, plans record capital spending",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-expects-strong-cloud-business-growth-plans-record-capital-spending/articleshow/130620681.cms",
+        "published": "Thu, 30 Apr 2026 06:31:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft anticipates robust sales for its Azure cloud services. The tech giant is planning substantial capital expenditure for 2026. This comes as the race for AI dominance intensifies. Investors are watching closely for growth. Microsoft is also seeing a steady increase in users for its Copilot AI assistant. The company is investing heavily in AI infrastructure."
     }
 ]
