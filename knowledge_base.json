@@ -212174,5 +212174,221 @@
         "published": "Thu, 30 Apr 2026 11:43:59 GMT",
         "source": "YourStory RSS Feed",
         "summary": "These 15 startups in I-HEAL\u2019s fourth cohort are building for some of healthcare\u2019s most persistent, overlooked gaps. From diagnostics to rehabilitation, their solutions are designed to reach patients beyond the traditional system.\n\nIndia is home to more than 63 million people living with hearing"
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/",
+        "title": "Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory",
+        "link": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/",
+        "published": "Thu, 30 Apr 2026 20:02:02 +0000",
+        "source": "TechCrunch",
+        "summary": "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4.5 billion to build its new factory in Georgia, down from the original amount of $6.6 billion."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+        "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
+        "link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+        "published": "Thu, 30 Apr 2026 19:36:53 +0000",
+        "source": "TechCrunch",
+        "summary": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+        "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+        "published": "Thu, 30 Apr 2026 19:27:41 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
+        "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
+        "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
+        "published": "Thu, 30 Apr 2026 18:56:59 +0000",
+        "source": "TechCrunch",
+        "summary": "The perpetually struggling EV company made the payments while being investigated by the SEC. That four-year probe was ultimately closed in March."
+    },
+    {
+        "id": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+        "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+        "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+        "published": "Thu, 30 Apr 2026 18:20:03 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico."
+    },
+    {
+        "id": "https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act",
+        "title": "The logic of the racist Supreme Court isn\u2019t adding up",
+        "link": "https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act",
+        "published": "2026-04-30T15:52:29-04:00",
+        "source": "The Verge",
+        "summary": "Close watchers of the Supreme Court knew that the conservative supermajority was about to murder what was left of the Voting Rights Act. Wednesday's decision in Louisiana v. Callais took down Section 2 of the law, clearing the way for racist gerrymandering, because it is now racist to remedy racism. The decision is an affront [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+        "title": "Microsoft\u2019s Xbox mode is now available for all Windows 11 PCs",
+        "link": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+        "published": "2026-04-30T15:14:23-04:00",
+        "source": "The Verge",
+        "summary": "Microsoft is now rolling out its Xbox mode to all Windows 11 PCs. The new Xbox mode adds a full-screen interface to the Xbox PC app, much like Steam's Big Picture Mode, and originally debuted as the Xbox Full Screen Experience (FSE) with Asus' Xbox Ally devices. \"Some players in select markets will be able [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+        "title": "Meta threatens to pull its apps from New Mexico if forced to make \u2018technologically impractical\u2019 changes",
+        "link": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+        "published": "2026-04-30T15:05:01-04:00",
+        "source": "The Verge",
+        "summary": "Meta says it may be forced to pull Facebook, Instagram, and WhatsApp from New Mexico if the attorney general gets his way. The state is demanding a host of changes that the company says are impossible to achieve. After winning a $375 million jury award against Meta in a trial that argued the company misled [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+        "title": "With Saros, Housemarque makes a case for doing next-gen games differently",
+        "link": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+        "published": "2026-04-30T15:00:45-04:00",
+        "source": "The Verge",
+        "summary": "It is generally frowned upon to care too much about appearances. We have a lot of little aphorisms discouraging this - books and their covers, beauty being skin deep, style over substance, that sort of thing. Vanity is a risk. Should one put a disproportionate effort into how a thing looks, then said work may [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+        "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+        "published": "Thu, 30 Apr 2026 18:54:54 +0000",
+        "source": "WIRED",
+        "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large."
+    },
+    {
+        "id": "https://www.wired.com/story/maga-is-confused-about-animal-farm/",
+        "title": "MAGA Is Confused About \u2018Animal Farm\u2019",
+        "link": "https://www.wired.com/story/maga-is-confused-about-animal-farm/",
+        "published": "Thu, 30 Apr 2026 18:19:28 +0000",
+        "source": "WIRED",
+        "summary": "The new film is the latest adaptation of George Orwell\u2019s novel. Based on the critiques coming from right-wing influencers, it seems few of them fully grasp the book\u2019s message."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+        "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
+        "link": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+        "published": "Thu, 30 Apr 2026 19:34:15 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Using AI tools, the team reworked part of the ribosome to need one less amino acid."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/",
+        "title": "Blue Origin certainly has ambitious launch targets for New Glenn",
+        "link": "https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/",
+        "published": "Thu, 30 Apr 2026 19:12:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "If Blue Origin wants to launch New Glenn 100 times a year, we're here for it."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/04/stranded-traveler-gets-more-than-he-bargained-for-in-resident-evil-teaser/",
+        "title": "Stranded traveler gets more than he bargained for in Resident Evil teaser",
+        "link": "https://arstechnica.com/culture/2026/04/stranded-traveler-gets-more-than-he-bargained-for-in-resident-evil-teaser/",
+        "published": "Thu, 30 Apr 2026 19:02:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Fresh off the Oscar-winning <em>Weapons</em>, director Zach Cregger has his own vision for the gaming franchise."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
+        "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
+        "link": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
+        "published": "Thu, 30 Apr 2026 17:47:17 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Beijing's citywide ban restricts the sale, transport, and storage of drones."
+    },
+    {
+        "id": "https://www.engadget.com/2161516/you-can-now-choose-which-games-use-quick-resume-on-xbox/",
+        "title": "You can now choose which games use Quick Resume on Xbox",
+        "link": "https://www.engadget.com/2161516/you-can-now-choose-which-games-use-quick-resume-on-xbox/",
+        "published": "Thu, 30 Apr 2026 19:48:57 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The option is part of a collection of updates Microsoft is making to consoles and the Xbox PC app."
+    },
+    {
+        "id": "https://www.engadget.com/2161468/the-minimalist-light-phone-iii-will-soon-support-a-curated-set-of-third-party-apps/",
+        "title": "The minimalist Light Phone III will soon support a curated set of third-party apps",
+        "link": "https://www.engadget.com/2161468/the-minimalist-light-phone-iii-will-soon-support-a-curated-set-of-third-party-apps/",
+        "published": "Thu, 30 Apr 2026 19:04:22 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "An SDK will allow developers to start building non-commercial tools soon."
+    },
+    {
+        "id": "https://www.engadget.com/2161453/city-of-none-is-the-next-game-from-the-co-creator-of-celeste/",
+        "title": "City of None is the next game from the co-creator of Celeste",
+        "link": "https://www.engadget.com/2161453/city-of-none-is-the-next-game-from-the-co-creator-of-celeste/",
+        "published": "Thu, 30 Apr 2026 18:51:41 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Extremely OK Games is publishing the project."
+    },
+    {
+        "id": "https://www.engadget.com/2161434/anbernics-swiveling-retro-handheld-will-be-available-may-11/",
+        "title": "Anbernic's swiveling retro handheld will be available May 11",
+        "link": "https://www.engadget.com/2161434/anbernics-swiveling-retro-handheld-will-be-available-may-11/",
+        "published": "Thu, 30 Apr 2026 18:33:41 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The RG Rotate starts at just $88."
+    },
+    {
+        "id": "https://www.engadget.com/2161419/lgs-ultragear-evo-5k-gaming-monitor-is-available-to-pre-order/",
+        "title": "LG's UltraGear evo 5K gaming monitor is available to pre-order",
+        "link": "https://www.engadget.com/2161419/lgs-ultragear-evo-5k-gaming-monitor-is-available-to-pre-order/",
+        "published": "Thu, 30 Apr 2026 18:24:08 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The monitor uses a Mini LED screen and supports AI upscaling for lower resolution content."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+        "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+        "link": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+        "published": "Thu, 30 Apr 2026 18:42:50 +0000",
+        "source": "MIT Technology Review",
+        "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for &#8220;brainless clones&#8221; to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories: Access all subscriber-only eBooks:"
+    },
+    {
+        "id": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+        "title": "CopyFail was not disclosed to Gentoo developer",
+        "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+        "published": "Thu, 30 Apr 2026 16:43:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47965108\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-security-in-public-beta-for-enterprise-customers/articleshow/130649889.cms",
+        "title": "Anthropic launches Claude Security in public beta for enterprise customers",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-security-in-public-beta-for-enterprise-customers/articleshow/130649889.cms",
+        "published": "Fri, 01 May 2026 00:32:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic has launched Claude Security in public beta, an AI-powered tool for enterprise security teams to scan codebases for vulnerabilities and generate patches. Powered by Claude Opus 4.7, the product reasons through code like a human researcher, tracing data flows and mapping component interactions. This offering aims to enhance code security by identifying bugs missed by traditional tools."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/musk-testifies-he-did-not-read-fine-print-about-openai-becoming-for-profit-company/articleshow/130649672.cms",
+        "title": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company",
+        "link": "https://economictimes.indiatimes.com/tech/technology/musk-testifies-he-did-not-read-fine-print-about-openai-becoming-for-profit-company/articleshow/130649672.cms",
+        "published": "Fri, 01 May 2026 00:29:05 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Elon Musk is in court battling Sam Altman's lawyer over his lawsuit against OpenAI. Musk claims the AI company abandoned its nonprofit mission for profit. He seeks massive damages and a return to its original structure. OpenAI argues Musk is motivated by control and bitterness. The trial is ongoing and could shape AI's future."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-sees-daily-active-users-decline-by-20-million-across-fb-instagram-and-whatsapp-heres-why/articleshow/130645894.cms",
+        "title": "Meta sees daily active users decline by 20 million across FB, Instagram and WhatsApp: Here's why",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-sees-daily-active-users-decline-by-20-million-across-fb-instagram-and-whatsapp-heres-why/articleshow/130645894.cms",
+        "published": "Thu, 30 Apr 2026 23:11:34 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta Platforms experienced a slight decline of 20 million daily active users across its social media platforms in Q1 CY 2026, marking a break in its growth streak. While external factors were cited, the dip may signal user saturation or dissatisfaction as the company heavily invests in AI and infrastructure."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ev-founders-say-pli-auto-needs-an-overhaul-leaves-startup-at-a-disadvantage/articleshow/130645733.cms",
+        "title": "EV founders say PLI Auto needs an overhaul, leaves startup at a disadvantage",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ev-founders-say-pli-auto-needs-an-overhaul-leaves-startup-at-a-disadvantage/articleshow/130645733.cms",
+        "published": "Thu, 30 Apr 2026 23:09:11 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Electric vehicle startups are pushing back against the current production-linked incentive (PLI) scheme for automobiles, arguing its stringent eligibility criteria favor established players. EV-first companies, despite leading in technology and localization, are excluded, facing a significant cost disadvantage against traditional OEMs. Founders call for reforms to align the scheme with India's evolving EV landscape."
+    },
+    {
+        "id": "https://inc42.com/buzz/fractal-overhauls-operations-appoints-three-new-ai-chiefs/",
+        "title": "Fractal Overhauls Operations, Appoints Three New AI Chiefs",
+        "link": "https://inc42.com/buzz/fractal-overhauls-operations-appoints-three-new-ai-chiefs/",
+        "published": "Thu, 30 Apr 2026 19:02:39 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Fractal Overhauls Operations, Appoints Three New AI Chiefs\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/fractal-ftr-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Listed AI and advanced analytics startup Fractal is overhauling its operations. In a filing with the exchanges yesterday, the company&#8230;"
     }
 ]
