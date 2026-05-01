@@ -213870,5 +213870,45 @@
         "published": "Fri, 01 May 2026 17:27:03 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47977470\">Comments</a>"
+    },
+    {
+        "id": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
+        "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
+        "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
+        "published": "Fri, 01 May 2026 20:30:00 +0000",
+        "source": "WIRED",
+        "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched\u2014but many machines remain at risk."
+    },
+    {
+        "id": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+        "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+        "published": "Fri, 01 May 2026 20:25:28 +0000",
+        "source": "WIRED",
+        "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China."
+    },
+    {
+        "id": "https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/",
+        "title": "Apple appears to have discontinued its cheapest Mac mini",
+        "link": "https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/",
+        "published": "Fri, 01 May 2026 20:33:29 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The compact desktop Mac now starts at $799 and comes with 512GB of storage."
+    },
+    {
+        "id": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+        "title": "Ti-84 Evo",
+        "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+        "published": "Fri, 01 May 2026 20:06:59 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47979583\">Comments</a>"
+    },
+    {
+        "id": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+        "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+        "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+        "published": "Fri, 01 May 2026 18:37:47 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47978370\">Comments</a>"
     }
 ]
