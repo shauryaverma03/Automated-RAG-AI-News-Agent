@@ -213566,5 +213566,133 @@
         "published": "Fri, 01 May 2026 21:08:02 +0530",
         "source": "Tech-Economic Times",
         "summary": "United States antitrust authorities have finished reviewing Intel's investment in SambaNova. Intel invested $35 million in the chip startup, increasing its stake. This move follows a previous investment and a planned additional $15 million. The review's completion signals regulatory approval for Intel's growing interest in SambaNova."
+    },
+    {
+        "id": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
+        "title": "This accessory can snap a Steam Controller to your phone \u2014 or almost anything else",
+        "link": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
+        "published": "2026-05-01T13:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism's lineup of accessories, including mounts for hanging handhelds and gamepads on the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets",
+        "title": "Players from the NBA, NFL, and MLB call for a ban on betting &#8216;unders&#8217;",
+        "link": "https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets",
+        "published": "2026-05-01T12:57:27-04:00",
+        "source": "The Verge",
+        "summary": "The unions backing professional NBA, NFL, MLB, NHL, and MLS players are calling on the Commodity Futures Trading Commission (CFTC) to ban prediction market platforms from allowing users to bet on a player's underperformance or injury, Sports Business Journal reports. In their letter, the unions cite the need for \"appropriate regulations\" to protect athletes and [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
+        "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help",
+        "link": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
+        "published": "2026-05-01T12:55:16-04:00",
+        "source": "The Verge",
+        "summary": "Nearly every Linux distribution released since 2017 is currently vulnerable to a security bug called \"Copy Fail\" that allows any user to give themselves administrator privileges. The exploit, publicly disclosed as CVE-2026-31431 on Wednesday, uses a Python script that works across all of the vulnerable Linux distributions, requiring \"no per-distro offsets, no version checks, no [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/",
+        "title": "The Chinese Government Just Got the World\u2019s Largest Digital Rights Conference Canceled",
+        "link": "https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/",
+        "published": "Fri, 01 May 2026 16:49:22 +0000",
+        "source": "WIRED",
+        "summary": "Access Now, the group that organizes RightsCon, says Zambian officials asked it to exclude Taiwanese participants if it wanted the event to proceed as planned."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
+        "title": "Scorpions go terminator mode and reinforce their weapons with metal",
+        "link": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
+        "published": "Fri, 01 May 2026 16:24:45 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Different hunting patterns seem to dictate different distributions of metal."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+        "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+        "link": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+        "published": "Fri, 01 May 2026 15:32:27 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\""
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/05/is-your-purosangue-suv-not-sharp-enough-ferrari-has-you-covered/",
+        "title": "Is your Purosangue SUV not sharp enough? Ferrari has you covered.",
+        "link": "https://arstechnica.com/cars/2026/05/is-your-purosangue-suv-not-sharp-enough-ferrari-has-you-covered/",
+        "published": "Fri, 01 May 2026 15:23:38 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "We'll soon get to see the brand's first EV; first, a more honed V12 four-seater."
+    },
+    {
+        "id": "https://www.engadget.com/2162117/its-bandcamp-friday-again/",
+        "title": "It's Bandcamp Friday again",
+        "link": "https://www.engadget.com/2162117/its-bandcamp-friday-again/",
+        "published": "Fri, 01 May 2026 17:42:30 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "What are you buying today?"
+    },
+    {
+        "id": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
+        "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
+        "link": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
+        "published": "Fri, 01 May 2026 16:17:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47976529\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-we-test-ai-at-zdnet/",
+        "title": "How we test AI at ZDNET",
+        "link": "https://www.zdnet.com/article/how-we-test-ai-at-zdnet/",
+        "published": "Fri, 01 May 2026 17:39:00 GMT",
+        "source": "Latest news",
+        "summary": "AI is the hottest topic in tech with new models and products launching daily. Here's how we test the latest AI developments at ZDNET."
+    },
+    {
+        "id": "https://www.zdnet.com/article/m5stack-cardputer-adv-review/",
+        "title": "This portable computer is the Raspberry Pi alternative I didn't know I needed",
+        "link": "https://www.zdnet.com/article/m5stack-cardputer-adv-review/",
+        "published": "Fri, 01 May 2026 17:09:00 GMT",
+        "source": "Latest news",
+        "summary": "The M5Stack Cardputer Adv is a self-contained pocket computer packed with promise."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-faces-us-lawmaker-scrutiny-over-removal-of-lawyer-ads-for-social-media-addiction-cases/articleshow/130683590.cms",
+        "title": "Meta faces US lawmaker scrutiny over removal of lawyer ads for social media addiction cases",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-faces-us-lawmaker-scrutiny-over-removal-of-lawyer-ads-for-social-media-addiction-cases/articleshow/130683590.cms",
+        "published": "Fri, 01 May 2026 23:08:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Two US senators have written to Meta CEO Mark Zuckerberg. They criticize the company's decision to remove advertisements. These ads were from attorneys seeking clients harmed by social media platforms. The attorneys aimed to recruit plaintiffs for lawsuits. These lawsuits accuse companies like Meta of fueling a youth mental health crisis. Senators state this removal preserves a harmful business model."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/peter-thiels-founders-fund-raises-6-billion-in-its-largest-ever-haul/articleshow/130683345.cms",
+        "title": "Peter Thiel\u2019s Founders Fund raises $6 billion in its largest-ever haul",
+        "link": "https://economictimes.indiatimes.com/tech/funding/peter-thiels-founders-fund-raises-6-billion-in-its-largest-ever-haul/articleshow/130683345.cms",
+        "published": "Fri, 01 May 2026 22:54:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Peter Thiel\u2019s Founders Fund has secured a record $6 billion for its latest growth-stage fund, primarily from external limited partners. This rapid deployment of capital reflects a trend of mature startups seeking substantial private investment over public offerings. The fund will focus on a dozen concentrated bets, continuing the firm's strategy of backing marquee companies."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-officials-weigh-cutting-deadlines-to-fix-digital-flaws-amid-worries-over-ai-powered-hacking/articleshow/130683178.cms",
+        "title": "US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-officials-weigh-cutting-deadlines-to-fix-digital-flaws-amid-worries-over-ai-powered-hacking/articleshow/130683178.cms",
+        "published": "Fri, 01 May 2026 22:46:09 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US cybersecurity officials are looking at drastically cutting the time for government agencies to fix serious IT system flaws. This move comes as advanced AI tools can now find and exploit vulnerabilities much faster. The proposed change could reduce the fix deadline from two weeks to just three days. This aims to speed up defenses against rapidly evolving cyber threats."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-augment-workers-not-replace-them-ceo-sam-altman/articleshow/130682895.cms",
+        "title": "OpenAI to augment workers, not replace them: CEO Sam Altman",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-augment-workers-not-replace-them-ceo-sam-altman/articleshow/130682895.cms",
+        "published": "Fri, 01 May 2026 22:43:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI CEO Sam Altman believes AI will make people busier, not replace them, despite acknowledging significant labor market disruption. He stated the company aims to build tools that augment human capabilities, not replace them. Altman's comments align with OpenAI's plans to nearly double its workforce and its guiding principles for artificial general intelligence development."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/weekly-funding-roundup-april-25-may-1-vc-inflow-records-a-sharp-rise",
+        "title": "[Weekly funding roundup April 25-May 1] VC inflow records a sharp rise",
+        "link": "https://yourstory.com/2026/05/weekly-funding-roundup-april-25-may-1-vc-inflow-records-a-sharp-rise",
+        "published": "Fri, 01 May 2026 13:03:59 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Indian startup funding bounced back to $219 million across 18 deals in the last week of April, led by mid-sized transactions and broader sector participation."
     }
 ]
