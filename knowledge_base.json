@@ -214374,5 +214374,69 @@
         "published": "Sat, 02 May 2026 16:38:22 +0530",
         "source": "Tech-Economic Times",
         "summary": "OpenAI CEO Sam Altman has extended an invitation to Elon Musk for the upcoming GPT-5.5 private event. The event is reportedly scheduled for May 5 in San Francisco."
+    },
+    {
+        "id": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
+        "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
+        "link": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
+        "published": "2026-05-02T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodeg&#229;rd. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons &#38; Dragons: You play as a cleric wandering around a small town who's trying to figure out, among other things, the mystery of why [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+        "title": "The things we\u2019re building",
+        "link": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+        "published": "2026-05-02T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and also you can read all the old editions at the Installer homepage.) Happy Ruthless Self-Promotion Week! We're dedicating almost all of this [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+        "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
+        "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+        "published": "Sat, 02 May 2026 11:30:26 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Acoustic fire suppression goes commercial."
+    },
+    {
+        "id": "https://github.com/dotcl/dotcl",
+        "title": "Dotcl: Common Lisp Implementation on .NET",
+        "link": "https://github.com/dotcl/dotcl",
+        "published": "Thu, 30 Apr 2026 16:33:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47964957\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman/articleshow/130716417.cms",
+        "title": "AI is driving new wave of startups with smaller teams: OpenAI CEO Sam Altman",
+        "link": "https://economictimes.indiatimes.com/tech/startups/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman/articleshow/130716417.cms",
+        "published": "Sat, 02 May 2026 17:52:32 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI CEO Sam Altman believes artificial intelligence is fueling a new wave of startups, empowering small teams and even individuals to build and scale businesses. He highlighted that AI's advancements are lowering entry barriers, enabling efficient, lean companies. This technological shift, akin to past platform revolutions, is creating fertile ground for innovation and significant scientific and economic progress."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman/articleshow/130716397.cms",
+        "title": "AI is driving new wave of startups with smaller teams: OpenAI CEO Sam Altman",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman/articleshow/130716397.cms",
+        "published": "Sat, 02 May 2026 17:52:32 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI CEO Sam Altman believes artificial intelligence is fueling a new wave of startups, empowering small teams and even individuals to build and scale businesses. He highlighted that AI's advancements are lowering entry barriers, enabling efficient, lean companies. This technological shift, akin to past platform revolutions, is creating fertile ground for innovation and significant scientific and economic progress."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/swiggy-elevates-insider-swapnil-bajpai-lead-dineout-scenes",
+        "title": "Swiggy elevates insider Swapnil Bajpai to lead Dineout & Scenes",
+        "link": "https://yourstory.com/2026/05/swiggy-elevates-insider-swapnil-bajpai-lead-dineout-scenes",
+        "published": "Sat, 02 May 2026 09:53:08 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Bajpai, who announced the move internally, steps into the role after several years within Swiggy across business, sales, supply and monetisation functions. Most recently, he served as Senior Vice President and Business Head for Swiggy Dineout."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/tim-cook-over-the-moon-on-india-growth",
+        "title": "Tim Cook \u2018over the moon\u2019 on India growth; VC inflow records a sharp rise",
+        "link": "https://yourstory.com/2026/05/tim-cook-over-the-moon-on-india-growth",
+        "published": "Sat, 02 May 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Apple CEO Tim Cook highlighted India\u2019s rising middle class as the iPhone maker delivered strong double-digit growth;  VC activity rebounded sharply in April last week, driven largely by several deals exceeding $20 million."
     }
 ]
