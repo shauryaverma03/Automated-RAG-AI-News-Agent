@@ -214694,5 +214694,29 @@
         "published": "Sat, 02 May 2026 17:40:55 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47988592\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+        "title": "Farewell, Jeeves: Ask.com shuts down",
+        "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
+        "published": "Sat, 02 May 2026 21:11:28 +0000",
+        "source": "TechCrunch",
+        "summary": "Owner IAC says it's discontinuing its search business."
+    },
+    {
+        "id": "https://github.com/microsoft/vscode/pull/310226",
+        "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+        "link": "https://github.com/microsoft/vscode/pull/310226",
+        "published": "Sat, 02 May 2026 19:57:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47989883\">Comments</a>"
+    },
+    {
+        "id": "https://ladybird.org/newsletter/2026-04-30/",
+        "title": "This Month in Ladybird - April 2026",
+        "link": "https://ladybird.org/newsletter/2026-04-30/",
+        "published": "Sat, 02 May 2026 20:46:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47990318\">Comments</a>"
     }
 ]
