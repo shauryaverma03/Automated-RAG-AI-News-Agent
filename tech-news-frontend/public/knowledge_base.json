@@ -214654,5 +214654,29 @@
         "published": "Sat, 02 May 2026 17:59:18 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47988742\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/",
+        "title": "OpenAI introduces AI-generated pets for its Codex app",
+        "link": "https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/",
+        "published": "Sat, 02 May 2026 19:31:53 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "It's like Microsoft's Clippy, but useful."
+    },
+    {
+        "id": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
+        "title": "Unsigned Sizes: A Five Year Mistake",
+        "link": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
+        "published": "Sat, 02 May 2026 18:40:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47989154\">Comments</a>"
+    },
+    {
+        "id": "https://flueframework.com/",
+        "title": "Flue is a TypeScript framework for building the next generation of agents",
+        "link": "https://flueframework.com/",
+        "published": "Sat, 02 May 2026 17:32:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47988501\">Comments</a>"
     }
 ]
