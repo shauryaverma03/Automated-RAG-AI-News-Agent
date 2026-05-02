@@ -214494,5 +214494,37 @@
         "published": "Sat, 02 May 2026 18:57:49 +0530",
         "source": "Tech-Economic Times",
         "summary": "OpenAI CEO Sam Altman revealed the company's future focus on accelerating scientific research, boosting economic productivity, and developing \"personal AGI.\" He highlighted robotics and automated manufacturing as key, envisioning AI assisting in scientific breakthroughs and enabling \"automated startups."
+    },
+    {
+        "id": "https://github.com/EnterpriseDB/barman",
+        "title": "Barman \u2013 Backup and Recovery Manager for PostgreSQL",
+        "link": "https://github.com/EnterpriseDB/barman",
+        "published": "Wed, 29 Apr 2026 13:54:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47948526\">Comments</a>"
+    },
+    {
+        "id": "https://arxiv.org/abs/2406.11717",
+        "title": "Refusal in Language Models Is Mediated by a Single Direction",
+        "link": "https://arxiv.org/abs/2406.11717",
+        "published": "Sat, 02 May 2026 13:15:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47986136\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-ai-inference-chips-from-uk-startup-fractile-report/articleshow/130718278.cms",
+        "title": "Anthropic in talks to buy AI inference chips from UK startup Fractile: Report",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-ai-inference-chips-from-uk-startup-fractile-report/articleshow/130718278.cms",
+        "published": "Sat, 02 May 2026 19:45:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic is in talks to buy AI inference chips from UK startup Fractile."
+    },
+    {
+        "id": "https://inc42.com/buzz/centre-notifies-100-fdi-in-insurance-sector/",
+        "title": "Centre Notifies 100% FDI In Insurance Sector",
+        "link": "https://inc42.com/buzz/centre-notifies-100-fdi-in-insurance-sector/",
+        "published": "Sat, 02 May 2026 14:09:25 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"DPIIT Holds Discussions With VCs &amp; PEs To Spur FDI\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/01/startup-FDI-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Centre has allowed up to 100% foreign direct investment (FDI) in insurance companies under the automatic route, weeks after&#8230;"
     }
 ]
