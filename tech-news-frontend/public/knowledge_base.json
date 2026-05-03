@@ -214814,5 +214814,45 @@
         "published": "Sun, 03 May 2026 02:10:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 230th quiz. Ready?"
+    },
+    {
+        "id": "https://acai.sh/blog/specsmaxxing",
+        "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
+        "link": "https://acai.sh/blog/specsmaxxing",
+        "published": "Sun, 03 May 2026 06:33:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47994012\">Comments</a>"
+    },
+    {
+        "id": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+        "title": "The IBM Granite 4.1 family of models",
+        "link": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+        "published": "Thu, 30 Apr 2026 14:01:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47962645\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/public-sector-banks-to-ramp-up-it-spend-amid-cyber-risks-from-anthropics-mythos/articleshow/130728416.cms",
+        "title": "Public sector banks to ramp up IT spend amid cyber risks from Anthropic's Mythos",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/public-sector-banks-to-ramp-up-it-spend-amid-cyber-risks-from-anthropics-mythos/articleshow/130728416.cms",
+        "published": "Sun, 03 May 2026 12:08:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian banks are boosting IT investments to protect customer data and financial systems. Advanced AI tools like Claude Mythos pose new cybersecurity risks. Banks are enhancing defenses to counter potential cyberattacks. A government panel is assessing these AI-driven threats. This proactive approach aims to secure the financial sector against evolving digital dangers."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sis-ltd-eyes-rs-20000-crore-revenue-in-fy27-targets-5-lakh-workforce-by-2030/articleshow/130728245.cms",
+        "title": "SIS Ltd eyes Rs 20,000 crore revenue in FY27; targets 5 lakh workforce by 2030",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sis-ltd-eyes-rs-20000-crore-revenue-in-fy27-targets-5-lakh-workforce-by-2030/articleshow/130728245.cms",
+        "published": "Sun, 03 May 2026 11:34:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SIS Ltd targets Rs 20,000 crore revenue by FY27. The security and facility management firm anticipates strong growth fueled by network expansion and new labour codes. The company is also embracing AI for enhanced customer service and operational efficiency. SIS plans to increase its workforce significantly by 2030."
+    },
+    {
+        "id": "https://inc42.com/features/snabbits-micromarket-push/",
+        "title": "Snabbit\u2019s Micromarket Push",
+        "link": "https://inc42.com/features/snabbits-micromarket-push/",
+        "published": "Sun, 03 May 2026 05:30:29 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Snabbit\u2019s Micromarket Push\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/outline-snabbit-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />First, groceries arrived in 10 minutes. Now, even house help is going instant. India is seeing the rise of a&#8230;"
     }
 ]
