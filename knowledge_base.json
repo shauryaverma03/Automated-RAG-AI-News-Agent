@@ -215174,5 +215174,37 @@
         "published": "Fri, 01 May 2026 09:56:47 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47972922\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+        "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "published": "Sun, 03 May 2026 18:00:09 +0000",
+        "source": "TechCrunch",
+        "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases \u2014 where at least one model seemed to be more accurate than human doctors."
+    },
+    {
+        "id": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+        "title": "Southwest Headquarters Tour",
+        "link": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+        "published": "Sun, 03 May 2026 17:02:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47998946\">Comments</a>"
+    },
+    {
+        "id": "https://partyon.xyz/@nullagent/116499715071759135",
+        "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
+        "link": "https://partyon.xyz/@nullagent/116499715071759135",
+        "published": "Sun, 03 May 2026 18:03:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47999636\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/galaxeye-eyes-8-week-timeline-to-begin-commercial-data-rollout-defence-demand-to-anchor-early-revenues/articleshow/130738683.cms",
+        "title": "GalaxEye eyes 8-week timeline to begin commercial data rollout; defence demand to anchor early revenues",
+        "link": "https://economictimes.indiatimes.com/tech/startups/galaxeye-eyes-8-week-timeline-to-begin-commercial-data-rollout-defence-demand-to-anchor-early-revenues/articleshow/130738683.cms",
+        "published": "Mon, 04 May 2026 00:00:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "GalaxEye is set to launch commercial sales of satellite imagery from its new Mission Drishti satellite in eight weeks. Defence and security agencies are anticipated to be the primary customers. The company's satellite combines advanced radar and multispectral sensors. This move signifies a significant step in monetizing private space technology in India, moving beyond experimental phases to scalable applications."
     }
 ]
