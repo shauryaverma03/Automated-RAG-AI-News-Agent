@@ -214750,5 +214750,29 @@
         "published": "Sat, 02 May 2026 20:42:20 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47990284\">Comments</a>"
+    },
+    {
+        "id": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+        "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+        "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+        "published": "Sun, 03 May 2026 00:01:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47991802\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/why-i-own-4-different-pairs-of-headphones/",
+        "title": "Why I own 4 different pairs of headphones, and how I effectively use each one",
+        "link": "https://www.zdnet.com/article/why-i-own-4-different-pairs-of-headphones/",
+        "published": "Sun, 03 May 2026 01:01:07 GMT",
+        "source": "Latest news",
+        "summary": "While a true 'all-in-one' pair of headphones may not exist for every user, these four come pretty close."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-enable-android-data-saver-mode-and-why/",
+        "title": "I enabled Data Saver mode on my Android phone to avoid overcharges - and it's a big relief",
+        "link": "https://www.zdnet.com/article/how-to-enable-android-data-saver-mode-and-why/",
+        "published": "Sun, 03 May 2026 01:00:49 GMT",
+        "source": "Latest news",
+        "summary": "Android makes it easy for me to manage my data use and prevent it from exceeding my plan's limit. Here's how."
     }
 ]
