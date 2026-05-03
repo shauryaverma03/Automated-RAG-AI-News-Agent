@@ -214958,5 +214958,45 @@
         "published": "Thu, 30 Apr 2026 22:35:36 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=47969142\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+        "title": "AI music is flooding streaming services \u2014 but who wants it?",
+        "link": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+        "published": "2026-05-03T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI [&#8230;]"
+    },
+    {
+        "id": "https://www.zdnet.com/article/i-stopped-common-charging-habit-killing-iphone-battery/",
+        "title": "A common charging habit was quietly killing my iPhone's battery - here's the fix",
+        "link": "https://www.zdnet.com/article/i-stopped-common-charging-habit-killing-iphone-battery/",
+        "published": "Sun, 03 May 2026 12:00:41 GMT",
+        "source": "Latest news",
+        "summary": "By charging my iPhone at one particular spot, I was damaging my battery and shortening its lifespan. Here's what I do now to avoid that."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/metas-q1-earnings-show-ai-driving-engagement-ad-gains-across-platforms/articleshow/130732668.cms",
+        "title": "Meta\u2019s Q1 earnings show AI driving engagement, ad gains across platforms",
+        "link": "https://economictimes.indiatimes.com/tech/technology/metas-q1-earnings-show-ai-driving-engagement-ad-gains-across-platforms/articleshow/130732668.cms",
+        "published": "Sun, 03 May 2026 18:05:05 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta's AI advancements are boosting user engagement and ad revenue significantly.  Higher video consumption on Instagram and Facebook, coupled with improved ad conversion rates, highlight AI's impact.  The company is expanding AI-powered tools for content discovery and advertiser solutions, driving substantial growth and promising further innovation."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/big-tech-pours-billions-into-ai-while-thousands-pack-their-bags/articleshow/130732485.cms",
+        "title": "Big Tech pours billions into AI while thousands pack their bags",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/big-tech-pours-billions-into-ai-while-thousands-pack-their-bags/articleshow/130732485.cms",
+        "published": "Sun, 03 May 2026 17:56:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Big Tech's March quarter 2026 earnings reveal a significant AI-driven transformation, with revenue up across the board. Companies are projecting record capital expenditure on AI infrastructure, exceeding $674 billion for 2026, while simultaneously implementing widespread job cuts. This strategic redirection of savings aims to fuel AI investments and data center expansion."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/ai-driven-pricing-pressure-cost-cuts-reshape-india-it-outlook-report/articleshow/130732370.cms",
+        "title": "AI-driven pricing pressure, cost cuts reshape India IT outlook: Report",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/ai-driven-pricing-pressure-cost-cuts-reshape-india-it-outlook-report/articleshow/130732370.cms",
+        "published": "Sun, 03 May 2026 17:47:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Artificial intelligence (AI) is increasingly reshaping the growth and margin outlook for India's IT services sector, with firms facing rising pricing pressure even as new demand opportunities emerge, according to a recent sector report by Kotak Institutional Equities."
     }
 ]
