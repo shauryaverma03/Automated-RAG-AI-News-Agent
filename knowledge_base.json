@@ -215046,5 +215046,61 @@
         "published": "Sun, 03 May 2026 13:00:45 GMT",
         "source": "Latest news",
         "summary": "You don't have to shell out hundreds (or thousands) of dollars on smart speakers for a robust home entertainment setup."
+    },
+    {
+        "id": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
+        "title": "Reggie Fils-Aim\u00e9 says Amazon once asked Nintendo to break the law",
+        "link": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
+        "published": "2026-05-03T11:24:27-04:00",
+        "source": "The Verge",
+        "summary": "Way back in the DS days, Nintendo decided to stop selling to Amazon. During a recent lecture at NYU, former Nintendo of America President Reggie Fils-Aim&#233; said it was because Amazon was seeking preferential treatment that would have hurt its relationship with other retailers, and potentially broken the law. The two sides have since made [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
+        "title": "Shokz\u2019s bassy OpenRun Pro 2 are $40 off thanks to a new Mother\u2019s Day promo",
+        "link": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
+        "published": "2026-05-03T11:00:00-04:00",
+        "source": "The Verge",
+        "summary": "If you\u2019re looking to pick up a pair of open-ear headphones for yourself \u2014 or your mom \u2014 Shokz is running a Mother\u2019s Day sale. Now through May 10th, the company\u2019s best pair of bone conduction headphones, the OpenRun Pro 2, are available from Amazon, Best Buy, and Shokz for around $139.95 ($40 off), their [&#8230;]"
+    },
+    {
+        "id": "https://simpleobservability.com/docs/alert-driven-monitoring",
+        "title": "Alert-Driven Monitoring",
+        "link": "https://simpleobservability.com/docs/alert-driven-monitoring",
+        "published": "Sun, 03 May 2026 14:02:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47997056\">Comments</a>"
+    },
+    {
+        "id": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+        "title": "Mercedes-Benz commits to bringing back physical buttons",
+        "link": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+        "published": "Sun, 03 May 2026 14:43:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47997418\">Comments</a>"
+    },
+    {
+        "id": "https://theconsensus.dev/p/2026/05/02/automating-hermitage.html",
+        "title": "Automating Hermitage to see how transactions differ in MySQL and MariaDB",
+        "link": "https://theconsensus.dev/p/2026/05/02/automating-hermitage.html",
+        "published": "Sat, 02 May 2026 20:16:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47990047\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/tech-bytes/internet-celebrates-galaxeyes-launch-of-worlds-first-optosar-satellite/articleshow/130735158.cms",
+        "title": "Internet celebrates Galaxeye's launch of world's first OptoSAR satellite",
+        "link": "https://economictimes.indiatimes.com/tech/tech-bytes/internet-celebrates-galaxeyes-launch-of-worlds-first-optosar-satellite/articleshow/130735158.cms",
+        "published": "Sun, 03 May 2026 20:58:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's private space sector reached a new height on Sunday. GalaxEye successfully launched its Mission Drishti satellite. This 190-kilogram satellite is the largest ever built by an Indian private company. Mission Drishti is the world's first OptoSAR satellite. It combines electro-optical and radar sensors for advanced Earth observation. Prime Minister Narendra Modi hailed the launch as a major achievement."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/the-end-of-ask-com-and-the-shifting-sands-of-internet-use/articleshow/130734970.cms",
+        "title": "The end of Ask.com, and the shifting sands of internet use",
+        "link": "https://economictimes.indiatimes.com/tech/technology/the-end-of-ask-com-and-the-shifting-sands-of-internet-use/articleshow/130734970.cms",
+        "published": "Sun, 03 May 2026 20:33:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "After a 25-year run, Ask Jeeves has officially shut down as part of a strategic shift by parent company IAC. Launched in 1996 as a conversational search engine, the platform's closure reflects a broader transition in internet usage away from traditional search towards AI-driven direct answers."
     }
 ]
