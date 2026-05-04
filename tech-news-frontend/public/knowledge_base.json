@@ -216550,5 +216550,29 @@
         "published": "Mon, 04 May 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Bluspring Enterprises, one of the leading infrastructure management services companiess in India, is eyeing a 3x growth over the country\u2019s GDP growth rate, and has laid out ambitious growth plans to achieve the goal."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+        "title": "U.S. government warns of severe CopyFail bug affecting major versions of Linux",
+        "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+        "published": "Mon, 04 May 2026 22:21:32 +0000",
+        "source": "TechCrunch",
+        "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and datacenters that rely on Linux."
+    },
+    {
+        "id": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+        "title": "Elon Musk will settle the feds\u2019 Twitter lawsuit with pocket change",
+        "link": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+        "published": "2026-05-04T18:11:17-04:00",
+        "source": "The Verge",
+        "summary": "Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's own lawsuit against Sam Altman continues to play out. A week before the Trump administration took over, the department [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+        "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+        "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+        "published": "Mon, 04 May 2026 21:38:37 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"To be clear: Notepad++ has never released a macOS version.\""
     }
 ]
