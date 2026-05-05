@@ -218198,5 +218198,37 @@
         "published": "Tue, 05 May 2026 21:26:50 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48028842\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+        "title": "Bumble\u2019s paying users are slipping as it bets on an overhaul later this year",
+        "link": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+        "published": "Tue, 05 May 2026 23:05:50 +0000",
+        "source": "TechCrunch",
+        "summary": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+        "title": "Altara secures $7M to bridge the data gap that\u2019s slowing down physical sciences",
+        "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+        "published": "Tue, 05 May 2026 22:57:41 +0000",
+        "source": "TechCrunch",
+        "summary": "Altara\u2019s AI aims to diagnose failures and help speed up R&#038;D by unifying  data siloed across spreadsheets and legacy systems."
+    },
+    {
+        "id": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+        "title": "\u2018I Actually Thought He Was Going to Hit Me,\u2019 OpenAI\u2019s Greg Brockman Says of Elon Musk",
+        "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+        "published": "Tue, 05 May 2026 23:24:58 +0000",
+        "source": "WIRED",
+        "summary": "OpenAI\u2019s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk and subsequent efforts to remove several board members."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+        "title": "OpenAI president forced to read his personal diary entries to jury",
+        "link": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+        "published": "Tue, 05 May 2026 22:28:12 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission."
     }
 ]
