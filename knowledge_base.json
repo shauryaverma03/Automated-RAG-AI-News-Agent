@@ -217822,5 +217822,141 @@
         "published": "Tue, 05 May 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Hello,Desh Bandhu Gupta, who grew up in a house without electricity or water, founded Lupin, a leading pharma company that sends 20 billion pills to America every year."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
+        "title": "Threads finally brings messaging to the web",
+        "link": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
+        "published": "Tue, 05 May 2026 18:34:20 +0000",
+        "source": "TechCrunch",
+        "summary": "By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
+        "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
+        "link": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
+        "published": "Tue, 05 May 2026 18:09:03 +0000",
+        "source": "TechCrunch",
+        "summary": "Arnell joins Gebbia\u2019s National Design Studio under Trump to unify UX across 27,000 federal sites and streamline how Americans use government services."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+        "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+        "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+        "published": "Tue, 05 May 2026 17:46:10 +0000",
+        "source": "TechCrunch",
+        "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license."
+    },
+    {
+        "id": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
+        "title": "Threads is finally getting DMs on the web",
+        "link": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
+        "published": "2026-05-05T14:30:42-04:00",
+        "source": "The Verge",
+        "summary": "Nearly a year after rolling out Threads direct messaging to everyone on mobile, Meta is finally bringing the feature to the web. Meta says it's \"testing\" DMs on the web now, but plans to make the feature \"available to more people soon.\" In your DM page on the web, you can see your inbox and [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+        "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+        "link": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+        "published": "Tue, 05 May 2026 17:17:25 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
+        "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
+        "link": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
+        "published": "Tue, 05 May 2026 17:07:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "SEC alleged Musk's late disclosure cheated Twitter investors out of $150 million."
+    },
+    {
+        "id": "https://www.engadget.com/2165363/the-next-call-of-duty-is-not-coming-to-ps4-or-presumably-xbox-one/",
+        "title": "The next Call of Duty is not coming to PS4 (or presumably Xbox One)",
+        "link": "https://www.engadget.com/2165363/the-next-call-of-duty-is-not-coming-to-ps4-or-presumably-xbox-one/",
+        "published": "Tue, 05 May 2026 19:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Activision Blizzard seems to be focusing on next-gen platforms."
+    },
+    {
+        "id": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
+        "title": "Google Home gains more Gemini-powered camera features",
+        "link": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features/",
+        "published": "Tue, 05 May 2026 18:39:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The company also updated Gemini for Home for those in an early access program."
+    },
+    {
+        "id": "https://www.engadget.com/2165324/the-steam-controller-sold-out-super-quickly-and-valve-is-working-on-a-restock/",
+        "title": "The Steam Controller sold out super quickly and Valve is working on a restock",
+        "link": "https://www.engadget.com/2165324/the-steam-controller-sold-out-super-quickly-and-valve-is-working-on-a-restock/",
+        "published": "Tue, 05 May 2026 18:16:22 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Well, that was fast."
+    },
+    {
+        "id": "https://www.engadget.com/2165298/chatgpts-new-default-model-is-more-factual-and-better-at-personalization/",
+        "title": "ChatGPT's new default model is more factual and better at personalization",
+        "link": "https://www.engadget.com/2165298/chatgpts-new-default-model-is-more-factual-and-better-at-personalization/",
+        "published": "Tue, 05 May 2026 17:59:11 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "OpenAI is deploying GPT-5.5 Instant to all users starting today."
+    },
+    {
+        "id": "https://www.engadget.com/2165288/book-publishers-accuse-meta-and-mark-zuckerberg-of-copyright-infringement/",
+        "title": "Book publishers accuse Meta and Mark Zuckerberg of copyright infringement",
+        "link": "https://www.engadget.com/2165288/book-publishers-accuse-meta-and-mark-zuckerberg-of-copyright-infringement/",
+        "published": "Tue, 05 May 2026 17:52:26 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The class action suit concerns unauthorized scraping by Llama AI."
+    },
+    {
+        "id": "https://arxiv.org/abs/2604.26752",
+        "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+        "link": "https://arxiv.org/abs/2604.26752",
+        "published": "Tue, 05 May 2026 17:52:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48026021\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-back-up-samsung-messages-2-free-options/",
+        "title": "I'm backing up my Samsung Messages before it's too late - 2 free and easy methods",
+        "link": "https://www.zdnet.com/article/how-to-back-up-samsung-messages-2-free-options/",
+        "published": "Tue, 05 May 2026 19:02:04 GMT",
+        "source": "Latest news",
+        "summary": "Your texts don't have to disappear when the app gets shut down in July. Here's how to back them up."
+    },
+    {
+        "id": "https://www.zdnet.com/article/kindle-deals-may-2026/",
+        "title": "Kindles are on sale right now - these are the models I recommend most",
+        "link": "https://www.zdnet.com/article/kindle-deals-may-2026/",
+        "published": "Tue, 05 May 2026 18:32:20 GMT",
+        "source": "Latest news",
+        "summary": "Amazon has some sneaky Kindle deals live ahead of Mother's Day weekend, including the Kindle Paperwhite and Colorsoft. Here are our favorites."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/mark-zuckerberg-personally-authorised-metas-copyright-infringement-publishers-allege/articleshow/130835750.cms",
+        "title": "Mark Zuckerberg 'personally authorised' Meta's copyright infringement, publishers allege",
+        "link": "https://economictimes.indiatimes.com/tech/technology/mark-zuckerberg-personally-authorised-metas-copyright-infringement-publishers-allege/articleshow/130835750.cms",
+        "published": "Tue, 05 May 2026 23:13:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Publishing giants and author Scott Turow have sued Meta and Mark Zuckerberg. They allege Meta illegally used millions of copyrighted books to train its AI system, Llama. The lawsuit claims Meta infringed copyright without permission or compensation. Meta vows to fight the suit aggressively, stating AI training on copyrighted material can be fair use."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apple-to-let-users-choose-rival-ai-models-across-ios-27-features-report/articleshow/130835718.cms",
+        "title": "Apple to let users choose rival AI models across iOS 27 features: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apple-to-let-users-choose-rival-ai-models-across-ios-27-features-report/articleshow/130835718.cms",
+        "published": "Tue, 05 May 2026 23:11:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\u200bApple will \u200ballow users to select \u200cfrom \u2060third-party \u2060AI \u200bmodels for \u200btasks such \u200bas \u2060generating and \u200cediting \u200btext \u200band \u2060images, across its \u200biOS 27 \u200bfeatures."
+    },
+    {
+        "id": "https://inc42.com/buzz/armory-gets-%e2%82%b9100-cr-defence-ministry-order-for-counter-drone-systems/",
+        "title": "Armory Gets \u20b9100 Cr Defence Ministry Order For Counter Drone Systems",
+        "link": "https://inc42.com/buzz/armory-gets-%e2%82%b9100-cr-defence-ministry-order-for-counter-drone-systems/",
+        "published": "Tue, 05 May 2026 17:20:44 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Armory Gets \u20b9100 Cr Defence Ministry Order For Counter Drones\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/armory-CUAS-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Defence tech startup Armory has bagged a \u20b9100 Cr ($10.5 Mn) order from the defence ministry for its AI-powered counter-unmanned&#8230;"
     }
 ]
