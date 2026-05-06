@@ -219558,5 +219558,101 @@
         "published": "Wed, 06 May 2026 20:13:38 GMT",
         "source": "Latest news",
         "summary": "Many users are reporting that Roku TVs get stuck in boot loops, show black screens, or are otherwise unusable."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+        "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+        "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+        "published": "Wed, 06 May 2026 22:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+        "title": "Barry Diller trusts Sam Altman. But \u2018trust is irrelevant\u2019 as AGI nears, he says.",
+        "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+        "published": "Wed, 06 May 2026 21:57:56 +0000",
+        "source": "TechCrunch",
+        "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+        "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
+        "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+        "published": "Wed, 06 May 2026 21:43:24 +0000",
+        "source": "TechCrunch",
+        "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+        "title": "Is xAI a neocloud now?",
+        "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+        "published": "Wed, 06 May 2026 21:32:55 +0000",
+        "source": "TechCrunch",
+        "summary": "xAI's real business may be more about building data centers than training AI models."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
+        "title": "Nintendo announces a new Star Fox for the Switch 2",
+        "link": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
+        "published": "2026-05-06T18:07:46-04:00",
+        "source": "The Verge",
+        "summary": "It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. The game is called, simply, Star Fox, and it's out very soon, launching on June 25th. Nintendo says that it's \"based\" on the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+        "title": "Google shuts down Project Mariner",
+        "link": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+        "published": "2026-05-06T17:21:45-04:00",
+        "source": "The Verge",
+        "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, 2026 and its technology [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
+        "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
+        "link": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
+        "published": "Wed, 06 May 2026 21:24:18 +0000",
+        "source": "WIRED",
+        "summary": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for \u201cvisual cues,\u201d such as height and bone structure."
+    },
+    {
+        "id": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
+        "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
+        "link": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
+        "published": "Wed, 06 May 2026 21:24:34 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent."
+    },
+    {
+        "id": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
+        "title": "Snap's $400 million deal with Perplexity is dead",
+        "link": "https://www.engadget.com/2166545/snaps-400-million-deal-with-perplexity-is-dead/",
+        "published": "Wed, 06 May 2026 21:04:35 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The planned AI search feature for Snapchat never fully rolled out."
+    },
+    {
+        "id": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "published": "Wed, 06 May 2026 15:06:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48037128\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/amazon-prime-mothers-day-2026/",
+        "title": "I hand-picked 10 Mother's Day gifts that will arrive by Sunday",
+        "link": "https://www.zdnet.com/article/amazon-prime-mothers-day-2026/",
+        "published": "Wed, 06 May 2026 21:07:21 GMT",
+        "source": "Latest news",
+        "summary": "Quick shipping saves the day on these last-minute Mother's Day picks, but I'd recommend these items any time of year."
+    },
+    {
+        "id": "https://inc42.com/buzz/apna-mart-moves-base-to-gurugram-lays-off-10-workforce/",
+        "title": "Apna Mart Moves Base To Gurugram, Lays Off 10% Workforce",
+        "link": "https://inc42.com/buzz/apna-mart-moves-base-to-gurugram-lays-off-10-workforce/",
+        "published": "Wed, 06 May 2026 21:14:43 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Apna Mart Moves Base To Gurugram, Lays Off 10% Workforce\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/apnamart-layoffs-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Peak XV-backed quick commerce startup Apna Mart has reportedly laid off around 10% of its workforce as part of a&#8230;"
     }
 ]
