@@ -218542,5 +218542,141 @@
         "published": "Wed, 06 May 2026 05:30:00 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/FTR.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />India is in the middle of a full-blown data centre buildout, with global tech giants stepping in, backed by government&#8230;"
+    },
+    {
+        "id": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+        "title": "Chrome\u2019s AI features may be hogging 4GB of your computer storage",
+        "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+        "published": "2026-05-06T06:13:09-04:00",
+        "source": "The Verge",
+        "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+        "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+        "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+        "published": "Wed, 06 May 2026 10:41:37 +0000",
+        "source": "WIRED",
+        "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as Apple settles class-action lawsuit."
+    },
+    {
+        "id": "https://www.wired.com/review/focal-muso-hekla/",
+        "title": "Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker",
+        "link": "https://www.wired.com/review/focal-muso-hekla/",
+        "published": "Wed, 06 May 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "The Focal Mu-so Hekla can almost replace a multi-speaker surround-sound setup."
+    },
+    {
+        "id": "https://www.wired.com/review/smeg-forte-stand-mixer/",
+        "title": "Smeg Forte Stand Mixer Review: Big Power, Mixed Results",
+        "link": "https://www.wired.com/review/smeg-forte-stand-mixer/",
+        "published": "Wed, 06 May 2026 10:04:00 +0000",
+        "source": "WIRED",
+        "summary": "Smeg\u2019s new retro-looking Forte stand mixer packs some serious power, but its performance isn\u2019t as polished as its design."
+    },
+    {
+        "id": "https://www.wired.com/story/hasan-piker-user-behavior/",
+        "title": "Hasan Piker, Self-Described \u2018Ayatollah of Woke,\u2019 Wants AI to Die",
+        "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
+        "published": "Wed, 06 May 2026 10:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The far-left Twitch streamer says AI is rotting our brains. He\u2019s also addicted to Twitter and listens to at least eight podcasts."
+    },
+    {
+        "id": "https://www.engadget.com/2165815/nuro-approved-to-test-driverless-uber-robotaxis-on-california-roads/",
+        "title": "Nuro approved to test its driverless Uber robotaxis on California roads",
+        "link": "https://www.engadget.com/2165815/nuro-approved-to-test-driverless-uber-robotaxis-on-california-roads/",
+        "published": "Wed, 06 May 2026 08:25:59 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Uber and Nuro plan to start fully autonomous testing later this year."
+    },
+    {
+        "id": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+        "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
+        "link": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+        "published": "Sun, 03 May 2026 16:32:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47998638\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/open-source-repositories-are-being-overwhelmed-but-there-is-an-answer/",
+        "title": "10 trillion downloads are crushing open-source repositories - here's what they're doing about it",
+        "link": "https://www.zdnet.com/article/open-source-repositories-are-being-overwhelmed-but-there-is-an-answer/",
+        "published": "Wed, 06 May 2026 10:01:04 GMT",
+        "source": "Latest news",
+        "summary": "Companies are treating these repositories like content delivery networks - now the Linux Foundation and colleagues are saying enough is enough. Here's the plan."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-get-amazon-prime-for-young-adults/",
+        "title": "Get Amazon Prime for 6 months totally free if you're age 18-24 - here's how",
+        "link": "https://www.zdnet.com/article/how-to-get-amazon-prime-for-young-adults/",
+        "published": "Wed, 06 May 2026 10:00:48 GMT",
+        "source": "Latest news",
+        "summary": "Amazon's Prime for Young Adults plan gets college students and other young people a big break on the membership. Here's what to know."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spacex-files-plan-for-55-billion-terafab-chip-facility-in-texas/articleshow/130852724.cms",
+        "title": "SpaceX files plan for $55 billion Terafab chip facility in Texas",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spacex-files-plan-for-55-billion-terafab-chip-facility-in-texas/articleshow/130852724.cms",
+        "published": "Wed, 06 May 2026 16:08:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SpaceX plans to invest $55 billion in a Texas semiconductor manufacturing facility, Terafab, aiming to significantly increase domestic chip production. This multi-phase complex could eventually reach $119 billion in investment. Local officials are set to review a property tax abatement agreement for the Grimes County project."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/saas-firm-capillary-tech-posts-strong-q4-on-enterprise-wins-kognitiv-integration/articleshow/130850029.cms",
+        "title": "SaaS firm Capillary Tech posts strong Q4 on enterprise wins, Kognitiv integration",
+        "link": "https://economictimes.indiatimes.com/tech/technology/saas-firm-capillary-tech-posts-strong-q4-on-enterprise-wins-kognitiv-integration/articleshow/130850029.cms",
+        "published": "Wed, 06 May 2026 14:52:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Capillary Technologies saw a strong financial performance with a 26% rise in operating revenue for the March quarter. The company's profit after tax surged by 233%. This growth was fueled by expanding its customer base, securing new contracts, and integrating its recent Kognitiv acquisition. Capillary also highlighted its strategic partnership with a US retailer and its expanding global reach."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/is-openai-launching-a-mobile-phone-heres-the-lowdown/articleshow/130849659.cms",
+        "title": "Is OpenAI launching a mobile phone? Here\u2019s the lowdown",
+        "link": "https://economictimes.indiatimes.com/tech/technology/is-openai-launching-a-mobile-phone-heres-the-lowdown/articleshow/130849659.cms",
+        "published": "Wed, 06 May 2026 14:40:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI is reportedly accelerating its AI agent smartphone development, with mass production targeted for early 2027. This device aims to move beyond current assistant-driven phones by enabling autonomous agents to handle tasks independently. The phone is expected to feature a custom MediaTek chipset with enhanced imaging and high-end hardware for faster performance and AI processing."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/is-alphabet-overtaking-nvidia-the-ai-chip-kings-reign-is-under-threat/articleshow/130847920.cms",
+        "title": "Is Alphabet overtaking Nvidia? The AI chip king's reign is under threat",
+        "link": "https://economictimes.indiatimes.com/tech/technology/is-alphabet-overtaking-nvidia-the-ai-chip-kings-reign-is-under-threat/articleshow/130847920.cms",
+        "published": "Wed, 06 May 2026 14:19:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Alphabet is closing in on Nvidia's position as the world's most valuable company.  Strong growth in Alphabet's cloud and AI businesses is driving this shift.  The company is also developing its own AI chips, challenging Nvidia's dominance.  Investors are watching this evolving competition closely as Big Tech invests heavily in AI infrastructure."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/freshworks-to-cut-11-staff-registers-16-rise-in-revenue",
+        "title": "Freshworks to cut 11% staff, registers 16% rise in revenue",
+        "link": "https://yourstory.com/2026/05/freshworks-to-cut-11-staff-registers-16-rise-in-revenue",
+        "published": "Wed, 06 May 2026 09:34:11 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Freshworks will lay off around 500 employees, attributing the reduction to AI\u2019s growing role in code writing."
+    },
+    {
+        "id": "https://inc42.com/startups/how-nia-is-fixing-indias-gig-economics-by-giving-workers-a-home-away-from-home/",
+        "title": "How Nia.one Is Fixing India\u2019s Gig Economics By Giving Workers A Home Away From Home",
+        "link": "https://inc42.com/startups/how-nia-is-fixing-indias-gig-economics-by-giving-workers-a-home-away-from-home/",
+        "published": "Wed, 06 May 2026 08:37:25 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Nia.One offers accommodation, meals, and upskilling to migrant workers, setting up an infrastructure around India\u2019s $455 Bn gig economy\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/nia-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />If the COVID pandemic had left a deep scar in the lives of migrant labourers, then six years on, the&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/05/223-linkedin-gdpr-violations-users-profile-view-data/",
+        "title": "LinkedIn accused of GDPR violations for charging users for profile view data",
+        "link": "https://www.medianama.com/2026/05/223-linkedin-gdpr-violations-users-profile-view-data/",
+        "published": "Wed, 06 May 2026 09:59:52 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The GDPR complaint filed by noyb alleged that LinkedIn tracks profile view data and shows it to users with premium subscriptions, but it should be free under Article 15 of GDPR. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-linkedin-gdpr-violations-users-profile-view-data/\">LinkedIn accused of GDPR violations for charging users for profile view data</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/05/223-sebi-claude-mythos-circular-orders-cybersecurity-overhaul/",
+        "title": "SEBI forms task force, orders immediate cybersecurity overhaul amid Claude Mythos concerns",
+        "link": "https://www.medianama.com/2026/05/223-sebi-claude-mythos-circular-orders-cybersecurity-overhaul/",
+        "published": "Wed, 06 May 2026 08:52:39 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>SEBI has named Anthropic's Claude Mythos in a cybersecurity circular, directing all regulated financial entities to urgently strengthen cyber defences.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-sebi-claude-mythos-circular-orders-cybersecurity-overhaul/\">SEBI forms task force, orders immediate cybersecurity overhaul amid Claude Mythos concerns</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
