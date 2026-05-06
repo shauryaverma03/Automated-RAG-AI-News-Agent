@@ -218230,5 +218230,77 @@
         "published": "Tue, 05 May 2026 22:28:12 +0000",
         "source": "Ars Technica - All content",
         "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+        "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
+        "link": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
+        "published": "Wed, 06 May 2026 00:07:47 +0000",
+        "source": "TechCrunch",
+        "summary": "The Silicon Valley AV startup has not started driverless testing yet."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+        "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+        "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+        "published": "Tue, 05 May 2026 23:50:10 +0000",
+        "source": "TechCrunch",
+        "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw."
+    },
+    {
+        "id": "https://www.zdnet.com/article/fedora-44-takes-the-distribution-to-new-heights/",
+        "title": "Fedora 44 made me forget I was using Linux - in the best way",
+        "link": "https://www.zdnet.com/article/fedora-44-takes-the-distribution-to-new-heights/",
+        "published": "Wed, 06 May 2026 01:00:48 GMT",
+        "source": "Latest news",
+        "summary": "The latest release from the Fedora Project is now available, and it includes a long list of refinements that make this one of the best versions yet."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premji-eyes-emergent-bet-krutrim-plans-unravel/articleshow/130841873.cms",
+        "title": "Premji eyes Emergent bet; Krutrim plans unravel",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premji-eyes-emergent-bet-krutrim-plans-unravel/articleshow/130841873.cms",
+        "published": "Wed, 06 May 2026 06:55:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Wednesday! Premji Invest is circling Emergent, looking to join its latest fundraise at a $1.5 billion valuation. This and more in today's ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/man-accused-of-attacking-openai-ceo-sam-altmans-home-pleads-not-guilty-to-attempted-murder/articleshow/130841854.cms",
+        "title": "Man accused of attacking OpenAI CEO Sam Altman's home pleads not guilty to attempted murder",
+        "link": "https://economictimes.indiatimes.com/tech/technology/man-accused-of-attacking-openai-ceo-sam-altmans-home-pleads-not-guilty-to-attempted-murder/articleshow/130841854.cms",
+        "published": "Wed, 06 May 2026 06:40:16 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A man has pleaded not guilty to serious charges including attempted murder. He is accused of throwing a Molotov cocktail at the San Francisco home of OpenAI CEO Sam Altman. Authorities allege he also threatened to burn down OpenAI headquarters. His lawyer claims he was experiencing a mental health crisis. The case is proceeding with a mental health evaluation ordered."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-plans-advanced-agentic-ai-assistant-for-users-report/articleshow/130841837.cms",
+        "title": "Meta plans advanced 'agentic' AI assistant for users: Report",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-plans-advanced-agentic-ai-assistant-for-users-report/articleshow/130841837.cms",
+        "published": "Wed, 06 May 2026 06:37:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta is developing a personalised AI assistant for its users. This advanced digital assistant will use its new Muse Spark AI model. The company is also working on an internal AI agent called Hatch. Meta plans to integrate a shopping tool into Instagram. This launch is targeted before the fourth quarter of this year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/irish-regulator-to-probe-facebook-instagram-over-alleged-user-profiling/articleshow/130841817.cms",
+        "title": "Irish regulator to probe Facebook, Instagram over alleged user profiling",
+        "link": "https://economictimes.indiatimes.com/tech/technology/irish-regulator-to-probe-facebook-instagram-over-alleged-user-profiling/articleshow/130841817.cms",
+        "published": "Wed, 06 May 2026 06:35:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ireland's media regulator on Tuesday said it has opened a probe into Meta over its recommender system that promotes content on its social media platforms Facebook and Instagram. The investigation will assess if Facebook and Instagram feeds have been \"selected and ranked for the user by a system that learns from what they like, what they interact with, or what they spend time on\", the statement added."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/top-google-scientist-says-eu-data-measures-pose-privacy-risk-for-users/articleshow/130841776.cms",
+        "title": "Top Google scientist says EU data measures pose privacy risk for users",
+        "link": "https://economictimes.indiatimes.com/tech/technology/top-google-scientist-says-eu-data-measures-pose-privacy-risk-for-users/articleshow/130841776.cms",
+        "published": "Wed, 06 May 2026 06:33:59 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A top Google scientist has warned European Union regulators. The EU proposal to share search engine data with rivals like OpenAI could expose private user information. Google's expert will meet EU officials to voice concerns. The company fears modern AI tools could re-identify users from anonymized data. Regulators will decide on measures by July 27."
+    },
+    {
+        "id": "https://inc42.com/buzz/bigendian-raises-6-mn-to-commercialise-first-soc/",
+        "title": "BigEndian Raises $6 Mn To Commercialise First SoC",
+        "link": "https://inc42.com/buzz/bigendian-raises-6-mn-to-commercialise-first-soc/",
+        "published": "Wed, 06 May 2026 00:30:07 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"BigEndian Raises $6 Mn To Commercialise First SoC\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Untitled-design-2026-05-05T205442.779.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Fabless semiconductor startup BigEndian Semiconductors has raised $6 Mn (around \u20b957.1 Cr) in its pre-Series A funding round led by&#8230;"
     }
 ]
