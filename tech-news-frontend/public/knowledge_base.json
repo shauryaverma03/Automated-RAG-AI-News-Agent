@@ -221118,5 +221118,69 @@
         "published": "Thu, 07 May 2026 21:37:20 +0000",
         "source": "WIRED",
         "summary": "Today on Uncanny Valley, we\u2019re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "title": "OpenAI launches new voice intelligence features in its API",
+        "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "published": "Thu, 07 May 2026 22:24:50 +0000",
+        "source": "TechCrunch",
+        "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+        "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+        "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+        "published": "Thu, 07 May 2026 21:49:24 +0000",
+        "source": "TechCrunch",
+        "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+        "title": "DHS can\u2019t create vast DNA database to track ICE critics, lawsuit says",
+        "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+        "published": "Thu, 07 May 2026 21:35:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine."
+    },
+    {
+        "id": "https://www.engadget.com/2167504/iam8bit-recorded-a-jazzy-persona-album-for-the-series-30th/",
+        "title": "iam8bit recorded a jazzy Persona album for the series' 30th",
+        "link": "https://www.engadget.com/2167504/iam8bit-recorded-a-jazzy-persona-album-for-the-series-30th/",
+        "published": "Thu, 07 May 2026 22:37:55 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The vinyl drops in Q4, but the full album is streamable now."
+    },
+    {
+        "id": "https://www.engadget.com/2167498/the-paranormal-activity-game-project-is-dead/",
+        "title": "The Paranormal Activity game project is dead",
+        "link": "https://www.engadget.com/2167498/the-paranormal-activity-game-project-is-dead/",
+        "published": "Thu, 07 May 2026 22:28:16 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The solo developer couldn't get an extension from rights-holder Paramount."
+    },
+    {
+        "id": "https://www.engadget.com/2167487/bumble-will-replace-swiping-right-with-something/",
+        "title": "Bumble will replace swiping right with... something",
+        "link": "https://www.engadget.com/2167487/bumble-will-replace-swiping-right-with-something/",
+        "published": "Thu, 07 May 2026 22:13:45 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The company previously announced it was working on an AI assistant that can make matches."
+    },
+    {
+        "id": "https://www.engadget.com/2167480/openai-debuts-a-codex-plugin-for-chrome/",
+        "title": "OpenAI debuts a Codex plugin for Chrome",
+        "link": "https://www.engadget.com/2167480/openai-debuts-a-codex-plugin-for-chrome/",
+        "published": "Thu, 07 May 2026 21:57:21 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The new feature could turn Codex into more than a coding aid."
+    },
+    {
+        "id": "https://www.engadget.com/2167475/metas-ai-agent-plans-reportedly-include-an-openclaw-competitor-that-can-shop-on-instagram/",
+        "title": "Meta's AI agent plans reportedly include an OpenClaw competitor that can shop on Instagram",
+        "link": "https://www.engadget.com/2167475/metas-ai-agent-plans-reportedly-include-an-openclaw-competitor-that-can-shop-on-instagram/",
+        "published": "Thu, 07 May 2026 21:41:37 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Mark Zuckerberg has said he wants to make AI agents more accessible."
     }
 ]
