@@ -219734,5 +219734,109 @@
         "published": "Wed, 06 May 2026 22:48:11 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48042918\">Comments</a>"
+    },
+    {
+        "id": "https://www.vatican.va/latin/latin_index.html",
+        "title": "The Vatican's Website in Latin",
+        "link": "https://www.vatican.va/latin/latin_index.html",
+        "published": "Thu, 07 May 2026 01:26:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48044311\">Comments</a>"
+    },
+    {
+        "id": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+        "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+        "link": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+        "published": "Thu, 07 May 2026 00:12:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48043706\">Comments</a>"
+    },
+    {
+        "id": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
+        "title": "How I made $350K from an open-source JavaScript library using dual licensing",
+        "link": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
+        "published": "Thu, 07 May 2026 00:47:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48044022\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/",
+        "title": "I've fully converted to adaptive chargers from fast ones and already feel safer",
+        "link": "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/",
+        "published": "Thu, 07 May 2026 01:00:51 GMT",
+        "source": "Latest news",
+        "summary": "Adaptive charging aims to reduce battery wear by keeping speeds low. My favorite model is ideally suited for overnight charges."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-improve-sonos-soundbar-quality/",
+        "title": "How I upgraded my Sonos soundbar's audio quality - 3 easy and free methods",
+        "link": "https://www.zdnet.com/article/how-to-improve-sonos-soundbar-quality/",
+        "published": "Thu, 07 May 2026 01:00:50 GMT",
+        "source": "Latest news",
+        "summary": "If you're not satisfied with your soundbar's audio performance, these quick and simple tweaks made a big difference for me."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/in-openai-trial-former-technology-chief-says-sam-altman-sowed-chaos-distrust-among-top-executives/articleshow/130875033.cms",
+        "title": "In OpenAI trial, former technology chief says Sam Altman sowed 'chaos,' distrust among top executives",
+        "link": "https://economictimes.indiatimes.com/tech/technology/in-openai-trial-former-technology-chief-says-sam-altman-sowed-chaos-distrust-among-top-executives/articleshow/130875033.cms",
+        "published": "Thu, 07 May 2026 06:28:05 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A former OpenAI executive testified that CEO Sam Altman created distrust among leaders. This testimony emerged during Elon Musk's lawsuit against OpenAI. Musk claims the company abandoned its nonprofit goals. The trial could significantly impact the future of artificial intelligence development and deployment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-to-give-anthropic-access-to-its-massive-ai-supercomputer/articleshow/130875028.cms",
+        "title": "SpaceX to give Anthropic access to its massive AI supercomputer",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-to-give-anthropic-access-to-its-massive-ai-supercomputer/articleshow/130875028.cms",
+        "published": "Thu, 07 May 2026 06:27:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SpaceX has inked a deal to grant Anthropic access to its Colossus 1 AI supercomputer. This collaboration aims to enhance computing power for Anthropic's Claude Pro and Claude Max AI assistants. Furthermore, Anthropic is exploring a partnership with SpaceX to develop orbital AI computing capacity."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/firms-fixing-workflows-before-deploying-agentic-ai-adobe-india-md/articleshow/130868872.cms",
+        "title": "Firms fixing workflows before deploying agentic AI: Adobe India MD",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/firms-fixing-workflows-before-deploying-agentic-ai-adobe-india-md/articleshow/130868872.cms",
+        "published": "Thu, 07 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is a key innovation hub for Adobe, powering nearly a third of its global innovation, including Firefly AI. The company is enabling enterprises to adopt agentic AI by redesigning workflows and employee processes."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/early-stage-tech-draws-vc-interest-across-aviation-biotech-precision-manufacturing/articleshow/130868567.cms",
+        "title": "Early-stage tech draws VC interest across aviation, biotech, precision manufacturing",
+        "link": "https://economictimes.indiatimes.com/tech/startups/early-stage-tech-draws-vc-interest-across-aviation-biotech-precision-manufacturing/articleshow/130868567.cms",
+        "published": "Thu, 07 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Investors are prioritising smaller, early-stage deals in deeptech sectors like AI, healthcare, and precision manufacturing, shying away from large commitments. While growth-stage funding remains subdued, several significant rounds are reportedly in the pipeline, signalling a potential shift as the Indian deeptech ecosystem matures."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indians-are-driving-most-intensive-ai-applications-anthropic-india-md/articleshow/130868384.cms",
+        "title": "Indians are driving most intensive AI applications: Anthropic India MD",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indians-are-driving-most-intensive-ai-applications-anthropic-india-md/articleshow/130868384.cms",
+        "published": "Thu, 07 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is a global AI powerhouse, with users driving advanced applications and Claude.ai seeing its second-largest user base here. This surge is dramatically boosting productivity, with tasks now taking a fraction of the time.  GCC revenues are soaring, but AI is reshaping hiring trends."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/the-business-of-belief-how-tech-is-powering-indias-spritual-economy",
+        "title": "The business of belief: How tech is powering India's spritual economy",
+        "link": "https://yourstory.com/2026/05/the-business-of-belief-how-tech-is-powering-indias-spritual-economy",
+        "published": "Thu, 07 May 2026 01:35:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "As access to religious practices expands to include rituals, offerings, devotional products, and even storytelling content, faith is gradually transitioning from a largely community-driven activity to a more individual, flexible, and personalised journey."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/ecofy-raises-15-million-from-mirova-to-expand-green-financing-portfolio",
+        "title": "Ecofy raises $15M from Mirova to expand green financing portfolio",
+        "link": "https://yourstory.com/2026/05/ecofy-raises-15-million-from-mirova-to-expand-green-financing-portfolio",
+        "published": "Wed, 06 May 2026 11:50:21 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Mirova, an affiliate of Natixis Investment Managers, is backing the three-year-old startup as part of its broader strategy to finance energy transition projects in emerging markets. The investment marks Mirova\u2019s fourth deal in India under this mandate."
+    },
+    {
+        "id": "https://inc42.com/buzz/pronto-closes-series-b-round-at-45-mn-valuation-jumps-to-200-mn/",
+        "title": "Pronto Closes Series B Round At $45 Mn, Valuation Jumps To $200 Mn",
+        "link": "https://inc42.com/buzz/pronto-closes-series-b-round-at-45-mn-valuation-jumps-to-200-mn/",
+        "published": "Thu, 07 May 2026 00:30:37 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Pronto-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Quick services platform Pronto has closed its Series B funding round at $45 Mn (\u20b9425.3 Cr). In its latest second&#8230;"
     }
 ]
