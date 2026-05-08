@@ -221198,5 +221198,85 @@
         "published": "Thu, 07 May 2026 23:23:12 +0000",
         "source": "Engadget - Technology News & Expert Reviews",
         "summary": "Repeat offenders will be punished with \"caps\" on their views."
+    },
+    {
+        "id": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+        "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+        "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+        "published": "Fri, 08 May 2026 01:42:14 +0000",
+        "source": "WIRED",
+        "summary": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018."
+    },
+    {
+        "id": "https://xeiaso.net/blog/2026/abstain-from-install/",
+        "title": "Maybe you shouldn't install new software for a bit",
+        "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
+        "published": "Thu, 07 May 2026 23:02:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48056227\">Comments</a>"
+    },
+    {
+        "id": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+        "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+        "link": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+        "published": "Thu, 07 May 2026 22:54:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48056158\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/roku-apps-loading-slowly-how-to-fix-clear-cache/",
+        "title": "Roku apps loading slow? 9 quick fixes I try before blaming my Wi-Fi",
+        "link": "https://www.zdnet.com/article/roku-apps-loading-slowly-how-to-fix-clear-cache/",
+        "published": "Fri, 08 May 2026 01:00:44 GMT",
+        "source": "Latest news",
+        "summary": "If your Roku is lagging, with apps struggling to open, it might not be your Wi-Fi. Here's what I do to fix performance."
+    },
+    {
+        "id": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+        "title": "Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick",
+        "link": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+        "published": "Fri, 08 May 2026 00:43:04 GMT",
+        "source": "Latest news",
+        "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's the verdict after extended use."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/hexawares-q1-pat-up-7-5-to-rs-352-crore-revenue-rises-12-6/articleshow/130916145.cms",
+        "title": "Hexaware\u2019s Q1 PAT up 7.5% to Rs 352 crore, revenue rises 12.6%",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/hexawares-q1-pat-up-7-5-to-rs-352-crore-revenue-rises-12-6/articleshow/130916145.cms",
+        "published": "Fri, 08 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Hexaware Technologies reported a 7.5% year-on-year net profit increase to Rs. 351.6 crore in Q1 CY26, exceeding street expectations. Revenue grew 12.6% year-on-year to Rs. 3,613 crore, driven by strong performance in Europe and the banking sector. The company reiterated its full-year revenue growth guidance of 7.6%."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/tech-services-demand-is-changing-not-weakening-coforge-ceo/articleshow/130915873.cms",
+        "title": "Tech services demand is changing, not weakening: Coforge CEO",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/tech-services-demand-is-changing-not-weakening-coforge-ceo/articleshow/130915873.cms",
+        "published": "Fri, 08 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Coforge CEO Sudhir Singh asserts that demand for technology services is evolving, not declining, driven by new value pools. He emphasizes that firms proactively engineering business outcomes, particularly through AI-led modernization and governance, will experience sustained growth. Singh dismisses threats from AI firms entering the services space, viewing them as specialists within a larger, robust market."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/razorpay-set-to-focus-solely-on-omnichannel-sellers-for-offline-play/articleshow/130915641.cms",
+        "title": "Razorpay to solely focus on omnichannel for offline play",
+        "link": "https://economictimes.indiatimes.com/tech/startups/razorpay-set-to-focus-solely-on-omnichannel-sellers-for-offline-play/articleshow/130915641.cms",
+        "published": "Fri, 08 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Online payments firm Razorpay has scaled back its offline expansion plans due to sluggish growth in the vertical. Following its Ezetap acquisition, the company is now focusing on merchants needing both online and offline payment solutions, rather than aggressive field team expansion. This strategic shift aligns with Razorpay's IPO preparations and a focus on a more profitable core business."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/new-point-of-sale-terminal-shortage-pinches-indias-payment-industry/articleshow/130915314.cms",
+        "title": "PoS pause pinches India\u2019s payments industry as global turmoil hampers imports",
+        "link": "https://economictimes.indiatimes.com/tech/technology/new-point-of-sale-terminal-shortage-pinches-indias-payment-industry/articleshow/130915314.cms",
+        "published": "Fri, 08 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's digital payments sector faces a critical shortage of new point-of-sale (PoS) terminals due to disruptions in imports from China and West Asia crisis. This has led to a 15-20% price increase for devices, forcing companies to extend terminal lifecycles and manage existing assets more effectively."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/chiratae-ventures-commits-10-million-5-deeptech-startups",
+        "title": "Chiratae Ventures commits $10M for 5 deeptech startups",
+        "link": "https://yourstory.com/2026/05/chiratae-ventures-commits-10-million-5-deeptech-startups",
+        "published": "Thu, 07 May 2026 10:17:51 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Chiratae Ventures believes there is untapped potential of deeptech startups in India which are working on advanced technologies."
     }
 ]
