@@ -221278,5 +221278,85 @@
         "published": "Thu, 07 May 2026 10:17:51 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Chiratae Ventures believes there is untapped potential of deeptech startups in India which are working on advanced technologies."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+        "title": "The back office problem that explains why specialists never call you back",
+        "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+        "published": "Fri, 08 May 2026 04:42:29 +0000",
+        "source": "TechCrunch",
+        "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning."
+    },
+    {
+        "id": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+        "title": "Cloudflare to cut about 20% workforce",
+        "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+        "published": "Thu, 07 May 2026 20:23:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48054423\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/anthropic-weighs-fundraising-for-near-1-trillion-valuation-financial-times/articleshow/130947861.cms",
+        "title": "Anthropic weighs fundraising for near $1 trillion valuation: Financial Times",
+        "link": "https://economictimes.indiatimes.com/tech/funding/anthropic-weighs-fundraising-for-near-1-trillion-valuation-financial-times/articleshow/130947861.cms",
+        "published": "Fri, 08 May 2026 09:46:54 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic weighs fundraising for near $1 trillion valuation, FT reports"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/coreweave-tops-revenue-estimates-as-ai-boom-supercharges-cloud-demand/articleshow/130946848.cms",
+        "title": "CoreWeave tops revenue estimates as AI boom supercharges cloud demand",
+        "link": "https://economictimes.indiatimes.com/tech/technology/coreweave-tops-revenue-estimates-as-ai-boom-supercharges-cloud-demand/articleshow/130946848.cms",
+        "published": "Fri, 08 May 2026 09:19:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "CoreWeave Inc. has surpassed revenue expectations. Strong demand for its high-performance computing services fuels this growth. These services are crucial for training and deploying artificial intelligence models. The company secured significant deals with Meta, Jane Street, and Anthropic. This positions CoreWeave as a key player in the AI infrastructure race."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/australia-regulator-calls-for-urgent-cybersecurity-action-to-counter-mythos/articleshow/130946561.cms",
+        "title": "Australia regulator calls for urgent cybersecurity action to counter Mythos",
+        "link": "https://economictimes.indiatimes.com/tech/technology/australia-regulator-calls-for-urgent-cybersecurity-action-to-counter-mythos/articleshow/130946561.cms",
+        "published": "Fri, 08 May 2026 09:11:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Australia's corporate regulator warns financial firms about new cyber threats from advanced AI systems.  These powerful AI models can find security weaknesses quickly.  Regulators stress the need for immediate action to strengthen cybersecurity.  Financial institutions are adopting AI faster than supervisors, creating a growing risk gap."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-to-invest-up-to-2-1-billion-in-iren-as-part-of-ai-data-centre-deal/articleshow/130945958.cms",
+        "title": "Nvidia to invest up to $2.1 billion in IREN as part of AI data centre deal",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-to-invest-up-to-2-1-billion-in-iren-as-part-of-ai-data-centre-deal/articleshow/130945958.cms",
+        "published": "Fri, 08 May 2026 08:51:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Nvidia is investing up to $2.1 billion in data centre operator IREN to deploy 5 gigawatts of AI infrastructure, addressing the immense demand for computing power. This partnership aims to accelerate AI factory deployment by integrating Nvidia's architecture with IREN's operations, with future focus on IREN's Texas campus."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/rave-files-antitrust-lawsuit-against-apple-over-removal-of-video-sharing-app/articleshow/130945938.cms",
+        "title": "Rave files antitrust lawsuit against Apple over removal of video-sharing app",
+        "link": "https://economictimes.indiatimes.com/tech/technology/rave-files-antitrust-lawsuit-against-apple-over-removal-of-video-sharing-app/articleshow/130945938.cms",
+        "published": "Fri, 08 May 2026 08:51:05 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Rave, a video sharing app, has sued Apple in a US federal court. Rave claims Apple removed its app from the App Store to promote its own SharePlay feature. The company seeks significant damages and reinstatement. Rave has also filed similar lawsuits in other countries."
+    },
+    {
+        "id": "https://inc42.com/buzz/kissht-makes-robust-debut-shares-list-at-12-premium/",
+        "title": "Kissht Makes Robust Debut, Shares List At 12% Premium",
+        "link": "https://inc42.com/buzz/kissht-makes-robust-debut-shares-list-at-12-premium/",
+        "published": "Fri, 08 May 2026 04:42:42 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Kissht Makes Robust Debut, Shares List At 12% Premium\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/Kissht-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Shares of lending tech startup Kissht\u2019s parent OnEMI Technology Solutions made a strong debut on the bourses today, with the&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/indias-129th-unicorn-wint-wealths-bond-stack-more/",
+        "title": "India\u2019s 129th Unicorn, Wint Wealth\u2019s Bond Stack & More",
+        "link": "https://inc42.com/buzz/indias-129th-unicorn-wint-wealths-bond-stack-more/",
+        "published": "Fri, 08 May 2026 02:30:58 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"India\u2019s 129th Unicorn, Wint Wealth\u2019s Bond Stack &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/FTR-Daily-Brief-2026-05-08T000922.635.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Skyroot Is A Unicorn\u00a0 Defying the current funding trends, Skyroot vaulted into the billion-dollar valuation club after raising a big-ticket&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/05/223-agenda-age-verification-social-media-children-bengaluru-15-may/",
+        "title": "Agenda: Age Verification and Restricting Social Media for Children, Bengaluru, 15 May #NAMA",
+        "link": "https://www.medianama.com/2026/05/223-agenda-age-verification-social-media-children-bengaluru-15-may/",
+        "published": "Fri, 08 May 2026 04:42:27 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>MediaNama has published the agenda for its Bengaluru roundtable on age verification and social media restrictions for children in India. Registrations are now open.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-agenda-age-verification-social-media-children-bengaluru-15-may/\">Agenda: Age Verification and Restricting Social Media for Children, Bengaluru, 15 May #NAMA</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
