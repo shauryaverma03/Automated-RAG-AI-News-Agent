@@ -222942,5 +222942,45 @@
         "published": "Sat, 09 May 2026 15:23:18 +0530",
         "source": "Tech-Economic Times",
         "summary": "AI is now writing a large part of code for tech companies. Google, Microsoft, Meta, and Indian firms like Meesho and Freshworks are using AI extensively. This shift boosts productivity. Developers are focusing on complex tasks and quality."
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-captioning-glasses/",
+        "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
+        "link": "https://www.wired.com/gallery/best-captioning-glasses/",
+        "published": "Sat, 09 May 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Can\u2019t hear what they\u2019re saying? Now you can turn on the subtitles for real-life conversations."
+    },
+    {
+        "id": "https://www.engadget.com/2168204/chainsaw-carnage-lots-of-music-based-titles-and-other-new-indie-games/",
+        "title": "Chainsaw carnage, lots of music-based titles and other new indie games worth checking out",
+        "link": "https://www.engadget.com/2168204/chainsaw-carnage-lots-of-music-based-titles-and-other-new-indie-games/",
+        "published": "Sat, 09 May 2026 11:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Plus, make a mixtape with help from the folks behind Mixtape."
+    },
+    {
+        "id": "https://www.engadget.com/2168430/xbox-studio-double-fine-union/",
+        "title": "Workers for Xbox studio Double Fine are forming a union",
+        "link": "https://www.engadget.com/2168430/xbox-studio-double-fine-union/",
+        "published": "Sat, 09 May 2026 10:57:31 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The studio behind Psychonauts is organizing with the Communications Workers of America."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-study-finds-hidden-mathematical-laws-shaping-cuisines-across-cultures/articleshow/130976607.cms",
+        "title": "AI study finds hidden mathematical laws shaping cuisines across cultures",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-study-finds-hidden-mathematical-laws-shaping-cuisines-across-cultures/articleshow/130976607.cms",
+        "published": "Sat, 09 May 2026 17:05:31 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A new study reveals that recipes follow mathematical laws, much like human language. Researchers at IIIT-Delhi used AI to analyse over 118,000 recipes from 26 cuisines. They found four statistical laws shaping cooking globally."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tsmc-sony-semiconductor-solutions-to-establish-image-sensor-joint-venture-in-kumamoto/articleshow/130976528.cms",
+        "title": "TSMC, Sony Semiconductor Solutions to establish image sensor joint venture in Kumamoto",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tsmc-sony-semiconductor-solutions-to-establish-image-sensor-joint-venture-in-kumamoto/articleshow/130976528.cms",
+        "published": "Sat, 09 May 2026 17:03:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Taiwan Semiconductor Manufacturing and Sony Semiconductor Solutions are joining forces. They will establish a joint venture in Kumamoto, Japan. This partnership will focus on developing and producing advanced image sensors. The collaboration combines Sony's sensor design expertise with TSMC's manufacturing prowess."
     }
 ]
