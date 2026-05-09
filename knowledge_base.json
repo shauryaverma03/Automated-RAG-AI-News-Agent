@@ -223326,5 +223326,21 @@
         "published": "Thu, 07 May 2026 13:01:21 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48048902\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/ThatXliner/rust-but-lisp",
+        "title": "Rust but Lisp",
+        "link": "https://github.com/ThatXliner/rust-but-lisp",
+        "published": "Sat, 09 May 2026 21:46:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48078575\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/nooga/let-go",
+        "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+        "link": "https://github.com/nooga/let-go",
+        "published": "Sat, 09 May 2026 17:52:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48076815\">Comments</a>"
     }
 ]
