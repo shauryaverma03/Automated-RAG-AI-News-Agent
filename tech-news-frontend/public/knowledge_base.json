@@ -223174,5 +223174,21 @@
         "published": "Fri, 08 May 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Hyderabad-based spacetech startup Skyroot Aerospace has raised $60 million; battery swapping startup Yuma Energy is expanding beyond its core partnership with Yulu as India\u2019s EV delivery ecosystem scales rapidly."
+    },
+    {
+        "id": "https://www.engadget.com/2168585/banned-drones-and-routers-in-the-us-will-still-get-critical-updates-until-2029/",
+        "title": "Banned drones and routers in the US will still get critical updates until 2029",
+        "link": "https://www.engadget.com/2168585/banned-drones-and-routers-in-the-us-will-still-get-critical-updates-until-2029/",
+        "published": "Sat, 09 May 2026 17:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The Federal Communications Commission issued a notice to allow software and firmware updates until January 2029."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/bytedance-targets-25-rise-in-ai-infrastructure-spending/articleshow/130981372.cms",
+        "title": "ByteDance targets 25% rise in AI infrastructure spending",
+        "link": "https://economictimes.indiatimes.com/tech/technology/bytedance-targets-25-rise-in-ai-infrastructure-spending/articleshow/130981372.cms",
+        "published": "Sat, 09 May 2026 22:46:16 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "ByteDance has significantly increased its AI infrastructure spending by 25% to 200 billion yuan ($29.4 billion) this year, driven by rising memory chip costs and an expanded AI focus. The Chinese tech giant is prioritizing domestic AI chips, aligning with Beijing's push for local technology amid US rivalry. This investment supports ByteDance's AI chatbot, Doubao, which has seen substantial downloads."
     }
 ]
