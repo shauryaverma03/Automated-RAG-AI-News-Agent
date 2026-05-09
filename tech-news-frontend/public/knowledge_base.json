@@ -223294,5 +223294,21 @@
         "published": "Sat, 09 May 2026 20:32:17 +0000",
         "source": "TechCrunch",
         "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down."
+    },
+    {
+        "id": "https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/",
+        "title": "NASA is set to begin training with a prototype of Blue Origin's crew moon lander",
+        "link": "https://www.engadget.com/2168702/nasa-is-set-to-begin-training-with-a-prototype-of-blue-origin-crew-moon-lander/",
+        "published": "Sat, 09 May 2026 20:37:58 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The space agency is planning to put astronauts on the moon in 2028."
+    },
+    {
+        "id": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+        "title": "FreeBSD: Local Privilege Escalation via Execve()",
+        "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+        "published": "Sat, 09 May 2026 20:31:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48077971\">Comments</a>"
     }
 ]
