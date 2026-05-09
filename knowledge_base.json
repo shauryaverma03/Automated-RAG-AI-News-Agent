@@ -222766,5 +222766,69 @@
         "published": "Sat, 09 May 2026 07:01:28 +0530",
         "source": "Tech-Economic Times",
         "summary": "A cybercriminal group, ShinyHunters, stole vast amounts of student data from the educational platform Canvas.  Some affected schools and universities reportedly tried to negotiate directly with the hackers.  The breach caused disruptions for students.  Canvas' parent company, Instructure, investigated the incident and has since restored services."
+    },
+    {
+        "id": "https://martinfowler.com/bliki/MythicalManMonth.html",
+        "title": "Mythical Man Month",
+        "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
+        "published": "Thu, 07 May 2026 07:20:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48046436\">Comments</a>"
+    },
+    {
+        "id": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+        "title": "Bitter Lessons from the ISSpresso",
+        "link": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+        "published": "Wed, 06 May 2026 19:09:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48040306\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/googles-isomorphic-labs-to-raise-over-2-billion-in-new-funding/articleshow/130970243.cms",
+        "title": "Google\u2019s Isomorphic Labs to raise over $2 billion in new funding",
+        "link": "https://economictimes.indiatimes.com/tech/funding/googles-isomorphic-labs-to-raise-over-2-billion-in-new-funding/articleshow/130970243.cms",
+        "published": "Sat, 09 May 2026 09:08:10 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Alphabet's AI drug discovery firm, Isomorphic Labs, is reportedly close to securing over $2 billion in new funding, led by Thrive Capital. This significant investment aims to bolster its drug design engine and fuel global expansion, underscoring Alphabet's strategy of commercializing its advanced AI ventures."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-nears-400-million-settlement-with-tiktok-on-child-privacy-violations-abc-news/articleshow/130969794.cms",
+        "title": "US nears $400 million settlement with TikTok on child-privacy violations: ABC News",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-nears-400-million-settlement-with-tiktok-on-child-privacy-violations-abc-news/articleshow/130969794.cms",
+        "published": "Sat, 09 May 2026 08:13:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US government is close to a $400 million deal with TikTok. This settlement addresses claims of child privacy breaches. The funds are reportedly for President Trump's beautification projects in Washington. The lawsuit alleged TikTok collected children's data without parental consent, violating privacy laws."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-senate-committee-set-to-consider-long-awaited-crypto-bill-next-week/articleshow/130969687.cms",
+        "title": "US Senate Committee set to consider long-awaited crypto bill next week",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-senate-committee-set-to-consider-long-awaited-crypto-bill-next-week/articleshow/130969687.cms",
+        "published": "Sat, 09 May 2026 08:00:40 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US senators will consider the Clarity Act next week, a bill aiming to regulate cryptocurrency and end disputes between crypto firms and banks. The legislation would define digital assets and includes a compromise on stablecoin rewards, prohibiting interest on idle holdings while permitting rewards for payments."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-judge-will-not-rubber-stamp-elon-musk-settlement-with-sec/articleshow/130969508.cms",
+        "title": "US judge will not rubber-stamp Elon Musk settlement with SEC",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-judge-will-not-rubber-stamp-elon-musk-settlement-with-sec/articleshow/130969508.cms",
+        "published": "Sat, 09 May 2026 07:38:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A federal judge is withholding approval of the SEC's $1.5 million settlement with Elon Musk over his delayed Twitter stock disclosure. Judge Sparkle Sooknanan requires more information on the settlement's fairness and the process of its negotiation before proceeding."
+    },
+    {
+        "id": "https://inc42.com/buzz/from-skyroot-to-pronto-indian-startups-raised-132-mn-this-week/",
+        "title": "From Skyroot To Pronto \u2014 Indian Startups Raised $132 Mn This Week",
+        "link": "https://inc42.com/buzz/from-skyroot-to-pronto-indian-startups-raised-132-mn-this-week/",
+        "published": "Sat, 09 May 2026 03:30:20 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Seed stage startups saw a capital infusion of $5.6 Mn during the week, up 21.7% from $4.6 Mn raised in the previous week.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Ftr-100-20.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Indian startup ecosystem got its first spacetech unicorn this week. Despite this, the total deal count remained muted with&#8230;"
+    },
+    {
+        "id": "https://inc42.com/startups/how-euler-motors-zoomed-in-on-electric-cargo-laid-out-its-growth-blueprint/",
+        "title": "How Euler Motors Zoomed In On Electric Cargo, Laid Out Its Growth Blueprint",
+        "link": "https://inc42.com/startups/how-euler-motors-zoomed-in-on-electric-cargo-laid-out-its-growth-blueprint/",
+        "published": "Sat, 09 May 2026 02:30:34 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"How Euler Motors Zoomed In On Electric Cargo, Laid Out Its Growth Blueprint\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/ftr-14.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Some Indian cities are often found more choking than any other place in the world. The air quality breaches the&#8230;"
     }
 ]
