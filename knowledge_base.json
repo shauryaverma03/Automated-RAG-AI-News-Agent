@@ -223310,5 +223310,21 @@
         "published": "Sat, 09 May 2026 20:31:21 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48077971\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
+        "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "published": "Sat, 09 May 2026 21:45:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
+    {
+        "id": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+        "title": "Making your own programming language is easier than you think (but also harder)",
+        "link": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+        "published": "Thu, 07 May 2026 13:01:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48048902\">Comments</a>"
     }
 ]
