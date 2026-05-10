@@ -223494,5 +223494,45 @@
         "published": "Sun, 10 May 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Venture capital funding declined in the first week of May due to lower number of deals and lack of high value transactions."
+    },
+    {
+        "id": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
+        "title": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
+        "link": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
+        "published": "Sun, 10 May 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "One of the country\u2019s busiest airspaces has a new kind of flying machine\u2014maybe temporarily."
+    },
+    {
+        "id": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+        "title": "How Handheld Translators Work and Why They\u2019re Handy for Travel",
+        "link": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+        "published": "Sun, 10 May 2026 10:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Your cell phone can handle basic language translation, but bespoke tools can offer a much more immersive experience."
+    },
+    {
+        "id": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
+        "title": "\u2018Reservation Hijacking\u2019 Scams Target Travelers. Here\u2019s How to Stay Safe",
+        "link": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
+        "published": "Sun, 10 May 2026 09:30:00 +0000",
+        "source": "WIRED",
+        "summary": "The hotel staffer who calls you with an urgent request for payment isn\u2019t necessarily who they say they are."
+    },
+    {
+        "id": "https://blog.dochia.dev/blog/idempotency/",
+        "title": "Idempotency Is Easy Until the Second Request Is Different",
+        "link": "https://blog.dochia.dev/blog/idempotency/",
+        "published": "Thu, 07 May 2026 11:02:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48047930\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/05/ai-cloud-and-cybersecurity-driving-it-jobs-demand-says-foundit-report",
+        "title": "AI, cloud, and cybersecurity driving IT jobs demand, says foundit report",
+        "link": "https://yourstory.com/2026/05/ai-cloud-and-cybersecurity-driving-it-jobs-demand-says-foundit-report",
+        "published": "Thu, 07 May 2026 10:09:18 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Hiring in the India\u2019s IT sector is witnessing a structural shift with emphasis on value based roles rather than volume focused recruitment."
     }
 ]
