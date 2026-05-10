@@ -223854,5 +223854,13 @@
         "published": "Fri, 08 May 2026 15:46:12 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48064789\">Comments</a>"
+    },
+    {
+        "id": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+        "title": "Local AI needs to be the norm",
+        "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+        "published": "Sun, 10 May 2026 17:19:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48085821\">Comments</a>"
     }
 ]
