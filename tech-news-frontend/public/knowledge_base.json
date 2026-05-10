@@ -223678,5 +223678,37 @@
         "published": "Sun, 10 May 2026 11:26:50 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48083007\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+        "title": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
+        "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+        "published": "Sun, 10 May 2026 15:34:25 +0000",
+        "source": "TechCrunch",
+        "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX."
+    },
+    {
+        "id": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+        "title": "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
+        "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+        "published": "Sun, 10 May 2026 14:47:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48084432\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsofts-african-data-center-falters-on-payment-demands-bloomberg-news-reports/articleshow/130994266.cms",
+        "title": "Microsoft's African data center falters on payment demands, Bloomberg News reports",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsofts-african-data-center-falters-on-payment-demands-bloomberg-news-reports/articleshow/130994266.cms",
+        "published": "Sun, 10 May 2026 20:16:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft's planned data center in Kenya faces delays. Disagreements with the Kenyan government over guaranteed payments have stalled the project. The company partnered with G42 for a $1 billion investment. Talks are ongoing, but the scale of the facility requires further structuring. Power requirements are also under discussion."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/intel-ceo-who-won-over-donald-trump-and-elon-musk-now-needs-a-breakthrough/articleshow/130993949.cms",
+        "title": "Intel CEO who won over Donald Trump and Elon Musk now needs a breakthrough",
+        "link": "https://economictimes.indiatimes.com/tech/technology/intel-ceo-who-won-over-donald-trump-and-elon-musk-now-needs-a-breakthrough/articleshow/130993949.cms",
+        "published": "Sun, 10 May 2026 19:56:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Intel CEO Lip-Bu Tan is entering his second year with renewed optimism, securing interest from tech giants like Apple and Tesla, and seeing his stock reach record highs. Despite past struggles in AI and manufacturing, Tan is focused on rebuilding internal leadership and leveraging his network to drive the company's resurgence."
     }
 ]
