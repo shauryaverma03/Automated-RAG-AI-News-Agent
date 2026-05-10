@@ -223414,5 +223414,45 @@
         "published": "Sun, 10 May 2026 02:15:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this photo essay, we feature highlights from a group show at India Habitat Centre in New Delhi."
+    },
+    {
+        "id": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+        "title": "We see something that works, and then we understand it",
+        "link": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+        "published": "Wed, 06 May 2026 15:15:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48037223\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hc-protects-mp-shashi-tharoors-personality-rights-directs-removal-of-deepfake-video/articleshow/130987917.cms",
+        "title": "HC protects MP Shashi Tharoor's personality rights, directs removal of deepfake video",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hc-protects-mp-shashi-tharoors-personality-rights-directs-removal-of-deepfake-video/articleshow/130987917.cms",
+        "published": "Sun, 10 May 2026 12:14:22 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Delhi High Court has protected Congress MP Shashi Tharoor's personality rights. The court ordered X to remove an AI-generated deepfake video showing him praising Pakistan.  It also restrained the misuse of his name, image, and voice for any purpose.  Meta was asked to keep certain Instagram reels inaccessible.  This order safeguards Tharoor's reputation and India's international standing."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/energy-investment-platforms-business-creativity-entrepreneur-quiz",
+        "title": "Energy, investment, platforms: test your business creativity with Edition 231 of our weekly quiz!",
+        "link": "https://yourstory.com/2026/05/energy-investment-platforms-business-creativity-entrepreneur-quiz",
+        "published": "Sun, 10 May 2026 01:40:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 231st quiz. Ready?"
+    },
+    {
+        "id": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+        "title": "Can Bhavish Aggarwal Drag Ola Krutrim Out Of The Rut?",
+        "link": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+        "published": "Sun, 10 May 2026 06:30:33 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Can Bhavish Aggarwal Drag Ola Krutrim Out Of The Rut?\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Krutrim-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />In June 2023, on a visit to India, OpenAI cofounder and CEO Sam Altman said Indian startups looking to build&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/skyroots-giant-leap/",
+        "title": "Skyroot\u2019s Giant Leap",
+        "link": "https://inc42.com/features/skyroots-giant-leap/",
+        "published": "Sun, 10 May 2026 05:30:18 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Skyroot\u2019s Giant Leap\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Skyroot-Aerospace-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />For several years, India\u2019s spacetech startups have tried to seek the validation of proving that privately held companies just like&#8230;"
     }
 ]
