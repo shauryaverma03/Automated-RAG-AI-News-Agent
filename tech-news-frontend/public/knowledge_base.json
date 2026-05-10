@@ -223822,5 +223822,37 @@
         "published": "Sun, 10 May 2026 17:43:10 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48086082\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/2169135/gm-agrees-to-pay-12-75-million-to-settle-california-lawsuit-over-misuse-of-customers-driving-data/",
+        "title": "GM agrees to pay $12.75 million to settle California lawsuit over misuse of customers' driving data",
+        "link": "https://www.engadget.com/2169135/gm-agrees-to-pay-12-75-million-to-settle-california-lawsuit-over-misuse-of-customers-driving-data/",
+        "published": "Sun, 10 May 2026 19:45:30 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "General Motors collected driving data through OnStar and sold it to data brokers."
+    },
+    {
+        "id": "https://www.engadget.com/2169117/dua-lipa-is-suing-samsung-for-15-million/",
+        "title": "Dua Lipa is suing Samsung for $15 million",
+        "link": "https://www.engadget.com/2169117/dua-lipa-is-suing-samsung-for-15-million/",
+        "published": "Sun, 10 May 2026 19:08:47 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The singer accused the tech giant of illegally using her likeness to sell TVs."
+    },
+    {
+        "id": "https://news.ycombinator.com/item?id=48085993",
+        "title": "Ask HN: What are you working on? (May 2026)",
+        "link": "https://news.ycombinator.com/item?id=48085993",
+        "published": "Sun, 10 May 2026 17:34:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48085993\">Comments</a>"
+    },
+    {
+        "id": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+        "title": "Lakebase architecture delivers faster Postgres writes",
+        "link": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+        "published": "Fri, 08 May 2026 15:46:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48064789\">Comments</a>"
     }
 ]
