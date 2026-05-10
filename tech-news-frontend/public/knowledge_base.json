@@ -223902,5 +223902,29 @@
         "published": "Sun, 10 May 2026 21:36:52 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48088343\">Comments</a>"
+    },
+    {
+        "id": "https://www.engadget.com/2167892/samsungs-bespoke-update-is-big-step-towards-a-useful-ai-for-your-fridge/",
+        "title": "Samsung's Bespoke update is big step towards a useful AI for your fridge",
+        "link": "https://www.engadget.com/2167892/samsungs-bespoke-update-is-big-step-towards-a-useful-ai-for-your-fridge/",
+        "published": "Sun, 10 May 2026 23:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Running a software upgrade on a fridge feels strange, but these are the times we live in."
+    },
+    {
+        "id": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+        "title": "Obsidian plugin was abused to deploy a remote access trojan",
+        "link": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+        "published": "Sun, 10 May 2026 22:02:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48088576\">Comments</a>"
+    },
+    {
+        "id": "https://jola.dev/posts/running-local-models-on-m4",
+        "title": "Running local models on an M4 with 24GB memory",
+        "link": "https://jola.dev/posts/running-local-models-on-m4",
+        "published": "Sun, 10 May 2026 23:09:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48089091\">Comments</a>"
     }
 ]
