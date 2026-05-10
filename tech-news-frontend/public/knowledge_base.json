@@ -223862,5 +223862,29 @@
         "published": "Sun, 10 May 2026 17:19:28 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48085821\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+        "title": "Get ready for the whisper-filled office of the future",
+        "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+        "published": "Sun, 10 May 2026 21:15:30 +0000",
+        "source": "TechCrunch",
+        "summary": "How will work setups change if we spend more and more time talking to our computers?"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+        "title": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts",
+        "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+        "published": "Sun, 10 May 2026 20:40:41 +0000",
+        "source": "TechCrunch",
+        "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic."
+    },
+    {
+        "id": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+        "title": "The Bastl Kalimba is a wild synth that thinks it\u2019s a thumb piano",
+        "link": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+        "published": "2026-05-10T16:42:08-04:00",
+        "source": "The Verge",
+        "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling and FM. The tines are [&#8230;]"
     }
 ]
