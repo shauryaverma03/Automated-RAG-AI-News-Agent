@@ -223342,5 +223342,21 @@
         "published": "Sat, 09 May 2026 17:52:13 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48076815\">Comments</a>"
+    },
+    {
+        "id": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+        "title": "The Serial TTL connector we deserve",
+        "link": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+        "published": "Thu, 07 May 2026 14:19:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48049828\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/paperwork-causing-ai-mission-lag-as-startups-flag-funding-ip-concerns/articleshow/130981221.cms",
+        "title": "Paperwork causing AI mission lag as startups flag funding, IP concerns",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/paperwork-causing-ai-mission-lag-as-startups-flag-funding-ip-concerns/articleshow/130981221.cms",
+        "published": "Sun, 10 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "IndiaAI mission startups face delays in formal agreements, impacting non-compute support and raising IP concerns. While compute access is provided, founders report operational hurdles and potential timeline shifts due to pending MoUs. The government is exploring advance payments to mitigate these issues."
     }
 ]
