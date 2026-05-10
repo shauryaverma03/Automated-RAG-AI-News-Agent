@@ -223574,5 +223574,77 @@
         "published": "Sun, 10 May 2026 11:37:22 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Corporate India is rethinking leadership. As burnout, distrust and disengagement rise, empathy, adaptability and emotional intelligence are becoming strategic imperatives. Human-centred leadership is no longer optional, but essential for building resilient, high-performing workplaces."
+    },
+    {
+        "id": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
+        "title": "Netflix may have finally figured out games",
+        "link": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
+        "published": "2026-05-10T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Boggle has become a spectator sport in my household. Everyone crowds around the [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+        "title": "Do you take after your dad\u2019s RNA?",
+        "link": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+        "published": "Sun, 10 May 2026 11:15:44 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Evidence is growing that sperm carries marks of a father\u2019s life experiences, influencing traits in offspring."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+        "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
+        "link": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+        "published": "Sun, 10 May 2026 11:00:53 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Fortunately, it happened early in the morning, so nobody was around."
+    },
+    {
+        "id": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+        "title": "I returned to AWS, and was reminded why I left",
+        "link": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+        "published": "Sat, 09 May 2026 08:37:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48073201\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms",
+        "title": "SK Hynix flooded with unprecedented offers from big tech firms to secure chip supplies",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms",
+        "published": "Sun, 10 May 2026 18:06:03 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Global tech giants are making unprecedented offers to SK Hynix. They want to invest in new production lines and fund expensive equipment purchases. This is to secure vital memory chips. Demand for these chips is surging due to the artificial intelligence boom. SK Hynix is cautious about these deals. The company is reviewing various approaches to secure long-term supply agreements."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/google-has-bit-more-time-to-address-concerns-in-eu-investigation-eu-commission-says/articleshow/130992334.cms",
+        "title": "Google has bit more time to address concerns in EU investigation, EU Commission says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/google-has-bit-more-time-to-address-concerns-in-eu-investigation-eu-commission-says/articleshow/130992334.cms",
+        "published": "Sun, 10 May 2026 17:53:10 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "European Union regulators are extending a deadline for Google. The company's initial proposal to address competition concerns was found lacking. Regulators need a stronger solution to protect European businesses and citizens. Google is continuing discussions with the Commission to find a satisfactory resolution. A final decision, potentially including a fine, is being prepared."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/logitech-bets-on-ai-gaming-and-business-users-as-it-raises-spending-ceo-says/articleshow/130992160.cms",
+        "title": "Logitech bets on AI, gaming and business users as it raises spending, CEO says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/logitech-bets-on-ai-gaming-and-business-users-as-it-raises-spending-ceo-says/articleshow/130992160.cms",
+        "published": "Sun, 10 May 2026 17:45:46 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Logitech plans increased spending on product development and marketing this year. The company is focusing on gaming, business customers, and AI-enabled devices for growth. Despite economic slowdown worries and Middle East supply issues impacting sales, Logitech expects continued momentum. Investments will be made to capitalize on AI opportunities and maintain a strong financial base."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazons-chile-data-center-moves-ahead-after-residents-lose-environmental-challenge/articleshow/130992094.cms",
+        "title": "Amazon's Chile data center moves ahead after residents lose environmental challenge",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazons-chile-data-center-moves-ahead-after-residents-lose-environmental-challenge/articleshow/130992094.cms",
+        "published": "Sun, 10 May 2026 17:36:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Residents near Santiago, Chile, are concerned about a new Amazon data center. They fear its impact on a cherished local hill and potential power line construction. Despite their opposition, authorities have permitted the data center to proceed. Amazon states its facility will be resource-efficient. Chile is becoming a hub for data centers, attracting significant investment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/anthropic-signs-1-8-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports/articleshow/130992042.cms",
+        "title": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports",
+        "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-signs-1-8-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports/articleshow/130992042.cms",
+        "published": "Sun, 10 May 2026 17:30:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI startup Anthropic has secured a significant computing deal worth $1.8 billion with Akamai Technologies. This partnership aims to meet the growing demand for Anthropic's AI software. Akamai's shares saw a substantial rise following the announcement. The company is well-positioned to access necessary components for AI development. This development follows Anthropic's recent computing deal with Elon Musk's SpaceX."
     }
 ]
