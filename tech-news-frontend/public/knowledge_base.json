@@ -224998,5 +224998,93 @@
         "published": "Mon, 11 May 2026 20:42:00 GMT",
         "source": "Latest news",
         "summary": "The Kingston IronKey Locker+50 G2 offers a high level of data security and several unique features to deter hackers."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+        "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+        "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+        "published": "Mon, 11 May 2026 21:59:34 +0000",
+        "source": "TechCrunch",
+        "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless."
+    },
+    {
+        "id": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+        "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+        "link": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+        "published": "2026-05-11T18:40:20-04:00",
+        "source": "The Verge",
+        "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+        "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+        "published": "2026-05-11T18:19:15-04:00",
+        "source": "The Verge",
+        "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+        "title": "Linux bitten by second severe vulnerability in as many weeks",
+        "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+        "published": "Mon, 11 May 2026 22:28:19 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Production-version patches are coming online and should be installed pronto."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+        "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
+        "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+        "published": "Mon, 11 May 2026 22:01:57 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Audi made sure to consult American tastes for its first full-size SUV."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
+        "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
+        "link": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
+        "published": "Mon, 11 May 2026 20:48:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "FCC extends waiver allowing routers and drones to get patches for two more years."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+        "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+        "link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+        "published": "Mon, 11 May 2026 20:37:00 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Can AI save us from the AI industry\u2019s endless thirst for water? Outlook not so good."
+    },
+    {
+        "id": "https://github.com/TanStack/router/issues/7383",
+        "title": "TanStack NPM Packages Compromised",
+        "link": "https://github.com/TanStack/router/issues/7383",
+        "published": "Mon, 11 May 2026 21:08:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48100706\">Comments</a>"
+    },
+    {
+        "id": "https://about.gitlab.com/blog/gitlab-act-2/",
+        "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+        "link": "https://about.gitlab.com/blog/gitlab-act-2/",
+        "published": "Mon, 11 May 2026 20:51:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48100500\">Comments</a>"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+        "title": "Google says criminal hackers used AI to find a major software flaw",
+        "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+        "published": "Mon, 11 May 2026 13:20:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48094641\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/microsoft-speed-launch-time-windows-11-apps-features/",
+        "title": "Microsoft is boosting the launch time of key Windows apps and features - here's how",
+        "link": "https://www.zdnet.com/article/microsoft-speed-launch-time-windows-11-apps-features/",
+        "published": "Mon, 11 May 2026 21:25:24 GMT",
+        "source": "Latest news",
+        "summary": "Currently in early testing mode, the new Low Latency Profile will boost the speed of Windows 11 apps, menus, flyouts, and more."
     }
 ]
