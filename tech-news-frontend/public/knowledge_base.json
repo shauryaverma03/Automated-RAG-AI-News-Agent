@@ -223926,5 +223926,61 @@
         "published": "Sun, 10 May 2026 23:09:10 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48089091\">Comments</a>"
+    },
+    {
+        "id": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+        "title": "I'm going back to writing code by hand",
+        "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+        "published": "Mon, 11 May 2026 01:23:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48090029\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/instant-househelp-orders-jump-agnikul-eyes-new-funding/articleshow/131001250.cms",
+        "title": "Instant househelp orders jump; Agnikul eyes new funding",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/instant-househelp-orders-jump-agnikul-eyes-new-funding/articleshow/131001250.cms",
+        "published": "Mon, 11 May 2026 06:56:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Monday! Instant house help startups together crossed three million monthly bookings in April. This and more in today's ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/cerebras-to-raise-ipo-price-range-to-150-160-as-demand-surges/articleshow/131001223.cms",
+        "title": "Cerebras to raise IPO price range to $150-$160 as demand surges",
+        "link": "https://economictimes.indiatimes.com/tech/technology/cerebras-to-raise-ipo-price-range-to-150-160-as-demand-surges/articleshow/131001223.cms",
+        "published": "Mon, 11 May 2026 06:21:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cerebras Systems plans to increase its IPO size and price. Demand for its artificial intelligence chips is surging. The company is considering a higher share price and more shares for its public offering. This move follows strong adoption of AI technology. Cerebras' processors are in high demand for AI model deployment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/most-non-consensual-intimate-images-being-removed-in-two-hours-officials/articleshow/130997108.cms",
+        "title": "Most non-consensual intimate images being removed in two hours: officials",
+        "link": "https://economictimes.indiatimes.com/tech/technology/most-non-consensual-intimate-images-being-removed-in-two-hours-officials/articleshow/130997108.cms",
+        "published": "Mon, 11 May 2026 06:01:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Social media platforms are now removing non-consensual intimate imagery within two hours of complaints, a significant improvement from the previous 24-hour deadline. This faster takedown, mandated by updated IT rules, applies to various sensitive content, including deepfakes and material targeting women and children. While compliance is high, challenges like false positives and cross-jurisdictional content necessitate human review, impacting timelines."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/clients-moving-beyond-ai-pilots-to-roadmaps-with-clear-returns-hexaware-ceo/articleshow/130997165.cms",
+        "title": "Clients moving beyond AI pilots to roadmaps with clear returns: Hexaware CEO",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/clients-moving-beyond-ai-pilots-to-roadmaps-with-clear-returns-hexaware-ceo/articleshow/130997165.cms",
+        "published": "Mon, 11 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Client spending on AI has shifted from experimentation to concrete roadmaps with immediate ROI expectations, according to Hexaware CEO R Srikrishna. He emphasized that AI model companies entering services won't threaten large IT firms, as enterprise transformation requires specialized implementation expertise. Trust in customer relationships will be the key differentiator in the post-AI era."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/instant-househelp-platforms-top-three-million-bookings-in-april-but-long-term-demand-remains-uncertain/articleshow/130996817.cms",
+        "title": "Instant house help companies\u2019 bookings top three million in April",
+        "link": "https://economictimes.indiatimes.com/tech/technology/instant-househelp-platforms-top-three-million-bookings-in-april-but-long-term-demand-remains-uncertain/articleshow/130996817.cms",
+        "published": "Mon, 11 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "As platforms raise prices and battle for workers, questions are emerging around the long-term size and profitability of the 10-minute househelp market. Companies are now expanding into adjacent categories such as cooking and car washing to deepen engagement and drive growth."
+    },
+    {
+        "id": "https://inc42.com/features/paytms-profitability-milestone-comes-with-caveats/",
+        "title": "Paytm\u2019s Profitability Milestone Comes With Caveats",
+        "link": "https://inc42.com/features/paytms-profitability-milestone-comes-with-caveats/",
+        "published": "Mon, 11 May 2026 00:30:55 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/paytmftr-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />For nearly five years after its public listing, the question hanging over One97 Communications, the parent of Paytm, was if&#8230;"
     }
 ]
