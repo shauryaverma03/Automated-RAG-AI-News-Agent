@@ -225086,5 +225086,29 @@
         "published": "Mon, 11 May 2026 21:25:24 GMT",
         "source": "Latest news",
         "summary": "Currently in early testing mode, the new Low Latency Profile will boost the speed of Windows 11 apps, menus, flyouts, and more."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+        "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "published": "Mon, 11 May 2026 23:04:10 +0000",
+        "source": "TechCrunch",
+        "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+        "title": "OpenAI just released its answer to Claude Mythos",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+        "published": "2026-05-11T19:05:01-04:00",
+        "source": "The Verge",
+        "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/",
+        "title": "Astronomers use the Webb telescope to improve our map of the cosmic web",
+        "link": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/",
+        "published": "Mon, 11 May 2026 22:54:56 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Adding significantly more detail means better future investigations into the universe's past."
     }
 ]
