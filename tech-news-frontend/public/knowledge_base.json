@@ -225110,5 +225110,101 @@
         "published": "Mon, 11 May 2026 22:54:56 +0000",
         "source": "Engadget - Technology News & Expert Reviews",
         "summary": "Adding significantly more detail means better future investigations into the universe's past."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+        "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+        "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+        "published": "Tue, 12 May 2026 00:09:01 +0000",
+        "source": "TechCrunch",
+        "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups."
+    },
+    {
+        "id": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+        "title": "Ilya Sutskever Stands by His Role in Sam Altman\u2019s OpenAI Ouster: \u2018I Didn\u2019t Want It to Be Destroyed\u2019",
+        "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+        "published": "Mon, 11 May 2026 23:51:35 +0000",
+        "source": "WIRED",
+        "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday."
+    },
+    {
+        "id": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative/",
+        "title": "Daybreak is OpenAI's response to Anthropic's Claude Mythos",
+        "link": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative/",
+        "published": "Tue, 12 May 2026 01:07:37 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "OpenAI has launched a cybersecurity initiative called Daybreak, powered by GPT-5.5 and Codex Security."
+    },
+    {
+        "id": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "title": "Postmortem: TanStack npm supply-chain compromise",
+        "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "published": "Mon, 11 May 2026 21:08:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48100706\">Comments</a>"
+    },
+    {
+        "id": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "title": "If AI writes your code, why use Python?",
+        "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "published": "Mon, 11 May 2026 20:45:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48100433\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/openai-to-cap-microsoft-revenue-sharing-at-38-billion-report/articleshow/131026386.cms",
+        "title": "OpenAI to cap Microsoft revenue-sharing at $38 billion: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/openai-to-cap-microsoft-revenue-sharing-at-38-billion-report/articleshow/131026386.cms",
+        "published": "Tue, 12 May 2026 07:06:03 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI's \u200brevenue-sharing \u200bpayments to Microsoft \u200care \u2060now \u2060capped \u200bat $38 billion, The \u200bInformation reported \u200bon \u2060Monday."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/amazon-primes-a-blinkit-showdown-new-insurance-models-prop-up/articleshow/131026257.cms",
+        "title": "Amazon primes a Blinkit showdown; New insurance models prop up",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/amazon-primes-a-blinkit-showdown-new-insurance-models-prop-up/articleshow/131026257.cms",
+        "published": "Tue, 12 May 2026 07:03:33 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Tuesday! Amazon\u2019s late but strong push into quick commerce is unsettling market leader Blinkit. This and more in today's ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsoft-google-xai-security-test-details-deleted-from-us-government-website/articleshow/131026231.cms",
+        "title": "Microsoft, Google, xAI security test details deleted from US government website",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-google-xai-security-test-details-deleted-from-us-government-website/articleshow/131026231.cms",
+        "published": "Tue, 12 May 2026 06:38:33 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US government officials removed information from their website concerning an agreement with tech giants Google, xAI, and Microsoft. This pact allowed government scientists to test new AI models for security flaws before public release. The move comes amid growing concerns about national security risks posed by advanced AI systems. The reason for the website content removal remains unclear."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/former-openai-executive-sutskever-says-he-spent-a-year-gathering-proof-of-alleged-altman-dishonesty/articleshow/131026210.cms",
+        "title": "Former OpenAI executive Sutskever says he spent a year gathering proof of alleged Altman dishonesty",
+        "link": "https://economictimes.indiatimes.com/tech/technology/former-openai-executive-sutskever-says-he-spent-a-year-gathering-proof-of-alleged-altman-dishonesty/articleshow/131026210.cms",
+        "published": "Tue, 12 May 2026 06:34:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ilya Sutskever testified about Sam Altman's alleged dishonesty. He spent a year collecting evidence of Altman's behavior. This testimony is part of a legal battle between OpenAI and Elon Musk. Musk is suing OpenAI and Microsoft. He claims OpenAI abandoned its nonprofit mission. The trial could shape OpenAI's future. Sutskever's stake in OpenAI is substantial."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-in-bloom-how-tech-helped-our-garden-take-deep-root/articleshow/131022023.cms",
+        "title": "AI in Bloom: How tech helped our garden take deep root",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-in-bloom-how-tech-helped-our-garden-take-deep-root/articleshow/131022023.cms",
+        "published": "Tue, 12 May 2026 06:02:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Facing challenges with their home's landscape, the author turned to ChatGPT for a personalized gardening plan. Through an iterative process, they specified preferences for non-shedding, mosquito-repellent, fragrant trees, and sun-tolerant plants suitable for California's climate."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/health-cibil-score-this-hyderabad-startup-ekincare-been-building-decade",
+        "title": "What if your health had a CIBIL-like score? A Hyderabad startup is building it for a decade",
+        "link": "https://yourstory.com/2026/05/health-cibil-score-this-hyderabad-startup-ekincare-been-building-decade",
+        "published": "Tue, 12 May 2026 01:40:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "ekincare's decade-long bet on structured health data is becoming the backbone of corporate healthcare in India, and the implications go far beyond employee wellness."
+    },
+    {
+        "id": "https://inc42.com/buzz/why-instahelp-isnt-helping-urban-companys-finances/",
+        "title": "Why InstaHelp Isn\u2019t Helping Urban Company\u2019s Finances",
+        "link": "https://inc42.com/buzz/why-instahelp-isnt-helping-urban-companys-finances/",
+        "published": "Tue, 12 May 2026 01:30:05 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Why InstaHelp Isn\u2019t Helping Urban Company\u2019s Finances\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/ftr-6-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Urban Company launched InstaHelp last year to position itself as the go-to platform for instant household assistance, but the vertical&#8230;"
     }
 ]
