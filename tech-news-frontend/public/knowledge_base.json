@@ -226718,5 +226718,109 @@
         "published": "Tue, 12 May 2026 12:14:30 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Dil Foods will use this capital towards diversifying the product portfolio and getting into newer markets."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+        "title": "Medicare\u2019s new payment model is built for AI, and most of the tech world has no idea",
+        "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+        "published": "Wed, 13 May 2026 00:26:48 +0000",
+        "source": "TechCrunch",
+        "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time."
+    },
+    {
+        "id": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+        "title": "Elon Musk Had \u2018Hair-Raising\u2019 Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+        "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+        "published": "Wed, 13 May 2026 00:10:05 +0000",
+        "source": "WIRED",
+        "summary": "Musk\u2019s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company."
+    },
+    {
+        "id": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+        "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+        "link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+        "published": "Wed, 13 May 2026 00:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Emails show that Elon Musk\u2019s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues."
+    },
+    {
+        "id": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+        "title": "My graduation cap runs Rust",
+        "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+        "published": "Wed, 13 May 2026 00:04:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48116207\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences/",
+        "title": "Chromebook vs. Googlebook: How I'm deciding which laptop to upgrade to next",
+        "link": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences/",
+        "published": "Wed, 13 May 2026 01:15:00 GMT",
+        "source": "Latest news",
+        "summary": "Google is going all-in on its new product line while assuring users Chromebooks aren't being phased out."
+    },
+    {
+        "id": "https://www.zdnet.com/article/elementary-os-vs-linux-mint/",
+        "title": "Elementary OS vs. Linux Mint: I compared my once favorite distro to the Windows alternative",
+        "link": "https://www.zdnet.com/article/elementary-os-vs-linux-mint/",
+        "published": "Wed, 13 May 2026 01:12:00 GMT",
+        "source": "Latest news",
+        "summary": "If you're looking for a user-friendly Linux distribution, your destination could depend on your starting point. Here's how two of your best options compare."
+    },
+    {
+        "id": "https://www.zdnet.com/article/control-customize-widgets-windows-11/",
+        "title": "How I made my Windows 11 widgets truly useful: 8 simple tweaks to try before you hide them",
+        "link": "https://www.zdnet.com/article/control-customize-widgets-windows-11/",
+        "published": "Wed, 13 May 2026 01:00:45 GMT",
+        "source": "Latest news",
+        "summary": "The Widgets feature can be annoying but it's also able to provide useful news and info. Here's how I tweak it to be less intrusive and more helpful."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-employees-protest-against-mouse-tracking-tech-at-us-offices/articleshow/131052380.cms",
+        "title": "Meta employees protest against mouse tracking tech at US offices",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-employees-protest-against-mouse-tracking-tech-at-us-offices/articleshow/131052380.cms",
+        "published": "Wed, 13 May 2026 06:49:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta employees are protesting the company's installation of mouse-tracking software across US offices. Flyers distributed by staff urged colleagues to sign an online petition against the technology, which Meta states is necessary for developing AI agents. Employees cited labour laws protecting their right to organise for improved working conditions."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/electric-two-wheeler-makers-brace-for-raw-material-price-hikes-ai-infra-pressure/articleshow/131048140.cms",
+        "title": "Electric two-wheeler makers brace for raw material price hikes, AI infra pressure",
+        "link": "https://economictimes.indiatimes.com/tech/startups/electric-two-wheeler-makers-brace-for-raw-material-price-hikes-ai-infra-pressure/articleshow/131048140.cms",
+        "published": "Wed, 13 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Electric two-wheeler manufacturers are facing significant margin pressure and potential price hikes due to soaring raw material costs and supply chain disruptions. Geopolitical tensions and increased demand for AI infrastructure are exacerbating these challenges, impacting critical components like lithium-ion cells and memory chips."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sc-likely-to-hear-petitions-challenging-sections-of-indias-first-privacy-law-this-month/articleshow/131047848.cms",
+        "title": "SC likely to hear petitions challenging sections of India\u2019s first privacy law this month",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sc-likely-to-hear-petitions-challenging-sections-of-indias-first-privacy-law-this-month/articleshow/131047848.cms",
+        "published": "Wed, 13 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The petitioners are the Reporters' Collective, the Editors Guild of India, the National Campaign for People's Right to Information, Mazdoor Kisan Shakti Sanghatan, human rights and transparency activist Venkatesh Nayak and journalist Geeta Seshu. Among other aspects, they have questioned provisions which amend the Right to Information (RTI) Act and allegedly enable blanket denial of information requests involving personal data."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/lightspeed-eyes-new-india-fund-plans-smaller-corpus-of-300-350-million/articleshow/131047516.cms",
+        "title": "Lightspeed eyes new India fund; plans smaller corpus of $300-350 million",
+        "link": "https://economictimes.indiatimes.com/tech/technology/lightspeed-eyes-new-india-fund-plans-smaller-corpus-of-300-350-million/articleshow/131047516.cms",
+        "published": "Wed, 13 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The venture capital firm, which was initially looking to raise as much as $500 million for its fifth India fund, has now cut the target size to around $300-350 million, the people said, requesting anonymity as the discussions are private."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/increasing-ai-risks-boost-demand-for-cyber-insurance/articleshow/131047379.cms",
+        "title": "Companies fish for cyber cover as AI liability risks surface",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/increasing-ai-risks-boost-demand-for-cyber-insurance/articleshow/131047379.cms",
+        "published": "Wed, 13 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian companies are turning to cyber insurance for protection against AI risks. Concerns about AI agents going rogue or chatbots providing incorrect information are driving this trend. Insurers are adapting their underwriting models to assess AI exposure. The global AI insurance market is projected for significant growth. This evolving landscape reflects a proactive approach to managing new technological threats."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/litefold-biotech-startup-using-proprietary-ai-speed-up-drug-discovery",
+        "title": "Meet LiteFold, a biotech startup using proprietary AI to speed up drug discovery",
+        "link": "https://yourstory.com/2026/05/litefold-biotech-startup-using-proprietary-ai-speed-up-drug-discovery",
+        "published": "Wed, 13 May 2026 01:35:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Bengaluru and Delaware-based LiteFold is a biotech AI-native platform designed to accelerate computational biology workflows."
     }
 ]
