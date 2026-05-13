@@ -226822,5 +226822,101 @@
         "published": "Wed, 13 May 2026 01:35:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Bengaluru and Delaware-based LiteFold is a biotech AI-native platform designed to accelerate computational biology workflows."
+    },
+    {
+        "id": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+        "title": "Sony\u2019s new Xperia phone gets an overdue redesign",
+        "link": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+        "published": "2026-05-12T22:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Sony's Xperia 1 flagships have looked more or less the same since 2020, but that's finally changing with the Xperia 1 VIII, which moves to a chunky square camera island. The phone also boasts what should be a substantially improved telephoto camera, along with an AI camera assistant that looks like an improved version of [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson/",
+        "title": "Family sues OpenAI, alleging ChatGPT advice led to accidental overdose",
+        "link": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson/",
+        "published": "Wed, 13 May 2026 04:07:25 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The complaint says ChatGPT started giving Sam Nelson advice about drug use with the launch of GPT-4o."
+    },
+    {
+        "id": "https://arxiv.org/abs/2605.08419",
+        "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+        "link": "https://arxiv.org/abs/2605.08419",
+        "published": "Wed, 13 May 2026 04:25:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48117810\">Comments</a>"
+    },
+    {
+        "id": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+        "title": "The vi family",
+        "link": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+        "published": "Wed, 06 May 2026 07:51:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48033483\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/fedora-vs-kinoite/",
+        "title": "Fedora Kinoite vs. Silverblue: My verdict after testing both immutable Linux distros",
+        "link": "https://www.zdnet.com/article/fedora-vs-kinoite/",
+        "published": "Wed, 13 May 2026 02:30:44 GMT",
+        "source": "Latest news",
+        "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be different."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/credit-at-the-tap-the-opportunities-and-risks-of-indias-digital-lending-boom/articleshow/131032947.cms",
+        "title": "Credit at the tap: The opportunities and risks of India\u2019s digital lending boom",
+        "link": "https://economictimes.indiatimes.com/tech/technology/credit-at-the-tap-the-opportunities-and-risks-of-indias-digital-lending-boom/articleshow/131032947.cms",
+        "published": "Wed, 13 May 2026 09:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's digital lending is rapidly transforming credit access, with mobile apps now disbursing significant loan volumes, especially to younger demographics and underserved regions. While offering convenience and speed, regulators are ensuring transparency and consumer protection amidst evolving market dynamics and persistent risks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/google-backed-isomorphic-raises-2-1-billion-to-scale-ai-driven-drug-discovery/articleshow/131053781.cms",
+        "title": "Google-backed Isomorphic raises $2.1 billion to scale AI-driven drug discovery",
+        "link": "https://economictimes.indiatimes.com/tech/funding/google-backed-isomorphic-raises-2-1-billion-to-scale-ai-driven-drug-discovery/articleshow/131053781.cms",
+        "published": "Wed, 13 May 2026 08:51:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI drug discovery firm Isomorphic Labs secured a massive $2.1 billion funding round, aiming to accelerate its mission to cure all diseases. Led by Thrive Capital, the investment will scale their drug design engine, with initial clinical trials now anticipated by late 2026."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-social-media-legislation-gains-momentum-as-key-republican-senator-pledges-support/articleshow/131053672.cms",
+        "title": "US social media legislation gains momentum as key Republican senator pledges support",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-social-media-legislation-gains-momentum-as-key-republican-senator-pledges-support/articleshow/131053672.cms",
+        "published": "Wed, 13 May 2026 08:44:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A key legislative hurdle for the Kids Online Safety Act was cleared Tuesday as Senator Ted Cruz announced his support for the bill. The legislation mandates social media companies to exercise reasonable care in designing features that could harm minors, addressing issues like eating disorders and depression."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-warns-investors-to-avoid-certain-secondary-market-sellers/articleshow/131053413.cms",
+        "title": "Anthropic warns investors to avoid certain secondary market sellers",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-warns-investors-to-avoid-certain-secondary-market-sellers/articleshow/131053413.cms",
+        "published": "Wed, 13 May 2026 08:31:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic has identified eight secondary marketplaces as unauthorised sellers of its shares, warning investors that such purchases will not be recognised. The AI developer previously cautioned about fraudulent share certificates and has now named specific platforms, including Hiive and Forge Global, in violation of its transfer restrictions."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation/articleshow/131053140.cms",
+        "title": "Anthropic in talks to raise $30 billion at $900 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/funding/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation/articleshow/131053140.cms",
+        "published": "Wed, 13 May 2026 08:24:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Alphabet's AI drug discovery firm, Isomorphic Labs, is reportedly close to securing over $2 billion in new funding, led by Thrive Capital. This significant investment aims to bolster its drug design engine and fuel global expansion, underscoring Alphabet's strategy of nurturing its ambitious AI ventures."
+    },
+    {
+        "id": "https://inc42.com/features/who-will-bell-the-consumer-ai-cat/",
+        "title": "Who Will Bell The Consumer AI Cat?",
+        "link": "https://inc42.com/features/who-will-bell-the-consumer-ai-cat/",
+        "published": "Wed, 13 May 2026 05:30:16 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/AI-Shift-_19-Creatives-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />In India, almost every AI conversation today is about sovereign models, semiconductor fabs, GPU clusters, compute capacity, and the race&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/mobikwiks-profitable-q4-indias-cctv-shake-up-more/",
+        "title": "MobiKwik\u2019s Profitable Q4, India\u2019s CCTV Shake-Up & More",
+        "link": "https://inc42.com/buzz/mobikwiks-profitable-q4-indias-cctv-shake-up-more/",
+        "published": "Wed, 13 May 2026 02:30:27 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"MobiKwik\u2019s Profitable Q4, India\u2019s CCTV Shake-Up &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/FTR-Daily-Brief-2026-05-13T001606.057.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />MobiKwik\u2019s Q4 Financial Scorecard It was a mixed Q4 for MobiKwik. Revenue contraction marred the full FY26 picture, but the&#8230;"
     }
 ]
