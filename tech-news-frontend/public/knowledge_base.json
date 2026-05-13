@@ -228142,5 +228142,117 @@
         "published": "Wed, 13 May 2026 11:26:04 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Union Education Minister Dharmendra Pradhan has invited the global community to participate in Bharat Innovates 2026, positioning the upcoming event"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+        "title": "Notion just turned its workspace into a hub for AI agents",
+        "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+        "published": "Wed, 13 May 2026 21:45:09 +0000",
+        "source": "TechCrunch",
+        "summary": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
+        "title": "This is what some of the world\u2019s largest banks of malware look like stacked as hard drives",
+        "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
+        "published": "Wed, 13 May 2026 18:12:29 +0000",
+        "source": "TechCrunch",
+        "summary": "What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?"
+    },
+    {
+        "id": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+        "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+        "link": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+        "published": "2026-05-13T18:04:28-04:00",
+        "source": "The Verge",
+        "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more. In its [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+        "title": "Trump administration defends right to ban content moderation experts from US",
+        "link": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+        "published": "2026-05-13T17:58:44-04:00",
+        "source": "The Verge",
+        "summary": "The Trump administration is fighting for the right to keep some social media moderation advocates out of the US. On Wednesday, US District Court Judge James Boasberg heard arguments in a lawsuit between the nonprofit Coalition for Independent Technology Research (CITR) and Secretary of State Marco Rubio and other Trump administration officials. The suit concerns [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
+        "title": "YouTube is courting creators \u2014 and sponsors \u2014 with streaming shows",
+        "link": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
+        "published": "2026-05-13T17:30:00-04:00",
+        "source": "The Verge",
+        "summary": "In the ongoing fight for content and talent, YouTube is pitching itself as the connector between the creators and advertisers - and marketing its creators not just as the future of social media, but also of advertising, TV, streaming, and entertainment more broadly. At the company's annual advertiser event in New York on Wednesday, YouTube [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+        "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+        "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+        "published": "Wed, 13 May 2026 21:58:47 +0000",
+        "source": "WIRED",
+        "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
+        "title": "Solar drone with jumbo jet wingspan broke a flight record\u2014then it crashed",
+        "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
+        "published": "Wed, 13 May 2026 21:48:27 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The final flight and complex legacy of a pioneering solar-powered aircraft."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
+        "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
+        "link": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
+        "published": "Wed, 13 May 2026 20:44:38 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Approval is no surprise after FCC chair pressured EchoStar to sell licenses."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
+        "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
+        "link": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
+        "published": "Wed, 13 May 2026 20:27:54 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Distinct form of tooth protein in <i>Homo erectus</i> shows up in Denisovans&#8212;and us."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/",
+        "title": "Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers",
+        "link": "https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/",
+        "published": "Wed, 13 May 2026 20:06:09 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The drugs had an estimated worth of over $9 million USD."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+        "title": "AI invades Princeton, where 30% of students cheat\u2014but peers won't snitch",
+        "link": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+        "published": "Wed, 13 May 2026 19:47:24 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Old \"honor code\" systems are under strain."
+    },
+    {
+        "id": "https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer/",
+        "title": "KitchenAid launches its first smart thermometer",
+        "link": "https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer/",
+        "published": "Wed, 13 May 2026 22:22:37 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "There are single and dual probe models available."
+    },
+    {
+        "id": "https://www.engadget.com/2172449/netflixs-ad-tier-now-has-a-whopping-250-million-monthly-users/",
+        "title": "Netflix's ad tier now has a whopping 250 million monthly users",
+        "link": "https://www.engadget.com/2172449/netflixs-ad-tier-now-has-a-whopping-250-million-monthly-users/",
+        "published": "Wed, 13 May 2026 21:21:27 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Advertising has become big business for the streamer."
+    },
+    {
+        "id": "https://inc42.com/buzz/inventory-model-pivot-swiggy-seeks-shareholder-nod-to-amend-aoa/",
+        "title": "Inventory Model Pivot? Swiggy Seeks Shareholder Nod To Cap Foreign Ownership",
+        "link": "https://inc42.com/buzz/inventory-model-pivot-swiggy-seeks-shareholder-nod-to-amend-aoa/",
+        "published": "Wed, 13 May 2026 22:42:25 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/SWIGGY-FTR-1-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Foodtech major Swiggy has kickstarted the process of becoming an Indian-owned and controlled company (IOCC). As part of this, the&#8230;"
     }
 ]
