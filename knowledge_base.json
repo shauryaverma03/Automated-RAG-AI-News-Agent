@@ -228262,5 +228262,69 @@
         "published": "Mon, 11 May 2026 16:00:19 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48096760\">Comments</a>"
+    },
+    {
+        "id": "http://www.scorch2000.com/web/",
+        "title": "Scorched Earth 2000 is back",
+        "link": "http://www.scorch2000.com/web/",
+        "published": "Thu, 14 May 2026 00:41:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48129694\">Comments</a>"
+    },
+    {
+        "id": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+        "title": "The Other Half of AI Safety",
+        "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+        "published": "Thu, 14 May 2026 00:27:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48129561\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
+        "title": "I'm following the 60-60 rule for headphone listening, and my future self will thank me for it",
+        "link": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
+        "published": "Thu, 14 May 2026 01:30:41 GMT",
+        "source": "Latest news",
+        "summary": "Wearing headphones every day has a greater effect on your ears than you might think. But your devices likely have features to help."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/us-defence-firm-anduril-raises-5-billion-doubling-its-valuation-to-61-billion/articleshow/131080174.cms",
+        "title": "US defence firm Anduril raises $5 billion, doubling its valuation to $61 billion",
+        "link": "https://economictimes.indiatimes.com/tech/funding/us-defence-firm-anduril-raises-5-billion-doubling-its-valuation-to-61-billion/articleshow/131080174.cms",
+        "published": "Thu, 14 May 2026 07:12:12 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Defence tech firm Anduril Industries has secured a massive $5 billion funding, catapulting its valuation to $61 billion. This surge follows a year of significant growth, with revenue doubling to $2.2 billion and workforce expansion. Investors are increasingly backing defence innovators amidst global geopolitical shifts."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ex-peak-xv-trio-raises-mettle-fintechs-go-licence-hunting/articleshow/131079952.cms",
+        "title": "Ex-Peak XV trio raises Mettle; Fintechs go licence hunting",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ex-peak-xv-trio-raises-mettle-fintechs-go-licence-hunting/articleshow/131079952.cms",
+        "published": "Thu, 14 May 2026 07:07:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Thursday! Three former Peak XV MDs who left the VC firm are launching Mettle Capital to back Indian startups. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/mphasis-playing-host-to-a-high-stakes-game-of-executive-musical-chairs/articleshow/131076326.cms",
+        "title": "Mphasis playing host to a high-stakes game of executive musical chairs",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/mphasis-playing-host-to-a-high-stakes-game-of-executive-musical-chairs/articleshow/131076326.cms",
+        "published": "Thu, 14 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Mphasis faces a wave of senior executive departures. Over a dozen high-performing leaders have left since 2025 for competitors such as Coforge and Tenarai. Some executives are reportedly taking other talent with them. Mphasis is actively hiring to counter these losses. The company has also initiated legal action against Coforge for alleged talent poaching."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/activate-picks-stake-in-elevenlabs-in-first-global-growth-stage-ai-bet/articleshow/131076081.cms",
+        "title": "Activate picks stake in ElevenLabs in first global growth-stage AI bet",
+        "link": "https://economictimes.indiatimes.com/tech/technology/activate-picks-stake-in-elevenlabs-in-first-global-growth-stage-ai-bet/articleshow/131076081.cms",
+        "published": "Thu, 14 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Venture capital firm Activate has made its first global growth-stage AI investment in ElevenLabs. This New York-based voice AI company considers India a key market. Activate will partner with ElevenLabs in India to strengthen enterprise relationships and offer early-stage Indian startups access to its voice infrastructure. ElevenLabs is experiencing rapid growth, with India being its second-largest market globally."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ettech-explainer-did-openais-new-ai-deployment-venture-just-kill-indian-it-stocks/articleshow/131075682.cms",
+        "title": "ETtech Explainer: Did OpenAI's new AI deployment venture just kill Indian IT stocks?",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ettech-explainer-did-openais-new-ai-deployment-venture-just-kill-indian-it-stocks/articleshow/131075682.cms",
+        "published": "Thu, 14 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Indian IT stocks plummeted to three-year lows following OpenAI's launch of a new venture focused on direct AI implementation for enterprises. This move, alongside a similar initiative by Anthropic, threatens the traditional service integration model of Indian IT giants. The market reaction highlights concerns over AI's disruptive potential and existing geopolitical uncertainties impacting the sector."
     }
 ]
