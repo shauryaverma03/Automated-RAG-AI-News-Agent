@@ -228326,5 +228326,125 @@
         "published": "Thu, 14 May 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Indian IT stocks plummeted to three-year lows following OpenAI's launch of a new venture focused on direct AI implementation for enterprises. This move, alongside a similar initiative by Anthropic, threatens the traditional service integration model of Indian IT giants. The market reaction highlights concerns over AI's disruptive potential and existing geopolitical uncertainties impacting the sector."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+        "title": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
+        "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+        "published": "Thu, 14 May 2026 05:24:39 +0000",
+        "source": "TechCrunch",
+        "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
+    },
+    {
+        "id": "https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/",
+        "title": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now",
+        "link": "https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/",
+        "published": "Thu, 14 May 2026 03:57:54 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Copilot features are now available on Edge for mobile."
+    },
+    {
+        "id": "https://www.anthropic.com/news/claude-for-small-business",
+        "title": "Claude for Small Business",
+        "link": "https://www.anthropic.com/news/claude-for-small-business",
+        "published": "Thu, 14 May 2026 03:59:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48130950\">Comments</a>"
+    },
+    {
+        "id": "https://blogs.cisco.com/news/our-path-forward",
+        "title": "Cisco workforce reductions",
+        "link": "https://blogs.cisco.com/news/our-path-forward",
+        "published": "Thu, 14 May 2026 01:38:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48130123\">Comments</a>"
+    },
+    {
+        "id": "https://mayerwin.github.io/AI-Arena-History/",
+        "title": "Arena AI Model ELO History",
+        "link": "https://mayerwin.github.io/AI-Arena-History/",
+        "published": "Thu, 14 May 2026 03:19:05 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48130711\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tsmc-says-global-chip-market-to-hit-1-5-trillion-by-2030-as-ai-drives-growth/articleshow/131082729.cms",
+        "title": "TSMC says global chip market to hit $1.5 trillion by 2030 as AI drives growth",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tsmc-says-global-chip-market-to-hit-1-5-trillion-by-2030-as-ai-drives-growth/articleshow/131082729.cms",
+        "published": "Thu, 14 May 2026 10:20:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "TSMC predicts the global chip market will surpass $1.5 trillion by 2030. AI and high-performance computing will lead this growth. The company is expanding its advanced chip production and packaging capacity. New facilities are being built in Arizona, Japan, and Germany to meet future demand."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-hopes-trump-and-xi-will-improve-two-way-ties-cctv/articleshow/131082611.cms",
+        "title": "Nvidia CEO hopes Trump and Xi will improve two-way ties: CCTV",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-hopes-trump-and-xi-will-improve-two-way-ties-cctv/articleshow/131082611.cms",
+        "published": "Thu, 14 May 2026 10:14:32 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Nvidia CEO Jensen Huang met with Chinese President Xi Jinping. He expressed hope for improved US-China relations. Nvidia faces difficulties supplying advanced AI chips to Chinese clients. This impacts their artificial intelligence development efforts."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-urges-union-to-resume-talks-as-strike-threat-looms/articleshow/131081979.cms",
+        "title": "Samsung Electronics urges union to resume talks as strike threat looms",
+        "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-urges-union-to-resume-talks-as-strike-threat-looms/articleshow/131081979.cms",
+        "published": "Thu, 14 May 2026 09:36:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Samsung's labour union has rejected a call to resume pay talks, demanding transparency in the company's bonus scheme.  A threatened 18-day strike looms if demands aren't met, with the government urging both sides to negotiate to protect South Korea's vital chip export economy."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-chip-start-up-cerebras-to-raise-5-5-billion-in-ipo/articleshow/131081324.cms",
+        "title": "US chip start-up Cerebras to raise $5.5 billion in IPO",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-chip-start-up-cerebras-to-raise-5-5-billion-in-ipo/articleshow/131081324.cms",
+        "published": "Thu, 14 May 2026 08:38:27 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cerebras Systems is set to launch its IPO on Wall Street at $185 per share, aiming to raise approximately $5.5 billion and valuing the company at over $55 billion. This marks the largest US IPO this year, with the chip startup specializing in wafer-scale processors crucial for AI development."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/microsoft-eyeing-startup-deals-for-life-after-openai/articleshow/131080283.cms",
+        "title": "Microsoft eyeing startup deals for life after OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/startups/microsoft-eyeing-startup-deals-for-life-after-openai/articleshow/131080283.cms",
+        "published": "Thu, 14 May 2026 07:24:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft is actively seeking AI startups for potential acquisitions. This move aims to bolster its AI talent and develop a cutting-edge AI model independently. The company is reportedly in discussions with Inception, a startup focused on novel large language model development."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/vgus-tier-ii-founders-rajasthans-startup-future",
+        "title": "Inside VGU\u2019s bet on Tier II founders and Rajasthan\u2019s startup future",
+        "link": "https://yourstory.com/2026/05/vgus-tier-ii-founders-rajasthans-startup-future",
+        "published": "Thu, 14 May 2026 05:05:03 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "As India\u2019s startup ecosystem moves beyond just metro cities, Jaipur-based Vivekananda Global University is betting that founders no longer need to leave their hometowns to build ambitious businesses."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/the-next-decade-of-enterprise-ai-seven-trends-redefining-business",
+        "title": "The next decade of enterprise AI: Seven trends redefining business",
+        "link": "https://yourstory.com/2026/05/the-next-decade-of-enterprise-ai-seven-trends-redefining-business",
+        "published": "Thu, 14 May 2026 04:09:05 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The next decade of enterprise AIAs AI scales, cost discipline becomes as important as innovation. Enterprises must manage inference economics with rigor: choosing the right model for the task, using smaller models where possible, optimising token consumption, and go: Seven trends redefining business"
+    },
+    {
+        "id": "https://yourstory.com/2026/05/numero-ai-acquires-royu-in-cash-cum-stock-deal",
+        "title": "Numero AI acquires Royu in cash-and-stock deal",
+        "link": "https://yourstory.com/2026/05/numero-ai-acquires-royu-in-cash-cum-stock-deal",
+        "published": "Thu, 14 May 2026 05:40:29 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The combined entity will be building agentic platform for the finance and controller functions in enterprises with goal of shifting tasks from manual to automated."
+    },
+    {
+        "id": "https://inc42.com/buzz/dhans-insurtech-bet-indias-biggest-d2c-hub-more/",
+        "title": "Dhan\u2019s Insurtech Bet, India\u2019s Biggest D2C Hub & More",
+        "link": "https://inc42.com/buzz/dhans-insurtech-bet-indias-biggest-d2c-hub-more/",
+        "published": "Thu, 14 May 2026 02:30:58 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Dhan\u2019s Insurtech Bet, India\u2019s Biggest D2C Hub &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/FTR-Daily-Brief-2026-05-14T000538.971.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Dhan\u2019s Latest Acquisition\u00a0 Raise Financial Services, the parent entity of investment tech platform Dhan, is widening its fintech playbook again.&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/05/223-final-call-age-verification-restricting-social-media-children-bengaluru/",
+        "title": "Final Call: Age Verification and Restricting Social Media for Children, Bengaluru, 15 May #NAMA",
+        "link": "https://www.medianama.com/2026/05/223-final-call-age-verification-restricting-social-media-children-bengaluru/",
+        "published": "Thu, 14 May 2026 03:51:00 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Final call to register for MediaNama\u2019s Bengaluru roundtable on age verification, child online safety, and restricting social media access for children.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-final-call-age-verification-restricting-social-media-children-bengaluru/\">Final Call: Age Verification and Restricting Social Media for Children, Bengaluru, 15 May #NAMA</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
