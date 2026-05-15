@@ -231230,5 +231230,53 @@
         "published": "Fri, 15 May 2026 20:26:47 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48153379\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+        "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+        "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+        "published": "2026-05-15T18:25:00-04:00",
+        "source": "The Verge",
+        "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+        "title": "Russia pressures university students to become wartime drone pilots",
+        "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+        "published": "Fri, 15 May 2026 22:19:12 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Universities promise no frontline duty and perks if students enlist in military."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+        "title": "Anthropic\u2019s $1.5B copyright settlement is getting messy as judge delays approval",
+        "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+        "published": "Fri, 15 May 2026 21:51:24 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+        "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+        "link": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+        "published": "Fri, 15 May 2026 21:31:53 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "WHO announced today that the operation to safely transfer passengers is complete."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
+        "title": "Review: Good Omens finale sticks the landing",
+        "link": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
+        "published": "Fri, 15 May 2026 21:17:19 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Truncated third season feels rushed, but also gives us a fitting end to a love story for the ages."
+    },
+    {
+        "id": "https://www.engadget.com/2174144/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/",
+        "title": "New crash data highlights the slow progress of Tesla's robotaxis",
+        "link": "https://www.engadget.com/2174144/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/",
+        "published": "Fri, 15 May 2026 21:50:50 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Two crashes since July 2025 involved robotaxis being driven by remote operators."
     }
 ]
