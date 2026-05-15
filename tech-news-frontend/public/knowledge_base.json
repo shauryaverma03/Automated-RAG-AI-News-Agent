@@ -229798,5 +229798,77 @@
         "published": "Thu, 14 May 2026 23:01:06 GMT",
         "source": "Latest news",
         "summary": "Save big on everything you need for DIY projects and home repairs with these Memorial Day deals on tools from DeWalt, Milwaukee, and more."
+    },
+    {
+        "id": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+        "title": "The Real Losers of the Musk v. Altman Trial",
+        "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+        "published": "Fri, 15 May 2026 00:49:53 +0000",
+        "source": "WIRED",
+        "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman\u2014but the trial has made everyone look bad."
+    },
+    {
+        "id": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+        "title": "Elevated error rates on Opus 4.7",
+        "link": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+        "published": "Fri, 15 May 2026 00:22:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48142964\">Comments</a>"
+    },
+    {
+        "id": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+        "title": "Have a Coherent AI Policy",
+        "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+        "published": "Thu, 14 May 2026 23:24:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48142553\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/google-maps-settings-i-immediately-change-on-new-phone/",
+        "title": "10 Google Maps settings I always change to greatly improve its usability - and you should, too",
+        "link": "https://www.zdnet.com/article/google-maps-settings-i-immediately-change-on-new-phone/",
+        "published": "Fri, 15 May 2026 01:11:40 GMT",
+        "source": "Latest news",
+        "summary": "Google Maps works well with default settings, but I like to tighten my privacy and enable a few features to make it better."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oracle-leaves-freshers-in-limbo-d2c-carts-go-cold/articleshow/131105912.cms",
+        "title": "Oracle leaves freshers in limbo; D2C carts go cold",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oracle-leaves-freshers-in-limbo-d2c-carts-go-cold/articleshow/131105912.cms",
+        "published": "Fri, 15 May 2026 07:05:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Friday! Oracle has started pulling back campus offers from top institutes, leaving students caught in the crossfire. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meity-to-revamp-it-hardware-pli-later-this-year-say-officials/articleshow/131102336.cms",
+        "title": "MeitY to revamp IT hardware PLI later this year, say officials",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meity-to-revamp-it-hardware-pli-later-this-year-say-officials/articleshow/131102336.cms",
+        "published": "Fri, 15 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "By 2026-27, India's ambitious incentive scheme for IT hardware production may undergo significant revisions. With discussions underway to potentially include AI servers and their hardware counterparts, the program looks poised for expansion. Anticipation rises as incentive payouts are projected to soar, with government officials poised to evaluate the scheme\u2019s effectiveness before making any alterations."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/intel-amd-veterans-agrani-labs-scouts-for-100-million-to-build-ai-chip/articleshow/131102225.cms",
+        "title": "Intel-AMD veterans' Agrani Labs scouts for $100 million to build AI chip",
+        "link": "https://economictimes.indiatimes.com/tech/technology/intel-amd-veterans-agrani-labs-scouts-for-100-million-to-build-ai-chip/articleshow/131102225.cms",
+        "published": "Fri, 15 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Agrani Labs, founded by former Intel and AMD executives, is aiming for a significant $100 million Series A funding. This investment will support the development of AI inference chips designed to work with Nvidia's CUDA software. The company is in talks with Qualcomm and Battery Ventures for potential investment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/tdb-kicks-off-rdi-fund-disbursal-backs-startups-across-space-drones-biotech/articleshow/131101803.cms",
+        "title": "TDB kicks off RDI fund disbursal, backs startups across space, drones, biotech",
+        "link": "https://economictimes.indiatimes.com/tech/startups/tdb-kicks-off-rdi-fund-disbursal-backs-startups-across-space-drones-biotech/articleshow/131101803.cms",
+        "published": "Fri, 15 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Technology Development Board (TDB) has begun disbursing the first tranche of the Rs 1 lakh crore Research and Development Initiative (RDI) fund, backing deeptech startups in space, drones, and biotech.  The board expects to disburse Rs 500-600 crore this fiscal year, with initial investments ranging from Rs 3 crore to Rs 150 crore per project."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/it-services-giants-in-a-bind-as-mid-caps-soak-up-the-revenue/articleshow/131101645.cms",
+        "title": "IT services giants in a bind as mid-caps soak up the revenue",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/it-services-giants-in-a-bind-as-mid-caps-soak-up-the-revenue/articleshow/131101645.cms",
+        "published": "Fri, 15 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Mid-tier IT services firms are outperforming larger rivals in revenue growth, driven by a focused approach on specific growth areas like cloud engineering and AI. Companies like Coforge and Persistent Systems are leveraging leaner structures and domain expertise to win clients, often through flexible pricing and outcome-based models."
     }
 ]
