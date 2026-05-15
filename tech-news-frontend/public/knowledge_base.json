@@ -229870,5 +229870,101 @@
         "published": "Fri, 15 May 2026 06:00:00 +0530",
         "source": "Tech-Economic Times",
         "summary": "Mid-tier IT services firms are outperforming larger rivals in revenue growth, driven by a focused approach on specific growth areas like cloud engineering and AI. Companies like Coforge and Persistent Systems are leveraging leaner structures and domain expertise to win clients, often through flexible pricing and outcome-based models."
+    },
+    {
+        "id": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+        "title": "Mullvad exit IPs are surprisingly identifying",
+        "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+        "published": "Fri, 15 May 2026 02:35:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48143880\">Comments</a>"
+    },
+    {
+        "id": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+        "title": "How Claude Code works in large codebases",
+        "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+        "published": "Fri, 15 May 2026 04:15:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48144494\">Comments</a>"
+    },
+    {
+        "id": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+        "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+        "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+        "published": "Fri, 15 May 2026 03:56:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48144380\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/cable-cords-and-adapters-i-never-throw-away/",
+        "title": "Cable, cords, and adapters I never throw away - and why these accessories are worth saving",
+        "link": "https://www.zdnet.com/article/cable-cords-and-adapters-i-never-throw-away/",
+        "published": "Fri, 15 May 2026 02:00:42 GMT",
+        "source": "Latest news",
+        "summary": "Don't let your spring cleaning or desire for Feng Shui enlightenment make you toss the important stuff. This gear will come in handy one day."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough/articleshow/131108130.cms",
+        "title": "US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough/articleshow/131108130.cms",
+        "published": "Fri, 15 May 2026 09:59:42 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Despite US approval for around 10 Chinese firms to buy Nvidia's H200 AI chips, no deliveries have occurred. CEO Jensen Huang's China trip, facilitated by President Trump, aims to resolve this deadlock, highlighting the complex US-China tech rivalry impacting even approved trade."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/samsungs-south-korean-union-sticks-to-strike-plan-after-talks-offer-shares-slide/articleshow/131107848.cms",
+        "title": "Samsung's South Korean union sticks to strike plan after talks offer; shares slide",
+        "link": "https://economictimes.indiatimes.com/tech/technology/samsungs-south-korean-union-sticks-to-strike-plan-after-talks-offer-shares-slide/articleshow/131107848.cms",
+        "published": "Fri, 15 May 2026 09:42:17 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Samsung's labor union remains committed to a strike despite the company's offer of unconditional pay talks, leading to a significant drop in shares. Negotiations over pay and bonuses have collapsed, with the union planning an 18-day walkout from May 21. Analysts warn of production disruptions and delivery reliability concerns, while the government urges dialogue to avoid economic risks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/cerebras-shares-skyrocket-in-debut-as-ai-mania-grips-markets/articleshow/131107563.cms",
+        "title": "Cerebras shares skyrocket in debut as AI mania grips markets",
+        "link": "https://economictimes.indiatimes.com/tech/technology/cerebras-shares-skyrocket-in-debut-as-ai-mania-grips-markets/articleshow/131107563.cms",
+        "published": "Fri, 15 May 2026 09:20:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cerebras Systems, a chip designer, saw its shares surge 89% on its Nasdaq debut, raising $5.55 billion. The company's innovative wafer-scale engine, designed for AI processing, attracted significant investor interest, with major clients like Amazon and OpenAI. This IPO highlights the booming market for AI-focused technology."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/grok-down-users-report-app-website-and-login-issues/articleshow/131107431.cms",
+        "title": "Grok down: Users report app, website and login issues",
+        "link": "https://economictimes.indiatimes.com/tech/technology/grok-down-users-report-app-website-and-login-issues/articleshow/131107431.cms",
+        "published": "Fri, 15 May 2026 09:08:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Grok, Elon Musk's AI chatbot, faced significant disruptions on Friday. Users reported being unable to access the service, receive replies, or log in. Most issues were reported by mobile app users. This outage adds to recent technical problems faced by Grok."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-brings-codex-coding-tool-to-chatgpt-mobile-app/articleshow/131107211.cms",
+        "title": "OpenAI brings Codex coding tool to ChatGPT mobile app",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-brings-codex-coding-tool-to-chatgpt-mobile-app/articleshow/131107211.cms",
+        "published": "Fri, 15 May 2026 08:48:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI is integrating its Codex coding tool into the ChatGPT mobile app, broadening access to AI code-generation capabilities. This move intensifies competition with rivals like Anthropic, as Codex can write features, answer code questions, fix bugs, and propose pull requests."
+    },
+    {
+        "id": "https://inc42.com/buzz/exclusive-ev-startup-simple-energy-to-raise-%e2%82%b9127-cr/",
+        "title": "Exclusive: EV Startup Simple Energy To Raise \u20b9127 Cr",
+        "link": "https://inc42.com/buzz/exclusive-ev-startup-simple-energy-to-raise-%e2%82%b9127-cr/",
+        "published": "Fri, 15 May 2026 05:46:09 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Simple Energy\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Simple-Energy-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />IPO-bound electric two-wheeler maker Simple Energy is raising \u20b9126.7 Cr (around $13.2 Mn) in a funding round led by its&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/ecommerce-to-capture-22-of-indias-retail-gmv-by-2031/",
+        "title": "Ecommerce To Capture 22% Of India\u2019s Retail GMV By 2031",
+        "link": "https://inc42.com/buzz/ecommerce-to-capture-22-of-indias-retail-gmv-by-2031/",
+        "published": "Fri, 15 May 2026 03:30:44 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Ecommerce To Capture 22% Of India\u2019s Retail GMV By 2031\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Ecommerce-To-Capture-frr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />No longer just about shopping online, India&#8217;s ecommerce story is fast becoming a full-scale retail reset.\u00a0 According to Inc42 Datalabs\u2019&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/shadowfaxs-q4-show-indias-d2c-3-0-moment-more/",
+        "title": "Shadowfax\u2019s Q4 Show, India\u2019s D2C 3.0 Moment & More",
+        "link": "https://inc42.com/buzz/shadowfaxs-q4-show-indias-d2c-3-0-moment-more/",
+        "published": "Fri, 15 May 2026 02:30:41 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Shadowfax\u2019s Q4 Show, India\u2019s D2C 3.0 Moment &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/FTR-Daily-Brief-2026-05-15T010722.093.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Shadowfax Delivers Profits In Q4 Shadowfax finally turned profitable in Q4. The logistics major swung to the black on the&#8230;"
     }
 ]
