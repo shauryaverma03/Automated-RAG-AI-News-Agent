@@ -231958,5 +231958,21 @@
         "published": "Sat, 16 May 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The ride hailing company said the capital will be used to expand into newer markets and strengthen its presence in existing markets."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+        "title": "The haves and have nots of the AI gold rush",
+        "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+        "published": "Sat, 16 May 2026 20:17:16 +0000",
+        "source": "TechCrunch",
+        "summary": "The vibes around the current AI boom aren't great, even in the tech industry."
+    },
+    {
+        "id": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "published": "Sat, 16 May 2026 20:14:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48163392\">Comments</a>"
     }
 ]
