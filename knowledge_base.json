@@ -231990,5 +231990,21 @@
         "published": "Tue, 12 May 2026 15:28:31 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48109756\">Comments</a>"
+    },
+    {
+        "id": "https://crates.io/crates/zerostack/1.0.0",
+        "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
+        "link": "https://crates.io/crates/zerostack/1.0.0",
+        "published": "Sat, 16 May 2026 22:23:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48164287\">Comments</a>"
+    },
+    {
+        "id": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+        "title": "MCP Hello Page",
+        "link": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+        "published": "Sat, 16 May 2026 22:25:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48164294\">Comments</a>"
     }
 ]
