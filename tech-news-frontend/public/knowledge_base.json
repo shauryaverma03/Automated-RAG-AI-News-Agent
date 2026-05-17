@@ -232366,5 +232366,37 @@
         "published": "Sun, 17 May 2026 17:09:15 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48170798\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+        "title": "Revamped Siri will reportedly offer auto-deleting chats",
+        "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+        "published": "2026-05-17T14:40:28-04:00",
+        "source": "The Verge",
+        "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2174946/1047-games-spiritual-successor-to-titanfall-will-reportedly-be-called-empulse/",
+        "title": "1047 Games' spiritual successor to Titanfall will reportedly be called Empulse",
+        "link": "https://www.engadget.com/2174946/1047-games-spiritual-successor-to-titanfall-will-reportedly-be-called-empulse/",
+        "published": "Sun, 17 May 2026 17:58:42 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The rumored movement shooter is still in pre-alpha and without a release date."
+    },
+    {
+        "id": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+        "title": "The occasional ECONNRESET",
+        "link": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+        "published": "Sun, 17 May 2026 17:09:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48170799\">Comments</a>"
+    },
+    {
+        "id": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+        "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+        "link": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+        "published": "Fri, 15 May 2026 11:39:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48147351\">Comments</a>"
     }
 ]
