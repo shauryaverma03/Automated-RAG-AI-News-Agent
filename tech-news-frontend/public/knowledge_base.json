@@ -232486,5 +232486,29 @@
         "published": "Sun, 17 May 2026 21:15:51 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48173268\">Comments</a>"
+    },
+    {
+        "id": "https://xca-attacks.github.io/fabricked/",
+        "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+        "link": "https://xca-attacks.github.io/fabricked/",
+        "published": "Sun, 17 May 2026 22:23:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48173708\">Comments</a>"
+    },
+    {
+        "id": "https://www.jdhodges.com/blog/thinkpad-history/",
+        "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+        "link": "https://www.jdhodges.com/blog/thinkpad-history/",
+        "published": "Sun, 17 May 2026 21:56:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48173547\">Comments</a>"
+    },
+    {
+        "id": "https://gencad.github.io/",
+        "title": "GenCAD",
+        "link": "https://gencad.github.io/",
+        "published": "Sun, 17 May 2026 21:40:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48173429\">Comments</a>"
     }
 ]
