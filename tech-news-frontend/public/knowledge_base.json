@@ -232022,5 +232022,37 @@
         "published": "Sun, 17 May 2026 01:40:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 232nd quiz. Ready?"
+    },
+    {
+        "id": "https://maurycyz.com/projects/mcusite/",
+        "title": "Hosting a website on an 8-bit microcontroller",
+        "link": "https://maurycyz.com/projects/mcusite/",
+        "published": "Sun, 17 May 2026 01:25:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48165295\">Comments</a>"
+    },
+    {
+        "id": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+        "title": "Colossus: The Forbin Project",
+        "link": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+        "published": "Thu, 14 May 2026 22:30:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48142115\">Comments</a>"
+    },
+    {
+        "id": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+        "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+        "link": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+        "published": "Fri, 15 May 2026 04:32:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48144584\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/shadowfaxs-inflection-point-and-the-next-frontier/",
+        "title": "Shadowfax\u2019s Inflection Point And The Next Frontier",
+        "link": "https://inc42.com/buzz/shadowfaxs-inflection-point-and-the-next-frontier/",
+        "published": "Sun, 17 May 2026 03:30:18 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Shadowfax\u2019s Inflection Point And The Next Frontier\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Shadowfax-Q4-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />It was FY22 and Shadowfax was still viewed largely as another fast-growing logistics startup battling for ecommerce deliveries in India\u2019s&#8230;"
     }
 ]
