@@ -232246,5 +232246,45 @@
         "published": "Sun, 17 May 2026 12:00:46 GMT",
         "source": "Latest news",
         "summary": "I've tested dozens of robot vacuum brands, with Roborock and Ecovacs models consistently delivering market-leading performance. Here's how they compare."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+        "title": "Oddity is masterfully tense horror from the director of Hokum",
+        "link": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+        "published": "2026-05-17T10:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a favor and go watch his previous film, Oddity. If you prefer to go in blind - the ideal way to watch any movie - Oddity [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
+        "title": "Fujifilm\u2019s X Half is even more whimsical with a $300 price cut",
+        "link": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
+        "published": "2026-05-17T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Fujifilm\u2019s X Half digital camera wasn\u2019t designed to replace your main camera, though you\u2019d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab the X Half in its [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+        "title": "ElliQ is a surprisingly helpful companion robot for older adults",
+        "link": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+        "published": "2026-05-17T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, socializing, and engaging in hobbies. [&#8230;]"
+    },
+    {
+        "id": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+        "title": "Prolog Basics Explained with Pok\u00e9mon",
+        "link": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+        "published": "Fri, 15 May 2026 11:02:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48147091\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/bill-gates-foundation-fully-exits-microsoft-sells-final-3-2-billion-stake/articleshow/131155464.cms",
+        "title": "Bill Gates Foundation fully exits Microsoft, sells final $3.2 billion stake",
+        "link": "https://economictimes.indiatimes.com/tech/technology/bill-gates-foundation-fully-exits-microsoft-sells-final-3-2-billion-stake/articleshow/131155464.cms",
+        "published": "Sun, 17 May 2026 19:07:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "After over 25 years, the Bill &amp; Melinda Gates Foundation has divested its final 7.7 million Microsoft shares, valued at $3.2 billion. This marks the end of Microsoft stock's long-standing dominance in the foundation's portfolio as it transitions to disbursing its endowment by 2045."
     }
 ]
