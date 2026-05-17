@@ -232398,5 +232398,37 @@
         "published": "Fri, 15 May 2026 11:39:13 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48147351\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+        "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "published": "Sun, 17 May 2026 19:46:34 +0000",
+        "source": "TechCrunch",
+        "summary": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy."
+    },
+    {
+        "id": "https://www.engadget.com/2174992/amazon-facing-class-action-lawsuit-for-not-refunding-its-customers-after-unlawful-tariffs/",
+        "title": "Amazon is facing a class action lawsuit for not refunding its customers after 'unlawful' tariffs",
+        "link": "https://www.engadget.com/2174992/amazon-facing-class-action-lawsuit-for-not-refunding-its-customers-after-unlawful-tariffs/",
+        "published": "Sun, 17 May 2026 19:25:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The lawsuit claims that Amazon owes 'hundreds of millions' in refunds to its users."
+    },
+    {
+        "id": "https://www.engadget.com/2174984/terraria-developer-confirms-cross-play-is-coming-and-teases-15th-anniversary-collector-items/",
+        "title": "Terraria developer confirms cross-play is coming and teases 15th anniversary collector's items",
+        "link": "https://www.engadget.com/2174984/terraria-developer-confirms-cross-play-is-coming-and-teases-15th-anniversary-collector-items/",
+        "published": "Sun, 17 May 2026 19:09:57 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The game has sold 70 million copies over its 15-year run, Re-Logic said."
+    },
+    {
+        "id": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
+        "title": "Dontsurveil.me",
+        "link": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
+        "published": "Sun, 17 May 2026 16:15:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48170247\">Comments</a>"
     }
 ]
