@@ -232126,5 +232126,77 @@
         "published": "Sun, 17 May 2026 01:55:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "On the occasion of World Telecommunications and Information Society Day, we share highlights from sites visits to community centres in rural India and entrepreneurial insights."
+    },
+    {
+        "id": "https://www.wired.com/review/oto-smart-sprinkler/",
+        "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
+        "link": "https://www.wired.com/review/oto-smart-sprinkler/",
+        "published": "Sun, 17 May 2026 11:02:00 +0000",
+        "source": "WIRED",
+        "summary": "The Oto Smart Sprinkler makes it easy to keep your lawn watered\u2014as long as it gets three hours a day of direct sun to stay charged."
+    },
+    {
+        "id": "https://www.wired.com/story/best-grills-and-smart-grills/",
+        "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
+        "link": "https://www.wired.com/story/best-grills-and-smart-grills/",
+        "published": "Sun, 17 May 2026 10:33:00 +0000",
+        "source": "WIRED",
+        "summary": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate."
+    },
+    {
+        "id": "https://www.wired.com/story/free-debt-calculator-apps-services/",
+        "title": "Take Control of Your Debt With These Free Tools",
+        "link": "https://www.wired.com/story/free-debt-calculator-apps-services/",
+        "published": "Sun, 17 May 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "These free debt calculators help you set up payment plans to get back in the black."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+        "title": "A revolutionary cancer treatment could transform autoimmune disease",
+        "link": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+        "published": "Sun, 17 May 2026 11:00:14 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system."
+    },
+    {
+        "id": "https://klaxon.live/",
+        "title": "Klaxon a livr earthquake map with no back end",
+        "link": "https://klaxon.live/",
+        "published": "Sun, 17 May 2026 11:06:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48167823\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steven-soderbergh-used-ai-in-a-documentary-about-john-lennon-and-he-wants-to-talk-about-it/articleshow/131153350.cms",
+        "title": "Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steven-soderbergh-used-ai-in-a-documentary-about-john-lennon-and-he-wants-to-talk-about-it/articleshow/131153350.cms",
+        "published": "Sun, 17 May 2026 17:03:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Steven Soderbergh's documentary \"John Lennon: The Last Interview\" utilises AI-generated imagery to visualise philosophical discussions from a final interview with John Lennon and Yoko Ono.  The film, which debuted at Cannes, sparked debate over AI's role in filmmaking, with Soderbergh emphasising transparency and necessity in its application."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/icai-to-embed-ai-data-analytics-in-ca-curriculum/articleshow/131152978.cms",
+        "title": "ICAI to embed AI, data analytics in CA curriculum",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/icai-to-embed-ai-data-analytics-in-ca-curriculum/articleshow/131152978.cms",
+        "published": "Sun, 17 May 2026 16:43:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Institute of Chartered Accountants of India will integrate artificial intelligence and data analytics into its curriculum. This move aims to equip students for evolving technological and professional landscapes. A committee is reviewing the syllabus and training. Updates are expected to be implemented by 2028."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/elon-musk-wants-spacex-to-go-public-heres-how-it-works/articleshow/131152395.cms",
+        "title": "Elon Musk wants SpaceX to go public. Here's how it works",
+        "link": "https://economictimes.indiatimes.com/tech/technology/elon-musk-wants-spacex-to-go-public-heres-how-it-works/articleshow/131152395.cms",
+        "published": "Sun, 17 May 2026 16:07:38 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Companies like SpaceX and OpenAI are eyeing stock market debuts, potentially in 2026. Going public involves choosing an exchange, filing detailed financial documents with the SEC, pitching to investors, and crucially, setting a share price. This complex process, known as an IPO, can take months and millions of dollars."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/big-risks-and-rewards-in-upcoming-ipos-at-spacex-openai-anthropic/articleshow/131152347.cms",
+        "title": "Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic",
+        "link": "https://economictimes.indiatimes.com/tech/technology/big-risks-and-rewards-in-upcoming-ipos-at-spacex-openai-anthropic/articleshow/131152347.cms",
+        "published": "Sun, 17 May 2026 16:04:11 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Wall Street anticipates a wave of massive IPOs, led by SpaceX, OpenAI, and Anthropic, each aiming for trillion-dollar valuations. These mega listings, despite geopolitical headwinds, are expected to attract significant capital. Their public market performance will be a crucial test for current private market valuations and future tech offerings."
     }
 ]
