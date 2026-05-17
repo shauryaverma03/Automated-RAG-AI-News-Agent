@@ -232198,5 +232198,53 @@
         "published": "Sun, 17 May 2026 16:04:11 +0530",
         "source": "Tech-Economic Times",
         "summary": "Wall Street anticipates a wave of massive IPOs, led by SpaceX, OpenAI, and Anthropic, each aiming for trillion-dollar valuations. These mega listings, despite geopolitical headwinds, are expected to attract significant capital. Their public market performance will be a crucial test for current private market valuations and future tech offerings."
+    },
+    {
+        "id": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+        "title": "Chatbots at the drive-thru are just the beginning",
+        "link": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+        "published": "2026-05-17T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's became one [&#8230;]"
+    },
+    {
+        "id": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+        "title": "Native all the way, until you need text",
+        "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+        "published": "Sun, 17 May 2026 11:49:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48168058\">Comments</a>"
+    },
+    {
+        "id": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "title": "I don't think AI will make your processes go faster",
+        "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "published": "Sun, 17 May 2026 12:13:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48168221\">Comments</a>"
+    },
+    {
+        "id": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+        "title": "Apple Silicon costs more than OpenRouter",
+        "link": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+        "published": "Sun, 17 May 2026 12:09:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48168198\">Comments</a>"
+    },
+    {
+        "id": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+        "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+        "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+        "published": "Sun, 17 May 2026 11:49:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48168056\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/roborock-vs-ecovacs/",
+        "title": "Roborock vs Ecovacs: Which robot vacuum should you buy?",
+        "link": "https://www.zdnet.com/article/roborock-vs-ecovacs/",
+        "published": "Sun, 17 May 2026 12:00:46 GMT",
+        "source": "Latest news",
+        "summary": "I've tested dozens of robot vacuum brands, with Roborock and Ecovacs models consistently delivering market-leading performance. Here's how they compare."
     }
 ]
