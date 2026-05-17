@@ -232286,5 +232286,29 @@
         "published": "Sun, 17 May 2026 19:07:28 +0530",
         "source": "Tech-Economic Times",
         "summary": "After over 25 years, the Bill &amp; Melinda Gates Foundation has divested its final 7.7 million Microsoft shares, valued at $3.2 billion. This marks the end of Microsoft stock's long-standing dominance in the foundation's portfolio as it transitions to disbursing its endowment by 2045."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+        "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
+        "link": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+        "published": "Sun, 17 May 2026 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action."
+    },
+    {
+        "id": "https://github.com/tech4bot/rk3562deb",
+        "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+        "link": "https://github.com/tech4bot/rk3562deb",
+        "published": "Sun, 17 May 2026 13:16:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48168668\">Comments</a>"
+    },
+    {
+        "id": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+        "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+        "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+        "published": "Sun, 17 May 2026 13:42:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48168856\">Comments</a>"
     }
 ]
