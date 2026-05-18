@@ -233534,5 +233534,53 @@
         "published": "Fri, 15 May 2026 05:14:38 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The satellite platform will have a flat-pack architecture that enables efficient launch stacking, faster system integration, and improved deployment timelines, making it suitable for large-scale satellite deployments."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+        "title": "OSHA probing worker death at SpaceX\u2019s Starbase site",
+        "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+        "published": "Mon, 18 May 2026 21:55:02 +0000",
+        "source": "TechCrunch",
+        "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+        "title": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
+        "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+        "published": "Mon, 18 May 2026 21:29:31 +0000",
+        "source": "TechCrunch",
+        "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+        "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+        "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+        "published": "Mon, 18 May 2026 20:41:14 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "CDC is working to move the infected American and six others to Germany."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+        "title": "Legal fail: Don\u2019t use AI to sue Facebook users for calling you a bad date",
+        "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+        "published": "Mon, 18 May 2026 20:27:15 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Fake citations dashed a dude\u2019s \u201cAre We Dating the Same Guy\u201d revenge lawsuit."
+    },
+    {
+        "id": "https://www.engadget.com/2176016/disney-faces-a-class-action-lawsuit-over-facial-recognition-tech/",
+        "title": "Disney faces a class action lawsuit over facial recognition tech",
+        "link": "https://www.engadget.com/2176016/disney-faces-a-class-action-lawsuit-over-facial-recognition-tech/",
+        "published": "Mon, 18 May 2026 21:33:32 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The complaint says park visitors don't get sufficient notice they're being scanned."
+    },
+    {
+        "id": "https://carette.xyz/posts/who_will_buy_your_services/",
+        "title": "Who will buy your services if you fire us all?",
+        "link": "https://carette.xyz/posts/who_will_buy_your_services/",
+        "published": "Mon, 18 May 2026 21:18:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48185789\">Comments</a>"
     }
 ]
