@@ -232510,5 +232510,61 @@
         "published": "Sun, 17 May 2026 21:40:35 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48173429\">Comments</a>"
+    },
+    {
+        "id": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+        "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+        "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+        "published": "Sun, 17 May 2026 21:45:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48173468\">Comments</a>"
+    },
+    {
+        "id": "https://askanastronaut.issinrealtime.org/",
+        "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+        "link": "https://askanastronaut.issinrealtime.org/",
+        "published": "Fri, 15 May 2026 19:25:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48152754\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/uber-ceo-interview-nvidia-mulls-simplismart-bet/articleshow/131164212.cms",
+        "title": "Uber CEO interview; Nvidia mulls Simplismart bet",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/uber-ceo-interview-nvidia-mulls-simplismart-bet/articleshow/131164212.cms",
+        "published": "Mon, 18 May 2026 07:07:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Monday! Uber CEO Dara Khosrowshahi sat down with ET to discuss the company\u2019s ambitions in (and for) India, among other things. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fde-emerges-hottest-role-in-ai-market-commands-big-pay-premium/articleshow/131161494.cms",
+        "title": "FDE emerges hottest role in AI market, commands big pay premium",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fde-emerges-hottest-role-in-ai-market-commands-big-pay-premium/articleshow/131161494.cms",
+        "published": "Mon, 18 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The forward deployed engineer (FDE) has emerged as the hottest job in AI, with companies like OpenAI and Google offering substantial compensation. These consultants are crucial for deploying AI agents and identifying high-impact use cases within organizations."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-unprepared-as-ai-memory-crunch-looks-set-to-deepen-micron-cbo/articleshow/131161411.cms",
+        "title": "India unprepared as AI memory crunch looks set to deepen: Micron CBO",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-unprepared-as-ai-memory-crunch-looks-set-to-deepen-micron-cbo/articleshow/131161411.cms",
+        "published": "Mon, 18 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A top Micron executive warns the global semiconductor memory shortage, fueled by the AI boom, is severe and could extend beyond 2028.  Indian firms risk being unprepared due to price sensitivity and a reluctance to commit to long-term procurement contracts, despite the nation's push for sovereign AI infrastructure."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/uber-still-ahead-despite-stiffening-competition-playing-to-win-ceo-dara-khosrowshahi/articleshow/131161228.cms",
+        "title": "Uber still ahead despite stiffening competition, playing to win: CEO Dara Khosrowshahi",
+        "link": "https://economictimes.indiatimes.com/tech/technology/uber-still-ahead-despite-stiffening-competition-playing-to-win-ceo-dara-khosrowshahi/articleshow/131161228.cms",
+        "published": "Mon, 18 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Uber CEO Dara Khosrowshahi asserts the company's dominance, highlighting expansion into allied businesses and India's projected rise as its largest market. He also expressed openness to revisiting food delivery and potentially partnering with Travis Kalanick on autonomous vehicles, while emphasizing India's growing role in AI infrastructure development."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uber-ceo-dara-khosrowshahi-on-india-bets-travis-kalanick-jobs-in-the-ai-era-more/articleshow/131161138.cms",
+        "title": "Uber CEO Dara Khosrowshahi on India bets, Travis Kalanick, jobs in the AI era &amp; more",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uber-ceo-dara-khosrowshahi-on-india-bets-travis-kalanick-jobs-in-the-ai-era-more/articleshow/131161138.cms",
+        "published": "Mon, 18 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Uber CEO Dara Khosrowshahi anticipates India becoming its largest market in a decade, highlighting dynamic growth and talent. The company is investing in tech centres and a data centre partnership with Adani Group, while exploring logistics and local commerce opportunities."
     }
 ]
