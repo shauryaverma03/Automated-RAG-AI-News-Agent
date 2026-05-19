@@ -234254,5 +234254,301 @@
         "published": "Tue, 19 May 2026 10:34:50 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>IRDAI has directed insurers to review their cybersecurity posture and submit an action taken report on AI cyber readiness by May 22.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-irdai-cybersecurity-warning-ai-threats/\">India\u2019s insurance regulator orders firms to strengthen defences against AI-powered attacks by May 22</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+        "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
+        "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+        "published": "Tue, 19 May 2026 15:43:04 +0000",
+        "source": "TechCrunch",
+        "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/",
+        "title": "The minimalist Light Phone teams up with Andrew Yang\u2019s Noble Mobile, which pays you to stop doomscrolling",
+        "link": "https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/",
+        "published": "Tue, 19 May 2026 15:37:17 +0000",
+        "source": "TechCrunch",
+        "summary": "\"The Light Phone is designed to be used as little as possible,\" founder Joe Hollier told TechCrunch."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/",
+        "title": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack",
+        "link": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/",
+        "published": "Tue, 19 May 2026 15:32:46 +0000",
+        "source": "TechCrunch",
+        "summary": "The attacks are part of a wider campaign known as Mini Shai-Hulud, which has already compromised several open source projects and, in turn, developers and companies that use them."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/",
+        "title": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web",
+        "link": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/",
+        "published": "Tue, 19 May 2026 15:06:42 +0000",
+        "source": "TechCrunch",
+        "summary": "The federal cybersecurity agency left plaintext passwords in a spreadsheet uploaded to a public GitHub repository, per a report by independent journalist Brian Krebs."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
+        "title": "Apple announces Apple Intelligence powered accessibility feature updates",
+        "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
+        "published": "Tue, 19 May 2026 14:01:07 +0000",
+        "source": "TechCrunch",
+        "summary": "Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes"
+    },
+    {
+        "id": "https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote",
+        "title": "Google I/O 2026 live blog: On the ground at Google\u2019s keynote",
+        "link": "https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote",
+        "published": "2026-05-19T12:30:00-04:00",
+        "source": "The Verge",
+        "summary": "We're back at the Shoreline Amphitheatre in Mountain View, California, for this year's edition of Google I/O. These days, Silicon Valley is buzzing about the future of AI search, agents, vibe coding, and e-commerce, so you can bet we're expecting to hear tons of news on these fronts. And who knows, we might get a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/933168/sony-1000x-collexion-review",
+        "title": "Sony\u2019s 1000X The Collexion are a luxurious and expensive celebration of its iconic headphones",
+        "link": "https://www.theverge.com/tech/933168/sony-1000x-collexion-review",
+        "published": "2026-05-19T12:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Ten years ago Sony introduced the MDR-1000X headphones. They combined noise canceling, good sound, design, and comfort in a way that we hadn't quite seen before in a set of wireless headphones. (At the time, the Bose QC35 were the closest competitor, but I wasn't a huge fan of their sound tuning.) The 1000X set [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/932454/google-io-2026-news-announcements",
+        "title": "Google I/O 2026: All the news and announcements",
+        "link": "https://www.theverge.com/tech/932454/google-io-2026-news-announcements",
+        "published": "2026-05-19T12:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Google I/O 2026 kicks off today, with the event\u2019s keynote presentation slated for 10AM PT / 1PM ET on May 19th.&#160; Gemini is expected to be front and center once again at this year\u2019s developer conference, with Google potentially introducing new versions of AI models and more agentic AI features. Google already showed off a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college",
+        "title": "An AI announcer mispronounced and skipped names during a graduation",
+        "link": "https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college",
+        "published": "2026-05-19T11:51:20-04:00",
+        "source": "The Verge",
+        "summary": "The use of AI-powered tools to announce students as they walk on stage during graduation and commencement ceremonies has grown in popularity over the past few years, but it's not always succeeding at the one job it's there for. Many schools have switched to these systems as a way to ensure names are being pronounced [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
+        "title": "America\u2019s dangerous, messy deepfakes crackdown is here",
+        "link": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
+        "published": "2026-05-19T10:58:19-04:00",
+        "source": "The Verge",
+        "summary": "A law requiring social networks to quickly remove sexual deepfakes and other nonconsensual imagery is now fully in force. But experts warn the policy could do little to help victims - and at worst could facilitate censorship online. Last May, President Donald Trump signed the Take It Down Act, a law addressing nonconsensual intimate imagery [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+        "title": "Former OpenAI Staffers Warn That xAI\u2019s Poor Safety Record Could Complicate SpaceX\u2019s IPO",
+        "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+        "published": "Tue, 19 May 2026 15:00:28 +0000",
+        "source": "WIRED",
+        "summary": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI\u2019s safety practices before SpaceX goes public."
+    },
+    {
+        "id": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
+        "title": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a \u2018Beach Water Person\u2019",
+        "link": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
+        "published": "Tue, 19 May 2026 14:00:47 +0000",
+        "source": "WIRED",
+        "summary": "The job, which is associated with the Zuckerberg family office, is located in Kauai, Hawaii, where the Meta CEO owns a massive compound."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/",
+        "title": "The era of 1,000 Hz gaming monitors has arrived, but why?",
+        "link": "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/",
+        "published": "Tue, 19 May 2026 16:26:56 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "LG's latest hits one frame per millisecond at a full 1080p resolution."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/05/bipartisan-bill-in-congress-includes-130-annual-ev-registration-fee/",
+        "title": "EV drivers will pay $130 a year under Congress' 2026 transportation bill",
+        "link": "https://arstechnica.com/cars/2026/05/bipartisan-bill-in-congress-includes-130-annual-ev-registration-fee/",
+        "published": "Tue, 19 May 2026 16:12:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Politicians say they want EVs to pay \"their fair share for the use of our roads.\""
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time/",
+        "title": "Civilization VII finally lets you build a civ that stands the test of time",
+        "link": "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time/",
+        "published": "Tue, 19 May 2026 16:00:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "<em>Civ 7</em>\u2019s devs talk walking back the game's most controversial decision."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
+        "title": "Electrical utility megamerger is all about the data centers",
+        "link": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
+        "published": "Tue, 19 May 2026 13:45:31 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "NextEra\u2019s blockbuster deal with Dominion likely means higher bills for consumers."
+    },
+    {
+        "id": "https://www.engadget.com/2176714/nintendos-wacky-new-mobile-game-takes-inspiration-from-warioware/",
+        "title": "Nintendo's wacky new mobile game takes inspiration from WarioWare",
+        "link": "https://www.engadget.com/2176714/nintendos-wacky-new-mobile-game-takes-inspiration-from-warioware/",
+        "published": "Tue, 19 May 2026 16:28:34 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The free-to-download Pictonico! turns photos into minigames."
+    },
+    {
+        "id": "https://www.engadget.com/2176369/sony-1000x-the-collexion-review/",
+        "title": "Sony 1000X The Collexion review: More luxurious, but far from perfect",
+        "link": "https://www.engadget.com/2176369/sony-1000x-the-collexion-review/",
+        "published": "Tue, 19 May 2026 16:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The 10th anniversary edition of Sony's legendary 1000X headphones carries a refined design that ditches the plastic for leather and metal. However, both sound quality and ANC performance are less impressive than last year's WH-1000XM6."
+    },
+    {
+        "id": "https://www.engadget.com/2176579/samsungs-has-produced-the-worlds-first-6k-gaming-monitor/",
+        "title": "Samsung's has produced the world's first 6K gaming monitor",
+        "link": "https://www.engadget.com/2176579/samsungs-has-produced-the-worlds-first-6k-gaming-monitor/",
+        "published": "Tue, 19 May 2026 15:25:36 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Samsung's new displays include a 6K gaming monitor and a larger version of the MovingStyle."
+    },
+    {
+        "id": "https://www.engadget.com/2176567/spotify-is-launching-verification-badges-for-podcasts-to-help-listeners-avoid-ai-slop/",
+        "title": "Spotify is launching verification badges for podcasts to help listeners avoid AI slop",
+        "link": "https://www.engadget.com/2176567/spotify-is-launching-verification-badges-for-podcasts-to-help-listeners-avoid-ai-slop/",
+        "published": "Tue, 19 May 2026 15:17:07 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The platform recently did something similar for music."
+    },
+    {
+        "id": "https://virtualosmuseum.org/",
+        "title": "I've built a virtual museum with nearly every operating system you can think of",
+        "link": "https://virtualosmuseum.org/",
+        "published": "Tue, 19 May 2026 15:53:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48195009\">Comments</a>"
+    },
+    {
+        "id": "https://twitter.com/karpathy/status/2056753169888334312",
+        "title": "I\u2019ve joined Anthropic",
+        "link": "https://twitter.com/karpathy/status/2056753169888334312",
+        "published": "Tue, 19 May 2026 15:07:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48194352\">Comments</a>"
+    },
+    {
+        "id": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+        "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+        "link": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+        "published": "Tue, 19 May 2026 15:27:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48194614\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/zdnet-big-guessing-game-apple-edition-official-contest-rules/",
+        "title": "ZDNET Big Guessing Game: Official contest rules",
+        "link": "https://www.zdnet.com/article/zdnet-big-guessing-game-apple-edition-official-contest-rules/",
+        "published": "Tue, 19 May 2026 16:02:00 GMT",
+        "source": "Latest news",
+        "summary": "Read the full official rules for the 2026 ZDNET Big Guessing Game."
+    },
+    {
+        "id": "https://www.zdnet.com/article/sony-1000-x-the-collexion-review/",
+        "title": "I tested Sony's new premium headphones, and they define practical luxury for me",
+        "link": "https://www.zdnet.com/article/sony-1000-x-the-collexion-review/",
+        "published": "Tue, 19 May 2026 16:00:00 GMT",
+        "source": "Latest news",
+        "summary": "Sony debuts a special edition pair of 1000X-series headphones, striking a balance between modern style and function."
+    },
+    {
+        "id": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
+        "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
+        "link": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
+        "published": "Tue, 19 May 2026 14:56:24 GMT",
+        "source": "Latest news",
+        "summary": "Memorial Day deals on headphones are already live. These are my favorite options so far."
+    },
+    {
+        "id": "https://www.zdnet.com/article/6-android-auto-apps-i-wish-i-found-sooner/",
+        "title": "6 Android Auto apps I wish I found sooner, because they make every drive easier",
+        "link": "https://www.zdnet.com/article/6-android-auto-apps-i-wish-i-found-sooner/",
+        "published": "Tue, 19 May 2026 14:46:51 GMT",
+        "source": "Latest news",
+        "summary": "If you're only using Android Auto for basic navigation and music, you're missing out."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cofounder-andrej-karpathy-joins-anthropic/articleshow/131205046.cms",
+        "title": "OpenAI cofounder Andrej Karpathy joins Anthropic",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cofounder-andrej-karpathy-joins-anthropic/articleshow/131205046.cms",
+        "published": "Tue, 19 May 2026 20:59:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Renowned AI researcher Andrej Karpathy has joined Anthropic, marking a significant talent acquisition for the AI company. Karpathy, a co-founder of OpenAI and former Director of AI at Tesla, expressed excitement about contributing to LLM research and development. He also plans to continue his work in AI education."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/healthcare-ai-firm-commure-valued-at-7-billion-raises-70-million/articleshow/131204870.cms",
+        "title": "Healthcare AI firm Commure valued at $7 billion, raises $70 million",
+        "link": "https://economictimes.indiatimes.com/tech/funding/healthcare-ai-firm-commure-valued-at-7-billion-raises-70-million/articleshow/131204870.cms",
+        "published": "Tue, 19 May 2026 20:50:16 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Commure, a healthcare AI platform, has achieved a significant milestone. The company announced a $7 billion valuation after raising $70 million in a funding round. General Catalyst led the investment, with participation from other major firms. Commure's agentic AI automates administrative tasks in healthcare. This technology is in high demand."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/imec-ceo-calls-for-stronger-ai-design-push-in-eus-chips-act/articleshow/131204562.cms",
+        "title": "Imec CEO calls for stronger AI design push in EU's Chips Act",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/imec-ceo-calls-for-stronger-ai-design-push-in-eus-chips-act/articleshow/131204562.cms",
+        "published": "Tue, 19 May 2026 20:36:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Europe must develop its own AI chip design firms. The new head of imec believes this is crucial for future competitiveness. The upcoming Chips Act 2.0 should focus on building this design ecosystem. Europe's strength lies in equipment and design, not just production. Encouraging TSMC to expand its Dresden facility is also suggested for advanced manufacturing."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/blackbucks-operating-revenue-rises-52-to-rs-185-crore-in-q4/articleshow/131204430.cms",
+        "title": "Blackbuck\u2019s operating revenue rises 52% to Rs 185 crore in Q4",
+        "link": "https://economictimes.indiatimes.com/tech/startups/blackbucks-operating-revenue-rises-52-to-rs-185-crore-in-q4/articleshow/131204430.cms",
+        "published": "Tue, 19 May 2026 20:23:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Trucking aggregator Blackbuck reported a 52% year-on-year growth in March quarter operating revenues, reaching Rs 185 crore. Despite a significant drop in net profit due to a one-time tax credit in the previous year, the company's full-year FY26 operating revenue surged by 52.7% to Rs 652 crore, with a net profit of Rs 160 crore."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsofts-biggest-india-data-centre-on-track-to-go-live-in-mid-2026-executive-says/articleshow/131203807.cms",
+        "title": "Microsoft's biggest India data centre on track to go live in mid-2026, executive says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsofts-biggest-india-data-centre-on-track-to-go-live-in-mid-2026-executive-says/articleshow/131203807.cms",
+        "published": "Tue, 19 May 2026 19:56:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft is building its largest data center in India, scheduled for completion by mid-2026. This expansion is fueled by strong demand for Azure cloud services and the Copilot 365 AI assistant. The company is investing heavily in India's growing AI market, recognizing its potential with over a billion internet users and skilled tech talent."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/bii-partners-cip-launch-300-million-india-renewable-energy-fund",
+        "title": "BII partners with CIP to launch $300M India renewable energy fund",
+        "link": "https://yourstory.com/2026/05/bii-partners-cip-launch-300-million-india-renewable-energy-fund",
+        "published": "Tue, 19 May 2026 12:17:12 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "This fund will invest in solar, wind, hybrid renewable energy and energy storage projects across India."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/goyal-asks-industry-to-boost-manufacturing-to-reduce-imports",
+        "title": "Goyal asks industry to boost manufacturing to reduce imports",
+        "link": "https://yourstory.com/2026/05/goyal-asks-industry-to-boost-manufacturing-to-reduce-imports",
+        "published": "Tue, 19 May 2026 10:10:21 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Piyush Goyal also suggested increasing exports and buy goods manufactured in India, rather than importing them."
+    },
+    {
+        "id": "https://inc42.com/buzz/oxyzo-to-buy-debt-investment-platform-goldenpi-for-%e2%82%b942-cr/",
+        "title": "Oxyzo To Buy Debt Investment Platform GoldenPi For \u20b942 Cr",
+        "link": "https://inc42.com/buzz/oxyzo-to-buy-debt-investment-platform-goldenpi-for-%e2%82%b942-cr/",
+        "published": "Tue, 19 May 2026 15:26:55 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"oxyzo acquires goldenpi\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Oxyzo-feature.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Fintech unicorn Oxyzo\u2019s board has approved the complete acquisition of debt investment and bond distribution platform GoldenPi Technologies Pvt Ltd&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/mapmyindia-q4-profit-up-4-yoy-to-%e2%82%b951-cr/",
+        "title": "MapmyIndia Q4: Profit Up 4% YoY To \u20b951 Cr",
+        "link": "https://inc42.com/buzz/mapmyindia-q4-profit-up-4-yoy-to-%e2%82%b951-cr/",
+        "published": "Tue, 19 May 2026 15:16:46 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"mapmyindia Q4 fy26\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/MapmyIndia-Q2-ftr-1.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Geotech company MapmyIndia\u2019s net profit for the quarter ended March 2026 (Q4 FY26) rose by 4% to \u20b950.9 Cr from&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/devx-swings-back-to-the-black-reports-%e2%82%b98-cr-profit-in-q4/",
+        "title": "DevX Swings Back To The Black, Reports \u20b98 Cr Profit In Q4",
+        "link": "https://inc42.com/buzz/devx-swings-back-to-the-black-reports-%e2%82%b98-cr-profit-in-q4/",
+        "published": "Tue, 19 May 2026 14:20:54 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"DevX Slips Into Red, Posts INR 1 Cr Loss In Q3 FY26\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/01/devX-FTR-copy.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Coworking space provider DevX (Dev Accelerator)\u2019s net profit for the quarter ended March 2025 (Q4 FY26) stood at \u20b98 Cr,&#8230;"
     }
 ]
