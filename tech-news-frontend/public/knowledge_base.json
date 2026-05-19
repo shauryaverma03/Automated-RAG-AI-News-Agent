@@ -234790,5 +234790,157 @@
         "published": "Tue, 19 May 2026 23:23:12 +0530",
         "source": "Tech-Economic Times",
         "summary": "Google CEO Sundar Pichai announced major AI advancements at the company's developer conference. New tools like Docs Live and Ask YouTube were revealed. Gemini AI now boasts 900 million users. The company also launched Gemini Omni, a new video generation model. These updates aim to strengthen Google's position in the AI race."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+        "title": "Elon Musk said Sam Altman \u201cstole\u201d a non-profit \u2014 but the trial showed he had similar aims",
+        "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+        "published": "Tue, 19 May 2026 20:11:00 +0000",
+        "source": "TechCrunch",
+        "summary": "\u201cBy the end of this week, you and Sam will be the most hated men in America.\u201d"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
+        "title": "Google takes a page out of Meta\u2019s book, announces new audio-powered smart glasses",
+        "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
+        "published": "Tue, 19 May 2026 19:15:31 +0000",
+        "source": "TechCrunch",
+        "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini."
+    },
+    {
+        "id": "https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement",
+        "title": "Democrats preview how they\u2019d go after the Ticketmaster settlement if they regain power",
+        "link": "https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement",
+        "published": "2026-05-19T16:13:14-04:00",
+        "source": "The Verge",
+        "summary": "A handful of Democrats called an unofficial hearing on Capitol Hill Monday to slam the Department of Justice's \"trivial\" and \"pathetic\" settlement with Live Nation-Ticketmaster, previewing how they might go after Trump administration antitrust deals if they win back congressional power in November. While the DOJ settlement with Live Nation, which came one week into [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/934101/ugreen-finetrack-2-mini-tracker-apple-find-my-soccer-ball",
+        "title": "Ugreen\u2019s new soccer ball-shaped tracker has up to 7 years of battery life",
+        "link": "https://www.theverge.com/tech/934101/ugreen-finetrack-2-mini-tracker-apple-find-my-soccer-ball",
+        "published": "2026-05-19T15:49:11-04:00",
+        "source": "The Verge",
+        "summary": "Ugreen has announced a new Apple Find My-compatible tracker with a novel design that limits where you can hide it, but greatly benefits battery life. Inspired by \"major football tournaments\" the company doesn't call out by name, the Ugreen FineTrack 2 is shaped like a soccer ball and is designed to be used hanging off [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+        "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+        "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+        "published": "Tue, 19 May 2026 20:00:48 +0000",
+        "source": "WIRED",
+        "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall."
+    },
+    {
+        "id": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
+        "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
+        "link": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
+        "published": "Tue, 19 May 2026 19:00:46 +0000",
+        "source": "WIRED",
+        "summary": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+        "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
+        "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+        "published": "Tue, 19 May 2026 18:55:56 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Both tools generate hypotheses; one goes on to analyze some of the data."
+    },
+    {
+        "id": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+        "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+        "link": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+        "published": "Tue, 19 May 2026 18:37:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "AI content is getting good, but SynthID might be able to help tell truth from fiction."
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+        "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+        "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+        "published": "Tue, 19 May 2026 18:27:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025."
+    },
+    {
+        "id": "https://www.engadget.com/2177120/google-debuts-ai-powered-tools-to-optimize-scientific-research-workflows/",
+        "title": "Google debuts AI-powered tools to optimize scientific research workflows",
+        "link": "https://www.engadget.com/2177120/google-debuts-ai-powered-tools-to-optimize-scientific-research-workflows/",
+        "published": "Tue, 19 May 2026 20:15:15 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Three new features will be available under the Gemini for Science collection."
+    },
+    {
+        "id": "https://www.engadget.com/2177068/fortnite-is-returning-to-the-app-store-globally-a-year-after-its-us-comeback/",
+        "title": "Fortnite is returning to the App Store globally, a year after its US comeback",
+        "link": "https://www.engadget.com/2177068/fortnite-is-returning-to-the-app-store-globally-a-year-after-its-us-comeback/",
+        "published": "Tue, 19 May 2026 19:51:44 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Fortnite is returning to the App Store everywhere (except Australia)."
+    },
+    {
+        "id": "https://www.engadget.com/2177050/google-announces-wear-os-7/",
+        "title": "Google announces Wear OS 7",
+        "link": "https://www.engadget.com/2177050/google-announces-wear-os-7/",
+        "published": "Tue, 19 May 2026 19:39:49 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The OS update integrates Gemini Intelligence and adds a new widget system."
+    },
+    {
+        "id": "https://www.engadget.com/2177045/minnesota-passes-prediction-markets-ban/",
+        "title": "Minnesota passes prediction markets ban",
+        "link": "https://www.engadget.com/2177045/minnesota-passes-prediction-markets-ban/",
+        "published": "Tue, 19 May 2026 19:36:33 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The CFTC has already sued to prevent the Minnesota's prediction markets ban."
+    },
+    {
+        "id": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
+        "title": "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
+        "link": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
+        "published": "Tue, 19 May 2026 19:52:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48198551\">Comments</a>"
+    },
+    {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "title": "Gemini 3.5 Flash",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "published": "Tue, 19 May 2026 17:43:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48196570\">Comments</a>"
+    },
+    {
+        "id": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+        "title": "Google changes its search box",
+        "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+        "published": "Tue, 19 May 2026 18:34:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48197370\">Comments</a>"
+    },
+    {
+        "id": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+        "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+        "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+        "published": "Tue, 19 May 2026 19:14:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48197995\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/kubuntu-vs-fedora-kde-which-kde-plasma-distro-is-right-for-you/",
+        "title": "Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?",
+        "link": "https://www.zdnet.com/article/kubuntu-vs-fedora-kde-which-kde-plasma-distro-is-right-for-you/",
+        "published": "Tue, 19 May 2026 19:38:26 GMT",
+        "source": "Latest news",
+        "summary": "These two Linux distributions take different approaches to the desktop. One may have an edge for new users."
+    },
+    {
+        "id": "https://www.zdnet.com/article/6-reasons-why-firefox-is-the-better-browser-for-most-users/",
+        "title": "6 reasons why Firefox is the better browser for most users",
+        "link": "https://www.zdnet.com/article/6-reasons-why-firefox-is-the-better-browser-for-most-users/",
+        "published": "Tue, 19 May 2026 19:00:48 GMT",
+        "source": "Latest news",
+        "summary": "Still using Chrome, Edge, or Safari? Firefox is alive and well - and offering a fast, customizable, bloat-free, private, secure browsing experience from developers who actually listen to their users."
     }
 ]
