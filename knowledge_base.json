@@ -235094,5 +235094,69 @@
         "published": "Tue, 19 May 2026 09:38:53 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Sumit Jain, who also heads Graphy, the creator-focused SaaS platform owned by Unacademy, was named a co-founder of the edtech firm in 2023 before being elevated to lead its test preparation business in September last year."
+    },
+    {
+        "id": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
+        "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
+        "link": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
+        "published": "2026-05-19T19:24:36-04:00",
+        "source": "The Verge",
+        "summary": "Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sports scores, Wear OS 7 will get the iPhone-style Live Updates that were introduced on Android last year - which can appear [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
+        "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
+        "link": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
+        "published": "2026-05-19T19:03:48-04:00",
+        "source": "The Verge",
+        "summary": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetime subscription at today's rates - before it triples the price to $750. Plex [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+        "title": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
+        "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+        "published": "2026-05-19T18:16:02-04:00",
+        "source": "The Verge",
+        "summary": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
+        "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+        "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
+        "published": "Tue, 19 May 2026 22:53:04 +0000",
+        "source": "WIRED",
+        "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They\u2019re certainly not alone."
+    },
+    {
+        "id": "https://www.wired.com/story/californias-wildfire-season-already-overactive/",
+        "title": "California\u2019s Wildfire Season Is Already Overactive",
+        "link": "https://www.wired.com/story/californias-wildfire-season-already-overactive/",
+        "published": "Tue, 19 May 2026 22:20:37 +0000",
+        "source": "WIRED",
+        "summary": "Major fires are threatening homes and ecologically sensitive areas following a hot, dry winter."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
+        "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
+        "link": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
+        "published": "Tue, 19 May 2026 21:29:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "FBI will pay vendors to help it track and search for vehicles nationwide."
+    },
+    {
+        "id": "https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real/",
+        "title": "Android XR is finally starting to feel real",
+        "link": "https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real/",
+        "published": "Tue, 19 May 2026 22:43:13 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Google has a lot to prove, but its smart glasses will have a few big advantages."
+    },
+    {
+        "id": "https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls/",
+        "title": "Discord now has end-to-end encryption on all calls",
+        "link": "https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls/",
+        "published": "Tue, 19 May 2026 22:31:03 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "It's a win for privacy on the social app."
     }
 ]
