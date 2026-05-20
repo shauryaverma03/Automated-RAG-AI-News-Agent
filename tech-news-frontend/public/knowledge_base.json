@@ -236542,5 +236542,101 @@
         "published": "Wed, 20 May 2026 19:19:00 GMT",
         "source": "Latest news",
         "summary": "Linux's creator sees AI as a double-edged sword for programmers."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+        "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+        "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+        "published": "Wed, 20 May 2026 23:03:02 +0000",
+        "source": "TechCrunch",
+        "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and Chairman of the board."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+        "title": "Clouted wants to take the guesswork out of making short videos go viral",
+        "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+        "published": "Wed, 20 May 2026 22:30:45 +0000",
+        "source": "TechCrunch",
+        "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+        "title": "xAI burned $6.4B last year. SpaceX\u2019s IPO filing shows why the spending is far from over",
+        "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+        "published": "Wed, 20 May 2026 22:26:08 +0000",
+        "source": "TechCrunch",
+        "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion \u2014 offering the first public look at Elon Musk's AI financials and more details about his ambitions."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+        "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
+        "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+        "published": "Wed, 20 May 2026 22:03:51 +0000",
+        "source": "TechCrunch",
+        "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+        "title": "Musk\u2019s xAI is being sued over its data center generators \u2014 now it\u2019s buying $2.8B more",
+        "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+        "published": "Wed, 20 May 2026 21:55:49 +0000",
+        "source": "TechCrunch",
+        "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
+    },
+    {
+        "id": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+        "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+        "link": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+        "published": "Wed, 20 May 2026 21:58:06 +0000",
+        "source": "WIRED",
+        "summary": "One line tucked into a federal highway bill would strip funds from cities and states unless they kill their automated plate tracking programs\u2014effectively banning the tech for all but toll collection."
+    },
+    {
+        "id": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
+        "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
+        "link": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
+        "published": "Wed, 20 May 2026 21:43:40 +0000",
+        "source": "WIRED",
+        "summary": "The long-awaited documents SpaceX filed with US regulators Wednesday included details about a lucrative deal to lend GPUs to a major AI rival."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
+        "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
+        "link": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
+        "published": "Wed, 20 May 2026 21:58:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Officials denied refusing entry, but dodged questions on why Americans didn't return."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
+        "title": "NASA's Psyche spacecraft returns unfamiliar views of a familiar world",
+        "link": "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
+        "published": "Wed, 20 May 2026 21:26:57 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"As a bonus, it captured Mars images from a rare perspective.\""
+    },
+    {
+        "id": "https://www.engadget.com/2178216/hulu-bundle-subscribers-can-now-access-their-watch-history-and-recs-in-the-disney-app/",
+        "title": "Hulu bundle subscribers can now access their watch history and recs in the Disney+ app",
+        "link": "https://www.engadget.com/2178216/hulu-bundle-subscribers-can-now-access-their-watch-history-and-recs-in-the-disney-app/",
+        "published": "Wed, 20 May 2026 22:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Even though Disney really wants you in its own app, it isn't killing off Hulu."
+    },
+    {
+        "id": "https://www.spacex.com/launches/starship-flight-12",
+        "title": "Starship's Twelfth Flight Test",
+        "link": "https://www.spacex.com/launches/starship-flight-12",
+        "published": "Wed, 20 May 2026 21:41:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48214558\">Comments</a>"
+    },
+    {
+        "id": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+        "title": "Google Declaring War on the Web",
+        "link": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+        "published": "Wed, 20 May 2026 21:33:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48214449\">Comments</a>"
     }
 ]
