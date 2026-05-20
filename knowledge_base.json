@@ -235158,5 +235158,85 @@
         "published": "Tue, 19 May 2026 22:31:03 +0000",
         "source": "Engadget - Technology News & Expert Reviews",
         "summary": "It's a win for privacy on the social app."
+    },
+    {
+        "id": "https://status.railway.com/?date=20260519",
+        "title": "Railway Blocked by Google Cloud",
+        "link": "https://status.railway.com/?date=20260519",
+        "published": "Wed, 20 May 2026 00:23:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48201484\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/wiltodelta/remove-ai-watermarks",
+        "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+        "link": "https://github.com/wiltodelta/remove-ai-watermarks",
+        "published": "Tue, 19 May 2026 22:30:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48200569\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/anker-solix-f3800-plus-410w-solar-panels-review/",
+        "title": "These backyard solar panels saved me $20/mo on my power bill - here's my setup",
+        "link": "https://www.zdnet.com/article/anker-solix-f3800-plus-410w-solar-panels-review/",
+        "published": "Wed, 20 May 2026 00:45:46 GMT",
+        "source": "Latest news",
+        "summary": "With an 820W solar setup, you can save up to 130kWh a month. I did with Anker's Solix F3800 Plus."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/govts-new-law-to-code-push-upgrads-1-7-billion-valuation/articleshow/131213984.cms",
+        "title": "Govt\u2019s new \u2018law-to-code\u2019 push; UpGrad\u2019s $1.7 billion valuation",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/govts-new-law-to-code-push-upgrads-1-7-billion-valuation/articleshow/131213984.cms",
+        "published": "Wed, 20 May 2026 07:05:07 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Wednesday! The government plans to translate legal provisions into software code that enforces compliance by design. This and more in today's ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/coded-compliance-centre-is-eyeing-law-to-code-to-ai-proof-data-law/articleshow/131209144.cms",
+        "title": "Coded compliance: Centre is eyeing 'law-to-code' to AI-proof data law",
+        "link": "https://economictimes.indiatimes.com/tech/technology/coded-compliance-centre-is-eyeing-law-to-code-to-ai-proof-data-law/articleshow/131209144.cms",
+        "published": "Wed, 20 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Law-to-code is the practice of translating legal rules into machine-executable algorithms such as a Python code that software can automatically process and enforce without human intervention."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sacked-h-1b-staff-asked-to-do-more-b-2-paperwork/articleshow/131208627.cms",
+        "title": "Sacked H-1B staff asked to do more B-2 paperwork",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sacked-h-1b-staff-asked-to-do-more-b-2-paperwork/articleshow/131208627.cms",
+        "published": "Wed, 20 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tech giants such as Amazon, Oracle, Cognizant and Meta have laid off thousands of employees in the past few months, and a large number of the affected people are estimated to be from India on H-1B visas. The visa rules give them 60 days to find new employment, or they must return to their home countries."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/speed-cost-accessibility-key-in-next-phase-of-ai-race-says-sundar-pichai/articleshow/131208117.cms",
+        "title": "Speed, cost, accessibility key in next phase of AI race, says Sundar Pichai",
+        "link": "https://economictimes.indiatimes.com/tech/technology/speed-cost-accessibility-key-in-next-phase-of-ai-race-says-sundar-pichai/articleshow/131208117.cms",
+        "published": "Wed, 20 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\u200bSpeaking to the media ahead of Google\u2019s annual developer conference Google I/O, Pichai said the industry is entering a phase where efficiency and scale of deployment matter as much as raw model size."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/swipe-right-for-ai-skills-india-inc-to-job-seekers/articleshow/131208017.cms",
+        "title": "Swipe right for AI skills, India Inc to job seekers",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/swipe-right-for-ai-skills-india-inc-to-job-seekers/articleshow/131208017.cms",
+        "published": "Wed, 20 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's tech job market saw a significant surge in AI skill demand in January, with nearly a seventh of postings requiring these abilities. This trend highlights a growing need for AI expertise, as businesses increasingly integrate automation and agentic AI, leading to a shift in hiring priorities towards practical skills and certifications over traditional degrees."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/startup-news-and-updates-daily-roundup-may-19-2026",
+        "title": "Startup news and updates: daily roundup (May 19, 2026)",
+        "link": "https://yourstory.com/2026/05/startup-news-and-updates-daily-roundup-may-19-2026",
+        "published": "Tue, 19 May 2026 10:45:34 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, May 19, 2026."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/from-ai-art-wall-decor-artiure-helping-indian-artists-monetise-work",
+        "title": "From AI art to wall decor: Artiure is helping Indian artists monetise their work",
+        "link": "https://yourstory.com/2026/05/from-ai-art-wall-decor-artiure-helping-indian-artists-monetise-work",
+        "published": "Wed, 20 May 2026 01:50:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Gurugram-based Artiure is building a marketplace for digital and generative art, turning it into physical products while enabling artists with financial inclusion and access to global markets."
     }
 ]
