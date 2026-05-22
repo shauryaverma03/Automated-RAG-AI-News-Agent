@@ -238206,5 +238206,93 @@
         "published": "Thu, 21 May 2026 22:27:13 +0000",
         "source": "Engadget - Technology News & Expert Reviews",
         "summary": "Most users can start generating slides with AI today."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+        "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+        "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+        "published": "Fri, 22 May 2026 00:37:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+        "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+        "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+        "published": "Fri, 22 May 2026 00:07:47 +0000",
+        "source": "TechCrunch",
+        "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday."
+    },
+    {
+        "id": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+        "title": "Can OpenAI\u2019s \u2018Master of Disaster\u2019 Fix AI\u2019s Reputation Crisis?",
+        "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+        "published": "Fri, 22 May 2026 00:04:25 +0000",
+        "source": "WIRED",
+        "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI\u2019s societal impacts\u2014and get states to pass laws that won\u2019t derail OpenAI\u2019s meteoric rise."
+    },
+    {
+        "id": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+        "title": "The Death of the Brick and Mortar Toy Store",
+        "link": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+        "published": "Tue, 19 May 2026 12:48:20 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48192605\">Comments</a>"
+    },
+    {
+        "id": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+        "title": "Was my $48K GPU server worth it?",
+        "link": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+        "published": "Mon, 18 May 2026 19:33:03 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48184402\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/setback-to-swiggys-iocc-status-walmarts-flipkart-push/articleshow/131254609.cms",
+        "title": "Swiggy\u2019s shareholder setback; Walmart\u2019s Flipkart push",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/setback-to-swiggys-iocc-status-walmarts-flipkart-push/articleshow/131254609.cms",
+        "published": "Fri, 22 May 2026 07:07:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Friday! Swiggy\u2019s move to become an Indian-owned company hit a setback after the shareholder vote fell short. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-held-1-billion-revenue-lead-over-anthropic-in-q1-the-information/articleshow/131254581.cms",
+        "title": "OpenAI held $1 billion revenue lead over Anthropic in Q1: The Information",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-held-1-billion-revenue-lead-over-anthropic-in-q1-the-information/articleshow/131254581.cms",
+        "published": "Fri, 22 May 2026 06:39:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI reported $5.7 billion in first-quarter revenue, leading Anthropic by $1 billion. However, Anthropic projects its second-quarter revenue to double to $11 billion with a $600 million profit."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/hexaware-to-buy-uk-consulting-company-cps-in-rs-140-crore-deal/articleshow/131251088.cms",
+        "title": "Hexaware to buy UK consulting company CPS in Rs 140 crore deal",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/hexaware-to-buy-uk-consulting-company-cps-in-rs-140-crore-deal/articleshow/131251088.cms",
+        "published": "Fri, 22 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Mumbai-headquartered company said the acquisition, to be carried out through its wholly owned subsidiary Hexaware Technologies UK Ltd, is expected to close within two weeks. The deal includes an upfront payment of \u00a36 million, while another \u00a35 million is linked to financial performance targets."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-firm-contentnexus-files-patent-suit-against-wipro/articleshow/131251038.cms",
+        "title": "US firm ContentNexus files patent suit against Wipro",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-firm-contentnexus-files-patent-suit-against-wipro/articleshow/131251038.cms",
+        "published": "Fri, 22 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A US patent holder has sued Wipro in a federal court. The company alleges Wipro used patented technology without permission. This involves two patents related to signal processing. ContentNexus LLC filed the complaint. They seek damages and a jury trial. Wipro has not yet responded to the lawsuit. The patents were filed in 1995 and granted later."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-goes-all-out-to-charm-indian-coders/articleshow/131250830.cms",
+        "title": "OpenAI goes all out to charm Indian coders",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-goes-all-out-to-charm-indian-coders/articleshow/131250830.cms",
+        "published": "Fri, 22 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI personnel are spending more time in India to understand the ecosystem and offer products and services that fit the market. Their concentration on India comes at a time when the coding war is heating up and OpenAI is trying to expand its enterprise and developer-focused offerings globally, people aware of the developments said."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/indias-deepening-dowry-crisis",
+        "title": "India\u2019s deepening dowry crisis; Ola Electric narrows quarterly loss",
+        "link": "https://yourstory.com/2026/05/indias-deepening-dowry-crisis",
+        "published": "Thu, 21 May 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "According to data from the Crime in India 2024 report by the National Crime Records Bureau (NCRB), India recorded 5,737 dowry deaths in 2024."
     }
 ]
