@@ -238294,5 +238294,133 @@
         "published": "Thu, 21 May 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "According to data from the Crime in India 2024 report by the National Crime Records Bureau (NCRB), India recorded 5,737 dowry deaths in 2024."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+        "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
+        "link": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+        "published": "Fri, 22 May 2026 02:05:37 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening."
+    },
+    {
+        "id": "https://www.engadget.com/2179165/meta-forum-groups-app/",
+        "title": "Meta quietly released a new Reddit-like app called Forum",
+        "link": "https://www.engadget.com/2179165/meta-forum-groups-app/",
+        "published": "Fri, 22 May 2026 05:43:31 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Meta is testing a new dedicated app for Facebook Groups called Forum."
+    },
+    {
+        "id": "https://www.engadget.com/2175442/marvels-retro-inspired-beat-em-up-is-getting-two-more-playable-superheroes/",
+        "title": "Marvel's retro-inspired beat-em-up is getting two more playable superheroes",
+        "link": "https://www.engadget.com/2175442/marvels-retro-inspired-beat-em-up-is-getting-two-more-playable-superheroes/",
+        "published": "Mon, 18 May 2026 15:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Cyclops and The Thing are now playable in Marvel Cosmic Invasion."
+    },
+    {
+        "id": "https://arxiv.org/abs/2605.19269",
+        "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+        "link": "https://arxiv.org/abs/2605.19269",
+        "published": "Fri, 22 May 2026 04:54:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48232118\">Comments</a>"
+    },
+    {
+        "id": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+        "title": "The surprising story behind the first British person in space",
+        "link": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+        "published": "Wed, 20 May 2026 15:47:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48209691\">Comments</a>"
+    },
+    {
+        "id": "https://slumber.lucaspickering.me",
+        "title": "Slumber a TUI HTTP Client",
+        "link": "https://slumber.lucaspickering.me",
+        "published": "Fri, 22 May 2026 04:29:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48231938\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/malaysia-to-introduce-new-rules-to-protect-youth-on-online-platforms/articleshow/131257304.cms",
+        "title": "Malaysia to introduce new rules to protect youth on online platforms",
+        "link": "https://economictimes.indiatimes.com/tech/technology/malaysia-to-introduce-new-rules-to-protect-youth-on-online-platforms/articleshow/131257304.cms",
+        "published": "Fri, 22 May 2026 10:56:18 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Malaysia is rolling out new regulations from June 1 to shield children from harmful online content.  Online platforms must now implement age restrictions for users under 16 and enhance their content moderation policies to ensure a safer digital environment for young Malaysians."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ixigo-posts-8-5-rise-in-q4-revenue-clocks-profit-of-rs-32-crore/articleshow/131256673.cms",
+        "title": "Ixigo posts 8.5% rise in Q4 revenue, clocks profit of Rs 32 crore",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ixigo-posts-8-5-rise-in-q4-revenue-clocks-profit-of-rs-32-crore/articleshow/131256673.cms",
+        "published": "Fri, 22 May 2026 10:37:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ixigo's parent, Le Travenues Technology, reported an 8.5% year-on-year increase in operating revenue to Rs 308 crore for the March quarter, with profit after tax soaring 91% to Rs 32 crore. This growth was driven by a multi-modal strategy and AI-driven cost reductions."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/articleshow/131256168.cms",
+        "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/articleshow/131256168.cms",
+        "published": "Fri, 22 May 2026 09:49:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "President Trump halted an AI executive order. He feared it would slow America's technological progress. The order aimed to review AI's national security risks. This move comes amid concerns about AI's cybersecurity capabilities. Tech firms were to collaborate voluntarily. The administration seeks to balance innovation with safety."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-governor-orders-a-plan-to-cope-with-ai-job-upheaval/articleshow/131255657.cms",
+        "title": "California governor orders a plan to cope with AI job upheaval",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-governor-orders-a-plan-to-cope-with-ai-job-upheaval/articleshow/131255657.cms",
+        "published": "Fri, 22 May 2026 09:04:01 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "California Governor Gavin Newsom on Thursday ordered officials to start work on a plan to mitigate the job-destroying impact of artificial intelligence, the first US state to do so. \"California has never sat back and watched as the future happened to us -- and we won't start now,\" he said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/funding/china-does-not-make-tech-firms-reject-foreign-investment-ndrc-says/articleshow/131255584.cms",
+        "title": "China does not make tech firms reject foreign investment, NDRC says",
+        "link": "https://economictimes.indiatimes.com/tech/funding/china-does-not-make-tech-firms-reject-foreign-investment-ndrc-says/articleshow/131255584.cms",
+        "published": "Fri, 22 May 2026 08:56:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "China does not make tech firms reject foreign investment, NDRC says"
+    },
+    {
+        "id": "https://yourstory.com/2026/05/scapia-fundraise-premium-ice-cream-brand-papacream",
+        "title": "Scapia\u2019s $63M fundraise; Premium ice cream brand Papacream",
+        "link": "https://yourstory.com/2026/05/scapia-fundraise-premium-ice-cream-brand-papacream",
+        "published": "Fri, 22 May 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Travel-fintech startup Scapia has raised $63 million in a fresh round of funding led by General Catalyst. Papacream was built around the idea that premium desserts should feel indulgent, but not intimidating."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/swiggy-fails-to-secure-shareholder-approval-aoa-indian-owned-entity",
+        "title": "Swiggy fails to secure requisite shareholder approval for altering AoA to become Indian-owned entity",
+        "link": "https://yourstory.com/2026/05/swiggy-fails-to-secure-shareholder-approval-aoa-indian-owned-entity",
+        "published": "Fri, 22 May 2026 04:43:35 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Swiggy fell short of the required shareholder threshold to amend its AoA for Indian-owned and controlled company (IOCC) status, though shareholders overwhelmingly approved the appointment of Renan De Castro Alves Pinto to the board."
+    },
+    {
+        "id": "https://inc42.com/buzz/flipkart-drives-walmarts-ecommerce-advertising-growth-in-q1-fy27/",
+        "title": "Flipkart Drives Walmart\u2019s Ecommerce, Advertising Growth In Q1 FY27",
+        "link": "https://inc42.com/buzz/flipkart-drives-walmarts-ecommerce-advertising-growth-in-q1-fy27/",
+        "published": "Fri, 22 May 2026 06:31:31 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Flipkart\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/flipkart-walmart-featured-1-1.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Flipkart and its quick commerce arm Flipkart Minutes featured in Walmart\u2019s Q1 FY27 earnings commentary as the global retail giant&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/the-new-ai-threat-nykaas-q4-surge-more/",
+        "title": "The New AI Threat, Nykaa\u2019s Q4 Surge & More",
+        "link": "https://inc42.com/buzz/the-new-ai-threat-nykaas-q4-surge-more/",
+        "published": "Fri, 22 May 2026 02:30:22 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"The New AI Threat, Nykaa\u2019s Q4 Surge &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/FTR-Daily-Brief-2026-05-22T003526.113.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Agent Traps Keep Enterprises On Edge The rise of AI is creating a new cybersecurity problem, agent traps. Attackers no&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/05/223-eu-ai-act-high-risk-guidelines-explained/",
+        "title": "Lowdown: How the EU decides which AI systems are \u201chigh-risk\u201d under the AI Act",
+        "link": "https://www.medianama.com/2026/05/223-eu-ai-act-high-risk-guidelines-explained/",
+        "published": "Fri, 22 May 2026 06:17:49 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The European Commission has published draft guidelines clarifying when AI systems qualify as high-risk under Article 6 of the EU AI Act.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-eu-ai-act-high-risk-guidelines-explained/\">Lowdown: How the EU decides which AI systems are &#8220;high-risk&#8221; under the AI Act</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
