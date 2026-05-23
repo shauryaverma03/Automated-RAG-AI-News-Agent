@@ -240222,5 +240222,21 @@
         "published": "Sat, 23 May 2026 20:22:19 +0000",
         "source": "Engadget - Technology News & Expert Reviews",
         "summary": "The AI-generated version of 'Moonrise, Hernandez, New Mexico' was on display at AIPAD's The Photography show."
+    },
+    {
+        "id": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+        "title": "dotNET (OK, C#) gets union types",
+        "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+        "published": "Fri, 22 May 2026 12:28:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48234954\">Comments</a>"
+    },
+    {
+        "id": "https://ironpeak.be/blog/bypassing-apple-mie/",
+        "title": "Pardon MIE?",
+        "link": "https://ironpeak.be/blog/bypassing-apple-mie/",
+        "published": "Sat, 23 May 2026 20:36:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48251229\">Comments</a>"
     }
 ]
