@@ -240126,5 +240126,29 @@
         "published": "Sat, 23 May 2026 21:06:01 +0530",
         "source": "Tech-Economic Times",
         "summary": "Beware of a cunning phishing scam targeting iPhone users who have lost their devices. Scammers, posing as Apple Support, are sending fake messages with malicious links to steal your Apple ID and OTP. This allows them to access your account and remove your device. Always verify links and use Apple's official 'Find Devices' service for recovery."
+    },
+    {
+        "id": "https://www.engadget.com/2180075/italian-authorities-shut-down-major-streaming-piracy-network-cinemagoal/",
+        "title": "Italian authorities shut down major streaming piracy network",
+        "link": "https://www.engadget.com/2180075/italian-authorities-shut-down-major-streaming-piracy-network-cinemagoal/",
+        "published": "Sat, 23 May 2026 17:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The Cinemagoal app retransmitted content from major platforms like Netflix and Disney+."
+    },
+    {
+        "id": "https://www.engadget.com/2180073/chicks-hatched-from-artificial-eggshells-smile-mission-to-study-earth-magnetosphere-spacex-starship-launch-europa-water-plumes/",
+        "title": "Chicks hatched from artificial eggshells, a new mission to study Earth's magnetosphere and more science stories",
+        "link": "https://www.engadget.com/2180073/chicks-hatched-from-artificial-eggshells-smile-mission-to-study-earth-magnetosphere-spacex-starship-launch-europa-water-plumes/",
+        "published": "Sat, 23 May 2026 16:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "This week's science news."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsoft-veteran-yusuf-mehdi-to-exit-after-35-years/articleshow/131283977.cms",
+        "title": "Microsoft veteran Yusuf Mehdi to exit after 35 years",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-veteran-yusuf-mehdi-to-exit-after-35-years/articleshow/131283977.cms",
+        "published": "Sat, 23 May 2026 23:04:16 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "After 35 years at Microsoft, consumer chief marketing officer Yusuf Mehdi announced his departure, planning to leave in June 2027. Mehdi, a key figure in product launches from Windows 95 to Copilot Plus PCs, will focus on Windows, Microsoft 365, and the One Copilot vision during his remaining time."
     }
 ]
