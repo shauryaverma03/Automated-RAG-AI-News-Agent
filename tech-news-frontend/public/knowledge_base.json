@@ -240078,5 +240078,53 @@
         "published": "Sat, 23 May 2026 20:49:10 +0530",
         "source": "Tech-Economic Times",
         "summary": "SpaceX's latest Starship test flight achieved a significant milestone, deploying mock satellites and executing a controlled splashdown. This successful uncrewed launch, the first of its V3 iteration, bolsters investor confidence ahead of the company's anticipated IPO next month."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+        "title": "These special phone and app features can help protect you from spyware",
+        "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+        "published": "Sat, 23 May 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on."
+    },
+    {
+        "id": "https://www.engadget.com/2178886/dead-by-daylight-is-finally-adding-jason-from-friday-the-13th/",
+        "title": "Dead by Daylight is finally adding Jason from Friday the 13th",
+        "link": "https://www.engadget.com/2178886/dead-by-daylight-is-finally-adding-jason-from-friday-the-13th/",
+        "published": "Sat, 23 May 2026 15:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "At long last, Jason is coming to Dead By Daylight."
+    },
+    {
+        "id": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+        "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+        "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+        "published": "Sat, 23 May 2026 16:24:50 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48248954\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/robot-vacuums-best-memorial-day-deals-2026/",
+        "title": "I test robot vacuums for a living, and these are the best Memorial Day deals right now",
+        "link": "https://www.zdnet.com/article/robot-vacuums-best-memorial-day-deals-2026/",
+        "published": "Sat, 23 May 2026 16:33:16 GMT",
+        "source": "Latest news",
+        "summary": "This is one of the best times of the year to buy a robot vacuum, thanks to these Memorial Day deals."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cant-work-without-ai-employees-fear-rising-overreliance-skill-loss/articleshow/131282519.cms",
+        "title": "\u2018Can\u2019t work without AI\u2019: Employees fear rising overreliance, skill-loss",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cant-work-without-ai-employees-fear-rising-overreliance-skill-loss/articleshow/131282519.cms",
+        "published": "Sat, 23 May 2026 21:42:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A new report reveals that half of surveyed workers feel overly dependent on AI, with younger generations expressing greater concern about probable diminished intelligence.  Despite pressure to use AI for productivity, many lack understanding of its practical application, leading to increased \"workslop\" and misuse on sensitive tasks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/i4c-warns-of-phishing-scam-targeting-iphone-users-via-fake-apple-support-messages/articleshow/131282139.cms",
+        "title": "I4C warns of phishing scam targeting iPhone users via fake Apple support messages",
+        "link": "https://economictimes.indiatimes.com/tech/technology/i4c-warns-of-phishing-scam-targeting-iphone-users-via-fake-apple-support-messages/articleshow/131282139.cms",
+        "published": "Sat, 23 May 2026 21:06:01 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Beware of a cunning phishing scam targeting iPhone users who have lost their devices. Scammers, posing as Apple Support, are sending fake messages with malicious links to steal your Apple ID and OTP. This allows them to access your account and remove your device. Always verify links and use Apple's official 'Find Devices' service for recovery."
     }
 ]
