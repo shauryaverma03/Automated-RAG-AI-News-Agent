@@ -240598,5 +240598,37 @@
         "published": "Sun, 24 May 2026 02:00:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "India\u2019s startup funding market saw a sharp pickup between May 16 and May 22, with ventures collectively raising nearly $124.4 million across 15 disclosed deals. Yatri offers real-time train tracking using source-verified GPS data, with live updates on locations, delays, and platform changes."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+        "title": "6 kitchen gadgets that make adulting feel easier",
+        "link": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+        "published": "Sun, 24 May 2026 17:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you\u2019ve won adulthood."
+    },
+    {
+        "id": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+        "published": "Sun, 24 May 2026 16:31:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48258684\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/hotels-strive-to-be-found-as-ai-models-conduct-travel-search/articleshow/131294998.cms",
+        "title": "Hotels strive to be found as AI models conduct travel search",
+        "link": "https://economictimes.indiatimes.com/tech/technology/hotels-strive-to-be-found-as-ai-models-conduct-travel-search/articleshow/131294998.cms",
+        "published": "Sun, 24 May 2026 22:39:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "With people increasingly adopting AI to help plan their vacations, hotels are working to make sure that you check them out -- and check in. \"What a hotel needs to do to get well referenced by search engines is not the same thing that they need to do to get referenced by artificial intelligence,\" said Johanna Benesty at BCG. Moreover, not all AI models \"work in the same way,\" she added."
+    },
+    {
+        "id": "https://inc42.com/features/can-indias-ride-hailing-economy-survive-the-fuel-shock/",
+        "title": "Can India\u2019s Ride-Hailing Economy Survive The Fuel Shock?",
+        "link": "https://inc42.com/features/can-indias-ride-hailing-economy-survive-the-fuel-shock/",
+        "published": "Sun, 24 May 2026 16:53:29 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Can India\u2019s Ride-Hailing Economy Survive The Fuel Shock?\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Geopolitics-Mobility-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The prolonged crude oil crisis due to the US-Iran war is raising bigger questions for Uber, Rapido, Ola Cabs and&#8230;"
     }
 ]
