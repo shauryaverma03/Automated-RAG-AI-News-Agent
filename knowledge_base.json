@@ -240502,5 +240502,69 @@
         "published": "Sun, 24 May 2026 18:22:55 +0530",
         "source": "Tech-Economic Times",
         "summary": "A Supreme Court PIL targets the 'Cockroach Janta Party' for allegedly exploiting judicial remarks for commercial gain. The petition also calls for a CBI probe into 'fake advocates' using fraudulent degrees. This action highlights concerns over the commodification of constitutional proceedings and the potential undermining of judicial sanctity through such activities."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+        "title": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
+        "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+        "published": "Sun, 24 May 2026 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety."
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
+        "title": "On Trails is a wandering tale that blends hiking, science, and history",
+        "link": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
+        "published": "2026-05-24T11:15:00-04:00",
+        "source": "The Verge",
+        "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with two young kids and a bad back, I'm not really able to go backpacking anymore. So I often find myself trying to live [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
+        "title": "Apple\u2019s latest MacBook Air is $200 off in both sizes for Memorial Day",
+        "link": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
+        "published": "2026-05-24T11:00:00-04:00",
+        "source": "The Verge",
+        "summary": "If you\u2019re looking for a laptop that\u2019ll still perform well several years from now, Apple\u2019s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBook Air at Amazon in the run-up to Memorial Day with an M5 chip, 16GB [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2180225/kalshi-and-rhode-island-sue-each-other-in-latest-challenge-to-prediction-markets/",
+        "title": "Kalshi and Rhode Island sue each other in latest challenge to prediction markets",
+        "link": "https://www.engadget.com/2180225/kalshi-and-rhode-island-sue-each-other-in-latest-challenge-to-prediction-markets/",
+        "published": "Sun, 24 May 2026 15:38:37 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Rhode Island joins other states that have taken similar legal action."
+    },
+    {
+        "id": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "link": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "published": "Sun, 24 May 2026 13:02:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48256953\">Comments</a>"
+    },
+    {
+        "id": "https://arxiv.org/abs/2605.06445",
+        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+        "link": "https://arxiv.org/abs/2605.06445",
+        "published": "Sun, 24 May 2026 12:55:53 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48256912\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/italy-busts-300-million-streaming-piracy-ring/articleshow/131293384.cms",
+        "title": "Italy busts \u20ac300 million streaming piracy ring",
+        "link": "https://economictimes.indiatimes.com/tech/technology/italy-busts-300-million-streaming-piracy-ring/articleshow/131293384.cms",
+        "published": "Sun, 24 May 2026 19:49:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The \u200coperation targeted \u2060previously \u2060unseen technology built around an application called CINEMAGOAL, \u200bwhich connected users' devices to foreign servers that illegally decrypted \u200bstreaming content, the Guardia di Finanza police said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/ettech-explainer-what-prontos-new-video-recording-feature-means-for-your-privacy/articleshow/131293525.cms",
+        "title": "ETtech Explainer: What Pronto\u2019s new video recording feature means for your privacy",
+        "link": "https://economictimes.indiatimes.com/tech/startups/ettech-explainer-what-prontos-new-video-recording-feature-means-for-your-privacy/articleshow/131293525.cms",
+        "published": "Sun, 24 May 2026 19:44:42 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Pronto's service professionals \u2014 who provide cleaning, washing, and meal preparation services \u2014 record their activities, generating videos that can help train physical AI systems. Following privacy concerns, the founders of rival platforms Urban Company and Snabbit clarified that they do not engage in such practices and have no plans to do so."
     }
 ]
