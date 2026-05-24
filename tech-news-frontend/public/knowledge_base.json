@@ -240414,5 +240414,69 @@
         "published": "Thu, 21 May 2026 15:05:28 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=48223997\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+        "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+        "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+        "published": "2026-05-24T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+        "title": "Whatever the mirror test tells us, beluga whales pass it",
+        "link": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+        "published": "Sun, 24 May 2026 11:15:38 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The white whales join the short, contested list of animals that see themselves."
+    },
+    {
+        "id": "https://mastering.dyalog.com/README.html",
+        "title": "Mastering Dyalog APL",
+        "link": "https://mastering.dyalog.com/README.html",
+        "published": "Sun, 24 May 2026 11:42:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48256475\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/delivery-hero-confirms-takeover-offer-from-uber/articleshow/131292563.cms",
+        "title": "Delivery Hero confirms takeover offer from Uber",
+        "link": "https://economictimes.indiatimes.com/tech/technology/delivery-hero-confirms-takeover-offer-from-uber/articleshow/131292563.cms",
+        "published": "Sun, 24 May 2026 18:01:10 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Delivery Hero said \u200blast week its U.S. \u2060rival had \u200cincreased its holding to \u200babout \u200b19.5% of issued capital from \u2060roughly 7%, becoming its largest shareholder. The \u200bstake is worth around 1.7 billion \u200beuros, according to Reuters calculations."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/blue-origin-to-expand-florida-campus-with-new-600-million-facility/articleshow/131292407.cms",
+        "title": "Blue Origin to expand Florida campus with new $600 million facility",
+        "link": "https://economictimes.indiatimes.com/tech/technology/blue-origin-to-expand-florida-campus-with-new-600-million-facility/articleshow/131292407.cms",
+        "published": "Sun, 24 May 2026 17:41:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The expansion comes as Blue Origin rival, Elon Musk's SpaceX, prepares to go public targeting \u200ca valuation \u2060of $1.75 \u2060trillion.The expansion comes as Blue Origin rival, Elon Musk's SpaceX, prepares to go public targeting \u200ca valuation \u2060of $1.75 \u2060trillion."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-to-make-permanent-75-price-cut-on-flagship-v4pro-ai-model/articleshow/131292331.cms",
+        "title": "China's DeepSeek to make permanent 75% price cut on flagship V4\u2011Pro AI model",
+        "link": "https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-to-make-permanent-75-price-cut-on-flagship-v4pro-ai-model/articleshow/131292331.cms",
+        "published": "Sun, 24 May 2026 17:33:17 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "DeepSeek \u2060did \u2060not disclose whether the permanent price cut was due \u200bto increased supply of Huawei's Ascend 950 chips, which it \u200bused to maximize V4's performance."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ai-model-finds-over-10000-critical-bugs-across-open-source-software-projects/articleshow/131292086.cms",
+        "title": "Anthropic AI model finds over 10,000 critical bugs across open-source software projects",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ai-model-finds-over-10000-critical-bugs-across-open-source-software-projects/articleshow/131292086.cms",
+        "published": "Sun, 24 May 2026 17:08:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The AI startup said around 50 carefully selected partners, including technology firms and research organisations, were given limited access to the model over recent weeks. Mythos Preview was used to scan more than 1,000 open-source software projects during the trial."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/indias-desi-gaming-startups-tap-culture-and-storytelling-to-break-chinas-grip-on-toy-and-board-game-market/articleshow/131292838.cms",
+        "title": "India\u2019s desi gaming startups tap culture and storytelling to break China\u2019s grip on toy and board game market",
+        "link": "https://economictimes.indiatimes.com/tech/startups/indias-desi-gaming-startups-tap-culture-and-storytelling-to-break-chinas-grip-on-toy-and-board-game-market/articleshow/131292838.cms",
+        "published": "Sun, 24 May 2026 09:24:06 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In the vibrant world of play, Indian board games and toys are experiencing a renaissance. Consumers are leaning towards locally inspired options, moving away from homogenized global toys. A new wave of entrepreneurs is tapping into India's rich tapestry of history and mythology to create engaging, culturally resonant products."
     }
 ]
