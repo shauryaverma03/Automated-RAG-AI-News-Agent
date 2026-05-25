@@ -240726,5 +240726,61 @@
         "published": "Sun, 24 May 2026 23:37:00 GMT",
         "source": "Latest news",
         "summary": "The OmniBook 5 is on sale for $530. It's a solid laptop with a long battery life, an OLED screen, and strong performance."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/uber-weighs-higher-bid-for-delivery-hero-ft/articleshow/131299315.cms",
+        "title": "Uber weighs higher bid for Delivery Hero: FT",
+        "link": "https://economictimes.indiatimes.com/tech/technology/uber-weighs-higher-bid-for-delivery-hero-ft/articleshow/131299315.cms",
+        "published": "Mon, 25 May 2026 07:20:32 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Uber's board met to discuss increasing its offer for Delivery Hero after a major shareholder rejected a bid valuing the German firm at over 11.5 billion euros. Uber CEO Dara Khosrowshahi previously offered 33 euros per share, but a larger shareholder was rebuffed with a 38 euros per share proposal."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/udaans-pre-ipo-top-up-tatas-assam-chip-hub-test-run/articleshow/131299080.cms",
+        "title": "Udaan\u2019s pre-IPO top-up; Tata\u2019s Assam chip hub test run",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/udaans-pre-ipo-top-up-tatas-assam-chip-hub-test-run/articleshow/131299080.cms",
+        "published": "Mon, 25 May 2026 07:05:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Monday! Udaan is in talks to raise $50-60 million at a flat valuation. This and more in today's ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/tata-electronics-plans-to-start-chip-packaging-at-upcoming-assam-unit/articleshow/131295437.cms",
+        "title": "Tata Electronics plans to start chip packaging at upcoming Assam unit",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tata-electronics-plans-to-start-chip-packaging-at-upcoming-assam-unit/articleshow/131295437.cms",
+        "published": "Mon, 25 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "While the Tata Group company has already initiated small-scale shipments from its first commercial OSAT facility in Vemagal, Karnataka, the strategic pivot to the greenfield high-volume manufacturing unit in Jagiroad, Assam is aimed at building trust among global clients about the company\u2019s capabilities while ensuring immediate scalability to meet surging automotive and industrial demand."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/bellatrix-readying-ultra-low-orbit-satellites/articleshow/131295367.cms",
+        "title": "Bellatrix readying ultra-low orbit satellites",
+        "link": "https://economictimes.indiatimes.com/tech/technology/bellatrix-readying-ultra-low-orbit-satellites/articleshow/131295367.cms",
+        "published": "Mon, 25 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Bengaluru-based company is targeting launches in 2027 or 2028 and is positioning the project as a potential breakthrough in very low Earth orbit (VLEO) satellite operations, an area that remains largely unexplored globally because of the extreme atmospheric drag at those altitudes."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/manufacturers-look-beyond-cost-cutting-to-drive-ai-adoption/articleshow/131295310.cms",
+        "title": "Manufacturers look beyond cost cutting to drive AI adoption",
+        "link": "https://economictimes.indiatimes.com/tech/technology/manufacturers-look-beyond-cost-cutting-to-drive-ai-adoption/articleshow/131295310.cms",
+        "published": "Mon, 25 May 2026 06:00:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A survey found meeting customer expectations (49%) and boosting operational efficiency (47%) were the primary forces driving AI adoption among manufacturers. However, cost reduction, often touted as a top reason for AI adoption in enterprises, ranked last at just 23%."
+    },
+    {
+        "id": "https://inc42.com/features/why-swiggy-failed-the-shareholder-litmus-test/",
+        "title": "Why Swiggy Failed The Shareholder Litmus Test",
+        "link": "https://inc42.com/features/why-swiggy-failed-the-shareholder-litmus-test/",
+        "published": "Mon, 25 May 2026 00:30:55 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Why Swiggy Failed The Shareholder Litmus Test\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/ftr-16.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />In October last year, Swiggy CEO Sriharsha Majety called Instamart\u2019s shift to an inventory-led model an eventuality.\u00a0 That conviction, it&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/biotech-startup-strainx-bags-13-mn-to-manufacture-alternative-proteins/",
+        "title": "Biotech Startup StrainX Bags $13 Mn To Manufacture Alternative Proteins",
+        "link": "https://inc42.com/buzz/biotech-startup-strainx-bags-13-mn-to-manufacture-alternative-proteins/",
+        "published": "Mon, 25 May 2026 00:30:08 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"StrainX Bags $13 Mn To Manufacture Alternative Proteins\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/StrainX-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Emerging out of stealth mode, biotech startup StrainX Bioworks has raised $13 Mn (around \u20b9124 Cr) in a funding round&#8230;"
     }
 ]
