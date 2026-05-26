@@ -241574,5 +241574,13 @@
         "published": "Mon, 25 May 2026 14:58:20 GMT",
         "source": "YourStory RSS Feed",
         "summary": "For the full FY26 fiscal year, Pine Labs reported a net profit of Rs 112.51 crore, compared with a net loss of Rs 145.49 crore in FY25. Annual revenue increased 19% to Rs 2,710.59 crore."
+    },
+    {
+        "id": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+        "title": "Nobody cracks open a programming book anymore",
+        "link": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+        "published": "Mon, 25 May 2026 23:21:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48273030\">Comments</a>"
     }
 ]
