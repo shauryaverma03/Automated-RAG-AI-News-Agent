@@ -242830,5 +242830,157 @@
         "published": "Tue, 26 May 2026 10:34:37 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The AI and deeptech-focused fund, backed by Nandan Nilekani as anchor investor, will invest in startups operating across consumer, enterprise, and physical AI segments."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+        "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+        "link": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+        "published": "Tue, 26 May 2026 22:55:01 +0000",
+        "source": "TechCrunch",
+        "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+        "title": "Did the Pope use AI to write about the dangers of AI?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+        "published": "2026-05-26T20:38:11-04:00",
+        "source": "The Verge",
+        "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]"
+    },
+    {
+        "id": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+        "title": "The just-say-no engineer was a ZIRP phenomenon",
+        "link": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+        "published": "Wed, 27 May 2026 03:56:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48289439\">Comments</a>"
+    },
+    {
+        "id": "https://developers.cloudflare.com/flagship/",
+        "title": "Cloudflare Flagship",
+        "link": "https://developers.cloudflare.com/flagship/",
+        "published": "Tue, 26 May 2026 23:36:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48287468\">Comments</a>"
+    },
+    {
+        "id": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+        "title": "Where does next-token prediction leave us?",
+        "link": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+        "published": "Wed, 27 May 2026 01:10:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48288191\">Comments</a>"
+    },
+    {
+        "id": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+        "title": "The Forgotten Art of the LAN Party (2023)",
+        "link": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+        "published": "Sat, 23 May 2026 19:01:13 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48250300\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/aerion-my-new-favorite-email-client/",
+        "title": "I've tried so many Linux email clients - why Aerion just replaced Geary as my top pick",
+        "link": "https://www.zdnet.com/article/aerion-my-new-favorite-email-client/",
+        "published": "Wed, 27 May 2026 02:00:47 GMT",
+        "source": "Latest news",
+        "summary": "A cross-platform app for Linux, MacOS and Windows, Aerion supports all the features I need, without any extra clutter."
+    },
+    {
+        "id": "https://www.zdnet.com/article/bash-vs-fish-which-linux-shells-makes-using-the-command-line-easier/",
+        "title": "Bash vs. Fish? I've tried both Linux shells, and one makes using the command line much easier",
+        "link": "https://www.zdnet.com/article/bash-vs-fish-which-linux-shells-makes-using-the-command-line-easier/",
+        "published": "Wed, 27 May 2026 01:00:37 GMT",
+        "source": "Latest news",
+        "summary": "Replacing your current Linux shell with something way more user-friendly is a lot easier than you think. Let's go Fish!"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/byju-raveendran-says-settlement-near-after-singapore-court-contempt-order/articleshow/131341870.cms",
+        "title": "Byju Raveendran says settlement near after Singapore court contempt order",
+        "link": "https://economictimes.indiatimes.com/tech/technology/byju-raveendran-says-settlement-near-after-singapore-court-contempt-order/articleshow/131341870.cms",
+        "published": "Wed, 27 May 2026 10:27:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Byju Raveendran announced a settlement in principle with lenders like GLAS Trust and Qatar Investment Authority, following a Singapore court's contempt ruling. He stated the court proceedings created a misleading impression, as parties were nearing a comprehensive settlement and no wrongdoing was found on his part or other founders'."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-joins-1-trillion-club-after-samsung-micron-on-ai-chip-boom/articleshow/131341126.cms",
+        "title": "SK Hynix joins $1 trillion club after Samsung, Micron on AI chip boom",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sk-hynix-joins-1-trillion-club-after-samsung-micron-on-ai-chip-boom/articleshow/131341126.cms",
+        "published": "Wed, 27 May 2026 09:24:02 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SK Hynix has crossed the $1 trillion market value mark. This milestone follows similar achievements by rivals Samsung Electronics and Micron Technology. The surge is driven by strong demand for AI memory chips. This has boosted South Korea's KOSPI index to record highs. Investors are showing significant interest in semiconductor stocks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/byjus-founder-raveendran-sentenced-to-six-months-in-jail-for-contempt-of-court/articleshow/131340914.cms",
+        "title": "Byju\u2019s founder Raveendran sentenced to six months in jail for contempt of court",
+        "link": "https://economictimes.indiatimes.com/tech/technology/byjus-founder-raveendran-sentenced-to-six-months-in-jail-for-contempt-of-court/articleshow/131340914.cms",
+        "published": "Wed, 27 May 2026 08:41:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Byju Raveendran, founder of the failed Indian tech firm Byju's, has been sentenced to six months in jail by a Singapore court for contempt. The court found he disobeyed multiple orders concerning his assets. This latest setback comes as foreign investors, including Qatar Investment Authority, pursue him globally to recover losses."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-to-spend-150-billion-a-year-in-taiwan-epicentre-of-ai-revolution-says-ceo/articleshow/131340703.cms",
+        "title": "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-to-spend-150-billion-a-year-in-taiwan-epicentre-of-ai-revolution-says-ceo/articleshow/131340703.cms",
+        "published": "Wed, 27 May 2026 08:37:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Nvidia CEO Jensen Huang declared Taiwan the heart of the AI revolution. He believes the island will be a global technology manufacturing center for years. Huang announced plans for Nvidia's new Taiwan headquarters. Groundbreaking is set for this year. The facility is expected to be operational by 2030. This marks a significant future investment."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indias-gcc-model-shifts-from-cost-to-capability-as-ai-talent-strains-bite/articleshow/131340443.cms",
+        "title": "India's GCC model shifts from cost to capability as AI, talent strains bite",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indias-gcc-model-shifts-from-cost-to-capability-as-ai-talent-strains-bite/articleshow/131340443.cms",
+        "published": "Wed, 27 May 2026 08:31:00 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's dominance in global capability centres is evolving.  These hubs are now integrated, managing complex functions beyond support.  Rising costs and talent shortages present challenges.  Artificial intelligence is poised to reshape operations, demanding adaptation.  India's future edge depends on its ability to adjust to these changes and global competition."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/snabbit-instant-salon-at-home-services-challenge-urban-company",
+        "title": "Snabbit bets on instant salon-at-home services to take on Urban Company\u2019s appointment-led model. Will it work?",
+        "link": "https://yourstory.com/2026/05/snabbit-instant-salon-at-home-services-challenge-urban-company",
+        "published": "Wed, 27 May 2026 03:41:52 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The quick home services startup is now betting on beauty as a high-frequency category. Industry experts believe this could unlock impulse-driven demand, but training, trust, and service quality are key if Snabbit has to crack the category."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/how-vcs-are-redefining-success-metrics-in-early-stage-investing",
+        "title": "How VCs are redefining success metrics in early-stage investing",
+        "link": "https://yourstory.com/2026/05/how-vcs-are-redefining-success-metrics-in-early-stage-investing",
+        "published": "Wed, 27 May 2026 03:05:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "As AI reshapes startup building and capital becomes more selective, investors are increasingly prioritising sustainable growth, capital efficiency, and founder adaptability over topline growth alone."
+    },
+    {
+        "id": "https://yourstory.com/2026/05/firstcry-losses-down-61-while-revenues-up-12-in-q4-of-fy26",
+        "title": "FirstCry losses narrow 61% while revenue rises 12% in Q4 of FY26",
+        "link": "https://yourstory.com/2026/05/firstcry-losses-down-61-while-revenues-up-12-in-q4-of-fy26",
+        "published": "Tue, 26 May 2026 16:29:28 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "FirstCry managed to bring down its losses while the revenue grew in double digits."
+    },
+    {
+        "id": "https://inc42.com/buzz/byju-raveendran-sentenced-to-six-months-jail-by-singapore-court-for-contempt/",
+        "title": "Byju Raveendran Sentenced To Six Months\u2019 Jail By Singapore Court",
+        "link": "https://inc42.com/buzz/byju-raveendran-sentenced-to-six-months-jail-by-singapore-court-for-contempt/",
+        "published": "Wed, 27 May 2026 04:11:51 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"byju&#039;s\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/BYJUS-bankruptcy.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Troubled edtech startup BYJU\u2019S founder Byju Raveendran has reportedly been sentenced to six months in jail by a Singapore court&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/d2c-in-repricing-mode-aequs-bleeds-in-q4-more/",
+        "title": "D2C In Repricing Mode, Aequs Bleeds In Q4 & More",
+        "link": "https://inc42.com/buzz/d2c-in-repricing-mode-aequs-bleeds-in-q4-more/",
+        "published": "Wed, 27 May 2026 02:30:44 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"D2C In Repricing Mode, Aequs Bleeds In Q4 &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/FTR-Daily-Brief-2026-05-26T235818.070.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Indian D2C Brands Rethink Pricing, Margins The war in West Asia has triggered crude oil spikes, packaging shortages and squeezed&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/ex-cars24-exec-himanshu-ratnoo-joins-emotorad-as-cofounder/",
+        "title": "Ex-CARS24 Exec Himanshu Ratnoo Joins EMotorad As Cofounder",
+        "link": "https://inc42.com/buzz/ex-cars24-exec-himanshu-ratnoo-joins-emotorad-as-cofounder/",
+        "published": "Wed, 27 May 2026 02:30:12 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Emotorad\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/feature-Image-1.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Mahendra Singh Dhoni-backed electric bicycle (ebike) startup EMotorad has roped in former CARS24 India CEO Himanshu Ratnoo as a cofounder.&#8230;"
     }
 ]
