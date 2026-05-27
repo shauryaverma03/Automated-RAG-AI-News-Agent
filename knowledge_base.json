@@ -243902,5 +243902,53 @@
         "published": "Thu, 28 May 2026 00:59:34 +0530",
         "source": "Tech-Economic Times",
         "summary": "Announcing the move in a post on LinkedIn, Bavi pointed to her long ties with the founder community. \"Founders have always held a special place in (my heart),\" she wrote. \"Their ambition, resilience and belief that they can change the world have taught me more than any other form of learning. That\u2019s why joining Anthropic as Head of Digital Natives, Startups &amp; Growth, India feels deeply meaningful.\""
+    },
+    {
+        "id": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+        "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
+        "link": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+        "published": "2026-05-27T18:30:02-04:00",
+        "source": "The Verge",
+        "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their now-unsealed complaint, prosecutors allege that Michele Spagnuolo \"knew the outcome of these wagers before the trading public did because he had accessed Google's confidential, [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/",
+        "title": "Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme",
+        "link": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/",
+        "published": "Wed, 27 May 2026 22:22:23 +0000",
+        "source": "WIRED",
+        "summary": "According to federal prosecutors, Michele Spagnuolo made more than $1 million on the prediction market platform using confidential information about Google Search traffic."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+        "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
+        "link": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
+        "published": "Wed, 27 May 2026 21:08:51 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "California civil rights agency hails win over Tesla, anticipates trial in July."
+    },
+    {
+        "id": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+        "title": "What Apple and Google are doing to push notifications",
+        "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+        "published": "Wed, 27 May 2026 19:24:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48299220\">Comments</a>"
+    },
+    {
+        "id": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
+        "title": "Internet Traffic in Iran Increasing",
+        "link": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
+        "published": "Wed, 27 May 2026 22:24:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48301603\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/05/physicswallah-fy26-revenue-rises-rs-3900-cr-ai-offline-profitability-focus",
+        "title": "PhysicsWallah FY26 revenue rises 35% to Rs 3,900 Cr as AI, offline profitability stay in focus",
+        "link": "https://yourstory.com/2026/05/physicswallah-fy26-revenue-rises-rs-3900-cr-ai-offline-profitability-focus",
+        "published": "Wed, 27 May 2026 14:52:46 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "PhysicsWallah improved profitability and operating cash flow in FY26, driven by rising paid users, offline expansion and AI-led efficiencies."
     }
 ]
