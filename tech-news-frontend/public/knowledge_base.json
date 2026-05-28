@@ -244318,5 +244318,317 @@
         "published": "Thu, 28 May 2026 07:55:04 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Motorola users reported Amazon app launches being redirected through affiliate tracking links tied to Smart Feed.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-motorola-amazon-app-affiliate-link-redirect/\">Explained: How Motorola phones were redirecting Amazon app clicks through affiliate links</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+        "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+        "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+        "published": "Thu, 28 May 2026 13:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "General Compute is betting SambaNova will be the next breakout chipmaker."
+    },
+    {
+        "id": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
+        "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
+        "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
+        "published": "Thu, 28 May 2026 12:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more."
+    },
+    {
+        "id": "https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c",
+        "title": "Qualcomm promises $300 Windows laptops with new Snapdragon C",
+        "link": "https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c",
+        "published": "2026-05-28T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "They started at $1,000. Then $700. Then $600 budget machines. Now, Qualcomm says the price of its Arm-based Windows laptops will hit $300 this year. Even though RAMageddon has yet to subside and PC prices keep climbing, the company says it's built a new budget laptop platform called Snapdragon C - \"C\" as in \"Compute\" [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+        "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
+        "link": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+        "published": "2026-05-28T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today, it's formally announcing them as the Arc G3 [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/938795/xiaomi-17t-pro-launch-specs-battery-price",
+        "title": "Xiaomi 17T Pro arrives with the company\u2019s biggest battery yet",
+        "link": "https://www.theverge.com/tech/938795/xiaomi-17t-pro-launch-specs-battery-price",
+        "published": "2026-05-28T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Xiaomi has announced the 17T and 17T Pro, two cheaper spins on its 17 series flagships. As is usual for the T-series, the focus is more on performance than photography, with the biggest batteries Xiaomi has included on any of its phones outside China yet. The 17T includes a 6,500mAh silicon-carbon battery, while the 17T [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on",
+        "title": "They\u2019ve finally made the Oura Ring smaller and lighter",
+        "link": "https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on",
+        "published": "2026-05-28T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Wherever I go, whatever I do, people point at my finger and ask, \"Is that an Oura Ring?\" Lots of people find they like the design, and they tell me why they're thinking about switching to a smart ring from a smartwatch. But the people who scrunch up their noses? They usually say something along [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
+        "title": "Kia\u2019s flagship EV has a battery problem",
+        "link": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
+        "published": "2026-05-28T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "I first realized there was an issue with Kia's flagship EV9 when I tried to unlock my car last year. The hulking three-row SUV was sitting on my driveway completely dead. The key didn't work, the app connection to the car was gone, and I was already late to an appointment. Luckily, I had prepared [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/oura-ring-5/",
+        "title": "Oura\u2019s New Ring 5 Is Smaller and Lighter\u2014and Adds an AI Health Coach",
+        "link": "https://www.wired.com/story/oura-ring-5/",
+        "published": "Thu, 28 May 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "It\u2019s slimmer, lighter, and more durable. But the real upgrade is Oura\u2019s push into AI-powered health insights and proactive monitoring."
+    },
+    {
+        "id": "https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/",
+        "title": "Cotopaxi Allpa 35L Travel Pack Del D\u00eda Dark: Sustainable and Chic",
+        "link": "https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/",
+        "published": "Thu, 28 May 2026 11:01:00 +0000",
+        "source": "WIRED",
+        "summary": "Created from fabric scraps that would otherwise end up in a landfill, this thoughtfully constructed bag looks great and can carry everything you need for a weeklong trip."
+    },
+    {
+        "id": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+        "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+        "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+        "published": "Thu, 28 May 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize."
+    },
+    {
+        "id": "https://www.wired.com/review/canon-eos-r6-mark-iii-camera/",
+        "title": "Canon EOS R6 Mark III Review: A Serious Upgrade",
+        "link": "https://www.wired.com/review/canon-eos-r6-mark-iii-camera/",
+        "published": "Thu, 28 May 2026 10:33:00 +0000",
+        "source": "WIRED",
+        "summary": "With sharper resolution and lightning-fast performance, Canon\u2019s latest full-frame mirrorless punches well above its class."
+    },
+    {
+        "id": "https://www.wired.com/story/us-researchers-ebola-trump-cut-their-funding/",
+        "title": "These Ebola Researchers Are Stuck in US Due to Trump\u2019s Funding Cuts",
+        "link": "https://www.wired.com/story/us-researchers-ebola-trump-cut-their-funding/",
+        "published": "Thu, 28 May 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "The Centers for Research in Emerging Infectious Diseases were launched during the Covid-19 pandemic. The group lost its funding under Trump in part due to conspiracy theories."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/",
+        "title": "Forecasters predict below-average hurricane season, advise against complacency",
+        "link": "https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/",
+        "published": "Thu, 28 May 2026 10:00:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Forecasters say expected El Ni\u00f1o should temper hurricanes in Atlantic, urge preparedness."
+    },
+    {
+        "id": "https://www.engadget.com/2182813/intel-arc-g-series-chips-will-power-a-new-generation-of-gaming-handhelds/",
+        "title": "Intel's Arc G-Series chips will power a new generation of gaming handhelds",
+        "link": "https://www.engadget.com/2182813/intel-arc-g-series-chips-will-power-a-new-generation-of-gaming-handhelds/",
+        "published": "Thu, 28 May 2026 13:40:29 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Intel isn't giving up on gaming handhelds: meet the new Arc G-Series chips for portable PC gaming."
+    },
+    {
+        "id": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
+        "title": "How to run a local AI chatbot on your iPhone",
+        "link": "https://www.engadget.com/2182517/how-to-run-local-ai-chatbot-iphone/",
+        "published": "Thu, 28 May 2026 13:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "There are many benefits to installing local AI chatbots on your iPhone, including offline performance and privacy."
+    },
+    {
+        "id": "https://www.engadget.com/2181878/oura-ring-5-thinner-smart-ring-price-launch-date/",
+        "title": "Oura's Ring 5 is a dramatically thinner smart ring",
+        "link": "https://www.engadget.com/2181878/oura-ring-5-thinner-smart-ring-price-launch-date/",
+        "published": "Thu, 28 May 2026 12:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Oura describes its new wearable as the 'world's smallest' smart ring."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+        "title": "The Download: climate tech goes public and the AI Hype Index returns",
+        "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+        "published": "Thu, 28 May 2026 12:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What\u2019s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+        "title": "Climate tech companies are going public. What\u2019s next?",
+        "link": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+        "published": "Thu, 28 May 2026 10:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This year, there\u2019s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+        "title": "The AI Hype Index: AI gets booed in graduation season",
+        "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+        "published": "Thu, 28 May 2026 09:51:11 +0000",
+        "source": "MIT Technology Review",
+        "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#8230;"
+    },
+    {
+        "id": "https://lenz.io/research/llm-disagreement",
+        "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+        "link": "https://lenz.io/research/llm-disagreement",
+        "published": "Thu, 28 May 2026 12:20:19 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48307887\">Comments</a>"
+    },
+    {
+        "id": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+        "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+        "link": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+        "published": "Thu, 28 May 2026 10:56:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=48307231\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-i-ditched-copilot-for-claude-in-word-excel-powerpoint/",
+        "title": "Why I ditched Copilot for Claude in Word, Excel, and PowerPoint - and how you can, too",
+        "link": "https://www.zdnet.com/article/how-i-ditched-copilot-for-claude-in-word-excel-powerpoint/",
+        "published": "Thu, 28 May 2026 13:10:13 GMT",
+        "source": "Latest news",
+        "summary": "Need AI help in Microsoft 365, but don't love Copilot? Claude AI can help you create, edit, and analyze documents. Here's how."
+    },
+    {
+        "id": "https://www.zdnet.com/article/nordvpn-combines-vpn-antivirus-in-one-app/",
+        "title": "NordVPN isn't just a VPN anymore, but a full security suite - here's what you get now",
+        "link": "https://www.zdnet.com/article/nordvpn-combines-vpn-antivirus-in-one-app/",
+        "published": "Thu, 28 May 2026 12:39:42 GMT",
+        "source": "Latest news",
+        "summary": "NordVPN argues that antivirus now means far more than it used to, so creating an app that combines VPN services with modern threat protection is the right path."
+    },
+    {
+        "id": "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/",
+        "title": "I'm an iPhone user, but Gemini with Android Auto beats Siri in the car any day - here's why",
+        "link": "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/",
+        "published": "Thu, 28 May 2026 12:31:00 GMT",
+        "source": "Latest news",
+        "summary": "Gemini can help with a variety of tasks when behind the wheel. All you need is an Android phone and a car with Android Auto."
+    },
+    {
+        "id": "https://www.zdnet.com/article/how-to-add-a-vpn-to-your-smart-tv/",
+        "title": "I set up a router-based VPN for my TV, and it's the cheap security fix it desperately needed",
+        "link": "https://www.zdnet.com/article/how-to-add-a-vpn-to-your-smart-tv/",
+        "published": "Thu, 28 May 2026 12:00:39 GMT",
+        "source": "Latest news",
+        "summary": "Installing a VPN on your smart TV blocks hackers from accessing your network and stealing your data. Here's how I set up mine."
+    },
+    {
+        "id": "https://www.zdnet.com/article/oura-ring-5-vs-oura-ring-4/",
+        "title": "Oura Ring 5 vs. Oura Ring 4: I compared the smart rings for health tracking - and it's very close",
+        "link": "https://www.zdnet.com/article/oura-ring-5-vs-oura-ring-4/",
+        "published": "Thu, 28 May 2026 12:00:00 GMT",
+        "source": "Latest news",
+        "summary": "Your favorite smart ring is getting slimmer. Is the Oura Ring 5 worth the upgrade? I break it down."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/kissht-revenues-jump-to-rs-619-crore-in-q4-net-profit-at-rs-82-crore/articleshow/131371716.cms",
+        "title": "Kissht revenues jump to Rs 619 crore in Q4, net profit at Rs 82 crore",
+        "link": "https://economictimes.indiatimes.com/tech/startups/kissht-revenues-jump-to-rs-619-crore-in-q4-net-profit-at-rs-82-crore/articleshow/131371716.cms",
+        "published": "Thu, 28 May 2026 19:14:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The consumer lending startup closed the full 2026 financial year with operating revenues of Rs 2,179 crore and a net profit of Rs 281 crore. This is the company\u2019s first quarterly result after being listed earlier this year."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/expecting-almost-8-10-gw-data-centre-capacity-in-and-around-hyderabad-telangana-special-chief-secy/articleshow/131371570.cms",
+        "title": "Expecting almost 8-10 GW data centre capacity in and around Hyderabad: Telangana Special Chief Secy",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/expecting-almost-8-10-gw-data-centre-capacity-in-and-around-hyderabad-telangana-special-chief-secy/articleshow/131371570.cms",
+        "published": "Thu, 28 May 2026 19:07:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Telangana is set to become a major data centre hub, with plans for eight to ten gigawatts of new capacity. The state administration is committed to providing reliable and clean energy. Lower construction costs compared to the US are attracting global hyperscalers. However, a skills gap in specialised areas needs addressing."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/swiggy-ceo-on-quick-commerce-space-indias-data-centre-surge/articleshow/131371311.cms",
+        "title": "Swiggy CEO on quick commerce space; India\u2019s data centre surge",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/swiggy-ceo-on-quick-commerce-space-indias-data-centre-surge/articleshow/131371311.cms",
+        "published": "Thu, 28 May 2026 19:07:24 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Swiggy group CEO Sriharsha Majety explains the outlook for the quick commerce industry, the shareholder vote hurdle and more, in today\u2019s ETtech Top 5."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-firm-mistral-announces-deals-with-bmw-airbus/articleshow/131371396.cms",
+        "title": "French AI firm Mistral announces deals with BMW, Airbus",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-ai-firm-mistral-announces-deals-with-bmw-airbus/articleshow/131371396.cms",
+        "published": "Thu, 28 May 2026 19:01:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "French AI company Mistral is forging new alliances with automotive giant BMW and aerospace leader Airbus. These collaborations aim to expand Mistral's reach into defense and industrial sectors. The company is also strengthening ties with chip equipment maker ASML. Mistral is building its own computing infrastructure to compete with global tech giants."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robots/articleshow/131370999.cms",
+        "title": "JD.com founder vows to protect Chinese jobs from AI and robots",
+        "link": "https://economictimes.indiatimes.com/tech/technology/jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robots/articleshow/131370999.cms",
+        "published": "Thu, 28 May 2026 18:47:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The company, which is one of the country\u2019s largest employers by headcount, will \u201cdo everything possible to safeguard employment for hundreds of thousands of staff, including blue-collar workers,\u201d Liu said in an internal speech on Wednesday, according to a video circulating on social media."
+    },
+    {
+        "id": "https://inc42.com/buzz/we-only-hire-for-jobs-ai-cant-do-s45-cofounder-aman-singh/",
+        "title": "We Only Hire For Jobs AI Can\u2019t Do: S45 Cofounder Aman Singh",
+        "link": "https://inc42.com/buzz/we-only-hire-for-jobs-ai-cant-do-s45-cofounder-aman-singh/",
+        "published": "Thu, 28 May 2026 13:25:52 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"We Only Hire For Jobs AI Can\u2019t Do: S45 Cofounder Aman Singh\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1021\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Inside-The-New-AI-Led-Fintech-Stack-Powering-Risk-Payments-And-Credit-At-Scale_Ftr0.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Artificial Intelligence has changed the way companies manage their workforce. Apart from shaving off the headcount, companies ar"
+    },
+    {
+        "id": "https://inc42.com/buzz/tbo-tek-q4-profit-almost-flat-at-%e2%82%b960-1-cr-revenue-up-82-6-yoy/",
+        "title": "TBO Tek Q4: Profit Almost Flat At \u20b960.1 Cr, Revenue Up 82.6% YoY",
+        "link": "https://inc42.com/buzz/tbo-tek-q4-profit-almost-flat-at-%e2%82%b960-1-cr-revenue-up-82-6-yoy/",
+        "published": "Thu, 28 May 2026 13:23:31 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"TBO Tek Q4: Profit Almost Flat At \u20b960.1 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/TBO-Tek-Q4-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />B2B travel tech company TBO Tek\u2019s consolidated net profit rose 2% to \u20b960.1 Cr in the fourth quarter of FY26&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/over-60-of-coding-at-rapido-is-done-by-ai-cofounder-rishikesh-sr/",
+        "title": "Over 60% of Coding At Rapido Is Done By AI: Cofounder Rishikesh SR",
+        "link": "https://inc42.com/buzz/over-60-of-coding-at-rapido-is-done-by-ai-cofounder-rishikesh-sr/",
+        "published": "Thu, 28 May 2026 12:41:44 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1021\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Ftr0-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />AI-assisted coding, even in enterprise setups, has become the norm. Ride-hailing platform Rapido is no different. According to Rishikesh SR,&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/data-distribution-will-be-the-moats-in-the-age-of-ai/",
+        "title": "Data, Distribution Will Be The Moats In The Age Of AI: PhonePe\u2019s Rahul Chari",
+        "link": "https://inc42.com/buzz/data-distribution-will-be-the-moats-in-the-age-of-ai/",
+        "published": "Thu, 28 May 2026 12:19:43 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Data, Distribution Will Be The Moats In The Age Of AI: PhonePe&#039;s Rahul Chari\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1021\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/How-PhonePe-Is-Rebuilding-The-Financial-Superapp-Around-Intent-Automation-And-Trust_Ftr0.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />As AI makes building and delivering functionality easier, PhonePe cofounder and CTO Rahul Chari belie"
+    },
+    {
+        "id": "https://inc42.com/buzz/zomato-launches-healthy-subscriptions-to-double-down-on-healthy-food-delivery/",
+        "title": "Zomato Launches \u2018Healthy Subscriptions\u2019 To Double Down On Clean Eating",
+        "link": "https://inc42.com/buzz/zomato-launches-healthy-subscriptions-to-double-down-on-healthy-food-delivery/",
+        "published": "Thu, 28 May 2026 11:57:20 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"zomato\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/04/zomato-CEO-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Eternal\u2019s food delivery arm Zomato has launched a new feature called \u201cHealthy Subscriptions\u201d under its Healthy Mode offering which enables&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/05/223-physicswallah-student-loan-business-repeat-byju-debt-trap/",
+        "title": "PhysicsWallah enters student loan business: Will it be a repeat of BYJU\u2019S debt trap?",
+        "link": "https://www.medianama.com/2026/05/223-physicswallah-student-loan-business-repeat-byju-debt-trap/",
+        "published": "Thu, 28 May 2026 12:35:11 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>PhysicsWallah has invested Rs 120 crore in FinZ Finance, its subsidiary, which will provide short-term loans to 70% of its own students and the remaining 30% to outsiders, raising fears of mis-selling like BYJU'S.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-physicswallah-student-loan-business-repeat-byju-debt-trap/\">PhysicsWallah enters student loan business: Will it be a repeat of BYJU&#8217;S debt trap?</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</"
+    },
+    {
+        "id": "https://www.medianama.com/2026/05/223-youtube-ai-content-labels-visible-adds-auto-detection-undisclosed-ai-videos/",
+        "title": "YouTube makes AI content labels more visible, adds auto-detection for undisclosed AI videos",
+        "link": "https://www.medianama.com/2026/05/223-youtube-ai-content-labels-visible-adds-auto-detection-undisclosed-ai-videos/",
+        "published": "Thu, 28 May 2026 12:14:14 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>YouTube has updated its AI content labelling policy from May 2026, making disclosures more prominent and introducing auto-detection for AI-generated content even when creators fail to disclose it.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-youtube-ai-content-labels-visible-adds-auto-detection-undisclosed-ai-videos/\">YouTube makes AI content labels more visible, adds auto-detection for undisclosed AI videos</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA"
+    },
+    {
+        "id": "https://www.medianama.com/2026/05/223-rbi-forms-q-safe-quantum-technology-committee/",
+        "title": "RBI sets up Q-SAFE: Expert committee to evaluate uses and security risks of quantum technology",
+        "link": "https://www.medianama.com/2026/05/223-rbi-forms-q-safe-quantum-technology-committee/",
+        "published": "Thu, 28 May 2026 11:44:04 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Quantum computing could change banking forever, and RBI is already preparing for it. Here\u2019s what\u2019s happening.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/05/223-rbi-forms-q-safe-quantum-technology-committee/\">RBI sets up Q-SAFE: Expert committee to evaluate uses and security risks of quantum technology</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
