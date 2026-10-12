@@ -397294,5 +397294,373 @@
         "published": "Mon, 12 Oct 2026 06:31:00 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Anthropic reported that, during testing, its Claude AI submitted a false homicide tip to Philadelphia police. In response, the FTC advised AI companies to report such incidents and take steps to prevent harm.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-claude-false-murder-tip-testing/\">Claude AI sent a false murder tip to US police during testing; Anthropic took 2 months to detect it</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "title": "Meta releases its first frontier model, Muse Wonder",
+        "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "published": "Mon, 12 Oct 2026 17:56:56 +0000",
+        "source": "TechCrunch",
+        "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+        "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+        "published": "Mon, 12 Oct 2026 17:19:14 +0000",
+        "source": "TechCrunch",
+        "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "published": "Mon, 12 Oct 2026 15:45:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "published": "Mon, 12 Oct 2026 15:31:19 +0000",
+        "source": "TechCrunch",
+        "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "published": "Mon, 12 Oct 2026 15:27:59 +0000",
+        "source": "TechCrunch",
+        "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "title": "Meta has some Wonder Full new AI models",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "published": "2026-10-12T13:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+        "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+        "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+        "published": "2026-10-12T12:52:54-04:00",
+        "source": "The Verge",
+        "summary": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funneled into the Senate [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+        "title": "The Yandex outage probably didn\u2019t blitz Russian bots",
+        "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+        "published": "2026-10-12T11:43:07-04:00",
+        "source": "The Verge",
+        "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+        "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
+        "link": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+        "published": "2026-10-12T11:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineup of mounts. You could already mount the Switch 2 in numerous [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+        "title": "Android is the best and worst thing about Googlebooks",
+        "link": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+        "published": "2026-10-12T10:00:00-04:00",
+        "source": "The Verge",
+        "summary": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+        "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+        "link": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+        "published": "Mon, 12 Oct 2026 17:55:12 +0000",
+        "source": "WIRED",
+        "summary": "Musk, we find your lack of security disturbing."
+    },
+    {
+        "id": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+        "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+        "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+        "published": "Mon, 12 Oct 2026 17:00:27 +0000",
+        "source": "WIRED",
+        "summary": "Meta\u2019s biggest model rivals the world\u2019s best\u2014and includes new features to keep agents from going off the rails."
+    },
+    {
+        "id": "https://www.wired.com/story/new-york-comic-con-star-trek/",
+        "title": "\u2018The Sixty-Year Mission\u2019 Brings the Legacy of \u2018Star Trek\u2019 to a New Generation",
+        "link": "https://www.wired.com/story/new-york-comic-con-star-trek/",
+        "published": "Mon, 12 Oct 2026 13:30:00 +0000",
+        "source": "WIRED",
+        "summary": "The documentary chronicles how Star Trek\u2019s positions on everything from race to AI were way ahead of their time."
+    },
+    {
+        "id": "https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/",
+        "title": "Google Fitbit Edge: Specs, Features, Price, Release Date",
+        "link": "https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+        "title": "Russia was not ready for the data center war it started with Ukraine",
+        "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+        "published": "Mon, 12 Oct 2026 17:52:36 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Russian bloggers warn Russia\u2019s hyper-centralized digital economy is vulnerable."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+        "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+        "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+        "published": "Mon, 12 Oct 2026 16:01:08 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
+        "title": "F1 in Singapore: There's a new fastest car now",
+        "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
+        "published": "Mon, 12 Oct 2026 14:43:14 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Also, F1\u2019s final sprint saw our first real wet racing of the year."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+        "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+        "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+        "published": "Mon, 12 Oct 2026 13:00:52 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+        "title": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+        "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+        "published": "Mon, 12 Oct 2026 12:43:10 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The second-largest corporate employer has bet big on robot workers to scale."
+    },
+    {
+        "id": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
+        "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
+        "link": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
+        "published": "Mon, 12 Oct 2026 18:51:52 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The models add \"active memory\" and \"active focus\" abilities."
+    },
+    {
+        "id": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
+        "title": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
+        "link": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
+        "published": "Mon, 12 Oct 2026 18:34:57 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Xandr has three weeks to appeal the record penalty."
+    },
+    {
+        "id": "https://www.engadget.com/2281495/how-to-find-your-amazon-about-you-page-and-how-to-edit-it/",
+        "title": "How to find your Amazon 'About You' page (and how to edit it)",
+        "link": "https://www.engadget.com/2281495/how-to-find-your-amazon-about-you-page-and-how-to-edit-it/",
+        "published": "Mon, 12 Oct 2026 18:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "See if Amazon thinks you have \"flat buttocks.\""
+    },
+    {
+        "id": "https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/",
+        "title": "What's the difference between alkaline and lithium-ion batteries?",
+        "link": "https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/",
+        "published": "Mon, 12 Oct 2026 18:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use."
+    },
+    {
+        "id": "https://www.engadget.com/2284218/2027-rivian-r2-review/",
+        "title": "2027 Rivian R2 review: The Goldilocks electric SUV",
+        "link": "https://www.engadget.com/2284218/2027-rivian-r2-review/",
+        "published": "Mon, 12 Oct 2026 17:39:22 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "It's not too big, it's not too small and it's not too expensive. It's just right."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+        "title": "The Download: moon city problems and drone traffic controllers",
+        "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+        "published": "Mon, 12 Oct 2026 12:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#8230;"
+    },
+    {
+        "id": "https://github.com/openai/codex/issues/48195",
+        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+        "link": "https://github.com/openai/codex/issues/48195",
+        "published": "Mon, 12 Oct 2026 18:29:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50060694\">Comments</a>"
+    },
+    {
+        "id": "https://z.ai/blog/glm-legal",
+        "title": "GLM-Legal",
+        "link": "https://z.ai/blog/glm-legal",
+        "published": "Mon, 12 Oct 2026 16:11:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50058507\">Comments</a>"
+    },
+    {
+        "id": "https://prophitt.me/writing/a-modern-web-app-in-c",
+        "title": "A Modern Web App in C",
+        "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+        "published": "Mon, 12 Oct 2026 16:13:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50058528\">Comments</a>"
+    },
+    {
+        "id": "https://www.anthropic.com/research/self-replicating-ai",
+        "title": "AI models may be capable of self-replicating without access to a datacenter",
+        "link": "https://www.anthropic.com/research/self-replicating-ai",
+        "published": "Mon, 12 Oct 2026 19:25:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50061603\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
+        "title": "Claude sent a false homicide tip to police \u2013 and it\u2019s part of a troubling AI pattern",
+        "link": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
+        "published": "2026-10-12T17:45:44Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?"
+    },
+    {
+        "id": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
+        "title": "Google\u2019s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
+        "link": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
+        "published": "2026-10-12T13:00:00Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Google\u2019s watches are too dang chunky."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-administration-plans-to-move-ai-testing-agency-officials-to-white-house-the-information/articleshow/134901531.cms",
+        "title": "Trump administration plans to move AI testing agency officials to White House: The Information",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-administration-plans-to-move-ai-testing-agency-officials-to-white-house-the-information/articleshow/134901531.cms",
+        "published": "Tue, 13 Oct 2026 00:29:49 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Trump administration is planning to move three senior officials of the Center for Advancing Innovation and Standards for Super Intelligence to the White House, The Information reported on Monday, citing a White House official."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-given-access-to-safety-test-latest-ai-models-minister-says/articleshow/134901262.cms",
+        "title": "UK given access to safety-test latest AI models, minister says",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-given-access-to-safety-test-latest-ai-models-minister-says/articleshow/134901262.cms",
+        "published": "Tue, 13 Oct 2026 00:09:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Scrutiny of AI safety has intensified after developers including Anthropic and OpenAI disclosed instances of rogue or undesired behaviour by AI agents. Some industry figures have warned the technology could pose an existential threat to humanity."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/dating-app-bumble-in-advanced-talks-to-go-private-at-1-billion-valuation-source-says/articleshow/134901210.cms",
+        "title": "Dating app Bumble in advanced talks to go private at $1 billion valuation, source says",
+        "link": "https://economictimes.indiatimes.com/tech/startups/dating-app-bumble-in-advanced-talks-to-go-private-at-1-billion-valuation-source-says/articleshow/134901210.cms",
+        "published": "Tue, 13 Oct 2026 00:06:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Shares of Bumble rose around 21% in afternoon trading. Reuters exclusively reported earlier this year that Bumble is exploring a sale amid slowing growth in the online dating \u200bsector."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-releases-muse-wonder-ai-models-to-challenge-anthropic-and-openai/articleshow/134901136.cms",
+        "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-releases-muse-wonder-ai-models-to-challenge-anthropic-and-openai/articleshow/134901136.cms",
+        "published": "Tue, 13 Oct 2026 00:04:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The launch comes after CEO Mark Zuckerberg pledged billions of dollars and aggressively poached researchers over the past year to catch up in Silicon Valley's intensifying AI race."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/qualcomm-sells-nearly-1-stake-in-shadowfax-technologies-for-rs-157-crore/articleshow/134897975.cms",
+        "title": "Qualcomm sells nearly 1% stake in Shadowfax Technologies for Rs 157 crore",
+        "link": "https://economictimes.indiatimes.com/tech/technology/qualcomm-sells-nearly-1-stake-in-shadowfax-technologies-for-rs-157-crore/articleshow/134897975.cms",
+        "published": "Mon, 12 Oct 2026 21:41:01 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Qualcomm Ventures, through its affiliate Qualcomm Asia Pacific Pte Ltd, sold a little over 57.13 lakh shares, representing a 0.98% stake, in Bengaluru-based Shadowfax Technologies, according to bulk deal data on the BSE."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/psychological-safety-workplace-energy-infrastructure-risk-management",
+        "title": "Why Psychological Safety Is a High-Performance Strategy",
+        "link": "https://yourstory.com/2026/10/psychological-safety-workplace-energy-infrastructure-risk-management",
+        "published": "Mon, 12 Oct 2026 08:43:36 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Psychological safety helps infrastructure teams raise risks early, challenge assumptions and protect projects, people and capital."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/lessons-dreams-growth",
+        "title": "5 Must-read lessons from Endless Dream by Gigi Ganguly",
+        "link": "https://yourstory.com/2026/10/lessons-dreams-growth",
+        "published": "Mon, 12 Oct 2026 14:34:40 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Explore five lessons inspired by Endless Dream by Gigi Ganguly, from believing in your dreams to embracing uncertainty and personal growth."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/lessons-susbtainable-career",
+        "title": "5 Lessons from The Average Advantage by Utsav Malhotra",
+        "link": "https://yourstory.com/2026/10/lessons-susbtainable-career",
+        "published": "Mon, 12 Oct 2026 14:17:22 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover 5 lessons from Utsav Malhotra\u2019s The Average Advantage on sustainable success, consistency, ambition and building a meaningful career."
+    },
+    {
+        "id": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+        "title": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying \u20b97,131 Cr To Strengthen Deeptech Startups",
+        "link": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+        "published": "Mon, 12 Oct 2026 16:18:56 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"rdi fund first cohort\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/deeptech.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Central government-backed \u20b91 Lakh Cr Research, Development and Innovation (RDI) Fund has approved 19 second-level fund managers (SLFMs) with a&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/nazara-top-deck-shuffle-founder-mittersain-steps-down-as-md-caratlanes-sacheti-takes-executive-role/",
+        "title": "Nazara Top Deck Shuffle: Founder Mittersain Steps Down As MD; Caratlane\u2019s Sacheti Takes Executive Role",
+        "link": "https://inc42.com/buzz/nazara-top-deck-shuffle-founder-mittersain-steps-down-as-md-caratlanes-sacheti-takes-executive-role/",
+        "published": "Mon, 12 Oct 2026 15:37:51 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Nazara-ftr-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Listed gaming major Nazara Technologies announced a major leadership reshuffle today, highlighted by founder Nitish Mittersain stepping down as the&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/manufacturing-startup-whizzo-to-raise-26-mn-from-aavishkar-capital-bertelsmann/",
+        "title": "Whizzo To Raise $26 Mn From Aavishkaar Capital, Bertelsmann",
+        "link": "https://inc42.com/buzz/manufacturing-startup-whizzo-to-raise-26-mn-from-aavishkar-capital-bertelsmann/",
+        "published": "Mon, 12 Oct 2026 15:32:18 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Manufacturing Startup Whizzo To Raise $26 Mn From Aavishkar Capital, Bertelsmann\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Whizzo-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Bengaluru-based Whizzo is in talks to raise around $26 Mn in its Series B funding round which could be co-led&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/pharmeasy-parent-api-holdings-fy26-loss-declines-67-yoy-to-%e2%82%b9520-cr/",
+        "title": "PharmEasy Parent API Holdings\u2019 FY26 Loss Declines 67% YoY To \u20b9520 Cr",
+        "link": "https://inc42.com/buzz/pharmeasy-parent-api-holdings-fy26-loss-declines-67-yoy-to-%e2%82%b9520-cr/",
+        "published": "Mon, 12 Oct 2026 13:41:35 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"PharmEasy Parent API Holdings\u2019 FY26 Loss Declines 67% YoY To \u20b9520 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Artboard-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />PharmEasy parent API Holdings narrowed its consolidated net loss by 67% to \u20b9520 Cr in the fiscal year ended March&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-stolen-domains-udrp-registrar-account-security/",
+        "title": "Stolen domains: what two UDRP decisions reveal about registrar account security",
+        "link": "https://www.medianama.com/2026/10/223-stolen-domains-udrp-registrar-account-security/",
+        "published": "Mon, 12 Oct 2026 13:30:32 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Both Shri Dharmasthala &#038; Indira IVF's domains were transferred out of their respective owners' registrar accounts without their knowledge, but the sites kept working for weeks, making them unaware of the fraud. Here's what their UDRP complaint revealed about registrar account security. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-stolen-domains-udrp-registrar-account-security/\">Stolen domains: what two UDRP decisions reveal about registrar account security</a> appeared"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-widespread-use-gmail-public-function-delhi-hc/",
+        "title": "Widespread use doesn\u2019t make Gmail a public function, says Delhi HC in account blocking case",
+        "link": "https://www.medianama.com/2026/10/223-widespread-use-gmail-public-function-delhi-hc/",
+        "published": "Mon, 12 Oct 2026 12:20:42 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The Delhi High Court dismissed a petition seeking restoration of a disabled Gmail account, ruling that Google's email services do not constitute a public function, raising questions about user recourse.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-widespread-use-gmail-public-function-delhi-hc/\">Widespread use doesn\u2019t make Gmail a public function, says Delhi HC in account blocking case</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-delhi-police-meta-ai-glasses-oct-10/",
+        "title": "Delhi Police spotted with Meta AI glasses during Oct 10 protest, compounding privacy concerns",
+        "link": "https://www.medianama.com/2026/10/223-delhi-police-meta-ai-glasses-oct-10/",
+        "published": "Mon, 12 Oct 2026 10:44:17 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The reported use of Meta AI glasses by Delhi Police at the Oct 10 protests has raised questions about surveillance and whether police personnels can wear smart glasses on duty and record people without authorization. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-delhi-police-meta-ai-glasses-oct-10/\">Delhi Police spotted with Meta AI glasses during Oct 10 protest, compounding privacy concerns</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
