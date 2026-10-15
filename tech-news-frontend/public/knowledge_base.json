@@ -400830,5 +400830,189 @@
         "published": "Thu, 15 Oct 2026 16:29:25 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Discover five must-read nonfiction books before 2026 ends, exploring Indian politics, Kashmir, scams, archaeology and wildlife conservation."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+        "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+        "published": "Thu, 15 Oct 2026 20:38:13 +0000",
+        "source": "TechCrunch",
+        "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "published": "Thu, 15 Oct 2026 20:04:53 +0000",
+        "source": "TechCrunch",
+        "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "published": "Thu, 15 Oct 2026 19:55:25 +0000",
+        "source": "TechCrunch",
+        "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "title": "ChatGPT can peek at your Chrome tabs now",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "published": "2026-10-15T18:43:23-04:00",
+        "source": "The Verge",
+        "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+        "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+        "published": "2026-10-15T18:35:55-04:00",
+        "source": "The Verge",
+        "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+        "title": "The tech backlash is now in theaters",
+        "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+        "published": "2026-10-15T17:39:52-04:00",
+        "source": "The Verge",
+        "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+        "title": "Trump posts AI-edited photo to brag about White House restoration work",
+        "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+        "published": "2026-10-15T17:09:33-04:00",
+        "source": "The Verge",
+        "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+        "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+        "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+        "published": "2026-10-15T15:57:16-04:00",
+        "source": "The Verge",
+        "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+        "title": "We Got Hot and Heavy With Meta\u2019s Muse\u2014and Baffled by Apple\u2019s HomeView",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+        "published": "Thu, 15 Oct 2026 21:18:15 +0000",
+        "source": "WIRED",
+        "summary": "This week on \u201cUncanny Valley,\u201d we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men\u2019s tendency to lie about how much they know about AI."
+    },
+    {
+        "id": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+        "title": "AI Hacks Leave a Mess That AI Companies Aren\u2019t Paying For",
+        "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+        "published": "Thu, 15 Oct 2026 21:00:28 +0000",
+        "source": "WIRED",
+        "summary": "Powerful AI models continue to cause chaos, but their targets aren\u2019t widely seeking justice. Instead, they\u2019re being encouraged to adopt those same tools."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+        "title": "Plex now helps sell movie theater tickets",
+        "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+        "published": "Thu, 15 Oct 2026 21:22:15 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Discovery data from Plex users will help studios, advertisers."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+        "title": "Hegseth\u2019s dubious low-T screening may flag up to 25 percent of the Army",
+        "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+        "published": "Thu, 15 Oct 2026 21:09:57 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Medical experts explicitly recommend against blanket screenings."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+        "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+        "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+        "published": "Thu, 15 Oct 2026 20:32:41 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
+        "title": "Above the 911? Porsche previews a new mid-engined supercar.",
+        "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
+        "published": "Thu, 15 Oct 2026 20:30:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Porsche\u2019s turnaround plan for 2035 involves less volume but more expensive cars."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+        "title": "What did the Liberty Bell sound like? Science is on the case.",
+        "link": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+        "published": "Thu, 15 Oct 2026 19:10:03 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend."
+    },
+    {
+        "id": "https://www.engadget.com/2288294/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/",
+        "title": "The UK may expand the BBC license fee, charging residents to watch streaming services",
+        "link": "https://www.engadget.com/2288294/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/",
+        "published": "Thu, 15 Oct 2026 21:35:08 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "If the proposal is enacted, it could cost $240 a year to watch YouTube in the UK."
+    },
+    {
+        "id": "https://www.engadget.com/2288193/ny-congressman-to-introduce-bill-protecting-video-game-ownership/",
+        "title": "NY congressman to introduce bill protecting video game ownership",
+        "link": "https://www.engadget.com/2288193/ny-congressman-to-introduce-bill-protecting-video-game-ownership/",
+        "published": "Thu, 15 Oct 2026 20:15:05 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Representative Ritchie Torres wants the FTC to establish regulations ensuring you can play the games you've purchased."
+    },
+    {
+        "id": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "title": "What I Self-Host",
+        "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "published": "Thu, 15 Oct 2026 20:23:25 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50109715\">Comments</a>"
+    },
+    {
+        "id": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+        "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
+        "link": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+        "published": "Thu, 15 Oct 2026 22:11:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50111112\">Comments</a>"
+    },
+    {
+        "id": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+        "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+        "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+        "published": "Thu, 15 Oct 2026 19:21:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50108872\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/inside-sebis-10-key-proposed-changes-to-sme-ipo-rules/",
+        "title": "Inside SEBI\u2019s 10 Key Proposed Changes To SME IPO Rules",
+        "link": "https://inc42.com/buzz/inside-sebis-10-key-proposed-changes-to-sme-ipo-rules/",
+        "published": "Thu, 15 Oct 2026 21:49:36 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ftr-10.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Securities and Exchange Board of India (SEBI) has proposed sweeping changes to the rules governing initial public offerings (IPOs)&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/flipkart-group-fy26-revenue-nears-%e2%82%b91-5-lakh-cr-loss-narrows-to-%e2%82%b98468-cr/",
+        "title": "Flipkart Group FY26: Revenue Nears \u20b91.5 Lakh Cr, Loss Narrows To \u20b98,468 Cr",
+        "link": "https://inc42.com/buzz/flipkart-group-fy26-revenue-nears-%e2%82%b91-5-lakh-cr-loss-narrows-to-%e2%82%b98468-cr/",
+        "published": "Thu, 15 Oct 2026 20:00:47 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Flipkart Group&#039;s Revenue Nears \u20b91.5 Lakh Cr In FY26\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Flipkart-Internet-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Flipkart Group reported an 18.2% jump in consolidated revenue from operations to \u20b91.45 Lakh Cr in the fiscal year 2025-26&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/origin-bags-20-mn-to-build-autonomous-construction-robots/",
+        "title": "Origin Bags $20 Mn To Build Autonomous Construction Robots",
+        "link": "https://inc42.com/buzz/origin-bags-20-mn-to-build-autonomous-construction-robots/",
+        "published": "Thu, 15 Oct 2026 19:15:59 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Origin Bags $20 Mn To Build Autonomous Construction Robots\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/origin-funding-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Emerging out of stealth mode, robotics startup Origin has raised $20 Mn (around \u20b9189 Cr) in a funding round co-led&#8230;"
     }
 ]
