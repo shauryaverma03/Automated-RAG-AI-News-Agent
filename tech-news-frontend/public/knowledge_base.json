@@ -399934,5 +399934,117 @@
         "published": "Wed, 14 Oct 2026 23:59:37 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=50097369\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "title": "Figma announces new features to define how agents work on its platform",
+        "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "published": "Thu, 15 Oct 2026 04:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Figma is also releasing its code layers feature in open beta."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "published": "Thu, 15 Oct 2026 01:01:32 +0000",
+        "source": "TechCrunch",
+        "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+        "title": "Flock CEO defends surveillance technology amid national backlash: \u2018We shouldn\u2019t pause progress\u2019",
+        "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+        "published": "Thu, 15 Oct 2026 00:49:31 +0000",
+        "source": "TechCrunch",
+        "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+        "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+        "published": "Thu, 15 Oct 2026 00:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "It\u2019s time to unveil the five companies that will be competing in the Startup Battlefield finals."
+    },
+    {
+        "id": "https://www.wired.com/story/abt-promo-code/",
+        "title": "ABT Promo Codes & Discounts for October 2026",
+        "link": "https://www.wired.com/story/abt-promo-code/",
+        "published": "Thu, 15 Oct 2026 05:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in October 2026."
+    },
+    {
+        "id": "https://mapwriting.substack.com/p/dentists",
+        "title": "Do dentists know what they're doing?",
+        "link": "https://mapwriting.substack.com/p/dentists",
+        "published": "Mon, 12 Oct 2026 02:21:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50050553\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-financial-watchdog-calls-for-more-human-oversight-of-agentic-ai/articleshow/134957794.cms",
+        "title": "Global financial watchdog calls for more human oversight of agentic AI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-financial-watchdog-calls-for-more-human-oversight-of-agentic-ai/articleshow/134957794.cms",
+        "published": "Thu, 15 Oct 2026 10:28:09 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Financial Stability Board (FSB), a global standard setter, has called for greater human oversight of agentic AI in final guidance for banks and other firms on managing the technology's risks."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/asml-will-be-unable-to-meet-ai-driven-customer-demand-in-2027-2028/articleshow/134957362.cms",
+        "title": "ASML will be unable to meet AI-driven customer demand in 2027, 2028",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/asml-will-be-unable-to-meet-ai-driven-customer-demand-in-2027-2028/articleshow/134957362.cms",
+        "published": "Thu, 15 Oct 2026 10:01:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The biggest maker of equipment needed to manufacture computer chips forecast sales for the fourth quarter of 2026 of \u20ac14.2 billion to \u20ac15.2 billion ($15.9 billion to $17.0 billion), above analyst expectations, with a gross margin of around 57%."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ibm-executive-warns-of-risk-of-quantum-computing-hacks/articleshow/134957140.cms",
+        "title": "IBM executive warns of risk of quantum computing hacks",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ibm-executive-warns-of-risk-of-quantum-computing-hacks/articleshow/134957140.cms",
+        "published": "Thu, 15 Oct 2026 09:44:22 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Organisations are unprepared for the risks posed by quantum computing, IBM's Europe and Africa vice-Wednesday, referring to the high-speed technology that could crack security encryptions and enable large-scale cyberattacks. I would say less than 10 percent today,\" Curioni said on the sidelines of a London conference organised by the American technology pioneer."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/australia-says-wont-let-big-tech-have-unfettered-access-to-kids/articleshow/134956713.cms",
+        "title": "Australia says won't let big tech have 'unfettered' access to kids",
+        "link": "https://economictimes.indiatimes.com/tech/technology/australia-says-wont-let-big-tech-have-unfettered-access-to-kids/articleshow/134956713.cms",
+        "published": "Thu, 15 Oct 2026 09:17:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Australia said Thursday it refused to allow big tech to have \"unfettered\" access to its kids as it formally introduced new legislation that would give users choice over what they see on their feeds. \"I wholeheartedly believe one day we will look back on Australia's minimum age for social media and think, 'I cannot believe we used to let big tech have unfettered access to our children'.\""
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
+        "title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china-sources-say/articleshow/134956254.cms",
+        "published": "Thu, 15 Oct 2026 08:53:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Trump administration is pressing SK Hynix, Samsung and other foreign chipmakers to build plants in the US in a drive to rebuild US manufacturing capacity and create jobs."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/tech30-mumbaisemi-high-quality-rf-chips",
+        "title": "MumbaiSemi aims to become a global supplier of high-quality RF chips",
+        "link": "https://yourstory.com/2026/10/tech30-mumbaisemi-high-quality-rf-chips",
+        "published": "Thu, 15 Oct 2026 04:47:53 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "IIT Bombay spinout MumbaiSemi has developed a prototype chip that can process signals from satellite navigation systems, including NavIC, GPS, Galileo, GLONASS, and BeiDou."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/techsparks-2026-day-3-agenda-speakers",
+        "title": "TechSparks 2026 Day 3: Here\u2019s all that\u2019s happening",
+        "link": "https://yourstory.com/2026/10/techsparks-2026-day-3-agenda-speakers",
+        "published": "Thu, 15 Oct 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "TechSparks 2026\u2019s final day features Zakir Khan, Prakash Belawadi, India\u2019s $100B AI opportunity, global alliances & climate tech."
+    },
+    {
+        "id": "https://inc42.com/buzz/indias-biggest-ipo-growws-q2-profit-run-more/",
+        "title": "India\u2019s Biggest IPO, Groww\u2019s Q2 Profit Run & More",
+        "link": "https://inc42.com/buzz/indias-biggest-ipo-growws-q2-profit-run-more/",
+        "published": "Thu, 15 Oct 2026 02:30:24 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"India\u2019s Biggest IPO, Groww\u2019s Q2 Profit Run &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-Daily-Brief-27.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Jio All Set For Its Mega IPO\u00a0 Reliance\u2019s digital crown is heading down the Dalal Street. In what could be&#8230;"
     }
 ]
