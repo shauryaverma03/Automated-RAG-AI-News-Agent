@@ -400254,5 +400254,317 @@
         "published": "Thu, 15 Oct 2026 07:25:49 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>A parliamentary committee has asked the government to assess how much Indian data is stored overseas and what this means for national security and data sovereignty.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-india-data-storage-gaps-parliament-panel/\">Where is India&#8217;s data stored, and what happens if it&#8217;s breached? Parliament&#8217;s External Affairs panel flags gaps</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "title": "AI agents are coming to Rivian\u2019s cars",
+        "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "published": "Thu, 15 Oct 2026 15:02:36 +0000",
+        "source": "TechCrunch",
+        "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+        "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+        "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+        "published": "Thu, 15 Oct 2026 14:47:09 +0000",
+        "source": "TechCrunch",
+        "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "title": "Google\u2019s Universal Cart shopping tool launches in the US",
+        "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "published": "Thu, 15 Oct 2026 14:29:33 +0000",
+        "source": "TechCrunch",
+        "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+        "title": "TechCrunch Disrupt 2026: Last day",
+        "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+        "published": "Thu, 15 Oct 2026 14:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
+        "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99."
+    },
+    {
+        "id": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+        "title": "Shelly\u2019s new presence sensor simultaneously detects up to 10 people without a camera",
+        "link": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+        "published": "2026-10-15T11:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave radar technology instead of a camera to detect the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud",
+        "title": "Microsoft\u2019s new Photos app combines your PC, OneDrive, and iCloud galleries",
+        "link": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud",
+        "published": "2026-10-15T10:53:38-04:00",
+        "source": "The Verge",
+        "summary": "Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining photos and videos from your PC, OneDrive, and iCloud into a single space. The new combined gallery experience aims to make it easier to manage and view your photos without jumping between apps or devices, while also improving [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming",
+        "title": "Trump calls off livestream of execution",
+        "link": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming",
+        "published": "2026-10-15T10:43:44-04:00",
+        "source": "The Verge",
+        "summary": "The execution of Fort Hood shooter Nidal Hasan will not be livestreamed as Secretary of Defense Pete Hegseth had previously announced. Donald Trump announced the plan was off in a post on Truth Social: I think streaming the execution for all to see might have been a strong deterrent for the World to witness how [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+        "title": "How Windows is being optimized for Nvidia\u2019s RTX Spark laptops",
+        "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+        "published": "2026-10-15T10:30:00-04:00",
+        "source": "The Verge",
+        "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+        "title": "An Israeli firm is sending spyware through online ads, researchers say",
+        "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+        "published": "2026-10-15T10:10:50-04:00",
+        "source": "The Verge",
+        "summary": "An Israeli ad tech firm worked with spyware companies to infect devices, including at Al Jazeera, by simply showing users an online ad, according to a joint investigation by security researchers at Citizen Lab and Confiant. It's the first time researchers have found technical evidence of a zero-click attack - a form of hacking that [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/new-york-comic-con-panel-2/",
+        "title": "Junji Ito\u2019s Manga Horrors Hit Harder as Live-Action TV",
+        "link": "https://www.wired.com/story/new-york-comic-con-panel-2/",
+        "published": "Thu, 15 Oct 2026 13:30:00 +0000",
+        "source": "WIRED",
+        "summary": "The artist\u2019s macabre short works have been adapted into eerily freaky 30-minute bites for television. We got a sneak preview of the next episode airing on HBO Max."
+    },
+    {
+        "id": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
+        "title": "Kids\u2019 Content Is Deeply Broken. A New Platform Wants to Fix It",
+        "link": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
+        "published": "Thu, 15 Oct 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Low-quality AI-generated content currently dominates children\u2019s media. Maka, a streaming platform run by child development experts, is offering an alternative."
+    },
+    {
+        "id": "https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy/",
+        "title": "Democrats Are Gearing Up to Investigate the Trump Administration. It Won\u2019t Be Easy",
+        "link": "https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy/",
+        "published": "Thu, 15 Oct 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "As a recent government report on DOGE shows, even getting basic information out of the Trump administration will put a new Congress to the test."
+    },
+    {
+        "id": "https://www.engadget.com/2287546/operas-lightweight-air-browser-is-back-unbothered-moisturized-in-its-lane/",
+        "title": "Opera's lightweight Air browser is back, unbothered, moisturized, in its lane",
+        "link": "https://www.engadget.com/2287546/operas-lightweight-air-browser-is-back-unbothered-moisturized-in-its-lane/",
+        "published": "Thu, 15 Oct 2026 14:17:22 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Namaste."
+    },
+    {
+        "id": "https://www.engadget.com/2287518/tesla-roadster-launch-live-blog/",
+        "title": "Tesla Roadster reveal live: Updates from the launch of the next-gen sportscar",
+        "link": "https://www.engadget.com/2287518/tesla-roadster-launch-live-blog/",
+        "published": "Thu, 15 Oct 2026 14:01:51 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Elon Musk has been saying the demo might be a literal \"banger.\""
+    },
+    {
+        "id": "https://www.engadget.com/2287154/linkedin-is-adding-new-tools-to-help-people-with-their-side-hustles/",
+        "title": "LinkedIn is adding new tools to help people with their side hustles",
+        "link": "https://www.engadget.com/2287154/linkedin-is-adding-new-tools-to-help-people-with-their-side-hustles/",
+        "published": "Thu, 15 Oct 2026 14:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The company says more of its users are holding down multiple roles."
+    },
+    {
+        "id": "https://www.engadget.com/2287239/nvidia-rtx-spark-good-for-windows-even-if-you-do-not-need-local-ai/",
+        "title": "NVIDIA's RTX Spark is good for Windows, even if you don't need local AI",
+        "link": "https://www.engadget.com/2287239/nvidia-rtx-spark-good-for-windows-even-if-you-do-not-need-local-ai/",
+        "published": "Thu, 15 Oct 2026 13:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "NVIDIA's RTX Spark is meant for AI fiends, but it could end up helping Windows PCs in general"
+    },
+    {
+        "id": "https://www.engadget.com/2286631/xreals-new-flagship-one-pro-ar-glasses-offer-better-brightness-and-increased-comfort/",
+        "title": "Xreal's new flagship One Pro+ AR glasses offer better brightness and increased comfort",
+        "link": "https://www.engadget.com/2286631/xreals-new-flagship-one-pro-ar-glasses-offer-better-brightness-and-increased-comfort/",
+        "published": "Thu, 15 Oct 2026 13:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "There's still no camera here, so they won't be confused for pervert specs."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+        "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+        "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+        "published": "Thu, 15 Oct 2026 12:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been&#8230;"
+    },
+    {
+        "id": "https://libreboot.org/news/libreboot2610.html",
+        "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+        "link": "https://libreboot.org/news/libreboot2610.html",
+        "published": "Thu, 15 Oct 2026 12:52:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50102923\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/fyzugx/DEsk",
+        "title": "Wayland desktop for Linux with skeuomorphic design",
+        "link": "https://github.com/fyzugx/DEsk",
+        "published": "Thu, 15 Oct 2026 13:23:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50103338\">Comments</a>"
+    },
+    {
+        "id": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+        "title": "I know why Mathematicians weep",
+        "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+        "published": "Thu, 15 Oct 2026 13:44:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50103630\">Comments</a>"
+    },
+    {
+        "id": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+        "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "published": "Thu, 15 Oct 2026 14:58:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50104654\">Comments</a>"
+    },
+    {
+        "id": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "title": "Prompt injection in HTTP headers: what 217M web responses show",
+        "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "published": "Thu, 15 Oct 2026 14:36:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50104310\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+        "title": "Nvidia\u2019s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+        "link": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+        "published": "2026-10-15T15:00:00Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Nvidia\u2019s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack."
+    },
+    {
+        "id": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
+        "title": "Google\u2019s new Universal Cart tracks prices on items you want now \u2013 plus 3 other tricks",
+        "link": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
+        "published": "2026-10-15T13:00:00Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Google unveiled two new shopping tools ahead of the holiday buying season. Here\u2019s what to know."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/indias-data-centre-capacity-may-surge-to-24-26-gw-impact-on-overall-power-demand-to-remain-limited-cea-chairman/articleshow/134969175.cms",
+        "title": "India's data centre capacity may surge to 24-26 GW, impact on overall power demand to remain limited: CEA Chairman",
+        "link": "https://economictimes.indiatimes.com/tech/technology/indias-data-centre-capacity-may-surge-to-24-26-gw-impact-on-overall-power-demand-to-remain-limited-cea-chairman/articleshow/134969175.cms",
+        "published": "Thu, 15 Oct 2026 18:51:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India's data-centre capacity could surge to 24-26 GW from less than 2 GW currently, however, its share of overall electricity demand is likely to remain limited, said Central Electricity Authority (CEA) Chairperson Ghanshyam Prasad, adding, the country's renewable energy capacity is targeted to reach around 800 GW by 2035-36."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/explained-why-are-credit-default-swaps-unnerving-ai-investors/articleshow/134968004.cms",
+        "title": "Explained: Why are credit default swaps unnerving AI investors?",
+        "link": "https://economictimes.indiatimes.com/tech/technology/explained-why-are-credit-default-swaps-unnerving-ai-investors/articleshow/134968004.cms",
+        "published": "Thu, 15 Oct 2026 17:56:42 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Although shares in companies driving the AI boom are still among the biggest gainers on global equity markets this year, many have fallen sharply in the past few weeks, as investors reassess the cost of capital against a backdrop of rising interest rates and inflation."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/wipro-q2-results-net-profit-declines-2-yoy-to-rs-3201-crore-but-revenue-rises-9/articleshow/134965842.cms",
+        "title": "Wipro Q2 Results: Net profit declines marginally to Rs 3,201 crore, but revenue rises 9% YoY",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/wipro-q2-results-net-profit-declines-2-yoy-to-rs-3201-crore-but-revenue-rises-9/articleshow/134965842.cms",
+        "published": "Thu, 15 Oct 2026 16:14:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Wipro Q2 Results: Wipro reported a 1.9% year-on-year decline in Q2FY27 net profit to Rs 3,201 crore, while revenue rose 9.1% to Rs 24,752.7 crore. IT services revenue increased 0.3% to $2,611.5 million, while operating margin expanded 0.5 percentage points sequentially to 16.5%. The company expects IT services revenue to decline up to 1.5% or grow 0.5% sequentially in Q3FY27."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/myntra-swings-to-net-loss-of-rs-579-crore-in-fy26-revenue-drops-13/articleshow/134965022.cms",
+        "title": "Myntra swings to net loss of Rs 579 crore in FY26, revenue drops 13%",
+        "link": "https://economictimes.indiatimes.com/tech/technology/myntra-swings-to-net-loss-of-rs-579-crore-in-fy26-revenue-drops-13/articleshow/134965022.cms",
+        "published": "Thu, 15 Oct 2026 16:09:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Myntra was the only profitable unit within the Flipkart group in FY25. The company saw a leadership change in 2026, when CEO Nandita Sinha departed after four years at the helm. Sinha was replaced by Sharon Pais, who took over as the head of Myntra."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/jios-akash-ambani-says-services-not-tariff-hikes-to-drive-revenue-as-record-ipo-nears",
+        "title": "Jio's Akash Ambani says services, not tariff hikes, to drive revenue as record IPO nears",
+        "link": "https://yourstory.com/2026/10/jios-akash-ambani-says-services-not-tariff-hikes-to-drive-revenue-as-record-ipo-nears",
+        "published": "Thu, 15 Oct 2026 13:07:07 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Ambani said Jio charges about Rs 4.9 per gigabyte against an industry average of Rs 7.5, with customers using 43.7 GB a month."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/aaradhya-jain-11-year-old-ai-smart-cane-stambha-un",
+        "title": "This 11-year-old built an AI smart cane for \u20b910,000 and took it to the UN",
+        "link": "https://yourstory.com/2026/10/aaradhya-jain-11-year-old-ai-smart-cane-stambha-un",
+        "published": "Thu, 15 Oct 2026 12:10:09 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "11-year-old Aaradhya Jain built STAMBHA, a \u20b910,000 AI cane for elderly and blind users, and presented it at the UN in Bangkok."
+    },
+    {
+        "id": "https://inc42.com/buzz/jio-financial-services-q2-profit-halves-yoy-to-%e2%82%b9340-cr/",
+        "title": "Jio Financial Services Q2 Profit Halves YoY To \u20b9340 Cr",
+        "link": "https://inc42.com/buzz/jio-financial-services-q2-profit-halves-yoy-to-%e2%82%b9340-cr/",
+        "published": "Thu, 15 Oct 2026 13:16:01 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Jio Financial Services Q2 Profit Halves YoY To \u20b9340 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/04/Jio-financial-services-ftr.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Jio Financial Services\u2019 consolidated net profit declined 51% to \u20b9340.4 Cr in the second quarter of the financial year ended&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/tonbo-imaging-ipo-subscribed-1-47x-on-day-1-so-far-niis-lead-demand/",
+        "title": "[Update] Tonbo Imaging IPO Subscribed 4X On Day 1, NIIs Lead Demand",
+        "link": "https://inc42.com/buzz/tonbo-imaging-ipo-subscribed-1-47x-on-day-1-so-far-niis-lead-demand/",
+        "published": "Thu, 15 Oct 2026 13:15:24 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Tonbo Imaging IPO Subscribed 1.47X On Day 1 So Far, NIIs Lead Demand\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/05/Tonbo-Imaging_ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Update&#124; October 15, 18:45 IST Defence tech company Tonbo Imaging\u2019s \u20b9852 Cr IPO was oversubscribed 4X at the end of&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/shopify-to-bring-accelerated-checkout-service-shop-pay-to-india/",
+        "title": "Exclusive: Shopify To Bring Accelerated Checkout Service \u2018Shop Pay\u2019 To India",
+        "link": "https://inc42.com/buzz/shopify-to-bring-accelerated-checkout-service-shop-pay-to-india/",
+        "published": "Thu, 15 Oct 2026 12:59:36 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Exclusive: Shopify To Bring Accelerated Checkout Service \u2018Shop Pay\u2019 To India\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Shopify-shopPay-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Commerce technology company Shopify is preparing to bring its accelerated checkout product, Shop Pay, to India by the first quarter&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/udaans-fy26-revenue-rises-13-to-%e2%82%b95134-cr-loss-narrows-to-%e2%82%b9852-cr/",
+        "title": "Udaan\u2019s FY26 Revenue Rises 13% To \u20b95,134 Cr, Loss Narrows To \u20b9852 Cr",
+        "link": "https://inc42.com/buzz/udaans-fy26-revenue-rises-13-to-%e2%82%b95134-cr-loss-narrows-to-%e2%82%b9852-cr/",
+        "published": "Thu, 15 Oct 2026 10:23:34 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Udaan\u2019s FY26 Revenue Rises 13% To \u20b95,134 Cr, Loss Narrows To \u20b9852 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Udaans-troubles-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />B2B ecommerce unicorn Udaan\u2019s operating revenue grew 12.6% to \u20b95,134 Cr in the financial year ended March 2026 (FY26) from&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-bitchat-blocking-challenge-kerala-hc/",
+        "title": "BitChat blocking challenge: Kerala HC gives Govt. 4 weeks to respond",
+        "link": "https://www.medianama.com/2026/10/223-bitchat-blocking-challenge-kerala-hc/",
+        "published": "Thu, 15 Oct 2026 14:38:35 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The Kerala HC has reportedly given the Govt four weeks to respond to a petition challenging the blocking of Bitchat in India which alleges a violation of free speech and a violation of procedural fairness.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-bitchat-blocking-challenge-kerala-hc/\">BitChat blocking challenge: Kerala HC gives Govt. 4 weeks to respond</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-groww-ai-stack-compute-costs/",
+        "title": "Groww building in-house AI stack amid rising compute costs",
+        "link": "https://www.medianama.com/2026/10/223-groww-ai-stack-compute-costs/",
+        "published": "Thu, 15 Oct 2026 13:28:14 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>During its Q2FY27 earnings call Groww CEO said that they are building their own in-house AI stack to reduce their \"per token cost\" and if they \"relied on  third party commercial models\" their cost \"would have been higher\". </p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-groww-ai-stack-compute-costs/\">Groww building in-house AI stack amid rising compute costs</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-mea-india-stand-alone-tech-diplomacy-document/",
+        "title": "MEA admits India lacks a stand-alone tech diplomacy document",
+        "link": "https://www.medianama.com/2026/10/223-mea-india-stand-alone-tech-diplomacy-document/",
+        "published": "Thu, 15 Oct 2026 11:08:01 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The 17th report of the Parliamentary Standing Committee on External Affairs saw the MEA admitting that \"no stand-alone policy document consolidates these strands\", rather direction is \"reflected across sectoral missions\". </p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-mea-india-stand-alone-tech-diplomacy-document/\">MEA admits India lacks a stand-alone tech diplomacy document</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
