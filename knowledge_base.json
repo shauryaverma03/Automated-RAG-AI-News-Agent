@@ -401750,5 +401750,325 @@
         "published": "Fri, 16 Oct 2026 10:26:59 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>The DoT circular asks telecom operators to show caller's number and name and also instructs them to maintain a database linking subscribers' numbers to names to handle queries. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-dot-caller-name-4g-5g/\">DoT mandates caller name display on 4G, 5G networks from Nov 1, offers no opt-out</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "published": "Fri, 16 Oct 2026 17:52:24 +0000",
+        "source": "TechCrunch",
+        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+    },
+    {
+        "id": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+        "title": "Waymo\u2019s robotaxis are headed to Canada",
+        "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+        "published": "Fri, 16 Oct 2026 16:06:38 +0000",
+        "source": "TechCrunch",
+        "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+        "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
+        "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+        "published": "Fri, 16 Oct 2026 16:01:37 +0000",
+        "source": "TechCrunch",
+        "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+        "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+        "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+        "published": "Fri, 16 Oct 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins."
+    },
+    {
+        "id": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+        "title": "Why Apple is finally making its own smart home devices",
+        "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+        "published": "2026-10-16T14:30:27-04:00",
+        "source": "The Verge",
+        "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+        "title": "The new Apple TV 4K just got its first (very small) discount",
+        "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+        "published": "2026-10-16T12:02:22-04:00",
+        "source": "The Verge",
+        "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple\u2019s new smart display for the first time. Right now, you [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+        "title": "Apple&#8217;s HomeView has an app problem",
+        "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+        "published": "2026-10-16T11:38:17-04:00",
+        "source": "The Verge",
+        "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+        "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+        "link": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+        "published": "2026-10-16T11:08:38-04:00",
+        "source": "The Verge",
+        "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
+        "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
+        "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
+        "published": "Fri, 16 Oct 2026 18:21:54 +0000",
+        "source": "WIRED",
+        "summary": "Despite Illinois\u2019 sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment\u2013protected activities."
+    },
+    {
+        "id": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+        "title": "Here\u2019s Exactly How Tesla Made Its New 230-Mph Car \u2018Fly\u2019",
+        "link": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+        "published": "Fri, 16 Oct 2026 16:30:12 +0000",
+        "source": "WIRED",
+        "summary": "It turns out the Roadster 2 both sucks and blows."
+    },
+    {
+        "id": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+        "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+        "link": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+        "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+        "source": "WIRED",
+        "summary": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station."
+    },
+    {
+        "id": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
+        "title": "Thank Gen Z for the \u2018Girls\u2019 Revival",
+        "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
+        "published": "Fri, 16 Oct 2026 16:21:38 +0000",
+        "source": "WIRED",
+        "summary": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching."
+    },
+    {
+        "id": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+        "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+        "link": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+        "published": "Fri, 16 Oct 2026 15:25:18 +0000",
+        "source": "WIRED",
+        "summary": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+        "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+        "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+        "published": "Fri, 16 Oct 2026 17:05:59 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "FDA scientists said none of the popular drugs have been proven safe or effective."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+        "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+        "published": "Fri, 16 Oct 2026 15:41:00 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+        "title": "Polymarket saw $600 million in election trades after the elections were over",
+        "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+        "published": "Fri, 16 Oct 2026 14:19:22 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Millions kept changing hands long after the election outcomes were effectively settled."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+        "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+        "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+        "published": "Fri, 16 Oct 2026 14:03:25 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+        "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+        "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+        "published": "Fri, 16 Oct 2026 14:00:59 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Watch an exclusive clip from <em>Super Scam Me</em> where a victim tracks down her scammer."
+    },
+    {
+        "id": "https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/",
+        "title": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+",
+        "link": "https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/",
+        "published": "Fri, 16 Oct 2026 17:03:29 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Dust off your old Sega Genesis and Super Nintendo cartridges."
+    },
+    {
+        "id": "https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/",
+        "title": "If memory shortages last, tech companies should offer cheap battery replacements",
+        "link": "https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/",
+        "published": "Fri, 16 Oct 2026 16:32:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "If a company like Apple could offer $29 batteries before, it can do so again."
+    },
+    {
+        "id": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+        "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+        "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+        "published": "Fri, 16 Oct 2026 18:06:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50122034\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/cobanov/PS5LM",
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "link": "https://github.com/cobanov/PS5LM",
+        "published": "Fri, 16 Oct 2026 18:32:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50122431\">Comments</a>"
+    },
+    {
+        "id": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "published": "Fri, 16 Oct 2026 17:08:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50121179\">Comments</a>"
+    },
+    {
+        "id": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+        "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "published": "Fri, 16 Oct 2026 13:43:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50118320\">Comments</a>"
+    },
+    {
+        "id": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "title": "Designing more efficient quantum circuits with Claude",
+        "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "published": "Fri, 16 Oct 2026 18:00:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50121939\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
+        "title": "Munich dumps proprietary for open source (again) \u2013 but no Linux desktop",
+        "link": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
+        "published": "2026-10-16T17:11:35Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Open source in the public sector doesn\u2019t fail because of technical issues. It  fails because it\u2019s not aligned with the political agenda"
+    },
+    {
+        "id": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+        "title": "Anthropic gives third-party auditors\u00a0\u2019employee-like access\u2019 in AI industry first",
+        "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+        "published": "2026-10-16T17:10:27Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks."
+    },
+    {
+        "id": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
+        "title": "Want an iPhone Duo before 2027? Don\u2019t preorder from Apple \u2013 try this instead",
+        "link": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
+        "published": "2026-10-16T16:44:50Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-warns-trumps-h-1b-green-card-crackdown-could-drive-tech-talent-out-of-us/articleshow/135000308.cms",
+        "title": "Microsoft president warns Trump's H-1B, green card crackdown could drive tech talent out of US",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-warns-trumps-h-1b-green-card-crackdown-could-drive-tech-talent-out-of-us/articleshow/135000308.cms",
+        "published": "Fri, 16 Oct 2026 22:50:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Speaking with POLITICO on the sidelines of the International AI Summit in Dublin, Ireland, Smith raised concerns over the administration's move to restrict permanent residency applications for skilled foreign employees at Microsoft and seven other companies."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-employees-said-lulas-accounts-were-hindered-during-brazil-election-report/articleshow/135000017.cms",
+        "title": "Meta employees said Lula's accounts were hindered during Brazil election: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-employees-said-lulas-accounts-were-hindered-during-brazil-election-report/articleshow/135000017.cms",
+        "published": "Fri, 16 Oct 2026 22:42:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The messages also acknowledged that the platform recommended the profile of challenger Flavio Bolsonaro, as well as his WhatsApp channel, according to the report."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show/articleshow/134999795.cms",
+        "title": "CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show",
+        "link": "https://economictimes.indiatimes.com/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show/articleshow/134999795.cms",
+        "published": "Fri, 16 Oct 2026 22:29:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The sales began about two months after the stock hit a record high in June 2025. The shares have tumbled since and were on track to lose about 24% this week as investors worried about the Nvidia-backed company's heavy capital spending and the debt needed to fund it amid rising bets on interest-rate hikes."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-boldfit-greencell-lead-as-weekly-funding-hits-232-million-down-45-on-year/articleshow/134999523.cms",
+        "title": "ETtech Deals Digest: Boldfit, GreenCell lead as weekly funding hits $232 million, down 45% on-year",
+        "link": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-boldfit-greencell-lead-as-weekly-funding-hits-232-million-down-45-on-year/articleshow/134999523.cms",
+        "published": "Fri, 16 Oct 2026 22:17:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Boldfit led deal activity with $41.5 million, followed by GreenCell Mobility at $34.5 million, Inner Sky Labs at $30.9 million, and Scimplify  at $25 million. Accel was among the most active investors, backing Scimplify, Origin, and CosmoChute. Elevation Capital invested in Mesa School of Business and Spill Games, while Pantera Capital backed Fission Labs."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/urban-company-announces-plans-to-enter-residential-air-conditioner-segment/articleshow/134998753.cms",
+        "title": "Urban Company announces plans to enter residential air conditioner segment",
+        "link": "https://economictimes.indiatimes.com/tech/technology/urban-company-announces-plans-to-enter-residential-air-conditioner-segment/articleshow/134998753.cms",
+        "published": "Fri, 16 Oct 2026 21:30:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Urban Company currently sells water purifiers and smart locks under the Native brand. ET had first reported in October 2025 about the company exploring its foray in this space. With this Urban Company will join a list of new-age firms to sell air conditioners - a market that is currently dominated by legacy brands such as Samsung, Daikin, Godrej and Voltas."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/lesson-conscious-living",
+        "title": "Shubhra Saxena\u2019s It Matters A Lot: 5 Lessons on conscious living",
+        "link": "https://yourstory.com/2026/10/lesson-conscious-living",
+        "published": "Fri, 16 Oct 2026 15:56:11 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Shubhra Saxena launches It Matters A Lot in New Delhi, exploring self-awareness, life lessons and the importance of conscious living."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/books-lonliness-modernlife",
+        "title": "7 Books that explain why we're connected but still lonely",
+        "link": "https://yourstory.com/2026/10/books-lonliness-modernlife",
+        "published": "Fri, 16 Oct 2026 14:59:12 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover seven books that explore modern loneliness, social media, digital relationships and why feeling connected doesn't always mean feeling understood."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/anrf-ceo-shivkumar-kalyanaraman-scaling-india-research-multiplier",
+        "title": "\u2018We cannot wait 75 years\u2019: ANRF CEO Shivkumar Kalyanaraman on scaling India\u2019s research multiplier",
+        "link": "https://yourstory.com/2026/10/anrf-ceo-shivkumar-kalyanaraman-scaling-india-research-multiplier",
+        "published": "Thu, 15 Oct 2026 05:37:33 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "To boost India\u2019s R&amp;D spend toward 3% of GDP, ANRF CEO Shivkumar Kalyanaraman revealed a patient-capital architecture combining private investment, open IP licensing, and national mission programmes."
+    },
+    {
+        "id": "https://inc42.com/features/firstcrys-core-revenue-engine-is-fighting-too-many-battles/",
+        "title": "FirstCry\u2019s Core Revenue Engine Is Fighting Too Many Battles",
+        "link": "https://inc42.com/features/firstcrys-core-revenue-engine-is-fighting-too-many-battles/",
+        "published": "Fri, 16 Oct 2026 16:40:40 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"FirstCry\u2019s Core Revenue Engine Is Fighting Too Many Battles\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ftr-firstcry.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Sixteen years since FirstCry began its journey, what began as a kidswear marketplace has spawned a massive multi-channel ecommerce and&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/now-fssai-issues-show-cause-notices-to-bigbasket-flipkart-over-misleading-claims/",
+        "title": "Now, FSSAI Issues Show-Cause Notices To BigBasket, Flipkart Over Misleading Claims",
+        "link": "https://inc42.com/buzz/now-fssai-issues-show-cause-notices-to-bigbasket-flipkart-over-misleading-claims/",
+        "published": "Fri, 16 Oct 2026 16:38:43 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"fssai penalises quick commerce\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/FSSAI-D2C-ftr-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Food Safety and Standards Authority of India (FSSAI) has issued show-cause notices to quick commerce and ecommerce platforms BigBasket&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/cult-fit-gets-sebi-clearance-for-%e2%82%b9950-cr-ipo/",
+        "title": "Cult.fit Gets SEBI Clearance For \u20b9950 Cr+ IPO",
+        "link": "https://inc42.com/buzz/cult-fit-gets-sebi-clearance-for-%e2%82%b9950-cr-ipo/",
+        "published": "Fri, 16 Oct 2026 14:21:30 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"cult.fit ipo sebi clearance\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/cultfit_kmp_ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Markets regulator SEBI has given its go-ahead to gym chain Cult.fit\u2019s \u20b9950 Cr IPO about three months after it filed&#8230;"
     }
 ]
