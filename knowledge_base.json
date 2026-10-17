@@ -402198,5 +402198,37 @@
         "published": "Fri, 16 Oct 2026 11:01:12 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Its revenue from operations rose to Rs 12.25 crore in FY26 from Rs 26.35 lakh a year earlier. Platform services brought in Rs 10.82 crore, and the sale of uniforms to its service providers, whom it calls experts, stood at Rs 1.42 crore."
+    },
+    {
+        "id": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+        "title": "All the news about the iPhone Duo",
+        "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+        "published": "2026-10-16T19:36:26-04:00",
+        "source": "The Verge",
+        "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a \u201cnano\u2011texture\u201d finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+        "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "published": "2026-10-16T18:51:22-04:00",
+        "source": "The Verge",
+        "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "published": "Fri, 16 Oct 2026 20:59:01 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/if-i-make-a-mistake-i-am-done-how-food-pharmer-is-turning-food-activism-into-startup",
+        "title": "'If I make a mistake, I'm done': Inside Food Pharmer's high-stakes shift to food startup founder",
+        "link": "https://yourstory.com/2026/10/if-i-make-a-mistake-i-am-done-how-food-pharmer-is-turning-food-activism-into-startup",
+        "published": "Thu, 15 Oct 2026 08:02:26 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Revant Himatsingka, the man who called out India\u2019s biggest food brands, is now building one of his own, Only What\u2019s Needed, on trust, transparent labels and broken marketing rules, knowing that a single mistake could end it."
     }
 ]
