@@ -403094,5 +403094,133 @@
         "published": "Sun, 18 Oct 2026 08:38:28 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The US Vice President clarified that he meant US companies and the visa system, not H-1B visa holders."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+        "title": "Lenovo\u2019s fast, comfy SteamOS handheld is hundreds off",
+        "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+        "published": "2026-10-18T11:00:00-04:00",
+        "source": "The Verge",
+        "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it\u2019s got double the RAM and storage [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+        "title": "J Mascis has nothing better to do",
+        "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+        "published": "2026-10-18T10:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft nonanswers. That's not to say that Mascis [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+        "title": "Trump says Google kisses his ass",
+        "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+        "published": "2026-10-18T09:25:01-04:00",
+        "source": "The Verge",
+        "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I can do [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+        "title": "The best gadget I bought this year is a milk frother",
+        "link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+        "published": "2026-10-18T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+        "title": "How overhead projectors took over your classroom",
+        "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+        "published": "2026-10-18T08:55:01-04:00",
+        "source": "The Verge",
+        "summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere. [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/",
+        "title": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them",
+        "link": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/",
+        "published": "Sun, 18 Oct 2026 14:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all."
+    },
+    {
+        "id": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+        "title": "The reason your Amazon Alexa devices are always listening",
+        "link": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
+        "published": "Sun, 18 Oct 2026 14:15:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Alexa devices have microphones that are always listening, but what does Amazon do with that data? It's up to you."
+    },
+    {
+        "id": "https://www.engadget.com/2285729/where-to-play-2000s-retro-flash-games/",
+        "title": "These 6 retro sites let you relive the glory days of 2000s Flash games",
+        "link": "https://www.engadget.com/2285729/where-to-play-2000s-retro-flash-games/",
+        "published": "Sun, 18 Oct 2026 13:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Flash hasn't been around for over half a decade, but thanks to archivists, you can still enjoy this era of the internet."
+    },
+    {
+        "id": "https://www.engadget.com/2285490/one-problem-smart-tv-tracking-what-you-watch/",
+        "title": "Your smart TV has one big problem: It's tracking what you watch",
+        "link": "https://www.engadget.com/2285490/one-problem-smart-tv-tracking-what-you-watch/",
+        "published": "Sun, 18 Oct 2026 13:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "If you don't want your TV manufacturer to know everything you watch, here's what to do about it."
+    },
+    {
+        "id": "https://www.engadget.com/2285327/how-to-use-windows-pc-make-receive-phone-calls/",
+        "title": "How to use your Windows PC to make and receive phone calls",
+        "link": "https://www.engadget.com/2285327/how-to-use-windows-pc-make-receive-phone-calls/",
+        "published": "Sun, 18 Oct 2026 13:15:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Windows 11 can connect to your phone to make calls, letting you manage them in one place instead of picking up your phone."
+    },
+    {
+        "id": "https://github.com/VikOlliver/RepRapMicron/wiki",
+        "title": "RepRapMicron",
+        "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+        "published": "Sun, 18 Oct 2026 13:48:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50141076\">Comments</a>"
+    },
+    {
+        "id": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+        "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+        "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+        "published": "Sun, 18 Oct 2026 10:21:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50139692\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/0x23/MicroManipulatorStepper",
+        "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
+        "link": "https://github.com/0x23/MicroManipulatorStepper",
+        "published": "Sun, 18 Oct 2026 11:16:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50140001\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
+        "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms",
+        "published": "Sun, 18 Oct 2026 19:20:10 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Nvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC's process for NVHBM base dies, and sixth-generation DRAM technology for its core dies, the newspaper said, citing industry sources."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/only-8-of-fund-managers-report-improved-investment-returns-from-ai-adoption-report/articleshow/135029379.cms",
+        "title": "Only 8% of fund managers report improved investment returns from AI adoption: Report",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/only-8-of-fund-managers-report-improved-investment-returns-from-ai-adoption-report/articleshow/135029379.cms",
+        "published": "Sun, 18 Oct 2026 18:46:05 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Despite growing adoption of artificial intelligence (AI) in the global asset management industry, only 8 per cent of fund managers have reported measurable improvements in investment returns, according to a joint research report by Morgan Stanley and Oliver Wyman."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/cabinet-approves-go-delhi-foundation-to-help-young-innovators-startups",
+        "title": "Cabinet approves Go-Delhi Foundation to help young innovators, startups",
+        "link": "https://yourstory.com/2026/10/cabinet-approves-go-delhi-foundation-to-help-young-innovators-startups",
+        "published": "Sun, 18 Oct 2026 13:17:59 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Delhi is home to nearly 21,000 startups recognised by the Department for Promotion of Industry and Internal Trade."
     }
 ]
