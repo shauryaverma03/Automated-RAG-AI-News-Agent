@@ -404126,5 +404126,301 @@
         "published": "Mon, 19 Oct 2026 09:51:52 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>The SC has proposed a new framework to tackle child sexual abuse material online, including a national hash database, stricter reporting requirements, dedicated grievance officers and financial penalties.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-sc-csam-regulations-intermediaries-social-media-ban/\">SC directs CSAM regulations for intermediaries; rejects social media ban for children</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "published": "Mon, 19 Oct 2026 20:09:24 +0000",
+        "source": "TechCrunch",
+        "summary": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+        "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "published": "Mon, 19 Oct 2026 19:28:34 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+        "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+        "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+        "published": "Mon, 19 Oct 2026 19:00:12 +0000",
+        "source": "TechCrunch",
+        "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+        "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
+        "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+        "published": "Mon, 19 Oct 2026 18:49:04 +0000",
+        "source": "TechCrunch",
+        "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "published": "Mon, 19 Oct 2026 18:37:27 +0000",
+        "source": "TechCrunch",
+        "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+        "title": "Sony\u2019s best noise-canceling earbuds are nearly $100\u00a0off today only",
+        "link": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+        "published": "2026-10-19T14:52:41-04:00",
+        "source": "The Verge",
+        "summary": "For a very limited time, Sony\u2019s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony\u2019s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren\u2019t currently offering a discount on the XM6. The XM6 are a solid upgrade over [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+        "title": "Apple teases MacBook Pro event next week",
+        "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+        "published": "2026-10-19T12:04:29-04:00",
+        "source": "The Verge",
+        "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+        "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+        "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+        "published": "Mon, 19 Oct 2026 19:49:17 +0000",
+        "source": "WIRED",
+        "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government\u2019s offer to secure the former OpenAI engineer\u2019s release to a \u201cblank check.\u201d"
+    },
+    {
+        "id": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
+        "title": "The Best Mixbook Sale for Holiday Cards (2026)",
+        "link": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
+        "published": "Mon, 19 Oct 2026 19:43:22 +0000",
+        "source": "WIRED",
+        "summary": "Mixbook is the best card service I\u2019ve tried, and the brand has multiple sales on holiday cards happening now."
+    },
+    {
+        "id": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
+        "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
+        "link": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
+        "published": "Mon, 19 Oct 2026 18:55:05 +0000",
+        "source": "WIRED",
+        "summary": "WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms."
+    },
+    {
+        "id": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
+        "title": "Japan\u2019s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
+        "link": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
+        "published": "Mon, 19 Oct 2026 18:45:06 +0000",
+        "source": "WIRED",
+        "summary": "JAXA is leading an international mission to reach Mars\u2019 Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system."
+    },
+    {
+        "id": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
+        "title": "All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking",
+        "link": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
+        "published": "Mon, 19 Oct 2026 16:10:40 +0000",
+        "source": "WIRED",
+        "summary": "Upgrade your cold-weather cooking setup with discounted cookware for soups, stews, and roasts."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+        "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+        "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+        "published": "Mon, 19 Oct 2026 19:27:24 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?"
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+        "title": "ReactOS reaches major milestone with NTFS install support",
+        "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+        "published": "Mon, 19 Oct 2026 18:30:56 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "ReactOS gains NTFS install support with new driver."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+        "title": "AI game clones are making indie developers afraid to show their work",
+        "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+        "published": "Mon, 19 Oct 2026 16:59:22 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+        "title": "Florida DMV hacked after police dept insecurely stored login info",
+        "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+        "published": "Mon, 19 Oct 2026 16:38:13 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters."
+    },
+    {
+        "id": "https://www.engadget.com/2289274/heres-how-we-would-build-out-the-perfect-modular-electric-slate-truck/",
+        "title": "Here's how we would build out the perfect modular electric Slate truck",
+        "link": "https://www.engadget.com/2289274/heres-how-we-would-build-out-the-perfect-modular-electric-slate-truck/",
+        "published": "Mon, 19 Oct 2026 18:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "A Bronco for the modern age."
+    },
+    {
+        "id": "https://www.engadget.com/2290685/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64/",
+        "title": "We might finally know what's written on that mysterious plaque in Super Mario 64",
+        "link": "https://www.engadget.com/2290685/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64/",
+        "published": "Mon, 19 Oct 2026 18:10:14 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The plaque's message has haunted the internet for 30 years."
+    },
+    {
+        "id": "https://www.engadget.com/2287979/is-paid-antivirus-for-pc-waste-of-money/",
+        "title": "Is paid antivirus actually a waste of money for your PC in 2026?",
+        "link": "https://www.engadget.com/2287979/is-paid-antivirus-for-pc-waste-of-money/",
+        "published": "Mon, 19 Oct 2026 18:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Subscribing to an antivirus suite kept you safe a long time ago, but they're much less useful for most people today."
+    },
+    {
+        "id": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/",
+        "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
+        "link": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/",
+        "published": "Mon, 19 Oct 2026 16:59:28 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The decision comes a couple of days after the release of Deepseek's latest AI model."
+    },
+    {
+        "id": "https://www.engadget.com/2287906/video-doorbell-distance-stop-detecting-motion/",
+        "title": "At what distance does a video doorbell stop detecting motion?",
+        "link": "https://www.engadget.com/2287906/video-doorbell-distance-stop-detecting-motion/",
+        "published": "Mon, 19 Oct 2026 16:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Your video doorbell might see a visitor without sending an alert. Detection depends on more than distance, and some surprising factors can affect its reach."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+        "title": "Making the internet better for AI agents might make it worse for everyone else",
+        "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+        "published": "Mon, 19 Oct 2026 18:22:47 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+        "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+        "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+        "published": "Mon, 19 Oct 2026 17:45:55 +0000",
+        "source": "MIT Technology Review",
+        "summary": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata\u2019s claim is&#8230;"
+    },
+    {
+        "id": "https://www.minimax.io/blog/minimax-m31f",
+        "title": "MiniMax M3.1 Flash",
+        "link": "https://www.minimax.io/blog/minimax-m31f",
+        "published": "Mon, 19 Oct 2026 16:39:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50154540\">Comments</a>"
+    },
+    {
+        "id": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+        "title": "I built a drone with only one motor [video]",
+        "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+        "published": "Mon, 19 Oct 2026 09:05:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50150089\">Comments</a>"
+    },
+    {
+        "id": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+        "title": "The reverts will continue until morale improves",
+        "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+        "published": "Mon, 19 Oct 2026 18:42:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50156206\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/kksimp/Mac.apk",
+        "title": "Android apps running native on macOS",
+        "link": "https://github.com/kksimp/Mac.apk",
+        "published": "Mon, 19 Oct 2026 16:45:30 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50154624\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer/",
+        "title": "How to find Flock cameras near you with MapQuest\u2019s new \u2018surveillance layer\u2019",
+        "link": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer/",
+        "published": "2026-10-19T16:59:56Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "A name from the past is emerging again to help you stay out of sight of surveillance cameras."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/articleshow/135054998.cms",
+        "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/articleshow/135054998.cms",
+        "published": "Mon, 19 Oct 2026 23:59:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The department is also banning acquisition of DeepSeek products and third-party services developed using DeepSeek by US civilian government agencies. DHS said DeepSeek models pose \"multiple threat vectors\" and raised concerns that use of the product \"may result in the transfer of sensitive data to the PRC if used by US government employees or vendors.\""
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/netflix-film-division-boss-to-exit-in-second-senior-departure-in-a-week/articleshow/135054956.cms",
+        "title": "Netflix film division boss to exit in second senior departure in a week",
+        "link": "https://economictimes.indiatimes.com/tech/technology/netflix-film-division-boss-to-exit-in-second-senior-departure-in-a-week/articleshow/135054956.cms",
+        "published": "Mon, 19 Oct 2026 23:57:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Netflix said on Monday its film division head Dan Lin would leave after nearly three years at the helm, marking a second senior executive departure in less than a week amid concerns"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing/articleshow/135054947.cms",
+        "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing: court filing",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing/articleshow/135054947.cms",
+        "published": "Mon, 19 Oct 2026 23:53:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "US prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in frequent communication with an unnamed member of the Saudi Royal family and that a member of the Saudi military paid for a one-way plane ticket for Alfozan's wife and son to return to Saudi Arabia, according to the court document."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apple-to-host-pro-and-tell-event-on-october-28-in-la/articleshow/135054883.cms",
+        "title": "Apple to host 'Pro and tell' event on October 28 in LA",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apple-to-host-pro-and-tell-event-on-october-28-in-la/articleshow/135054883.cms",
+        "published": "Mon, 19 Oct 2026 23:51:36 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Apple said on Monday it would host a \"Pro and tell\" event in Los Angeles on October 28, the latest in a series of product launches as the iPhone maker expands its hardware lineup and AI offerings."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/rapido-says-man-linked-to-tiger-shroff-shooting-incident-was-not-an-active-captain/articleshow/135054137.cms",
+        "title": "Rapido says man linked to Tiger Shroff shooting incident was not an active captain",
+        "link": "https://economictimes.indiatimes.com/tech/technology/rapido-says-man-linked-to-tiger-shroff-shooting-incident-was-not-an-active-captain/articleshow/135054137.cms",
+        "published": "Mon, 19 Oct 2026 23:15:33 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Shroff, who was reportedly the target of the attack, escaped unhurt. In a statement posted on social media, Rapido said it was \u201cdeeply concerned\u201d by the incident involving the actor and his team and was relieved that he was safe. It also wished him a swift recovery."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/the-science-of-deep-sleep-and-how-duroflex-airboost-helps-you-get-more-of-it",
+        "title": "The science of deep sleep and how Duroflex Airboost helps you get more of it",
+        "link": "https://yourstory.com/2026/10/the-science-of-deep-sleep-and-how-duroflex-airboost-helps-you-get-more-of-it",
+        "published": "Mon, 19 Oct 2026 11:32:13 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "India\u2019s newest sleep technology is designed to enhance the N3 stage, the body\u2019s repair shift, for better recovery, immunity, and stress resilience. \n\n\n\nYou can get enough sleep and still not get enough recovery.\n\nWe obsess over sleep duration, the \u201ceight hours\u201d metric, but duration alone doesn't"
+    },
+    {
+        "id": "https://inc42.com/buzz/jio-platforms-raises-over-%e2%82%b98100-cr-from-anchor-investors/",
+        "title": "Jio Platforms Raises About \u20b98,110 Cr From Anchor Investors",
+        "link": "https://inc42.com/buzz/jio-platforms-raises-over-%e2%82%b98100-cr-from-anchor-investors/",
+        "published": "Mon, 19 Oct 2026 17:18:43 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Jio Targets September 2027 Test Launch For 1,600-Satellite LEO Network\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Jio-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Ahead of opening its public issue on Wednesday (October 19), telecom major Jio Platforms has raised \u20b98,109.8 Cr from anchor&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/fssai-crackdown-continues-with-fresh-show-cause-notices-issued-to-zepto-others/",
+        "title": "FSSAI Crackdown Continues With Fresh Show-Cause Notices Issued To Zepto, Others",
+        "link": "https://inc42.com/buzz/fssai-crackdown-continues-with-fresh-show-cause-notices-issued-to-zepto-others/",
+        "published": "Mon, 19 Oct 2026 16:22:54 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"fssai penalises quick commerce\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/FSSAI-D2C-ftr-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Food Safety and Standards Authority of India (FSSAI) has issued show-cause notices to quick commerce unicorn Zepto as well&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/justdials-q2-net-profit-slides-10-yoy-to-%e2%82%b9108-cr-despite-13-revenue-growth/",
+        "title": "Justdial\u2019s Q2 Net Profit Slides 10% YoY To \u20b9108 Cr Despite 13% Revenue Growth",
+        "link": "https://inc42.com/buzz/justdials-q2-net-profit-slides-10-yoy-to-%e2%82%b9108-cr-despite-13-revenue-growth/",
+        "published": "Mon, 19 Oct 2026 15:19:22 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Justdial Q2\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/JustDial-ftr.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Online classifieds platform Justdial\u2019s net profit for the September 2026 quarter (Q2 FY27) dipped 9.7% YoY to \u20b9107.8 Cr from&#8230;"
     }
 ]
