@@ -403558,5 +403558,53 @@
         "published": "Fri, 16 Oct 2026 11:13:20 GMT",
         "source": "YourStory RSS Feed",
         "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, October 16, 2026."
+    },
+    {
+        "id": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
+        "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
+        "link": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
+        "published": "Mon, 19 Oct 2026 00:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Some router symbols are obvious, while others take a bit of work to decipher. Their lights can vary, too."
+    },
+    {
+        "id": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+        "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+        "link": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+        "published": "Mon, 19 Oct 2026 00:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "You might sometimes see an orange dot on the left side of your Galaxy Watch's screen. Here's what is tells you."
+    },
+    {
+        "id": "https://colo.to/cyberspace.html",
+        "title": "William Gibson and the trademarking of cyberspace",
+        "link": "https://colo.to/cyberspace.html",
+        "published": "Sun, 18 Oct 2026 23:37:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50146625\">Comments</a>"
+    },
+    {
+        "id": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "published": "Sun, 18 Oct 2026 21:09:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50145507\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/buzz/the-pant-project-raises-%e2%82%b9109-cr-to-expand-store-network-portfolio/",
+        "title": "The Pant Project Raises \u20b9109 Cr To Expand Store Network & Portfolio",
+        "link": "https://inc42.com/buzz/the-pant-project-raises-%e2%82%b9109-cr-to-expand-store-network-portfolio/",
+        "published": "Mon, 19 Oct 2026 00:30:13 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"The Pant Project\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/06/Pant-Project-Feature-Image.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Menswear brand The Pant Project has raised \u20b9109 Cr (about $11.5 Mn) in a Series B funding round led by&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/will-the-jio-platforms-ipo-live-up-to-its-billing/",
+        "title": "Will The Jio Platforms IPO Live Up To Its Billing?",
+        "link": "https://inc42.com/features/will-the-jio-platforms-ipo-live-up-to-its-billing/",
+        "published": "Mon, 19 Oct 2026 00:30:04 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Will The Jio Platforms IPO Live Up To Its Billing?\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ftr-21-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />It\u2019s already called the biggest IPO in India, but Reliance Industries Limited is leaving no stone unturned. RIL chairman Mukesh&#8230;"
     }
 ]
