@@ -407670,5 +407670,261 @@
         "published": "Thu, 22 Oct 2026 12:47:51 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>The 2 PHP vulnerabilities tracked through CVE-2026-109618 &#038; CVE-2026-109619 \"saw thousands of attempts to exploit it\" reported Cloudflare with attempts jumping to \"tens of thousands in 45 mins of the announcement\".</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-php-vulnerabilities-global-rush-update/\">Explained: What are the two PHP vulnerabilities behind a global rush to update and why it matters</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+        "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+        "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+        "published": "Thu, 22 Oct 2026 20:01:51 +0000",
+        "source": "TechCrunch",
+        "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+        "title": "The secret to fast startup growth isn\u2019t early sales, top names in tech say",
+        "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+        "published": "Thu, 22 Oct 2026 20:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "At this year\u2019s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures\u2019 Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+        "source": "TechCrunch",
+        "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "title": "Canva releases its first image generation model",
+        "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+        "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+        "published": "2026-10-22T16:32:05-04:00",
+        "source": "The Verge",
+        "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+        "title": "Meta turns Muse sharing back on",
+        "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+        "published": "2026-10-22T16:24:04-04:00",
+        "source": "The Verge",
+        "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+        "title": "The FCC is beginning to block gadgets with \u2018foreign surveillance chips\u2019",
+        "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+        "published": "2026-10-22T16:23:48-04:00",
+        "source": "The Verge",
+        "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims. [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+        "title": "Sure, let\u2019s smoosh SpaceX and Tesla together, who cares",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+        "published": "2026-10-22T15:45:00-04:00",
+        "source": "The Verge",
+        "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+        "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+        "link": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+        "published": "2026-10-22T15:44:51-04:00",
+        "source": "The Verge",
+        "summary": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+        "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+        "link": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+        "published": "Thu, 22 Oct 2026 20:05:51 +0000",
+        "source": "WIRED",
+        "summary": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem."
+    },
+    {
+        "id": "https://www.wired.com/story/aged-intelligence-society-interview/",
+        "title": "The Social Society Helping Women Join the AI Boom",
+        "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+        "published": "Thu, 22 Oct 2026 19:56:32 +0000",
+        "source": "WIRED",
+        "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to \u201csolve midlife problems using frontier tools.\u201d"
+    },
+    {
+        "id": "https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/",
+        "title": "Inside the Exclusive Nathan Fielder Interview",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/",
+        "published": "Thu, 22 Oct 2026 19:06:37 +0000",
+        "source": "WIRED",
+        "summary": "This week on \u201cUncanny Valley,\u201d we go behind the scenes of our Nathan Fielder cover story, unpack tech billionaires\u2019 generous promises, and discuss the suspicious letters sent to US election offices."
+    },
+    {
+        "id": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/",
+        "title": "Anker Soundcore Space 2 Are Their Lowest Price Ever",
+        "link": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/",
+        "published": "Thu, 22 Oct 2026 18:03:44 +0000",
+        "source": "WIRED",
+        "summary": "The Anker Soundcore Space 2 are a good deal even at full price. The fact they\u2019re 18 percent off is just icing on the cake."
+    },
+    {
+        "id": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
+        "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
+        "link": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
+        "published": "Thu, 22 Oct 2026 18:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Ancient plants reveal that the vestiges of the North American ice sheet started expanding a few thousand years ago, but that climate change caused it to reverse course."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+        "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+        "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+        "published": "Thu, 22 Oct 2026 20:17:52 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+        "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+        "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+        "published": "Thu, 22 Oct 2026 19:59:37 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "We can't have nice things, but at least we can get trailers for them."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+        "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+        "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+        "published": "Thu, 22 Oct 2026 19:34:40 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
+        "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
+        "link": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
+        "published": "Thu, 22 Oct 2026 19:04:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
+        "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
+        "link": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
+        "published": "Thu, 22 Oct 2026 19:01:23 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get."
+    },
+    {
+        "id": "https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/",
+        "title": "Spotify's Family plan QR code could cost you Premium access",
+        "link": "https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/",
+        "published": "Thu, 22 Oct 2026 20:19:19 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Spotify is trying to make some Premium Family members prove they live at the same address."
+    },
+    {
+        "id": "https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/",
+        "title": "Rhode Island sues Meta over its approach to scam ads",
+        "link": "https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/",
+        "published": "Thu, 22 Oct 2026 20:05:26 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "It's the first state to sue the social media company on these allegations."
+    },
+    {
+        "id": "https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/",
+        "title": "The trailer for Mass Effect 5 has leaked and unfortunately it looks good",
+        "link": "https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/",
+        "published": "Thu, 22 Oct 2026 19:55:13 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni."
+    },
+    {
+        "id": "https://www.engadget.com/2291166/2027-bmw-ix5-first-drive/",
+        "title": "2027 BMW iX5 first drive: You'll love the range, but maybe not the look",
+        "link": "https://www.engadget.com/2291166/2027-bmw-ix5-first-drive/",
+        "published": "Thu, 22 Oct 2026 19:01:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "BMW's latest EV will do over 450 miles on a charge and even close its own doors."
+    },
+    {
+        "id": "https://www.engadget.com/2294668/daft-punk-is-getting-an-official-lego-set/",
+        "title": "Daft Punk is getting an official Lego set",
+        "link": "https://www.engadget.com/2294668/daft-punk-is-getting-an-official-lego-set/",
+        "published": "Thu, 22 Oct 2026 18:59:09 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "A fan-built model of the Alive tour pyramid got the green light to become a real product."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "title": "The Foundations of Scalable AI",
+        "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "published": "Thu, 22 Oct 2026 18:48:04 +0000",
+        "source": "MIT Technology Review",
+        "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;"
+    },
+    {
+        "id": "https://github.com/NVIDIA/OpenShell",
+        "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+        "link": "https://github.com/NVIDIA/OpenShell",
+        "published": "Thu, 22 Oct 2026 17:44:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50198675\">Comments</a>"
+    },
+    {
+        "id": "https://www.typeui.sh/micro-interactions",
+        "title": "Show HN: UI micro interactions prompts for AI",
+        "link": "https://www.typeui.sh/micro-interactions",
+        "published": "Thu, 22 Oct 2026 18:32:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50199290\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites/articleshow/135126732.cms",
+        "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites/articleshow/135126732.cms",
+        "published": "Fri, 23 Oct 2026 00:47:43 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Investors sold shares of Meta Platforms and a wealth of companies central to the AI trade, a day after Meta -- one of the so-called hyperscalers spending billions to build data centers and other infrastructure supporting the AI boom -- said it would issue a new class of shares that will help it raise funds."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/rhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising/articleshow/135126716.cms",
+        "title": "Rhode Island sues Meta over alleged tolerance for scam advertising",
+        "link": "https://economictimes.indiatimes.com/tech/technology/rhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising/articleshow/135126716.cms",
+        "published": "Fri, 23 Oct 2026 00:45:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The suit, filed by Rhode Island Attorney General Peter Neronha in Providence Superior Court, accuses Meta of unlawfully profiting from and participating in the creation of billions of dollars in scam advertising - even as it assured its billions of users that it was working diligently to protect them."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/swiggy-ceo-sriharsha-majety-says-rival-blinkit-has-strong-flywheel-aims-to-fix-basics-before-expanding/articleshow/135126074.cms",
+        "title": "Swiggy CEO Sriharsha Majety says rival Blinkit has the stronger flywheel, aims to fix basics before expanding",
+        "link": "https://economictimes.indiatimes.com/tech/startups/swiggy-ceo-sriharsha-majety-says-rival-blinkit-has-strong-flywheel-aims-to-fix-basics-before-expanding/articleshow/135126074.cms",
+        "published": "Fri, 23 Oct 2026 00:17:28 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "He said Swiggy\u2019s priority is a stable business with \u201cthe clearest line of sight to Ebitda zero,\u201d and that it would not use its cash reserves to open new fronts simply because the money is available. \u201cI think our first job is to build a stable, resilient business that has the clearest line of sight to EBITDA zero. The optionalities come after that,\u201d he said on the call following the announcement of the company's September quarter results."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/celebrities-dont-sell-product-does-ananth-narayanan-what-makes-d2c-brand-last",
+        "title": "Celebrities don't sell, the product does: Ananth Narayanan on what makes a D2C brand last",
+        "link": "https://yourstory.com/2026/10/celebrities-dont-sell-product-does-ananth-narayanan-what-makes-d2c-brand-last",
+        "published": "Wed, 21 Oct 2026 13:34:12 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "At TechSparks 2026, the BRND.ME founder says the growth-hack era is over and the brands that survive will be built on product love, cash flows and global ambition."
     }
 ]
