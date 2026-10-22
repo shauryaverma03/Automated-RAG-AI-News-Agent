@@ -406910,5 +406910,165 @@
         "published": "Thu, 22 Oct 2026 00:30:55 +0000",
         "source": "Inc42 Media",
         "summary": "<img alt=\"CureBay Raises $21 Mn To Improve Healthcare In Rural India\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/05/curebay-funding-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Healthtech startup CureBay raised around \u20b9100 Cr ($10.6 Mn) in a pre-Series C funding round, comprising over \u20b969 Cr in&#8230;"
+    },
+    {
+        "id": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+        "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+        "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+        "published": "Thu, 22 Oct 2026 02:24:17 +0000",
+        "source": "WIRED",
+        "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They\u2019re now being \u201cbroadly exploited\u201d across the internet."
+    },
+    {
+        "id": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+        "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+        "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+        "published": "Thu, 22 Oct 2026 02:30:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50190455\">Comments</a>"
+    },
+    {
+        "id": "https://simedw.com/2026/10/21/world-model-terminal/",
+        "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+        "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+        "published": "Thu, 22 Oct 2026 02:18:41 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50190363\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/openai/openai-cli",
+        "title": "OpenAI CLI",
+        "link": "https://github.com/openai/openai-cli",
+        "published": "Thu, 22 Oct 2026 05:23:11 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50191507\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/tech/gridcraft-excel-clone-hands-on/",
+        "title": "GridCraft is the open-source Excel clone for Linux I\u2019ve been waiting for",
+        "link": "https://www.zdnet.com/tech/gridcraft-excel-clone-hands-on/",
+        "published": "2026-10-22T02:00:00Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "If spreadsheets are your thing, but Microsoft Office isn\u2019t, you might want to give the open-source clone, GridCraft, a try."
+    },
+    {
+        "id": "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/",
+        "title": "Not impressed with Google Maps? Make Waze your default on Pixel \u2013 here\u2019s how",
+        "link": "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/",
+        "published": "2026-10-22T01:00:00Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "If you\u2019re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I\u2019ve finally figured out how."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ola-electric-rights-issue-motilal-oswal-entities-apply-for-2-39-crore-shares/articleshow/135108718.cms",
+        "title": "Ola Electric rights issue: Motilal Oswal entities apply for 2.39 crore  shares",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ola-electric-rights-issue-motilal-oswal-entities-apply-for-2-39-crore-shares/articleshow/135108718.cms",
+        "published": "Thu, 22 Oct 2026 11:12:48 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "According to a stock exchange filing, Motilal Oswal applied for 1.28 crore shares and Calliope Capital for 1.10 crore shares."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/emudhra-breach-netizens-react-as-it-ministry-says-impact-on-indian-sites-very-limited/articleshow/135107533.cms",
+        "title": "eMudhra breach: Netizens react as IT Ministry says impact on Indian sites \u2018very limited\u2019",
+        "link": "https://economictimes.indiatimes.com/tech/technology/emudhra-breach-netizens-react-as-it-ministry-says-impact-on-indian-sites-very-limited/articleshow/135107533.cms",
+        "published": "Thu, 22 Oct 2026 10:16:37 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cybersecurity agency CERT-In warned that the compromised keys could let attackers issue fraudulent certificates for domains they do not control, impersonate legitimate websites and carry out attacks that intercept or modify encrypted communications."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure/articleshow/135106708.cms",
+        "title": "Cloudflare sees millions of exploit attempts after PHP disclosure",
+        "link": "https://economictimes.indiatimes.com/tech/technology/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure/articleshow/135106708.cms",
+        "published": "Thu, 22 Oct 2026 09:36:11 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cloud services firm Cloudflare saw millions of exploitation attempts after the public disclosure of critical vulnerabilities in the widely used programming language PHP, CEO Matthew"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/epics-fortnite-back-on-apple-app-store-in-australia-after-antitrust-ruling/articleshow/135106084.cms",
+        "title": "Epic's 'Fortnite' back on Apple App Store in Australia after antitrust ruling",
+        "link": "https://economictimes.indiatimes.com/tech/technology/epics-fortnite-back-on-apple-app-store-in-australia-after-antitrust-ruling/articleshow/135106084.cms",
+        "published": "Thu, 22 Oct 2026 09:00:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Epic Games said its shooter title \"Fortnite\" will return to Apple's App Store in Australia on Thursday after a federal court ordered the iPhone maker to open up its iOS operating system, having found it violated competition law."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-beats-expectations-but-legal-penalties-hit-profit-amid-ai-race/articleshow/135105927.cms",
+        "title": "Meta beats expectations but legal penalties hit profit amid AI race",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-beats-expectations-but-legal-penalties-hit-profit-amid-ai-race/articleshow/135105927.cms",
+        "published": "Thu, 22 Oct 2026 08:50:22 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta beat investor expectations for third-quarter revenue on Wednesday as it doubles down on a global AI race but the social media giant's profits took a hit due to an $18 billion legal settlement with nearly all US states. The company reported $9.86 billion in profits from July to September, almost 50 percent below investor expectations, which Meta said was dragged down by a $9.9 billion charge related to the settlement."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/finance-influencer-v-harish-suicide-father-alleges-cyberbullying",
+        "title": "Finance influencer V Harish dies by suicide; father alleges cyberbullying",
+        "link": "https://yourstory.com/2026/10/finance-influencer-v-harish-suicide-father-alleges-cyberbullying",
+        "published": "Wed, 21 Oct 2026 14:24:26 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The family has accused a venture studio CEO of online harassment. The CEO denies the allegation and says he had questioned Harish's financial regulatory credentials."
+    },
+    {
+        "id": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/",
+        "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
+        "link": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/",
+        "published": "Thu, 22 Oct 2026 06:06:13 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Anthropic Launches New Proactive AI Agent, Claude Duet\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/anthropic-ft.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Anthropic has unveiled Claude Duet, a proactive AI agent designed to monitor connected apps, prioritise tasks, and carry out work&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/",
+        "title": "Chapter Homes Bags \u20b963 Cr To Build Home & Kitchen Tech Brands",
+        "link": "https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/",
+        "published": "Thu, 22 Oct 2026 05:30:53 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Chapter Homes Bags \u20b963 Cr To Build Home &amp; Kitchen Tech Brands\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/chapter-homes-funding-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Omnichannel furniture and home furnishings brand Chapter Homes has raised \u20b963 Cr ($6.6 Mn) in a strategic funding round through&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/eternals-q2-profit-run-jio-ipo-day-1-more/",
+        "title": "Eternal\u2019s Q2 Profit Run, Jio IPO Day 1 & More",
+        "link": "https://inc42.com/buzz/eternals-q2-profit-run-jio-ipo-day-1-more/",
+        "published": "Thu, 22 Oct 2026 02:30:10 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Eternal\u2019s Q2 Profit Run, Jio IPO Day 1 &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-Daily-Brief-31.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Eternal\u2019s Q2 Profit Surge Eternal continued to fire on all cylinders in Q2 FY27. Besides improving margins and the profit&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-meta-penalty-cambridge-analytica/",
+        "title": "Explained: Why Meta faces a $25 billion penalty in a case linked to Cambridge Analytica",
+        "link": "https://www.medianama.com/2026/10/223-meta-penalty-cambridge-analytica/",
+        "published": "Thu, 22 Oct 2026 06:12:51 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>A New Mexico court has ordered Meta to pay $25 billion for misleading Facebook users about data privacy, third-party access to personal information and content moderation. Meta plans to appeal.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-meta-penalty-cambridge-analytica/\">Explained: Why Meta faces a $25 billion penalty in a case linked to Cambridge Analytica</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-government-tv-channels-ai-assistive-capacity/",
+        "title": "Government tells TV channels to limit AI to \u2018assistive capacity\u2019. Does that rule out AI anchors?",
+        "link": "https://www.medianama.com/2026/10/223-government-tv-channels-ai-assistive-capacity/",
+        "published": "Thu, 22 Oct 2026 06:09:35 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>From Aaj Tak\u2019s Sana to India Today\u2019s Sutra, AI anchors are spreading across Indian television. MIB has issued new AI guidance.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-government-tv-channels-ai-assistive-capacity/\">Government tells TV channels to limit AI to \u2018assistive capacity\u2019. Does that rule out AI anchors?</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-gujarats-ai-training-plan-students-data-privacy/",
+        "title": "Gujarat plans AI training for 5 lakh students before data protection safeguards take effect",
+        "link": "https://www.medianama.com/2026/10/223-gujarats-ai-training-plan-students-data-privacy/",
+        "published": "Thu, 22 Oct 2026 05:37:46 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Gujarat proposes AI training for five lakh college students under a Rs 20 crore mission, raising questions about student data privacy, AI tools, safeguards and the use of unique learner IDs.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-gujarats-ai-training-plan-students-data-privacy/\">Gujarat plans AI training for 5 lakh students before data protection safeguards take effect</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-man-arrested-fake-ai-blast-video-vidhana-soudha/",
+        "title": "Bengaluru Police arrest man over AI-generated video showing fake blast at Karnataka\u2019s Vidhana Soudha",
+        "link": "https://www.medianama.com/2026/10/223-man-arrested-fake-ai-blast-video-vidhana-soudha/",
+        "published": "Thu, 22 Oct 2026 05:33:45 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>An AI-generated video showing a fake explosion at Vidhana Soudha led to an arrest. Here's what the police investigation has revealed.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-man-arrested-fake-ai-blast-video-vidhana-soudha/\">Bengaluru Police arrest man over AI-generated video showing fake blast at Karnataka\u2019s Vidhana Soudha</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-ai-agents-travel-platforms-ixigo/",
+        "title": "Will AI agents drive customers away from travel platforms and its impact on ixigo",
+        "link": "https://www.medianama.com/2026/10/223-ai-agents-travel-platforms-ixigo/",
+        "published": "Thu, 22 Oct 2026 03:55:50 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>ixigo plans to build its own AI travel agent while partnering with third-party agents to handle bookings. The company believes its expertise in India's complex travel market gives it an advantage.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-ai-agents-travel-platforms-ixigo/\">Will AI agents drive customers away from travel platforms and its impact on ixigo</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
