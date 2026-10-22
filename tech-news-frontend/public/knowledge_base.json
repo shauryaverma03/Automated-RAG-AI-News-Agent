@@ -407070,5 +407070,245 @@
         "published": "Thu, 22 Oct 2026 03:55:50 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>ixigo plans to build its own AI travel agent while partnering with third-party agents to handle bookings. The company believes its expertise in India's complex travel market gives it an advantage.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-ai-agents-travel-platforms-ixigo/\">Will AI agents drive customers away from travel platforms and its impact on ixigo</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+        "title": "AI agents are ready to shop. Some retailers are wary.",
+        "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+        "published": "2026-10-22T08:30:00-04:00",
+        "source": "The Verge",
+        "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+        "title": "Claude did not invent scorpion antivenom",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+        "published": "2026-10-22T08:21:07-04:00",
+        "source": "The Verge",
+        "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1014332/oppo-find-x10-pro-max-camera-200-megapixels",
+        "title": "The world\u2019s first triple 200-megapixel camera phone is great",
+        "link": "https://www.theverge.com/gadgets/1014332/oppo-find-x10-pro-max-camera-200-megapixels",
+        "published": "2026-10-22T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Oppo's Find X10 Pro Max is the first phone with a triple 200-megapixel camera, which you're likely to see as either a masterful feat of engineering or a load of hyped-up marketing nonsense. The truth is somewhere in the middle. We've seen 200-megapixel cameras in phones before, starting with 2022's Moto X30 Pro. This year's [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+        "title": "Eiliko maker says it&#8217;s hiring an \u2018independent security firm\u2019 after Verge report on its insecure robots",
+        "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+        "published": "2026-10-22T07:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+        "title": "Meta\u2019s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+        "link": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+        "published": "Thu, 22 Oct 2026 10:43:13 +0000",
+        "source": "WIRED",
+        "summary": "An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less-Personalized Ads model at the beginning of this year."
+    },
+    {
+        "id": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+        "title": "I Worked for a Whole Day Using Only the iPhone Duo. Here\u2019s How It Went",
+        "link": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+        "published": "Thu, 22 Oct 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "A portable keyboard and kickstand make it a viable emergency workstation\u2014even if iOS still gets in the way."
+    },
+    {
+        "id": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
+        "title": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+        "link": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
+        "published": "Thu, 22 Oct 2026 10:15:00 +0000",
+        "source": "WIRED",
+        "summary": "A host of election-denying candidates are running for attorney general in states across the country."
+    },
+    {
+        "id": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+        "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+        "link": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+        "published": "Thu, 22 Oct 2026 10:01:00 +0000",
+        "source": "WIRED",
+        "summary": "After testing multiple models, I\u2019m convinced voice control belongs on the family calendar. Greenlight\u2019s Family Hub shows why."
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+        "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+        "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+        "published": "Thu, 22 Oct 2026 11:30:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+        "title": "UN says we're going to blow past 1.5\u00ba warming, offers a \"now what?\" answer",
+        "link": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+        "published": "Thu, 22 Oct 2026 11:15:36 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Best case is now an overshoot to 1.8\u00ba C, accompanied by massive carbon removal."
+    },
+    {
+        "id": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/",
+        "title": "Tesla plans to start selling Cybercabs by the end of the year",
+        "link": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/",
+        "published": "Thu, 22 Oct 2026 08:52:48 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Tesla wants to sell Cybercabs to other transport companies before the year ends."
+    },
+    {
+        "id": "https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/",
+        "title": "Fortnite is coming back to Apple's Australian App Store following court ruling",
+        "link": "https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/",
+        "published": "Thu, 22 Oct 2026 08:18:58 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+        "title": "The Download: computing\u2019s next leap and permafrost\u2019s climate threat",
+        "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+        "published": "Thu, 22 Oct 2026 12:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called \u201cThere\u2019s Plenty of Room at the Bottom.\u201d There is no physical&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "title": "Making the case for context-aware AI",
+        "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "published": "Thu, 22 Oct 2026 10:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+        "title": "Three things you should know about permafrost",
+        "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+        "published": "Thu, 22 Oct 2026 10:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "How much do you know about permafrost? Maybe, like me, you\u2019ve been aware that this layer of frozen soil is thawing, that it\u2019s important in the global puzzle of climate change \u2026 and that\u2019s about the extent of it.&#160;&#160; The great news for both of us is that my colleague James Temple just published two&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "title": "AI\u2019s hidden storage bill: What inference leaves behind",
+        "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "published": "Thu, 22 Oct 2026 08:41:18 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Ask most executives to picture the cost of AI and they\u2019ll likely see GPUs\u2014racks of accelerators with gigawatts of power\u2014and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that\u2019s generated\u2014from billions of daily prompts, images, and videos\u2014needs&#8230;"
+    },
+    {
+        "id": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+        "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+        "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+        "published": "Thu, 22 Oct 2026 08:51:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50192900\">Comments</a>"
+    },
+    {
+        "id": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+        "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+        "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+        "published": "Thu, 22 Oct 2026 09:31:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50193170\">Comments</a>"
+    },
+    {
+        "id": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+        "title": "Jailbreaking the Switch 2",
+        "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+        "published": "Thu, 22 Oct 2026 08:01:52 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50192536\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/10/can-ai-make-debt-collections-less-about-chasing-and-more-about-predicting",
+        "title": "Can AI make debt collections less about chasing and more about predicting?",
+        "link": "https://yourstory.com/2026/10/can-ai-make-debt-collections-less-about-chasing-and-more-about-predicting",
+        "published": "Thu, 22 Oct 2026 08:03:56 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The future lies in using data to understand portfolios, AI to prioritise decisions, and human judgement where individual circumstances matter most."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/chapter-home-raises-rs-63-cr-in-a-mix-of-equity-and-debt",
+        "title": "Chapter Home raises Rs 63 Cr in a mix of equity and debt",
+        "link": "https://yourstory.com/2026/10/chapter-home-raises-rs-63-cr-in-a-mix-of-equity-and-debt",
+        "published": "Thu, 22 Oct 2026 05:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Chapter Home said it will use the funding for product development, expansion into newer categories, and investment into technology ."
+    },
+    {
+        "id": "https://inc42.com/buzz/tonbo-imaging-cofounders-rake-in-%e2%82%b9137-cr-from-ipo/",
+        "title": "Tonbo Imaging Cofounders Rake In \u20b9137 Cr From IPO",
+        "link": "https://inc42.com/buzz/tonbo-imaging-cofounders-rake-in-%e2%82%b9137-cr-from-ipo/",
+        "published": "Thu, 22 Oct 2026 12:20:47 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Tonbo Imaging Cofounders Rake In \u20b9137 Cr From IPO\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-Imaging-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Tonbo Imaging\u2019s promoters and investors have realised substantial gains from the company\u2019s IPO, which closed earlier this week post witnessing&#8230;"
+    },
+    {
+        "id": "https://inc42.com/startups/manufacturing-startups-to-watch-5-startups-that-caught-our-eye-in-october/",
+        "title": "Manufacturing Startups To Watch: 5 Startups That Caught Our Eye In October",
+        "link": "https://inc42.com/startups/manufacturing-startups-to-watch-5-startups-that-caught-our-eye-in-october/",
+        "published": "Thu, 22 Oct 2026 12:12:55 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"https://www.magronev.com/\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Manufacturing-October-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />India\u2019s manufacturing story is moving beyond assembling finished products. Startups are developing specialised components, materials and engineering systems that power&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/binny-bansal-backed-shopos-launches-ai-creative-platform-sloosh-for-individuals/",
+        "title": "Binny Bansal-Backed ShopOS Launches AI Creative Platform Sloosh For Individuals",
+        "link": "https://inc42.com/buzz/binny-bansal-backed-shopos-launches-ai-creative-platform-sloosh-for-individuals/",
+        "published": "Thu, 22 Oct 2026 11:43:51 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Binny Bansal-Backed ShopOS Launches AI Creative Platform Sloosh For Individuals\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Untitled-Design-19.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Binny Bansal-backed AI startup ShopOS has launched Sloosh, a self-service platform that makes the image and video generation technology it&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/swiggy-q2-loss-narrows-16-yoy-to-%e2%82%b9922-cr-revenue-jumps-36/",
+        "title": "Swiggy Q2: Loss Narrows 16% YoY To \u20b9922 Cr, Revenue Jumps 36%",
+        "link": "https://inc42.com/buzz/swiggy-q2-loss-narrows-16-yoy-to-%e2%82%b9922-cr-revenue-jumps-36/",
+        "published": "Thu, 22 Oct 2026 10:27:16 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Swiggy Q2: Loss Narrows 16% YoY To \u20b9922 Cr, Revenue Jumps 36%\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Swiggy-Image-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Swiggy\u2019s consolidated net loss narrowed 16% YoY to \u20b9922 Cr in Q2 FY27 but widened 17% from \u20b9791 Cr in&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-training-ai-song-us-court-india-licence-fee/",
+        "title": "Is training AI on song lyrics fair use? US court weighs question as India proposes mandatory licensing",
+        "link": "https://www.medianama.com/2026/10/223-training-ai-song-us-court-india-licence-fee/",
+        "published": "Thu, 22 Oct 2026 11:58:37 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Anthropic has asked a US court to rule that training Claude on copyrighted song lyrics is fair use, while music publishers argue that AI-generated lyrics threaten songwriters and the music industry.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-training-ai-song-us-court-india-licence-fee/\">Is training AI on song lyrics fair use? US court weighs question as India proposes mandatory licensing</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-eternal-q2-fy27-results-ai-strategy/",
+        "title": "Five strategic developments from Eternal\u2019s Q2FY27 earnings call",
+        "link": "https://www.medianama.com/2026/10/223-eternal-q2-fy27-results-ai-strategy/",
+        "published": "Thu, 22 Oct 2026 11:30:25 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Blinkit is targeting smaller cities, Eternal is assessing the threat from AI shopping agents, and District is moving into a separate subsidiary. Here are five strategic developments from Eternal\u2019s Q2 FY27 earnings call.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-eternal-q2-fy27-results-ai-strategy/\">Five strategic developments from Eternal\u2019s Q2FY27 earnings call</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-teen-accounts-parental-controls-nudify-apps-play-stores/",
+        "title": "Report: Teen accounts with parental controls are still able to access nudify apps on Google, Apple play stores",
+        "link": "https://www.medianama.com/2026/10/223-teen-accounts-parental-controls-nudify-apps-play-stores/",
+        "published": "Thu, 22 Oct 2026 11:30:04 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The investigation revealed that the parent-supervised teen account could access 24 nudify apps on Apple Store and 51 on Google Play Store compared to a default teen account which accessed 61 and 47 such apps on Apple &#038; Google respectively. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-teen-accounts-parental-controls-nudify-apps-play-stores/\">Report: Teen accounts with parental controls are still able to access nudify apps on Google, Apple play stores</a> appeared first "
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-cleartrip-cashbacks-net-revenue/",
+        "title": "Cleartrip spent Rs 898 crore on discounts and cashbacks for Rs 198 crore net revenue in FY26",
+        "link": "https://www.medianama.com/2026/10/223-cleartrip-cashbacks-net-revenue/",
+        "published": "Thu, 22 Oct 2026 10:16:28 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Flipkart-owned Cleartrip's net loss widened 28% to Rs 804.7 crore in FY26, despite a 21% rise in revenue to Rs 198.3 crore, as the travel platform spent nearly Rs 900 crore on discounts and cashbacks.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-cleartrip-cashbacks-net-revenue/\">Cleartrip spent Rs 898 crore on discounts and cashbacks for Rs 198 crore net revenue in FY26</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-meta-muse-ai-chat-sharing/",
+        "title": "Meta pauses Muse AI chat sharing after researchers find over 6,800 discoverable links",
+        "link": "https://www.medianama.com/2026/10/223-meta-muse-ai-chat-sharing/",
+        "published": "Thu, 22 Oct 2026 10:05:42 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Researchers found more than 6,800 Meta Muse share hostnames and reported the issue to Meta before the feature was paused.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-meta-muse-ai-chat-sharing/\">Meta pauses Muse AI chat sharing after researchers find over 6,800 discoverable links</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
