@@ -407310,5 +407310,365 @@
         "published": "Thu, 22 Oct 2026 10:05:42 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Researchers found more than 6,800 Meta Muse share hostnames and reported the issue to Meta before the feature was paused.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-meta-muse-ai-chat-sharing/\">Meta pauses Muse AI chat sharing after researchers find over 6,800 discoverable links</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+        "title": "Elon Musk made a $1 billion investment in Skydance, report says",
+        "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+        "published": "Thu, 22 Oct 2026 17:36:38 +0000",
+        "source": "TechCrunch",
+        "summary": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+        "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+        "published": "Thu, 22 Oct 2026 16:47:17 +0000",
+        "source": "TechCrunch",
+        "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+        "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+        "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+        "published": "Thu, 22 Oct 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+        "published": "Thu, 22 Oct 2026 16:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+        "title": "Tesla is prepping a Cybercab onslaught",
+        "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+        "published": "Thu, 22 Oct 2026 15:44:39 +0000",
+        "source": "TechCrunch",
+        "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides."
+    },
+    {
+        "id": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+        "title": "Someone hacked the Switch 2 by using an old game and AI",
+        "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+        "published": "2026-10-22T13:21:31-04:00",
+        "source": "The Verge",
+        "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
+        "title": "Arc browser is shutting down",
+        "link": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
+        "published": "2026-10-22T13:03:37-04:00",
+        "source": "The Verge",
+        "summary": "The Browser Company plans to \"sunset\" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for good. The shutdown is happening in a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
+        "title": "The disastrous PHP vulnerabilities were exploited days before the patch",
+        "link": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
+        "published": "2026-10-22T12:49:48-04:00",
+        "source": "The Verge",
+        "summary": "Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17th through a monitoring system designed to bait hackers, as [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+        "title": "Wildwood\u2019s director says AI is \u2018antithetical to everything that we are at this studio\u2019",
+        "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+        "published": "2026-10-22T12:16:15-04:00",
+        "source": "The Verge",
+        "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
+        "title": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
+        "link": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
+        "published": "2026-10-22T12:00:29-04:00",
+        "source": "The Verge",
+        "summary": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would \"probably pass\" on renaming the Atlantic after he contacted [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/mac-mini-m4-deal-october-2026/",
+        "title": "Save $150 on the Apple Mac Mini M4, but There\u2019s a Catch",
+        "link": "https://www.wired.com/story/mac-mini-m4-deal-october-2026/",
+        "published": "Thu, 22 Oct 2026 15:30:31 +0000",
+        "source": "WIRED",
+        "summary": "Apple\u2019s Mac Mini M4 is one of the best mini computers you can buy, and it\u2019s $150 off. While it\u2019s a good deal on a new, older-generation model, it\u2019s more expensive than it was at launch."
+    },
+    {
+        "id": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/",
+        "title": "Fellow Aiden Precision Coffee Maker is $100 Off",
+        "link": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/",
+        "published": "Thu, 22 Oct 2026 15:14:37 +0000",
+        "source": "WIRED",
+        "summary": "The Fellow Aiden Precision Coffee Maker is a smart, high-end machine that offers pour-over quality. You can get it refurbished from the brand for 25 percent off."
+    },
+    {
+        "id": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+        "title": "Meet Mori, a Cute Robot Mushroom That Doesn\u2019t Really Say (or Do) Anything",
+        "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+        "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+        "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+        "published": "Thu, 22 Oct 2026 17:04:31 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+        "title": "US-backed vaccine trial on babies canceled after international outcry",
+        "link": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+        "published": "Thu, 22 Oct 2026 16:37:00 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The decried trial was canceled last week before police seized vaccine doses."
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+        "title": "This emulator reimagines Nintendo\u2019s Virtual Boy with a full color display",
+        "link": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+        "published": "Thu, 22 Oct 2026 15:59:40 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+        "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+        "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+        "published": "Thu, 22 Oct 2026 15:25:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Hackers were already probing the bug before defenders were told it existed."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+        "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
+        "link": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+        "published": "Thu, 22 Oct 2026 14:22:31 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"I will take my place as the conqueror, a sorcerer, a king.\""
+    },
+    {
+        "id": "https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans/",
+        "title": "Sundar Pichai (allegedly) draws the line at oceans",
+        "link": "https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans/",
+        "published": "Thu, 22 Oct 2026 16:22:50 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "President Trump claimed that the Google CEO refused to rename the Atlantic Ocean in Maps."
+    },
+    {
+        "id": "https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/",
+        "title": "PC shipments are in the toilet, plunging over 20 percent from last year",
+        "link": "https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/",
+        "published": "Thu, 22 Oct 2026 15:56:26 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "This could reach 27 percent throughout the end of 2026 as prices continue to rise."
+    },
+    {
+        "id": "https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/",
+        "title": "iPhone Duo's next-gen prototypes are trying to cram in Face ID",
+        "link": "https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/",
+        "published": "Thu, 22 Oct 2026 14:06:33 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Apple's first foldable phone opted for a feature it replaced on most iPhone models nearly 10 years ago."
+    },
+    {
+        "id": "https://www.engadget.com/2292288/insta360-mic-review/",
+        "title": "Insta360 Mic review: A midrange mic kit that's anything but boring",
+        "link": "https://www.engadget.com/2292288/insta360-mic-review/",
+        "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "In an ocean of boring microphones, Insta360's Mic adds a (customizable) pop of color."
+    },
+    {
+        "id": "https://www.engadget.com/2293840/roku-pro-series-lx-oled-tvs-at-amazon/",
+        "title": "Roku's Pro Series LX OLED TVs are now available on Amazon",
+        "link": "https://www.engadget.com/2293840/roku-pro-series-lx-oled-tvs-at-amazon/",
+        "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Roku has released its Pro Series LX OLED TVs, which are now available on Amazon in 55 and 65-inch variants."
+    },
+    {
+        "id": "https://quad9.net/news/blog/au-revoir-france/",
+        "title": "Quad9 (DNS Resolver) to Exit France",
+        "link": "https://quad9.net/news/blog/au-revoir-france/",
+        "published": "Thu, 22 Oct 2026 14:32:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50195959\">Comments</a>"
+    },
+    {
+        "id": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+        "title": "eMudhra to exit global SSL/TLS certificate business",
+        "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+        "published": "Thu, 22 Oct 2026 13:33:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50195110\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/oosexgang/hackios-xnu-kernel",
+        "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+        "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+        "published": "Thu, 22 Oct 2026 15:26:22 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50196718\">Comments</a>"
+    },
+    {
+        "id": "https://pwn.watch/",
+        "title": "What's Getting Pwned",
+        "link": "https://pwn.watch/",
+        "published": "Thu, 22 Oct 2026 14:08:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50195543\">Comments</a>"
+    },
+    {
+        "id": "https://www.taler.net/en/news/2026-13.html",
+        "title": "Getting ready to operate GNU Taler in Germany",
+        "link": "https://www.taler.net/en/news/2026-13.html",
+        "published": "Thu, 22 Oct 2026 16:14:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50197404\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
+        "title": "Amazon\u2019s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks",
+        "link": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
+        "published": "2026-10-22T15:55:55Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Unlike narrated audiobooks from Audible and other providers, the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI."
+    },
+    {
+        "id": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
+        "title": "The latest PowerToys gives your mouse 2 new tricks for free \u2013 how to use them",
+        "link": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
+        "published": "2026-10-22T15:17:56Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here\u2019s what\u2019s new for mousing."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/bluestone-slips-into-q2-loss-of-rs-4-4-crore-as-operating-revenue-rises-45/articleshow/135123218.cms",
+        "title": "BlueStone reports Rs 4.4 crore loss in Q2 as operating revenue rises 45%",
+        "link": "https://economictimes.indiatimes.com/tech/startups/bluestone-slips-into-q2-loss-of-rs-4-4-crore-as-operating-revenue-rises-45/articleshow/135123218.cms",
+        "published": "Thu, 22 Oct 2026 22:18:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The company\u2019s operating revenue rose 45% year-on-year (YoY) to Rs 745 crore in the second quarter of FY27, compared with Rs 513.6 crore a year earlier. Including other income of Rs 24.4 crore, BlueStone's total income stood at Rs 769 crore during the quarter."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/bridging-the-ai-production-gap-over-100000-indian-engineers-trained-to-build-with-gemini/articleshow/135122014.cms",
+        "title": "Bridging the AI production gap: Over 100,000 Indian engineers trained to build with Gemini",
+        "link": "https://economictimes.indiatimes.com/tech/technology/bridging-the-ai-production-gap-over-100000-indian-engineers-trained-to-build-with-gemini/articleshow/135122014.cms",
+        "published": "Thu, 22 Oct 2026 21:01:14 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "India is seeing a significant shift in its technology workforce towards enterprise AI integration and solutions. The Build with Gemini initiative has trained over 100,000 developers and architects across several major organizations. This transition emphasizes the need for professionals skilled in engineering AI for production. Global System Integrators are crucial in facilitating this workforce transformation. The evolution aims to position India as a key player in AI architecture and engineerin"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/what-is-the-php-security-vulnerability-the-ai-found-bug-that-made-governments-take-websites-offline/videoshow/135121300.cms",
+        "title": "What is the PHP security vulnerability: The AI-found bug that made governments take websites offline",
+        "link": "https://economictimes.indiatimes.com/tech/technology/what-is-the-php-security-vulnerability-the-ai-found-bug-that-made-governments-take-websites-offline/videoshow/135121300.cms",
+        "published": "Thu, 22 Oct 2026 19:58:30 +0530",
+        "source": "Tech-Economic Times",
+        "summary": ""
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-duet-ai-agent-app/articleshow/135121069.cms",
+        "title": "Anthropic unveils Claude Duet AI agent app",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-duet-ai-agent-app/articleshow/135121069.cms",
+        "published": "Thu, 22 Oct 2026 19:41:55 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic on Thursday unveiled Claude Duet, a standalone AI agent app designed to act as a proactive assistant for professionals and small-business owners, as rivals such as OpenAI and Meta race to develop AI agents that can complete work autonomously on users' behalf."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-acquires-dyflex-solutions-to-enhance-ai-and-sap-transformation-capabilities/articleshow/135120601.cms",
+        "title": "Cognizant acquires DyFlex Solutions to enhance AI and SAP transformation capabilities",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-acquires-dyflex-solutions-to-enhance-ai-and-sap-transformation-capabilities/articleshow/135120601.cms",
+        "published": "Thu, 22 Oct 2026 19:10:44 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Cognizant Technology Solutions has signed an agreement to acquire DyFlex Solutions, enhancing its AI and SAP capabilities. This acquisition is expected to close in the first quarter of 2027, subject to regulatory approvals. DyFlex specializes in SAP transformation and is based in Australia and New Zealand. The deal marks Cognizant\u2019s third acquisition in 2026 as it seeks to expand its services."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/say-no-confidently",
+        "title": "5 Books you must read to learn how to say no confidently",
+        "link": "https://yourstory.com/2026/10/say-no-confidently",
+        "published": "Thu, 22 Oct 2026 13:32:17 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover five books that teach you to say no confidently, set healthy boundaries, overcome people-pleasing and protect your peace of mind."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures",
+        "title": "CureBay raises Rs 100 Cr in Pre-Series C round led by IvyCap Ventures",
+        "link": "https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures",
+        "published": "Thu, 22 Oct 2026 05:04:56 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "CureBay said it will use the funds to expand its operations across India, strengthen its healthcare delivery network, and develop its technology and AI capabilities."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/eternal-q2-net-profit-rises-92-fy27-revenue-up-78-percent",
+        "title": "Eternal Q2 net profit rises 92% in FY27, revenue up 78%",
+        "link": "https://yourstory.com/2026/10/eternal-q2-net-profit-rises-92-fy27-revenue-up-78-percent",
+        "published": "Wed, 21 Oct 2026 11:19:34 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Blinkit remained a key contributor to Eternal\u2019s revenue, reporting Rs 19,152 crore in revenue in Q2 FY27."
+    },
+    {
+        "id": "https://inc42.com/features/emudhra-to-exit-certificate-business-as-security-flaw-triggers-distrust/",
+        "title": "eMudhra To Exit Certificate Business As Security Flaw Triggers Distrust",
+        "link": "https://inc42.com/features/emudhra-to-exit-certificate-business-as-security-flaw-triggers-distrust/",
+        "published": "Thu, 22 Oct 2026 17:06:16 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"With Surge In Cyber Attacks, Govt Warns Of Covid-19 Linked Phishing Scams\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2020/06/cybersecurity-india-featured.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Bengaluru-based cybersecurity company eMudhra, which recently found itself at the centre of a security key issue, has announced plans to&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/swiggy-to-begin-instamart-inventory-model-transition-eyes-pivot-within-three-quarters/",
+        "title": "Swiggy To Begin Instamart Inventory Model Transition, Eyes Pivot Within Three Quarters",
+        "link": "https://inc42.com/buzz/swiggy-to-begin-instamart-inventory-model-transition-eyes-pivot-within-three-quarters/",
+        "published": "Thu, 22 Oct 2026 16:56:53 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Swiggy To Begin Instamart Inventory Model Transition, Eyes Pivot Within Three Quarters\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/swiggy-instamart.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Over two months after attaining the IOCC (Indian-Owned and Controlled Company) tag, Swiggy announced that it will shortly commence transitioning&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/jio-platforms-ipo-subscribed-3-65x-on-day-2-so-far-retail-portion-fully-booked/",
+        "title": "[Update] Jio Platforms IPO Ends Day 2 With 5.57X Subscription, QIBs Lead Demand",
+        "link": "https://inc42.com/buzz/jio-platforms-ipo-subscribed-3-65x-on-day-2-so-far-retail-portion-fully-booked/",
+        "published": "Thu, 22 Oct 2026 14:09:06 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Jio Platforms IPO\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2020/06/Untitled-design-38.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Update &#124; October 22, 19:35 IST Jio Platforms\u2019 \u20b930,213 Cr IPO ended the second day of bidding with 5.57X subscription,&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/bluestone-slips-into-%e2%82%b94-4-cr-loss-in-q2-revenue-jumps-45-yoy/",
+        "title": "BlueStone Slips Into \u20b94.4 Cr Loss In Q2, Revenue Jumps 45% YoY",
+        "link": "https://inc42.com/buzz/bluestone-slips-into-%e2%82%b94-4-cr-loss-in-q2-revenue-jumps-45-yoy/",
+        "published": "Thu, 22 Oct 2026 13:40:31 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"BlueStone Projects \u20b912,000 Cr Revenue For FY30\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/BlueStone-FY23.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Omnichannel jewellery retailer BlueStone slipped into the red in the second quarter of FY27, reporting a consolidated net loss of&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
+        "title": "Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets \u20b9440 Cr",
+        "link": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
+        "published": "Thu, 22 Oct 2026 13:29:58 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets \u20b9440 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerks-IPO-2-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Early backers Kae Capital Fund II and Kalysta Capital Fund II bagged 38.3X returns on shares sold through manufacturing company&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-eternal-125-crore-profit-q2fy27/",
+        "title": "Eternal clocks Rs 125 crore profit in Q2FY27, revenue zooms 78% to Rs 24,138 crore",
+        "link": "https://www.medianama.com/2026/10/223-eternal-125-crore-profit-q2fy27/",
+        "published": "Thu, 22 Oct 2026 13:22:30 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The 92% YoY growth in net profit happened as revenue from operations grew 78% to touch Rs 24,138 cr due to a shift to an inventory-led quick commerce model while food delivery gathered momentum in Q2FY27.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-eternal-125-crore-profit-q2fy27/\">Eternal clocks Rs 125 crore profit in Q2FY27, revenue zooms 78% to Rs 24,138 crore</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-php-vulnerabilities-global-rush-update/",
+        "title": "Explained: What are the two PHP vulnerabilities behind a global rush to update and why it matters",
+        "link": "https://www.medianama.com/2026/10/223-php-vulnerabilities-global-rush-update/",
+        "published": "Thu, 22 Oct 2026 12:47:51 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The 2 PHP vulnerabilities tracked through CVE-2026-109618 &#038; CVE-2026-109619 \"saw thousands of attempts to exploit it\" reported Cloudflare with attempts jumping to \"tens of thousands in 45 mins of the announcement\".</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-php-vulnerabilities-global-rush-update/\">Explained: What are the two PHP vulnerabilities behind a global rush to update and why it matters</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p"
     }
 ]
