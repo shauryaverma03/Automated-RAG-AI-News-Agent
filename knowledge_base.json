@@ -408062,5 +408062,101 @@
         "published": "Thu, 22 Oct 2026 09:52:47 GMT",
         "source": "YourStory RSS Feed",
         "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, October 22, 2026."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "published": "Fri, 23 Oct 2026 00:45:37 +0000",
+        "source": "TechCrunch",
+        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+        "title": "Mark Zuckerberg\u2019s creative plan to pay California\u2019s proposed billionaire tax without losing control of Meta",
+        "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+        "published": "Thu, 22 Oct 2026 23:50:41 +0000",
+        "source": "TechCrunch",
+        "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law."
+    },
+    {
+        "id": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+        "title": "Etsy is cracking down on AI slop listings",
+        "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+        "published": "2026-10-22T20:09:58-04:00",
+        "source": "The Verge",
+        "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+        "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+        "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+        "published": "Thu, 22 Oct 2026 22:25:33 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+        "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+        "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+        "published": "Thu, 22 Oct 2026 22:12:19 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Markers released top-line results today after previously reporting the trial succeeded."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+        "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+        "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+        "published": "Thu, 22 Oct 2026 21:52:31 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\""
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+        "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+        "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+        "published": "Thu, 22 Oct 2026 21:07:09 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base."
+    },
+    {
+        "id": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+        "title": "Docker is weird",
+        "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+        "published": "Thu, 22 Oct 2026 23:45:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50202681\">Comments</a>"
+    },
+    {
+        "id": "https://www.anthropic.com/research/formal-verification",
+        "title": "LLMs are making formal software verification feasible at a much larger scale",
+        "link": "https://www.anthropic.com/research/formal-verification",
+        "published": "Thu, 22 Oct 2026 22:54:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50202217\">Comments</a>"
+    },
+    {
+        "id": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+        "title": "The foolishness of \"natural language programming\" (1978)",
+        "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+        "published": "Fri, 23 Oct 2026 00:52:01 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50203161\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms",
+        "title": "Swiggy narrows loss in Q2; eMudhra cofounder on what went wrong",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms",
+        "published": "Fri, 23 Oct 2026 07:37:17 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Happy Friday! Swiggy reported a rise in revenue in Q2 FY27 while cutting its losses. This and more in today\u2019s ETtech Morning Dispatch."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/jio-platforms-ipo-draws-strong-demand-within-hours",
+        "title": "Jio Platforms IPO draws strong demand within hours; Eternal's Q2 net profit rises 92%",
+        "link": "https://yourstory.com/2026/10/jio-platforms-ipo-draws-strong-demand-within-hours",
+        "published": "Thu, 22 Oct 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The qualified institutional investors showed strong interest for the IPO of Jio Platforms with subscription crossing 4x."
     }
 ]
