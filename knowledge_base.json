@@ -408334,5 +408334,341 @@
         "published": "Fri, 23 Oct 2026 06:11:58 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Cloud hosting platform Railway has urged users to replace API keys and credentials after a cyberattack potentially exposed sensitive customer data, including database passwords and access tokens.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-railway-api-cyberattack-customer-secrets/\">Railway urges users to revoke API keys after cyberattack exposes customer secrets</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+        "title": "People are vibe coding their way to better TVs",
+        "link": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+        "published": "2026-10-23T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user turned their TV homescreen [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
+        "title": "Netflix can\u2019t fire its way out of this downward spiral",
+        "link": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
+        "published": "2026-10-23T09:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees, downsizing its product, tech, and legal departments, and was ousting its chief content officer, film chairman, and film vice president. But it had also hired a [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
+        "title": "Brick\u2019s new app blocker is designed for bedtime doomscrolling",
+        "link": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
+        "published": "2026-10-23T08:50:17-04:00",
+        "source": "The Verge",
+        "summary": "Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element: instead of requiring you to tap your phone against the device, like the OG Brick, [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+        "title": "Retro gaming is being overrun with AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+        "published": "2026-10-23T08:00:00-04:00",
+        "source": "The Verge",
+        "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+        "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
+        "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+        "published": "2026-10-23T06:58:03-04:00",
+        "source": "The Verge",
+        "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company that says it's trying to resurrect extinct animals), [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+        "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
+        "link": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+        "published": "Fri, 23 Oct 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Samsung\u2019s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it\u2019s pricier than its predecessor."
+    },
+    {
+        "id": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
+        "title": "Split Tunneling Is Your VPN\u2019s Best Feature. Here\u2019s How to Make the Most of It",
+        "link": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
+        "published": "Fri, 23 Oct 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "This feature common to VPN services gives you protection and privacy specifically when and where you need it."
+    },
+    {
+        "id": "https://www.wired.com/review/turtle-beach-vulcan-xp-ii/",
+        "title": "Turtle Beach Vulcan II XP Review: Clicky Compromise",
+        "link": "https://www.wired.com/review/turtle-beach-vulcan-xp-ii/",
+        "published": "Fri, 23 Oct 2026 10:45:00 +0000",
+        "source": "WIRED",
+        "summary": "Great for typing and fine for gaming, but too many compromises keep this mechanical keyboard from leveling up your play."
+    },
+    {
+        "id": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
+        "title": "TDM Neo Hybrid Headphones Review: Two-in-One Woes",
+        "link": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
+        "published": "Fri, 23 Oct 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I\u2019m impressed by the engineering, but less impressed by the sound."
+    },
+    {
+        "id": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
+        "title": "A Dating App Is Offering \u2018Chivalry Mode\u2019 and \u2018Marriage Timeline\u2019 to Get Gen Z Married",
+        "link": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
+        "published": "Fri, 23 Oct 2026 10:15:00 +0000",
+        "source": "WIRED",
+        "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+        "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+        "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+        "published": "Fri, 23 Oct 2026 11:30:22 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+        "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+        "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+        "published": "Fri, 23 Oct 2026 11:15:03 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "<i>Friday the 13th</i> prequel series based on Jason\u2019s mom drags at first, then hits a vein."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+        "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+        "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+        "published": "Fri, 23 Oct 2026 11:00:57 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"We believe Canada should be able to reach orbit on its own terms.\""
+    },
+    {
+        "id": "https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/",
+        "title": "Greece enacts social media ban for kids under 15",
+        "link": "https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/",
+        "published": "Fri, 23 Oct 2026 13:12:47 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year."
+    },
+    {
+        "id": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
+        "title": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark",
+        "link": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
+        "published": "Fri, 23 Oct 2026 12:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics."
+    },
+    {
+        "id": "https://www.engadget.com/2294411/gulikit-tt-pro-review/",
+        "title": "GuliKit TT Pro review: The ideal Switch 2 controller for players on the go",
+        "link": "https://www.engadget.com/2294411/gulikit-tt-pro-review/",
+        "published": "Fri, 23 Oct 2026 11:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "A protective case and an accessory box make it easy to travel with the TT Pro."
+    },
+    {
+        "id": "https://www.engadget.com/2295058/tesla-will-not-release-cybertruck-in-australia-and-new-zealand/",
+        "title": "Tesla says it will no longer release the Cybertruck in Australia and New Zealand",
+        "link": "https://www.engadget.com/2295058/tesla-will-not-release-cybertruck-in-australia-and-new-zealand/",
+        "published": "Fri, 23 Oct 2026 11:26:04 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "People who reserved the Cybertruck in Australia and New Zealand will soon get a refund, because Tesla now won't release it there."
+    },
+    {
+        "id": "https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro/",
+        "title": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
+        "link": "https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro/",
+        "published": "Fri, 23 Oct 2026 09:59:15 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+        "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
+        "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+        "published": "Fri, 23 Oct 2026 12:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet\u2019s yowls and yips? Absolutely. Scrubbing&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+        "title": "In the biotech world, you can\u2019t see everything",
+        "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+        "published": "Fri, 23 Oct 2026 09:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;"
+    },
+    {
+        "id": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+        "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+        "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+        "published": "Fri, 23 Oct 2026 13:41:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50208837\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+        "title": "OpenSSL 4.1.0",
+        "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+        "published": "Fri, 23 Oct 2026 12:42:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50208099\">Comments</a>"
+    },
+    {
+        "id": "https://codeberg.org/shitter/shitter",
+        "title": "Shitter \u2013 A Nitter Fork",
+        "link": "https://codeberg.org/shitter/shitter",
+        "published": "Fri, 23 Oct 2026 13:02:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50208343\">Comments</a>"
+    },
+    {
+        "id": "https://keepandroidopen.org/",
+        "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+        "link": "https://keepandroidopen.org/",
+        "published": "Fri, 23 Oct 2026 13:19:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50208558\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explainer-why-is-meta-creating-a-new-class-of-non-voting-shares-amid-its-ai-growth/articleshow/135147442.cms",
+        "title": "Explained: Why is Meta creating a new class of non-voting shares amid its AI growth?",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explainer-why-is-meta-creating-a-new-class-of-non-voting-shares-amid-its-ai-growth/articleshow/135147442.cms",
+        "published": "Fri, 23 Oct 2026 18:59:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta plans to create a new class of publicly traded non-voting stock, known as Class C shares, and distribute one Class C share for each existing Class A and Class B share - effectively splitting its stock two-for-one. The new shares are expected to begin trading in January 2027."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
+        "title": "SK Hynix drops US IPO plan for Solidigm: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
+        "published": "Fri, 23 Oct 2026 18:57:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-minimax-win-approval-for-ai-global-use-state-media-affiliated-entity-says/articleshow/135147333.cms",
+        "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-minimax-win-approval-for-ai-global-use-state-media-affiliated-entity-says/articleshow/135147333.cms",
+        "published": "Fri, 23 Oct 2026 18:55:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "In a separate social media post on Friday, the social media account, Yuyuan Tantian, said overseas internet users had also urged other Chinese open-source large language models to follow suit."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say/articleshow/135147270.cms",
+        "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say/articleshow/135147270.cms",
+        "published": "Fri, 23 Oct 2026 18:52:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "AI helped drive a doubling of the number of digital flaws discovered year-on-year, according to research due to be published in the coming days by VulnCheck, a Massachusetts-based threat intelligence firm."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/articleshow/135147159.cms",
+        "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/articleshow/135147159.cms",
+        "published": "Fri, 23 Oct 2026 18:51:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Its reception could prove an early test for new Apple CEO John Ternus, the former hardware chief who unveiled iPhone Duo barely a week after taking charge in September."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/autonomy-and-control-are-not-opposites-they-go-together-ey-gds-at-devsparks-chennai",
+        "title": "Autonomy and control are not opposites, they go together: EY GDS at DevSparks Chennai",
+        "link": "https://yourstory.com/2026/10/autonomy-and-control-are-not-opposites-they-go-together-ey-gds-at-devsparks-chennai",
+        "published": "Fri, 23 Oct 2026 08:04:31 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Strapline: At DevSparks Chennai 2026, Arvind Purushothaman of EY GDS made the case that moving agents into production is an engineering problem, not a model problem.\n\nGayatri Guha\n\nAsk a room of developers about agents today and you will get plenty of answers. Almost everyone has built one, and m"
+    },
+    {
+        "id": "https://yourstory.com/2026/10/lessons-nexus-yuval",
+        "title": "5 Lessons to learn from Nexus by Yuval Noah Harari",
+        "link": "https://yourstory.com/2026/10/lessons-nexus-yuval",
+        "published": "Fri, 23 Oct 2026 12:10:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover five key lessons from Yuval Noah Harari\u2019s Nexus on information, power, artificial intelligence and how networks shape society."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/lessons-mindful-thinking",
+        "title": "5 Lessons from Prithvi Raj Banerjee\u2019s Mindful Thinking",
+        "link": "https://yourstory.com/2026/10/lessons-mindful-thinking",
+        "published": "Fri, 23 Oct 2026 11:47:01 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover five lessons from Prithvi Raj Banerjee\u2019s Mindful Thinking to manage anxiety, boost productivity and reshape your thoughts."
+    },
+    {
+        "id": "https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/",
+        "title": "Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?",
+        "link": "https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/",
+        "published": "Fri, 23 Oct 2026 13:16:38 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ftr2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Companies change course in good times and bad. For Zetwerk, the key turn came after it raised $150 Mn from&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/netflix-credits-flipkart-bundle-indian-shows-for-record-q3-subscriber-additions/",
+        "title": "Netflix Credits Flipkart Bundle, Indian Shows For Record Q3 Subscriber Additions",
+        "link": "https://inc42.com/buzz/netflix-credits-flipkart-bundle-indian-shows-for-record-q3-subscriber-additions/",
+        "published": "Fri, 23 Oct 2026 12:49:21 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Netflix\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/12/netflix-WWE-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Streaming giant Netflix recorded its highest-ever quarterly paid net subscriber additions in India in the September quarter of 2026, crediting&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/",
+        "title": "Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe",
+        "link": "https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/",
+        "published": "Fri, 23 Oct 2026 11:56:11 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Untitled-Design-21.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1300\" />US-based HR tech startup Firstwork has raised $15 Mn (over \u20b9142 Cr) in a Series A funding round led by&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/tonbo-imaging-makes-strong-market-debut-lists-at-66-premium-to-ipo-price/",
+        "title": "[Update] Tonbo Imaging Shares End Debut Session At 62% Premium To IPO Price",
+        "link": "https://inc42.com/buzz/tonbo-imaging-makes-strong-market-debut-lists-at-66-premium-to-ipo-price/",
+        "published": "Fri, 23 Oct 2026 11:43:32 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Tonbo Imaging IPO\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-FTR-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Update &#124; October 23, 2026, 16:40 IST Defence tech company Tonbo Imaging\u2019s shares closed their debut session at \u20b91,133.65 on&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/the-cfo-code-perfios-prashant-mahagaonkar-on-balancing-founder-ambition-with-financial-discipline/",
+        "title": "The CFO Code: Perfios\u2019 Prashant Mahagaonkar On Balancing Founder Ambition With Financial Discipline",
+        "link": "https://inc42.com/features/the-cfo-code-perfios-prashant-mahagaonkar-on-balancing-founder-ambition-with-financial-discipline/",
+        "published": "Fri, 23 Oct 2026 11:30:30 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"The CFO Code: Perfios&#039; Prashant Mahagaonkar On Balancing Founder Ambition With Financial Discipline\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/CFO-Code-ftr-2.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Getting an acquisition across the finish line can take months of negotiations, due diligence, paperwork and financial scrutiny. But closing&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-indias-telecom-sandbox-rules-trials-public/",
+        "title": "Lowdown: India\u2019s new telecom sandbox rules are in force. How much of the trials will the public see?",
+        "link": "https://www.medianama.com/2026/10/223-indias-telecom-sandbox-rules-trials-public/",
+        "published": "Fri, 23 Oct 2026 13:00:26 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>India's new telecom sandbox rules allow the government to waive licensing and spectrum requirements for testing new technologies, but leave gaps in transparency, user safeguards and oversight.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-indias-telecom-sandbox-rules-trials-public/\">Lowdown: India&#8217;s new telecom sandbox rules are in force. How much of the trials will the public see?</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-blinkit-instamart-order-numbers-profitability-gap/",
+        "title": "What do Blinkit and Instamart\u2019s order numbers reveal about their profitability gap?",
+        "link": "https://www.medianama.com/2026/10/223-blinkit-instamart-order-numbers-profitability-gap/",
+        "published": "Fri, 23 Oct 2026 12:29:47 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>While customers spend nearly the same on every order on Blinkit and Instamart and the former handles 3 times more orders than the latter, Blinkit already earns Rs 28 per order and Instamart will break even once it earns Rs 30 per order. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-blinkit-instamart-order-numbers-profitability-gap/\">What do Blinkit and Instamart\u2019s order numbers reveal about their profitability gap?</a> appeared first on <a href=\"https://www.medianama.com\">ME"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-flipkarts-super-money-spent-rs-341-crore-on-marketing-to-earn-rs-292-crore-in-revenue-in-fy26/",
+        "title": "Flipkart\u2019s super.money spent Rs 341 crore on marketing to earn Rs 292 crore in revenue in FY26",
+        "link": "https://www.medianama.com/2026/10/223-flipkarts-super-money-spent-rs-341-crore-on-marketing-to-earn-rs-292-crore-in-revenue-in-fy26/",
+        "published": "Fri, 23 Oct 2026 11:50:40 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Flipkart-backed super.money more than tripled its FY26 revenue to Rs 292.4 crore, driven by its loan marketplace business. However, its net loss widened 78% to Rs 263.8 crore amid rising expenses.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-flipkarts-super-money-spent-rs-341-crore-on-marketing-to-earn-rs-292-crore-in-revenue-in-fy26/\">Flipkart&#8217;s super.money spent Rs 341 crore on marketing to earn Rs 292 crore in revenue in FY26</a> appeared first on <a href=\"https://w"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-maharashtra-police-seek-x-users-personal-data-amruta-fadnavis/",
+        "title": "Maharashtra Police seek personal data of X users over posts criticising Amruta Fadnavis",
+        "link": "https://www.medianama.com/2026/10/223-maharashtra-police-seek-x-users-personal-data-amruta-fadnavis/",
+        "published": "Fri, 23 Oct 2026 11:08:59 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Maharashtra Police has asked X for personal data linked to posts criticising Amruta Fadnavis. What information does the notice seek, and how far does it go?</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-maharashtra-police-seek-x-users-personal-data-amruta-fadnavis/\">Maharashtra Police seek personal data of X users over posts criticising Amruta Fadnavis</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/10/223-delhi-high-court-bars-benne-kannada-butter/",
+        "title": "Delhi HC bars Benne Delhi from using \u2018Benne\u2019, Kannada for butter, until next hearing",
+        "link": "https://www.medianama.com/2026/10/223-delhi-high-court-bars-benne-kannada-butter/",
+        "published": "Fri, 23 Oct 2026 11:00:22 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The Delhi High Court has temporarily restrained Benne Delhi from using 'BENNE' in a trademark dispute, raising questions about whether businesses can claim exclusive rights over common words.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/10/223-delhi-high-court-bars-benne-kannada-butter/\">Delhi HC bars Benne Delhi from using &#8216;Benne&#8217;, Kannada for butter, until next hearing</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
