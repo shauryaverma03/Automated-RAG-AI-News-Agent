@@ -409110,5 +409110,85 @@
         "published": "Fri, 23 Oct 2026 07:29:29 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Discover how Anshu Kumar\u2019s Neev Ki Eent Foundation is helping children of brick kiln workers in Bihar access education and build brighter futures."
+    },
+    {
+        "id": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "title": "Twelve years of distributed SQLite",
+        "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "published": "Sat, 24 Oct 2026 01:16:58 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50217500\">Comments</a>"
+    },
+    {
+        "id": "https://rtfeldman.com/fp-vs-c",
+        "title": "How close can pure functional programming get to C?",
+        "link": "https://rtfeldman.com/fp-vs-c",
+        "published": "Sat, 24 Oct 2026 03:43:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50218195\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/instacart-in-talks-for-sale-the-information/articleshow/135162186.cms",
+        "title": "Instacart in talks for sale: The Information",
+        "link": "https://economictimes.indiatimes.com/tech/startups/instacart-in-talks-for-sale-the-information/articleshow/135162186.cms",
+        "published": "Sat, 24 Oct 2026 10:19:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Shares of Instacart closed about 9% higher and were up nearly 1% in extended trading. The company currently has a market value of about $12 billion."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
+        "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
+        "published": "Sat, 24 Oct 2026 10:14:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "PHP is a widely used general-purpose scripting language that is geared toward web development, and thus, it powers the majority of websites around the world. When the organization behind the language and the FBI's cyber division warned Wednesday of significant vulnerabilities in the language, government agencies, corporations and other organizations were sent into a flurry."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says/articleshow/135162044.cms",
+        "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says/articleshow/135162044.cms",
+        "published": "Sat, 24 Oct 2026 10:08:17 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The discovery of two serious flaws in PHP this week set off a global scramble to keep websites safe from hackers, showing just how critical the three-decade-old open-source programming language is to the internet."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/articleshow/135161388.cms",
+        "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/articleshow/135161388.cms",
+        "published": "Sat, 24 Oct 2026 09:29:03 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI had paused training of its most capable models after one of its research models used a configuration error to gain limited internet access in September. The company said it contained the incident and used the pause to strengthen its defenses."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand/articleshow/135161365.cms",
+        "title": "Why AI data centers are powering a boom in fuel-cell demand",
+        "link": "https://economictimes.indiatimes.com/tech/technology/why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand/articleshow/135161365.cms",
+        "published": "Sat, 24 Oct 2026 09:26:47 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "A fuel cell generates electricity through a chemical reaction between a fuel, such as natural gas or hydrogen, and oxygen, converting the fuel's energy directly into electricity rather than burning it."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
+        "title": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook",
+        "link": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
+        "published": "Sat, 24 Oct 2026 02:15:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&amp;B investment platform, explains what she looks for before funding a restaurant.  The founder of burger brand \u2018Beyondburg\u2019, one of Hotshare\u2019s portfolio companies, joins the podcast to share the brand's journey."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/why-indias-flying-taxi-revolution-begins-with-electric-air-ambulances",
+        "title": "Why India\u2019s flying taxi revolution begins with electric air ambulances",
+        "link": "https://yourstory.com/2026/10/why-indias-flying-taxi-revolution-begins-with-electric-air-ambulances",
+        "published": "Sat, 24 Oct 2026 02:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Speaking at TechSparks 2026, Professor Satya Chakravarthy explained how The ePlane Company plans to avoid deeptech traps by launching high-margin electric air ambulances before scaling low-cost urban air taxis globally."
+    },
+    {
+        "id": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
+        "title": "From Even Health To The Pant Project\u2014 Indian Startups Raised Over $184 Mn This Week",
+        "link": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
+        "published": "Sat, 24 Oct 2026 03:30:36 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"funding galore\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FG_Oct-23-Ftr-100.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Indian startup funding activity slowed down in the third week of October, with 17 startups raising over $184 Mn. This&#8230;"
     }
 ]
