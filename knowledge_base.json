@@ -410158,5 +410158,61 @@
         "published": "Sun, 25 Oct 2026 17:15:16 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=50233775\">Comments</a>"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+        "title": "Zen Browser is the Arc replacement I was looking for",
+        "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+        "published": "2026-10-25T15:24:50-04:00",
+        "source": "The Verge",
+        "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
+        "title": "What does the bell icon mean on your CarPlay screen?",
+        "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
+        "published": "Sun, 25 Oct 2026 18:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher."
+    },
+    {
+        "id": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+        "title": "The most unexpected everyday tool can be found on your phone",
+        "link": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+        "published": "Sun, 25 Oct 2026 18:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "If you have an iPhone, that is."
+    },
+    {
+        "id": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+        "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+        "link": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+        "published": "Sun, 25 Oct 2026 18:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger."
+    },
+    {
+        "id": "https://imaginationlibrary.com/",
+        "title": "Dolly Parton's Imagination Library",
+        "link": "https://imaginationlibrary.com/",
+        "published": "Sun, 25 Oct 2026 18:23:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50234474\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/JetBrains/thinkrail",
+        "title": "JetBrains Thinkrail",
+        "link": "https://github.com/JetBrains/thinkrail",
+        "published": "Sun, 25 Oct 2026 16:27:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50233294\">Comments</a>"
+    },
+    {
+        "id": "https://armincat.com/articles/eunice-is-almost-here",
+        "title": "Eunice is almost here (William Gibson, Agency)",
+        "link": "https://armincat.com/articles/eunice-is-almost-here",
+        "published": "Sun, 25 Oct 2026 19:40:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50235316\">Comments</a>"
     }
 ]
