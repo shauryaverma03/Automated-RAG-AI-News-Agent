@@ -410214,5 +410214,101 @@
         "published": "Sun, 25 Oct 2026 19:40:27 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=50235316\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+        "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "published": "Sun, 25 Oct 2026 21:31:16 +0000",
+        "source": "TechCrunch",
+        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+        "title": "\u2018Cyberselfish\u2019 author takes aim at techno-libertarianism as her book returns from the dead",
+        "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+        "published": "Sun, 25 Oct 2026 20:20:08 +0000",
+        "source": "TechCrunch",
+        "summary": "\"That's a 12-year-old view of the world.\""
+    },
+    {
+        "id": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+        "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+        "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+        "published": "2026-10-25T17:40:27-04:00",
+        "source": "The Verge",
+        "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+        "title": "Scott Walker\u2019s The Drift will get under your skin",
+        "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+        "published": "2026-10-25T17:08:09-04:00",
+        "source": "The Verge",
+        "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly upsetting. On it, Walker explores [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+        "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+        "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+        "published": "2026-10-25T16:16:19-04:00",
+        "source": "The Verge",
+        "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+        "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
+        "link": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+        "published": "Sun, 25 Oct 2026 22:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?"
+    },
+    {
+        "id": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+        "title": "Don't throw away your old, unsupported Nest gadgets \u2014 Do this instead",
+        "link": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+        "published": "Sun, 25 Oct 2026 22:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having."
+    },
+    {
+        "id": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+        "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+        "link": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+        "published": "Sun, 25 Oct 2026 22:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance."
+    },
+    {
+        "id": "https://www.disneyanimation.com/process/",
+        "title": "What goes into making an animated film?",
+        "link": "https://www.disneyanimation.com/process/",
+        "published": "Sun, 25 Oct 2026 20:27:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50235738\">Comments</a>"
+    },
+    {
+        "id": "https://charliegerard.dev/blog/overgrown-extension/",
+        "title": "Overgrown, when plants invade your abandoned tabs",
+        "link": "https://charliegerard.dev/blog/overgrown-extension/",
+        "published": "Thu, 22 Oct 2026 15:52:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50197108\">Comments</a>"
+    },
+    {
+        "id": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+        "title": "Why I Am a Programmer",
+        "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+        "published": "Sun, 25 Oct 2026 19:11:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50235017\">Comments</a>"
+    },
+    {
+        "id": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+        "title": "The State of Context Engineering",
+        "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+        "published": "Sun, 25 Oct 2026 20:32:31 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50235780\">Comments</a>"
     }
 ]
