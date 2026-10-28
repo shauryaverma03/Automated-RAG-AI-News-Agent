@@ -412358,5 +412358,125 @@
         "published": "Tue, 27 Oct 2026 05:16:04 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Microsoft has about 23,000 employees in India, although there is no immediate clarity on how many of them would be eligible for the voluntary exit programme."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+        "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "published": "Wed, 28 Oct 2026 01:15:28 +0000",
+        "source": "TechCrunch",
+        "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "published": "Tue, 27 Oct 2026 23:34:27 +0000",
+        "source": "TechCrunch",
+        "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+    },
+    {
+        "id": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "published": "Tue, 27 Oct 2026 22:55:41 +0000",
+        "source": "TechCrunch",
+        "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
+    },
+    {
+        "id": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+        "title": "Here\u2019s why the iPhone Duo\u2019s hinge could be cracking the screen",
+        "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+        "published": "2026-10-27T18:55:05-04:00",
+        "source": "The Verge",
+        "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+        "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+        "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+        "published": "Tue, 27 Oct 2026 22:37:30 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+        "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+        "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+        "published": "Tue, 27 Oct 2026 22:22:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "International travel used to be the main risk of measles cases in the US\u2014not anymore."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+        "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+        "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+        "published": "Tue, 27 Oct 2026 22:04:50 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+        "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "published": "Tue, 27 Oct 2026 21:50:04 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+        "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+        "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+        "published": "Tue, 27 Oct 2026 21:31:14 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+    },
+    {
+        "id": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+        "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+        "link": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+        "published": "Tue, 27 Oct 2026 23:04:49 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The platform's Discoverable Servers are about to get a lot more discoverable."
+    },
+    {
+        "id": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
+        "title": "How to change and customize your Android Auto display",
+        "link": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
+        "published": "Tue, 27 Oct 2026 23:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Tailor your tech to fit your daily drive seamlessly."
+    },
+    {
+        "id": "https://www.anthropic.com/research/early-progress-drug-development",
+        "title": "Early progress on accelerating drug development with Claude",
+        "link": "https://www.anthropic.com/research/early-progress-drug-development",
+        "published": "Tue, 27 Oct 2026 20:50:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50265609\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/snabbits-aayush-agarwal-on-the-100b-home-services-opportunity-the-brand-equity-show/videoshow/135248580.cms",
+        "title": "Snabbit's Aayush Agarwal on the $100B Home Services Opportunity | The Brand Equity Show",
+        "link": "https://economictimes.indiatimes.com/tech/startups/snabbits-aayush-agarwal-on-the-100b-home-services-opportunity-the-brand-equity-show/videoshow/135248580.cms",
+        "published": "Wed, 28 Oct 2026 06:15:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": ""
+    },
+    {
+        "id": "https://yourstory.com/2026/10/lessons-in-chemistry-5-takeaways-bonnie-garmus-novel",
+        "title": "Lessons in Chemistry: 5 Takeaways from Bonnie Garmus\u2019 Novel",
+        "link": "https://yourstory.com/2026/10/lessons-in-chemistry-5-takeaways-bonnie-garmus-novel",
+        "published": "Tue, 27 Oct 2026 12:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover five powerful lessons from Lessons in Chemistry by Bonnie Garmus about equality, ambition, independent thinking, and self-worth."
+    },
+    {
+        "id": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
+        "title": "Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform",
+        "link": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
+        "published": "Wed, 28 Oct 2026 00:00:25 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/QwikBuild_ftr-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Bengaluru-based enterprise AI startup QwikBuild has raised $2.3 Mn (around \u20b922 Cr) in a pre-seed funding round led by Japanese&#8230;"
     }
 ]
