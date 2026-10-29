@@ -413542,5 +413542,125 @@
         "published": "Wed, 28 Oct 2026 07:56:10 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Bihar's Sheetal Kumari transforms homemade badi into GomatiRoots, securing funding through YourStory's Shuru Kar initiative."
+    },
+    {
+        "id": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+        "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+        "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+        "published": "2026-10-28T22:22:46-04:00",
+        "source": "The Verge",
+        "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no [&#8230;]"
+    },
+    {
+        "id": "https://divagr.com/blog/qwenputer",
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "link": "https://divagr.com/blog/qwenputer",
+        "published": "Thu, 29 Oct 2026 00:25:45 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50282838\">Comments</a>"
+    },
+    {
+        "id": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "published": "Wed, 28 Oct 2026 23:45:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50282544\">Comments</a>"
+    },
+    {
+        "id": "https://furbo.org/2026/10/28/a-health-update/",
+        "title": "A Health Update",
+        "link": "https://furbo.org/2026/10/28/a-health-update/",
+        "published": "Wed, 28 Oct 2026 21:13:21 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50280974\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazon-unveils-new-lineup-of-alexa-devices-including-redesigned-echo-show/articleshow/135287353.cms",
+        "title": "Amazon unveils new lineup of Alexa devices including redesigned Echo Show",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazon-unveils-new-lineup-of-alexa-devices-including-redesigned-echo-show/articleshow/135287353.cms",
+        "published": "Thu, 29 Oct 2026 08:22:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Amazon.com on Wednesday unveiled five new Alexa-powered devices including a redesigned Echo Show 16 smart display and a photo frame with built-in Alexa, as it pushes its latest"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/us-doj-is-inquiring-about-nvidias-purchase-of-hugging-face/articleshow/135287206.cms",
+        "title": "US DOJ is inquiring about Nvidia's purchase of Hugging Face",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-doj-is-inquiring-about-nvidias-purchase-of-hugging-face/articleshow/135287206.cms",
+        "published": "Thu, 29 Oct 2026 08:17:26 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Justice Department's recent questioning covers Nvidia's acquisitions, investments, sales practices, and whether the chip designer has exerted pressure on its customers, the two people said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/google-misses-wall-street-expectations-alphabet-stock-sinks-in-early-after-hours-trading/articleshow/135287119.cms",
+        "title": "Google misses Wall Street expectations, Alphabet stock sinks in early after-hours trading",
+        "link": "https://economictimes.indiatimes.com/tech/technology/google-misses-wall-street-expectations-alphabet-stock-sinks-in-early-after-hours-trading/articleshow/135287119.cms",
+        "published": "Thu, 29 Oct 2026 08:11:46 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Mountain View, California-based company said its net income was $26.17 billion in the July-September period. That's down from $34.98 billion in the same period a year earlier."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/microsoft-beats-expectations-fueled-by-azure-cloud-business/articleshow/135287071.cms",
+        "title": "Microsoft beats expectations fueled by Azure cloud business",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-beats-expectations-fueled-by-azure-cloud-business/articleshow/135287071.cms",
+        "published": "Thu, 29 Oct 2026 08:09:19 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Microsoft shares popped more than five percent Wednesday afternoon after it reported better than expected revenue and profit, fueled by its Azure cloud computing division which grew by 48 percent in the September quarter. However, Google on Wednesday reported that revenue from its cloud division doubled to $30.7 billion during the quarter, bringing it closer to Microsoft's Azure revenue, which reached $33.2 billion in the same period."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report/articleshow/135286994.cms",
+        "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models: report",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report/articleshow/135286994.cms",
+        "published": "Thu, 29 Oct 2026 08:06:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Chinese AI developers DeepSeek and Moonshot AI relied heavily on outputs from OpenAI's powerful GPT-6 Astra model to train their latest models, The Information reported on Wednesday, citing people with direct knowledge of the matter."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/info-edge-steady-business-growth-leadership-transition",
+        "title": "Info Edge reports steady business growth ahead of leadership transition",
+        "link": "https://yourstory.com/2026/10/info-edge-steady-business-growth-leadership-transition",
+        "published": "Wed, 28 Oct 2026 13:34:21 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Revenue from operations grew 12% YoY, while net profit was up 87%. Growth was driven by recruitment business, 99acres, and matchmaking services."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/priyank-kharge-it-professionals-ai-skilling-nipuna-karnataka",
+        "title": "\u2018Keep learning, keep adapting\u2019: Priyank Kharge tells IT professionals to stay ahead of AI",
+        "link": "https://yourstory.com/2026/10/priyank-kharge-it-professionals-ai-skilling-nipuna-karnataka",
+        "published": "Wed, 28 Oct 2026 16:37:26 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Priyank Kharge urges IT professionals to adapt to AI, upgrade their skills and prepare for changing industry needs through initiatives like Nipuna Karnataka."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/meesho-reduces-losses-by-68-while-revenues-rises-34-in-q2-of-fy27",
+        "title": "Meesho narrows loss by 68% while revenue rises 34% in Q2 of FY27",
+        "link": "https://yourstory.com/2026/10/meesho-reduces-losses-by-68-while-revenues-rises-34-in-q2-of-fy27",
+        "published": "Wed, 28 Oct 2026 15:04:11 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The annual transacting user base of Meesho now stands at 284 million for Meesho and the seller base has grown to 1.13 million."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/info-edges-hitesh-oberoi-step-down-md-ceo-founder-sanjeev-bikhchandani-to-take-over",
+        "title": "Info Edge\u2019s Hitesh Oberoi to step down as MD and CEO; founder Sanjeev Bikhchandani to take over",
+        "link": "https://yourstory.com/2026/10/info-edges-hitesh-oberoi-step-down-md-ceo-founder-sanjeev-bikhchandani-to-take-over",
+        "published": "Wed, 28 Oct 2026 11:53:54 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Info Edge CEO Hitesh Oberoi will step down on 2 December 2026 after nearly 27 years, with founder Sanjeev Bikhchandani returning as MD and Group CEO from 3 December, subject to shareholder approval."
+    },
+    {
+        "id": "https://inc42.com/startups/fintech-startups-to-watch-startups-that-caught-our-eye-in-october/",
+        "title": "Fintech Startups To Watch: Startups That Caught Our Eye In October",
+        "link": "https://inc42.com/startups/fintech-startups-to-watch-startups-that-caught-our-eye-in-october/",
+        "published": "Thu, 29 Oct 2026 02:30:40 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Fintech Startups To Watch: Startups That Caught Our Eye In October\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Fintech-STW-Oct-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The question of when India\u2019s Unified Payments Interface (UPI) will finally be monetised has remained at the centre of the&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/meeshos-q2-report-card-info-edge-ceo-quits-more/",
+        "title": "Meesho\u2019s Q2 Report Card, Info Edge CEO Quits & More",
+        "link": "https://inc42.com/buzz/meeshos-q2-report-card-info-edge-ceo-quits-more/",
+        "published": "Thu, 29 Oct 2026 02:30:35 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Meesho\u2019s Q2 Report Card, Info Edge CEO Quits &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-Daily-Brief-34.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Meesho\u2019s Q2 Snapshot Meesho inched closer to profitability in Q2 FY27. The quarter saw the ecommerce giant rein in its&#8230;"
     }
 ]
