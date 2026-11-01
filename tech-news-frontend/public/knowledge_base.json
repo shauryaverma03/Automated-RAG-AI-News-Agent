@@ -416614,5 +416614,109 @@
         "published": "Sun, 01 Nov 2026 07:07:36 GMT",
         "source": "YourStory RSS Feed",
         "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 256th quiz. Ready?"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+        "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "published": "Sun, 01 Nov 2026 21:55:23 +0000",
+        "source": "TechCrunch",
+        "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+        "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
+        "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+        "published": "Sun, 01 Nov 2026 20:57:58 +0000",
+        "source": "TechCrunch",
+        "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+    },
+    {
+        "id": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+        "title": "NASA hopes the commercial space industry can help save Hubble",
+        "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+        "published": "2026-11-01T16:09:21-05:00",
+        "source": "The Verge",
+        "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+        "title": "Flock keeps ignoring requests to cancel its contracts",
+        "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+        "published": "2026-11-01T14:58:02-05:00",
+        "source": "The Verge",
+        "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+        "title": "Anthropic updates Claude to stop it from recreating existing video games",
+        "link": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+        "published": "Sun, 01 Nov 2026 21:08:32 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Users can still lean on Claude to help with designing original or genre games."
+    },
+    {
+        "id": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+        "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
+        "link": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+        "published": "Sun, 01 Nov 2026 21:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs."
+    },
+    {
+        "id": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
+        "title": "How to know if a USB-C cable is waterproof",
+        "link": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
+        "published": "Sun, 01 Nov 2026 20:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating."
+    },
+    {
+        "id": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/",
+        "title": "5 ways to get Amazon Prime for free (or way cheaper)",
+        "link": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/",
+        "published": "Sun, 01 Nov 2026 19:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Don't pay full price; you might already qualify for cheaper Prime or have another benefit that covers the membership fee"
+    },
+    {
+        "id": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/",
+        "title": "How to turn on the flashlight on your Android phone without unlocking it",
+        "link": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/",
+        "published": "Sun, 01 Nov 2026 19:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how."
+    },
+    {
+        "id": "https://github.com/raphlinus/nibnib",
+        "title": "Nibnib: Image compression with extreme decompression speed",
+        "link": "https://github.com/raphlinus/nibnib",
+        "published": "Fri, 30 Oct 2026 04:17:06 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50299811\">Comments</a>"
+    },
+    {
+        "id": "https://nullprogram.com/blog/2025/02/05/",
+        "title": "Tips for more effective fuzz testing with AFL++",
+        "link": "https://nullprogram.com/blog/2025/02/05/",
+        "published": "Wed, 28 Oct 2026 09:46:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50271106\">Comments</a>"
+    },
+    {
+        "id": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+        "title": "Mathematics has changed. Let's act like it",
+        "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+        "published": "Sun, 01 Nov 2026 18:28:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50328251\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/10/tvs-capitals-rs-750-cr-private-credit-bet",
+        "title": "TVS Capital\u2019s Rs 750-Cr private-credit bet; What makes people pay attention to content?",
+        "link": "https://yourstory.com/2026/10/tvs-capitals-rs-750-cr-private-credit-bet",
+        "published": "Sun, 01 Nov 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "TVS Capital has launched TVS Alts, a private-credit platform targeting Rs 750 crore, with a green-shoe option lifting its potential corpus to Rs 1,250 crore."
     }
 ]
