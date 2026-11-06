@@ -420662,5 +420662,181 @@
         "published": "Thu, 05 Nov 2026 20:43:42 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=50384233\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+        "title": "At least 10 local governments have moved to drop Flock\u2019s surveillance cameras since summer",
+        "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+        "published": "Fri, 06 Nov 2026 07:18:44 +0000",
+        "source": "TechCrunch",
+        "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "published": "Fri, 06 Nov 2026 06:28:32 +0000",
+        "source": "TechCrunch",
+        "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+        "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+        "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+        "published": "Fri, 06 Nov 2026 00:17:06 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "\"This is going to be a game-changer.\""
+    },
+    {
+        "id": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+        "title": "Airbnb is threatening to launch an AI travel agent next year",
+        "link": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+        "published": "Fri, 06 Nov 2026 07:51:42 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip."
+    },
+    {
+        "id": "https://github.com/ppmpreetham/BUI",
+        "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+        "link": "https://github.com/ppmpreetham/BUI",
+        "published": "Fri, 06 Nov 2026 07:40:35 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50389333\">Comments</a>"
+    },
+    {
+        "id": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+        "title": "Britain to make salary disclosure in job ads mandatory",
+        "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+        "published": "Fri, 06 Nov 2026 07:22:04 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50389222\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/ing-puts-500-million-of-data-center-loans-up-for-sale/articleshow/135592753.cms",
+        "title": "ING puts $500 million of data center loans up for sale",
+        "link": "https://economictimes.indiatimes.com/tech/technology/ing-puts-500-million-of-data-center-loans-up-for-sale/articleshow/135592753.cms",
+        "published": "Fri, 06 Nov 2026 09:22:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "This includes a $25 million loan tied to a large New Mexico data center that forms part of the Stargate artificial intelligence infrastructure venture backed by OpenAI, SoftBank Group and Oracle, the report said."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market/articleshow/135592268.cms",
+        "title": "SoftBank credit risk jumps to 4-year high as AI fears roil market",
+        "link": "https://economictimes.indiatimes.com/tech/technology/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market/articleshow/135592268.cms",
+        "published": "Fri, 06 Nov 2026 09:07:56 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The cost of insuring against a default for tech investor SoftBank Group jumped to its highest in four years on Friday as worries about AI profitability roiled the world's financial markets."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-sued-over-suicide-related-ai-chats-on-school-computer/articleshow/135591823.cms",
+        "title": "Google sued over suicide-related AI chats on school computer",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-sued-over-suicide-related-ai-chats-on-school-computer/articleshow/135591823.cms",
+        "published": "Fri, 06 Nov 2026 08:47:06 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The parents of a 13-year-old girl have sued Google claiming she planned a potential suicide and funeral using its AI technology on a school-issued computer. Developers of fast-evolving AI technology are facing a litany of similar lawsuits in the US. OpenAI faces several wrongful death suits, including from the parents of 16-year-old Adam Raine, a teenager who committed suicide allegedly using methods advised by ChatGPT. Google and the startup Character."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-kicks-off-charm-offensive-to-change-voters-view-of-data-centers/articleshow/135591129.cms",
+        "title": "OpenAI kicks off charm offensive to change voters' view of data centers",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-kicks-off-charm-offensive-to-change-voters-view-of-data-centers/articleshow/135591129.cms",
+        "published": "Fri, 06 Nov 2026 08:20:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Stunning victories by Democrats in US midterm elections this week have been interpreted by many as Americans repudiating tech industry plans to build data centers across the country."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/articleshow/135591045.cms",
+        "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/articleshow/135591045.cms",
+        "published": "Fri, 06 Nov 2026 08:13:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI released GPT-6 Cyber, a model built to find and exploit security flaws, to a small group of vetted customers on Thursday, rating it \"Critical\" in cybersecurity under its safety framework."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders",
+        "title": "How Satin Group\u2019s Sankalp plans to empower India\u2019s next wave of founders",
+        "link": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders",
+        "published": "Fri, 06 Nov 2026 02:20:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "University incubators play an important role in nurturing early-stage ideas, but Sankalp aims to go further by helping entrepreneurs bridge the gap between developing a concept and preparing it for the market."
+    },
+    {
+        "id": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth",
+        "title": "Why operational excellence will define the next phase of India\u2019s startup growth",
+        "link": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth",
+        "published": "Fri, 06 Nov 2026 02:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Startups often prioritise funding, sales and expansion while overlooking the operational foundations needed to sustain growth. The article explores why strong processes, reliable data and governance are essential to building scalable businesses."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/tdk-ventures-nicolas-sauvage-building-deeptech-world",
+        "title": "If it works in India, it can work anywhere: TDK Ventures\u2019 Nicolas Sauvage on building deeptech for the world",
+        "link": "https://yourstory.com/2026/11/tdk-ventures-nicolas-sauvage-building-deeptech-world",
+        "published": "Fri, 06 Nov 2026 06:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "At TechSparks 2026, the Founder and President of TDK Ventures said Indian deeptech founders should plan for international markets from the start, and use the country\u2019s tough operating conditions to develop capabilities that customers elsewhere would value."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/velodbs-nitin-waghulde-on-why-ai-agents-break-down-after-the-demo",
+        "title": "VeloDB\u2019s Nitin Waghulde on why AI agents break down after the demo",
+        "link": "https://yourstory.com/2026/11/velodbs-nitin-waghulde-on-why-ai-agents-break-down-after-the-demo",
+        "published": "Fri, 06 Nov 2026 08:22:11 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "At TechSparks 2026, VeloDB\u2019s Regional Director for APAC explained why AI agents that work in pilots struggle in production, and why the fix often lies in the database underneath them."
+    },
+    {
+        "id": "https://inc42.com/buzz/trai-backs-direct-to-device-satellite-connectivity-proposes-new-authorisation-framework/",
+        "title": "TRAI Backs Direct-To-Device Satellite Connectivity, Proposes New Authorisation Framework",
+        "link": "https://inc42.com/buzz/trai-backs-direct-to-device-satellite-connectivity-proposes-new-authorisation-framework/",
+        "published": "Fri, 06 Nov 2026 07:37:20 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"TRAI Backs Direct-To-Device Satellite Connectivity, Proposes New Authorisation Framework\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2023/12/TRAI-jio-featured-.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Telecom Regulatory Authority of India (TRAI) has recommended allowing direct-to-device (D2D) satellite connectivity and creating a separate authorisation for&#8"
+    },
+    {
+        "id": "https://inc42.com/buzz/cashfree-launches-checkout-for-agents-to-enable-ai-led-payments/",
+        "title": "Cashfree Launches \u2018Checkout For Agents\u2019 To Enable AI-Led Payments",
+        "link": "https://inc42.com/buzz/cashfree-launches-checkout-for-agents-to-enable-ai-led-payments/",
+        "published": "Fri, 06 Nov 2026 06:00:55 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Cashfree Launches \u2018Checkout For Agents\u2019 To Enable AI-Led Payments\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/FT-cashfree.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Fintech soonicorn Cashfree Payments has launched \u2018Checkout for Agents\u2019, a new tool that enables AI agents to process customer payments&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-x-fake-delhi-police-takedown-notices-iff-sflc/",
+        "title": "Impostor sent fake Delhi Police takedown notices against IFF, SFLC.in, X tells Delhi HC",
+        "link": "https://www.medianama.com/2026/11/223-x-fake-delhi-police-takedown-notices-iff-sflc/",
+        "published": "Fri, 06 Nov 2026 07:35:02 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>X told the Delhi High Court that someone impersonating Delhi Police had sent takedown notices against IFF and SFLC.in.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-x-fake-delhi-police-takedown-notices-iff-sflc/\">Impostor sent fake Delhi Police takedown notices against IFF, SFLC.in, X tells Delhi HC</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-meta-google-tiktok-sue-california-ban-under-16s/",
+        "title": "Meta, Google and TikTok sue California over ban on personalised feeds and autoplay for under-16s",
+        "link": "https://www.medianama.com/2026/11/223-meta-google-tiktok-sue-california-ban-under-16s/",
+        "published": "Fri, 06 Nov 2026 07:09:44 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Meta, Google and TikTok have sued California over a law banning personalised feeds and autoplay for users under 16, arguing that the restrictions violate free speech rights and Section 230 protections.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-meta-google-tiktok-sue-california-ban-under-16s/\">Meta, Google and TikTok sue California over ban on personalised feeds and autoplay for under-16s</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-npci-defends-upi-mdr-charges-supreme-court/",
+        "title": "NPCI tells Supreme Court merchants cannot pass new UPI charges on to customers",
+        "link": "https://www.medianama.com/2026/11/223-npci-defends-upi-mdr-charges-supreme-court/",
+        "published": "Fri, 06 Nov 2026 06:30:20 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Why does NPCI believe UPI needs merchant charges after years of operating under a zero-MDR framework?</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-npci-defends-upi-mdr-charges-supreme-court/\">NPCI tells Supreme Court merchants cannot pass new UPI charges on to customers</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-ananya-pandays-chatbots-deepfakes-fake-merchandise/",
+        "title": "Bombay HC protects Ananya Panday\u2019s likeness from AI chatbots, deepfakes and fake merchandise",
+        "link": "https://www.medianama.com/2026/11/223-ananya-pandays-chatbots-deepfakes-fake-merchandise/",
+        "published": "Fri, 06 Nov 2026 06:19:36 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The Bombay High Court has restrained the unauthorised use of Ananya Panday's identity, including AI deepfakes and impersonating chatbots, and ordered the removal of content and blocking of websites.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-ananya-pandays-chatbots-deepfakes-fake-merchandise/\">Bombay HC protects Ananya Panday&#8217;s likeness from AI chatbots, deepfakes and fake merchandise</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-western-australias-facial-recognition-delhi-police/",
+        "title": "What Western Australia\u2019s facial recognition van trial disclosed, and what Delhi Police hasn\u2019t",
+        "link": "https://www.medianama.com/2026/11/223-western-australias-facial-recognition-delhi-police/",
+        "published": "Fri, 06 Nov 2026 04:42:09 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Western Australia published detailed results of its police facial recognition trial, including arrests, errors and privacy risks. Delhi Police has disclosed little about its own facial recognition vehicles.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-western-australias-facial-recognition-delhi-police/\">What Western Australia&#8217;s facial recognition van trial disclosed, and what Delhi Police hasn&#8217;t</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA<"
     }
 ]
