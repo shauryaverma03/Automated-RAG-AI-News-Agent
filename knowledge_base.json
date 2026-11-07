@@ -421518,5 +421518,101 @@
         "published": "2026-11-07T00:00:45Z",
         "source": "news \u2013 ZDNET",
         "summary": "This dangerous Linux security hole must be patched as soon as possible."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+        "title": "Sequoia shutting down its Scouts program marks the end of an era",
+        "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+        "published": "Sat, 07 Nov 2026 05:01:54 +0000",
+        "source": "TechCrunch",
+        "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+        "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
+        "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+        "published": "Sat, 07 Nov 2026 04:16:43 +0000",
+        "source": "TechCrunch",
+        "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "published": "Sat, 07 Nov 2026 01:40:28 +0000",
+        "source": "TechCrunch",
+        "summary": "The deal highlights the challenges of developing massive AI data centers."
+    },
+    {
+        "id": "https://asahilinux.org/2026/11/progress-report-7-3/",
+        "title": "Asahi Linux Progress Linux 7.3",
+        "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+        "published": "Sat, 07 Nov 2026 05:20:18 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50401867\">Comments</a>"
+    },
+    {
+        "id": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+        "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+        "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+        "published": "Sat, 07 Nov 2026 04:54:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50401740\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazon-rolls-out-text-based-shopping-through-alexa/articleshow/135626091.cms",
+        "title": "Amazon rolls out text-based shopping through Alexa",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazon-rolls-out-text-based-shopping-through-alexa/articleshow/135626091.cms",
+        "published": "Sat, 07 Nov 2026 09:29:33 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Amazon said the new text feature lets users research and compare products, track deals and price drops, and have Alexa for Shopping complete purchases on their behalf."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/usda-to-launch-ai-tool-to-check-crop-production-data-after-errors/articleshow/135626006.cms",
+        "title": "USDA to launch AI tool to check crop production data after errors",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/usda-to-launch-ai-tool-to-check-crop-production-data-after-errors/articleshow/135626006.cms",
+        "published": "Sat, 07 Nov 2026 09:27:35 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "After the USDA discovered errors in its corn data from September, officials determined the AI tool would have flagged the problem and decided to use it on the crop production report due on November 10, USDA Under Secretary Scott Hutchins said in an interview."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/snapchat-starts-disabling-friend-finder-feature-for-uk-children-regulator-says/articleshow/135625691.cms",
+        "title": "Snapchat starts disabling friend-finder feature for UK children, regulator says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/snapchat-starts-disabling-friend-finder-feature-for-uk-children-regulator-says/articleshow/135625691.cms",
+        "published": "Sat, 07 Nov 2026 09:09:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Ofcom said the change would make it harder for strangers to contact children on the image-sharing social media platform, one it considers among the largest and most popular online services used by children in Britain."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/google-acquires-wyoming-data-center-site-from-ai-infrastructure-firm-crusoe/articleshow/135625592.cms",
+        "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
+        "link": "https://economictimes.indiatimes.com/tech/startups/google-acquires-wyoming-data-center-site-from-ai-infrastructure-firm-crusoe/articleshow/135625592.cms",
+        "published": "Sat, 07 Nov 2026 09:07:29 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Google has acquired Crusoe's data center site in southeast Wyoming, the AI infrastructure developer said on Friday, a day after the Alphabet unit announced a $17-billion investment in the project."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spy-targeting-nvidia-ceo-was-alleged-china-intelligence-service-recruit-nyt/articleshow/135625480.cms",
+        "title": "Spy targeting Nvidia CEO was alleged China intelligence service recruit: NYT",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spy-targeting-nvidia-ceo-was-alleged-china-intelligence-service-recruit-nyt/articleshow/135625480.cms",
+        "published": "Sat, 07 Nov 2026 09:03:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The Chinese businesswoman, with whom Nvidia's CEO Jensen Huang had alleged ties, was recruited as a spy for China\u2019s Ministry of State Security, The New York Times reported, citing a memo circulated among policymakers in the Trump administration."
+    },
+    {
+        "id": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+        "title": "From GIVA To EloElo Group \u2014 Indian Startups Raised $255 Mn This Week",
+        "link": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+        "published": "Sat, 07 Nov 2026 03:30:37 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"From GIVA To EloElo Group \u2014 Indian Startups Raised $255 Mn This Week\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Funding-Galore_Oct-Ftr-100.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Startup funding activity gathered steam in the first week of November. As per Inc42 data, 20 Indian startups cumulatively raised&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
+        "title": "OYO Parent PRISM\u2019s Profit Jumps 17% YoY To \u20b9353 Cr In Q1",
+        "link": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
+        "published": "Sat, 07 Nov 2026 01:30:12 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"OYO Parent PRISM\u2019s Profit Jumps 17% YoY To \u20b9353 Cr In Q1\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ftr-16.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />IPO-bound hospitality chain PRISM, the parent entity of OYO, reported a consolidated profit after tax (PAT) of \u20b9353 Cr in&#8230;"
     }
 ]
