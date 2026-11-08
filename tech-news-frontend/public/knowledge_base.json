@@ -422246,5 +422246,173 @@
         "published": "Fri, 06 Nov 2026 14:18:16 GMT",
         "source": "YourStory RSS Feed",
         "summary": "The total funding for the first week of November was $263 million across 23 deals, compared to just $115 million in the previous week."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+        "title": "Coordinated disturbances haunt grids worldwide. Here\u2019s how researchers solved the mystery.",
+        "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+        "published": "Sun, 08 Nov 2026 20:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+        "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+        "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+        "published": "Sun, 08 Nov 2026 19:51:30 +0000",
+        "source": "TechCrunch",
+        "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+        "title": "SNL has a new impression of Elon Musk, \u2018the worst thing South Africa has ever done\u2019",
+        "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+        "published": "Sun, 08 Nov 2026 18:00:04 +0000",
+        "source": "TechCrunch",
+        "summary": "SNL seems to have its knives out for tech executives."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+        "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
+        "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+        "published": "Sun, 08 Nov 2026 17:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+        "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+        "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+        "published": "Sun, 08 Nov 2026 17:02:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+        "id": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+        "title": "Epic Games Launcher is coming to SteamOS",
+        "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+        "published": "2026-11-08T15:52:05-05:00",
+        "source": "The Verge",
+        "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+        "title": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+        "published": "2026-11-08T15:22:39-05:00",
+        "source": "The Verge",
+        "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+        "title": "Apple is racing to make Siri more agentic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+        "published": "2026-11-08T14:18:19-05:00",
+        "source": "The Verge",
+        "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+        "title": "Elvis and Eminem rights holders are suing Suno",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+        "published": "2026-11-08T12:23:19-05:00",
+        "source": "The Verge",
+        "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+        "title": "Apple\u2019s M5 MacBook Air is down to its lowest price since July",
+        "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+        "published": "2026-11-08T11:00:00-05:00",
+        "source": "The Verge",
+        "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we\u2019ve seen this $200 discount following the company\u2019s hefty price increases over the summer. Although the base model \u2014 which features Apple\u2019s M5 processor, 16GB of RAM, and 512GB of storage \u2014 often sold for around $950 to $1,000 shortly after [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2309615/safest-laptop-storage-long-term/",
+        "title": "The safest way to store your laptop for a long period of time",
+        "link": "https://www.engadget.com/2309615/safest-laptop-storage-long-term/",
+        "published": "Sun, 08 Nov 2026 20:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "If you're storing a laptop for an extended period, there are a few things to consider."
+    },
+    {
+        "id": "https://www.engadget.com/2309612/laptop-fans-spin-without-warning-meaning/",
+        "title": "Why your laptop fans spin up without any warning",
+        "link": "https://www.engadget.com/2309612/laptop-fans-spin-without-warning-meaning/",
+        "published": "Sun, 08 Nov 2026 20:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Your laptop shouldn't sound like it's preparing for takeoff every time you sit down to work. Here's what might be causing those sudden fan blasts."
+    },
+    {
+        "id": "https://www.engadget.com/2309609/dont-throw-away-old-flip-phone-do-this-instead-recycle-donate-repurpose/",
+        "title": "Don't throw away your old flip phone \u2013 do this instead",
+        "link": "https://www.engadget.com/2309609/dont-throw-away-old-flip-phone-do-this-instead-recycle-donate-repurpose/",
+        "published": "Sun, 08 Nov 2026 20:15:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "With smartphones serving all purposes, an old flip phone, especially a SIM-less one, may feel useless. However, this couldn't be further from the truth."
+    },
+    {
+        "id": "https://www.engadget.com/2309290/why-charging-phone-under-pillow-dangerous-explained/",
+        "title": "The danger of charging your phone under your pillow isn't radiation",
+        "link": "https://www.engadget.com/2309290/why-charging-phone-under-pillow-dangerous-explained/",
+        "published": "Sun, 08 Nov 2026 20:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The old fear about cell phone radiation causing cancer is an overblown concern, but there are other dangers when you tuck a charging phone under your pillow."
+    },
+    {
+        "id": "https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/",
+        "title": "Why Apple's M6 Chip Can't Hold Its Own Against Any NVIDIA GPU",
+        "link": "https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/",
+        "published": "Sun, 08 Nov 2026 19:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "With the announcement of its M6, Apple is stepping into a new generation of its processors. Here's why it still can't compete with NVIDIA GPUs."
+    },
+    {
+        "id": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "published": "Sun, 08 Nov 2026 18:16:07 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50415628\">Comments</a>"
+    },
+    {
+        "id": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "title": "How I Fight AI Brain Fry",
+        "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "published": "Sun, 08 Nov 2026 19:37:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50416363\">Comments</a>"
+    },
+    {
+        "id": "https://duxlabs.dev/",
+        "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+        "link": "https://duxlabs.dev/",
+        "published": "Sun, 08 Nov 2026 19:08:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50416053\">Comments</a>"
+    },
+    {
+        "id": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+        "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+        "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+        "published": "Sun, 08 Nov 2026 20:26:43 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50416801\">Comments</a>"
+    },
+    {
+        "id": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+        "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+        "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+        "published": "Sun, 08 Nov 2026 19:20:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50416158\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/11/angel-one-becomes-indias-second-largest-broker-by-active-clients",
+        "title": "Angel One becomes India's second-largest broker by active clients",
+        "link": "https://yourstory.com/2026/11/angel-one-becomes-indias-second-largest-broker-by-active-clients",
+        "published": "Sun, 08 Nov 2026 13:06:32 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The active client base of Angel One for October was 69.98 lakh which was an addition of 2.43 lakh for the month.  Zerodha now is in the third spot."
     }
 ]
