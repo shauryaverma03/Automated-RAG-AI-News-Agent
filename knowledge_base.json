@@ -422062,5 +422062,37 @@
         "published": "Sat, 07 Nov 2026 05:03:20 GMT",
         "source": "YourStory RSS Feed",
         "summary": "From healthcare and education to housing, travel, and developer tools, YourStory's inaugural VibeCode30 spotlights 30 live products showing how AI is making software development accessible to a new generation of builders."
+    },
+    {
+        "id": "https://caleb.software/posts/claude-to-pi.html",
+        "title": "Goodbye Claude, Hello Pi",
+        "link": "https://caleb.software/posts/claude-to-pi.html",
+        "published": "Sun, 08 Nov 2026 03:11:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50410107\">Comments</a>"
+    },
+    {
+        "id": "https://www.lorekit.io/blog/open-agent-memory-format",
+        "title": "Agent memory needs its OpenTelemetry moment",
+        "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+        "published": "Sun, 08 Nov 2026 08:40:23 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50411467\">Comments</a>"
+    },
+    {
+        "id": "https://clj.rs/",
+        "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+        "link": "https://clj.rs/",
+        "published": "Wed, 04 Nov 2026 15:23:16 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50366902\">Comments</a>"
+    },
+    {
+        "id": "https://inc42.com/features/prontos-second-shift/",
+        "title": "Pronto\u2019s Second Shift",
+        "link": "https://inc42.com/features/prontos-second-shift/",
+        "published": "Sun, 08 Nov 2026 05:30:13 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Pronto-Outline-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />&#160; Anjali Sardana and Pronto entered India\u2019s domestic services market in 2025 to solve a familiar urban problem: finding reliable&#8230;"
     }
 ]
