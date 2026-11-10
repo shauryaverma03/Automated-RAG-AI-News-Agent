@@ -423582,5 +423582,445 @@
         "published": "Tue, 10 Nov 2026 04:51:32 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Ahead of MediaNama's November 13 roundtable, explore our coverage of SIM binding, including its technical feasibility, user impact, privacy concerns, and fraud-prevention claims.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-reading-list-technical-issues-sim-binding/\">Reading list: Technical Issues with SIM Binding, online, Friday, November 13, 2026 #NAMA</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "published": "Tue, 10 Nov 2026 15:54:08 +0000",
+        "source": "TechCrunch",
+        "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+        "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+        "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+        "published": "Tue, 10 Nov 2026 15:45:27 +0000",
+        "source": "TechCrunch",
+        "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+        "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+        "published": "Tue, 10 Nov 2026 15:29:30 +0000",
+        "source": "TechCrunch",
+        "summary": "Users can now interact with Meta\u2019s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+        "title": "Reddit is turning user conversations into AI-powered product reviews",
+        "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+        "published": "Tue, 10 Nov 2026 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+        "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+        "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+        "published": "Tue, 10 Nov 2026 15:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
+        "title": "Ember\u2019s latest self-heating 14-ounce mug is $50 off",
+        "link": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
+        "published": "2026-11-10T10:47:18-05:00",
+        "source": "The Verge",
+        "summary": "If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current discount happening at Amazon, Ember, and Best Buy for several colors of the (top rack) dishwasher-safe mug. It\u2019s 33 percent off, dropping to $99.99 \u2014 still not cheap, but cheaper, and notably just [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+        "title": "Reddit wants to guide your next purchase",
+        "link": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+        "published": "2026-11-10T10:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publish product reviews and roundups. The company is launching Reddit Reviews, a built-in product reviews hub for consumer goods that [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+        "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+        "link": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+        "published": "2026-11-10T09:37:09-05:00",
+        "source": "The Verge",
+        "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on phones, PCs, the web, Xbox consoles, and even TVs, it appears to be restricted to just Xbox Series X / [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+        "title": "Anthropic targets $1.4 trillion IPO",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+        "published": "2026-11-10T09:06:54-05:00",
+        "source": "The Verge",
+        "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times. The Wall Street Journal reports [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+        "title": "Aura\u2019s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
+        "link": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+        "published": "2026-11-10T09:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated from the original 13-inch model with a black frame [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/our-place-sale-november-2026/",
+        "title": "Kitchen Gear From Our Place Is Steeply Discounted",
+        "link": "https://www.wired.com/story/our-place-sale-november-2026/",
+        "published": "Tue, 10 Nov 2026 15:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Get up to 30 percent off and save an extra $60 on orders over $100."
+    },
+    {
+        "id": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+        "title": "4DX Movies Are Entering Their Thirsty Romance Era",
+        "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+        "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+        "source": "WIRED",
+        "summary": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience."
+    },
+    {
+        "id": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+        "title": "Rocco\u2019s Mini Mini Fridge Is Here (2026)",
+        "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+        "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one."
+    },
+    {
+        "id": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+        "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+        "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+        "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Built by Cyanogen\u2019s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models."
+    },
+    {
+        "id": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+        "title": "Ring\u2019s Indoor Drone Camera Is Back\u2014and Now Powered by AI",
+        "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+        "published": "Tue, 10 Nov 2026 13:30:00 +0000",
+        "source": "WIRED",
+        "summary": "This $250 Drone Cam flies around your home to monitor threats. There\u2019s also the Rover Cam for businesses, featuring the guts of Amazon\u2019s former Astro robot."
+    },
+    {
+        "id": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+        "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+        "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+        "published": "Tue, 10 Nov 2026 15:00:39 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The new model is up to twice as successful at some tasks."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+        "title": "Nvidia has a Jensen Huang problem\u2014and no obvious successor",
+        "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+        "published": "Tue, 10 Nov 2026 14:53:05 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Huang faces a board probe as investors fret over Nvidia\u2019s lack of a clear successor."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+        "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+        "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+        "published": "Tue, 10 Nov 2026 14:43:49 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+        "title": "Polestar has a new look with its Formula 2030 concept",
+        "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+        "published": "Tue, 10 Nov 2026 14:22:02 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+        "title": "Ukraine\u2019s fiber-optic drones get squeezed by AI data center demand",
+        "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+        "published": "Tue, 10 Nov 2026 12:15:32 +0000",
+        "source": "Ars Technica - All content",
+        "summary": "Ukraine competes with Russia and data centers for China\u2019s optical fiber supply."
+    },
+    {
+        "id": "https://www.engadget.com/2307770/why-phone-switches-wifi-to-mobile-data/",
+        "title": "Why does your phone keep switching between Wi-Fi and mobile data?",
+        "link": "https://www.engadget.com/2307770/why-phone-switches-wifi-to-mobile-data/",
+        "published": "Tue, 10 Nov 2026 15:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Your phone switches to mobile data to keep you connected, but it can drain your data plan. Learn what causes it and how to stop it on iPhone and Android."
+    },
+    {
+        "id": "https://www.engadget.com/2310918/reddit-is-sort-of-getting-into-the-product-reviews-business/",
+        "title": "Reddit is (sort of) getting into the product reviews business",
+        "link": "https://www.engadget.com/2310918/reddit-is-sort-of-getting-into-the-product-reviews-business/",
+        "published": "Tue, 10 Nov 2026 15:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The platform's new toolset collects and organizes user data on thousands of items."
+    },
+    {
+        "id": "https://www.engadget.com/2307769/116-underwater-drone-swarm-world-record-china/",
+        "title": "A Chinese team made a big splash with a drone swarm world record",
+        "link": "https://www.engadget.com/2307769/116-underwater-drone-swarm-world-record-china/",
+        "published": "Tue, 10 Nov 2026 14:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The performance of these underwater drones is much more than a gimmick. It signals serous geopolitical swagger that's turning heads across global sectors."
+    },
+    {
+        "id": "https://www.engadget.com/2307766/hdmi-port-settings-should-change-best-picture-quality/",
+        "title": "The HDMI port settings you should change for the best picture quality",
+        "link": "https://www.engadget.com/2307766/hdmi-port-settings-should-change-best-picture-quality/",
+        "published": "Tue, 10 Nov 2026 14:15:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "To ensure your TV and connected devices are providing the best picture quality possible, turn on these HDMI port settings."
+    },
+    {
+        "id": "https://www.engadget.com/2311922/bt-wont-launch-starlink-deal-until-people-forget-about-ukraine/",
+        "title": "BT won't launch Starlink deal until people forget about Ukraine",
+        "link": "https://www.engadget.com/2311922/bt-wont-launch-starlink-deal-until-people-forget-about-ukraine/",
+        "published": "Tue, 10 Nov 2026 14:01:44 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The UK's largest telecom company is courageously waiting for people to forget about Musk before launching its tie-up with Starlink."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+        "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
+        "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+        "published": "Tue, 10 Nov 2026 13:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+        "title": "Evolving metal extraction processes",
+        "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+        "published": "Tue, 10 Nov 2026 13:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems&#8230;"
+    },
+    {
+        "id": "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "title": "AlphaProof Code",
+        "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "published": "Tue, 10 Nov 2026 12:11:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50439193\">Comments</a>"
+    },
+    {
+        "id": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+        "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+        "link": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+        "published": "Sun, 08 Nov 2026 12:07:17 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50412554\">Comments</a>"
+    },
+    {
+        "id": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+        "title": "The Hardest Tarball?",
+        "link": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+        "published": "Tue, 10 Nov 2026 15:00:39 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50441338\">Comments</a>"
+    },
+    {
+        "id": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+        "title": "Taking another shot at the cheap IP camera, part 2",
+        "link": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+        "published": "Mon, 09 Nov 2026 14:40:42 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50426294\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/linux/debian-fedora-linux-migration/",
+        "title": "Done with Debian Linux distros? Try Fedora next \u2013 7 reasons why",
+        "link": "https://www.zdnet.com/linux/debian-fedora-linux-migration/",
+        "published": "2026-11-10T15:16:47Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "After using a Debian-based distribution, you may find yourself longing for something different. I know exactly what you should try next."
+    },
+    {
+        "id": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
+        "title": "Reddit launches AI-powered Reviews feature \u2013 with 10,000 products to start",
+        "link": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
+        "published": "2026-11-10T15:00:00Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Reddit is adding AI-generated product reviews that compile real user sentiment from across communities. Here\u2019s how they work."
+    },
+    {
+        "id": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
+        "title": "5 apps I need Siri AI to work with now that it\u2019s open to third-party developers",
+        "link": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
+        "published": "2026-11-10T14:38:36Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "With the latest betas for iOS and other platforms, Siri AI is now available to all developers for full integration into their apps. Here are the ones I hope will jump on board."
+    },
+    {
+        "id": "https://www.zdnet.com/home-and-office/ring-drone-cam-rover-cam-security-robots/",
+        "title": "Ring\u2019s new drone patrols your home to keep an eye on things \u2013 even upstairs",
+        "link": "https://www.zdnet.com/home-and-office/ring-drone-cam-rover-cam-security-robots/",
+        "published": "2026-11-10T13:30:00Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage."
+    },
+    {
+        "id": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
+        "title": "How AI security failures are endangering your supply chain \u2013 and what you can do",
+        "link": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
+        "published": "2026-11-10T13:03:52Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "New research provides a stark look at the AI supply chain and the risks it brings to businesses."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/still-possible-chipmaker-nexperia-could-reunite-with-chinese-operations-ceo-says/articleshow/135714799.cms",
+        "title": "Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says",
+        "link": "https://economictimes.indiatimes.com/tech/technology/still-possible-chipmaker-nexperia-could-reunite-with-chinese-operations-ceo-says/articleshow/135714799.cms",
+        "published": "Tue, 10 Nov 2026 20:54:41 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "If the split becomes permanent, however, Nexperia's Chinese parent Wingtech Technology should be compensated, interim CEO Stefan Tilger said in an interview on the sidelines of the electronica 2026 conference in Munich."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/amazons-ring-launches-flying-camera-autonomous-security-robot/articleshow/135713226.cms",
+        "title": "Amazon's Ring launches flying camera, autonomous security robot",
+        "link": "https://economictimes.indiatimes.com/tech/technology/amazons-ring-launches-flying-camera-autonomous-security-robot/articleshow/135713226.cms",
+        "published": "Tue, 10 Nov 2026 19:52:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Amazon's Ring on Tuesday launched a new robotics business with two autonomous security products, a flying indoor camera for homes and a roving security robot designed for businesses, as the company expands beyond its established lineup of home-security devices."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/articleshow/135713178.cms",
+        "title": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/articleshow/135713178.cms",
+        "published": "Tue, 10 Nov 2026 19:44:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The company is positioning itself to benefit not only from supplying AI infrastructure, but also from owning stakes in some of the industry's most influential developers. TSMC's board approved on Tuesday an investment of up to $500 million to acquire shares in Anthropic at its initial public offering price, and an investment of up to $500 million to acquire preferred stock in OpenAI."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/russias-yandex-says-nearly-3-of-cloud-customer-data-lost-after-attacks/articleshow/135712117.cms",
+        "title": "Russia's Yandex says nearly 3% of cloud customer data lost after attacks",
+        "link": "https://economictimes.indiatimes.com/tech/technology/russias-yandex-says-nearly-3-of-cloud-customer-data-lost-after-attacks/articleshow/135712117.cms",
+        "published": "Tue, 10 Nov 2026 18:52:57 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "\"The remaining 2.84% cannot be recovered due to critical damage to equipment and the absence of backups on the platform by customers,\" the company said in its statement."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/nvidia-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair/articleshow/135712053.cms",
+        "title": "Nvidia, Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair/articleshow/135712053.cms",
+        "published": "Tue, 10 Nov 2026 18:49:10 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The complaint comes after President Donald Trump said the FBI is investigating the affair, which Huang has acknowledged to and apologised for. Trump said Monday that Huang told him he had no idea the person could be involved in espionage."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/books-instead-droomscrolling",
+        "title": "3 Books to read instead of doomscrolling every day",
+        "link": "https://yourstory.com/2026/11/books-instead-droomscrolling",
+        "published": "Tue, 10 Nov 2026 13:24:51 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Replace endless scrolling with meaningful reading. Discover three books that can help you reclaim your attention & build healthier digital habits."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/beyond-the-cloud-why-businesses-are-turning-to-on-device-ai",
+        "title": "Beyond the cloud: Why businesses are turning to on-device AI",
+        "link": "https://yourstory.com/2026/11/beyond-the-cloud-why-businesses-are-turning-to-on-device-ai",
+        "published": "Tue, 10 Nov 2026 09:16:11 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "At TechSparks 2026, Brilyant CEO Akash Saxenaa explained how running AI models locally can help businesses control costs, protect sensitive data, and reduce their dependence on the cloud.\n\nAI tools have made it easier for businesses to analyze documents, generate content, and automate tasks. But"
+    },
+    {
+        "id": "https://yourstory.com/2026/11/techsparks-2026-masterclass-storytelling-strongest-competitive-moat-startups",
+        "title": "Why storytelling can be a startup's strongest competitive moat",
+        "link": "https://yourstory.com/2026/11/techsparks-2026-masterclass-storytelling-strongest-competitive-moat-startups",
+        "published": "Tue, 10 Nov 2026 09:04:09 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "At TechSparks 2026, Shweta Rajpal Kohli, President and CEO of Startup Policy Forum, explained why founders need to tell authentic, distinctive stories and how storytelling can help build trust and differentiate a business."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/how-bout-india-built-a-travel-company-without-selling-packages",
+        "title": "How Bout India built a travel company without selling packages",
+        "link": "https://yourstory.com/2026/11/how-bout-india-built-a-travel-company-without-selling-packages",
+        "published": "Tue, 10 Nov 2026 09:11:09 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "By refusing the cookie\u2011cutter tour, Himanshu Maru and his co\u2011founders turned personalization into a moat, earning 970+ glowing reviews and a loyal global clientele.\n\n\n\nHimanshu Maru started Bout India in 2013 with a simple bet: that international travellers to India wanted something built around t"
+    },
+    {
+        "id": "https://inc42.com/buzz/three-workers-die-after-inhaling-toxic-gases-at-tatas-tn-iphone-factory/",
+        "title": "Three Workers Die After Inhaling Toxic Gases At Tata\u2019s TN iPhone Factory",
+        "link": "https://inc42.com/buzz/three-workers-die-after-inhaling-toxic-gases-at-tatas-tn-iphone-factory/",
+        "published": "Tue, 10 Nov 2026 15:31:45 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Toxic Gas Exposure Kills Three At Tata\u2019s TN iPhone Factory\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/tata-deaths-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Three contract workers died after allegedly inhaling toxic gases during maintenance work at Tata Electronics\u2019 iPhone manufacturing unit in Tamil&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/matrimony-q2-profit-soars-2-7x-yoy-to-%e2%82%b920-7-cr-revenue-up-17-6/",
+        "title": "Matrimony Q2 Profit Soars 2.7X YoY To \u20b920.7 Cr, Revenue up 17.6%",
+        "link": "https://inc42.com/buzz/matrimony-q2-profit-soars-2-7x-yoy-to-%e2%82%b920-7-cr-revenue-up-17-6/",
+        "published": "Tue, 10 Nov 2026 13:10:43 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Matrimony Q2 Profit Soars 2.7X YoY To \u20b920.7 Cr, Revenue up 17.6%\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Matrimony-FTR-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Listed matchmaking platform Matrimony\u2019s consolidated net profit for the September quarter (Q2 FY27) skyrocketed 165.4% YoY to \u20b920.7 Cr from&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/sharechat-parent-mohalla-techs-fy26-loss-widens-79-to-%e2%82%b91978-cr-revenue-inches-past-%e2%82%b91000-cr-mark/",
+        "title": "ShareChat Parent Mohalla Tech\u2019s FY26 Loss Widens 79% To \u20b91,978 Cr, Revenue Inches Past \u20b91,000 Cr Mark",
+        "link": "https://inc42.com/buzz/sharechat-parent-mohalla-techs-fy26-loss-widens-79-to-%e2%82%b91978-cr-revenue-inches-past-%e2%82%b91000-cr-mark/",
+        "published": "Tue, 10 Nov 2026 13:06:42 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"ShareChat FY26\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Sharechat-FY26-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Mohalla Tech, the parent of social media platforms ShareChat and Moj, reported a 78.5% YoY increase in its consolidated net&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/froncort-ai-raises-2-3-mn-from-google-org-to-expand-ai-based-disease-surveillance/",
+        "title": "Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance",
+        "link": "https://inc42.com/buzz/froncort-ai-raises-2-3-mn-from-google-org-to-expand-ai-based-disease-surveillance/",
+        "published": "Tue, 10 Nov 2026 12:52:54 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/stakcbox-funding-featured-1-1-1-1-3.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Healthcare AI startup Froncort.AI has secured $2.3 Mn (\u20b921.5 Cr) in fresh capital from Google\u2019s philanthropic arm, Google.org, to scale&#8230;"
+    },
+    {
+        "id": "https://inc42.com/startups/why-gramiyaa-had-to-think-like-a-supermarket-to-win-on-quick-commerce/",
+        "title": "Why Gramiyaa Had To Think Like A Supermarket To Win On Quick Commerce",
+        "link": "https://inc42.com/startups/why-gramiyaa-had-to-think-like-a-supermarket-to-win-on-quick-commerce/",
+        "published": "Tue, 10 Nov 2026 11:30:19 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Why Gramiyaa Had To Think Like A Supermarket To Win On Quick Commerce\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Gramiyaa-QCC-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />It would be naive to think that getting listed on quick commerce platforms is half the battle won. If anything,&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-deepinder-goyal-temple-controversy/",
+        "title": "Explained: Everything you need to know about Deepinder Goyal\u2019s Temple controversy",
+        "link": "https://www.medianama.com/2026/11/223-deepinder-goyal-temple-controversy/",
+        "published": "Tue, 10 Nov 2026 12:50:38 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Hepatologist Dr Cyriac Abby Philips or TheLiverDoc has reignited the controversy by asking Temple why they \"are already selling the device on preorder\" if it has not been \"proven to work for any of the claims made\". </p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-deepinder-goyal-temple-controversy/\">Explained: Everything you need to know about Deepinder Goyal\u2019s Temple controversy</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-social-media-platform-design-india/",
+        "title": "India\u2019s digital laws need to look beyond platform content to platform design",
+        "link": "https://www.medianama.com/2026/11/223-social-media-platform-design-india/",
+        "published": "Tue, 10 Nov 2026 11:31:02 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Infinite scroll, autoplay and personalised feeds make it easier to keep scrolling than to stop. India needs to examine how platform design influences user behaviour.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-social-media-platform-design-india/\">India&#8217;s digital laws need to look beyond platform content to platform design</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-australia-criminal-offence-ai-companies-harm-models/",
+        "title": "Explained: Australia weighs criminal offence for AI companies that fail to prevent harm from their models",
+        "link": "https://www.medianama.com/2026/11/223-australia-criminal-offence-ai-companies-harm-models/",
+        "published": "Tue, 10 Nov 2026 10:55:47 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The Australian govt released 18 recommendations including penalties for frontier AI companies for failing to prevent harm caused by their AI models, after review of an incident where an OpenAI agent got into the govt health portal. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-australia-criminal-offence-ai-companies-harm-models/\">Explained: Australia weighs criminal offence for AI companies that fail to prevent harm from their models</a> appeared first on <a href=\"https://ww"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-thailand-block-bitget-unlicensed-crypto-trading/",
+        "title": "Thailand moves to block Bitget from December 5 over alleged unlicensed crypto trading",
+        "link": "https://www.medianama.com/2026/11/223-thailand-block-bitget-unlicensed-crypto-trading/",
+        "published": "Tue, 10 Nov 2026 09:44:03 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Thailand's SEC has filed a criminal complaint against Bitget's operator for allegedly running an unlicensed crypto exchange. Authorities plan to block access from December 5, 2026.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-thailand-block-bitget-unlicensed-crypto-trading/\">Thailand moves to block Bitget from December 5 over alleged unlicensed crypto trading</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-amit-shah-approves-nia-cellebrite-purchase/",
+        "title": "Amit Shah approved Make in India exemption for NIA\u2019s Cellebrite phone-cracking tool",
+        "link": "https://www.medianama.com/2026/11/223-amit-shah-approves-nia-cellebrite-purchase/",
+        "published": "Tue, 10 Nov 2026 08:22:25 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>India has no published protocol governing forensic phone extraction, even as agencies procure tools capable of accessing extensive smartphone data.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-amit-shah-approves-nia-cellebrite-purchase/\">Amit Shah approved Make in India exemption for NIA\u2019s Cellebrite phone-cracking tool</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
