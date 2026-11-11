@@ -424470,5 +424470,165 @@
         "published": "Tue, 10 Nov 2026 19:50:46 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=50445401\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+        "title": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
+        "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+        "published": "Wed, 11 Nov 2026 07:30:51 +0000",
+        "source": "TechCrunch",
+        "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
+    },
+    {
+        "id": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
+        "title": "Samsung Gallery now syncs with Google to back up your photos",
+        "link": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
+        "published": "Wed, 11 Nov 2026 06:47:17 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "You can now sync your photos and videos on select Samsung devices to your Google account."
+    },
+    {
+        "id": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+        "title": "Protecting SSH Keys with macOS Secure Enclave",
+        "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+        "published": "Wed, 11 Nov 2026 04:28:57 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/gmkurtzer/ginux",
+        "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+        "link": "https://github.com/gmkurtzer/ginux",
+        "published": "Wed, 11 Nov 2026 05:25:54 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50450007\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tsmc-to-invest-up-to-usd-1-billion-in-anthropic-openai/articleshow/135726655.cms",
+        "title": "TSMC to invest up to USD 1 billion in Anthropic, OpenAI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tsmc-to-invest-up-to-usd-1-billion-in-anthropic-openai/articleshow/135726655.cms",
+        "published": "Wed, 11 Nov 2026 10:43:09 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) has approved investments of up to USD 1 billion in two major Artificial Intelligence companies, Anthropic and OpenAI, as the world's largest dedicated semiconductor foundry expands its strategic presence in the technology ecosystem."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms",
+        "title": "OpenAI to discontinue old ChatGPT voice modes from Dec 11; users to shift to live voice mode",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-discontinue-old-chatgpt-voice-modes-from-dec-11-users-to-shift-to-live-voice-mode/articleshow/135726625.cms",
+        "published": "Wed, 11 Nov 2026 10:41:46 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "OpenAI will discontinue the Advanced and Standard voice options in ChatGPT from December 11 this year, moving users to its newer Live voice mode as the company looks to simplify the voice experience and focus on improving its latest technology."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gemini-4-carbon-opens-to-developers-enterprises-with-advanced-ai-capabilities-for-complex-tasks/articleshow/135724889.cms",
+        "title": "Gemini 4 Carbon opens to developers, enterprises with advanced AI capabilities for complex tasks",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gemini-4-carbon-opens-to-developers-enterprises-with-advanced-ai-capabilities-for-complex-tasks/articleshow/135724889.cms",
+        "published": "Wed, 11 Nov 2026 09:19:40 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Google has expanded access to its Gemini 4 Carbon artificial intelligence (AI) model to developers, businesses, scientists and consumers, as it seeks to bring advanced AI capabilities to tasks such as software development, financial research and cybersecurity that require multiple steps and extended reasoning."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/spain-demands-that-tiktok-suspend-operations-until-child-sexual-abuse-material-gone/articleshow/135724304.cms",
+        "title": "Spain demands that TikTok suspend operations until child sexual abuse material gone",
+        "link": "https://economictimes.indiatimes.com/tech/technology/spain-demands-that-tiktok-suspend-operations-until-child-sexual-abuse-material-gone/articleshow/135724304.cms",
+        "published": "Wed, 11 Nov 2026 08:45:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Spain's government has demanded that TikTok suspend its operations in Spain until it eliminates child sexual abuse material, it said on Tuesday, after a media report documented 1,183 explicit posts on the platform with millions of views."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-expands-claude-into-spreadsheets-dashboards-and-collaborative-workplace-tools/articleshow/135723896.cms",
+        "title": "Anthropic expands Claude into spreadsheets, dashboards and collaborative workplace tools",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-expands-claude-into-spreadsheets-dashboards-and-collaborative-workplace-tools/articleshow/135723896.cms",
+        "published": "Wed, 11 Nov 2026 08:30:48 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Artificial intelligence company Anthropic has expanded its Claude platform with new tools for creating spreadsheets, digital whiteboards and data dashboards, broadening its capabilities in workplace productivity and collaboration."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai",
+        "title": "Seed funding\u2019s new reality check in the age of AI",
+        "link": "https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai",
+        "published": "Wed, 11 Nov 2026 06:29:50 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "At TechSparks 2026, investors from Snowflake for Startups, 247VC, and Endiya discussed how AI is changing seed-stage investing and why founders need to demonstrate more than a working product to secure funding."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/private-scandals-derailed-tech-execs-careers-neha-nagars-new-book-helping-people-invest",
+        "title": "Private scandals that derailed tech execs\u2019 careers; Neha Nagar\u2019s new book on helping people invest",
+        "link": "https://yourstory.com/2026/11/private-scandals-derailed-tech-execs-careers-neha-nagars-new-book-helping-people-invest",
+        "published": "Wed, 11 Nov 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Executive exits can result from violations of company policies, even when no criminal wrongdoing has been established. Brian Krzanich resigned from Intel over a consensual subordinate relationship, while Phaneesh Murthy was dismissed by iGate for failing to disclose a relationship."
+    },
+    {
+        "id": "https://inc42.com/buzz/ed-attaches-%e2%82%b914-cr-assets-in-hashpe-crypto-ponzi-fraud-case/",
+        "title": "ED Attaches \u20b914 Cr Assets In HashPe Crypto Ponzi Fraud Case",
+        "link": "https://inc42.com/buzz/ed-attaches-%e2%82%b914-cr-assets-in-hashpe-crypto-ponzi-fraud-case/",
+        "published": "Wed, 11 Nov 2026 07:46:56 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"ED Attaches \u20b914 Cr Assets In HashPe Crypto Ponzi Fraud Case\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/crypto-ban-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Enforcement Directorate (ED), Chennai, has provisionally attached movable and immovable assets worth approximately \u20b914.2 Cr in connection with an&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/ai-financial-services-better-connections-kunal-shah-outlines-three-priorities-for-whatsapp/",
+        "title": "AI, Financial Services, Better Connections: Kunal Shah Outlines Three Priorities For WhatsApp",
+        "link": "https://inc42.com/buzz/ai-financial-services-better-connections-kunal-shah-outlines-three-priorities-for-whatsapp/",
+        "published": "Wed, 11 Nov 2026 06:08:50 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Kunal Shah Whatsapp\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Kunal-Shah-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Under its new global head Kunal Shah, WhatsApp is looking to expand beyond messaging. In a social media post, Shah&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/can-indian-startups-win-the-ai-inference-race/",
+        "title": "Can Indian Startups Win The AI Inference Race?",
+        "link": "https://inc42.com/features/can-indian-startups-win-the-ai-inference-race/",
+        "published": "Wed, 11 Nov 2026 05:30:41 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"AI inference\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/AI-Inference_AI-Shift-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Nations worldwide have spent the last few years obsessing over bigger models and the compute power needed to train them.&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/sharechats-fy26-snapshot-makemytrips-ipo-more/",
+        "title": "ShareChat\u2019s FY26 Snapshot, MakeMyTrip\u2019s IPO & More",
+        "link": "https://inc42.com/buzz/sharechats-fy26-snapshot-makemytrips-ipo-more/",
+        "published": "Wed, 11 Nov 2026 02:30:12 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"ShareChat\u2019s FY26 Snapshot, MakeMyTrip\u2019s IPO &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/FTR-Daily-Brief-41.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Inside ShareChat\u2019s Mixed FY26 ShareChat parent Mohalla Tech delivered some hits and some misses in FY26. While the homegrown social&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir/",
+        "title": "Madras High Court flags fake, AI-generated books in public libraries, orders FIR",
+        "link": "https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir/",
+        "published": "Wed, 11 Nov 2026 07:48:12 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The Madras High Court has ruled that AI-generated and plagiarised books cannot be procured for public libraries and ordered an FIR into alleged fraudulent book purchases in Tamil Nadu</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-madras-high-court-ai-generated-books-fir/\">Madras High Court flags fake, AI-generated books in public libraries, orders FIR</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-x-toi-photojournalist-account-delhi-smog/",
+        "title": "X \u2018locked\u2019 Times of India photojournalist\u2019s account after Delhi smog posts: Report",
+        "link": "https://www.medianama.com/2026/11/223-x-toi-photojournalist-account-delhi-smog/",
+        "published": "Wed, 11 Nov 2026 07:45:01 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>While the TOI photojournalist said it was his duty to show \"the truth of the post-Diwali situation\" in Delhi through his camera, X cited a \"violation of its rules\" as the reason for locking the account. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-x-toi-photojournalist-account-delhi-smog/\">X &#8216;locked&#8217; Times of India photojournalist&#8217;s account after Delhi smog posts: Report</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-matrimony-com-stake-astrovision-profit/",
+        "title": "Matrimony.com picks up majority stake in AstroVision, Q2 profit surges 3x to Rs 21 cr",
+        "link": "https://www.medianama.com/2026/11/223-matrimony-com-stake-astrovision-profit/",
+        "published": "Wed, 11 Nov 2026 07:04:05 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Matrimony.com will invest Rs 8 crore to raise its stake in astrology tech firm AstroVision to 76.09%. The company reported a 165% rise in Q2 net profit to Rs 20.7 crore, with revenue growing 18%.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-matrimony-com-stake-astrovision-profit/\">Matrimony.com picks up majority stake in AstroVision, Q2 profit surges 3x to Rs 21 cr</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-supreme-court-whatsapp-digital-arrest/",
+        "title": "Supreme Court asks WhatsApp to propose measures to stop digital arrest scams",
+        "link": "https://www.medianama.com/2026/11/223-supreme-court-whatsapp-digital-arrest/",
+        "published": "Wed, 11 Nov 2026 06:35:19 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The Supreme Court has asked WhatsApp and other intermediaries to propose measures to prevent digital arrest scams. It also directed banks to compensate victims when their lapses enable fraud.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-supreme-court-whatsapp-digital-arrest/\">Supreme Court asks WhatsApp to propose measures to stop digital arrest scams</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-speaker-announcement-technical-issues-sim-binding-online-nama/",
+        "title": "Speaker Announcement: Technical Issues with SIM Binding, Online  November 13, 2026 #NAMA",
+        "link": "https://www.medianama.com/2026/11/223-speaker-announcement-technical-issues-sim-binding-online-nama/",
+        "published": "Wed, 11 Nov 2026 05:07:30 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>MediaNama announces the speakers for its November 13 roundtable on SIM binding, exploring technical challenges, privacy concerns, implementation hurdles, and its effectiveness in preventing fraud.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-speaker-announcement-technical-issues-sim-binding-online-nama/\">Speaker Announcement: Technical Issues with SIM Binding, Online  November 13, 2026 #NAMA</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
