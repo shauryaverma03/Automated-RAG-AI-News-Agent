@@ -426382,5 +426382,325 @@
         "published": "Fri, 13 Nov 2026 06:20:00 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>AI memory systems cannot guarantee that every fact will be remembered. But can they ensure that two conflicting facts are not presented without warning? MemStore explains its approach.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-memstore-ai-agent-memory-privacy-and-deletion/\">Interview: MemStore&#8217;s Diwank Singh Tomer and Ishita Jindal on AI agent memory, contradictions and deletion</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+        "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+        "source": "TechCrunch",
+        "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "published": "Fri, 13 Nov 2026 15:58:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+        "title": "Uber confirms hackers stole thousands of drivers\u2019 license information in data breach",
+        "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+        "published": "Fri, 13 Nov 2026 14:57:55 +0000",
+        "source": "TechCrunch",
+        "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+        "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "published": "Fri, 13 Nov 2026 14:44:48 +0000",
+        "source": "TechCrunch",
+        "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+        "title": "Microsoft\u2019s latest email outage turned into a full blown global cloud crisis",
+        "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+        "published": "Fri, 13 Nov 2026 13:15:20 +0000",
+        "source": "TechCrunch",
+        "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service."
+    },
+    {
+        "id": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+        "title": "You can adjust the position of the trackball on Keychron\u2019s new wireless mouse",
+        "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+        "published": "2026-11-13T13:10:41-05:00",
+        "source": "The Verge",
+        "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+        "title": "Jensen Huang was reckless with the environment, too",
+        "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+        "published": "2026-11-13T12:44:22-05:00",
+        "source": "The Verge",
+        "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+        "title": "The smallest version of Camp Snap\u2019s retro digital camcorder fits on your keychain",
+        "link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+        "published": "2026-11-13T12:12:56-05:00",
+        "source": "The Verge",
+        "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+        "title": "The new Apple TV has a YouTube problem",
+        "link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+        "published": "2026-11-13T11:55:57-05:00",
+        "source": "The Verge",
+        "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+        "title": "Microsoft&#8217;s massive Outlook outage continues",
+        "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+        "published": "2026-11-13T11:17:11-05:00",
+        "source": "The Verge",
+        "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+        "title": "The Microsoft Outage Is a Warning for the World",
+        "link": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+        "published": "Fri, 13 Nov 2026 17:15:54 +0000",
+        "source": "WIRED",
+        "summary": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company\u2019s systems to get things done. And next time could be even worse."
+    },
+    {
+        "id": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+        "title": "Jensen Huang and the End of the Founder Fairy Tale",
+        "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+        "published": "Fri, 13 Nov 2026 16:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals."
+    },
+    {
+        "id": "https://www.wired.com/review/tcl-qm7l/",
+        "title": "TCL QM7L Mini-LED TV Review (2026)",
+        "link": "https://www.wired.com/review/tcl-qm7l/",
+        "published": "Fri, 13 Nov 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "$1,500 buys you vibrant color, deep blacks, and a fast screen fit for just about anything. Just be sure the wide pedestal fits your setup."
+    },
+    {
+        "id": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+        "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+        "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+        "published": "Fri, 13 Nov 2026 11:45:00 +0000",
+        "source": "WIRED",
+        "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out."
+    },
+    {
+        "id": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+        "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+        "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+        "published": "Fri, 13 Nov 2026 17:25:45 +0000",
+        "source": "Ars Technica",
+        "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+        "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+        "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+        "published": "Fri, 13 Nov 2026 16:26:32 +0000",
+        "source": "Ars Technica",
+        "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+        "title": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+        "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+        "published": "Fri, 13 Nov 2026 15:26:53 +0000",
+        "source": "Ars Technica",
+        "summary": "Governments, hospitals, courts scrambled by global Microsoft outage."
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+        "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+        "link": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+        "published": "Fri, 13 Nov 2026 15:09:39 +0000",
+        "source": "Ars Technica",
+        "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death."
+    },
+    {
+        "id": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+        "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+        "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+        "published": "Fri, 13 Nov 2026 14:45:04 +0000",
+        "source": "Ars Technica",
+        "summary": "What\u2019s more fitting than a spiral-bound map for a bare-bones two-door pickup?"
+    },
+    {
+        "id": "https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/",
+        "title": "You can now tempt fate and give your banking information to ChatGPT",
+        "link": "https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/",
+        "published": "Fri, 13 Nov 2026 17:17:51 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The new Wallet feature will allow its AI agents to make purchases on your behalf."
+    },
+    {
+        "id": "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
+        "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
+        "link": "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
+        "published": "Fri, 13 Nov 2026 16:35:36 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The House of Representatives, health care providers, schools and many other organizations were affected."
+    },
+    {
+        "id": "https://www.engadget.com/2315452/motorola-signature-27-hands-on/",
+        "title": "The Motorola Signature 27 is a beast",
+        "link": "https://www.engadget.com/2315452/motorola-signature-27-hands-on/",
+        "published": "Fri, 13 Nov 2026 14:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Motorola's latest phone has a monstrous tandem OLED display, a huge 7,000mah battery, fancy cameras and a massive $1,600 price tag."
+    },
+    {
+        "id": "https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/",
+        "title": "Why Apple's HomeView relies so heavily on your iPhone",
+        "link": "https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/",
+        "published": "Fri, 13 Nov 2026 14:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "To make the HomeView both personal and communal, there was only one place to go."
+    },
+    {
+        "id": "https://www.engadget.com/2314873/surface-laptop-ultra-review/",
+        "title": "Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple",
+        "link": "https://www.engadget.com/2314873/surface-laptop-ultra-review/",
+        "published": "Fri, 13 Nov 2026 13:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Microsoft's latest Surface is a beautiful flagship device for NVIDIA's RTX Spark."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+        "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
+        "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+        "published": "Fri, 13 Nov 2026 13:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;"
+    },
+    {
+        "id": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+        "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+        "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+        "published": "Thu, 12 Nov 2026 22:03:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50474959\">Comments</a>"
+    },
+    {
+        "id": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+        "title": "A technical vision for the Haskell ecosystem",
+        "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+        "published": "Fri, 13 Nov 2026 14:43:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50484235\">Comments</a>"
+    },
+    {
+        "id": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+        "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "published": "Fri, 13 Nov 2026 17:30:10 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50486748\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+        "title": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust",
+        "link": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+        "published": "Fri, 13 Nov 2026 14:28:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50484007\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/tech/essentials-android-app-power-user-settings/",
+        "title": "Attention, Android power users: This app unlocks 30+ features you won\u2019t find in Settings",
+        "link": "https://www.zdnet.com/tech/essentials-android-app-power-user-settings/",
+        "published": "2026-11-12T18:15:00Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Is Android Settings not delivering enough power? The Essentials app features 30+ mods and tweaks \u2013 but you won\u2019t find it in the Play Store"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents/articleshow/135800426.cms",
+        "title": "Amazon's plan to own the world's product data and fight AI shopping agents",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents/articleshow/135800426.cms",
+        "published": "Fri, 13 Nov 2026 16:34:50 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Called World Product Graph, the initiative seeks to hoover up data on virtually every item for sale on Earth, whether Amazon stocks it or not, according to an internal document reviewed by Reuters, and to people familiar with the matter."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/simplify-alpha-opens-ai-engineering-and-innovation-center-in-hyderabad-joined-by-simplify-healthcare-and-simplifyx/articleshow/135798924.cms",
+        "title": "Simplify Alpha\u2122 opens AI engineering and innovation center in Hyderabad, joined by Simplify Healthcare\u00ae and SimplifyX\u2122",
+        "link": "https://economictimes.indiatimes.com/tech/technology/simplify-alpha-opens-ai-engineering-and-innovation-center-in-hyderabad-joined-by-simplify-healthcare-and-simplifyx/articleshow/135798924.cms",
+        "published": "Fri, 13 Nov 2026 16:00:16 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Hyderabad joins Pune and Mumbai as the third India location for the Simplify Group\u2122 companies, adding capacity for customer delivery and growth."
+    },
+    {
+        "id": "https://inc42.com/features/microsofts-outlook-outage-drags-on-indian-enterprises-are-feeling-the-heat/",
+        "title": "Microsoft\u2019s Outlook Outage Drags On: Indian Enterprises Are Feeling The Heat",
+        "link": "https://inc42.com/features/microsofts-outlook-outage-drags-on-indian-enterprises-are-feeling-the-heat/",
+        "published": "Fri, 13 Nov 2026 15:18:59 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Microsoft Outage\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Microsoft-outage-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />For Kriti, a Gurugram-based marketing professional, Thursday&#8217;s workday came to an abrupt halt even before it began, as Microsoft services&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/zetwerks-q2-loss-jumps-43-yoy-to-%e2%82%b988-cr-revenue-up-18/",
+        "title": "Zetwerk\u2019s Q2 Loss Jumps 43% YoY To \u20b988 Cr, Revenue Up 18%",
+        "link": "https://inc42.com/buzz/zetwerks-q2-loss-jumps-43-yoy-to-%e2%82%b988-cr-revenue-up-18/",
+        "published": "Fri, 13 Nov 2026 12:02:23 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Zetwerk\u2019s Q2 Loss Jumps 43% YoY To \u20b988 Cr, Revenue Up 18%\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Zetwerk-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Zetwerk\u2019s consolidated net loss widened 43.2% YoY to \u20b988.1 Cr in the September quarter (Q2 FY27) from \u20b961.6 Cr in&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/zaggle-q2-profit-slips-30-yoy-to-%e2%82%b924-5-cr-despite-revenue-uptick/",
+        "title": "Zaggle Q2 Profit Slips 30% YoY To \u20b924.5 Cr Despite Revenue Uptick",
+        "link": "https://inc42.com/buzz/zaggle-q2-profit-slips-30-yoy-to-%e2%82%b924-5-cr-despite-revenue-uptick/",
+        "published": "Fri, 13 Nov 2026 11:58:31 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Zaggle Q1: Profits Surges 56% YoY To INR 26 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/05/Zaggle-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Fintech SaaS company Zaggle\u2019s net profit for the September quarter (Q2 FY27) plunged 30% to \u20b924.5 Cr from \u20b935 Cr&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/paytm-set-to-revive-wallet-business-with-rbi-in-principle-nod/",
+        "title": "Paytm Set To Revive Wallet Business With RBI In-Principle Nod",
+        "link": "https://inc42.com/buzz/paytm-set-to-revive-wallet-business-with-rbi-in-principle-nod/",
+        "published": "Fri, 13 Nov 2026 11:46:44 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Paytm Set To Revive Wallet Business With RBI In-Principle Nod\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2023/03/Paytm-wallet-ft.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Paytm\u2019s wholly owned subsidiary, Paytm Payments Services Ltd (PPSL), has received in-principle authorisation from the RBI to set up and&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/meity-reviews-house-help-platforms-data-collection-process-for-physical-ai-training/",
+        "title": "MeitY Reviews House Help Platforms Data Collection Process For Physical AI Training",
+        "link": "https://inc42.com/buzz/meity-reviews-house-help-platforms-data-collection-process-for-physical-ai-training/",
+        "published": "Fri, 13 Nov 2026 11:36:54 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"MeitY Reviews House Help Platforms\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/AI-Shift-26-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />The Ministry of Electronics and Information Technology (MeitY) has sought details from home services platforms, including Pronto, Snabbit and Urban&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri/",
+        "title": "AI opens up new revenue streams for Info Edge\u2019s Naukri",
+        "link": "https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri/",
+        "published": "Fri, 13 Nov 2026 13:09:05 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Naukri generated Rs 60 crore in AI revenue in Q2 FY27, giving Info Edge an annualised revenue run rate of Rs 240 crore.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri/\">AI opens up new revenue streams for Info Edge&#8217;s Naukri</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-turtlemint-irdai-commission-caps-posp-earnings/",
+        "title": "Turtlemint flags lower income for agents under IRDAI proposed commission curbs, pushes beyond insurance",
+        "link": "https://www.medianama.com/2026/11/223-turtlemint-irdai-commission-caps-posp-earnings/",
+        "published": "Fri, 13 Nov 2026 12:24:15 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Turtlemint says IRDAI's proposed commission caps could reduce monthly PoSP earnings by Rs 1,000 more than those of insurance agents selling the same number of policies.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-turtlemint-irdai-commission-caps-posp-earnings/\">Turtlemint flags lower income for agents under IRDAI proposed commission curbs, pushes beyond insurance</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-google-smart-glasses-remove-bystanders-faces/",
+        "title": "How far do Google\u2019s smart glasses protect bystanders? We looked at five everyday situations",
+        "link": "https://www.medianama.com/2026/11/223-google-smart-glasses-remove-bystanders-faces/",
+        "published": "Fri, 13 Nov 2026 11:47:24 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Google says its new smart glasses remove bystanders' faces before Gemini processes images. But the company has not clarified whether the same protection applies to photos and videos saved to the gallery.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-google-smart-glasses-remove-bystanders-faces/\">How far do Google\u2019s smart glasses protect bystanders? We looked at five everyday situations</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
