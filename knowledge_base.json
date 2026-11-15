@@ -427582,5 +427582,61 @@
         "published": "Sat, 14 Nov 2026 22:22:49 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=50501594\">Comments</a>"
+    },
+    {
+        "id": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+        "title": "Memory Safety Bugs in Rust Standard Library",
+        "link": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+        "published": "Fri, 13 Nov 2026 05:22:08 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50478701\">Comments</a>"
+    },
+    {
+        "id": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+        "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+        "link": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+        "published": "Tue, 10 Nov 2026 17:21:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50443331\">Comments</a>"
+    },
+    {
+        "id": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "title": "Court denies motion to dismiss DRAM price fixing case",
+        "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "published": "Sun, 15 Nov 2026 01:18:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50502988\">Comments</a>"
+    },
+    {
+        "id": "https://yourstory.com/2026/11/microsofts-global-outage-vidya-balan-call-child-safety-first",
+        "title": "Microsoft\u2019s global outage; Vidya Balan\u2019s call to put child safety first",
+        "link": "https://yourstory.com/2026/11/microsofts-global-outage-vidya-balan-call-child-safety-first",
+        "published": "Sat, 14 Nov 2026 02:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Problems with Exchange Online spread across Microsoft 365 and external businesses, highlighting how dependent workplaces have become on shared cloud infrastructure."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/lessons-be-delusional",
+        "title": "5 lessons from book Be Delusional by Harinder Singh Pelia",
+        "link": "https://yourstory.com/2026/11/lessons-be-delusional",
+        "published": "Sun, 15 Nov 2026 05:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover five powerful lessons from Be Delusional by Harinder Singh Pelia on self-belief, ambition, confidence and turning big dreams into reality."
+    },
+    {
+        "id": "https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/",
+        "title": "EaseMyTrip Q2: Loss Narrows 98% YoY To \u20b957 Lakh, Revenue Up 34%",
+        "link": "https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/",
+        "published": "Sun, 15 Nov 2026 07:45:37 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"EaseMyTrip Q2: Loss Narrows 98% YoY To \u20b957 Lakh\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1021\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ease-my-trip-financials-feature-image-01.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1361\" />Online travel aggregator (OTA) EaseMyTrip managed to narrow its consolidated net loss by 98.4% to \u20b956.5 Lakh in the second&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/not-just-about-temple-indias-wearable-impasse/",
+        "title": "Not Just About Temple: India\u2019s Wearable Impasse",
+        "link": "https://inc42.com/features/not-just-about-temple-indias-wearable-impasse/",
+        "published": "Sun, 15 Nov 2026 05:30:21 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Not Just About Temple: India\u2019s Wearable Impasse\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Outline-Design-wellness-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />\u201cThere is no established playbook for making wearables in India. If you have the capital, you can set up a&#8230;"
     }
 ]
