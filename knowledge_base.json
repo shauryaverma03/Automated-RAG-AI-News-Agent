@@ -427502,5 +427502,85 @@
         "published": "Sat, 14 Nov 2026 17:45:19 +0000",
         "source": "Hacker News",
         "summary": "<a href=\"https://news.ycombinator.com/item?id=50499038\">Comments</a>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "title": "Where was Nvidia\u2019s security team?",
+        "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "published": "Sun, 15 Nov 2026 00:08:07 +0000",
+        "source": "TechCrunch",
+        "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
+    },
+    {
+        "id": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+        "title": "Watch SpaceX successfully execute the first \u2018chopstick\u2019 catch of Starship",
+        "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+        "published": "2026-11-14T16:44:44-05:00",
+        "source": "The Verge",
+        "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon [&#8230;]"
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+        "title": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch",
+        "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+        "published": "Sun, 15 Nov 2026 00:40:59 +0000",
+        "source": "Ars Technica",
+        "summary": "It felt like stepping into the future."
+    },
+    {
+        "id": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+        "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+        "link": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+        "published": "Sun, 15 Nov 2026 01:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5."
+    },
+    {
+        "id": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+        "title": "This Sony patent would add a credit card reader to your PlayStation controller",
+        "link": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+        "published": "Sun, 15 Nov 2026 00:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming."
+    },
+    {
+        "id": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
+        "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+        "link": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
+        "published": "Sun, 15 Nov 2026 00:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider."
+    },
+    {
+        "id": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
+        "title": "11 gadgets under $10 that solve everyday problems",
+        "link": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
+        "published": "Sun, 15 Nov 2026 00:15:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Lots of tech purchases run into the hundreds of dollars, but you don't have to spend a lot to make some upgrades."
+    },
+    {
+        "id": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+        "title": "There's a hidden way you can check which services are running on your Android phone",
+        "link": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+        "published": "Sun, 15 Nov 2026 00:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps."
+    },
+    {
+        "id": "https://www.spacex.com/launches/starship-flight-15",
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "link": "https://www.spacex.com/launches/starship-flight-15",
+        "published": "Sat, 14 Nov 2026 21:22:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>"
+    },
+    {
+        "id": "https://retrocomputing.stackexchange.com/questions/17957",
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "link": "https://retrocomputing.stackexchange.com/questions/17957",
+        "published": "Sat, 14 Nov 2026 22:22:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50501594\">Comments</a>"
     }
 ]
