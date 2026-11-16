@@ -428054,5 +428054,189 @@
         "published": "Sun, 15 Nov 2026 02:35:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 258th quiz. Ready?"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+        "title": "Helsing backer Plural raises $1.1B to fund Europe\u2019s next moonshots",
+        "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+        "published": "Mon, 16 Nov 2026 07:00:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Operator-led VC firm Plural has raised \u20ac1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures\u2019 Kembara and EQT-managed Scaleup Europe Fund."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "title": "Apple launches new app to study how people use AI for health",
+        "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "published": "Mon, 16 Nov 2026 01:30:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Apple's new app for a study will answer everyday medical questions"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+        "title": "Apple\u2019s new study looks to improve the effectiveness of AI health tools",
+        "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+        "published": "2026-11-15T20:26:56-05:00",
+        "source": "The Verge",
+        "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]"
+    },
+    {
+        "id": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
+        "title": "Apple's new research app is designed to make AI health tools more user-friendly",
+        "link": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
+        "published": "Mon, 16 Nov 2026 06:06:05 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Apple has unveiled a new research study with the aim of learning how people use AI health tools."
+    },
+    {
+        "id": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+        "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
+        "link": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+        "published": "Mon, 16 Nov 2026 04:56:53 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start."
+    },
+    {
+        "id": "https://www.engadget.com/2314079/how-to-clear-application-cache-mac/",
+        "title": "How to clear the application cache on your Mac",
+        "link": "https://www.engadget.com/2314079/how-to-clear-application-cache-mac/",
+        "published": "Mon, 16 Nov 2026 01:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Clearing app caches don't necessarily make your Mac run faster."
+    },
+    {
+        "id": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
+        "title": "The oldest gadget in your house could be your home network's biggest security hole",
+        "link": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
+        "published": "Mon, 16 Nov 2026 01:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "It may be more economical to hold onto gadgets for as long as possible, but you're putting your entire home network at risk with outdate hardware."
+    },
+    {
+        "id": "https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/",
+        "title": "The pros and cons of using your phone as a mobile hotspot",
+        "link": "https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/",
+        "published": "Mon, 16 Nov 2026 00:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Using your phone to help other devices connect to the internet is undeniably convenient, but it also comes with other perks \u2013\u00a0and a few downsides."
+    },
+    {
+        "id": "https://pub.cba.mit.edu/863.26/site/",
+        "title": "How to make almost anything",
+        "link": "https://pub.cba.mit.edu/863.26/site/",
+        "published": "Mon, 16 Nov 2026 05:50:37 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50514470\">Comments</a>"
+    },
+    {
+        "id": "https://iter.ca/post/ubo-uxss/",
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "link": "https://iter.ca/post/ubo-uxss/",
+        "published": "Mon, 16 Nov 2026 02:04:48 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50513160\">Comments</a>"
+    },
+    {
+        "id": "https://qwen.ai/blog?id=qwen4-max",
+        "title": "Qwen4-Max",
+        "link": "https://qwen.ai/blog?id=qwen4-max",
+        "published": "Mon, 16 Nov 2026 02:14:44 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50513215\">Comments</a>"
+    },
+    {
+        "id": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "title": "What's Next for Nvidia?",
+        "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "published": "Sun, 15 Nov 2026 23:55:55 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50512235\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/internet/dpdp-rules-may-boost-demand-for-cybersecurity-professionals-and-security-services-report/articleshow/135874969.cms",
+        "title": "DPDP rules may boost demand for cybersecurity professionals and security services: Report",
+        "link": "https://economictimes.indiatimes.com/tech/internet/dpdp-rules-may-boost-demand-for-cybersecurity-professionals-and-security-services-report/articleshow/135874969.cms",
+        "published": "Mon, 16 Nov 2026 11:42:51 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The implementation of the Digital Personal Data Protection (DPDP) Rules is expected to create fresh demand for cybersecurity professionals and managed security services in India, as companies strengthen their systems to protect personal data, monitor security risks and respond to potential data breaches."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades/articleshow/135874755.cms",
+        "title": "Alibaba unveils new flagship AI model with safety upgrades",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades/articleshow/135874755.cms",
+        "published": "Mon, 16 Nov 2026 11:19:15 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "China's Alibaba unveiled its new flagship artificial intelligence model Qwen4-Max on Sunday, saying it enhanced the system's ability to handle complex professional and scientific work while improving protections against safety risks."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/how-flexible-workspaces-are-changing-the-way-companies-think-about-offices",
+        "title": "How flexible workspaces are changing the way companies think about offices",
+        "link": "https://yourstory.com/2026/11/how-flexible-workspaces-are-changing-the-way-companies-think-about-offices",
+        "published": "Mon, 16 Nov 2026 06:08:23 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "At TechSparks 2026, Manish Khedia of The Executive Centre discussed how businesses are moving beyond traditional office layouts and long-term leases to focus on flexibility, collaboration, and employee needs."
+    },
+    {
+        "id": "https://inc42.com/buzz/jio-in-talks-with-isro-skyroot-for-1600-satellite-constellation-report/",
+        "title": "Jio In Talks With ISRO, Skyroot For 1,600-Satellite Constellation: Report",
+        "link": "https://inc42.com/buzz/jio-in-talks-with-isro-skyroot-for-1600-satellite-constellation-report/",
+        "published": "Mon, 16 Nov 2026 07:10:12 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Jio In Talks With ISRO, Skyroot For 1,600-Satellite Constellation: Report\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/jio-PC-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Jio Platforms has begun talks with the Indian Space Research Organisation (ISRO), Skyroot Aerospace, and other Indian launch providers to&#8230;"
+    },
+    {
+        "id": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-november/",
+        "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In November",
+        "link": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-november/",
+        "published": "Mon, 16 Nov 2026 06:18:22 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"AI startups\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Ai-Startup-To-watch-Nov_Ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />AI in India has moved past the phase of picking a single large language model. For two years, the loudest&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/",
+        "title": "Bharat Semi Raises $24 Mn To Build Smart Sensors For Physical AI",
+        "link": "https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/",
+        "published": "Mon, 16 Nov 2026 05:54:07 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"India Needs Bharat Semi Raises $24 Mn To Build Smart Sensors For Physical AI Bharat Semi Raises $24 Mn To Build Smart Sensors For Physical AI\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Semiconductor-Funding-1-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Bengaluru-based semiconductor startup Bharat Semi has raised $24 Mn (around \u20b9215 Cr) in a seed funding r"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-dot-clarifies-sim-binding-24-hour-checks/",
+        "title": "Exclusive: DoT clarifies \u2018continuous\u2019 SIM binding: Messaging apps must verify SIM cards every 24 hours",
+        "link": "https://www.medianama.com/2026/11/223-dot-clarifies-sim-binding-24-hour-checks/",
+        "published": "Mon, 16 Nov 2026 07:15:14 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The DoT has reportedly clarified that messaging apps must check for users' SIM cards every 24 hours. The November 2025 directions did not specify how frequently these checks must take place.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-dot-clarifies-sim-binding-24-hour-checks/\">Exclusive: DoT clarifies \u2018continuous\u2019 SIM binding: Messaging apps must verify SIM cards every 24 hours</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-rbi-fines-mobikwik-non-compliance-wallet-transfer/",
+        "title": "RBI fines MobiKwik Rs 9 lakh over non-compliance with wallet transfer limit, delayed fraud reporting",
+        "link": "https://www.medianama.com/2026/11/223-rbi-fines-mobikwik-non-compliance-wallet-transfer/",
+        "published": "Mon, 16 Nov 2026 07:03:34 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The RBI has imposed a Rs 9 lakh penalty on MobiKwik for allowing fund transfers beyond prescribed limits to non-registered beneficiaries and failing to report certain frauds within the required timeline.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-rbi-fines-mobikwik-non-compliance-wallet-transfer/\">RBI fines MobiKwik Rs 9 lakh over non-compliance with wallet transfer limit, delayed fraud reporting</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-sebi-ai-disclosure-human-oversight-rules/",
+        "title": "SEBI will make market firms disclose AI use and keep humans in the loop, chairman says",
+        "link": "https://www.medianama.com/2026/11/223-sebi-ai-disclosure-human-oversight-rules/",
+        "published": "Mon, 16 Nov 2026 06:34:59 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>SEBI's upcoming AI guidelines will build on its 2025 consultation paper, which proposed disclosure, testing and accountability requirements.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-sebi-ai-disclosure-human-oversight-rules/\">SEBI will make market firms disclose AI use and keep humans in the loop, chairman says</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-easemytrip-loss-narrows-revenue-surges/",
+        "title": "EaseMyTrip Q2: Loss narrows to Rs 57 lakh as revenue surges 34%",
+        "link": "https://www.medianama.com/2026/11/223-easemytrip-loss-narrows-revenue-surges/",
+        "published": "Mon, 16 Nov 2026 06:24:37 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>EaseMyTrip narrowed its Q2 FY27 net loss by 98% to Rs 56.5 lakh, while revenue rose 34% to Rs 158 crore, driven by strong growth in its hotels and holiday packages business.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-easemytrip-loss-narrows-revenue-surges/\">EaseMyTrip Q2: Loss narrows to Rs 57 lakh as revenue surges 34%</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-old-bitly-links-x-posts-trump-burger-king-hijacked/",
+        "title": "Old Bitly links in Trump, Burger King and other prominent X accounts redirected to unrelated websites",
+        "link": "https://www.medianama.com/2026/11/223-old-bitly-links-x-posts-trump-burger-king-hijacked/",
+        "published": "Mon, 16 Nov 2026 06:04:42 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>A link shared by Burger King in 2011 now leads to Wikipedia's list of Nazi concentration camps. Several other old X posts have also been affected.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-old-bitly-links-x-posts-trump-burger-king-hijacked/\">Old Bitly links in Trump, Burger King and other prominent X accounts redirected to unrelated websites</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
