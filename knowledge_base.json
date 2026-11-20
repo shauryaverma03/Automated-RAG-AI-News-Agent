@@ -431518,5 +431518,149 @@
         "published": "Thu, 19 Nov 2026 11:50:14 GMT",
         "source": "YourStory RSS Feed",
         "summary": "Explore practical self-improvement habits for Gen Z that improve focus, confidence, productivity and personal growth while delivering long-term results."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+        "source": "TechCrunch",
+        "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+        "source": "TechCrunch",
+        "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+        "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+        "published": "Fri, 20 Nov 2026 00:26:03 +0000",
+        "source": "TechCrunch",
+        "summary": "On the day Anthropic went public, Fireworks AI\u2019s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers\u2019 trust."
+    },
+    {
+        "id": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+        "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+        "link": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+        "published": "Fri, 20 Nov 2026 02:39:47 +0000",
+        "source": "WIRED",
+        "summary": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat."
+    },
+    {
+        "id": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
+        "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+        "link": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
+        "published": "Fri, 20 Nov 2026 00:03:22 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools."
+    },
+    {
+        "id": "https://github.com/openssl/openssl/pull/33652",
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "link": "https://github.com/openssl/openssl/pull/33652",
+        "published": "Fri, 20 Nov 2026 02:01:09 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50569226\">Comments</a>"
+    },
+    {
+        "id": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+        "title": "GIMP now has UI tests",
+        "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+        "published": "Fri, 20 Nov 2026 04:00:24 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50569985\">Comments</a>"
+    },
+    {
+        "id": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+        "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "published": "Fri, 20 Nov 2026 02:43:49 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50569516\">Comments</a>"
+    },
+    {
+        "id": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+        "title": "Vint Cerf on why TCP/IP was never patented",
+        "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+        "published": "Fri, 20 Nov 2026 01:06:12 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50568861\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
+        "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029",
+        "link": "https://economictimes.indiatimes.com/tech/startups/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/articleshow/136012234.cms",
+        "published": "Fri, 20 Nov 2026 09:22:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Companies including Elon Musk's SpaceX and startup Starcloud are exploring data centers in orbit as growing AI use drives demand for computing capacity and strains infrastructure supporting facilities on the ground."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-says-reevaluating-2030-net-zero-target-amid-ai-buildout/articleshow/136012175.cms",
+        "title": "Meta says 'reevaluating' 2030 net zero target amid AI buildout",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-says-reevaluating-2030-net-zero-target-amid-ai-buildout/articleshow/136012175.cms",
+        "published": "Fri, 20 Nov 2026 09:19:46 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Meta said Thursday it was reconsidering its 2030 deadline for net zero emissions because of the artificial intelligence boom, the latest in a broad retreat by corporations on global warming targets. The reality has been far more complex,\" the executives wrote, adding that delivering on Meta's vision \"requires building the infrastructure that powers AI.\" In 2020, Meta set a goal of net zero emissions across its entire value chain by the year 2030, in order to align with the Paris Agreement, which"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musks-spacexsi-denies-liability-in-uk-lawmakers-lawsuit-over-grok-images/articleshow/136012108.cms",
+        "title": "Elon Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musks-spacexsi-denies-liability-in-uk-lawmakers-lawsuit-over-grok-images/articleshow/136012108.cms",
+        "published": "Fri, 20 Nov 2026 09:17:08 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Jess Asato, a member of Britain's governing Labour Party who has publicly criticised both Musk and Grok, is suing after users generated sexualised images of her, including a video of her \"being chloroformed and prepared for a sexual assault\"."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms",
+        "title": "Samsung Electronics names new heads of memory chip, mobile businesses",
+        "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-names-new-heads-of-memory-chip-mobile-businesses/articleshow/136012029.cms",
+        "published": "Fri, 20 Nov 2026 09:14:53 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Hwang Sang-joon was promoted to president and will become the head of the memory business, and President Choi Won-joon was named the head of the mobile device business, Samsung said in a statement."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-1-5-trillion-debut-rewrites-venture-capitals-playbook/articleshow/136010952.cms",
+        "title": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-1-5-trillion-debut-rewrites-venture-capitals-playbook/articleshow/136010952.cms",
+        "published": "Fri, 20 Nov 2026 08:28:04 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The AI lab's shares began trading on the Nasdaq on Thursday at a $1.5 trillion valuation, delivering multibillion-dollar windfalls to venture investors at a moment when the industry needs fresh liquidity to fund more bets on AI companies. The stock closed at $97.17, up 17% from its IPO price of $83."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/7-micro-habits-under-5-minutes-that-can-change-your-year",
+        "title": "7 Micro-habits under 5 minutes that can change your year",
+        "link": "https://yourstory.com/2026/11/7-micro-habits-under-5-minutes-that-can-change-your-year",
+        "published": "Thu, 19 Nov 2026 12:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover 7 simple micro-habits that take less than five minutes but can improve your productivity, mindset, health and daily routine."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces",
+        "title": "\u2018My dream is to make WeWork India the default choice for workspaces\u2019",
+        "link": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces",
+        "published": "Fri, 20 Nov 2026 01:45:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "CEO and Managing Director Karan Virmani speaks to YourStory about WeWork India's first year as a public company, its expanding product portfolio, the impact of AI, market opportunities, and his ambitions for the business."
+    },
+    {
+        "id": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
+        "title": "Urban Company Raises \u20b92,500 Cr Via QIP, Draws Bids Worth Over \u20b915,000 Cr",
+        "link": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
+        "published": "Fri, 20 Nov 2026 04:43:19 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Urban Company Raises \u20b92,500 Cr Via QIP, Draws Bids Worth Over \u20b915,000 Cr\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-Company-ftr-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Home services marketplace Urban Company has raised \u20b92,500 Cr through a qualified institutional placement (QIP), attracting bids worth over \u20b915,000&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/indias-anthropic-question-sharechats-turnaround-more/",
+        "title": "India\u2019s Anthropic Question, ShareChat\u2019s Turnaround & More",
+        "link": "https://inc42.com/buzz/indias-anthropic-question-sharechats-turnaround-more/",
+        "published": "Fri, 20 Nov 2026 02:30:39 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"India\u2019s Anthropic Question, ShareChat\u2019s Turnaround &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/FTR-Daily-Brief-48.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Can India Build Its Own Anthropic? Anthropic\u2019s blockbuster listing has put India\u2019s AI ambitions under a harsh spotlight. The IPO&#8230;"
     }
 ]
