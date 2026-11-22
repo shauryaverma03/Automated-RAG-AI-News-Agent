@@ -432974,5 +432974,77 @@
         "published": "Sun, 22 Nov 2026 02:20:00 GMT",
         "source": "YourStory RSS Feed",
         "summary": "In this episode of the Prime Venture Partners Podcast, Illumine co-founders Navneet Rastogi and Sourabh Agarwal share how they went from losing nearly 200 customers during COVID to building a global childcare SaaS business, competing with established US players and scaling sales from India."
+    },
+    {
+        "id": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+        "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+        "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+        "published": "Sun, 22 Nov 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games."
+    },
+    {
+        "id": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+        "title": "Banks Have Had It Up to Here With Your AI Agent",
+        "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+        "published": "Sun, 22 Nov 2026 11:00:00 +0000",
+        "source": "WIRED",
+        "summary": "Major US financial institutions are banning third-party bots from logging into your accounts\u2014and warning that any costly bot mistakes are strictly your problem."
+    },
+    {
+        "id": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+        "title": "Scientists Tried to Kill This Dirt, but It Wouldn\u2019t Die",
+        "link": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+        "published": "Sun, 22 Nov 2026 10:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years\u2014offering clues to how life on Earth may have gotten its start."
+    },
+    {
+        "id": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "published": "Sun, 22 Nov 2026 04:04:56 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50596133\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/pithings/unkernel",
+        "title": "A real Linux kernel, compiled to WebAssembly",
+        "link": "https://github.com/pithings/unkernel",
+        "published": "Tue, 17 Nov 2026 16:35:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50533945\">Comments</a>"
+    },
+    {
+        "id": "https://arxiv.org/abs/2606.14068",
+        "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+        "link": "https://arxiv.org/abs/2606.14068",
+        "published": "Sun, 22 Nov 2026 09:18:36 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50597743\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/chinese-national-li-ming-charged-in-fraud-case-in-singapore-linked-to-megaspeed-and-alice-huang-report/articleshow/136073178.cms",
+        "title": "Chinese national Li Ming charged in fraud case in Singapore linked to Megaspeed and Alice Huang: Report",
+        "link": "https://economictimes.indiatimes.com/tech/technology/chinese-national-li-ming-charged-in-fraud-case-in-singapore-linked-to-megaspeed-and-alice-huang-report/articleshow/136073178.cms",
+        "published": "Sun, 22 Nov 2026 16:45:13 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Li Ming, a Chinese national, is facing fraud charges in Singapore regarding alleged transshipment of Nvidia chips. He was involved with Megaspeed, a company linked to Alice Huang, the former romantic partner of Nvidia's CEO Jensen Huang. Li is accused of misleading an American supplier by misrepresenting the intended destination of purchased servers. Following an investigation, Megaspeed was placed on a no sell list by Nvidia."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/content-ai-empowerment-business-creativity-entrepreneur-quiz",
+        "title": "Content, AI, empowerment: test your business creativity with Edition 259 of our weekly quiz!",
+        "link": "https://yourstory.com/2026/11/content-ai-empowerment-business-creativity-entrepreneur-quiz",
+        "published": "Sun, 22 Nov 2026 03:04:28 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 259th quiz. Ready?"
+    },
+    {
+        "id": "https://inc42.com/features/the-gta-vi-sized-hole-in-indian-gaming/",
+        "title": "The GTA VI-Sized Hole In Indian Gaming",
+        "link": "https://inc42.com/features/the-gta-vi-sized-hole-in-indian-gaming/",
+        "published": "Sun, 22 Nov 2026 05:30:37 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"The GTA VI-Sized Hole In Indian Gaming\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/GTA_Outline_Ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />At midnight on Thursday, when Grand Theft Auto VI finally launched, India was just another market waiting to play the&#8230;"
     }
 ]
