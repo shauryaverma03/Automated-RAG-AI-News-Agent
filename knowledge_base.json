@@ -434134,5 +434134,429 @@
         "published": "Tue, 24 Nov 2026 03:42:37 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>Maharashtra's FDA has warned influencers of fines of up to Rs 10 lakh for misleading health supplement ads. The order also requires gyms, pharmacies and other sellers to obtain food safety licences.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-maharashtra-fda-influencers-health-supplement/\">Maharashtra FDA warns influencers of Rs 10 lakh fines for misleading health supplement claims</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+        "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+        "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+        "published": "Tue, 24 Nov 2026 16:40:46 +0000",
+        "source": "TechCrunch",
+        "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+        "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+        "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+        "published": "Tue, 24 Nov 2026 16:10:00 +0000",
+        "source": "TechCrunch",
+        "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+        "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+        "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+        "published": "Tue, 24 Nov 2026 16:02:37 +0000",
+        "source": "TechCrunch",
+        "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+        "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+        "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+        "published": "Tue, 24 Nov 2026 15:51:07 +0000",
+        "source": "TechCrunch",
+        "summary": "Amazon\u2019s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+        "title": "Huang reportedly admitted to more than two affairs to Nvidia\u2019s board",
+        "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+        "published": "Tue, 24 Nov 2026 13:29:53 +0000",
+        "source": "TechCrunch",
+        "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal."
+    },
+    {
+        "id": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+        "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+        "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+        "published": "2026-11-24T11:37:03-05:00",
+        "source": "The Verge",
+        "summary": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump Administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlier by Semafor, Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+        "title": "Jensen Huang deepfakes are the hot new AI slop",
+        "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+        "published": "2026-11-24T11:30:00-05:00",
+        "source": "The Verge",
+        "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "published": "2026-11-24T11:09:23-05:00",
+        "source": "The Verge",
+        "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026",
+        "title": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
+        "link": "https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026",
+        "published": "2026-11-24T10:24:46-05:00",
+        "source": "The Verge",
+        "summary": "The Black Friday offers on streaming services are rolling in, and the latest deal includes Disney Plus and Hulu for a steeply discounted monthly rate. There are sales happening for both the ad-supported and ad-free tiers that offer full access to both services, and either will save you quite a bit of money. For those [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
+        "title": "Wyze\u2019s new window feeder records birds from a camera inside your home",
+        "link": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
+        "published": "2026-11-24T10:14:05-05:00",
+        "source": "The Verge",
+        "summary": "A year ago, Wyze introduced a $35 security camera that stuck to the inside of a window so you could keep an eye on what was happening outside your home without a complicated installation. Today the company announced its new Window Bird Cam, which expands on that idea by pairing a similar window-mounted camera with [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-24-26/",
+        "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games",
+        "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-24-26/",
+        "published": "Tue, 24 Nov 2026 16:28:01 +0000",
+        "source": "WIRED",
+        "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games."
+    },
+    {
+        "id": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+        "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+        "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+        "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+        "source": "WIRED",
+        "summary": "A new test assumes AI agents can go rogue\u2014and asks whether they can resist temptation."
+    },
+    {
+        "id": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
+        "title": "Thanksgiving Travel Will Be a Stormy Mess",
+        "link": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
+        "published": "Tue, 24 Nov 2026 15:12:31 +0000",
+        "source": "WIRED",
+        "summary": "Snow, wind, rain, flooding. Storms on both coasts mean the holiday travel week will have it all\u2014and it could wreak havoc at airports across the US."
+    },
+    {
+        "id": "https://www.wired.com/gallery/best-espresso-machines/",
+        "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
+        "link": "https://www.wired.com/gallery/best-espresso-machines/",
+        "published": "Tue, 24 Nov 2026 12:32:00 +0000",
+        "source": "WIRED",
+        "summary": "The best espresso makers can turn your kitchen into a caf\u00e9 and help you hone the art of the perfect shot."
+    },
+    {
+        "id": "https://www.wired.com/story/gifts-for-friends/",
+        "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
+        "link": "https://www.wired.com/story/gifts-for-friends/",
+        "published": "Tue, 24 Nov 2026 12:03:00 +0000",
+        "source": "WIRED",
+        "summary": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I\u2019d actually buy for my own inner circle."
+    },
+    {
+        "id": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+        "title": "No more heated seat subscriptions for cars in New York from 2027",
+        "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+        "published": "Tue, 24 Nov 2026 16:20:37 +0000",
+        "source": "Ars Technica",
+        "summary": "Services with \u201congoing costs\u201d are a pretty big loophole in the new law."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+        "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+        "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+        "published": "Tue, 24 Nov 2026 16:12:46 +0000",
+        "source": "Ars Technica",
+        "summary": "\"Without this funding, activities would be delayed.\""
+    },
+    {
+        "id": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+        "title": "Homo erectus lived in the rainforest alongside Denisovans",
+        "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+        "published": "Tue, 24 Nov 2026 16:01:19 +0000",
+        "source": "Ars Technica",
+        "summary": "You can learn a surprising amount from a few loose teeth."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+        "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+        "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+        "published": "Tue, 24 Nov 2026 14:56:50 +0000",
+        "source": "Ars Technica",
+        "summary": "Huang\u2019s allies enlisted Trump and Vance to pressure Nvidia\u2019s board into taking him back."
+    },
+    {
+        "id": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "published": "Tue, 24 Nov 2026 12:30:05 +0000",
+        "source": "Ars Technica",
+        "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers."
+    },
+    {
+        "id": "https://www.engadget.com/2326647/researchers-find-3-6-billion-usernames-passwords-and-documents-in-unsecured-database/",
+        "title": "Researchers find 3.6 billion usernames, passwords and documents in unsecured databases",
+        "link": "https://www.engadget.com/2326647/researchers-find-3-6-billion-usernames-passwords-and-documents-in-unsecured-database/",
+        "published": "Tue, 24 Nov 2026 16:15:17 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The scale of the exposed data underscores how important it is to take steps to stay safe online."
+    },
+    {
+        "id": "https://www.engadget.com/2320810/built-in-windows-tool-find-pc-stability-issues-reliability-monitor/",
+        "title": "Use this built-in Windows tool to find PC stability issues",
+        "link": "https://www.engadget.com/2320810/built-in-windows-tool-find-pc-stability-issues-reliability-monitor/",
+        "published": "Tue, 24 Nov 2026 16:15:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "This tool is a great alternative to Event Viewer."
+    },
+    {
+        "id": "https://www.engadget.com/2326638/commerce-department-adds-megaspeed-to-trade-blacklist/",
+        "title": "Commerce Department adds Megaspeed to trade blacklist",
+        "link": "https://www.engadget.com/2326638/commerce-department-adds-megaspeed-to-trade-blacklist/",
+        "published": "Tue, 24 Nov 2026 16:11:17 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "No American company, including NVIDIA, can sell technologies to Megaspeed without a license from the federal government."
+    },
+    {
+        "id": "https://www.engadget.com/2322030/make-usb-c-cables-last-longer/",
+        "title": "How to make your USB-C cables last longer",
+        "link": "https://www.engadget.com/2322030/make-usb-c-cables-last-longer/",
+        "published": "Tue, 24 Nov 2026 15:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Tired of replacing frayed or finicky charging cords? Practical habits show how to prevent wear, avoid short circuits and keep your cables reliable."
+    },
+    {
+        "id": "https://www.engadget.com/2320475/essential-car-gadgets-and-accessories/",
+        "title": "5 different types of gadgets and accessories you'll want in your car",
+        "link": "https://www.engadget.com/2320475/essential-car-gadgets-and-accessories/",
+        "published": "Tue, 24 Nov 2026 14:45:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Cars can come with loads of bells and whistles these days, but here are some relatively affordable additions to make traffic a little easier."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "published": "Tue, 24 Nov 2026 15:15:16 +0000",
+        "source": "MIT Technology Review",
+        "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+        "title": "The Download: AI\u2019s gas power boom and a consciousness reality check",
+        "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+        "published": "Tue, 24 Nov 2026 13:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+        "title": "Data centers are getting their own natural gas power plants",
+        "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+        "published": "Tue, 24 Nov 2026 11:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid\u2014a wait that could last as long as a decade. Some developers aren\u2019t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI\u2019s&#8230;"
+    },
+    {
+        "id": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "title": "2035 came early",
+        "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "published": "Tue, 24 Nov 2026 06:30:33 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50624497\">Comments</a>"
+    },
+    {
+        "id": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "title": "LLM agents work for their parent companies, not for you",
+        "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "published": "Tue, 24 Nov 2026 12:40:15 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50627340\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/sous-labs/songe",
+        "title": "A training engine for your local model, using your idle compute",
+        "link": "https://github.com/sous-labs/songe",
+        "published": "Tue, 24 Nov 2026 15:03:40 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50629231\">Comments</a>"
+    },
+    {
+        "id": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+        "title": "Tidal Bans AI-Generated Music",
+        "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+        "published": "Tue, 24 Nov 2026 16:12:38 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50630309\">Comments</a>"
+    },
+    {
+        "id": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+        "title": "Worshipping at the altar of Brendan Gregg",
+        "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+        "published": "Tue, 24 Nov 2026 10:50:14 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50626413\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/",
+        "title": "Disney+ and Hulu are 61% off for a year with this Black Friday deal \u2013 how to get it",
+        "link": "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/",
+        "published": "2026-11-24T14:02:36Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Disney and Hulu\u2019s Black Friday deal just dropped, and you\u2019ll only pay $4.99 a month for 12 months for both streaming services."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/trumps-nvidia-intervention-rips-up-wall-street-playbook-mcgeever/articleshow/136133353.cms",
+        "title": "Trump's Nvidia intervention rips up Wall Street playbook: McGeever",
+        "link": "https://economictimes.indiatimes.com/tech/technology/trumps-nvidia-intervention-rips-up-wall-street-playbook-mcgeever/articleshow/136133353.cms",
+        "published": "Tue, 24 Nov 2026 19:39:25 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Huang's return after only 11 days, which US President Donald Trump said would not have happened without his personal intervention, calls into question US corporate ethics, governance, trust and accountability, not to mention the supposed separation between Washington and Wall Street."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-on-both-sides/articleshow/136133325.cms",
+        "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount on both sides",
+        "link": "https://economictimes.indiatimes.com/tech/technology/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-on-both-sides/articleshow/136133325.cms",
+        "published": "Tue, 24 Nov 2026 19:19:12 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Jensen Huang has been reinstated as Nvidia CEO, reflecting his influence in US-China technology relations. His return comes amidst rising tensions, with the US tightening chip restrictions on China. Huang is set to face scrutiny from Congress regarding export controls shortly. Despite his popularity, the changing political landscape poses challenges for his role in bridging the two economies."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/meta-pauses-class-c-share-issuance-amid-shareholder-lawsuit/articleshow/136123722.cms",
+        "title": "Meta pauses Class C share issuance amid shareholder lawsuit",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-pauses-class-c-share-issuance-amid-shareholder-lawsuit/articleshow/136123722.cms",
+        "published": "Tue, 24 Nov 2026 13:29:45 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The social media giant agreed not to issue the shares during the pre-trial and trial proceedings in the lawsuit brought by shareholders in Delaware's Court of Chancery. The trial is scheduled to begin on April 19, 2027."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-ship-to-help-developers-ship-code-faster/articleshow/136123696.cms",
+        "title": "Anthropic launches Claude Ship to help developers ship code faster",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-claude-ship-to-help-developers-ship-code-faster/articleshow/136123696.cms",
+        "published": "Tue, 24 Nov 2026 13:28:22 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Anthropic said on Monday it has launched Claude Ship to help developers ship code faster by reviewing changes, fixing problems and deciding which ones can be added to the main code based on rules set by a team."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/startups/amazon-to-buy-decarts-ai-chip-optimization-tech-in-latest-ai-talent-grab/articleshow/136123347.cms",
+        "title": "Amazon to buy Decart's AI chip optimisation tech in latest AI talent grab",
+        "link": "https://economictimes.indiatimes.com/tech/startups/amazon-to-buy-decarts-ai-chip-optimization-tech-in-latest-ai-talent-grab/articleshow/136123347.cms",
+        "published": "Tue, 24 Nov 2026 13:15:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Tech giants are increasingly buying the capabilities needed to advance their AI ambitions instead of building them in-house, as competition at the frontier of AI development intensifies."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/7-habits-that-make-you-a-better-listener",
+        "title": "7 Habits that make you a better listener and build trust",
+        "link": "https://yourstory.com/2026/11/7-habits-that-make-you-a-better-listener",
+        "published": "Tue, 24 Nov 2026 09:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover seven simple listening habits that strengthen relationships, build trust and help you become more understanding and approachable."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/6-must-read-indian-historical-fiction-books-to-explore",
+        "title": "6 Must-read Indian historical fiction books to explore",
+        "link": "https://yourstory.com/2026/11/6-must-read-indian-historical-fiction-books-to-explore",
+        "published": "Tue, 24 Nov 2026 10:30:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Explore six must-read Indian historical fiction books that bring the past to life through stories of royal empires, colonial rule, love and Partition."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/vegapay-to-raise-rs-384-cr-series-a-funding-led-by-prosus",
+        "title": "Fintech startup Vegapay to raise Rs 38.4 Cr in Series A funding round led by Prosus",
+        "link": "https://yourstory.com/2026/11/vegapay-to-raise-rs-384-cr-series-a-funding-led-by-prosus",
+        "published": "Tue, 24 Nov 2026 12:07:53 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The round will also see participation from existing investors Elevation Capital, Vertex Ventures and Eximius Ventures."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/ig-defence-test-fires-jwala-mk-i-counter-drone-micro-missile-system",
+        "title": "IG Defence test-fires counter-drone micro-missile system",
+        "link": "https://yourstory.com/2026/11/ig-defence-test-fires-jwala-mk-i-counter-drone-micro-missile-system",
+        "published": "Mon, 23 Nov 2026 14:16:31 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "The company's indigenously developed micro-missile system JWALA MK-I was successfully tested at Pokhran, Rajasthan."
+    },
+    {
+        "id": "https://inc42.com/buzz/maharashtra-gst-authorities-search-turtlemints-insurance-broking-arm/",
+        "title": "Maharashtra GST Authorities Search Turtlemint\u2019s Insurance Broking Arm",
+        "link": "https://inc42.com/buzz/maharashtra-gst-authorities-search-turtlemints-insurance-broking-arm/",
+        "published": "Tue, 24 Nov 2026 13:25:08 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Maharashtra GST Authorities Search Turtlemint\u2019s Insurance Broking Arm\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Turtlemint_Feature-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Maharashtra GST authorities have initiated inspection, search and seizure proceedings against Turtlemint Insurance Broking Services (TIB), a wholly owned subsidiary&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/gmp-not-indicator-of-expected-returns-sebi-seeks-to-curb-ipo-gmp-circulation/",
+        "title": "GMP Not Indicator Of Expected Returns: SEBI Seeks To Curb IPO GMP Circulation",
+        "link": "https://inc42.com/buzz/gmp-not-indicator-of-expected-returns-sebi-seeks-to-curb-ipo-gmp-circulation/",
+        "published": "Tue, 24 Nov 2026 13:15:41 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"SEBI Curb IPO GMP\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/SEBI-Web-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Markets regulator SEBI has moved to curb the publication and circulation of grey market premium (GMP) figures for upcoming IPOs.&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/galaxeye-awards-bellatrix-propulsion-contract-for-30-satellites/",
+        "title": "GalaxEye Awards Bellatrix Propulsion Contract For 30 Satellites",
+        "link": "https://inc42.com/buzz/galaxeye-awards-bellatrix-propulsion-contract-for-30-satellites/",
+        "published": "Tue, 24 Nov 2026 11:39:51 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"GalaxEye Awards Bellatrix Propulsion Contract For 30 Satellites\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Untitled-Design-4.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Bengaluru-based spacetech startup GalaxEye has awarded Bellatrix Aerospace a multi-year contract to supply propulsion systems for its next 30 Drishti&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/jiostar-to-cut-150-jobs-to-control-costs/",
+        "title": "JioStar To Cut 150 Jobs To Control Costs",
+        "link": "https://inc42.com/buzz/jiostar-to-cut-150-jobs-to-control-costs/",
+        "published": "Tue, 24 Nov 2026 11:07:42 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"JioHotstar Crosses 100 Mn Subscriber Mark\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/03/JioHotstar-100-Mn-featured.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Jio\u2019s media arm, JioStar is reportedly looking to hand out the pink slip to about 150 employees. The job cuts&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+        "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+        "link": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+        "published": "Tue, 24 Nov 2026 10:23:27 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"AidenAI funding\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/AidenAI-Founder-Feature.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Enterprise AI startup AidenAI has raised $32 Mn (\u20b9297.1 Cr) in a Series A funding round led by growth investment&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-nse-bse-algorithmic-trading-tech-savvy-traders-static-ip-address/",
+        "title": "NSE & BSE limit algorithmic trading to \u2018tech-savvy\u2019 traders with static IP address",
+        "link": "https://www.medianama.com/2026/11/223-nse-bse-algorithmic-trading-tech-savvy-traders-static-ip-address/",
+        "published": "Tue, 24 Nov 2026 12:54:10 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>SEBI's definition of a 'tech-savvy' trader, however, seems to be narrow and leaves some concerns unaddressed.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-nse-bse-algorithmic-trading-tech-savvy-traders-static-ip-address/\">NSE &amp; BSE limit algorithmic trading to \u2018tech-savvy\u2019 traders with static IP address\u00a0</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-sarvam-dictation-api-challenges-voice-ai/",
+        "title": "As Sarvam launches a dictation API, here are the key challenges with voice AI",
+        "link": "https://www.medianama.com/2026/11/223-sarvam-dictation-api-challenges-voice-ai/",
+        "published": "Tue, 24 Nov 2026 12:29:48 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Sarvam has launched Dictate, an API that combines speech recognition and transcript editing to enable voice typing in English and 22 Indian languages. It costs Rs 0.50 per minute of audio.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-sarvam-dictation-api-challenges-voice-ai/\">As Sarvam launches a dictation API, here are the key challenges with voice AI</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-sebi-investors-fraud-whatsapp-platforms/",
+        "title": "SEBI warns investors of impersonation fraud on WhatsApp and other closed user groups on SM platforms",
+        "link": "https://www.medianama.com/2026/11/223-sebi-investors-fraud-whatsapp-platforms/",
+        "published": "Tue, 24 Nov 2026 11:36:11 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>SEBI has warned investors against fraudsters impersonating registered intermediaries on WhatsApp and Telegram, using fake trading apps, fraudulent bank accounts and forged SEBI credentials to solicit funds.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-sebi-investors-fraud-whatsapp-platforms/\">SEBI warns investors of impersonation fraud on WhatsApp and other closed user groups on SM platforms</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-akhilesh-yadav-facebook-page-meta-users-answers/",
+        "title": "Akhilesh Yadav\u2019s Facebook page is back but Meta still owes users answers",
+        "link": "https://www.medianama.com/2026/11/223-akhilesh-yadav-facebook-page-meta-users-answers/",
+        "published": "Tue, 24 Nov 2026 11:16:48 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The outage and quick restoration of the account does not establish what happened inside Meta\u2019s mechanism but raises questions about how varied experiences with the platform can be for regular citizens.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-akhilesh-yadav-facebook-page-meta-users-answers/\">Akhilesh Yadav\u2019s Facebook page is back but Meta still owes users answers</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-pronto-acquired-provision-labs/",
+        "title": "Home service provider Pronto to be acquired by physical AI firm Provision Labs",
+        "link": "https://www.medianama.com/2026/11/223-pronto-acquired-provision-labs/",
+        "published": "Tue, 24 Nov 2026 10:45:35 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Provision Labs is moving to acquire Pronto to leverage household data for training physical AI systems, amid government scrutiny of privacy and security risks associated with recording domestic tasks.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-pronto-acquired-provision-labs/\">Home service provider Pronto to be acquired by physical AI firm Provision Labs</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
