@@ -433926,5 +433926,213 @@
         "published": "Mon, 23 Nov 2026 11:10:56 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>On Nov 20, CERT-IN issued an advisory identifying the use of agentic AI to target technology service providers handling govt-linked payments and platforms responsible for vendor and partner payouts</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-cert-in-agentic-ai-financial-cyberattacks-bfsi/\">CERT-In finds use of agentic AI for financial cyberattacks beyond the BFSI sector\u00a0</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+        "title": "Figma employee sues, alleging company forced her to confront harassers",
+        "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+        "published": "Mon, 23 Nov 2026 23:07:49 +0000",
+        "source": "TechCrunch",
+        "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "published": "Mon, 23 Nov 2026 22:05:50 +0000",
+        "source": "TechCrunch",
+        "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "published": "Mon, 23 Nov 2026 22:02:05 +0000",
+        "source": "TechCrunch",
+        "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+    },
+    {
+        "id": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+        "title": "Google alternative Kagi launches an email service",
+        "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+        "published": "2026-11-23T19:02:52-05:00",
+        "source": "The Verge",
+        "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+        "title": "The hacker behind early GTA VI leaks has been sentenced \u2014 and released",
+        "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+        "published": "2026-11-23T18:25:01-05:00",
+        "source": "The Verge",
+        "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game's public release [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+        "title": "Ladybird, the first new browser engine in years, is now available to test",
+        "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+        "published": "2026-11-23T17:38:09-05:00",
+        "source": "The Verge",
+        "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+        "title": "Trump engineered a risky comeback for Jensen Huang",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+        "published": "2026-11-23T17:25:12-05:00",
+        "source": "The Verge",
+        "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+        "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang\u2019s Return",
+        "link": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+        "published": "Tue, 24 Nov 2026 01:35:38 +0000",
+        "source": "WIRED",
+        "summary": "Some saw Huang\u2019s resignation as an opportunity for culture change at the chip giant. \u201cIf Jensen comes back, I\u2019m not doing any HR trainings ever again,\u201d one employee said."
+    },
+    {
+        "id": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+        "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+        "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+        "published": "Mon, 23 Nov 2026 21:58:34 +0000",
+        "source": "Ars Technica",
+        "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday."
+    },
+    {
+        "id": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+        "title": "The three DISM commands you should know to fix your Windows system images",
+        "link": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+        "published": "Tue, 24 Nov 2026 01:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Check and repair damaged system files with these DISM commands."
+    },
+    {
+        "id": "https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides/",
+        "title": "The biggest downsides to using Apple's Magic Mouse",
+        "link": "https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides/",
+        "published": "Tue, 24 Nov 2026 00:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Mac users have their reasons for ditching Apple's Magic Mouse despite its slick touch gestures. Knowing them can help you decide if it suits your desk."
+    },
+    {
+        "id": "https://www.engadget.com/2320294/reasons-android-phone-icons-wont-move-fix/",
+        "title": "Commons reasons your Android phone's icons won't move and how to fix it",
+        "link": "https://www.engadget.com/2320294/reasons-android-phone-icons-wont-move-fix/",
+        "published": "Tue, 24 Nov 2026 00:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "It's most likely your home screen settings."
+    },
+    {
+        "id": "https://www.engadget.com/2320292/what-do-with-old-discontinued-mac-pro/",
+        "title": "What you can do with your old, discontinued Mac Pro",
+        "link": "https://www.engadget.com/2320292/what-do-with-old-discontinued-mac-pro/",
+        "published": "Mon, 23 Nov 2026 23:30:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Apple is discontinuing Mac Pro, but there are several ways you can still get use out of the computer, even without Apple support."
+    },
+    {
+        "id": "https://www.engadget.com/2315527/can-you-fix-a-scratched-cd/",
+        "title": "Can you fix a scratched CD? Here are your options",
+        "link": "https://www.engadget.com/2315527/can-you-fix-a-scratched-cd/",
+        "published": "Mon, 23 Nov 2026 23:00:00 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "It's true: CDs are experiencing a revival. If you've got scratched discs, there are options for fixing them, from DIY methods to seeking professional help."
+    },
+    {
+        "id": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "published": "Mon, 23 Nov 2026 22:32:29 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50620349\">Comments</a>"
+    },
+    {
+        "id": "https://salvageyarddrone.wordpress.com/",
+        "title": "Drone Maps of Salvage Yards",
+        "link": "https://salvageyarddrone.wordpress.com/",
+        "published": "Tue, 24 Nov 2026 04:00:28 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50623515\">Comments</a>"
+    },
+    {
+        "id": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+        "title": "Modernizing iperf/iperf3 and introducing fireperf",
+        "link": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+        "published": "Sun, 22 Nov 2026 22:37:51 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50604710\">Comments</a>"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/tech-bytes/when-elephants-dance-everyone-moves-to-give-space-uday-kotak-on-huangs-reinstatement/articleshow/136119590.cms",
+        "title": "\"When elephants dance, everyone moves to give space\": Uday Kotak on Huang's reinstatement",
+        "link": "https://economictimes.indiatimes.com/tech/tech-bytes/when-elephants-dance-everyone-moves-to-give-space-uday-kotak-on-huangs-reinstatement/articleshow/136119590.cms",
+        "published": "Tue, 24 Nov 2026 10:03:39 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Industrialist Uday Kotak has described Jensen Huang's reinstatement as Nvidia's Chief Executive Officer as one of the most consequential decisions in the history of global markets, saying the move has coincided with the recovery of USD 1 trillion in Nvidia's market capitalisation and USD 4 trillion across the US market."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/questions-linger-after-jensen-huangs-return-to-nvidia/articleshow/136118075.cms",
+        "title": "Questions linger after Jensen Huang's return to Nvidia",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/questions-linger-after-jensen-huangs-return-to-nvidia/articleshow/136118075.cms",
+        "published": "Tue, 24 Nov 2026 08:34:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Jensen Huang's surprise return to Nvidia on Monday appeared to stabilize the US chip giant, along with the broader stock market and AI ecosystem, but questions linger about the longterm impact of his scandal. - Will Huang's return stabilize the market?"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-board-was-no-match-for-trump-or-jensen-huangs-backers/articleshow/136117463.cms",
+        "title": "Nvidia\u2019s board was no match for Trump or Jensen Huang\u2019s backers",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-board-was-no-match-for-trump-or-jensen-huangs-backers/articleshow/136117463.cms",
+        "published": "Tue, 24 Nov 2026 07:46:44 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Trump even dialed into an Nvidia board meeting to argue for Huang\u2019s return, according to Semafor, citing people familiar with the matter whom it didn\u2019t identify. Asked if Huang would have been put back in place without his intervention, Trump told CNBC, \u201cI believe my intervention was very important.\u201d"
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-blacklists-megaspeed-chip-firm-linked-to-nvidia-scandal/articleshow/136117347.cms",
+        "title": "US blacklists Megaspeed chip firm linked to Nvidia scandal",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-blacklists-megaspeed-chip-firm-linked-to-nvidia-scandal/articleshow/136117347.cms",
+        "published": "Tue, 24 Nov 2026 07:31:21 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "The addition of the company follows revelations that Nvidia CEO Jensen Huang had a relationship with Alice Huang, a Chinese businesswoman and Megaspeed's controlling shareholder who is reportedly alleged to be a spy for Beijing."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jensen-huangs-comeback-to-nvidia-underscores-his-outsized-grip-on-ai/articleshow/136117322.cms",
+        "title": "Jensen Huang's comeback to Nvidia underscores his outsized grip on AI",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jensen-huangs-comeback-to-nvidia-underscores-his-outsized-grip-on-ai/articleshow/136117322.cms",
+        "published": "Tue, 24 Nov 2026 07:28:23 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "Clad in his trademark black leather jacket, hand on heart, the 63-year-old CEO smiled at cheering employees who packed an atrium and crowded the balconies above."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/far-eye-helps-reduce-flipkart-logistics-expenses-6-percent",
+        "title": "Far Eye helps reduce Flipkart logistics expenses by 6%",
+        "link": "https://yourstory.com/2026/11/far-eye-helps-reduce-flipkart-logistics-expenses-6-percent",
+        "published": "Mon, 23 Nov 2026 03:43:30 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Far Eye says its logistics platform has helped Flipkart Wholesale cut logistics costs by 6%, reduce vehicle deployment by 8% and lower vehicle idle time by 10% through better routing, dispatch and fleet optimisation across its pan-India operations."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
+        "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
+        "link": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
+        "published": "Mon, 23 Nov 2026 13:16:44 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Early-stage funding led the investment mix. Mumbai overtook Bengaluru to become the city with the largest funding during the period."
+    },
+    {
+        "id": "https://inc42.com/buzz/sarvam-vs-critics-jensen-huang-returns-more/",
+        "title": "Sarvam Vs Critics, Jensen Huang Returns & More",
+        "link": "https://inc42.com/buzz/sarvam-vs-critics-jensen-huang-returns-more/",
+        "published": "Tue, 24 Nov 2026 02:30:05 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Sarvam Vs Critics, Jensen Huang Returns &amp; More\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/FTR-Daily-Brief-50.png\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Sarvam Defends Token Factory Sarvam is standing its ground. Under fire for hosting Chinese AI models on its inference service,&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-maharashtra-fda-influencers-health-supplement/",
+        "title": "Maharashtra FDA warns influencers of Rs 10 lakh fines for misleading health supplement claims",
+        "link": "https://www.medianama.com/2026/11/223-maharashtra-fda-influencers-health-supplement/",
+        "published": "Tue, 24 Nov 2026 03:42:37 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Maharashtra's FDA has warned influencers of fines of up to Rs 10 lakh for misleading health supplement ads. The order also requires gyms, pharmacies and other sellers to obtain food safety licences.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-maharashtra-fda-influencers-health-supplement/\">Maharashtra FDA warns influencers of Rs 10 lakh fines for misleading health supplement claims</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
