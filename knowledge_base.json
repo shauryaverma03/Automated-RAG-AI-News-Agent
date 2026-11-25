@@ -435062,5 +435062,373 @@
         "published": "Wed, 25 Nov 2026 07:11:53 +0000",
         "source": "MEDIANAMA",
         "summary": "<p>This came after failures to serve bailable warrants to Rathee at his Gurugram residence.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-delhi-court-non-bailable-warrant-dhruv-rathee-2018-video/\">Delhi Court issues non-bailable warrant against Dhruv Rathee in 2018 defamation case</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "published": "Wed, 25 Nov 2026 20:03:27 +0000",
+        "source": "TechCrunch",
+        "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+        "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "published": "Wed, 25 Nov 2026 19:54:57 +0000",
+        "source": "TechCrunch",
+        "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+        "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+        "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+        "published": "Wed, 25 Nov 2026 19:54:32 +0000",
+        "source": "TechCrunch",
+        "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+        "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "published": "Wed, 25 Nov 2026 19:44:24 +0000",
+        "source": "TechCrunch",
+        "summary": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+    },
+    {
+        "id": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+        "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+        "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+        "published": "Wed, 25 Nov 2026 18:49:52 +0000",
+        "source": "TechCrunch",
+        "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers."
+    },
+    {
+        "id": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+        "title": "1Password breach leaked customer names and emails, but not passwords",
+        "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+        "published": "2026-11-25T14:10:15-05:00",
+        "source": "The Verge",
+        "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+        "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+        "link": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+        "published": "2026-11-25T13:00:00-05:00",
+        "source": "The Verge",
+        "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it&#8217;s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+        "title": "The loneliest peptide party in New York",
+        "link": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+        "published": "2026-11-25T13:00:00-05:00",
+        "source": "The Verge",
+        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small line out the door. There [&#8230;]"
+    },
+    {
+        "id": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+        "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "published": "2026-11-25T12:44:51-05:00",
+        "source": "The Verge",
+        "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]"
+    },
+    {
+        "id": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+        "title": "The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It",
+        "link": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+        "published": "Wed, 25 Nov 2026 18:38:12 +0000",
+        "source": "WIRED",
+        "summary": "Early results indicate minimal signs of lead in the environment, though it will take days for more rigorous testing."
+    },
+    {
+        "id": "https://www.wired.com/story/best-black-friday-deals-11-25-2026/",
+        "title": "The 30 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+        "link": "https://www.wired.com/story/best-black-friday-deals-11-25-2026/",
+        "published": "Wed, 25 Nov 2026 15:03:16 +0000",
+        "source": "WIRED",
+        "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now."
+    },
+    {
+        "id": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+        "title": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+        "link": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+        "published": "Wed, 25 Nov 2026 12:00:00 +0000",
+        "source": "WIRED",
+        "summary": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn\u2019t expect it to actually catch on."
+    },
+    {
+        "id": "https://www.wired.com/story/best-tvs/",
+        "title": "The Best TVs We\u2019ve Tested (2026): Samsung, LG, TCL, Sony, and More.",
+        "link": "https://www.wired.com/story/best-tvs/",
+        "published": "Wed, 25 Nov 2026 11:30:00 +0000",
+        "source": "WIRED",
+        "summary": "Affordable QLEDs, glorious RGB, premium OLEDs\u2014these are our favorite televisions across every category."
+    },
+    {
+        "id": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+        "title": "Backblaze explains why it's sharing customer information with advertisers",
+        "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+        "published": "Wed, 25 Nov 2026 18:38:29 +0000",
+        "source": "Ars Technica",
+        "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers."
+    },
+    {
+        "id": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+        "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+        "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+        "published": "Wed, 25 Nov 2026 18:22:38 +0000",
+        "source": "Ars Technica",
+        "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold."
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+        "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+        "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+        "published": "Wed, 25 Nov 2026 17:33:30 +0000",
+        "source": "Ars Technica",
+        "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it."
+    },
+    {
+        "id": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+        "title": "Etsy clarifies AI terms after seller backlash",
+        "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+        "published": "Wed, 25 Nov 2026 17:12:57 +0000",
+        "source": "Ars Technica",
+        "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\""
+    },
+    {
+        "id": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+        "title": "Ars Live recap: Don\u2019t expect military attacks on data centers to stop",
+        "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+        "published": "Wed, 25 Nov 2026 16:47:14 +0000",
+        "source": "Ars Technica",
+        "summary": "Militaries have many reasons to target data centers and the cloud in wartime."
+    },
+    {
+        "id": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
+        "title": "NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds",
+        "link": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
+        "published": "Wed, 25 Nov 2026 20:01:08 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The ESA's Hera mission has begun capturing images of the aftermath of DART's impact."
+    },
+    {
+        "id": "https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/",
+        "title": "This $1,900 Alienware Aurora is one of the best early Black Friday PC deals",
+        "link": "https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/",
+        "published": "Wed, 25 Nov 2026 17:54:07 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "If you purchased them separately, just the price of its CPU, GPU and RAM goes for around $1,750."
+    },
+    {
+        "id": "https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages/",
+        "title": "WhatsApp is finally offering scheduled messages",
+        "link": "https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages/",
+        "published": "Wed, 25 Nov 2026 16:54:10 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "You'll be able to schedule a text, photo or video message up to 14 days in advance."
+    },
+    {
+        "id": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
+        "title": "Nothing's Ear (note) is a pair of earbuds with built-in AI notetaking",
+        "link": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
+        "published": "Wed, 25 Nov 2026 16:03:17 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "The company has promised to share more details on December 8."
+    },
+    {
+        "id": "https://www.engadget.com/2327916/five-solar-generators-going-for-deep-discounts-on-black-friday/",
+        "title": "Five solar generators going for deep discounts on Black Friday",
+        "link": "https://www.engadget.com/2327916/five-solar-generators-going-for-deep-discounts-on-black-friday/",
+        "published": "Wed, 25 Nov 2026 14:15:20 +0000",
+        "source": "Engadget - Technology News & Expert Reviews",
+        "summary": "Save 20 to 40 percent on models from Anker, EcoFlow and more."
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+        "title": "How data centers are driving a US natural-gas boom",
+        "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+        "published": "Wed, 25 Nov 2026 17:00:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I\u2019ve lost count of how many times he\u2019s already been proved right. Sure, it\u2019s technically possible to meet the world\u2019s rising electricity demand with other power sources, including renewables like&#8230;"
+    },
+    {
+        "id": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+        "title": "The Download: AI swamping open records, and firefighting for permafrost",
+        "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+        "published": "Wed, 25 Nov 2026 13:10:00 +0000",
+        "source": "MIT Technology Review",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America\u2019s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data&#8230;"
+    },
+    {
+        "id": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "title": "1Password Security Incident",
+        "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "published": "Wed, 25 Nov 2026 17:18:26 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50644817\">Comments</a>"
+    },
+    {
+        "id": "https://scottaaronson.blog/?p=10379",
+        "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+        "link": "https://scottaaronson.blog/?p=10379",
+        "published": "Wed, 25 Nov 2026 19:11:27 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>"
+    },
+    {
+        "id": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+        "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+        "published": "Wed, 25 Nov 2026 15:14:32 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50643129\">Comments</a>"
+    },
+    {
+        "id": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+        "title": "Britain's ghost stations",
+        "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+        "published": "Wed, 25 Nov 2026 17:43:46 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50645074\">Comments</a>"
+    },
+    {
+        "id": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+        "title": "The polynomial Hirsch conjecture is false [pdf]",
+        "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+        "published": "Wed, 25 Nov 2026 17:34:34 +0000",
+        "source": "Hacker News",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=50644980\">Comments</a>"
+    },
+    {
+        "id": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+        "title": "You can turn Claude artifacts into Windows and Mac apps now \u2013 here\u2019s how",
+        "link": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+        "published": "2026-11-25T18:54:05Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Anthropic\u2019s new \u2018install as app\u2019 feature makes it easy to turn your Claude artifacts into desktop apps on your computer \u2013 with some limitations."
+    },
+    {
+        "id": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
+        "title": "Gen Z is the least interested in AI at work \u2013 and it\u2019s not even close",
+        "link": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
+        "published": "2026-11-25T18:07:00Z",
+        "source": "news \u2013 ZDNET",
+        "summary": "Younger workers don\u2019t find AI useful, according to a recent survey."
+    },
+    {
+        "id": "https://economictimes.indiatimes.com/tech/technology/musks-spacex-gets-fcc-nod-for-1-million-satellites-to-power-orbital-data-centres/articleshow/136170225.cms",
+        "title": "Musk's SpaceX gets FCC nod for 1 million satellites to power orbital data centres",
+        "link": "https://economictimes.indiatimes.com/tech/technology/musks-spacex-gets-fcc-nod-for-1-million-satellites-to-power-orbital-data-centres/articleshow/136170225.cms",
+        "published": "Wed, 25 Nov 2026 22:35:58 +0530",
+        "source": "Tech-Economic Times",
+        "summary": "SpaceX earlier this year sought permission to deploy up to 1 million orbital compute modules to process massive amounts of data to be used on Earth. The FCC said it was approving the SpaceX \u201cStarmind\u201d constellation to help meet rapidly growing demand for AI computing."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/priyank-kharge-targets-mangaluru-with-rs-6000-cr-regional-growth-push",
+        "title": "Priyank Kharge targets Mangaluru with Rs 6,000 Cr regional growth push",
+        "link": "https://yourstory.com/2026/11/priyank-kharge-targets-mangaluru-with-rs-6000-cr-regional-growth-push",
+        "published": "Wed, 25 Nov 2026 12:54:24 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Karnataka IT and BT Minister Priyank Kharge is urging investment in Mangaluru, with Dakshina Kannada contributing 5.3% of the state\u2019s GDP. The Beyond Bengaluru strategy aims to unlock the region\u2019s business and talent potential."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/why-you-must-read-jordan-himelfarbs-new-chess-book",
+        "title": "Why you must read Jordan Himelfarb\u2019s New Chess book",
+        "link": "https://yourstory.com/2026/11/why-you-must-read-jordan-himelfarbs-new-chess-book",
+        "published": "Wed, 25 Nov 2026 13:00:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover why Jordan Himelfarb's Interregnum is a compelling read about ambition, rivalry, young chess prodigies and the battle to become world champion."
+    },
+    {
+        "id": "https://yourstory.com/2026/11/7-underrated-non-fiction-books-worth-adding-to-your-reading-list",
+        "title": "7 Underrated non-fiction books worth adding to your reading list",
+        "link": "https://yourstory.com/2026/11/7-underrated-non-fiction-books-worth-adding-to-your-reading-list",
+        "published": "Wed, 25 Nov 2026 11:15:00 GMT",
+        "source": "YourStory RSS Feed",
+        "summary": "Discover seven underrated non-fiction books on psychology, creativity, personal growth and human behaviour that deserve a place on your reading list."
+    },
+    {
+        "id": "https://inc42.com/features/kalyan-krishnamurthy-exit-how-walmarts-kickback-probe-ipo-delay-shook-up-flipkart/",
+        "title": "Kalyan Krishnamurthy\u2019s Exit: How Walmart\u2019s Kickback Probe, IPO Delay Shook Up Flipkart",
+        "link": "https://inc42.com/features/kalyan-krishnamurthy-exit-how-walmarts-kickback-probe-ipo-delay-shook-up-flipkart/",
+        "published": "Wed, 25 Nov 2026 14:48:34 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Kalyan Krishnamurthy&#039;s Exit: How Walmart&#039;s Kickback Probe, IPO Delay Shook Up Flipkart\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Kalyanftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Walmart has asked Flipkart Group CEO Kalyan Krishnamurthy to step down, three sources aware of the development told Inc42 as&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/navi-crosses-5-upi-market-share-as-phonepe-google-pay-slip-in-october/",
+        "title": "Navi Crosses 5% UPI Market Share As PhonePe, Google Pay Slip In October",
+        "link": "https://inc42.com/buzz/navi-crosses-5-upi-market-share-as-phonepe-google-pay-slip-in-october/",
+        "published": "Wed, 25 Nov 2026 14:17:06 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/UPI-monthly-ftr.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Sachin Bansal-led Navi continued to strengthen its position in the UPI ecosystem in October 2026. The fintech platform\u2019s share in&#8230;"
+    },
+    {
+        "id": "https://inc42.com/features/beyond-its-sovereignty-bet-whats-sarvam-really-mining/",
+        "title": "Beyond Its Sovereignty Bet, What\u2019s Sarvam Really Mining?",
+        "link": "https://inc42.com/features/beyond-its-sovereignty-bet-whats-sarvam-really-mining/",
+        "published": "Wed, 25 Nov 2026 14:15:05 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"sarvam ai\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ftr-13.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Last week, Sarvam AI found itself in the eye of a storm. The poster child of India\u2019s sovereign AI ambitions&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/bound-by-local-laws-meta-tells-congress-amid-content-moderation-row/",
+        "title": "Bound By Local Laws: Meta Tells Congress Amid Content Moderation Row",
+        "link": "https://inc42.com/buzz/bound-by-local-laws-meta-tells-congress-amid-content-moderation-row/",
+        "published": "Wed, 25 Nov 2026 14:09:26 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"Bound By Local Laws: Meta Tells Congress Amid Content Moderation Row\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/10/Meta-USIBC-featured.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Amid protests, Meta has reportedly told Congress leaders that it was bound by local laws to take down flagged content&#8230;"
+    },
+    {
+        "id": "https://inc42.com/buzz/what-jensen-huangs-nvidia-return-means-for-indias-ai-players/",
+        "title": "What Jensen Huang\u2019s NVIDIA Return Means For India\u2019s AI Players",
+        "link": "https://inc42.com/buzz/what-jensen-huangs-nvidia-return-means-for-indias-ai-players/",
+        "published": "Wed, 25 Nov 2026 13:47:44 +0000",
+        "source": "Inc42 Media",
+        "summary": "<img alt=\"What Jensen Huang\u2019s NVIDIA Return Means For India\u2019s AI Players\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Artboard-1.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"1360\" />Jensen Huang\u2019s return as NVIDIA CEO has eased concerns over leadership continuity at a key supplier to India\u2019s AI ecosystem.&#8230;"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-meta-congress-youth-wing-online-censorship-campaign/",
+        "title": "Meta officials met Congress amid its Youth wing\u2019s campaign against online censorship",
+        "link": "https://www.medianama.com/2026/11/223-meta-congress-youth-wing-online-censorship-campaign/",
+        "published": "Wed, 25 Nov 2026 14:12:55 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>In the 40-min meeting held at the Congress headquarters, the Meta executives said some removals stemmed from its AI content policy and blamed India's amended IT rules requiring faster proactive takedowns which is sparking free-speech debate as the govt escalates removal demands. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-meta-congress-youth-wing-online-censorship-campaign/\">Meta officials met Congress amid its Youth wing&#8217;s campaign against online censorship</a> appe"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-cert-in-ai-security-auditing-guidelines-dead-arrival/",
+        "title": "Why CERT-In\u2019s AI security auditing guidelines are dead on arrival",
+        "link": "https://www.medianama.com/2026/11/223-cert-in-ai-security-auditing-guidelines-dead-arrival/",
+        "published": "Wed, 25 Nov 2026 13:03:06 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>CERT-In\u2019s AI auditing framework has rules but nothing to back them up, and audit tiers but no penalties carrying legal mandate. It will cost companies nothing to ignore and give government departments something to hide behind.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-cert-in-ai-security-auditing-guidelines-dead-arrival/\">Why CERT-In\u2019s AI security auditing guidelines are dead on arrival</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-telangana-hc-takedown-defamatory-andhra-minister-daughter/",
+        "title": "Telangana HC orders takedown of \u2018defamatory\u2019 posts about ex-Andhra minister\u2019s daughter",
+        "link": "https://www.medianama.com/2026/11/223-telangana-hc-takedown-defamatory-andhra-minister-daughter/",
+        "published": "Wed, 25 Nov 2026 12:16:35 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>The Telangana HC said \"regarding the uploading of defamatory videos or posts\" pertaining to Dr Botcha Anusha, the authorities should \"take necessary steps for removal of such material from their respective online/social media platforms\" according to the IT Rules. </p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-telangana-hc-takedown-defamatory-andhra-minister-daughter/\">Telangana HC orders takedown of \u2018defamatory\u2019 posts about ex-Andhra minister\u2019s daughter</a> appeared first on "
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-phone-number-screen-doxing-kerala-court-order-fir-officer-on-duty/",
+        "title": "Kerala court orders FIR against \u2018Officer on Duty\u2019 makers, Netflix over doxxing claims",
+        "link": "https://www.medianama.com/2026/11/223-phone-number-screen-doxing-kerala-court-order-fir-officer-on-duty/",
+        "published": "Wed, 25 Nov 2026 12:11:57 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>A Kerala court has ordered a police probe after a man alleged his mobile number was shown in \u2018Officer on Duty\u2019, leading to calls and harassment.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-phone-number-screen-doxing-kerala-court-order-fir-officer-on-duty/\">Kerala court orders FIR against \u2018Officer on Duty\u2019 makers, Netflix over doxxing claims</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
+    },
+    {
+        "id": "https://www.medianama.com/2026/11/223-flipkart-kalyan-krishnamurthy-step-down/",
+        "title": "Flipkart CEO Kalyan Krishnamurthy to step down next month",
+        "link": "https://www.medianama.com/2026/11/223-flipkart-kalyan-krishnamurthy-step-down/",
+        "published": "Wed, 25 Nov 2026 12:09:21 +0000",
+        "source": "MEDIANAMA",
+        "summary": "<p>Flipkart CEO Kalyan Krishnamurthy is stepping down after 11 years at the company amid IPO delays, profitability concerns and an investigation into alleged kickbacks. Balaji Thiagarajan will lead in the interim.</p>\n<p>The post <a href=\"https://www.medianama.com/2026/11/223-flipkart-kalyan-krishnamurthy-step-down/\">Flipkart CEO Kalyan Krishnamurthy to step down next month</a> appeared first on <a href=\"https://www.medianama.com\">MEDIANAMA</a>.</p>"
     }
 ]
